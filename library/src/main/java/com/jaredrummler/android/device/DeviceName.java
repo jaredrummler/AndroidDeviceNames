@@ -39,20 +39,20 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * On many Android devices, the best way to display the device name to the user is by getting the
+ * <p>On many Android devices, the best way to display the device name to the user is by getting the
  * value of {@link android.os.Build#MODEL}. Unfortunately, on many popular devices, this value is
  * not consumer friendly. For example, on the Samsung Galaxy S6 the value of {@link Build#MODEL}
- * could be "SM-G920F", "SM-G920I", "SM-G920W8", etc.
- * <p/>
- * To get the market (consumer friendly) name of a device you can use one (or both) of the
- * following examples:
- * <p/>
+ * could be "SM-G920F", "SM-G920I", "SM-G920W8", etc.</p>
+ *
+ * <p>To get the market (consumer friendly) name of a device you can use one (or both) of the
+ * following examples:</p>
+ *
  * <b>Example 1:</b>
- * <br/>
- * {@code String deviceName = DeviceName.getDeviceName();}
- * <p/>
+ *
+ * <br>
+ * <p>{@code String deviceName = DeviceName.getDeviceName();}</p>
  * <b>Example 2:</b>
- * <br/>
+ * <br>
  * <pre>
  * <code>
  *   DeviceName.with(context).request(new DeviceName.Callback() {
@@ -68,15 +68,17 @@ import java.net.URL;
  *   });
  * </code>
  * </pre>
- * <p/>
- * <b>Example 1</b> contains over 600 popular Android devices and can be run on the UI thread. If
+ * <p>
+ * <b>Example 1:</b> contains over 600 popular Android devices and can be run on the UI thread. If
  * the current device is not in the list then {@link Build#MODEL} will be returned as a fallback.
- * <p/>
- * <b>Example 2</b> loads JSON from a generated list of device names based on Google's maintained
+ * </p>
+ * <p>
+ * <b>Example 2:</b> loads JSON from a generated list of device names based on Google's maintained
  * list and contains around 10,000 devices. This needs a network connection and is run in a
  * background thread.
+ * </p>
  *
- * @author Jared Rummler <jared.rummler@gmail.com>
+ * @author Jared Rummler
  */
 public class DeviceName {
 
@@ -841,9 +843,10 @@ public class DeviceName {
   }
 
   /**
+   * <p>
    * Capitalizes getAllProcesses the whitespace separated words in a String. Only the first letter
    * of each word is changed.
-   * <p/>
+   * </p>
    * Whitespace is defined by {@link Character#isWhitespace(char)}.
    *
    * @param str
@@ -996,7 +999,7 @@ public class DeviceName {
      *
      * @param model
      *     the value of the system property "ro.product.model"
-     * @return
+     * @return This Request object to allow for chaining of calls to set methods.
      * @see Build#MODEL
      */
     public Request setModel(String model) {
