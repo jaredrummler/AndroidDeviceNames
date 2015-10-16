@@ -87,7 +87,7 @@ public class DeviceName {
   // To get the URL to the JSON file which contains information about the device name:
   // String url = String.format(DEVICE_JSON_URL, Build.DEVICE);
   private static final String DEVICE_JSON_URL =
-      "https://raw.githubusercontent.com/jaredrummler/android-devices/master/json/devices/%s.json";
+      "https://raw.githubusercontent.com/jaredrummler/AndroidDeviceNames/master/json/codenames/%s.json";
 
   // Preference filename for storing device info so we don't need to download it again.
   private static final String SHARED_PREF_NAME = "device_names";
