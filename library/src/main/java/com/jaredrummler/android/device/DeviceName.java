@@ -39,10 +39,10 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * <p>On many Android devices, the best way to display the device name to the user is by getting
- * the
- * value of {@link android.os.Build#MODEL}. Unfortunately, on many popular devices, this value is
- * not consumer friendly. For example, on the Samsung Galaxy S6 the value of {@link Build#MODEL}
+ * <p>Get the consumer friendly name of an Android device.</p>
+ *
+ * <p>Unfortunately, on many popular devices, it is not easy to get the market name of the
+ * device. For example, on the Samsung Galaxy S6 the value of {@link Build#MODEL}
  * could be "SM-G920F", "SM-G920I", "SM-G920W8", etc.</p>
  *
  * <p>To get the market (consumer friendly) name of a device you can use one (or both) of the
@@ -57,8 +57,8 @@ import java.net.URL;
  * <pre>
  * <code>
  *   DeviceName.with(context).request(new DeviceName.Callback() {
- *       {@literal @}Override
- *       public void onFinished(DeviceName.DeviceInfo info, Exception error) {
+ *
+ *       {@literal @}Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
  *           String deviceName;
  *           if (error != null) {
  *               deviceName = info.getName();
@@ -69,15 +69,14 @@ import java.net.URL;
  *   });
  * </code>
  * </pre>
- * <p>
- * <b>Example 1:</b> contains over 600 popular Android devices and can be run on the UI thread. If
- * the current device is not in the list then {@link Build#MODEL} will be returned as a fallback.
- * </p>
- * <p>
- * <b>Example 2:</b> loads JSON from a generated list of device names based on Google's maintained
- * list and contains around 10,000 devices. This needs a network connection and is run in a
- * background thread.
- * </p>
+ *
+ * <p><b>Example 1:</b> contains over 600 popular Android devices and can be run on the UI thread.
+ * If the current device is not in the list then {@link Build#MODEL} will be returned as a
+ * fallback.</p>
+ *
+ * <p><b>Example 2:</b> loads JSON from a generated list of device names based on Google's
+ * maintained list and contains around 10,000 devices. This needs a network connection and is run
+ * in a background thread.</p>
  *
  * @author Jared Rummler
  */
@@ -879,10 +878,9 @@ public class DeviceName {
   }
 
   /**
-   * <p>
-   * Capitalizes getAllProcesses the whitespace separated words in a String. Only the first letter
-   * of each word is changed.
-   * </p>
+   * <p>Capitalizes getAllProcesses the whitespace separated words in a String. Only the first
+   * letter of each word is changed.</p>
+   *
    * Whitespace is defined by {@link Character#isWhitespace(char)}.
    *
    * @param str
@@ -1074,8 +1072,7 @@ public class DeviceName {
           }
           handler.post(new Runnable() {
 
-            @Override
-            public void run() {
+            @Override public void run() {
               callback.onFinished(deviceInfo, error);
             }
           });
