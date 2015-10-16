@@ -39,7 +39,8 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * <p>On many Android devices, the best way to display the device name to the user is by getting the
+ * <p>On many Android devices, the best way to display the device name to the user is by getting
+ * the
  * value of {@link android.os.Build#MODEL}. Unfortunately, on many popular devices, this value is
  * not consumer friendly. For example, on the Samsung Galaxy S6 the value of {@link Build#MODEL}
  * could be "SM-G920F", "SM-G920I", "SM-G920W8", etc.</p>
@@ -391,6 +392,7 @@ public class DeviceName {
         return "Galaxy Note5";
       case "kyletdcmcc":
       case "kylechn":
+      case "kyleichn":
       case "kyleopen":
         return "Galaxy S Duos";
       case "kyleprods":
@@ -574,6 +576,19 @@ public class DeviceName {
       case "SGH-T869":
       case "SHW-M430W":
         return "Galaxy Tab 7.0 Plus";
+      case "degaswifiue":
+      case "403SC":
+      case "degasltespr":
+      case "degasveltechn":
+      case "degaswifiopenbnn":
+      case "degasvelte":
+      case "degaswifibmwzc":
+      case "degaswifidtv":
+      case "degasltevzw":
+      case "degaswifi":
+      case "degas3g":
+      case "degaslte":
+        return "Galaxy Tab4 7.0";
       case "GT-S5368":
       case "SCH-i509":
       case "GT-S5360T":
@@ -611,6 +626,11 @@ public class DeviceName {
       case "villec2":
       case "ville":
         return "HTC One S";
+      case "hwH30-T10":
+      case "hwH30-U10":
+      case "hwhn3-u00":
+      case "hwhn3-u01":
+        return "Honor3";
       case "acer_harleyfhd":
       case "acer_harley":
         return "Iconia Tab 10";
@@ -631,6 +651,10 @@ public class DeviceName {
         return "LG G3";
       case "p1":
         return "LG G4";
+      case "c50ds":
+      case "c50n":
+      case "c50":
+        return "LG Leon 4G LTE";
       case "cosmopolitan":
         return "LG Optimus 3D";
       case "geehdc":
@@ -656,16 +680,11 @@ public class DeviceName {
         return "Liquid S3";
       case "acer_ZXL":
         return "Liquid Z5";
-      case "K013":
-      case "K01A":
-      case "K017":
-      case "K013C":
-      case "K013_1":
-        return "MeMO Pad 7";
       case "surnia_uds":
       case "condor_cdma":
       case "condor_umts":
       case "condor_umtsds":
+      case "condor_udstv":
       case "otus":
       case "otus_ds":
       case "surnia_cdma":
@@ -673,16 +692,33 @@ public class DeviceName {
       case "surnia_udstv":
         return "MOTO E";
       case "osprey_udstv":
+      case "osprey_umts":
       case "thea_umtsds":
       case "falcon_umts":
       case "thea":
       case "titan_umtsds":
       case "peregrine":
+      case "osprey_cdma":
+      case "titan_udstv":
       case "titan_umts":
+      case "osprey_uds":
+      case "osprey_ud2":
+      case "falcon_umtsds":
+      case "thea_ds":
+      case "falcon_cdma":
+      case "osprey_u2":
         return "MOTO G";
       case "ghost":
       case "victara":
         return "MOTO X";
+      case "K013":
+      case "K01A":
+      case "K017":
+      case "K013C":
+      case "K01U_2":
+      case "K01U_1":
+      case "K013_1":
+        return "MeMO Pad 7";
       case "clark":
         return "Moto X Style";
       case "manta":
