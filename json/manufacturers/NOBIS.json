@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Nobis",
+  "devices": [
+    {
+      "market_name": "NB07",
+      "codename": "NB07",
+      "model": "NB07"
+    },
+    {
+      "market_name": "NB1022",
+      "codename": "RCT6203W46",
+      "model": "NB1022"
+    },
+    {
+      "market_name": "NB7022S",
+      "codename": "NB7022S",
+      "model": "NB7022S"
+    },
+    {
+      "market_name": "NB7850S",
+      "codename": "NB7850S",
+      "model": "NB7850S"
+    },
+    {
+      "market_name": "Nobis NB09",
+      "codename": "M9025",
+      "model": "NB09"
+    }
+  ]
+}

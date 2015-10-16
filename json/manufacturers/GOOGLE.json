@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Google",
+  "devices": [
+    {
+      "market_name": "Galaxy S4 Google Play edition",
+      "codename": "jgedlte",
+      "model": "GT-I9505G"
+    },
+    {
+      "market_name": "Project Tango Tablet Development Kit",
+      "codename": "yellowstone",
+      "model": "Project Tango Tablet Development Kit"
+    },
+    {
+      "market_name": "Project Tango Tablet Development Kit",
+      "codename": "yellowstone",
+      "model": "Yellowstone"
+    }
+  ]
+}

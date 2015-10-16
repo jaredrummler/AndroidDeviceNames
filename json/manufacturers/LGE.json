@@ -1,0 +1,4105 @@
+{
+  "manufacturer": "LGE",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "AS855",
+      "model": "LG-AS855"
+    },
+    {
+      "market_name": "",
+      "codename": "LGP970",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "US855",
+      "model": "USCC-US855"
+    },
+    {
+      "market_name": "",
+      "codename": "alessi",
+      "model": "LG-E720"
+    },
+    {
+      "market_name": "",
+      "codename": "alessi",
+      "model": "LG-E720b"
+    },
+    {
+      "market_name": "",
+      "codename": "alohag_302-220",
+      "model": "LG-C710h"
+    },
+    {
+      "market_name": "",
+      "codename": "black",
+      "model": "LG-KU5900"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_214-07",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_222-88",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_226-10",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_228-03",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_231-01",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_232-05",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_234-33",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_260-03",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_454-xxx",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_530-XXX",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_BAL-xxx",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_OPEN-CN",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "bproj_VDF-XXX",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_268-06",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_302-720",
+      "model": "LG-P925g"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_454-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_466-92",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_505-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_515-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_525-01",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_525-05",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_724-02",
+      "model": "LG-P920h"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_724-05",
+      "model": "LG-P920h"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_724-xxx",
+      "model": "LG-P920h"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_BAL-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_CIS-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_ESA-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_H3G-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_MOR-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_OPEN-CN",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_OPT-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_TMO-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_VDF-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_tcl-mx",
+      "model": "LG-P920h"
+    },
+    {
+      "market_name": "",
+      "codename": "cosmo_viv-br",
+      "model": "LG-P920h"
+    },
+    {
+      "market_name": "",
+      "codename": "e510_724-XX",
+      "model": "LG-E510f"
+    },
+    {
+      "market_name": "",
+      "codename": "envt2",
+      "model": "USCC-US760"
+    },
+    {
+      "market_name": "",
+      "codename": "envt2",
+      "model": "VS761"
+    },
+    {
+      "market_name": "",
+      "codename": "envt2",
+      "model": "enV Pro"
+    },
+    {
+      "market_name": "",
+      "codename": "envt2",
+      "model": "enV Touch2"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_262-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_425-02",
+      "model": "LG-P690f"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_460-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_460-xx",
+      "model": "LG-P693"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_are-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_bal-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_hkg-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_mor-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_nfc_234-10",
+      "model": "LG-P692"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_nfc_530-24",
+      "model": "LG-P692"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_nfc_tim-it",
+      "model": "LG-P692"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_ngr-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_sgp-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_tmb-sk",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_tur-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "",
+      "codename": "gelato_win-it",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "",
+      "codename": "gelatods_bal-xxx",
+      "model": "LG-P698"
+    },
+    {
+      "market_name": "",
+      "codename": "gelatods_ngr-xxx",
+      "model": "LG-P698"
+    },
+    {
+      "market_name": "",
+      "codename": "gelatods_open-xx",
+      "model": "LG-P698"
+    },
+    {
+      "market_name": "",
+      "codename": "gelatods_tha-xxx",
+      "model": "LG-P698f"
+    },
+    {
+      "market_name": "",
+      "codename": "hub",
+      "model": "LG-LU3000"
+    },
+    {
+      "market_name": "",
+      "codename": "ku9500",
+      "model": "KU9500"
+    },
+    {
+      "market_name": "",
+      "codename": "l1e",
+      "model": "LG-P875"
+    },
+    {
+      "market_name": "",
+      "codename": "l95g",
+      "model": "LG-L95G"
+    },
+    {
+      "market_name": "",
+      "codename": "ls700",
+      "model": "LG-LS700"
+    },
+    {
+      "market_name": "",
+      "codename": "lu2300",
+      "model": "LU2300"
+    },
+    {
+      "market_name": "",
+      "codename": "lu3100",
+      "model": "LG-LU3100"
+    },
+    {
+      "market_name": "",
+      "codename": "msm8660_surf",
+      "model": "LG-LU6200"
+    },
+    {
+      "market_name": "",
+      "codename": "p2",
+      "model": "LG-P940h"
+    },
+    {
+      "market_name": "",
+      "codename": "p925g",
+      "model": "LG-P925g"
+    },
+    {
+      "market_name": "",
+      "codename": "p940",
+      "model": "LG-P940"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_208-10",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_214-01",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_219-10",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_226-01",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_228-01",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_234-xx",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_262-02",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_454-xxx",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_466-92",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_466-xxx",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_505-xxx",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_525-01",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_525-05",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_BAL-xxx",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990_esa-xxx",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "",
+      "codename": "p990h",
+      "model": "LG-P990h"
+    },
+    {
+      "market_name": "",
+      "codename": "p990h_334-020",
+      "model": "LG-P990h"
+    },
+    {
+      "market_name": "",
+      "codename": "p990h_716-10",
+      "model": "LG-P990h"
+    },
+    {
+      "market_name": "",
+      "codename": "p990h_722-34",
+      "model": "LG-P990h"
+    },
+    {
+      "market_name": "",
+      "codename": "p990h_724-05",
+      "model": "LG-P990h"
+    },
+    {
+      "market_name": "",
+      "codename": "p990h_730-01",
+      "model": "LG-P990h"
+    },
+    {
+      "market_name": "",
+      "codename": "p990h_730-03",
+      "model": "LG-P990h"
+    },
+    {
+      "market_name": "",
+      "codename": "p990h_CTM-xxx",
+      "model": "LG-P990h"
+    },
+    {
+      "market_name": "",
+      "codename": "p990h_SSV-xxx",
+      "model": "LG-P990h"
+    },
+    {
+      "market_name": "",
+      "codename": "p993",
+      "model": "LG-P993"
+    },
+    {
+      "market_name": "",
+      "codename": "star",
+      "model": "LG-P990hN"
+    },
+    {
+      "market_name": "",
+      "codename": "univa_228-01",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "",
+      "codename": "univa_454-xx",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "",
+      "codename": "univa_525-01",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "",
+      "codename": "univa_525-05",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "",
+      "codename": "univa_722-34",
+      "model": "LG-E510g"
+    },
+    {
+      "market_name": "",
+      "codename": "univa_bal-xxx",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "",
+      "codename": "univa_neu-xx",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "",
+      "codename": "univa_open_cn",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "",
+      "codename": "univa_tha-xx",
+      "model": "LG-E510f"
+    },
+    {
+      "market_name": "",
+      "codename": "univa_tmo-gr",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "",
+      "codename": "univa_vdf-es",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "",
+      "codename": "v900aus",
+      "model": "LG-V900"
+    },
+    {
+      "market_name": "",
+      "codename": "v901twn",
+      "model": "LG-V901"
+    },
+    {
+      "market_name": "",
+      "codename": "x2_450-08",
+      "model": "LG-KU8800"
+    },
+    {
+      "market_name": "",
+      "codename": "x3",
+      "model": "LG-P880"
+    },
+    {
+      "market_name": "070 touch",
+      "codename": "w3voip",
+      "model": "LG-FL40L"
+    },
+    {
+      "market_name": "AKA",
+      "codename": "aka",
+      "model": "LG-F520L"
+    },
+    {
+      "market_name": "AKA",
+      "codename": "aka",
+      "model": "LG-F520S"
+    },
+    {
+      "market_name": "AKA",
+      "codename": "aka",
+      "model": "LG-H788"
+    },
+    {
+      "market_name": "Ally",
+      "codename": "aloha",
+      "model": "AS740"
+    },
+    {
+      "market_name": "Ally",
+      "codename": "aloha",
+      "model": "Ally"
+    },
+    {
+      "market_name": "Ally",
+      "codename": "aloha",
+      "model": "Aloha"
+    },
+    {
+      "market_name": "Ally",
+      "codename": "aloha",
+      "model": "US740"
+    },
+    {
+      "market_name": "Android TV",
+      "codename": "cosmo",
+      "model": "LG Google TV"
+    },
+    {
+      "market_name": "Android TV",
+      "codename": "eden",
+      "model": "LG Android TV V4"
+    },
+    {
+      "market_name": "Android TV",
+      "codename": "eden",
+      "model": "LG Google TV G3 KR"
+    },
+    {
+      "market_name": "Android TV G3",
+      "codename": "eden",
+      "model": "LG Google TV G3"
+    },
+    {
+      "market_name": "DM-01G",
+      "codename": "DM-01G",
+      "model": "DM-01G"
+    },
+    {
+      "market_name": "Enact",
+      "codename": "fx3q",
+      "model": "VS890 4G"
+    },
+    {
+      "market_name": "Escape",
+      "codename": "l1a",
+      "model": "LG-P870"
+    },
+    {
+      "market_name": "Eve",
+      "codename": "EVE",
+      "model": "GW620"
+    },
+    {
+      "market_name": "Eve",
+      "codename": "EVE",
+      "model": "LG GW620"
+    },
+    {
+      "market_name": "Eve",
+      "codename": "EVE",
+      "model": "LG GW620F"
+    },
+    {
+      "market_name": "Eve",
+      "codename": "EVE",
+      "model": "LG GW620R"
+    },
+    {
+      "market_name": "Eve",
+      "codename": "EVE",
+      "model": "LG GW620g"
+    },
+    {
+      "market_name": "Eve",
+      "codename": "EVE",
+      "model": "LG KH5200"
+    },
+    {
+      "market_name": "Eve",
+      "codename": "EVE",
+      "model": "LG-GW620"
+    },
+    {
+      "market_name": "Eve",
+      "codename": "EVE",
+      "model": "LG-KH5200"
+    },
+    {
+      "market_name": "F60",
+      "codename": "e2",
+      "model": "LG-D390"
+    },
+    {
+      "market_name": "F60",
+      "codename": "e2",
+      "model": "LG-D390AR"
+    },
+    {
+      "market_name": "F60",
+      "codename": "e2ds",
+      "model": "LG-D392"
+    },
+    {
+      "market_name": "F60",
+      "codename": "e2n",
+      "model": "LG-D390n"
+    },
+    {
+      "market_name": "F60",
+      "codename": "e2nac",
+      "model": "LG-D393"
+    },
+    {
+      "market_name": "F60",
+      "codename": "e2nam",
+      "model": "LGMS395"
+    },
+    {
+      "market_name": "F60",
+      "codename": "e2nas",
+      "model": "LGLS660"
+    },
+    {
+      "market_name": "F60",
+      "codename": "e2nav",
+      "model": "VS810PP"
+    },
+    {
+      "market_name": "G Pad 10.1",
+      "codename": "e9wifi",
+      "model": "LG-V700"
+    },
+    {
+      "market_name": "G Pad 10.1",
+      "codename": "e9wifin",
+      "model": "LG-V700n"
+    },
+    {
+      "market_name": "G Pad 10.1 LTE",
+      "codename": "e9lte",
+      "model": "LG-VK700"
+    },
+    {
+      "market_name": "G Pad 10.1 LTE",
+      "codename": "e9lte",
+      "model": "VK700"
+    },
+    {
+      "market_name": "G Pad 7.0",
+      "codename": "e7wifi",
+      "model": "LG-V400"
+    },
+    {
+      "market_name": "G Pad 7.0",
+      "codename": "e7wifi",
+      "model": "LG-V400S1"
+    },
+    {
+      "market_name": "G Pad 7.0",
+      "codename": "e7wifi",
+      "model": "LG-V400Y1"
+    },
+    {
+      "market_name": "G Pad 7.0 LTE",
+      "codename": "e7lte",
+      "model": "LG-V410"
+    },
+    {
+      "market_name": "G Pad 7.0 LTE",
+      "codename": "e7lte",
+      "model": "LGUK410"
+    },
+    {
+      "market_name": "G Pad 8.0",
+      "codename": "e8wifi",
+      "model": "LG-V480"
+    },
+    {
+      "market_name": "G Pro Lite",
+      "codename": "luv90ds",
+      "model": "LG-D685"
+    },
+    {
+      "market_name": "G Pro Lite",
+      "codename": "luv90ds",
+      "model": "LG-D686"
+    },
+    {
+      "market_name": "G Pro Lite",
+      "codename": "luv90nfc",
+      "model": "LG-D683"
+    },
+    {
+      "market_name": "G Pro Lite",
+      "codename": "luv90nfc",
+      "model": "LG-D684"
+    },
+    {
+      "market_name": "G Pro Lite",
+      "codename": "luv90ss",
+      "model": "LG-D680"
+    },
+    {
+      "market_name": "G Pro Lite",
+      "codename": "luv90ss",
+      "model": "LG-D681"
+    },
+    {
+      "market_name": "G Pro Lite",
+      "codename": "luv90ss",
+      "model": "LG-D682"
+    },
+    {
+      "market_name": "G Pro Lite",
+      "codename": "luv90ss",
+      "model": "LG-D682TR"
+    },
+    {
+      "market_name": "G Pro2",
+      "codename": "b1",
+      "model": "LG-F350K"
+    },
+    {
+      "market_name": "G Pro2",
+      "codename": "b1",
+      "model": "LG-F350L"
+    },
+    {
+      "market_name": "G Pro2",
+      "codename": "b1",
+      "model": "LG-F350S"
+    },
+    {
+      "market_name": "G Pro2",
+      "codename": "b1w",
+      "model": "LG-D838"
+    },
+    {
+      "market_name": "G Stylo",
+      "codename": "g4stylusw",
+      "model": "LG-F560K"
+    },
+    {
+      "market_name": "G Vista",
+      "codename": "b2lds",
+      "model": "LG-D690"
+    },
+    {
+      "market_name": "G Vista",
+      "codename": "x10",
+      "model": "VS880"
+    },
+    {
+      "market_name": "G Watch",
+      "codename": "dory",
+      "model": "G Watch"
+    },
+    {
+      "market_name": "G Watch R",
+      "codename": "lenok",
+      "model": "G Watch R"
+    },
+    {
+      "market_name": "G pad 8.0",
+      "codename": "e8wifi",
+      "model": "LG-V480"
+    },
+    {
+      "market_name": "G pad 8.0 LTE",
+      "codename": "e8lte",
+      "model": "LG-V490"
+    },
+    {
+      "market_name": "G2 MINI",
+      "codename": "g2m",
+      "model": "LG-D620"
+    },
+    {
+      "market_name": "G2 MINI",
+      "codename": "g2mds",
+      "model": "LG-D618"
+    },
+    {
+      "market_name": "G2 MINI",
+      "codename": "g2mss",
+      "model": "LG-D610"
+    },
+    {
+      "market_name": "G2 MINI",
+      "codename": "g2mss",
+      "model": "LG-D610AR"
+    },
+    {
+      "market_name": "G2 MINI",
+      "codename": "g2mss",
+      "model": "LG-D610TR"
+    },
+    {
+      "market_name": "G2 MINI",
+      "codename": "g2mv",
+      "model": "LG-D625"
+    },
+    {
+      "market_name": "G2 mini 4G LTE",
+      "codename": "g2mv",
+      "model": "LG-D625"
+    },
+    {
+      "market_name": "G3 Beat",
+      "codename": "jagdsnm",
+      "model": "LG-D726"
+    },
+    {
+      "market_name": "G3 Beat",
+      "codename": "jagdsnm",
+      "model": "LG-D728"
+    },
+    {
+      "market_name": "G3 Beat",
+      "codename": "jagdsnm",
+      "model": "LG-D729"
+    },
+    {
+      "market_name": "G3 Beat",
+      "codename": "jagn",
+      "model": "LG-F470K"
+    },
+    {
+      "market_name": "G3 Beat",
+      "codename": "jagn",
+      "model": "LG-F470L"
+    },
+    {
+      "market_name": "G3 Beat",
+      "codename": "jagn",
+      "model": "LG-F470S"
+    },
+    {
+      "market_name": "G3 Beat",
+      "codename": "jagnm",
+      "model": "LG-D722J"
+    },
+    {
+      "market_name": "G3 Beat",
+      "codename": "jagnm",
+      "model": "LG-D727"
+    },
+    {
+      "market_name": "G3 S",
+      "codename": "jag3gds",
+      "model": "LG-D724"
+    },
+    {
+      "market_name": "G3 S",
+      "codename": "jag3gss",
+      "model": "LG-D723"
+    },
+    {
+      "market_name": "G3 S",
+      "codename": "jagnm",
+      "model": "LG-D722"
+    },
+    {
+      "market_name": "G3 S",
+      "codename": "jagnm",
+      "model": "LG-D722AR"
+    },
+    {
+      "market_name": "G3 S",
+      "codename": "jagnm",
+      "model": "LG-D725PR"
+    },
+    {
+      "market_name": "G3 Screen",
+      "codename": "liger",
+      "model": "LG-F490L"
+    },
+    {
+      "market_name": "G3 Stylus",
+      "codename": "b2ldsn",
+      "model": "LG-D690n"
+    },
+    {
+      "market_name": "G3 Stylus",
+      "codename": "b2lss",
+      "model": "LG-D693"
+    },
+    {
+      "market_name": "G3 Stylus",
+      "codename": "b2lss",
+      "model": "LG-D693AR"
+    },
+    {
+      "market_name": "G3 Stylus",
+      "codename": "b2lss",
+      "model": "LG-D693TR"
+    },
+    {
+      "market_name": "G3 Stylus",
+      "codename": "b2lssn",
+      "model": "LG-D693n"
+    },
+    {
+      "market_name": "G3 Vigor",
+      "codename": "jagc",
+      "model": "LGLS885"
+    },
+    {
+      "market_name": "G3 Vigor",
+      "codename": "jagnm",
+      "model": "LG-D725"
+    },
+    {
+      "market_name": "G4 Beat",
+      "codename": "p1bssn",
+      "model": "LG-H735"
+    },
+    {
+      "market_name": "G4 vigor",
+      "codename": "p1bssn",
+      "model": "LG-H731"
+    },
+    {
+      "market_name": "GA7800",
+      "codename": "eden",
+      "model": "LG Android TV V4"
+    },
+    {
+      "market_name": "GPAD 7.0 LTE",
+      "codename": "e7lte",
+      "model": "VK410"
+    },
+    {
+      "market_name": "Gentle",
+      "codename": "cf",
+      "model": "LG-F580L"
+    },
+    {
+      "market_name": "Gpad 7.0",
+      "codename": "e7wifi",
+      "model": "LG-V400"
+    },
+    {
+      "market_name": "Gx2",
+      "codename": "b2ln",
+      "model": "LG-F430L"
+    },
+    {
+      "market_name": "Ice cream Smart",
+      "codename": "vfpv",
+      "model": "LG-F440L"
+    },
+    {
+      "market_name": "Intuition",
+      "codename": "batman_vzw",
+      "model": "VS950 4G"
+    },
+    {
+      "market_name": "L Bello",
+      "codename": "luv80ds",
+      "model": "LG-D335"
+    },
+    {
+      "market_name": "L Bello",
+      "codename": "luv80ds",
+      "model": "LG-D335E"
+    },
+    {
+      "market_name": "L Bello",
+      "codename": "luv80ds",
+      "model": "LG-D337"
+    },
+    {
+      "market_name": "L Fino",
+      "codename": "l70p",
+      "model": "LG-D290"
+    },
+    {
+      "market_name": "L Fino",
+      "codename": "l70p",
+      "model": "LG-D290AR"
+    },
+    {
+      "market_name": "L Fino",
+      "codename": "l70pds",
+      "model": "LG-D295"
+    },
+    {
+      "market_name": "L Fino",
+      "codename": "l70pn",
+      "model": "LG-D290"
+    },
+    {
+      "market_name": "L-01F",
+      "codename": "g2",
+      "model": "L-01F"
+    },
+    {
+      "market_name": "L20",
+      "codename": "luv20ds",
+      "model": "LG-D105"
+    },
+    {
+      "market_name": "L20",
+      "codename": "luv20ss",
+      "model": "LG-D100"
+    },
+    {
+      "market_name": "L20",
+      "codename": "luv20ss",
+      "model": "LG-D100AR"
+    },
+    {
+      "market_name": "L20",
+      "codename": "luv20ts",
+      "model": "LG-D107"
+    },
+    {
+      "market_name": "L30 Sporty",
+      "codename": "luv30ds",
+      "model": "LG-D125"
+    },
+    {
+      "market_name": "L30 Sporty",
+      "codename": "luv30ss",
+      "model": "LG-D120"
+    },
+    {
+      "market_name": "L30 Sporty",
+      "codename": "luv30ss",
+      "model": "LG-D120AR"
+    },
+    {
+      "market_name": "L45",
+      "codename": "lo_2",
+      "model": "LG-X130g"
+    },
+    {
+      "market_name": "L45",
+      "codename": "lo_2_ds",
+      "model": "LG-X132"
+    },
+    {
+      "market_name": "L50 Sporty",
+      "codename": "luv50ds",
+      "model": "LG-D221"
+    },
+    {
+      "market_name": "L50 Sporty",
+      "codename": "luv50ds",
+      "model": "LG-D227"
+    },
+    {
+      "market_name": "L50 Sporty",
+      "codename": "luv50ss",
+      "model": "LG-D213"
+    },
+    {
+      "market_name": "L50 Sporty",
+      "codename": "luv50ss",
+      "model": "LG-D213AR"
+    },
+    {
+      "market_name": "L50 Sporty",
+      "codename": "luv50ssn",
+      "model": "LG-D213"
+    },
+    {
+      "market_name": "L60",
+      "codename": "lo_1",
+      "model": "LG-X135"
+    },
+    {
+      "market_name": "L60",
+      "codename": "lo_1",
+      "model": "LG-X137"
+    },
+    {
+      "market_name": "L60",
+      "codename": "lo_1",
+      "model": "LG-X140"
+    },
+    {
+      "market_name": "L60",
+      "codename": "lo_1",
+      "model": "LG-X145"
+    },
+    {
+      "market_name": "L60",
+      "codename": "lo_1",
+      "model": "LG-X147"
+    },
+    {
+      "market_name": "L65",
+      "codename": "w55",
+      "model": "LG-D280"
+    },
+    {
+      "market_name": "L65",
+      "codename": "w55ds",
+      "model": "LG-D285"
+    },
+    {
+      "market_name": "L65",
+      "codename": "w55n",
+      "model": "LG-D280"
+    },
+    {
+      "market_name": "L7 II",
+      "codename": "vee7e",
+      "model": "LG-P712"
+    },
+    {
+      "market_name": "L7 II",
+      "codename": "vee7e",
+      "model": "LG-P714"
+    },
+    {
+      "market_name": "L7 II Dual",
+      "codename": "vee7ds",
+      "model": "LG-P716"
+    },
+    {
+      "market_name": "L70",
+      "codename": "w5",
+      "model": "LG-D320"
+    },
+    {
+      "market_name": "L70",
+      "codename": "w5",
+      "model": "LG-D320AR"
+    },
+    {
+      "market_name": "L70",
+      "codename": "w5",
+      "model": "LGAS323"
+    },
+    {
+      "market_name": "L70",
+      "codename": "w5c",
+      "model": "LGLS620"
+    },
+    {
+      "market_name": "L70",
+      "codename": "w5ds",
+      "model": "LG-D325"
+    },
+    {
+      "market_name": "L70",
+      "codename": "w5n",
+      "model": "LG-D320"
+    },
+    {
+      "market_name": "L70",
+      "codename": "w5n",
+      "model": "LG-D329"
+    },
+    {
+      "market_name": "L70",
+      "codename": "w5ts",
+      "model": "LG-D340f8"
+    },
+    {
+      "market_name": "L70 CDMA",
+      "codename": "w5c",
+      "model": "LGL41C"
+    },
+    {
+      "market_name": "L90",
+      "codename": "w7",
+      "model": "LG-D400"
+    },
+    {
+      "market_name": "L90",
+      "codename": "w7",
+      "model": "LG-D405"
+    },
+    {
+      "market_name": "L90",
+      "codename": "w7",
+      "model": "LG-D415"
+    },
+    {
+      "market_name": "L90",
+      "codename": "w7ds",
+      "model": "LG-D410"
+    },
+    {
+      "market_name": "L90",
+      "codename": "w7n",
+      "model": "LG-D400"
+    },
+    {
+      "market_name": "L90",
+      "codename": "w7n",
+      "model": "LG-D405"
+    },
+    {
+      "market_name": "L90 Dual",
+      "codename": "w7dsn",
+      "model": "LG-D410"
+    },
+    {
+      "market_name": "LBello",
+      "codename": "luv80ss",
+      "model": "LG-D331"
+    },
+    {
+      "market_name": "LBello",
+      "codename": "luv80ss",
+      "model": "LG-D331AR"
+    },
+    {
+      "market_name": "LG AKA",
+      "codename": "aka",
+      "model": "LG-H778"
+    },
+    {
+      "market_name": "LG AKA",
+      "codename": "aka",
+      "model": "LG-H779"
+    },
+    {
+      "market_name": "LG AKA",
+      "codename": "aka",
+      "model": "LG-H788"
+    },
+    {
+      "market_name": "LG AKA",
+      "codename": "aka",
+      "model": "LG-H788SG"
+    },
+    {
+      "market_name": "LG AKA",
+      "codename": "aka",
+      "model": "LG-H788TR"
+    },
+    {
+      "market_name": "LG AKA",
+      "codename": "aka",
+      "model": "LG-H788n"
+    },
+    {
+      "market_name": "LG Connect 4G",
+      "codename": "cayman",
+      "model": "LG-MS840"
+    },
+    {
+      "market_name": "LG DOUBLEPLAY",
+      "codename": "lgc729",
+      "model": "LG-C729"
+    },
+    {
+      "market_name": "LG Destiny",
+      "codename": "y50",
+      "model": "LGL21G"
+    },
+    {
+      "market_name": "LG Enlighten",
+      "codename": "VS700",
+      "model": "LG-VS700"
+    },
+    {
+      "market_name": "LG Enlighten",
+      "codename": "VS700",
+      "model": "LG-VS700PP"
+    },
+    {
+      "market_name": "LG Escape2",
+      "codename": "c70n",
+      "model": "LG-H443"
+    },
+    {
+      "market_name": "LG Escape2",
+      "codename": "c70n",
+      "model": "LG-H445"
+    },
+    {
+      "market_name": "LG Esteem",
+      "codename": "MS910",
+      "model": "LG-MS910"
+    },
+    {
+      "market_name": "LG F70",
+      "codename": "f70",
+      "model": "LGL31L"
+    },
+    {
+      "market_name": "LG F70",
+      "codename": "f70n",
+      "model": "LG-D315"
+    },
+    {
+      "market_name": "LG F70",
+      "codename": "f70n",
+      "model": "LG-D315l"
+    },
+    {
+      "market_name": "LG F70",
+      "codename": "f70n",
+      "model": "LG-F370K"
+    },
+    {
+      "market_name": "LG F70",
+      "codename": "f70n",
+      "model": "LG-F370L"
+    },
+    {
+      "market_name": "LG F70",
+      "codename": "f70n",
+      "model": "LG-F370S"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LG-D950"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LG-D950G"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LG-D951"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LG-D955"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LG-D956"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LG-D958"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LG-D959"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LG-F340K"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LG-F340L"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LG-F340S"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LG-LS995"
+    },
+    {
+      "market_name": "LG G Flex",
+      "codename": "zee",
+      "model": "LGL23"
+    },
+    {
+      "market_name": "LG G Flex2",
+      "codename": "z2",
+      "model": "LG-F510K"
+    },
+    {
+      "market_name": "LG G Flex2",
+      "codename": "z2",
+      "model": "LG-F510L"
+    },
+    {
+      "market_name": "LG G Flex2",
+      "codename": "z2",
+      "model": "LG-F510S"
+    },
+    {
+      "market_name": "LG G Flex2",
+      "codename": "z2",
+      "model": "LG-H950"
+    },
+    {
+      "market_name": "LG G Flex2",
+      "codename": "z2",
+      "model": "LG-H955"
+    },
+    {
+      "market_name": "LG G Flex2",
+      "codename": "z2",
+      "model": "LG-H959"
+    },
+    {
+      "market_name": "LG G Flex2",
+      "codename": "z2",
+      "model": "LGAS995"
+    },
+    {
+      "market_name": "LG G Flex2",
+      "codename": "z2",
+      "model": "LGLS996"
+    },
+    {
+      "market_name": "LG G Flex2",
+      "codename": "z2",
+      "model": "LGUS995"
+    },
+    {
+      "market_name": "LG G Pad 8.0 LTE",
+      "codename": "e8lte",
+      "model": "LG-P490L"
+    },
+    {
+      "market_name": "LG G Pad 8.3",
+      "codename": "awifi",
+      "model": "LG-V500"
+    },
+    {
+      "market_name": "LG G Pad 8.3 Google Play Edition",
+      "codename": "palman",
+      "model": "LG-V510"
+    },
+    {
+      "market_name": "LG G Pad 8.3 LTE",
+      "codename": "altev",
+      "model": "VK810 4G"
+    },
+    {
+      "market_name": "LG G Pad 8.3 homeBoy",
+      "codename": "awifi070u",
+      "model": "LG-V507L"
+    },
+    {
+      "market_name": "LG G Pad F 8.0",
+      "codename": "t8lte",
+      "model": "LG-V495"
+    },
+    {
+      "market_name": "LG G Pad F7.0",
+      "codename": "e7iilte",
+      "model": "LGLK430"
+    },
+    {
+      "market_name": "LG G Pad F\\xe2\\x84\\xa2 8.0",
+      "codename": "t8lte",
+      "model": "LG-UK495"
+    },
+    {
+      "market_name": "LG G Pad F\\xe2\\x84\\xa2 8.0",
+      "codename": "t8lte",
+      "model": "LG-V496"
+    },
+    {
+      "market_name": "LG G Pad\\xe2\\x84\\xa2 II 8.0LTE",
+      "codename": "t8lte",
+      "model": "LG-V497"
+    },
+    {
+      "market_name": "LG G Stylo",
+      "codename": "g4stylusc",
+      "model": "LGLS770"
+    },
+    {
+      "market_name": "LG G Stylo",
+      "codename": "g4stylusdsn",
+      "model": "LG-H630"
+    },
+    {
+      "market_name": "LG G Stylo",
+      "codename": "g4stylusn",
+      "model": "LG-H631"
+    },
+    {
+      "market_name": "LG G Stylo",
+      "codename": "g4stylusn",
+      "model": "LG-H631MX"
+    },
+    {
+      "market_name": "LG G Stylo",
+      "codename": "g4stylusn",
+      "model": "LG-H635"
+    },
+    {
+      "market_name": "LG G Stylo",
+      "codename": "g4stylusn",
+      "model": "LG-H635A"
+    },
+    {
+      "market_name": "LG G Stylo",
+      "codename": "g4stylusn",
+      "model": "LG-H636"
+    },
+    {
+      "market_name": "LG G Stylo",
+      "codename": "g4stylusn",
+      "model": "LGMS631"
+    },
+    {
+      "market_name": "LG G Vista",
+      "codename": "b2l",
+      "model": "LG-D631"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-D800"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-D801"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-D802"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-D802T"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-D802TR"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-D803"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-D805"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-D806"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-F320K"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-F320L"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-F320S"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "LG-LS980"
+    },
+    {
+      "market_name": "LG G2",
+      "codename": "g2",
+      "model": "VS980 4G"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "AS985"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-AS990"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-D850"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-D851"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-D852"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-D852G"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-D855"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-D856"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-D857"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-D858"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-D858HK"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-D859"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-F400K"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-F400L"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LG-F400S"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LGL24"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LGLS990"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LGUS990"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "LGV31"
+    },
+    {
+      "market_name": "LG G3",
+      "codename": "g3",
+      "model": "VS985 4G"
+    },
+    {
+      "market_name": "LG G3 A",
+      "codename": "tigers",
+      "model": "LG-F410S"
+    },
+    {
+      "market_name": "LG G3 Cat.6",
+      "codename": "tiger6",
+      "model": "LG-F460K"
+    },
+    {
+      "market_name": "LG G3 Cat.6",
+      "codename": "tiger6",
+      "model": "LG-F460L"
+    },
+    {
+      "market_name": "LG G3 Cat.6",
+      "codename": "tiger6",
+      "model": "LG-F460S"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "AS986"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LG-AS811"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LG-AS991"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LG-F500K"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LG-F500L"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LG-F500S"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LG-H810"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LG-H811"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LG-H812"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LG-H815"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LG-H818"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LG-H819"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LGLS991"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LGUS991"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "LGV32"
+    },
+    {
+      "market_name": "LG G4",
+      "codename": "p1",
+      "model": "VS986"
+    },
+    {
+      "market_name": "LG G4 Beat",
+      "codename": "p1bdsn",
+      "model": "LG-H736"
+    },
+    {
+      "market_name": "LG G4 Beat",
+      "codename": "p1bssn",
+      "model": "LG-H735"
+    },
+    {
+      "market_name": "LG G4 Stylus",
+      "codename": "mp1s3gds",
+      "model": "LG-H540"
+    },
+    {
+      "market_name": "LG G4 Stylus",
+      "codename": "mp1s3gss",
+      "model": "LG-H542"
+    },
+    {
+      "market_name": "LG G4c",
+      "codename": "c90",
+      "model": "LG-H525"
+    },
+    {
+      "market_name": "LG G4c",
+      "codename": "c90n",
+      "model": "LG-H525n"
+    },
+    {
+      "market_name": "LG G4s",
+      "codename": "p1bds3g",
+      "model": "LG-H734"
+    },
+    {
+      "market_name": "LG Gx",
+      "codename": "omega",
+      "model": "LG-F310L"
+    },
+    {
+      "market_name": "LG Gx",
+      "codename": "omegar",
+      "model": "LG-F310LR"
+    },
+    {
+      "market_name": "LG Joy",
+      "codename": "y30",
+      "model": "LG-H220"
+    },
+    {
+      "market_name": "LG Joy",
+      "codename": "y30dsf",
+      "model": "LG-H222"
+    },
+    {
+      "market_name": "LG Joy",
+      "codename": "y30f",
+      "model": "LG-H221"
+    },
+    {
+      "market_name": "LG Joy",
+      "codename": "y30f",
+      "model": "LG-H221AR"
+    },
+    {
+      "market_name": "LG L39C",
+      "codename": "l4ii_cdma",
+      "model": "LGL39C"
+    },
+    {
+      "market_name": "LG L80 Dual",
+      "codename": "w6ds",
+      "model": "LG-D380"
+    },
+    {
+      "market_name": "LG L80 Dual",
+      "codename": "w6ds",
+      "model": "LG-D385"
+    },
+    {
+      "market_name": "LG L80 Single",
+      "codename": "w6",
+      "model": "LG-D370"
+    },
+    {
+      "market_name": "LG L80 Single",
+      "codename": "w6",
+      "model": "LG-D373"
+    },
+    {
+      "market_name": "LG L80 Single",
+      "codename": "w6",
+      "model": "LG-D375"
+    },
+    {
+      "market_name": "LG L80 Single",
+      "codename": "w6",
+      "model": "LG-D375AR"
+    },
+    {
+      "market_name": "LG LEON\\xe2\\x84\\xa2 LTE",
+      "codename": "c50",
+      "model": "LG-H345"
+    },
+    {
+      "market_name": "LG Leon",
+      "codename": "my50",
+      "model": "LG-H320"
+    },
+    {
+      "market_name": "LG Leon",
+      "codename": "my50ds",
+      "model": "LG-H324"
+    },
+    {
+      "market_name": "LG Leon",
+      "codename": "my50ds",
+      "model": "LG-H326"
+    },
+    {
+      "market_name": "LG Leon 4G LTE",
+      "codename": "c50",
+      "model": "LG-H340"
+    },
+    {
+      "market_name": "LG Leon 4G LTE",
+      "codename": "c50",
+      "model": "LG-H340AR"
+    },
+    {
+      "market_name": "LG Leon 4G LTE",
+      "codename": "c50",
+      "model": "LG-H340GT"
+    },
+    {
+      "market_name": "LG Leon 4G LTE",
+      "codename": "c50",
+      "model": "LG-H343"
+    },
+    {
+      "market_name": "LG Leon 4G LTE",
+      "codename": "c50",
+      "model": "LGMS345"
+    },
+    {
+      "market_name": "LG Leon 4G LTE",
+      "codename": "c50ds",
+      "model": "LG-H342"
+    },
+    {
+      "market_name": "LG Leon 4G LTE",
+      "codename": "c50n",
+      "model": "LG-H340n"
+    },
+    {
+      "market_name": "LG Leon TV",
+      "codename": "my50ds",
+      "model": "LG-H326"
+    },
+    {
+      "market_name": "LG Logos",
+      "codename": "c70",
+      "model": "LGUS550"
+    },
+    {
+      "market_name": "LG Lucid",
+      "codename": "cayman",
+      "model": "VS840 4G"
+    },
+    {
+      "market_name": "LG Lucid",
+      "codename": "cayman",
+      "model": "VS840PP"
+    },
+    {
+      "market_name": "LG Lucid 2",
+      "codename": "l1v",
+      "model": "VS870 4G"
+    },
+    {
+      "market_name": "LG Lucid 3",
+      "codename": "x5",
+      "model": "VS876"
+    },
+    {
+      "market_name": "LG Mach\\xe2\\x84\\xa2",
+      "codename": "l2s",
+      "model": "LG-LS860"
+    },
+    {
+      "market_name": "LG Magna",
+      "codename": "my90",
+      "model": "LG-H500"
+    },
+    {
+      "market_name": "LG Magna",
+      "codename": "my90ds",
+      "model": "LG-H502"
+    },
+    {
+      "market_name": "LG Magna LTE",
+      "codename": "mc90",
+      "model": "LG-H520"
+    },
+    {
+      "market_name": "LG Max",
+      "codename": "v10",
+      "model": "LG-X160"
+    },
+    {
+      "market_name": "LG Max",
+      "codename": "v10",
+      "model": "LG-X165g"
+    },
+    {
+      "market_name": "LG Motion 4G",
+      "codename": "l0",
+      "model": "LG-MS770"
+    },
+    {
+      "market_name": "LG OPTIMUS M+",
+      "codename": "m3_mpcs_us",
+      "model": "LG-MS695"
+    },
+    {
+      "market_name": "LG OPTIMUS ZIP",
+      "codename": "lgl75c",
+      "model": "LGL75C"
+    },
+    {
+      "market_name": "LG Optimus 3D",
+      "codename": "cosmopolitan",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "LG Optimus 3D",
+      "codename": "cosmopolitan",
+      "model": "LG-P925g"
+    },
+    {
+      "market_name": "LG Optimus 3D",
+      "codename": "cosmopolitan",
+      "model": "LG-SU760"
+    },
+    {
+      "market_name": "LG Optimus ELITE\\xe2\\x84\\xa2",
+      "codename": "m3s",
+      "model": "LG-VM696"
+    },
+    {
+      "market_name": "LG Optimus Elite",
+      "codename": "m3s",
+      "model": "LG Optimus Elite"
+    },
+    {
+      "market_name": "LG Optimus Elite",
+      "codename": "m3s",
+      "model": "LG-LS696"
+    },
+    {
+      "market_name": "LG Optimus F3Q",
+      "codename": "fx3q",
+      "model": "LG-D520"
+    },
+    {
+      "market_name": "LG Optimus F7",
+      "codename": "fx1",
+      "model": "LG-AS780"
+    },
+    {
+      "market_name": "LG Optimus F7",
+      "codename": "fx1",
+      "model": "LG-LG870"
+    },
+    {
+      "market_name": "LG Optimus F7",
+      "codename": "fx1",
+      "model": "LG-US780"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geeb",
+      "model": "LG-E970"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geeb",
+      "model": "LG-E971"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geeb",
+      "model": "LG-E973"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehdc",
+      "model": "L-01E"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehdc",
+      "model": "LGL21"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehrc",
+      "model": "LG-E975"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehrc",
+      "model": "LG-E975K"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehrc",
+      "model": "LG-E975T"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehrc",
+      "model": "LG-E976"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehrc",
+      "model": "LG-E977"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehrc",
+      "model": "LG-E987"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehrc",
+      "model": "LG-F180K"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehrc",
+      "model": "LG-F180S"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehrc4g",
+      "model": "LG-F180L"
+    },
+    {
+      "market_name": "LG Optimus G",
+      "codename": "geehrc4g",
+      "model": "LG-LS970"
+    },
+    {
+      "market_name": "LG Optimus G Pro",
+      "codename": "geefhd",
+      "model": "LG-E980"
+    },
+    {
+      "market_name": "LG Optimus G Pro",
+      "codename": "geefhd",
+      "model": "LG-E980h"
+    },
+    {
+      "market_name": "LG Optimus G Pro",
+      "codename": "geefhd",
+      "model": "LG-E981h"
+    },
+    {
+      "market_name": "LG Optimus G Pro",
+      "codename": "geefhd",
+      "model": "LG-E986"
+    },
+    {
+      "market_name": "LG Optimus G Pro",
+      "codename": "geefhd",
+      "model": "LG-E988"
+    },
+    {
+      "market_name": "LG Optimus G Pro",
+      "codename": "geefhd",
+      "model": "LG-E989"
+    },
+    {
+      "market_name": "LG Optimus G Pro",
+      "codename": "geefhd",
+      "model": "LG-F240K"
+    },
+    {
+      "market_name": "LG Optimus G Pro",
+      "codename": "geefhd",
+      "model": "LG-F240S"
+    },
+    {
+      "market_name": "LG Optimus G Pro",
+      "codename": "geefhd4g",
+      "model": "LG-F240L"
+    },
+    {
+      "market_name": "LG Optimus HUB",
+      "codename": "univa_222-01",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "LG Optimus HUB",
+      "codename": "univa_arb-xx",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "LG Optimus HUB",
+      "codename": "univa_cis-xxx",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "LG Optimus HUB",
+      "codename": "univa_esa-xx",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "LG Optimus HUB",
+      "codename": "univa_eur-xx",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "LG Optimus HUB",
+      "codename": "univa_open-eu",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "LG Optimus HUB",
+      "codename": "univa_tur-xx",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1",
+      "model": "LG-E410"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1",
+      "model": "LG-E410B"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1",
+      "model": "LG-E410c"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1",
+      "model": "LG-E410f"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1",
+      "model": "LG-E410g"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1",
+      "model": "LG-E410i"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1",
+      "model": "LG-E411f"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1",
+      "model": "LG-E411g"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1ds",
+      "model": "LG-E415f"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1ds",
+      "model": "LG-E415g"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1ds",
+      "model": "LG-E420"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1ds",
+      "model": "LG-E420f"
+    },
+    {
+      "market_name": "LG Optimus L1II",
+      "codename": "v1ts",
+      "model": "LG-E475f"
+    },
+    {
+      "market_name": "LG Optimus L3",
+      "codename": "e0",
+      "model": "LG-E400"
+    },
+    {
+      "market_name": "LG Optimus L3",
+      "codename": "e0",
+      "model": "LG-E400R"
+    },
+    {
+      "market_name": "LG Optimus L3",
+      "codename": "e0",
+      "model": "LG-E400b"
+    },
+    {
+      "market_name": "LG Optimus L3",
+      "codename": "e0",
+      "model": "LG-E400f"
+    },
+    {
+      "market_name": "LG Optimus L3",
+      "codename": "e0",
+      "model": "LG-E400g"
+    },
+    {
+      "market_name": "LG Optimus L3",
+      "codename": "e0",
+      "model": "LG-L38C"
+    },
+    {
+      "market_name": "LG Optimus L3",
+      "codename": "e0",
+      "model": "LGL35G"
+    },
+    {
+      "market_name": "LG Optimus L3",
+      "codename": "e0_open_eur",
+      "model": "LG-E400"
+    },
+    {
+      "market_name": "LG Optimus L3 Dual",
+      "codename": "e1",
+      "model": "LG-E405"
+    },
+    {
+      "market_name": "LG Optimus L3 Dual",
+      "codename": "e1",
+      "model": "LG-E405f"
+    },
+    {
+      "market_name": "LG Optimus L3 II",
+      "codename": "vee3ds",
+      "model": "LG-E435"
+    },
+    {
+      "market_name": "LG Optimus L3 II",
+      "codename": "vee3ds",
+      "model": "LG-E435f"
+    },
+    {
+      "market_name": "LG Optimus L3 II",
+      "codename": "vee3ds",
+      "model": "LG-E435g"
+    },
+    {
+      "market_name": "LG Optimus L3 II",
+      "codename": "vee3ds",
+      "model": "LG-E435k"
+    },
+    {
+      "market_name": "LG Optimus L3 II",
+      "codename": "vee3e",
+      "model": "LG-E425"
+    },
+    {
+      "market_name": "LG Optimus L3 II",
+      "codename": "vee3e",
+      "model": "LG-E425c"
+    },
+    {
+      "market_name": "LG Optimus L3 II",
+      "codename": "vee3e",
+      "model": "LG-E425f"
+    },
+    {
+      "market_name": "LG Optimus L3 II",
+      "codename": "vee3e",
+      "model": "LG-E425g"
+    },
+    {
+      "market_name": "LG Optimus L3 II",
+      "codename": "vee3e",
+      "model": "LG-E425j"
+    },
+    {
+      "market_name": "LG Optimus L3 II",
+      "codename": "vee3e",
+      "model": "LG-E430"
+    },
+    {
+      "market_name": "LG Optimus L3 II",
+      "codename": "vee3e",
+      "model": "LG-E431g"
+    },
+    {
+      "market_name": "LG Optimus L4 II",
+      "codename": "vee4ss",
+      "model": "LG-E440"
+    },
+    {
+      "market_name": "LG Optimus L4 II",
+      "codename": "vee4ss",
+      "model": "LG-E440f"
+    },
+    {
+      "market_name": "LG Optimus L4 II",
+      "codename": "vee4ss",
+      "model": "LG-E440g"
+    },
+    {
+      "market_name": "LG Optimus L4 II",
+      "codename": "vee4ss",
+      "model": "LG-E465f"
+    },
+    {
+      "market_name": "LG Optimus L4 II",
+      "codename": "vee4ss",
+      "model": "LG-E465g"
+    },
+    {
+      "market_name": "LG Optimus L4 II Dual",
+      "codename": "vee4ds",
+      "model": "LG-E445"
+    },
+    {
+      "market_name": "LG Optimus L4 II Dual",
+      "codename": "vee4ds",
+      "model": "LG-E467f"
+    },
+    {
+      "market_name": "LG Optimus L4 II Tri",
+      "codename": "vee4ts",
+      "model": "LG-E470f"
+    },
+    {
+      "market_name": "LG Optimus L5 Dual",
+      "codename": "m4ds",
+      "model": "LG-E615"
+    },
+    {
+      "market_name": "LG Optimus L5 Dual",
+      "codename": "m4ds",
+      "model": "LG-E615f"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5ds",
+      "model": "LG-E455"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5ds",
+      "model": "LG-E455f"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5ds",
+      "model": "LG-E455g"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5nfc",
+      "model": "LG-E460"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5nfc",
+      "model": "LG-E460f"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5ss",
+      "model": "LG-E450"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5ss",
+      "model": "LG-E450B"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5ss",
+      "model": "LG-E450f"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5ss",
+      "model": "LG-E450g"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5ss",
+      "model": "LG-E450j"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5ss",
+      "model": "LG-E451g"
+    },
+    {
+      "market_name": "LG Optimus L5 II",
+      "codename": "vee5ss",
+      "model": "LG-E460"
+    },
+    {
+      "market_name": "LG Optimus L7",
+      "codename": "u0",
+      "model": "LG-P700"
+    },
+    {
+      "market_name": "LG Optimus L7",
+      "codename": "u0",
+      "model": "LG-P705"
+    },
+    {
+      "market_name": "LG Optimus L7",
+      "codename": "u0",
+      "model": "LG-P705f"
+    },
+    {
+      "market_name": "LG Optimus L7",
+      "codename": "u0",
+      "model": "LG-P705g"
+    },
+    {
+      "market_name": "LG Optimus L7",
+      "codename": "u0",
+      "model": "LG-P708g"
+    },
+    {
+      "market_name": "LG Optimus L7",
+      "codename": "u0",
+      "model": "LG-T280"
+    },
+    {
+      "market_name": "LG Optimus L7",
+      "codename": "u0",
+      "model": "LGL96G"
+    },
+    {
+      "market_name": "LG Optimus L7",
+      "codename": "vee7ds",
+      "model": "LG-P715"
+    },
+    {
+      "market_name": "LG Optimus L7 II",
+      "codename": "vee7e",
+      "model": "LG-P710"
+    },
+    {
+      "market_name": "LG Optimus L7 II",
+      "codename": "vee7e",
+      "model": "LG-P712"
+    },
+    {
+      "market_name": "LG Optimus L7 II",
+      "codename": "vee7e",
+      "model": "LG-P713"
+    },
+    {
+      "market_name": "LG Optimus L7 II",
+      "codename": "vee7e",
+      "model": "LG-P713GO"
+    },
+    {
+      "market_name": "LG Optimus L7 II",
+      "codename": "vee7e",
+      "model": "LG-P713TR"
+    },
+    {
+      "market_name": "LG Optimus L7 II",
+      "codename": "vee7e",
+      "model": "LG-P714"
+    },
+    {
+      "market_name": "LG Optimus L70",
+      "codename": "w5",
+      "model": "LG-D321"
+    },
+    {
+      "market_name": "LG Optimus L70",
+      "codename": "w5",
+      "model": "LGMS323"
+    },
+    {
+      "market_name": "LG Optimus L7II",
+      "codename": "vee7ds",
+      "model": "LG-P715"
+    },
+    {
+      "market_name": "LG Optimus L7II",
+      "codename": "vee7ds",
+      "model": "LG-P716"
+    },
+    {
+      "market_name": "LG Optimus L9",
+      "codename": "u2",
+      "model": "LG-D700"
+    },
+    {
+      "market_name": "LG Optimus L9",
+      "codename": "u2",
+      "model": "LG-P760"
+    },
+    {
+      "market_name": "LG Optimus L9",
+      "codename": "u2",
+      "model": "LG-P765"
+    },
+    {
+      "market_name": "LG Optimus L9",
+      "codename": "u2",
+      "model": "LG-P768"
+    },
+    {
+      "market_name": "LG Optimus L9",
+      "codename": "u2",
+      "model": "LG-P769"
+    },
+    {
+      "market_name": "LG Optimus L9",
+      "codename": "u2",
+      "model": "LG-P778"
+    },
+    {
+      "market_name": "LG Optimus L9",
+      "codename": "u2",
+      "model": "LGMS769"
+    },
+    {
+      "market_name": "LG Optimus L9 (NFC)",
+      "codename": "u2",
+      "model": "LG-P760"
+    },
+    {
+      "market_name": "LG Optimus L9 II",
+      "codename": "l9ii",
+      "model": "LG-D605"
+    },
+    {
+      "market_name": "LG Optimus LTE Tag",
+      "codename": "cayman",
+      "model": "LG-AS840"
+    },
+    {
+      "market_name": "LG Optimus LTE Tag",
+      "codename": "cayman",
+      "model": "LG-F120K"
+    },
+    {
+      "market_name": "LG Optimus LTE Tag",
+      "codename": "cayman",
+      "model": "LG-F120L"
+    },
+    {
+      "market_name": "LG Optimus LTE Tag",
+      "codename": "cayman",
+      "model": "LG-F120S"
+    },
+    {
+      "market_name": "LG Optimus LTE Tag",
+      "codename": "lge_120_kt",
+      "model": "LG-F120K"
+    },
+    {
+      "market_name": "LG Optimus LTE Tag",
+      "codename": "lge_120_skt",
+      "model": "LG-F120S"
+    },
+    {
+      "market_name": "LG Optimus LTE3",
+      "codename": "fx1sk",
+      "model": "LG-F260S"
+    },
+    {
+      "market_name": "LG Optimus One",
+      "codename": "thunderg",
+      "model": "LG-P500"
+    },
+    {
+      "market_name": "LG Optimus One",
+      "codename": "thunderg",
+      "model": "LG-P500h"
+    },
+    {
+      "market_name": "LG Optimus One",
+      "codename": "thunderg",
+      "model": "LG-P503"
+    },
+    {
+      "market_name": "LG Optimus One",
+      "codename": "thunderg",
+      "model": "LG-P504"
+    },
+    {
+      "market_name": "LG Optimus One",
+      "codename": "thunderg",
+      "model": "LG-P505"
+    },
+    {
+      "market_name": "LG Optimus One",
+      "codename": "thunderg",
+      "model": "LG-P505CH"
+    },
+    {
+      "market_name": "LG Optimus One",
+      "codename": "thunderg",
+      "model": "LG-P505R"
+    },
+    {
+      "market_name": "LG Optimus One",
+      "codename": "thunderg",
+      "model": "LG-P506"
+    },
+    {
+      "market_name": "LG Optimus One",
+      "codename": "thunderg",
+      "model": "LG-P509"
+    },
+    {
+      "market_name": "LG Optimus Regard",
+      "codename": "l0",
+      "model": "LG-LW770"
+    },
+    {
+      "market_name": "LG Optimus Select",
+      "codename": "u0_cdma",
+      "model": "LG-AS730"
+    },
+    {
+      "market_name": "LG Optimus Zone 2",
+      "codename": "w3c",
+      "model": "VS415PP"
+    },
+    {
+      "market_name": "LG Pecan",
+      "codename": "pecan",
+      "model": "LG-P350"
+    },
+    {
+      "market_name": "LG Pecan",
+      "codename": "pecan",
+      "model": "LG-P350f"
+    },
+    {
+      "market_name": "LG Pecan",
+      "codename": "pecan",
+      "model": "LG-P350g"
+    },
+    {
+      "market_name": "LG Power",
+      "codename": "y50c",
+      "model": "LGL22C"
+    },
+    {
+      "market_name": "LG Prime II",
+      "codename": "v10",
+      "model": "LG-X170fTV"
+    },
+    {
+      "market_name": "LG Prime Plus 4G",
+      "codename": "mc90ds",
+      "model": "LG-H522"
+    },
+    {
+      "market_name": "LG Revolution",
+      "codename": "bryce",
+      "model": "VS910 4G"
+    },
+    {
+      "market_name": "LG SUNSET",
+      "codename": "c50",
+      "model": "LGL33L"
+    },
+    {
+      "market_name": "LG Spectrum",
+      "codename": "VS920",
+      "model": "VS920 4G"
+    },
+    {
+      "market_name": "LG Spirit",
+      "codename": "my70",
+      "model": "LG-H420"
+    },
+    {
+      "market_name": "LG Spirit 4G LTE",
+      "codename": "c70n",
+      "model": "LG-H440n"
+    },
+    {
+      "market_name": "LG Spirit LTE",
+      "codename": "c70",
+      "model": "LG-H440"
+    },
+    {
+      "market_name": "LG Spirit LTE",
+      "codename": "c70",
+      "model": "LG-H440AR"
+    },
+    {
+      "market_name": "LG Thrill 4G",
+      "codename": "cosmopolitan",
+      "model": "LG-P925"
+    },
+    {
+      "market_name": "LG Tribute 2\\xe2\\x84\\xa2",
+      "codename": "c50",
+      "model": "LGLS665"
+    },
+    {
+      "market_name": "LG Venice",
+      "codename": "u0_cdma",
+      "model": "LG-LG730"
+    },
+    {
+      "market_name": "LG Viper 4G LTE",
+      "codename": "cayman",
+      "model": "LG-LS840"
+    },
+    {
+      "market_name": "LG Volt",
+      "codename": "my70ds",
+      "model": "LG-H422"
+    },
+    {
+      "market_name": "LG Volt",
+      "codename": "x5",
+      "model": "LGLS740"
+    },
+    {
+      "market_name": "LG Volt 4G",
+      "codename": "c70ds",
+      "model": "LG-H442"
+    },
+    {
+      "market_name": "LG Volt II",
+      "codename": "c90nas",
+      "model": "LGLS751"
+    },
+    {
+      "market_name": "LG Volt LTE",
+      "codename": "c70w",
+      "model": "LG-F540K"
+    },
+    {
+      "market_name": "LG Volt LTE",
+      "codename": "c70w",
+      "model": "LG-F540L"
+    },
+    {
+      "market_name": "LG Volt LTE",
+      "codename": "c70w",
+      "model": "LG-F540S"
+    },
+    {
+      "market_name": "LG Watch Urbane",
+      "codename": "bass",
+      "model": "LG Watch Urbane"
+    },
+    {
+      "market_name": "LG Wine Smart",
+      "codename": "cf",
+      "model": "LG-H410"
+    },
+    {
+      "market_name": "LG optimus LTE2",
+      "codename": "d1lkt",
+      "model": "LG-F160K"
+    },
+    {
+      "market_name": "LG optimus LTE2",
+      "codename": "d1lsk",
+      "model": "LG-F160S"
+    },
+    {
+      "market_name": "LG optimus LTE2",
+      "codename": "d1lu",
+      "model": "LG-F160L"
+    },
+    {
+      "market_name": "LG optimus LTE2",
+      "codename": "d1lu",
+      "model": "LG-F160LV"
+    },
+    {
+      "market_name": "LG optimus it L-05D",
+      "codename": "l_dcm",
+      "model": "L-05D"
+    },
+    {
+      "market_name": "LG optimus it L-05E",
+      "codename": "L05E",
+      "model": "L-05E"
+    },
+    {
+      "market_name": "LG-AS876",
+      "codename": "x5",
+      "model": "AS876"
+    },
+    {
+      "market_name": "LG-D150",
+      "codename": "w35",
+      "model": "LG-D150"
+    },
+    {
+      "market_name": "LG-D157f",
+      "codename": "w35ds",
+      "model": "LG-D157f"
+    },
+    {
+      "market_name": "LG-E985T",
+      "codename": "gvarfhd",
+      "model": "LG-E985"
+    },
+    {
+      "market_name": "LG-E985T",
+      "codename": "gvarfhd",
+      "model": "LG-E985T"
+    },
+    {
+      "market_name": "LGL22",
+      "codename": "g2",
+      "model": "LGL22"
+    },
+    {
+      "market_name": "Marquee",
+      "codename": "L-07C",
+      "model": "L-07C"
+    },
+    {
+      "market_name": "Marquee",
+      "codename": "LG855",
+      "model": "LG-LG855"
+    },
+    {
+      "market_name": "Marquee",
+      "codename": "LS855",
+      "model": "LG-LS855"
+    },
+    {
+      "market_name": "Marquee",
+      "codename": "bproj_CIS-xxx",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "My touch 4G",
+      "codename": "e739",
+      "model": "LG-E739"
+    },
+    {
+      "market_name": "Nexus 4",
+      "codename": "mako",
+      "model": "Nexus 4"
+    },
+    {
+      "market_name": "Nexus 5",
+      "codename": "hammerhead",
+      "model": "Nexus 5"
+    },
+    {
+      "market_name": "Optiimus Black",
+      "codename": "bproj_208-01",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "Optimus  EX",
+      "codename": "x2",
+      "model": "LG-SU880"
+    },
+    {
+      "market_name": "Optimus  LTE",
+      "codename": "l1a",
+      "model": "LG-P870"
+    },
+    {
+      "market_name": "Optimus 2",
+      "codename": "as680",
+      "model": "LG-AS680"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "p990",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "p990",
+      "model": "LG-P990H"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "p990",
+      "model": "LG-P990h"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "p990_262-xx",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "p990_CIS-xxx",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "p990_EUR-xx",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "p990hN",
+      "model": "LG-P990hN"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "p999",
+      "model": "LG-P999"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "star",
+      "model": "LG-P990"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "star",
+      "model": "LG-SU660"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "star_450-05",
+      "model": "LG-SU660"
+    },
+    {
+      "market_name": "Optimus 2X",
+      "codename": "su660",
+      "model": "LG-SU660"
+    },
+    {
+      "market_name": "Optimus 3D",
+      "codename": "cosmo_450-05",
+      "model": "LG-SU760"
+    },
+    {
+      "market_name": "Optimus 3D",
+      "codename": "cosmo_EUR-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "Optimus 3D",
+      "codename": "cosmo_MEA-XXX",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "Optimus 3D",
+      "codename": "p920",
+      "model": "LG-P920"
+    },
+    {
+      "market_name": "Optimus 3D",
+      "codename": "p920",
+      "model": "LG-P920h"
+    },
+    {
+      "market_name": "Optimus 3D",
+      "codename": "su760",
+      "model": "LG-SU760"
+    },
+    {
+      "market_name": "Optimus 3D Cube",
+      "codename": "cx2",
+      "model": "LG-SU870"
+    },
+    {
+      "market_name": "Optimus 3D MAX",
+      "codename": "cx2",
+      "model": "LG-P720"
+    },
+    {
+      "market_name": "Optimus 3D MAX",
+      "codename": "cx2",
+      "model": "LG-P720h"
+    },
+    {
+      "market_name": "Optimus 3D MAX",
+      "codename": "cx2",
+      "model": "LG-P725"
+    },
+    {
+      "market_name": "Optimus 3D MAX",
+      "codename": "cx2",
+      "model": "LG-SU870"
+    },
+    {
+      "market_name": "Optimus 4X HD",
+      "codename": "x3",
+      "model": "LG-P880"
+    },
+    {
+      "market_name": "Optimus 4X HD",
+      "codename": "x3",
+      "model": "LG-P880g"
+    },
+    {
+      "market_name": "Optimus Big",
+      "codename": "justin",
+      "model": "LG-LU6800"
+    },
+    {
+      "market_name": "Optimus Big",
+      "codename": "lu6800",
+      "model": "LG-LU6800"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "LGL85C",
+      "model": "LGL85C"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "black",
+      "model": "LG-KU5900"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "blackg",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "blackg",
+      "model": "LG-P970h"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "bproj_214-03",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "bproj_262-XXX",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "bproj_302-220",
+      "model": "LG-P970g"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "bproj_334-020",
+      "model": "LG-P970h"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "bproj_724-xxx",
+      "model": "LG-P970h"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "bproj_ARE-XXX",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "bproj_EUR-XXX",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "bproj_sea-xxx",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "ku5900",
+      "model": "LG-KU5900"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "lgp970",
+      "model": "LG-P970"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "lgp970",
+      "model": "LG-P970g"
+    },
+    {
+      "market_name": "Optimus Black",
+      "codename": "lgp970",
+      "model": "LG-P970h"
+    },
+    {
+      "market_name": "Optimus Chat",
+      "codename": "hazel",
+      "model": "LG-C550"
+    },
+    {
+      "market_name": "Optimus Chat",
+      "codename": "hazel",
+      "model": "LG-C555"
+    },
+    {
+      "market_name": "Optimus Core",
+      "codename": "u0_cdma",
+      "model": "LGL86C"
+    },
+    {
+      "market_name": "Optimus EX",
+      "codename": "x2",
+      "model": "IS11LG"
+    },
+    {
+      "market_name": "Optimus EX",
+      "codename": "x2_450-05",
+      "model": "LG-SU880"
+    },
+    {
+      "market_name": "Optimus Exceed 2",
+      "codename": "w5c",
+      "model": "LG-VS450PP"
+    },
+    {
+      "market_name": "Optimus F3",
+      "codename": "fx3",
+      "model": "LG-LS720"
+    },
+    {
+      "market_name": "Optimus F3",
+      "codename": "fx3",
+      "model": "LG-P655H"
+    },
+    {
+      "market_name": "Optimus F3",
+      "codename": "fx3",
+      "model": "LG-P655K"
+    },
+    {
+      "market_name": "Optimus F3",
+      "codename": "fx3",
+      "model": "LG-P659"
+    },
+    {
+      "market_name": "Optimus F3",
+      "codename": "fx3",
+      "model": "LG-P659H"
+    },
+    {
+      "market_name": "Optimus F3",
+      "codename": "fx3",
+      "model": "LGL25L"
+    },
+    {
+      "market_name": "Optimus F3",
+      "codename": "fx3",
+      "model": "LGMS659"
+    },
+    {
+      "market_name": "Optimus F5",
+      "codename": "l1e",
+      "model": "LG-P870h"
+    },
+    {
+      "market_name": "Optimus F5",
+      "codename": "l1e",
+      "model": "LG-P875"
+    },
+    {
+      "market_name": "Optimus F5",
+      "codename": "l1e",
+      "model": "LG-P875h"
+    },
+    {
+      "market_name": "Optimus F5",
+      "codename": "l1v",
+      "model": "AS870 4G"
+    },
+    {
+      "market_name": "Optimus F6",
+      "codename": "f6",
+      "model": "LG-D500"
+    },
+    {
+      "market_name": "Optimus F6",
+      "codename": "f6",
+      "model": "LG-D505"
+    },
+    {
+      "market_name": "Optimus F6",
+      "codename": "f6",
+      "model": "LGMS500"
+    },
+    {
+      "market_name": "Optimus Fuel",
+      "codename": "w3c",
+      "model": "LGL34C"
+    },
+    {
+      "market_name": "Optimus G Pro",
+      "codename": "geevl04e",
+      "model": "L-04E"
+    },
+    {
+      "market_name": "Optimus GJ",
+      "codename": "geehdc",
+      "model": "LG-E975w"
+    },
+    {
+      "market_name": "Optimus GK",
+      "codename": "gvfhd",
+      "model": "LG-F220K"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "lgc800",
+      "model": "LG-C800"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "lgc800g",
+      "model": "LG-C800G"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_214-04",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_724-05",
+      "model": "LG-E510f"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_730-01",
+      "model": "LG-E510g"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_730-03",
+      "model": "LG-E510g"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_740-01",
+      "model": "LG-E510g"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_clr-br",
+      "model": "LG-E510f"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_ctm-xxx",
+      "model": "LG-E510g"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_ent-cl",
+      "model": "LG-E510g"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_open-br",
+      "model": "LG-E510f"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_open-de",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_ssv-xxx",
+      "model": "LG-E510g"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_tcl-mx",
+      "model": "LG-E510f"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_tlf-es",
+      "model": "LG-E510"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_ufn-mx",
+      "model": "LG-E510g"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_usc-mx",
+      "model": "LG-E510g"
+    },
+    {
+      "market_name": "Optimus Hub",
+      "codename": "univa_viv-br",
+      "model": "LG-E510f"
+    },
+    {
+      "market_name": "Optimus L40",
+      "codename": "w3",
+      "model": "LG-D160"
+    },
+    {
+      "market_name": "Optimus L40",
+      "codename": "w3",
+      "model": "LG-D165"
+    },
+    {
+      "market_name": "Optimus L40",
+      "codename": "w3",
+      "model": "LG-D165AR"
+    },
+    {
+      "market_name": "Optimus L40",
+      "codename": "w3ds",
+      "model": "LG-D170"
+    },
+    {
+      "market_name": "Optimus L40",
+      "codename": "w3ds",
+      "model": "LG-D175f"
+    },
+    {
+      "market_name": "Optimus L40",
+      "codename": "w3ts",
+      "model": "LG-D180f"
+    },
+    {
+      "market_name": "Optimus L5",
+      "codename": "m4",
+      "model": "LG-E610"
+    },
+    {
+      "market_name": "Optimus L5",
+      "codename": "m4",
+      "model": "LG-E610v"
+    },
+    {
+      "market_name": "Optimus L5",
+      "codename": "m4",
+      "model": "LG-E612"
+    },
+    {
+      "market_name": "Optimus L5",
+      "codename": "m4",
+      "model": "LG-E612f"
+    },
+    {
+      "market_name": "Optimus L5",
+      "codename": "m4",
+      "model": "LG-E612g"
+    },
+    {
+      "market_name": "Optimus L5",
+      "codename": "m4",
+      "model": "LG-E617G"
+    },
+    {
+      "market_name": "Optimus L5",
+      "codename": "m4",
+      "model": "LG-L40G"
+    },
+    {
+      "market_name": "Optimus L7II",
+      "codename": "vee7ds",
+      "model": "LG-P716"
+    },
+    {
+      "market_name": "Optimus LIFE",
+      "codename": "l1_dcm",
+      "model": "L-02E"
+    },
+    {
+      "market_name": "Optimus LTE",
+      "codename": "i_dcm",
+      "model": "L-01D"
+    },
+    {
+      "market_name": "Optimus LTE",
+      "codename": "i_skt",
+      "model": "LG-SU640"
+    },
+    {
+      "market_name": "Optimus LTE",
+      "codename": "i_u",
+      "model": "LG-LU6200"
+    },
+    {
+      "market_name": "Optimus LTE",
+      "codename": "iproj",
+      "model": "LG-P936"
+    },
+    {
+      "market_name": "Optimus LTE",
+      "codename": "lgp930",
+      "model": "LG-P930"
+    },
+    {
+      "market_name": "Optimus LTE",
+      "codename": "lgp935",
+      "model": "LG-P935"
+    },
+    {
+      "market_name": "Optimus Mach",
+      "codename": "LU3000",
+      "model": "LG-LU3000"
+    },
+    {
+      "market_name": "Optimus Mach",
+      "codename": "hub",
+      "model": "LG-LU3000"
+    },
+    {
+      "market_name": "Optimus Mach",
+      "codename": "lu3000",
+      "model": "LG-LU3000"
+    },
+    {
+      "market_name": "Optimus Net",
+      "codename": "gelato_302-610",
+      "model": "LG-P690b"
+    },
+    {
+      "market_name": "Optimus Net",
+      "codename": "gelato_cis-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "Optimus Net",
+      "codename": "gelato_sea-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "Optimus Net",
+      "codename": "lgl45c",
+      "model": "LGL45C"
+    },
+    {
+      "market_name": "Optimus Net Dual",
+      "codename": "gelatods_are-xxx",
+      "model": "LG-P698"
+    },
+    {
+      "market_name": "Optimus Net Dual",
+      "codename": "gelatods_cis-xxx",
+      "model": "LG-P698"
+    },
+    {
+      "market_name": "Optimus Net Dual",
+      "codename": "gelatods_ind-xxx",
+      "model": "LG-P698"
+    },
+    {
+      "market_name": "Optimus Net Dual",
+      "codename": "gelatods_open-br",
+      "model": "LG-P698f"
+    },
+    {
+      "market_name": "Optimus Net Dual",
+      "codename": "gelatods_sea-xxx",
+      "model": "LG-P698"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "ku3700",
+      "model": "LG-KU3700"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "lu3700",
+      "model": "LG-LU3700"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "su370",
+      "model": "LG-SU370"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "thunder_kor-05",
+      "model": "LG-SU370"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "thunder_kor-08",
+      "model": "LG-KU3700"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "thunder_kor-08",
+      "model": "LG-LU3700"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "thunderc",
+      "model": "LG-CX670"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "thunderc",
+      "model": "LG-LW690"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "thunderc",
+      "model": "LG-MS690"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "thunderc",
+      "model": "LG-US670"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "thunderc",
+      "model": "LS670"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "thunderc",
+      "model": "VM670"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "thunderc",
+      "model": "Vortex"
+    },
+    {
+      "market_name": "Optimus One",
+      "codename": "thunderc",
+      "model": "thunderc"
+    },
+    {
+      "market_name": "Optimus PAD LTE",
+      "codename": "express",
+      "model": "LG-LU8300"
+    },
+    {
+      "market_name": "Optimus Pad",
+      "codename": "l06c",
+      "model": "L-06C"
+    },
+    {
+      "market_name": "Optimus Pad",
+      "codename": "v900",
+      "model": "LG-V900"
+    },
+    {
+      "market_name": "Optimus Pad",
+      "codename": "v900asia",
+      "model": "LG-V900"
+    },
+    {
+      "market_name": "Optimus Pad",
+      "codename": "v901ar",
+      "model": "LG-V901"
+    },
+    {
+      "market_name": "Optimus Pad",
+      "codename": "v901kr",
+      "model": "LG-V901"
+    },
+    {
+      "market_name": "Optimus Pad",
+      "codename": "v901tr",
+      "model": "LG-V901"
+    },
+    {
+      "market_name": "Optimus Pad",
+      "codename": "v905r",
+      "model": "LG-V905R"
+    },
+    {
+      "market_name": "Optimus Pad",
+      "codename": "v909",
+      "model": "LG-V909"
+    },
+    {
+      "market_name": "Optimus Pad",
+      "codename": "v909mkt",
+      "model": "LG-V909"
+    },
+    {
+      "market_name": "Optimus Plus",
+      "codename": "m3_acg_us",
+      "model": "LG-AS695"
+    },
+    {
+      "market_name": "Optimus Pro",
+      "codename": "muscat",
+      "model": "LG-C660"
+    },
+    {
+      "market_name": "Optimus Pro",
+      "codename": "muscat",
+      "model": "LG-C660R"
+    },
+    {
+      "market_name": "Optimus Pro",
+      "codename": "muscat",
+      "model": "LG-C660h"
+    },
+    {
+      "market_name": "Optimus Q",
+      "codename": "lgl55c",
+      "model": "LGL55C"
+    },
+    {
+      "market_name": "Optimus Q2",
+      "codename": "bssq",
+      "model": "LG-LU6500"
+    },
+    {
+      "market_name": "Optimus Q2",
+      "codename": "bssq_450-06",
+      "model": "LG-LU6500"
+    },
+    {
+      "market_name": "Optimus Slider",
+      "codename": "VM701",
+      "model": "LG-VM701"
+    },
+    {
+      "market_name": "Optimus Sol",
+      "codename": "victor",
+      "model": "LG-E730"
+    },
+    {
+      "market_name": "Optimus Sol",
+      "codename": "victor",
+      "model": "LG-E730f"
+    },
+    {
+      "market_name": "Optimus Spirit",
+      "codename": "gelato_505-01",
+      "model": "LG-P690f"
+    },
+    {
+      "market_name": "Optimus Spirit",
+      "codename": "gelato_eur-xx",
+      "model": "LG-P690"
+    },
+    {
+      "market_name": "Optimus Vu",
+      "codename": "325.0",
+      "model": "LG-F100L"
+    },
+    {
+      "market_name": "Optimus Vu",
+      "codename": "batman",
+      "model": "LG-F100L"
+    },
+    {
+      "market_name": "Optimus Vu",
+      "codename": "batman",
+      "model": "LG-F100S"
+    },
+    {
+      "market_name": "Optimus Vu",
+      "codename": "batman_dcm",
+      "model": "L-06DJOJO"
+    },
+    {
+      "market_name": "Optimus Vu",
+      "codename": "batman_lgu",
+      "model": "LG-F100L"
+    },
+    {
+      "market_name": "Optimus Vu",
+      "codename": "batman_skt",
+      "model": "LG-F100S"
+    },
+    {
+      "market_name": "Optimus Vu",
+      "codename": "lge_325_skt",
+      "model": "LG-F100S"
+    },
+    {
+      "market_name": "Optimus Vu",
+      "codename": "vu10",
+      "model": "LG-P895"
+    },
+    {
+      "market_name": "Optimus Vu",
+      "codename": "vu10",
+      "model": "LG-P895qb"
+    },
+    {
+      "market_name": "Optimus Vu2",
+      "codename": "vu2kt",
+      "model": "LG-F200K"
+    },
+    {
+      "market_name": "Optimus Vu2",
+      "codename": "vu2sk",
+      "model": "LG-F200S"
+    },
+    {
+      "market_name": "Optimus Vu2",
+      "codename": "vu2u",
+      "model": "LG-F200L"
+    },
+    {
+      "market_name": "Optimus Vu2",
+      "codename": "vu2u",
+      "model": "LG-F200LS"
+    },
+    {
+      "market_name": "Optimus Vu:",
+      "codename": "batman_dcm",
+      "model": "L-06D"
+    },
+    {
+      "market_name": "Optimus Z",
+      "codename": "su950",
+      "model": "SU950"
+    },
+    {
+      "market_name": "Optimus Zone",
+      "codename": "e0v",
+      "model": "LG-VS410PP"
+    },
+    {
+      "market_name": "Optimus chat",
+      "codename": "elini",
+      "model": "L-04C"
+    },
+    {
+      "market_name": "PRADA 3.0",
+      "codename": "p2",
+      "model": "L-02D"
+    },
+    {
+      "market_name": "PRADA 3.0",
+      "codename": "p2",
+      "model": "LG-KU5400"
+    },
+    {
+      "market_name": "PRADA 3.0",
+      "codename": "p2",
+      "model": "LG-LU5400"
+    },
+    {
+      "market_name": "PRADA 3.0",
+      "codename": "p2",
+      "model": "LG-P940"
+    },
+    {
+      "market_name": "PRADA 3.0",
+      "codename": "p2",
+      "model": "LG-P940h"
+    },
+    {
+      "market_name": "PRADA 3.0",
+      "codename": "p2",
+      "model": "LG-SU540"
+    },
+    {
+      "market_name": "PecanV",
+      "codename": "pecanV",
+      "model": "LG-P355"
+    },
+    {
+      "market_name": "SH950C-CM",
+      "codename": "stb_catv_cnmuhd",
+      "model": "SH950C-CM"
+    },
+    {
+      "market_name": "Shine Plus with Google",
+      "codename": "alohag",
+      "model": "LG-C710h"
+    },
+    {
+      "market_name": "Smart Dios V8700",
+      "codename": "SE_TF",
+      "model": "ref_SCTF"
+    },
+    {
+      "market_name": "Spectrum",
+      "codename": "i_vzw",
+      "model": "VS920 4G"
+    },
+    {
+      "market_name": "Spectrum 2",
+      "codename": "d1lv",
+      "model": "VS930 4G"
+    },
+    {
+      "market_name": "Spirit 4G",
+      "codename": "l1m",
+      "model": "LG-MS870"
+    },
+    {
+      "market_name": "Splendor",
+      "codename": "u0_cdma",
+      "model": "LG-US730"
+    },
+    {
+      "market_name": "Spray",
+      "codename": "e2jps",
+      "model": "402LG"
+    },
+    {
+      "market_name": "Swift",
+      "codename": "swift",
+      "model": "GT540"
+    },
+    {
+      "market_name": "Swift",
+      "codename": "swift",
+      "model": "GT540GO"
+    },
+    {
+      "market_name": "Swift",
+      "codename": "swift",
+      "model": "GT540R"
+    },
+    {
+      "market_name": "Swift",
+      "codename": "swift",
+      "model": "GT540f"
+    },
+    {
+      "market_name": "TBD",
+      "codename": "aka",
+      "model": "LG-F520K"
+    },
+    {
+      "market_name": "Thrill 4G",
+      "codename": "cosmo_310-410",
+      "model": "LG-P925"
+    },
+    {
+      "market_name": "Thrill 4G",
+      "codename": "p925",
+      "model": "LG-P925"
+    },
+    {
+      "market_name": "VU3",
+      "codename": "vu3",
+      "model": "LG-F300K"
+    },
+    {
+      "market_name": "VU3",
+      "codename": "vu3",
+      "model": "LG-F300L"
+    },
+    {
+      "market_name": "VU3",
+      "codename": "vu3",
+      "model": "LG-F300S"
+    },
+    {
+      "market_name": "Wine Smart",
+      "codename": "vfp",
+      "model": "LG-D486"
+    },
+    {
+      "market_name": "Wine Smart",
+      "codename": "vfp",
+      "model": "LG-F480K"
+    },
+    {
+      "market_name": "Wine Smart",
+      "codename": "vfp",
+      "model": "LG-F480L"
+    },
+    {
+      "market_name": "Wine Smart",
+      "codename": "vfp",
+      "model": "LG-F480S"
+    },
+    {
+      "market_name": "Y25",
+      "codename": "y25",
+      "model": "LGL15G"
+    },
+    {
+      "market_name": "Y25",
+      "codename": "y25c",
+      "model": "LGL16C"
+    }
+  ]
+}

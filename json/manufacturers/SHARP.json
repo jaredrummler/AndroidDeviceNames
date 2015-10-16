@@ -1,0 +1,690 @@
+{
+  "manufacturer": "Sharp",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "SH7218T",
+      "model": "SH7218T"
+    },
+    {
+      "market_name": "",
+      "codename": "SH8268U",
+      "model": "SH8268U"
+    },
+    {
+      "market_name": "",
+      "codename": "SH8288U",
+      "model": "SH8288U"
+    },
+    {
+      "market_name": "",
+      "codename": "SH8298U",
+      "model": "SH8298U"
+    },
+    {
+      "market_name": "",
+      "codename": "msm7627_surf",
+      "model": "SH8118U"
+    },
+    {
+      "market_name": "306SH",
+      "codename": "SG306SH",
+      "model": "306SH"
+    },
+    {
+      "market_name": "401SH",
+      "codename": "SG401SH",
+      "model": "401SH"
+    },
+    {
+      "market_name": "A01SH",
+      "codename": "A01SH",
+      "model": "A01SH"
+    },
+    {
+      "market_name": "ADS1",
+      "codename": "ADS1",
+      "model": "SHARP-ADS1"
+    },
+    {
+      "market_name": "AQUOS CRYSTAL 2",
+      "codename": "SG403SH",
+      "model": "403SH"
+    },
+    {
+      "market_name": "AQUOS CRYSTAL X",
+      "codename": "SG402SH",
+      "model": "402SH"
+    },
+    {
+      "market_name": "AQUOS EVER SH-04G",
+      "codename": "SH-04G",
+      "model": "SH-04G"
+    },
+    {
+      "market_name": "AQUOS K SHF31",
+      "codename": "SHF31",
+      "model": "SHF31"
+    },
+    {
+      "market_name": "AQUOS K SHF32",
+      "codename": "SHF32",
+      "model": "SHF32"
+    },
+    {
+      "market_name": "AQUOS PAD  SHT22",
+      "codename": "SHT22",
+      "model": "SHT22"
+    },
+    {
+      "market_name": "AQUOS PAD SH-05G",
+      "codename": "SH-05G",
+      "model": "SH-05G"
+    },
+    {
+      "market_name": "AQUOS PAD SH-06F",
+      "codename": "SH-06F",
+      "model": "SH-06F"
+    },
+    {
+      "market_name": "AQUOS PAD SH-08E",
+      "codename": "SH-08E",
+      "model": "SH-08E"
+    },
+    {
+      "market_name": "AQUOS PAD SHT21",
+      "codename": "SHT21",
+      "model": "SHT21"
+    },
+    {
+      "market_name": "AQUOS PHONE  SERIE SHL22",
+      "codename": "SHL22",
+      "model": "SHL22"
+    },
+    {
+      "market_name": "AQUOS PHONE  SERIE SHL23",
+      "codename": "SHL23",
+      "model": "SHL23"
+    },
+    {
+      "market_name": "AQUOS PHONE  SERIE mini SHL24",
+      "codename": "SHL24",
+      "model": "SHL24"
+    },
+    {
+      "market_name": "AQUOS PHONE CL IS17SH",
+      "codename": "SHI17",
+      "model": "IS17SH"
+    },
+    {
+      "market_name": "AQUOS PHONE EX SH-02F",
+      "codename": "SH-02F",
+      "model": "SH-02F"
+    },
+    {
+      "market_name": "AQUOS PHONE EX SH-04E",
+      "codename": "SH04E",
+      "model": "SH-04E"
+    },
+    {
+      "market_name": "AQUOS PHONE IS11SH",
+      "codename": "SHI11",
+      "model": "IS11SH"
+    },
+    {
+      "market_name": "AQUOS PHONE IS12SH",
+      "codename": "SHI12",
+      "model": "IS12SH"
+    },
+    {
+      "market_name": "AQUOS PHONE IS13SH",
+      "codename": "SHI13",
+      "model": "IS13SH"
+    },
+    {
+      "market_name": "AQUOS PHONE IS14SH",
+      "codename": "SHI14",
+      "model": "IS14SH"
+    },
+    {
+      "market_name": "AQUOS PHONE SERIE ISW16SH",
+      "codename": "SHI16",
+      "model": "ISW16SH"
+    },
+    {
+      "market_name": "AQUOS PHONE SERIE SHL21",
+      "codename": "SHL21",
+      "model": "SHL21"
+    },
+    {
+      "market_name": "AQUOS PHONE SH-01D",
+      "codename": "SH01D",
+      "model": "SH-01D"
+    },
+    {
+      "market_name": "AQUOS PHONE SH-06D",
+      "codename": "SH06D",
+      "model": "SH-06D"
+    },
+    {
+      "market_name": "AQUOS PHONE SH-12C",
+      "codename": "SH12C",
+      "model": "SH-12C"
+    },
+    {
+      "market_name": "AQUOS PHONE SH90B",
+      "codename": "SH90B",
+      "model": "SH90B"
+    },
+    {
+      "market_name": "AQUOS PHONE SL IS15SH",
+      "codename": "SHI15",
+      "model": "IS15SH"
+    },
+    {
+      "market_name": "AQUOS PHONE SoftBank  102SH II",
+      "codename": "SBM102SH2",
+      "model": "SBM102SH2"
+    },
+    {
+      "market_name": "AQUOS PHONE SoftBank 006SH",
+      "codename": "SBM006SH",
+      "model": "SBM006SH"
+    },
+    {
+      "market_name": "AQUOS PHONE SoftBank 102SH",
+      "codename": "SBM102SH",
+      "model": "SBM102SH"
+    },
+    {
+      "market_name": "AQUOS PHONE SoftBank 103SH",
+      "codename": "SBM103SH",
+      "model": "SBM103SH"
+    },
+    {
+      "market_name": "AQUOS PHONE SoftBank 104SH",
+      "codename": "SBM104SH",
+      "model": "SBM104SH"
+    },
+    {
+      "market_name": "AQUOS PHONE THE HYBRID SoftBank 007SH",
+      "codename": "SBM007SH",
+      "model": "SBM007SH"
+    },
+    {
+      "market_name": "AQUOS PHONE THE HYBRID SoftBank 007SH J",
+      "codename": "SBM007SHJ",
+      "model": "SBM007SHJ"
+    },
+    {
+      "market_name": "AQUOS PHONE THE HYBRID SoftBank 101SH",
+      "codename": "SBM101SH",
+      "model": "SBM101SH"
+    },
+    {
+      "market_name": "AQUOS PHONE THE PREMIUM SoftBank\n009SH",
+      "codename": "SBM009SH",
+      "model": "SBM009SH"
+    },
+    {
+      "market_name": "AQUOS PHONE WX05SH",
+      "codename": "WX05SH",
+      "model": "WX05SH"
+    },
+    {
+      "market_name": "AQUOS PHONE Xx 206SH",
+      "codename": "SBM206SH",
+      "model": "SBM206SH"
+    },
+    {
+      "market_name": "AQUOS PHONE Xx 302SH",
+      "codename": "SBM302SH",
+      "model": "SBM302SH"
+    },
+    {
+      "market_name": "AQUOS PHONE Xx SoftBank 106SH",
+      "codename": "SBM106SH",
+      "model": "SBM106SH"
+    },
+    {
+      "market_name": "AQUOS PHONE Xx mini 303SH",
+      "codename": "SBM303SH",
+      "model": "SBM303SH"
+    },
+    {
+      "market_name": "AQUOS PHONE ZETA  SH-01F",
+      "codename": "SH-01F",
+      "model": "SH-01F"
+    },
+    {
+      "market_name": "AQUOS PHONE ZETA SH-02E",
+      "codename": "SH02E",
+      "model": "SH-02E"
+    },
+    {
+      "market_name": "AQUOS PHONE ZETA SH-06E",
+      "codename": "SH-06E",
+      "model": "SH-06E"
+    },
+    {
+      "market_name": "AQUOS PHONE ZETA SH-09D",
+      "codename": "SH09D",
+      "model": "SH-09D"
+    },
+    {
+      "market_name": "AQUOS PHONE es WX04SH",
+      "codename": "WX04SH",
+      "model": "WX04SH"
+    },
+    {
+      "market_name": "AQUOS PHONE f SH-13C",
+      "codename": "SH13C",
+      "model": "SH-13C"
+    },
+    {
+      "market_name": "AQUOS PHONE si SH-01E",
+      "codename": "SH01E",
+      "model": "SH-01E"
+    },
+    {
+      "market_name": "AQUOS PHONE si SH-07E",
+      "codename": "SH-07E",
+      "model": "SH-07E"
+    },
+    {
+      "market_name": "AQUOS PHONE slider SH-02D",
+      "codename": "SH02D",
+      "model": "SH-02D"
+    },
+    {
+      "market_name": "AQUOS PHONE ss 205SH",
+      "codename": "SBM205SH",
+      "model": "SBM205SH"
+    },
+    {
+      "market_name": "AQUOS PHONE st SH-07D",
+      "codename": "SH07D",
+      "model": "SH-07D"
+    },
+    {
+      "market_name": "AQUOS PHONE sv SH-10D",
+      "codename": "SH10D",
+      "model": "SH-10D"
+    },
+    {
+      "market_name": "AQUOS SERIE SHL25",
+      "codename": "SHL25",
+      "model": "SHL25"
+    },
+    {
+      "market_name": "AQUOS SERIE SHV32",
+      "codename": "SHV32",
+      "model": "SHV32"
+    },
+    {
+      "market_name": "AQUOS SERIE mini SHV31",
+      "codename": "SHV31",
+      "model": "SHV31"
+    },
+    {
+      "market_name": "AQUOS SH-M01",
+      "codename": "SH-M01",
+      "model": "SH-M01"
+    },
+    {
+      "market_name": "AQUOS Xx",
+      "codename": "SG404SH",
+      "model": "404SH"
+    },
+    {
+      "market_name": "AQUOS Xx 304SH",
+      "codename": "SG304SH",
+      "model": "304SH"
+    },
+    {
+      "market_name": "AQUOS ZETA SH-01G",
+      "codename": "SH-01G",
+      "model": "SH-01G"
+    },
+    {
+      "market_name": "AQUOS ZETA SH-03G",
+      "codename": "SH-03G",
+      "model": "SH-03G"
+    },
+    {
+      "market_name": "AQUOS ZETA SH-04F",
+      "codename": "SH-04F",
+      "model": "SH-04F"
+    },
+    {
+      "market_name": "AQUOS\n\\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\x a4 SH-06G",
+      "codename": "SH-06G",
+      "model": "SH-06G"
+    },
+    {
+      "market_name": "DM009SH",
+      "codename": "DM009SH",
+      "model": "DM009SH"
+    },
+    {
+      "market_name": "DM010SH",
+      "codename": "DM010SH",
+      "model": "DM010SH"
+    },
+    {
+      "market_name": "DM011SH",
+      "codename": "DM011SH",
+      "model": "DM011SH"
+    },
+    {
+      "market_name": "DM012SH",
+      "codename": "DM012SH",
+      "model": "DM012SH"
+    },
+    {
+      "market_name": "DM013SH",
+      "codename": "DM013SH",
+      "model": "DM013SH"
+    },
+    {
+      "market_name": "DM016SH",
+      "codename": "DM016SH",
+      "model": "DM016SH"
+    },
+    {
+      "market_name": "Disney Mobile DM014SH",
+      "codename": "DM014SH",
+      "model": "DM014SH"
+    },
+    {
+      "market_name": "Disney Mobile on docomo SH-02G",
+      "codename": "SH-02G",
+      "model": "SH-02G"
+    },
+    {
+      "market_name": "Disney Mobile on docomo SH-05F",
+      "codename": "SH-05F",
+      "model": "SH-05F"
+    },
+    {
+      "market_name": "EB-A71GJ",
+      "codename": "EB-A71GJ",
+      "model": "EB-A71GJ"
+    },
+    {
+      "market_name": "EB-WX1GJ/EB-W51GJ",
+      "codename": "Galapagos",
+      "model": "EB-W51GJ"
+    },
+    {
+      "market_name": "EB-WX1GJ/EB-W51GJ",
+      "codename": "Galapagos",
+      "model": "EB-WX1GJ"
+    },
+    {
+      "market_name": "GALAPAGOS SoftBank 003SH",
+      "codename": "SBM003SH",
+      "model": "SBM003SH"
+    },
+    {
+      "market_name": "GALAPAGOS SoftBank 005SH",
+      "codename": "SBM005SH",
+      "model": "SBM005SH"
+    },
+    {
+      "market_name": "INFOBAR A01",
+      "codename": "SHX11",
+      "model": "INFOBAR A01"
+    },
+    {
+      "market_name": "INFOBAR C01",
+      "codename": "SHX12",
+      "model": "INFOBAR C01"
+    },
+    {
+      "market_name": "IS01",
+      "codename": "SHI01",
+      "model": "IS01"
+    },
+    {
+      "market_name": "IS03",
+      "codename": "SHI03",
+      "model": "IS03"
+    },
+    {
+      "market_name": "IS05",
+      "codename": "SHI05",
+      "model": "IS05"
+    },
+    {
+      "market_name": "LC-**UH30U",
+      "codename": "sharp_2k15_us_android",
+      "model": "LC-Ux30US"
+    },
+    {
+      "market_name": "LC-42LE860H",
+      "codename": "LC-42LE860H",
+      "model": "LC-42LE860H"
+    },
+    {
+      "market_name": "LC-42LE860M",
+      "codename": "LC-42LE860M",
+      "model": "LC-42LE860M"
+    },
+    {
+      "market_name": "LC-50LE860H",
+      "codename": "LC-50LE860H",
+      "model": "LC-50LE860H"
+    },
+    {
+      "market_name": "LC-50LE860M",
+      "codename": "LC-50LE860M",
+      "model": "LC-50LE860M"
+    },
+    {
+      "market_name": "LC-50UE1H",
+      "codename": "LC-50UE1H",
+      "model": "LC-50UE1H"
+    },
+    {
+      "market_name": "LC-50UE1M",
+      "codename": "LC-50UE1M",
+      "model": "LC-50UE1M"
+    },
+    {
+      "market_name": "LC-55LE860H",
+      "codename": "LC-55LE860H",
+      "model": "LC-55LE860H"
+    },
+    {
+      "market_name": "LC-55LE860M",
+      "codename": "LC-55LE860M",
+      "model": "LC-55LE860M"
+    },
+    {
+      "market_name": "LC-58UE1H",
+      "codename": "LC-58UE1H",
+      "model": "LC-58UE1H"
+    },
+    {
+      "market_name": "LC-58UE1M",
+      "codename": "LC-58UE1M",
+      "model": "LC-58UE1M"
+    },
+    {
+      "market_name": "LC-A11A",
+      "codename": "a11a",
+      "model": "LC-A11A"
+    },
+    {
+      "market_name": "LC-A1H",
+      "codename": "a1h",
+      "model": "LC-A1H"
+    },
+    {
+      "market_name": "LC-LX565H",
+      "codename": "lx565h",
+      "model": "LC-LX565H"
+    },
+    {
+      "market_name": "LC-S3H-01",
+      "codename": "lc_s3h01",
+      "model": "LC-S3H-01"
+    },
+    {
+      "market_name": "LCD-LX460A",
+      "codename": "lx460a",
+      "model": "LCD-LX460A"
+    },
+    {
+      "market_name": "LCD-LX560A",
+      "codename": "lx560a",
+      "model": "LCD-LX560A"
+    },
+    {
+      "market_name": "LCD-LX565A",
+      "codename": "lx565ab",
+      "model": "LCD-LX565A-B"
+    },
+    {
+      "market_name": "LCD-LX565A",
+      "codename": "msd818sharp",
+      "model": "LCD-LX565A"
+    },
+    {
+      "market_name": "LCD-S3A-01",
+      "codename": "lcd_s3a01",
+      "model": "LCD-S3A-01"
+    },
+    {
+      "market_name": "LCD-UF30A",
+      "codename": "lcd_uf30a",
+      "model": "LCD-UF30A"
+    },
+    {
+      "market_name": "LCD-V3A",
+      "codename": "v3a",
+      "model": "LCD-V3A"
+    },
+    {
+      "market_name": "LYNX 3D SH-03C",
+      "codename": "SH03C",
+      "model": "SH-03C"
+    },
+    {
+      "market_name": "LYNX SH-10B",
+      "codename": "SH10B",
+      "model": "SH-10B"
+    },
+    {
+      "market_name": "Media Tablet",
+      "codename": "EB-L76G-B",
+      "model": "EB-L76G-B"
+    },
+    {
+      "market_name": "PANTONE 5 SoftBank 107SH",
+      "codename": "SBM107SH",
+      "model": "SBM107SH"
+    },
+    {
+      "market_name": "PANTONE 6 SoftBank 200SH",
+      "codename": "SBM200SH",
+      "model": "SBM200SH"
+    },
+    {
+      "market_name": "Q-pot.Phone SH-04D",
+      "codename": "SH04D",
+      "model": "SH-04D"
+    },
+    {
+      "market_name": "RW107",
+      "codename": "RW107",
+      "model": "RW107"
+    },
+    {
+      "market_name": "SBM204SH",
+      "codename": "SBM204SH",
+      "model": "SBM204SH"
+    },
+    {
+      "market_name": "SC-S01",
+      "codename": "scallop",
+      "model": "SC-S01"
+    },
+    {
+      "market_name": "SH-01E Vivienne Westwood",
+      "codename": "SH01EVW",
+      "model": "SH-01EVW"
+    },
+    {
+      "market_name": "SH-01F DRAGON QUEST",
+      "codename": "SH-01FDQ",
+      "model": "SH-01FDQ"
+    },
+    {
+      "market_name": "SH-03F",
+      "codename": "SH03F",
+      "model": "SH-03F"
+    },
+    {
+      "market_name": "SH-05E",
+      "codename": "SH05E",
+      "model": "SH-05E"
+    },
+    {
+      "market_name": "SH-06D NERV",
+      "codename": "SH06DNERV",
+      "model": "SH-06DNERV"
+    },
+    {
+      "market_name": "SH80F",
+      "codename": "SH80F",
+      "model": "SH80F"
+    },
+    {
+      "market_name": "SH8118U",
+      "codename": "msm7627",
+      "model": "SH8118U"
+    },
+    {
+      "market_name": "SH8128U",
+      "codename": "msm7627",
+      "model": "SH8128U"
+    },
+    {
+      "market_name": "SH8188U",
+      "codename": "SH8188U",
+      "model": "SH8188U"
+    },
+    {
+      "market_name": "SH825wi",
+      "codename": "SH825Wi",
+      "model": "SH825Wi"
+    },
+    {
+      "market_name": "SoftBank 007SH KT",
+      "codename": "SBM007SHK",
+      "model": "SBM007SHK"
+    },
+    {
+      "market_name": "SoftBank 107SH B",
+      "codename": "SBM107SHB",
+      "model": "SBM107SHB"
+    },
+    {
+      "market_name": "SoftBank 305SH",
+      "codename": "SG305SH",
+      "model": "305SH"
+    },
+    {
+      "market_name": "SoftBank AQUOS PHONE Xx 203SH",
+      "codename": "SBM203SH",
+      "model": "SBM203SH"
+    },
+    {
+      "market_name": "Yahoo! Phone SoftBank 009SH Y",
+      "codename": "SBM009SHY",
+      "model": "SBM009SHY"
+    }
+  ]
+}

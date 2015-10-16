@@ -1,0 +1,4590 @@
+{
+  "manufacturer": "ZTE",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "BUL_P726G",
+      "model": "ZTE-RACER"
+    },
+    {
+      "market_name": "",
+      "codename": "D930",
+      "model": "D930"
+    },
+    {
+      "market_name": "",
+      "codename": "Grand-S",
+      "model": "ZTE Grand S"
+    },
+    {
+      "market_name": "",
+      "codename": "N720",
+      "model": "N720"
+    },
+    {
+      "market_name": "",
+      "codename": "N720_Micromax",
+      "model": "Micromax A60"
+    },
+    {
+      "market_name": "",
+      "codename": "N721",
+      "model": "N721"
+    },
+    {
+      "market_name": "",
+      "codename": "N721",
+      "model": "ZTE-U N721"
+    },
+    {
+      "market_name": "",
+      "codename": "N721",
+      "model": "ZTE_U N721"
+    },
+    {
+      "market_name": "",
+      "codename": "N8010_CT",
+      "model": "ZXY-ZTE_N8010"
+    },
+    {
+      "market_name": "",
+      "codename": "N8010_CT_BL",
+      "model": "ZXY-ZTE_N8010"
+    },
+    {
+      "market_name": "",
+      "codename": "N8300_CT",
+      "model": "ZXY-ZTE N8300"
+    },
+    {
+      "market_name": "",
+      "codename": "NX501",
+      "model": "NX501"
+    },
+    {
+      "market_name": "",
+      "codename": "P117A11",
+      "model": "ZTE U807"
+    },
+    {
+      "market_name": "",
+      "codename": "P117A13",
+      "model": "ZTE U807N"
+    },
+    {
+      "market_name": "",
+      "codename": "P117A20qHD",
+      "model": "ZTE U817"
+    },
+    {
+      "market_name": "",
+      "codename": "P117A30",
+      "model": "ZTE U935"
+    },
+    {
+      "market_name": "",
+      "codename": "P117T21",
+      "model": "ZTE U960E"
+    },
+    {
+      "market_name": "",
+      "codename": "P188T10",
+      "model": "ZTE U956"
+    },
+    {
+      "market_name": "",
+      "codename": "P188T20",
+      "model": "ZTE U819"
+    },
+    {
+      "market_name": "",
+      "codename": "P253A20",
+      "model": "ZTE V768"
+    },
+    {
+      "market_name": "",
+      "codename": "P722G",
+      "model": "ZTE-U X876"
+    },
+    {
+      "market_name": "",
+      "codename": "P726CU",
+      "model": "ZTE-U X850"
+    },
+    {
+      "market_name": "",
+      "codename": "P726G",
+      "model": "ZTE-LINK"
+    },
+    {
+      "market_name": "",
+      "codename": "P726G",
+      "model": "ZTE-RACER"
+    },
+    {
+      "market_name": "",
+      "codename": "P726G",
+      "model": "ZTE-WAVE"
+    },
+    {
+      "market_name": "",
+      "codename": "P726N",
+      "model": "soft stone"
+    },
+    {
+      "market_name": "",
+      "codename": "P726N",
+      "model": "soft-stone"
+    },
+    {
+      "market_name": "",
+      "codename": "P726VV",
+      "model": "ZTE-U X850"
+    },
+    {
+      "market_name": "",
+      "codename": "P727A",
+      "model": "VF945"
+    },
+    {
+      "market_name": "",
+      "codename": "P729B",
+      "model": "Orange Tactile internet 2"
+    },
+    {
+      "market_name": "",
+      "codename": "P729C",
+      "model": "ZTE-BLADE"
+    },
+    {
+      "market_name": "",
+      "codename": "P810A10",
+      "model": "ZTE U880s2"
+    },
+    {
+      "market_name": "",
+      "codename": "P810A20",
+      "model": "ZTE U887"
+    },
+    {
+      "market_name": "",
+      "codename": "P810T01",
+      "model": "ZTE U791"
+    },
+    {
+      "market_name": "",
+      "codename": "P810T01",
+      "model": "ZTE U791(OPEN)"
+    },
+    {
+      "market_name": "",
+      "codename": "P810T02",
+      "model": "ZTE U793"
+    },
+    {
+      "market_name": "",
+      "codename": "P825T10",
+      "model": "ZTE U808"
+    },
+    {
+      "market_name": "",
+      "codename": "P825T10",
+      "model": "ZTE U808(OPEN)"
+    },
+    {
+      "market_name": "",
+      "codename": "QB7211",
+      "model": "QB7211"
+    },
+    {
+      "market_name": "",
+      "codename": "QB7211",
+      "model": "STARTEXT II"
+    },
+    {
+      "market_name": "",
+      "codename": "T77",
+      "model": "T77"
+    },
+    {
+      "market_name": "",
+      "codename": "T9",
+      "model": "ZTE-T T9"
+    },
+    {
+      "market_name": "",
+      "codename": "TWM_P726G",
+      "model": "Taiwan Mobile T2"
+    },
+    {
+      "market_name": "",
+      "codename": "U788",
+      "model": "ZTE U788"
+    },
+    {
+      "market_name": "",
+      "codename": "U790",
+      "model": "ZTE U790"
+    },
+    {
+      "market_name": "",
+      "codename": "U795",
+      "model": "ZTE U795"
+    },
+    {
+      "market_name": "",
+      "codename": "U805",
+      "model": "ZTE-T U805"
+    },
+    {
+      "market_name": "",
+      "codename": "U812",
+      "model": "ZTE-T U812"
+    },
+    {
+      "market_name": "",
+      "codename": "U830",
+      "model": "ZTE-T U830"
+    },
+    {
+      "market_name": "",
+      "codename": "U880E",
+      "model": "ZTE U880E"
+    },
+    {
+      "market_name": "",
+      "codename": "U880F1",
+      "model": "ZTE U880F1"
+    },
+    {
+      "market_name": "",
+      "codename": "U880s",
+      "model": "ZTE U880s"
+    },
+    {
+      "market_name": "",
+      "codename": "U885",
+      "model": "ZTE U885"
+    },
+    {
+      "market_name": "",
+      "codename": "U930HD",
+      "model": "ZTE U930HD"
+    },
+    {
+      "market_name": "",
+      "codename": "U960s",
+      "model": "ZTE-T U960s"
+    },
+    {
+      "market_name": "",
+      "codename": "U960s2",
+      "model": "ZTE U960s2"
+    },
+    {
+      "market_name": "",
+      "codename": "U960s3",
+      "model": "ZTE U960s3"
+    },
+    {
+      "market_name": "",
+      "codename": "V6020_Claro",
+      "model": "V6020_Claro"
+    },
+    {
+      "market_name": "",
+      "codename": "V66",
+      "model": "V66"
+    },
+    {
+      "market_name": "",
+      "codename": "V68",
+      "model": "V68"
+    },
+    {
+      "market_name": "",
+      "codename": "V71A",
+      "model": "STARTAB"
+    },
+    {
+      "market_name": "",
+      "codename": "V71A",
+      "model": "V71B"
+    },
+    {
+      "market_name": "",
+      "codename": "V768",
+      "model": "ZTE V768"
+    },
+    {
+      "market_name": "",
+      "codename": "V8100_Z55",
+      "model": "V8100_Z55"
+    },
+    {
+      "market_name": "",
+      "codename": "V8200_EE_UK",
+      "model": "V8200_EE_UK"
+    },
+    {
+      "market_name": "",
+      "codename": "V8200_OSK",
+      "model": "V8200-Memphis-orange-Slovakia"
+    },
+    {
+      "market_name": "",
+      "codename": "V8300_Z39",
+      "model": "V8300_Z39"
+    },
+    {
+      "market_name": "",
+      "codename": "V857",
+      "model": "ZTE-U V857"
+    },
+    {
+      "market_name": "",
+      "codename": "V875m",
+      "model": "ZTE-U V875m"
+    },
+    {
+      "market_name": "",
+      "codename": "X500",
+      "model": "X500"
+    },
+    {
+      "market_name": "",
+      "codename": "X500",
+      "model": "X500_USA_General"
+    },
+    {
+      "market_name": "",
+      "codename": "X500MMB",
+      "model": "ZTE-C X500"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-Grand-S",
+      "model": "ZTE Grand S"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-N5",
+      "model": "ZTE N5"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-N807",
+      "model": "ZTE N807"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-N880F",
+      "model": "ZTE N880F"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-N881E",
+      "model": "ZTE N881E"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-N881F",
+      "model": "ZTE N881F"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-N980",
+      "model": "ZTE N980"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-N988",
+      "model": "ZTE N988"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-U-V889F",
+      "model": "ZTE-U V889F"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-V72A",
+      "model": "V72A"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-V889F",
+      "model": "ZTE V889F"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-V955",
+      "model": "ZTE V955"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-V956",
+      "model": "ZTE V956"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-V988",
+      "model": "ZTE Grand S"
+    },
+    {
+      "market_name": "",
+      "codename": "ZTE-V988",
+      "model": "ZTE V988"
+    },
+    {
+      "market_name": "",
+      "codename": "amigo",
+      "model": "Android Edition Starnaute"
+    },
+    {
+      "market_name": "",
+      "codename": "arthur",
+      "model": "N860"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "Acqua"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "BLADE III"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "MEDION LIFE P4012"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "N880E"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "ZTE G882"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "ZTE N880E"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "ZTE N881D"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "ZTE N882E"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "ZTE R22"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "ZTE T22"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "ZTE V880E"
+    },
+    {
+      "market_name": "",
+      "codename": "atlas40",
+      "model": "ZTE V889D"
+    },
+    {
+      "market_name": "",
+      "codename": "banana",
+      "model": "ZTE-C N780"
+    },
+    {
+      "market_name": "",
+      "codename": "blade",
+      "model": "MegaFon SP-A5"
+    },
+    {
+      "market_name": "",
+      "codename": "blade",
+      "model": "V880"
+    },
+    {
+      "market_name": "",
+      "codename": "blade",
+      "model": "ZTE Libra"
+    },
+    {
+      "market_name": "",
+      "codename": "blade",
+      "model": "ZTE-BLADE"
+    },
+    {
+      "market_name": "",
+      "codename": "blade2",
+      "model": "ATLAS W"
+    },
+    {
+      "market_name": "",
+      "codename": "blade2",
+      "model": "BLADEII"
+    },
+    {
+      "market_name": "",
+      "codename": "blade2",
+      "model": "Blade S"
+    },
+    {
+      "market_name": "",
+      "codename": "blade2",
+      "model": "San Francisco II"
+    },
+    {
+      "market_name": "",
+      "codename": "bladeplus",
+      "model": "008Z"
+    },
+    {
+      "market_name": "",
+      "codename": "bladeplus",
+      "model": "V881"
+    },
+    {
+      "market_name": "",
+      "codename": "bladeplus",
+      "model": "ZTE V881"
+    },
+    {
+      "market_name": "",
+      "codename": "bladeplus",
+      "model": "ZTE-U V881"
+    },
+    {
+      "market_name": "",
+      "codename": "cardhu",
+      "model": "ZTE-T T98"
+    },
+    {
+      "market_name": "",
+      "codename": "crane-zte7",
+      "model": "K75"
+    },
+    {
+      "market_name": "",
+      "codename": "dana",
+      "model": "ZTE N970"
+    },
+    {
+      "market_name": "",
+      "codename": "deepblue",
+      "model": "ZTE N790"
+    },
+    {
+      "market_name": "",
+      "codename": "deepblue",
+      "model": "ZTE N790S"
+    },
+    {
+      "market_name": "",
+      "codename": "enterprise",
+      "model": "ZTE U5"
+    },
+    {
+      "market_name": "",
+      "codename": "enterprise_HK",
+      "model": "ZTE Grand Era"
+    },
+    {
+      "market_name": "",
+      "codename": "enterprise_U950",
+      "model": "ZTE U950"
+    },
+    {
+      "market_name": "",
+      "codename": "enterprise_U985",
+      "model": "ZTE U985"
+    },
+    {
+      "market_name": "",
+      "codename": "enterprise_V985",
+      "model": "ZTE V985"
+    },
+    {
+      "market_name": "",
+      "codename": "frosty",
+      "model": "ZTE T82"
+    },
+    {
+      "market_name": "",
+      "codename": "hct77_ics2",
+      "model": "V865M"
+    },
+    {
+      "market_name": "",
+      "codename": "hope",
+      "model": "N855D"
+    },
+    {
+      "market_name": "",
+      "codename": "hope",
+      "model": "N855D_PERFECTUM"
+    },
+    {
+      "market_name": "",
+      "codename": "hope",
+      "model": "N855D_YM"
+    },
+    {
+      "market_name": "",
+      "codename": "hope",
+      "model": "ZTE N855"
+    },
+    {
+      "market_name": "",
+      "codename": "hope",
+      "model": "ZTE N855D"
+    },
+    {
+      "market_name": "",
+      "codename": "hope",
+      "model": "ZTE N855D+"
+    },
+    {
+      "market_name": "",
+      "codename": "iliamna",
+      "model": "ZTE T81"
+    },
+    {
+      "market_name": "",
+      "codename": "joe",
+      "model": "V871"
+    },
+    {
+      "market_name": "",
+      "codename": "joe",
+      "model": "Vodafone 945"
+    },
+    {
+      "market_name": "",
+      "codename": "kiska",
+      "model": "ZTE V9800"
+    },
+    {
+      "market_name": "",
+      "codename": "mooncake2",
+      "model": "MTS-SP102"
+    },
+    {
+      "market_name": "",
+      "codename": "mooncake2",
+      "model": "Mtag 281"
+    },
+    {
+      "market_name": "",
+      "codename": "mooncake2",
+      "model": "ZTE N660"
+    },
+    {
+      "market_name": "",
+      "codename": "msm7627a",
+      "model": "ZTE N880F"
+    },
+    {
+      "market_name": "",
+      "codename": "msm7627a",
+      "model": "ZTE V889F"
+    },
+    {
+      "market_name": "",
+      "codename": "msm7627a",
+      "model": "ZTE-U V889F"
+    },
+    {
+      "market_name": "",
+      "codename": "msm7630_zteu960",
+      "model": "ZTE U960D"
+    },
+    {
+      "market_name": "",
+      "codename": "msm7630_zteu960",
+      "model": "ZTE-T U960"
+    },
+    {
+      "market_name": "",
+      "codename": "nice",
+      "model": "A21plus"
+    },
+    {
+      "market_name": "",
+      "codename": "nice",
+      "model": "ICE"
+    },
+    {
+      "market_name": "",
+      "codename": "nice",
+      "model": "KIS II"
+    },
+    {
+      "market_name": "",
+      "codename": "nice",
+      "model": "Orange Zali"
+    },
+    {
+      "market_name": "",
+      "codename": "nice",
+      "model": "Turkcell Maxi Plus 5"
+    },
+    {
+      "market_name": "",
+      "codename": "nice",
+      "model": "V880S"
+    },
+    {
+      "market_name": "",
+      "codename": "nice",
+      "model": "ZTE Kis Pro"
+    },
+    {
+      "market_name": "",
+      "codename": "okmok",
+      "model": "ZTE V9500"
+    },
+    {
+      "market_name": "",
+      "codename": "p173a10",
+      "model": "ZTE-U V760"
+    },
+    {
+      "market_name": "",
+      "codename": "r750",
+      "model": "ZTE-C R750"
+    },
+    {
+      "market_name": "",
+      "codename": "racer2",
+      "model": "ARIZONA"
+    },
+    {
+      "market_name": "",
+      "codename": "racer2",
+      "model": "Kyivstar Shine"
+    },
+    {
+      "market_name": "",
+      "codename": "racer2",
+      "model": "RACERII"
+    },
+    {
+      "market_name": "",
+      "codename": "racer2",
+      "model": "RacerII"
+    },
+    {
+      "market_name": "",
+      "codename": "racer2",
+      "model": "Turkcell T11"
+    },
+    {
+      "market_name": "",
+      "codename": "racer2",
+      "model": "ZTE-U V859"
+    },
+    {
+      "market_name": "",
+      "codename": "roamer",
+      "model": "ZTE Roamer"
+    },
+    {
+      "market_name": "",
+      "codename": "roamer",
+      "model": "ZTE roamer"
+    },
+    {
+      "market_name": "",
+      "codename": "roamer",
+      "model": "ZTE-C N760"
+    },
+    {
+      "market_name": "",
+      "codename": "roamer2",
+      "model": "Dubai"
+    },
+    {
+      "market_name": "",
+      "codename": "roamer2",
+      "model": "Dublin"
+    },
+    {
+      "market_name": "",
+      "codename": "roamer2",
+      "model": "N788_BASHA"
+    },
+    {
+      "market_name": "",
+      "codename": "roamer2",
+      "model": "Orange Dublin"
+    },
+    {
+      "market_name": "",
+      "codename": "roamer2",
+      "model": "V788D"
+    },
+    {
+      "market_name": "",
+      "codename": "roamer2",
+      "model": "ZTE N788"
+    },
+    {
+      "market_name": "",
+      "codename": "roamer2",
+      "model": "ZTE N789"
+    },
+    {
+      "market_name": "",
+      "codename": "roamer2",
+      "model": "ZTE V788D"
+    },
+    {
+      "market_name": "",
+      "codename": "roundtop",
+      "model": "ZTE V9800"
+    },
+    {
+      "market_name": "",
+      "codename": "sailboat",
+      "model": "ZTE V875"
+    },
+    {
+      "market_name": "",
+      "codename": "sean",
+      "model": "N850"
+    },
+    {
+      "market_name": "",
+      "codename": "skate",
+      "model": "KPN Smart 200"
+    },
+    {
+      "market_name": "",
+      "codename": "skate",
+      "model": "MEDION LIFE P4310"
+    },
+    {
+      "market_name": "",
+      "codename": "skate",
+      "model": "Monte Carlo"
+    },
+    {
+      "market_name": "",
+      "codename": "skate",
+      "model": "Optimus Monte Carlo"
+    },
+    {
+      "market_name": "",
+      "codename": "skate",
+      "model": "Orange Monte Carlo"
+    },
+    {
+      "market_name": "",
+      "codename": "skate",
+      "model": "ZTE N960"
+    },
+    {
+      "market_name": "",
+      "codename": "skate",
+      "model": "ZTE Skate"
+    },
+    {
+      "market_name": "",
+      "codename": "skate",
+      "model": "ZTE V960"
+    },
+    {
+      "market_name": "",
+      "codename": "skate",
+      "model": "ZTE-SKATE"
+    },
+    {
+      "market_name": "",
+      "codename": "skate",
+      "model": "ZTE-Skate"
+    },
+    {
+      "market_name": "",
+      "codename": "skate",
+      "model": "ZTE-U V960"
+    },
+    {
+      "market_name": "",
+      "codename": "skateplus",
+      "model": "Skate4.3 H"
+    },
+    {
+      "market_name": "",
+      "codename": "turies",
+      "model": "Android Edition StarText"
+    },
+    {
+      "market_name": "",
+      "codename": "turies",
+      "model": "Vodafone Smart Chat"
+    },
+    {
+      "market_name": "",
+      "codename": "turies",
+      "model": "ZTE-Tureis"
+    },
+    {
+      "market_name": "",
+      "codename": "v9plus",
+      "model": "BASE Tab 7.1"
+    },
+    {
+      "market_name": "",
+      "codename": "v9plus",
+      "model": "Light Tab 2"
+    },
+    {
+      "market_name": "",
+      "codename": "v9plus",
+      "model": "Light Tab 2W"
+    },
+    {
+      "market_name": "",
+      "codename": "v9plus",
+      "model": "MegaFon V9+"
+    },
+    {
+      "market_name": "",
+      "codename": "v9plus",
+      "model": "TT102"
+    },
+    {
+      "market_name": "",
+      "codename": "v9plus",
+      "model": "Telenor Touch Pad"
+    },
+    {
+      "market_name": "",
+      "codename": "v9plus",
+      "model": "V9+"
+    },
+    {
+      "market_name": "",
+      "codename": "v9plus",
+      "model": "V9A"
+    },
+    {
+      "market_name": "",
+      "codename": "v9plus",
+      "model": "V9e+"
+    },
+    {
+      "market_name": "",
+      "codename": "v9plus",
+      "model": "ZTE V10"
+    },
+    {
+      "market_name": "",
+      "codename": "v9plus",
+      "model": "ZTE V9A"
+    },
+    {
+      "market_name": "",
+      "codename": "ventana",
+      "model": "ZTE U970"
+    },
+    {
+      "market_name": "",
+      "codename": "ventana_U880F",
+      "model": "ZTE U880F"
+    },
+    {
+      "market_name": "",
+      "codename": "ventana_U930",
+      "model": "ZTE U930"
+    },
+    {
+      "market_name": "",
+      "codename": "warp2",
+      "model": "N861"
+    },
+    {
+      "market_name": "",
+      "codename": "whistler",
+      "model": "STARADDICT II"
+    },
+    {
+      "market_name": "",
+      "codename": "whistler",
+      "model": "V961"
+    },
+    {
+      "market_name": "",
+      "codename": "whistler",
+      "model": "ZTE Grand X"
+    },
+    {
+      "market_name": "",
+      "codename": "whistler",
+      "model": "ZTE V970T"
+    },
+    {
+      "market_name": "",
+      "codename": "whistler",
+      "model": "ZTE-Mimosa X"
+    },
+    {
+      "market_name": "",
+      "codename": "z788",
+      "model": "ZTE U788+"
+    },
+    {
+      "market_name": "",
+      "codename": "z795",
+      "model": "ZTE U795+"
+    },
+    {
+      "market_name": "",
+      "codename": "zte_v857",
+      "model": "ZTE-U V857"
+    },
+    {
+      "market_name": "009Z",
+      "codename": "bladeplus",
+      "model": "009Z"
+    },
+    {
+      "market_name": "009Z",
+      "codename": "bladeplus",
+      "model": "ZTE V882"
+    },
+    {
+      "market_name": "009Z",
+      "codename": "bladeplus",
+      "model": "ZTE V886J"
+    },
+    {
+      "market_name": "402ZT",
+      "codename": "ZTE-402ZT",
+      "model": "402ZT"
+    },
+    {
+      "market_name": "A1P",
+      "codename": "ailsa",
+      "model": "A1P"
+    },
+    {
+      "market_name": "A1R",
+      "codename": "billy",
+      "model": "A1"
+    },
+    {
+      "market_name": "A1R",
+      "codename": "billy",
+      "model": "A1R"
+    },
+    {
+      "market_name": "A2",
+      "codename": "A2",
+      "model": "A2"
+    },
+    {
+      "market_name": "Amazing A1",
+      "codename": "roamer2",
+      "model": "Amazing A1"
+    },
+    {
+      "market_name": "Amazing P6",
+      "codename": "msm8226",
+      "model": "Amazing P6"
+    },
+    {
+      "market_name": "Amazing X2",
+      "codename": "msm8226",
+      "model": "Amazing X2"
+    },
+    {
+      "market_name": "Amazing X6",
+      "codename": "P839F30",
+      "model": "Amazing X6"
+    },
+    {
+      "market_name": "Amazing p5_Lite",
+      "codename": "V77",
+      "model": "Amazing p5_Lite"
+    },
+    {
+      "market_name": "Android edition by sfr STARADDICT",
+      "codename": "skate",
+      "model": "Android edition by sfr STARADDICT"
+    },
+    {
+      "market_name": "Avea inTouch 2",
+      "codename": "atlas40",
+      "model": "Avea inTouch 2"
+    },
+    {
+      "market_name": "Avea inTouch 4",
+      "codename": "msm8916_32",
+      "model": "Avea inTouch 4"
+    },
+    {
+      "market_name": "Avea inTouch 4",
+      "codename": "msm8916_32",
+      "model": "ZTE Blade V220"
+    },
+    {
+      "market_name": "B760E",
+      "codename": "ztemt85_bx_kk",
+      "model": "B760E"
+    },
+    {
+      "market_name": "B760E",
+      "codename": "ztemt85_bx_kk",
+      "model": "B760H"
+    },
+    {
+      "market_name": "BASE Lutea 2",
+      "codename": "skate",
+      "model": "BASE Lutea 2"
+    },
+    {
+      "market_name": "BLADE III_IL",
+      "codename": "atlas40",
+      "model": "BLADE III_IL"
+    },
+    {
+      "market_name": "Baker",
+      "codename": "ZTE-Baker",
+      "model": "Baker"
+    },
+    {
+      "market_name": "Beeline E600",
+      "codename": "roamer2",
+      "model": "Beeline E600"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "003Z"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "Android Edition StarTrail"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "BASE lutea"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "BLADE_N880"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "Beeline E400"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "Kyivstar Spark"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "MF8604"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "Movistar Prime"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "N880"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "Netphone 701"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "Optimus San Francisco"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "Orange San Francisco"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "Orange Tactile internet 2"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "RTK V8"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "San Francisco"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "V8502"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "WayteQ Libra"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "XCD35"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "ZTE Libra"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "ZTE V880"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "ZTE-BLADE"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "ZTE-C N880S"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "ZTE-LIBRA"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "ZTE-Libra"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "ZTE-U V880"
+    },
+    {
+      "market_name": "Blade",
+      "codename": "blade",
+      "model": "a5"
+    },
+    {
+      "market_name": "Blade Apex",
+      "codename": "coeus",
+      "model": "Blade Apex"
+    },
+    {
+      "market_name": "Blade Apex2",
+      "codename": "msm8226",
+      "model": "Blade Apex2"
+    },
+    {
+      "market_name": "Blade G LTE",
+      "codename": "oceanus",
+      "model": "Blade G LTE"
+    },
+    {
+      "market_name": "Blade III",
+      "codename": "atlas40",
+      "model": "Blade III"
+    },
+    {
+      "market_name": "Blade III",
+      "codename": "atlas40",
+      "model": "Skate Pro"
+    },
+    {
+      "market_name": "Blade L2 Plus",
+      "codename": "ZTE_Blade_L2_PLUS",
+      "model": "Blade L2 Plus"
+    },
+    {
+      "market_name": "Blade L3 Plus",
+      "codename": "Blade_L3_Plus",
+      "model": "Blade L3 Plus"
+    },
+    {
+      "market_name": "Blade Q Lux",
+      "codename": "P816A12",
+      "model": "Blade Q Lux"
+    },
+    {
+      "market_name": "Blade S",
+      "codename": "P839F30",
+      "model": "Blade S"
+    },
+    {
+      "market_name": "Blade S",
+      "codename": "blade2",
+      "model": "Blade S"
+    },
+    {
+      "market_name": "Blade S Lite",
+      "codename": "P839F30",
+      "model": "Blade S Lite"
+    },
+    {
+      "market_name": "Blade S6",
+      "codename": "P839F30",
+      "model": "Blade S6"
+    },
+    {
+      "market_name": "Blade S6",
+      "codename": "P839F30",
+      "model": "NOS SLIM"
+    },
+    {
+      "market_name": "Blade S6 Lite",
+      "codename": "P839F30",
+      "model": "Blade S6"
+    },
+    {
+      "market_name": "Blade S6 Lite",
+      "codename": "P839F30",
+      "model": "Blade S6 Lite"
+    },
+    {
+      "market_name": "Blade S6 Lite",
+      "codename": "P839F30",
+      "model": "ZTE T912"
+    },
+    {
+      "market_name": "Blade S6 Plus",
+      "codename": "P839F50",
+      "model": "Blade S6 Plus"
+    },
+    {
+      "market_name": "Blade V6",
+      "codename": "P635A20",
+      "model": "Blade V6"
+    },
+    {
+      "market_name": "Blade V6",
+      "codename": "P635A20",
+      "model": "ZTE Blade V6"
+    },
+    {
+      "market_name": "Blade V6",
+      "codename": "P635A20",
+      "model": "ZTE T660"
+    },
+    {
+      "market_name": "Bouygues Telecom Bs 351",
+      "codename": "nice",
+      "model": "Bouygues Telecom Bs 351"
+    },
+    {
+      "market_name": "Bouygues Telecom Bs 402",
+      "codename": "P172G10",
+      "model": "A4C"
+    },
+    {
+      "market_name": "Bouygues Telecom Bs 402",
+      "codename": "P172G10",
+      "model": "Amazing A4C"
+    },
+    {
+      "market_name": "Bouygues Telecom Bs 402",
+      "codename": "P172G10",
+      "model": "Bouygues Telecom Bs 402"
+    },
+    {
+      "market_name": "Bouygues Telecom Bs 402",
+      "codename": "P172G10",
+      "model": "ZTE Blade Q Mini"
+    },
+    {
+      "market_name": "Cosmote Smart Share",
+      "codename": "nice",
+      "model": "Cosmote Smart Share"
+    },
+    {
+      "market_name": "Cosmote Xplore",
+      "codename": "Cosmote",
+      "model": "Cosmote Xplore"
+    },
+    {
+      "market_name": "Cosmote Xplore",
+      "codename": "Cosmote-Xplore",
+      "model": "Cosmote Xplore"
+    },
+    {
+      "market_name": "Dialog Q143L",
+      "codename": "frosty",
+      "model": "Dialog Q143L"
+    },
+    {
+      "market_name": "FT142D",
+      "codename": "msm8226",
+      "model": "FT142D"
+    },
+    {
+      "market_name": "Grand Memo",
+      "codename": "prindle",
+      "model": "Grand Memo"
+    },
+    {
+      "market_name": "Grand S Flex",
+      "codename": "iris",
+      "model": "Grand S Flex"
+    },
+    {
+      "market_name": "Grand X",
+      "codename": "P175A20",
+      "model": "Grand X"
+    },
+    {
+      "market_name": "Grand X",
+      "codename": "P175A20",
+      "model": "Grand X(M)"
+    },
+    {
+      "market_name": "Grand X",
+      "codename": "P175A20",
+      "model": "ZTE Grand X Classic"
+    },
+    {
+      "market_name": "Grand X",
+      "codename": "P175A20",
+      "model": "ZTE V970"
+    },
+    {
+      "market_name": "Grand X",
+      "codename": "P175A20",
+      "model": "ZTE V970M"
+    },
+    {
+      "market_name": "Grand X",
+      "codename": "P175A20",
+      "model": "ZTE-U V970M"
+    },
+    {
+      "market_name": "Grand X",
+      "codename": "P175A20",
+      "model": "tmn smart a18"
+    },
+    {
+      "market_name": "Grand X In",
+      "codename": "mfld_pr2",
+      "model": "Grand X In"
+    },
+    {
+      "market_name": "Grand X In",
+      "codename": "mfld_pr2",
+      "model": "STARADDICT II Plus"
+    },
+    {
+      "market_name": "Grand X In",
+      "codename": "mfld_pr2",
+      "model": "ZTE Grand X In"
+    },
+    {
+      "market_name": "Grand X Pro",
+      "codename": "P177A20",
+      "model": "Blade Super"
+    },
+    {
+      "market_name": "Grand X Pro",
+      "codename": "P177A20",
+      "model": "Grand X Pro"
+    },
+    {
+      "market_name": "Grand X Pro",
+      "codename": "P177A20",
+      "model": "KPN Smart 300"
+    },
+    {
+      "market_name": "Infinity X^2 mini",
+      "codename": "msm8226",
+      "model": "Infinity X^2 mini"
+    },
+    {
+      "market_name": "K97",
+      "codename": "K97",
+      "model": "K97"
+    },
+    {
+      "market_name": "K97",
+      "codename": "K97",
+      "model": "ZTE K97"
+    },
+    {
+      "market_name": "KIS",
+      "codename": "roamer2",
+      "model": "KIS"
+    },
+    {
+      "market_name": "KIS PLUS",
+      "codename": "roamer2",
+      "model": "KIS PLUS"
+    },
+    {
+      "market_name": "KPN Smart 400",
+      "codename": "msm8226",
+      "model": "KPN Smart 400"
+    },
+    {
+      "market_name": "Karbonn_A1",
+      "codename": "N721",
+      "model": "Karbonn_A1"
+    },
+    {
+      "market_name": "Kis T3",
+      "codename": "roamer2",
+      "model": "Kis T3"
+    },
+    {
+      "market_name": "Leopard MF800",
+      "codename": "roamer2",
+      "model": "Leopard MF800"
+    },
+    {
+      "market_name": "Light Tab 2",
+      "codename": "v9plus",
+      "model": "Light Tab 2"
+    },
+    {
+      "market_name": "M8402",
+      "codename": "roamer2",
+      "model": "M8402"
+    },
+    {
+      "market_name": "MEDION LIFE P4310",
+      "codename": "skate",
+      "model": "MEDION LIFE P4310"
+    },
+    {
+      "market_name": "MEDION Smartphone LIFE E3501",
+      "codename": "roamer2",
+      "model": "MEDION Smartphone LIFE E3501"
+    },
+    {
+      "market_name": "MF97A",
+      "codename": "MF97A",
+      "model": "MF97A"
+    },
+    {
+      "market_name": "MF97E",
+      "codename": "msm8974",
+      "model": "MF97E"
+    },
+    {
+      "market_name": "MF97G",
+      "codename": "msm8974",
+      "model": "MF97G"
+    },
+    {
+      "market_name": "MF97W",
+      "codename": "MF97W",
+      "model": "MF97W"
+    },
+    {
+      "market_name": "MS4A",
+      "codename": "kiska",
+      "model": "MS4A"
+    },
+    {
+      "market_name": "MS4A",
+      "codename": "roundtop",
+      "model": "MS4A"
+    },
+    {
+      "market_name": "Momodesign MD Droid",
+      "codename": "atlas40",
+      "model": "Momodesign MD Droid"
+    },
+    {
+      "market_name": "Movistar Express",
+      "codename": "QB7211",
+      "model": "Movistar Express"
+    },
+    {
+      "market_name": "Movistar Motion",
+      "codename": "roamer2",
+      "model": "Movistar Motion"
+    },
+    {
+      "market_name": "N720",
+      "codename": "N720",
+      "model": "N720"
+    },
+    {
+      "market_name": "N720",
+      "codename": "N720",
+      "model": "ZTE-U N720"
+    },
+    {
+      "market_name": "N720",
+      "codename": "N720",
+      "model": "ZTE_U N720"
+    },
+    {
+      "market_name": "N762",
+      "codename": "roamer",
+      "model": "N762"
+    },
+    {
+      "market_name": "N765_APT",
+      "codename": "N765",
+      "model": "N765_APT"
+    },
+    {
+      "market_name": "N790",
+      "codename": "deepblue",
+      "model": "N790"
+    },
+    {
+      "market_name": "N800",
+      "codename": "nex",
+      "model": "N800"
+    },
+    {
+      "market_name": "N8000_USA_Cricket",
+      "codename": "N8000",
+      "model": "N8000_USA_Cricket"
+    },
+    {
+      "market_name": "N8000_USA_RS",
+      "codename": "N8000",
+      "model": "N8000_USA_RS"
+    },
+    {
+      "market_name": "N8000_WHTE_CKT",
+      "codename": "N8000",
+      "model": "N8000_WHTE_CKT"
+    },
+    {
+      "market_name": "N8010_APT",
+      "codename": "N8010_APT",
+      "model": "N8010_APT"
+    },
+    {
+      "market_name": "N810",
+      "codename": "fluid",
+      "model": "N810"
+    },
+    {
+      "market_name": "N817",
+      "codename": "wellington",
+      "model": "N817"
+    },
+    {
+      "market_name": "N8300_Reliance",
+      "codename": "N8300_Reliance",
+      "model": "N8300_Reliance"
+    },
+    {
+      "market_name": "N8303",
+      "codename": "roamer2",
+      "model": "N8303"
+    },
+    {
+      "market_name": "N850",
+      "codename": "sean",
+      "model": "N850"
+    },
+    {
+      "market_name": "N850L",
+      "codename": "seanplus",
+      "model": "N850L"
+    },
+    {
+      "market_name": "N855D",
+      "codename": "hope",
+      "model": "N855D"
+    },
+    {
+      "market_name": "N860",
+      "codename": "arthur",
+      "model": "N860"
+    },
+    {
+      "market_name": "N860",
+      "codename": "arthur",
+      "model": "Warp"
+    },
+    {
+      "market_name": "N861",
+      "codename": "warp2",
+      "model": "N861"
+    },
+    {
+      "market_name": "N910",
+      "codename": "arthur4g",
+      "model": "ZTE-N910"
+    },
+    {
+      "market_name": "N9100",
+      "codename": "hayes",
+      "model": "N9100"
+    },
+    {
+      "market_name": "N9101",
+      "codename": "apollo",
+      "model": "N9101"
+    },
+    {
+      "market_name": "N9130",
+      "codename": "speed",
+      "model": "N9130"
+    },
+    {
+      "market_name": "N9180",
+      "codename": "N9180",
+      "model": "N9180"
+    },
+    {
+      "market_name": "N918St",
+      "codename": "N918St",
+      "model": "BGH Joy Smart AXS II"
+    },
+    {
+      "market_name": "N918St",
+      "codename": "N918St",
+      "model": "BGH Joy Smart AXS II D"
+    },
+    {
+      "market_name": "N918St",
+      "codename": "N918St",
+      "model": "N918St"
+    },
+    {
+      "market_name": "N918St",
+      "codename": "N918St",
+      "model": "ZTE N918St"
+    },
+    {
+      "market_name": "N9500",
+      "codename": "gordon",
+      "model": "N9500"
+    },
+    {
+      "market_name": "N9510",
+      "codename": "warplte",
+      "model": "N9510"
+    },
+    {
+      "market_name": "N9515",
+      "codename": "warp4",
+      "model": "N9515"
+    },
+    {
+      "market_name": "N9516",
+      "codename": "eridani",
+      "model": "N9516"
+    },
+    {
+      "market_name": "N9518",
+      "codename": "warp6",
+      "model": "N9518"
+    },
+    {
+      "market_name": "N9520",
+      "codename": "stormer",
+      "model": "N9520"
+    },
+    {
+      "market_name": "N958St",
+      "codename": "N958St",
+      "model": "N958St"
+    },
+    {
+      "market_name": "N9810",
+      "codename": "quantum",
+      "model": "N9810"
+    },
+    {
+      "market_name": "N986D",
+      "codename": "P188F10",
+      "model": "N986+"
+    },
+    {
+      "market_name": "N986D",
+      "codename": "P188F10",
+      "model": "N986D"
+    },
+    {
+      "market_name": "NE501J",
+      "codename": "NE501J",
+      "model": "NE501J"
+    },
+    {
+      "market_name": "NE501J",
+      "codename": "NE501J",
+      "model": "V5"
+    },
+    {
+      "market_name": "NE501J",
+      "codename": "NE501J",
+      "model": "ZTE_V5"
+    },
+    {
+      "market_name": "NX402",
+      "codename": "NX40X",
+      "model": "NX402"
+    },
+    {
+      "market_name": "NX403A",
+      "codename": "NX403A",
+      "model": "NX403A"
+    },
+    {
+      "market_name": "NX404H",
+      "codename": "NX404H",
+      "model": "NX404H"
+    },
+    {
+      "market_name": "NX405H",
+      "codename": "NX405H",
+      "model": "NX405H"
+    },
+    {
+      "market_name": "NX406E",
+      "codename": "NX406E",
+      "model": "NX406E"
+    },
+    {
+      "market_name": "NX40X",
+      "codename": "NX402",
+      "model": "NX402"
+    },
+    {
+      "market_name": "NX40X_APT",
+      "codename": "NX40X",
+      "model": "NX40X"
+    },
+    {
+      "market_name": "NX40X_APT",
+      "codename": "NX40X",
+      "model": "NX40X_APT"
+    },
+    {
+      "market_name": "NX501",
+      "codename": "NX501",
+      "model": "NX501"
+    },
+    {
+      "market_name": "NX501_APT",
+      "codename": "NX501",
+      "model": "NX501_APT"
+    },
+    {
+      "market_name": "NX503A_Z4",
+      "codename": "NX503A_Z4",
+      "model": "NX503A_Z4"
+    },
+    {
+      "market_name": "NX503J",
+      "codename": "NX503J",
+      "model": "NX503J"
+    },
+    {
+      "market_name": "NX505J",
+      "codename": "NX505J",
+      "model": "NX505J"
+    },
+    {
+      "market_name": "NX506J",
+      "codename": "NX506J",
+      "model": "NX506J"
+    },
+    {
+      "market_name": "NX507J",
+      "codename": "NX507J",
+      "model": "NX507H"
+    },
+    {
+      "market_name": "NX507J",
+      "codename": "NX507J",
+      "model": "NX507J"
+    },
+    {
+      "market_name": "NX508J",
+      "codename": "NX508J",
+      "model": "NX508J"
+    },
+    {
+      "market_name": "NX510J",
+      "codename": "NX510J",
+      "model": "NX510J"
+    },
+    {
+      "market_name": "NX511J",
+      "codename": "NX511J",
+      "model": "NX511J"
+    },
+    {
+      "market_name": "NX512J",
+      "codename": "NX512J",
+      "model": "NX512J"
+    },
+    {
+      "market_name": "NX513J",
+      "codename": "NX513J",
+      "model": "NX513J"
+    },
+    {
+      "market_name": "NX601J",
+      "codename": "NX601J",
+      "model": "NX601J"
+    },
+    {
+      "market_name": "Optimus Barcelona",
+      "codename": "blade2",
+      "model": "Optimus Barcelona"
+    },
+    {
+      "market_name": "Orange Hi 4G",
+      "codename": "Orange_Hi_4G",
+      "model": "Orange Hi 4G"
+    },
+    {
+      "market_name": "Orange Hi 4G",
+      "codename": "msm8226",
+      "model": "Orange Hi 4G"
+    },
+    {
+      "market_name": "Orange Monte Carlo",
+      "codename": "skate",
+      "model": "Orange Monte Carlo"
+    },
+    {
+      "market_name": "Orange Novi",
+      "codename": "oceanus",
+      "model": "Orange Novi"
+    },
+    {
+      "market_name": "Orange Reyo",
+      "codename": "P172D10",
+      "model": "Avea inTouch 3 Large"
+    },
+    {
+      "market_name": "Orange Reyo",
+      "codename": "P172D10",
+      "model": "Blade Q Maxi"
+    },
+    {
+      "market_name": "Orange Reyo",
+      "codename": "P172D10",
+      "model": "Orange Reyo"
+    },
+    {
+      "market_name": "Orange Reyo",
+      "codename": "P172D10",
+      "model": "ZTE Blade Q Maxi"
+    },
+    {
+      "market_name": "Orange Rono",
+      "codename": "Vec4G",
+      "model": "Orange Rono"
+    },
+    {
+      "market_name": "Orange Rono",
+      "codename": "msm8226",
+      "model": "Orange Rono"
+    },
+    {
+      "market_name": "Orange Zali",
+      "codename": "nice",
+      "model": "Orange Zali"
+    },
+    {
+      "market_name": "Preo Teknosa P1",
+      "codename": "msm8916_32",
+      "model": "Preo Teknosa P1"
+    },
+    {
+      "market_name": "RACER III mini",
+      "codename": "roamer2",
+      "model": "RACER III mini"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "Carl"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "MTC 916"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "MTS-SP100"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "Movistar Link"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "RTK D1"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "Racer"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "TaiWan Mobile T2"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "V8402"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "Vip Droid"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "XCD 28"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "ZTE X850"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "ZTE-C N600"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "ZTE-C N600+"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "ZTE-LINK"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "ZTE-RACER"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "ZTE-U V852"
+    },
+    {
+      "market_name": "Racer",
+      "codename": "mooncake",
+      "model": "ZTE-U X850"
+    },
+    {
+      "market_name": "Rook from EE",
+      "codename": "P635E40",
+      "model": "Rook from EE"
+    },
+    {
+      "market_name": "S8Q",
+      "codename": "MT8123",
+      "model": "S8Q"
+    },
+    {
+      "market_name": "STARNAUTE II",
+      "codename": "V6600",
+      "model": "STARNAUTE II"
+    },
+    {
+      "market_name": "STARTRAIL 4",
+      "codename": "P172E10",
+      "model": "Avea inTouch 3"
+    },
+    {
+      "market_name": "STARTRAIL 4",
+      "codename": "P172E10",
+      "model": "STARTRAIL 4"
+    },
+    {
+      "market_name": "STARTRAIL 4",
+      "codename": "P172E10",
+      "model": "ZTE Blade Q"
+    },
+    {
+      "market_name": "STARXTREM",
+      "codename": "prindle",
+      "model": "STARXTREM"
+    },
+    {
+      "market_name": "Skate  Pro",
+      "codename": "atlas40",
+      "model": "Skate Pro"
+    },
+    {
+      "market_name": "SmartTab10",
+      "codename": "V11A",
+      "model": "SmartTab10"
+    },
+    {
+      "market_name": "SmartTab7",
+      "codename": "V71A",
+      "model": "SmartTab7"
+    },
+    {
+      "market_name": "Soshphone 4G",
+      "codename": "Vec4G",
+      "model": "Soshphone 4G"
+    },
+    {
+      "market_name": "Soshphone 4G",
+      "codename": "msm8226",
+      "model": "Soshphone 4G"
+    },
+    {
+      "market_name": "Spro 2",
+      "codename": "msm8974",
+      "model": "502ZT"
+    },
+    {
+      "market_name": "Spro 2",
+      "codename": "msm8974",
+      "model": "MF97B"
+    },
+    {
+      "market_name": "Spro 2",
+      "codename": "msm8974",
+      "model": "MF97V"
+    },
+    {
+      "market_name": "Spro 2",
+      "codename": "msm8974",
+      "model": "Spro 2"
+    },
+    {
+      "market_name": "Spro 2",
+      "codename": "msm8974",
+      "model": "ZKB2A"
+    },
+    {
+      "market_name": "T-Mobile Vivacity",
+      "codename": "blade2",
+      "model": "T-Mobile Vivacity"
+    },
+    {
+      "market_name": "T3",
+      "codename": "skate",
+      "model": "T3"
+    },
+    {
+      "market_name": "TQ150",
+      "codename": "QB7211",
+      "model": "TQ150"
+    },
+    {
+      "market_name": "TURKCELL T40",
+      "codename": "TURKCELL-T40",
+      "model": "TURKCELL T40"
+    },
+    {
+      "market_name": "TURKCELL T50",
+      "codename": "msm8226",
+      "model": "TURKCELL T50"
+    },
+    {
+      "market_name": "TURKCELL T50",
+      "codename": "msm8226",
+      "model": "TURKCELL TURBO T50"
+    },
+    {
+      "market_name": "TURKCELL T60",
+      "codename": "P839T60",
+      "model": "TURKCELL T60"
+    },
+    {
+      "market_name": "TURKCELL T60",
+      "codename": "msm8916_32",
+      "model": "TURKCELL T60"
+    },
+    {
+      "market_name": "Telenor Touch Plus",
+      "codename": "blade2",
+      "model": "Telenor Touch Plus"
+    },
+    {
+      "market_name": "Turkcell Maxi Plus 5",
+      "codename": "nice",
+      "model": "Turkcell Maxi Plus 5"
+    },
+    {
+      "market_name": "U880",
+      "codename": "U880",
+      "model": "ZTE-T U880"
+    },
+    {
+      "market_name": "U9180",
+      "codename": "U9180",
+      "model": "U9180"
+    },
+    {
+      "market_name": "U9180",
+      "codename": "U9180",
+      "model": "ZTE U9180"
+    },
+    {
+      "market_name": "UZTE V790",
+      "codename": "roamer2",
+      "model": "UZTE V790"
+    },
+    {
+      "market_name": "UZTE V817",
+      "codename": "ZTE-V956",
+      "model": "UZTE V817"
+    },
+    {
+      "market_name": "Ultym 5.2",
+      "codename": "msm8916_32",
+      "model": "Ultym 5.2"
+    },
+    {
+      "market_name": "V55",
+      "codename": "V55",
+      "model": "V55"
+    },
+    {
+      "market_name": "V72C",
+      "codename": "v72c",
+      "model": "V72C"
+    },
+    {
+      "market_name": "V72M",
+      "codename": "eos",
+      "model": "V72M"
+    },
+    {
+      "market_name": "V8000_USA_Cricket",
+      "codename": "V8000",
+      "model": "V8000_USA_Cricket"
+    },
+    {
+      "market_name": "V8110",
+      "codename": "V8110",
+      "model": "V8110"
+    },
+    {
+      "market_name": "V8200plus",
+      "codename": "V8200plus",
+      "model": "V8200plus"
+    },
+    {
+      "market_name": "V8285",
+      "codename": "MT8382",
+      "model": "V8285"
+    },
+    {
+      "market_name": "V8403",
+      "codename": "roamer2",
+      "model": "V8403"
+    },
+    {
+      "market_name": "V8514",
+      "codename": "P821E10",
+      "model": "V8514"
+    },
+    {
+      "market_name": "V865M",
+      "codename": "hct77_jb",
+      "model": "V865M"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "A100"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "BASE Tab"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "BLACK 03"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "Beeline M2"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "Light"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "Light Tab"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "MTC 1055"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "One Pad"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "RTK V9"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "TO101"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "TT101"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "V9"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "V9C"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "V9c"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "V9e"
+    },
+    {
+      "market_name": "V9",
+      "codename": "v9",
+      "model": "myPad P2"
+    },
+    {
+      "market_name": "V9180",
+      "codename": "V9180",
+      "model": "V9180"
+    },
+    {
+      "market_name": "V96A",
+      "codename": "V96A",
+      "model": "V96A"
+    },
+    {
+      "market_name": "V9A",
+      "codename": "v9plus",
+      "model": "Light Tab 2"
+    },
+    {
+      "market_name": "V9A",
+      "codename": "v9plus",
+      "model": "V9A"
+    },
+    {
+      "market_name": "V9A",
+      "codename": "v9plus",
+      "model": "ZTE V9A"
+    },
+    {
+      "market_name": "V9A",
+      "codename": "v9plus",
+      "model": "my Pad P3"
+    },
+    {
+      "market_name": "V9A",
+      "codename": "v9plus",
+      "model": "myPad P3"
+    },
+    {
+      "market_name": "V9S",
+      "codename": "V9S",
+      "model": "V9S"
+    },
+    {
+      "market_name": "V9S",
+      "codename": "V9S",
+      "model": "myPadP4"
+    },
+    {
+      "market_name": "Vip Racer III",
+      "codename": "atlas40",
+      "model": "Vip Racer III"
+    },
+    {
+      "market_name": "Vodafone Smart Chat",
+      "codename": "turies",
+      "model": "Vodafone Smart Chat"
+    },
+    {
+      "market_name": "Vodafone Smart ultra 6",
+      "codename": "msm8916_32",
+      "model": "Vodafone Smart ultra 6"
+    },
+    {
+      "market_name": "X500",
+      "codename": "X500",
+      "model": "X500"
+    },
+    {
+      "market_name": "X501_USA_Cricket",
+      "codename": "X501",
+      "model": "X501_USA_Cricket"
+    },
+    {
+      "market_name": "X501_USA_Cricket",
+      "codename": "X501",
+      "model": "X501_USA_RS"
+    },
+    {
+      "market_name": "X501_USA_OM",
+      "codename": "X501",
+      "model": "X501_USA_OM"
+    },
+    {
+      "market_name": "X9180",
+      "codename": "X9180",
+      "model": "X9180"
+    },
+    {
+      "market_name": "Z660G",
+      "codename": "nice",
+      "model": "Z660G"
+    },
+    {
+      "market_name": "Z665C",
+      "codename": "seanplus",
+      "model": "Z665C"
+    },
+    {
+      "market_name": "Z667",
+      "codename": "demi",
+      "model": "Z667"
+    },
+    {
+      "market_name": "Z667T",
+      "codename": "bonnie",
+      "model": "Z667T"
+    },
+    {
+      "market_name": "Z730",
+      "codename": "ada",
+      "model": "Z730"
+    },
+    {
+      "market_name": "Z740",
+      "codename": "metis",
+      "model": "Z740"
+    },
+    {
+      "market_name": "Z740G",
+      "codename": "metis",
+      "model": "Z740G"
+    },
+    {
+      "market_name": "Z750C",
+      "codename": "Z750C",
+      "model": "Z750C"
+    },
+    {
+      "market_name": "Z752C",
+      "codename": "eros",
+      "model": "Z752C"
+    },
+    {
+      "market_name": "Z753G",
+      "codename": "faerie",
+      "model": "Z753G"
+    },
+    {
+      "market_name": "Z755",
+      "codename": "iris",
+      "model": "Z755"
+    },
+    {
+      "market_name": "Z768G",
+      "codename": "Z768G",
+      "model": "Z768G"
+    },
+    {
+      "market_name": "Z777",
+      "codename": "betty",
+      "model": "Z777"
+    },
+    {
+      "market_name": "Z787",
+      "codename": "apus",
+      "model": "Z787"
+    },
+    {
+      "market_name": "Z791G",
+      "codename": "giant",
+      "model": "Z791G"
+    },
+    {
+      "market_name": "Z792",
+      "codename": "giant",
+      "model": "Z792"
+    },
+    {
+      "market_name": "Z793C",
+      "codename": "hera",
+      "model": "Z793C"
+    },
+    {
+      "market_name": "Z795G",
+      "codename": "ZTE-Z795G",
+      "model": "Z795G"
+    },
+    {
+      "market_name": "Z796C",
+      "codename": "Z796C",
+      "model": "Z796C"
+    },
+    {
+      "market_name": "Z797C",
+      "codename": "carol",
+      "model": "Z797C"
+    },
+    {
+      "market_name": "Z812",
+      "codename": "xuantan",
+      "model": "Z812"
+    },
+    {
+      "market_name": "Z813",
+      "codename": "xuantan",
+      "model": "Z813"
+    },
+    {
+      "market_name": "Z818L",
+      "codename": "sunny",
+      "model": "Z818L"
+    },
+    {
+      "market_name": "Z819L",
+      "codename": "sungod",
+      "model": "Z819L"
+    },
+    {
+      "market_name": "Z820",
+      "codename": "P675T07",
+      "model": "Z820"
+    },
+    {
+      "market_name": "Z826",
+      "codename": "herculis",
+      "model": "Z826"
+    },
+    {
+      "market_name": "Z830",
+      "codename": "gruis",
+      "model": "Z830"
+    },
+    {
+      "market_name": "Z850",
+      "codename": "sif",
+      "model": "Z850"
+    },
+    {
+      "market_name": "Z930L",
+      "codename": "coeus",
+      "model": "Z930L"
+    },
+    {
+      "market_name": "Z933",
+      "codename": "glaucus",
+      "model": "Z933"
+    },
+    {
+      "market_name": "Z936L",
+      "codename": "gift",
+      "model": "Z936L"
+    },
+    {
+      "market_name": "Z955L",
+      "codename": "leo",
+      "model": "Z955L"
+    },
+    {
+      "market_name": "Z970",
+      "codename": "draconis",
+      "model": "Z970"
+    },
+    {
+      "market_name": "Z980L",
+      "codename": "cygni",
+      "model": "Z980L"
+    },
+    {
+      "market_name": "Z987",
+      "codename": "cygni",
+      "model": "Z987"
+    },
+    {
+      "market_name": "Z992",
+      "codename": "aviva",
+      "model": "Z992"
+    },
+    {
+      "market_name": "Z993",
+      "codename": "aviva",
+      "model": "Z993"
+    },
+    {
+      "market_name": "Z995",
+      "codename": "becky",
+      "model": "Z995"
+    },
+    {
+      "market_name": "Z998",
+      "codename": "coeus",
+      "model": "Z998"
+    },
+    {
+      "market_name": "ZTE A880",
+      "codename": "ZTE-A880",
+      "model": "ZTE A880"
+    },
+    {
+      "market_name": "ZTE B790",
+      "codename": "roamer2",
+      "model": "ZTE B790"
+    },
+    {
+      "market_name": "ZTE B880",
+      "codename": "P635N30",
+      "model": "ZTE B880"
+    },
+    {
+      "market_name": "ZTE B880",
+      "codename": "S_P635N30",
+      "model": "ZTE B880"
+    },
+    {
+      "market_name": "ZTE BLADE III",
+      "codename": "atlas40",
+      "model": "Skate Pro"
+    },
+    {
+      "market_name": "ZTE BLADE III",
+      "codename": "atlas40",
+      "model": "ZTE BLADE III"
+    },
+    {
+      "market_name": "ZTE BLADE III",
+      "codename": "atlas40",
+      "model": "ZTE Blade III"
+    },
+    {
+      "market_name": "ZTE Blade A460",
+      "codename": "P809A20",
+      "model": "Blade A460"
+    },
+    {
+      "market_name": "ZTE Blade A460",
+      "codename": "P809A20",
+      "model": "ZTE Blade A460"
+    },
+    {
+      "market_name": "ZTE Blade A460",
+      "codename": "P809A20",
+      "model": "ZTE T610"
+    },
+    {
+      "market_name": "ZTE Blade Apex",
+      "codename": "oceanus",
+      "model": "ZTE Blade Apex"
+    },
+    {
+      "market_name": "ZTE Blade Apex2",
+      "codename": "msm8226",
+      "model": "ZTE Blade Apex2"
+    },
+    {
+      "market_name": "ZTE Blade Apex3",
+      "codename": "msm8916_32",
+      "model": "ZTE Blade Apex3"
+    },
+    {
+      "market_name": "ZTE Blade C312",
+      "codename": "P715A20",
+      "model": "ZTE Blade C312"
+    },
+    {
+      "market_name": "ZTE Blade C340",
+      "codename": "P172R12",
+      "model": "ZTE Blade C340"
+    },
+    {
+      "market_name": "ZTE Blade C340",
+      "codename": "P172R12",
+      "model": "ZTE T220"
+    },
+    {
+      "market_name": "ZTE Blade C340",
+      "codename": "P172R12",
+      "model": "ZTE V812"
+    },
+    {
+      "market_name": "ZTE Blade C370",
+      "codename": "ZTE_Blade_C370",
+      "model": "NOS NOVU"
+    },
+    {
+      "market_name": "ZTE Blade C370",
+      "codename": "ZTE_Blade_C370",
+      "model": "ZTE Blade C370"
+    },
+    {
+      "market_name": "ZTE Blade G",
+      "codename": "ZTE-Blade-G",
+      "model": "ZTE Blade G"
+    },
+    {
+      "market_name": "ZTE Blade G LTE",
+      "codename": "coeus",
+      "model": "ZTE Blade G LTE"
+    },
+    {
+      "market_name": "ZTE Blade G Lux",
+      "codename": "P172F10",
+      "model": "BGH Joy Smart A6"
+    },
+    {
+      "market_name": "ZTE Blade G Lux",
+      "codename": "P172F10",
+      "model": "BGH Joy Smart A6d"
+    },
+    {
+      "market_name": "ZTE Blade G Lux",
+      "codename": "P172F10",
+      "model": "Blade G Lux"
+    },
+    {
+      "market_name": "ZTE Blade G Lux",
+      "codename": "P172F10",
+      "model": "DIGICEL DL800"
+    },
+    {
+      "market_name": "ZTE Blade G Lux",
+      "codename": "P172F10",
+      "model": "MEO Smart A40"
+    },
+    {
+      "market_name": "ZTE Blade G Lux",
+      "codename": "P172F10",
+      "model": "Orange Tado"
+    },
+    {
+      "market_name": "ZTE Blade G Lux",
+      "codename": "P172F10",
+      "model": "ZTE Blade G Lux"
+    },
+    {
+      "market_name": "ZTE Blade G Lux",
+      "codename": "P172F10",
+      "model": "ZTE Kis3 max"
+    },
+    {
+      "market_name": "ZTE Blade G Lux",
+      "codename": "P172F10",
+      "model": "ZTE V830W"
+    },
+    {
+      "market_name": "ZTE Blade HN",
+      "codename": "ZTE_Blade_HN",
+      "model": "ZTE Blade HN"
+    },
+    {
+      "market_name": "ZTE Blade III",
+      "codename": "atlas40",
+      "model": "ZTE Blade III"
+    },
+    {
+      "market_name": "ZTE Blade III Pro",
+      "codename": "Blade-III-Pro",
+      "model": "ZTE Blade III Pro"
+    },
+    {
+      "market_name": "ZTE Blade L2",
+      "codename": "P182A10",
+      "model": "BGH Joy Smart AXS"
+    },
+    {
+      "market_name": "ZTE Blade L2",
+      "codename": "P182A10",
+      "model": "BGH Joy Smart AXS D"
+    },
+    {
+      "market_name": "ZTE Blade L2",
+      "codename": "P182A10",
+      "model": "Blade L2"
+    },
+    {
+      "market_name": "ZTE Blade L2",
+      "codename": "P182A10",
+      "model": "MEO Smart A75"
+    },
+    {
+      "market_name": "ZTE Blade L2",
+      "codename": "P182A10",
+      "model": "ZTE Blade L2"
+    },
+    {
+      "market_name": "ZTE Blade L3",
+      "codename": "P182A20",
+      "model": "Blade L3"
+    },
+    {
+      "market_name": "ZTE Blade L3",
+      "codename": "P182A20",
+      "model": "DIGICEL DL910"
+    },
+    {
+      "market_name": "ZTE Blade L3",
+      "codename": "P182A20",
+      "model": "MEO Smart A80"
+    },
+    {
+      "market_name": "ZTE Blade L3",
+      "codename": "P182A20",
+      "model": "ZTE Blade L3"
+    },
+    {
+      "market_name": "ZTE Blade L3 Apex",
+      "codename": "ZTE_Blade_L3_Apex",
+      "model": "ZTE Blade L3 Apex"
+    },
+    {
+      "market_name": "ZTE Blade L3 Plus",
+      "codename": "ZTE_Blade_L3_Plus",
+      "model": "ZTE Blade L3 Plus"
+    },
+    {
+      "market_name": "ZTE Blade L370",
+      "codename": "ZTE_Blade_C370",
+      "model": "ZTE Blade L370"
+    },
+    {
+      "market_name": "ZTE Blade Q Lux",
+      "codename": "P632A10",
+      "model": "BGH Joy Smart A7G"
+    },
+    {
+      "market_name": "ZTE Blade Q Lux",
+      "codename": "P632A10",
+      "model": "Beeline Pro"
+    },
+    {
+      "market_name": "ZTE Blade Q Lux",
+      "codename": "P632A10",
+      "model": "UZTE Blade Q Lux"
+    },
+    {
+      "market_name": "ZTE Blade Q Lux",
+      "codename": "P632A10",
+      "model": "ZTE Blade A430"
+    },
+    {
+      "market_name": "ZTE Blade Q Lux",
+      "codename": "P632A10",
+      "model": "ZTE Blade Q Lux"
+    },
+    {
+      "market_name": "ZTE Blade Q Lux",
+      "codename": "P632A10",
+      "model": "ZTE Blade Q Lux 3G"
+    },
+    {
+      "market_name": "ZTE Blade Q Lux",
+      "codename": "P632A10",
+      "model": "ZTE Fit 4G Smart"
+    },
+    {
+      "market_name": "ZTE Blade Q Lux",
+      "codename": "P632A10",
+      "model": "ZTE T311"
+    },
+    {
+      "market_name": "ZTE Blade Q Lux",
+      "codename": "P816A12",
+      "model": "ZTE Blade Q Lux"
+    },
+    {
+      "market_name": "ZTE Blade Q Mini",
+      "codename": "P172G10_UK_VIRGIN",
+      "model": "ZTE Blade Q Mini"
+    },
+    {
+      "market_name": "ZTE Blade S6 Plus",
+      "codename": "P839F50",
+      "model": "ZTE Blade S6 Plus"
+    },
+    {
+      "market_name": "ZTE Blade V",
+      "codename": "ZTE-Blade-V",
+      "model": "Vodafone Blade V"
+    },
+    {
+      "market_name": "ZTE Blade V",
+      "codename": "ZTE-Blade-V",
+      "model": "ZTE Blade V"
+    },
+    {
+      "market_name": "ZTE Blade V2",
+      "codename": "msm8916_32",
+      "model": "ZTE Blade V2"
+    },
+    {
+      "market_name": "ZTE Blade V220",
+      "codename": "msm8916_32",
+      "model": "ZTE Blade V220"
+    },
+    {
+      "market_name": "ZTE Blade VEC",
+      "codename": "P692S20_Q82",
+      "model": "ZTE Blade VEC"
+    },
+    {
+      "market_name": "ZTE Blade Vec",
+      "codename": "P692S20_Q82",
+      "model": "Blade Vec"
+    },
+    {
+      "market_name": "ZTE Blade Vec",
+      "codename": "P692S20_Q82",
+      "model": "ZTE Blade Vec"
+    },
+    {
+      "market_name": "ZTE Blade Vec",
+      "codename": "P692S20_Q82",
+      "model": "ZTE Geek 2"
+    },
+    {
+      "market_name": "ZTE Blade Vec 4G",
+      "codename": "msm8226",
+      "model": "ZTE Blade Vec 4G"
+    },
+    {
+      "market_name": "ZTE Blade Vec Pro",
+      "codename": "P692S20_M92",
+      "model": "ZTE Blade Vec Pro"
+    },
+    {
+      "market_name": "ZTE C310",
+      "codename": "P172D04",
+      "model": "ZTE Blade C310"
+    },
+    {
+      "market_name": "ZTE C310",
+      "codename": "P172D04",
+      "model": "ZTE C310"
+    },
+    {
+      "market_name": "ZTE G601U",
+      "codename": "P172E02",
+      "model": "ZTE G601U"
+    },
+    {
+      "market_name": "ZTE G717C",
+      "codename": "P692N30",
+      "model": "ZTE G717C"
+    },
+    {
+      "market_name": "ZTE G718C",
+      "codename": "ZTE-G718C",
+      "model": "ZTE G718C"
+    },
+    {
+      "market_name": "ZTE G719C",
+      "codename": "ZTE-G719C",
+      "model": "ZTE G719C"
+    },
+    {
+      "market_name": "ZTE G720C",
+      "codename": "ZTE-G720C",
+      "model": "ZTE G720C"
+    },
+    {
+      "market_name": "ZTE G720T",
+      "codename": "P839T30",
+      "model": "ZTE G720T"
+    },
+    {
+      "market_name": "ZTE G720T",
+      "codename": "V_P839T30",
+      "model": "ZTE G720T"
+    },
+    {
+      "market_name": "ZTE GEEK II 4G",
+      "codename": "msm8226",
+      "model": "ZTE GEEK II 4G"
+    },
+    {
+      "market_name": "ZTE GEEK II Pro",
+      "codename": "ztexasp92_wet_jb9",
+      "model": "ZTE GEEK II Pro"
+    },
+    {
+      "market_name": "ZTE GEEK II Pro",
+      "codename": "ztexasp92_wet_jb9",
+      "model": "ZTE M1001"
+    },
+    {
+      "market_name": "ZTE Geek",
+      "codename": "redhookbay",
+      "model": "ZTE Geek"
+    },
+    {
+      "market_name": "ZTE Geek 2 LTE",
+      "codename": "msm8226",
+      "model": "ZTE Geek 2 LTE"
+    },
+    {
+      "market_name": "ZTE Geek 2 pro",
+      "codename": "P692S20_M92",
+      "model": "ZTE Geek 2 pro"
+    },
+    {
+      "market_name": "ZTE Grand Era",
+      "codename": "enterprise_RU",
+      "model": "ZTE Grand Era"
+    },
+    {
+      "market_name": "ZTE Grand Memo LTE",
+      "codename": "Grand-Memo",
+      "model": "ZTE Grand Memo"
+    },
+    {
+      "market_name": "ZTE Grand Memo LTE",
+      "codename": "Grand-Memo",
+      "model": "ZTE Grand Memo LTE"
+    },
+    {
+      "market_name": "ZTE Grand S Flex",
+      "codename": "iris",
+      "model": "ZTE Grand S Flex"
+    },
+    {
+      "market_name": "ZTE Grand S II",
+      "codename": "P541T50",
+      "model": "ZTE Grand S II"
+    },
+    {
+      "market_name": "ZTE Grand S II",
+      "codename": "P541T50",
+      "model": "ZTE S221"
+    },
+    {
+      "market_name": "ZTE Grand S II",
+      "codename": "P897A21",
+      "model": "ZTE Grand S II"
+    },
+    {
+      "market_name": "ZTE Grand S II LTE",
+      "codename": "msm8974",
+      "model": "ZTE Grand S II LTE"
+    },
+    {
+      "market_name": "ZTE Grand X 2",
+      "codename": "P682F06",
+      "model": "Amazing A7"
+    },
+    {
+      "market_name": "ZTE Grand X 2",
+      "codename": "P682F06",
+      "model": "ZTE Grand X 2"
+    },
+    {
+      "market_name": "ZTE Grand X 2",
+      "codename": "P682F06",
+      "model": "ZTE V968"
+    },
+    {
+      "market_name": "ZTE Grand X 2",
+      "codename": "P682F06",
+      "model": "ZTE V969"
+    },
+    {
+      "market_name": "ZTE Grand X Quad Lite",
+      "codename": "P188F07",
+      "model": "Amazing A6"
+    },
+    {
+      "market_name": "ZTE Grand X Quad Lite",
+      "codename": "P188F07",
+      "model": "V8602"
+    },
+    {
+      "market_name": "ZTE Grand X Quad Lite",
+      "codename": "P188F07",
+      "model": "ZTE Grand X Quad Lite"
+    },
+    {
+      "market_name": "ZTE Grand X Quad Lite",
+      "codename": "P188F07",
+      "model": "ZTE Grand X2"
+    },
+    {
+      "market_name": "ZTE Grand X Quad Lite",
+      "codename": "P188F07",
+      "model": "ZTE Skate 2"
+    },
+    {
+      "market_name": "ZTE Grand X Quad Lite",
+      "codename": "P188F07",
+      "model": "ZTE V967S"
+    },
+    {
+      "market_name": "ZTE Grand X2 In",
+      "codename": "redhookbay",
+      "model": "Grand X2 In"
+    },
+    {
+      "market_name": "ZTE Grand X2 In",
+      "codename": "redhookbay",
+      "model": "ZTE Grand X2 In"
+    },
+    {
+      "market_name": "ZTE Kis 3",
+      "codename": "ZTE-P821E10",
+      "model": "MEO SMART A16"
+    },
+    {
+      "market_name": "ZTE Kis 3",
+      "codename": "ZTE-P821E10",
+      "model": "MEO Smart A16"
+    },
+    {
+      "market_name": "ZTE Kis 3",
+      "codename": "ZTE-P821E10",
+      "model": "MOCHE SMART A16"
+    },
+    {
+      "market_name": "ZTE Kis 3",
+      "codename": "ZTE-P821E10",
+      "model": "ZTE Kis 3"
+    },
+    {
+      "market_name": "ZTE Kis 3",
+      "codename": "ZTE-P821E10",
+      "model": "ZTE V811"
+    },
+    {
+      "market_name": "ZTE Kis Lite",
+      "codename": "roamer2",
+      "model": "ZTE Kis Lite"
+    },
+    {
+      "market_name": "ZTE Kis Pro",
+      "codename": "nice",
+      "model": "Optimus Zali"
+    },
+    {
+      "market_name": "ZTE Kis Pro",
+      "codename": "nice",
+      "model": "ZTE Kis Pro"
+    },
+    {
+      "market_name": "ZTE Kis Q",
+      "codename": "P172D02",
+      "model": "ZTE Kis Q"
+    },
+    {
+      "market_name": "ZTE LEO M1",
+      "codename": "V883M",
+      "model": "V883M"
+    },
+    {
+      "market_name": "ZTE LEO M1",
+      "codename": "V883M",
+      "model": "ZTE LEO M1"
+    },
+    {
+      "market_name": "ZTE LEO S1",
+      "codename": "V972M",
+      "model": "V972M"
+    },
+    {
+      "market_name": "ZTE LEO S1",
+      "codename": "V972M",
+      "model": "ZTE LEO S1"
+    },
+    {
+      "market_name": "ZTE LEO S2",
+      "codename": "V982M_Z64",
+      "model": "ZTE LEO S2"
+    },
+    {
+      "market_name": "ZTE M901C",
+      "codename": "P692N60",
+      "model": "ZTE M901C"
+    },
+    {
+      "market_name": "ZTE N5L",
+      "codename": "prmthus",
+      "model": "ZTE N5L"
+    },
+    {
+      "market_name": "ZTE N5S",
+      "codename": "P189F10",
+      "model": "ZTE N5S"
+    },
+    {
+      "market_name": "ZTE N795",
+      "codename": "deepblue",
+      "model": "ZTE N795"
+    },
+    {
+      "market_name": "ZTE N798",
+      "codename": "atlas40",
+      "model": "ZTE N798"
+    },
+    {
+      "market_name": "ZTE N798+",
+      "codename": "ZTE_N798",
+      "model": "ZTE N798+"
+    },
+    {
+      "market_name": "ZTE N798+",
+      "codename": "ZTE_N798P",
+      "model": "ZTE N798+"
+    },
+    {
+      "market_name": "ZTE N799D",
+      "codename": "ZTE-N799D",
+      "model": "N799D"
+    },
+    {
+      "market_name": "ZTE N799D",
+      "codename": "ZTE-N799D",
+      "model": "ZTE N799D"
+    },
+    {
+      "market_name": "ZTE N818",
+      "codename": "ZTE-N818",
+      "model": "N818"
+    },
+    {
+      "market_name": "ZTE N818",
+      "codename": "ZTE-N818",
+      "model": "ZTE N818"
+    },
+    {
+      "market_name": "ZTE N880E",
+      "codename": "atlas40",
+      "model": "ZTE N880E"
+    },
+    {
+      "market_name": "ZTE N880G",
+      "codename": "ZTE-N880G",
+      "model": "ZTE N880G"
+    },
+    {
+      "market_name": "ZTE N900",
+      "codename": "ZTE-N900",
+      "model": "ZTE N900"
+    },
+    {
+      "market_name": "ZTE N900D",
+      "codename": "ZTE-N900D",
+      "model": "ZTE N900D"
+    },
+    {
+      "market_name": "ZTE N909",
+      "codename": "ZTE-N909",
+      "model": "ZTE N909"
+    },
+    {
+      "market_name": "ZTE N909D",
+      "codename": "ZTE-N909D",
+      "model": "ZTE N909D"
+    },
+    {
+      "market_name": "ZTE N9120",
+      "codename": "elden",
+      "model": "ZTE N9120"
+    },
+    {
+      "market_name": "ZTE N919",
+      "codename": "ZTE-N919",
+      "model": "ZTE N919"
+    },
+    {
+      "market_name": "ZTE N919D",
+      "codename": "ZTE-N919D",
+      "model": "N919D"
+    },
+    {
+      "market_name": "ZTE N919D",
+      "codename": "ZTE-N919D",
+      "model": "ZTE N919D"
+    },
+    {
+      "market_name": "ZTE N983",
+      "codename": "P177F03",
+      "model": "ZTE N983"
+    },
+    {
+      "market_name": "ZTE N9835",
+      "codename": "chovar",
+      "model": "N9835"
+    },
+    {
+      "market_name": "ZTE N9835",
+      "codename": "chovar",
+      "model": "ZTE N9835"
+    },
+    {
+      "market_name": "ZTE N986",
+      "codename": "P188F02",
+      "model": "N986"
+    },
+    {
+      "market_name": "ZTE N986",
+      "codename": "P188F02",
+      "model": "ZTE N986"
+    },
+    {
+      "market_name": "ZTE Q101T",
+      "codename": "P810T10",
+      "model": "ZTE Q101T"
+    },
+    {
+      "market_name": "ZTE Q201T",
+      "codename": "P172T24",
+      "model": "ZTE Q201T"
+    },
+    {
+      "market_name": "ZTE Q2S-C",
+      "codename": "P826N50",
+      "model": "ZTE Q2S-C"
+    },
+    {
+      "market_name": "ZTE Q2S-T",
+      "codename": "P826T50",
+      "model": "ZTE Q2S-T"
+    },
+    {
+      "market_name": "ZTE Q301C",
+      "codename": "APT_TW_P810N30",
+      "model": "ZTE Q301C"
+    },
+    {
+      "market_name": "ZTE Q301C",
+      "codename": "P810N30",
+      "model": "ZTE Q301C"
+    },
+    {
+      "market_name": "ZTE Q301T",
+      "codename": "P172T33",
+      "model": "ZTE Q301T"
+    },
+    {
+      "market_name": "ZTE Q302C",
+      "codename": "P809N20",
+      "model": "ZTE Q302C"
+    },
+    {
+      "market_name": "ZTE Q5-C",
+      "codename": "P816N34",
+      "model": "ZTE Q5-C"
+    },
+    {
+      "market_name": "ZTE Q5-T",
+      "codename": "CU_P816T32",
+      "model": "ZTE Q5-T"
+    },
+    {
+      "market_name": "ZTE Q5-T",
+      "codename": "P816T32",
+      "model": "ZTE Q5-T"
+    },
+    {
+      "market_name": "ZTE Q501T",
+      "codename": "P172T31",
+      "model": "ZTE Q501T"
+    },
+    {
+      "market_name": "ZTE Q501U",
+      "codename": "P172F04",
+      "model": "ZTE Q501U"
+    },
+    {
+      "market_name": "ZTE Q503U",
+      "codename": "P682V53",
+      "model": "ZTE Q503U"
+    },
+    {
+      "market_name": "ZTE Q505T",
+      "codename": "P826T20",
+      "model": "ZTE Q505T"
+    },
+    {
+      "market_name": "ZTE Q507T",
+      "codename": "P682T20",
+      "model": "ZTE Q507T"
+    },
+    {
+      "market_name": "ZTE Q508U",
+      "codename": "P816V50",
+      "model": "ZTE Q508U"
+    },
+    {
+      "market_name": "ZTE Q509T",
+      "codename": "P632T31",
+      "model": "Amazing X5"
+    },
+    {
+      "market_name": "ZTE Q509T",
+      "codename": "P632T31",
+      "model": "MTC SMART Run 4G"
+    },
+    {
+      "market_name": "ZTE Q509T",
+      "codename": "P632T31",
+      "model": "ZTE Blade A450"
+    },
+    {
+      "market_name": "ZTE Q509T",
+      "codename": "P632T31",
+      "model": "ZTE Blade V2 Lite"
+    },
+    {
+      "market_name": "ZTE Q509T",
+      "codename": "P632T31",
+      "model": "ZTE Q509T"
+    },
+    {
+      "market_name": "ZTE Q7",
+      "codename": "CMCC_P839V50",
+      "model": "ZTE Q7"
+    },
+    {
+      "market_name": "ZTE Q7",
+      "codename": "CU_P839V50",
+      "model": "ZTE Q7"
+    },
+    {
+      "market_name": "ZTE Q7",
+      "codename": "P839V50",
+      "model": "ZTE Q7"
+    },
+    {
+      "market_name": "ZTE Q7-C",
+      "codename": "P839N50",
+      "model": "ZTE Q7-C"
+    },
+    {
+      "market_name": "ZTE Q705U",
+      "codename": "P682V60",
+      "model": "ZTE Q705U"
+    },
+    {
+      "market_name": "ZTE Q801T",
+      "codename": "P181L30",
+      "model": "ZTE Q801T"
+    },
+    {
+      "market_name": "ZTE Q801U",
+      "codename": "P826V30",
+      "model": "ZTE Q801U"
+    },
+    {
+      "market_name": "ZTE Q802C",
+      "codename": "ZTE-Q802C",
+      "model": "ZTE Q802C"
+    },
+    {
+      "market_name": "ZTE Q802D",
+      "codename": "ZTE-Q802D",
+      "model": "ZTE Q802D"
+    },
+    {
+      "market_name": "ZTE Q802T",
+      "codename": "P826T30",
+      "model": "ZTE Q802T"
+    },
+    {
+      "market_name": "ZTE Q805T",
+      "codename": "P120T55",
+      "model": "ZTE Q805T"
+    },
+    {
+      "market_name": "ZTE Q806T",
+      "codename": "V_P635T30",
+      "model": "ZTE Q806T"
+    },
+    {
+      "market_name": "ZTE R83",
+      "codename": "demeter",
+      "model": "ZTE R83"
+    },
+    {
+      "market_name": "ZTE S118",
+      "codename": "P189S10",
+      "model": "Grand S Lite"
+    },
+    {
+      "market_name": "ZTE S118",
+      "codename": "P189S10",
+      "model": "ZTE S118"
+    },
+    {
+      "market_name": "ZTE S2004",
+      "codename": "msm8974",
+      "model": "ZTE S2004"
+    },
+    {
+      "market_name": "ZTE S2005",
+      "codename": "msm8974",
+      "model": "ZTE S2005"
+    },
+    {
+      "market_name": "ZTE S2007",
+      "codename": "msm8974",
+      "model": "ZTE S2007"
+    },
+    {
+      "market_name": "ZTE S2014",
+      "codename": "ZTE-S2014",
+      "model": "ZTE S2014"
+    },
+    {
+      "market_name": "ZTE S2015",
+      "codename": "ZTE-S2015",
+      "model": "ZTE S2015"
+    },
+    {
+      "market_name": "ZTE STAR",
+      "codename": "msm8226",
+      "model": "ZTE GEEK II Pro 4G"
+    },
+    {
+      "market_name": "ZTE STAR",
+      "codename": "msm8226",
+      "model": "ZTE S2002"
+    },
+    {
+      "market_name": "ZTE STAR",
+      "codename": "msm8226",
+      "model": "ZTE STAR"
+    },
+    {
+      "market_name": "ZTE STAR",
+      "codename": "msm8226",
+      "model": "ZTE Star 1"
+    },
+    {
+      "market_name": "ZTE Skate",
+      "codename": "skate",
+      "model": "ZTE Skate"
+    },
+    {
+      "market_name": "ZTE Switch X1",
+      "codename": "deepblue",
+      "model": "ZTE Switch X1"
+    },
+    {
+      "market_name": "ZTE Switch X1",
+      "codename": "deepblue",
+      "model": "ZTE V796"
+    },
+    {
+      "market_name": "ZTE T12",
+      "codename": "P173A30T",
+      "model": "ZTE T12"
+    },
+    {
+      "market_name": "ZTE T221",
+      "codename": "P731A20",
+      "model": "ZTE Blade AF5"
+    },
+    {
+      "market_name": "ZTE T221",
+      "codename": "P731A20",
+      "model": "ZTE Blade C341"
+    },
+    {
+      "market_name": "ZTE T221",
+      "codename": "P731A20",
+      "model": "ZTE Blade C342"
+    },
+    {
+      "market_name": "ZTE T221",
+      "codename": "P731A20",
+      "model": "ZTE T221"
+    },
+    {
+      "market_name": "ZTE T221",
+      "codename": "P731A20",
+      "model": "ZTE T230"
+    },
+    {
+      "market_name": "ZTE T28",
+      "codename": "bluetick",
+      "model": "ZTE T28"
+    },
+    {
+      "market_name": "ZTE T28",
+      "codename": "bluetick",
+      "model": "ZTE T28 Prepaid"
+    },
+    {
+      "market_name": "ZTE T60",
+      "codename": "turies",
+      "model": "ZTE T60"
+    },
+    {
+      "market_name": "ZTE T760",
+      "codename": "P173A10T",
+      "model": "ZTE T760"
+    },
+    {
+      "market_name": "ZTE T790",
+      "codename": "roamer2",
+      "model": "ZTE T790"
+    },
+    {
+      "market_name": "ZTE T792",
+      "codename": "ZTE-T792",
+      "model": "ZTE T792"
+    },
+    {
+      "market_name": "ZTE T80",
+      "codename": "msm8226",
+      "model": "ZTE T80"
+    },
+    {
+      "market_name": "ZTE T81",
+      "codename": "iliamna",
+      "model": "ZTE T81"
+    },
+    {
+      "market_name": "ZTE T82",
+      "codename": "frosty",
+      "model": "ZTE T82"
+    },
+    {
+      "market_name": "ZTE T83",
+      "codename": "demeter",
+      "model": "ZTE T83"
+    },
+    {
+      "market_name": "ZTE T84",
+      "codename": "P816A20",
+      "model": "ZTE R84"
+    },
+    {
+      "market_name": "ZTE T84",
+      "codename": "P816A20",
+      "model": "ZTE T84"
+    },
+    {
+      "market_name": "ZTE T86",
+      "codename": "msm8226",
+      "model": "Amazing X1"
+    },
+    {
+      "market_name": "ZTE T86",
+      "codename": "msm8226",
+      "model": "ZTE T86"
+    },
+    {
+      "market_name": "ZTE T88",
+      "codename": "msm8226",
+      "model": "ZTE T88"
+    },
+    {
+      "market_name": "ZTE T911",
+      "codename": "P839F30",
+      "model": "ZTE T911"
+    },
+    {
+      "market_name": "ZTE U5S",
+      "codename": "P188T51",
+      "model": "ZTE U5S"
+    },
+    {
+      "market_name": "ZTE U809",
+      "codename": "P172T11",
+      "model": "ZTE U809"
+    },
+    {
+      "market_name": "ZTE U816",
+      "codename": "P988T20",
+      "model": "ZTE U816"
+    },
+    {
+      "market_name": "ZTE U817",
+      "codename": "P117A20",
+      "model": "ZTE U817"
+    },
+    {
+      "market_name": "ZTE U818",
+      "codename": "P172T21",
+      "model": "ZTE U818"
+    },
+    {
+      "market_name": "ZTE U879",
+      "codename": "P172T30",
+      "model": "ZTE U879"
+    },
+    {
+      "market_name": "ZTE U889",
+      "codename": "P183T30",
+      "model": "ZTE U889"
+    },
+    {
+      "market_name": "ZTE U968",
+      "codename": "P682T51",
+      "model": "ZTE U968"
+    },
+    {
+      "market_name": "ZTE U969",
+      "codename": "P682T50",
+      "model": "ZTE U969"
+    },
+    {
+      "market_name": "ZTE U9815",
+      "codename": "P945T20",
+      "model": "ZTE U9815"
+    },
+    {
+      "market_name": "ZTE U988S",
+      "codename": "pluto",
+      "model": "ZTE U988S"
+    },
+    {
+      "market_name": "ZTE V5S",
+      "codename": "P189F13",
+      "model": "ZTE Grand Memo lite"
+    },
+    {
+      "market_name": "ZTE V5S",
+      "codename": "P189F13",
+      "model": "ZTE V5S"
+    },
+    {
+      "market_name": "ZTE V70",
+      "codename": "ZTE-V70",
+      "model": "ZTE V70"
+    },
+    {
+      "market_name": "ZTE V7073",
+      "codename": "V7073",
+      "model": "ZTE V7073"
+    },
+    {
+      "market_name": "ZTE V72",
+      "codename": "V72",
+      "model": "MT7A"
+    },
+    {
+      "market_name": "ZTE V72",
+      "codename": "V72",
+      "model": "ZTE V72"
+    },
+    {
+      "market_name": "ZTE V72",
+      "codename": "V72",
+      "model": "myPad P4 Lite"
+    },
+    {
+      "market_name": "ZTE V768",
+      "codename": "V768",
+      "model": "ZTE V768"
+    },
+    {
+      "market_name": "ZTE V769M",
+      "codename": "V769M",
+      "model": "V769M"
+    },
+    {
+      "market_name": "ZTE V769M",
+      "codename": "V769M",
+      "model": "ZTE LEO Q2"
+    },
+    {
+      "market_name": "ZTE V769M",
+      "codename": "V769M",
+      "model": "ZTE V769M"
+    },
+    {
+      "market_name": "ZTE V779M",
+      "codename": "ZTEV779M",
+      "model": "ZTE V779M"
+    },
+    {
+      "market_name": "ZTE V790",
+      "codename": "roamer2",
+      "model": "ZTE V790"
+    },
+    {
+      "market_name": "ZTE V791",
+      "codename": "P175A40",
+      "model": "V791"
+    },
+    {
+      "market_name": "ZTE V791",
+      "codename": "P175A40",
+      "model": "ZTE V791"
+    },
+    {
+      "market_name": "ZTE V792C",
+      "codename": "P810D01",
+      "model": "ZTE V792C"
+    },
+    {
+      "market_name": "ZTE V793",
+      "codename": "P175A60",
+      "model": "Amazing A3"
+    },
+    {
+      "market_name": "ZTE V793",
+      "codename": "P175A60",
+      "model": "Cellcom 4G"
+    },
+    {
+      "market_name": "ZTE V793",
+      "codename": "P175A60",
+      "model": "M9000"
+    },
+    {
+      "market_name": "ZTE V793",
+      "codename": "P175A60",
+      "model": "Telcel T20"
+    },
+    {
+      "market_name": "ZTE V793",
+      "codename": "P175A60",
+      "model": "ZTE KIS Flex"
+    },
+    {
+      "market_name": "ZTE V793",
+      "codename": "P175A60",
+      "model": "ZTE V793"
+    },
+    {
+      "market_name": "ZTE V793",
+      "codename": "P175A60",
+      "model": "tmn smart a6"
+    },
+    {
+      "market_name": "ZTE V795",
+      "codename": "P172D01",
+      "model": "BGH Joy Smart A1"
+    },
+    {
+      "market_name": "ZTE V795",
+      "codename": "P172D01",
+      "model": "V795(A3S)"
+    },
+    {
+      "market_name": "ZTE V795",
+      "codename": "P172D01",
+      "model": "ZTE B795"
+    },
+    {
+      "market_name": "ZTE V795",
+      "codename": "P172D01",
+      "model": "ZTE KIS II"
+    },
+    {
+      "market_name": "ZTE V795",
+      "codename": "P172D01",
+      "model": "ZTE KIS II PRO"
+    },
+    {
+      "market_name": "ZTE V795",
+      "codename": "P172D01",
+      "model": "ZTE Kis II"
+    },
+    {
+      "market_name": "ZTE V795",
+      "codename": "P172D01",
+      "model": "ZTE V795"
+    },
+    {
+      "market_name": "ZTE V797",
+      "codename": "P172D03",
+      "model": "VIETTEL V8411"
+    },
+    {
+      "market_name": "ZTE V797",
+      "codename": "P172D03",
+      "model": "ZTE V797"
+    },
+    {
+      "market_name": "ZTE V807",
+      "codename": "P177E01",
+      "model": "Amazing A4"
+    },
+    {
+      "market_name": "ZTE V807",
+      "codename": "P177E01",
+      "model": "Beeline E700"
+    },
+    {
+      "market_name": "ZTE V807",
+      "codename": "P177E01",
+      "model": "Leopard MF900"
+    },
+    {
+      "market_name": "ZTE V807",
+      "codename": "P177E01",
+      "model": "UZTE V807"
+    },
+    {
+      "market_name": "ZTE V807",
+      "codename": "P177E01",
+      "model": "V8501"
+    },
+    {
+      "market_name": "ZTE V807",
+      "codename": "P177E01",
+      "model": "ZTE BLADE C"
+    },
+    {
+      "market_name": "ZTE V807",
+      "codename": "P177E01",
+      "model": "ZTE V807"
+    },
+    {
+      "market_name": "ZTE V807",
+      "codename": "P177E01",
+      "model": "ZTE V889S"
+    },
+    {
+      "market_name": "ZTE V808",
+      "codename": "P172E01",
+      "model": "UZTE V808"
+    },
+    {
+      "market_name": "ZTE V808",
+      "codename": "P172E01",
+      "model": "ZTE V808"
+    },
+    {
+      "market_name": "ZTE V809",
+      "codename": "P172A10",
+      "model": "BGH Joy Smart A2"
+    },
+    {
+      "market_name": "ZTE V809",
+      "codename": "P172A10",
+      "model": "ZTE Blade C2"
+    },
+    {
+      "market_name": "ZTE V809",
+      "codename": "P172A10",
+      "model": "ZTE T809"
+    },
+    {
+      "market_name": "ZTE V809",
+      "codename": "P172A10",
+      "model": "ZTE V809"
+    },
+    {
+      "market_name": "ZTE V809",
+      "codename": "P172A10",
+      "model": "meo smart a12"
+    },
+    {
+      "market_name": "ZTE V811",
+      "codename": "ZTE-V811",
+      "model": "Beeline Smart2"
+    },
+    {
+      "market_name": "ZTE V811",
+      "codename": "ZTE-V811",
+      "model": "ZTE V811"
+    },
+    {
+      "market_name": "ZTE V811C",
+      "codename": "P810E01",
+      "model": "ZTE V811C"
+    },
+    {
+      "market_name": "ZTE V811W",
+      "codename": "P821E10",
+      "model": "ZTE V811"
+    },
+    {
+      "market_name": "ZTE V811W",
+      "codename": "P821E10",
+      "model": "ZTE V811W"
+    },
+    {
+      "market_name": "ZTE V813W",
+      "codename": "P172B20",
+      "model": "ZTE Blade C2 Plus"
+    },
+    {
+      "market_name": "ZTE V813W",
+      "codename": "P172B20",
+      "model": "ZTE V813W"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "Amazing A4S"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "B8405"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "BGH Joy Smart A5C"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "BGH Joy Smart A5d"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "KIS II Max"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "SMART Start"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "UZTE GRAND V7"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE B816"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE Blade Buzz"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE Blade C320"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE Blade Q1"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE Kis II Max"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE Kis II Max Plus"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE Kis II Max plus"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE Maxx"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE T815"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE T816"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE V815W"
+    },
+    {
+      "market_name": "ZTE V815W",
+      "codename": "P172R10",
+      "model": "ZTE V816W"
+    },
+    {
+      "market_name": "ZTE V817",
+      "codename": "ZTE-V817",
+      "model": "V817"
+    },
+    {
+      "market_name": "ZTE V817",
+      "codename": "ZTE-V817",
+      "model": "ZTE V817"
+    },
+    {
+      "market_name": "ZTE V817",
+      "codename": "ZTE-V956",
+      "model": "ZTE V817"
+    },
+    {
+      "market_name": "ZTE V818",
+      "codename": "P172F01",
+      "model": "ZTE Blade 2"
+    },
+    {
+      "market_name": "ZTE V818",
+      "codename": "P172F01",
+      "model": "ZTE V818"
+    },
+    {
+      "market_name": "ZTE V829",
+      "codename": "P172A30",
+      "model": "BGH Joy Smart A3"
+    },
+    {
+      "market_name": "ZTE V829",
+      "codename": "P172A30",
+      "model": "Blade G Pro"
+    },
+    {
+      "market_name": "ZTE V829",
+      "codename": "P172A30",
+      "model": "V8507"
+    },
+    {
+      "market_name": "ZTE V829",
+      "codename": "P172A30",
+      "model": "ZTE Blade G Plus"
+    },
+    {
+      "market_name": "ZTE V829",
+      "codename": "P172A30",
+      "model": "ZTE Blade G Pro"
+    },
+    {
+      "market_name": "ZTE V829",
+      "codename": "P172A30",
+      "model": "ZTE V829"
+    },
+    {
+      "market_name": "ZTE V831W",
+      "codename": "P731A10",
+      "model": "Amazing A5S"
+    },
+    {
+      "market_name": "ZTE V831W",
+      "codename": "P731A10",
+      "model": "UZTE Blade Q Pro"
+    },
+    {
+      "market_name": "ZTE V831W",
+      "codename": "P731A10",
+      "model": "ZTE T320"
+    },
+    {
+      "market_name": "ZTE V831W",
+      "codename": "P731A10",
+      "model": "ZTE V831W"
+    },
+    {
+      "market_name": "ZTE V879",
+      "codename": "P172F02",
+      "model": "ZTE V879"
+    },
+    {
+      "market_name": "ZTE V880E",
+      "codename": "atlas40",
+      "model": "ZTE V880E"
+    },
+    {
+      "market_name": "ZTE V880G",
+      "codename": "ZTE-V880G",
+      "model": "ZTE V880G"
+    },
+    {
+      "market_name": "ZTE V887",
+      "codename": "P177A10",
+      "model": "ZTE Blade L"
+    },
+    {
+      "market_name": "ZTE V887",
+      "codename": "P177A10",
+      "model": "ZTE V887"
+    },
+    {
+      "market_name": "ZTE V887",
+      "codename": "P177A10",
+      "model": "tmn smart a20"
+    },
+    {
+      "market_name": "ZTE V889D",
+      "codename": "atlas40",
+      "model": "ZTE V889D"
+    },
+    {
+      "market_name": "ZTE V889M",
+      "codename": "P175A10",
+      "model": "UZTE V889M"
+    },
+    {
+      "market_name": "ZTE V889M",
+      "codename": "P175A10",
+      "model": "ZTE V889M"
+    },
+    {
+      "market_name": "ZTE V891",
+      "codename": "P986E01",
+      "model": "ZTE V891"
+    },
+    {
+      "market_name": "ZTE V956",
+      "codename": "ZTE-V956",
+      "model": "ZTE V956"
+    },
+    {
+      "market_name": "ZTE V965",
+      "codename": "P188F03",
+      "model": "ZTE Blade G2"
+    },
+    {
+      "market_name": "ZTE V965",
+      "codename": "P188F03",
+      "model": "ZTE R880H"
+    },
+    {
+      "market_name": "ZTE V965",
+      "codename": "P188F03",
+      "model": "ZTE V880H"
+    },
+    {
+      "market_name": "ZTE V965",
+      "codename": "P188F03",
+      "model": "ZTE V965"
+    },
+    {
+      "market_name": "ZTE V969",
+      "codename": "P682F01",
+      "model": "ZTE V969"
+    },
+    {
+      "market_name": "ZTE V970",
+      "codename": "whistler",
+      "model": "UZTE V970"
+    },
+    {
+      "market_name": "ZTE V970",
+      "codename": "whistler",
+      "model": "ZTE V970"
+    },
+    {
+      "market_name": "ZTE V975",
+      "codename": "redhookbay",
+      "model": "V975"
+    },
+    {
+      "market_name": "ZTE V975",
+      "codename": "redhookbay",
+      "model": "ZTE Geek"
+    },
+    {
+      "market_name": "ZTE V975",
+      "codename": "redhookbay",
+      "model": "ZTE V975"
+    },
+    {
+      "market_name": "ZTE V9800",
+      "codename": "kiska",
+      "model": "ZTE V9800"
+    },
+    {
+      "market_name": "ZTE V9820",
+      "codename": "ZTE-V9820",
+      "model": "ZTE V9820"
+    },
+    {
+      "market_name": "ZTE V983",
+      "codename": "P177A30",
+      "model": "ZTE V983"
+    },
+    {
+      "market_name": "ZTE V987",
+      "codename": "P188F04",
+      "model": "UZTE GRAND X Quad"
+    },
+    {
+      "market_name": "ZTE V987",
+      "codename": "P188F04",
+      "model": "ZTE Grand X"
+    },
+    {
+      "market_name": "ZTE V987",
+      "codename": "P188F04",
+      "model": "ZTE V987"
+    },
+    {
+      "market_name": "ZTE V993W",
+      "codename": "ZTE_V993W",
+      "model": "ZTE V993W"
+    },
+    {
+      "market_name": "ZTE V9A",
+      "codename": "v9plus",
+      "model": "ZTE V9A"
+    },
+    {
+      "market_name": "ZTE Z932L",
+      "codename": "warplte",
+      "model": "Z932L"
+    },
+    {
+      "market_name": "ZTE Z932L",
+      "codename": "warplte",
+      "model": "ZTE Z932L"
+    },
+    {
+      "market_name": "ZTE-BLADE",
+      "codename": "blade",
+      "model": "ZTE-BLADE"
+    },
+    {
+      "market_name": "ZTE-N910",
+      "codename": "arthur4g",
+      "model": "ZTE-N910"
+    },
+    {
+      "market_name": "ZTE-SKATE",
+      "codename": "skate",
+      "model": "ZTE-SKATE"
+    },
+    {
+      "market_name": "ZTE-U N721",
+      "codename": "N721",
+      "model": "ZTE-U N721"
+    },
+    {
+      "market_name": "ZTE-U V760",
+      "codename": "ztenj73_gb",
+      "model": "MD Smart"
+    },
+    {
+      "market_name": "ZTE-U V760",
+      "codename": "ztenj73_gb",
+      "model": "Telenor Touch Mini"
+    },
+    {
+      "market_name": "ZTE-U V760",
+      "codename": "ztenj73_gb",
+      "model": "ZTE-U V760"
+    },
+    {
+      "market_name": "ZTE-U V760",
+      "codename": "ztenj73_gb",
+      "model": "ZTE-U V856"
+    },
+    {
+      "market_name": "ZTE-U V760",
+      "codename": "ztenj73_gb",
+      "model": "ZTE-U V857"
+    },
+    {
+      "market_name": "ZTE-U V760",
+      "codename": "ztenj73_gb",
+      "model": "moii E598"
+    },
+    {
+      "market_name": "ZTE-V6500",
+      "codename": "V6500",
+      "model": "Etisalat Smartphone"
+    },
+    {
+      "market_name": "ZTE-V6500",
+      "codename": "V6500",
+      "model": "ZTE-V6500"
+    },
+    {
+      "market_name": "ZTE-V856",
+      "codename": "zte_v856",
+      "model": "ZTE-V856"
+    },
+    {
+      "market_name": "ZTE-X500",
+      "codename": "X500",
+      "model": "ZTE-X500"
+    },
+    {
+      "market_name": "ZTE-Z990",
+      "codename": "roamer",
+      "model": "ZTE-Z990"
+    },
+    {
+      "market_name": "ZTE-Z990G",
+      "codename": "roamer",
+      "model": "ZTE-Z990G"
+    },
+    {
+      "market_name": "ZTE_LEO_Q1",
+      "codename": "hct72_wet_jb3",
+      "model": "V765M"
+    },
+    {
+      "market_name": "ZTE_LEO_Q1",
+      "codename": "hct72_wet_jb3",
+      "model": "ZTE LEO Q1"
+    },
+    {
+      "market_name": "ZTE_LEO_Q1",
+      "codename": "hct72_wet_jb3",
+      "model": "ZTE V765M"
+    },
+    {
+      "market_name": "ZTE_LEO_Q1",
+      "codename": "hct72_wet_jb3",
+      "model": "ZTE_CLARO_Q1"
+    },
+    {
+      "market_name": "ZTE_LEO_Q1",
+      "codename": "hct72_wet_jb3",
+      "model": "ZTE_LEO_Q1"
+    },
+    {
+      "market_name": "ZTE_LEO_Q1",
+      "codename": "hct72_wet_jb3",
+      "model": "mobifone M9001"
+    },
+    {
+      "market_name": "ZTE_N9511",
+      "codename": "hera",
+      "model": "ZTE_N9511"
+    },
+    {
+      "market_name": "ZTE_Q701C",
+      "codename": "ZTE-Q701C",
+      "model": "ZTE Q701C"
+    },
+    {
+      "market_name": "ZTE_Q801C",
+      "codename": "ZTE-Q801C",
+      "model": "ZTE Q801C"
+    },
+    {
+      "market_name": "ZTE_Q801L",
+      "codename": "ZTE-Q801L",
+      "model": "ZTE Q801L"
+    },
+    {
+      "market_name": "ZXY-ZTE_N8010",
+      "codename": "N8010_YM",
+      "model": "ZXY-ZTE_N8010"
+    },
+    {
+      "market_name": "ZXY-ZTE_V6700",
+      "codename": "V6700",
+      "model": "ZTE V6700"
+    },
+    {
+      "market_name": "ZXY-ZTE_V6700",
+      "codename": "V6700",
+      "model": "ZXY-ZTE_V6700"
+    },
+    {
+      "market_name": "blade S",
+      "codename": "blade2",
+      "model": "Blade S"
+    },
+    {
+      "market_name": "myPad P5",
+      "codename": "K78",
+      "model": "Amazing_P5"
+    },
+    {
+      "market_name": "myPad P5",
+      "codename": "K78",
+      "model": "myPad P5"
+    },
+    {
+      "market_name": "nubia Z5",
+      "codename": "NX501",
+      "model": "nubia Z5"
+    },
+    {
+      "market_name": "tmn smart a15",
+      "codename": "atlas40",
+      "model": "tmn smart a15"
+    },
+    {
+      "market_name": "tmn smart a60",
+      "codename": "kiska",
+      "model": "tmn smart a60"
+    },
+    {
+      "market_name": "tmn smart a7",
+      "codename": "sailboat",
+      "model": "tmn smart a7"
+    }
+  ]
+}

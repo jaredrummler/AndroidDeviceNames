@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Motorola Solutions",
+  "devices": [
+    {
+      "market_name": "Moto E",
+      "codename": "surnia_umts",
+      "model": "MotoE2(4G-LTE)"
+    },
+    {
+      "market_name": "TC55CH",
+      "codename": "TC55CH",
+      "model": "TC55CH"
+    }
+  ]
+}

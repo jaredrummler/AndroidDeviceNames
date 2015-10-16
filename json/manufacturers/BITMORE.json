@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Bitmore",
+  "devices": [
+    {
+      "market_name": "Bitmore Tab870",
+      "codename": "Tab870",
+      "model": "Tab870"
+    },
+    {
+      "market_name": "GTAB700",
+      "codename": "GTAB700",
+      "model": "NID_7010"
+    },
+    {
+      "market_name": "GTAB900",
+      "codename": "GTAB900",
+      "model": "S952"
+    },
+    {
+      "market_name": "LUXYA MID704DC Tablet / Bitmore Tab770",
+      "codename": "MY7317P",
+      "model": "Tab770"
+    }
+  ]
+}

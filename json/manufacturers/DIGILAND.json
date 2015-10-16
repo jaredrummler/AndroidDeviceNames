@@ -1,0 +1,25 @@
+{
+  "manufacturer": "DigiLand",
+  "devices": [
+    {
+      "market_name": "DL1010Q",
+      "codename": "DL1010Q",
+      "model": "DL1010Q"
+    },
+    {
+      "market_name": "DL700D",
+      "codename": "DL700D",
+      "model": "DL700D"
+    },
+    {
+      "market_name": "DL701Q",
+      "codename": "DL701Q",
+      "model": "DL701Q"
+    },
+    {
+      "market_name": "DL785D",
+      "codename": "DL785D",
+      "model": "PLT7803G"
+    }
+  ]
+}

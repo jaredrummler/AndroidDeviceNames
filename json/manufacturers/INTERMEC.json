@@ -1,0 +1,45 @@
+{
+  "manufacturer": "Intermec",
+  "devices": [
+    {
+      "market_name": "CN51",
+      "codename": "CN51_NC0",
+      "model": "CN51 NC0"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_NCF",
+      "model": "CN51 NCF"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_NCU",
+      "model": "CN51 NCU"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_NN0",
+      "model": "CN51 NN0"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_QC0",
+      "model": "CN51 QC0"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_QCF",
+      "model": "CN51 QCF"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_QCU",
+      "model": "CN51 QCU"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_QN0",
+      "model": "CN51 QN0"
+    }
+  ]
+}

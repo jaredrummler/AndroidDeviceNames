@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Lazer",
+  "devices": [
+    {
+      "market_name": "Lazer MD1005 Tablet",
+      "codename": "MD1005",
+      "model": "MD1005"
+    },
+    {
+      "market_name": "Lazer MY1306P",
+      "codename": "MY1306P",
+      "model": "MY1306P"
+    },
+    {
+      "market_name": "Lazer X4508",
+      "codename": "X4508",
+      "model": "X4508"
+    },
+    {
+      "market_name": "MID9526CM",
+      "codename": "MID9526CM",
+      "model": "S952"
+    },
+    {
+      "market_name": "MW-7615P",
+      "codename": "MW-7615P",
+      "model": "MW-7615P"
+    },
+    {
+      "market_name": "MW6617",
+      "codename": "MW6617",
+      "model": "MW6617"
+    }
+  ]
+}

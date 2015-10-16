@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Gigaset",
+  "devices": [
+    {
+      "market_name": "Gigaset QV1030",
+      "codename": "FG6Q",
+      "model": "Gigaset QV1030"
+    },
+    {
+      "market_name": "Gigaset QV830",
+      "codename": "UY8",
+      "model": "Gigaset QV830"
+    },
+    {
+      "market_name": "Gigaset QV831",
+      "codename": "UY8",
+      "model": "Gigaset QV831"
+    },
+    {
+      "market_name": "Maxwell 10",
+      "codename": "maxwell_10",
+      "model": "80-1"
+    },
+    {
+      "market_name": "Maxwell-10",
+      "codename": "maxwell_10",
+      "model": "80-1"
+    },
+    {
+      "market_name": "SL930",
+      "codename": "lion_s",
+      "model": "SL930"
+    }
+  ]
+}

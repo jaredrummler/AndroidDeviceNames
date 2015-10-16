@@ -1,0 +1,50 @@
+{
+  "manufacturer": "Sourcing Creation",
+  "devices": [
+    {
+      "market_name": "Connect 451",
+      "codename": "Connect451",
+      "model": "Connect 451"
+    },
+    {
+      "market_name": "Connect502",
+      "codename": "Connect502",
+      "model": "Connect502"
+    },
+    {
+      "market_name": "Connect502",
+      "codename": "MT502",
+      "model": "Connect502"
+    },
+    {
+      "market_name": "Connect551",
+      "codename": "Connect551",
+      "model": "Connect551"
+    },
+    {
+      "market_name": "ST1003S",
+      "codename": "T1882R",
+      "model": "Smart_TAB_1003s"
+    },
+    {
+      "market_name": "SmartTab_8004",
+      "codename": "T814",
+      "model": "SmartTab_8004"
+    },
+    {
+      "market_name": "Web\\\u0027Pad_1002_02",
+      "codename": "Webpad_1002_02",
+      "model": "Webpad_1002_02"
+    },
+    {
+      "market_name": "sp401",
+      "codename": "sp401",
+      "model": "sp401"
+    },
+    {
+      "market_name": "webpad_7005",
+      "codename": "MB709Q5",
+      "model": "Webpad_7005"
+    }
+  ]
+}

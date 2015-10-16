@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Tele2",
+  "devices": [
+    {
+      "market_name": "Tele2fon V4",
+      "codename": "Tele2fon_v4",
+      "model": "Tele2fon v4"
+    },
+    {
+      "market_name": "Tele2fon V5",
+      "codename": "Tele2fon_v5",
+      "model": "Tele2fon v5"
+    }
+  ]
+}

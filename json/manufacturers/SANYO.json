@@ -1,0 +1,50 @@
+{
+  "manufacturer": "Sanyo",
+  "devices": [
+    {
+      "market_name": "55CE6139M1",
+      "codename": "CEM1",
+      "model": "CEM1"
+    },
+    {
+      "market_name": "Benesse",
+      "codename": "31TL04",
+      "model": "31TL04"
+    },
+    {
+      "market_name": "Benesse",
+      "codename": "40TL04",
+      "model": "40TL04"
+    },
+    {
+      "market_name": "Benesse",
+      "codename": "41EA04",
+      "model": "41EA04"
+    },
+    {
+      "market_name": "CEA1",
+      "codename": "CEA1",
+      "model": "CEA1"
+    },
+    {
+      "market_name": "CEA3",
+      "codename": "CEA3",
+      "model": "CEA3"
+    },
+    {
+      "market_name": "CEH1",
+      "codename": "CEH1",
+      "model": "CEH1"
+    },
+    {
+      "market_name": "CER2",
+      "codename": "CER2",
+      "model": "CER2"
+    },
+    {
+      "market_name": "CER3",
+      "codename": "CER3",
+      "model": "CER3"
+    }
+  ]
+}

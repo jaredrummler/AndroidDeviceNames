@@ -1,0 +1,20 @@
+{
+  "manufacturer": "OpenPeak",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "CIUS-7",
+      "model": "CIUS-7"
+    },
+    {
+      "market_name": "",
+      "codename": "CIUS-7-AT",
+      "model": "CIUS-7-AT"
+    },
+    {
+      "market_name": "",
+      "codename": "cius",
+      "model": "cius"
+    }
+  ]
+}

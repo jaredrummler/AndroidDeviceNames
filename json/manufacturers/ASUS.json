@@ -1,0 +1,890 @@
+{
+  "manufacturer": "Asus",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "EP71",
+      "model": "ME171"
+    },
+    {
+      "market_name": "",
+      "codename": "TF300T",
+      "model": "ASUS Transformer Pad TF300T"
+    },
+    {
+      "market_name": "",
+      "codename": "a10",
+      "model": "Asus A10"
+    },
+    {
+      "market_name": "",
+      "codename": "a10",
+      "model": "Garmin-Asus A10"
+    },
+    {
+      "market_name": "",
+      "codename": "ventana",
+      "model": "Transformer TF101"
+    },
+    {
+      "market_name": "ASUS ETBW11AA",
+      "codename": "ETBW11AA",
+      "model": "ETBW11AA"
+    },
+    {
+      "market_name": "ASUS ETBW11AA",
+      "codename": "TF101G",
+      "model": "ETBW11AA"
+    },
+    {
+      "market_name": "ASUS Fonepad",
+      "codename": "K00G",
+      "model": "K00G"
+    },
+    {
+      "market_name": "ASUS Fonepad 7",
+      "codename": "K01F",
+      "model": "K01F"
+    },
+    {
+      "market_name": "ASUS Fonepad 7 LTE",
+      "codename": "K00Y",
+      "model": "K00Y"
+    },
+    {
+      "market_name": "ASUS Fonepad 8",
+      "codename": "K016_2",
+      "model": "K016"
+    },
+    {
+      "market_name": "ASUS Fonepad 8",
+      "codename": "K016_3",
+      "model": "K016"
+    },
+    {
+      "market_name": "ASUS Fonepad 8",
+      "codename": "K016_4",
+      "model": "K016"
+    },
+    {
+      "market_name": "ASUS Fonepad 8(FE380CG)",
+      "codename": "K016_1",
+      "model": "K016"
+    },
+    {
+      "market_name": "ASUS Fonepad ME371MG",
+      "codename": "ME371MG",
+      "model": "ME371MG"
+    },
+    {
+      "market_name": "ASUS MeMO Pad 7 (ME572CL)",
+      "codename": "K00R",
+      "model": "K00R"
+    },
+    {
+      "market_name": "ASUS MeMO Pad 7 LTE",
+      "codename": "K00X_1",
+      "model": "K00X"
+    },
+    {
+      "market_name": "ASUS MeMO Pad FHD 10",
+      "codename": "ME302KL",
+      "model": "ME302KL"
+    },
+    {
+      "market_name": "ASUS MeMO Pad HD7 Dual SIM",
+      "codename": "ASUS-K00S",
+      "model": "ASUS K00S"
+    },
+    {
+      "market_name": "ASUS MeMO Pad Smart 10",
+      "codename": "ME301T",
+      "model": "ME301T"
+    },
+    {
+      "market_name": "ASUS MeMo Pad ME302C",
+      "codename": "ME302C",
+      "model": "ME302C"
+    },
+    {
+      "market_name": "ASUS MeMo Pad ME302CASUS MeMo Pad\nME302C",
+      "codename": "ME302C",
+      "model": "ME302C"
+    },
+    {
+      "market_name": "ASUS Pad",
+      "codename": "K010",
+      "model": "K010"
+    },
+    {
+      "market_name": "ASUS Trans AiO P1801",
+      "codename": "P1801-T",
+      "model": "ASUS Tablet P1801-T"
+    },
+    {
+      "market_name": "ASUS TransBook Trio",
+      "codename": "TX201LA",
+      "model": "TX201LA"
+    },
+    {
+      "market_name": "ASUS Transformer AiO P1801",
+      "codename": "P1801-T",
+      "model": "ASUS Tablet P1801-T"
+    },
+    {
+      "market_name": "ASUS Transformer AiO P1802",
+      "codename": "P1802-T",
+      "model": "ASUS Tablet P1802-T"
+    },
+    {
+      "market_name": "ASUS Transformer Book Trio",
+      "codename": "TX201LA",
+      "model": "TX201LA"
+    },
+    {
+      "market_name": "ASUS Transformer Pad",
+      "codename": "K010",
+      "model": "K010"
+    },
+    {
+      "market_name": "ASUS Transformer Pad",
+      "codename": "K010_1",
+      "model": "K010"
+    },
+    {
+      "market_name": "ASUS Transformer Pad Infinity",
+      "codename": "TF700KL",
+      "model": "ASUS Transformer Pad TF700KL"
+    },
+    {
+      "market_name": "ASUS Transformer Pad TF300TG",
+      "codename": "TF300TG",
+      "model": "ASUS Transformer Pad TF300TG"
+    },
+    {
+      "market_name": "ASUS Transformer Pad TF300TL",
+      "codename": "TF300TL",
+      "model": "ASUS Transformer Pad TF300TL"
+    },
+    {
+      "market_name": "ASUS Transformer Pad TF502T",
+      "codename": "TF502T",
+      "model": "ASUS Transformer Pad TF502T"
+    },
+    {
+      "market_name": "ASUS Transformer Pad TF600T",
+      "codename": "TF600T",
+      "model": "ASUS Transformer Pad TF600T"
+    },
+    {
+      "market_name": "ASUS ZenPad S 8.0 (Z580C)",
+      "codename": "P01M_2",
+      "model": "P01M"
+    },
+    {
+      "market_name": "ASUS ZenPad S 8.0 (Z580CA)",
+      "codename": "P01M_1",
+      "model": "P01MA"
+    },
+    {
+      "market_name": "ASUS ZenPad S 8.0 (Z580CA)",
+      "codename": "P01M_3",
+      "model": "P01MA"
+    },
+    {
+      "market_name": "ASUS ZenWatch",
+      "codename": "anthias",
+      "model": "ASUS ZenWatch"
+    },
+    {
+      "market_name": "ASUS_Z00VD",
+      "codename": "ASUS_Z00VD",
+      "model": "ASUS_Z00VD"
+    },
+    {
+      "market_name": "Asus Fonepad Note 6",
+      "codename": "K00G",
+      "model": "K00G"
+    },
+    {
+      "market_name": "Asus MeMo Pad 7",
+      "codename": "K012_2",
+      "model": "K012_2"
+    },
+    {
+      "market_name": "Asus Pad TF303CL",
+      "codename": "K014",
+      "model": "K014"
+    },
+    {
+      "market_name": "Asus Transformer Pad",
+      "codename": "K018",
+      "model": "K018"
+    },
+    {
+      "market_name": "Asus Transformer Pad TF303CL",
+      "codename": "K014",
+      "model": "K014"
+    },
+    {
+      "market_name": "Cube",
+      "codename": "asus_google_cube",
+      "model": "asus_google_cube"
+    },
+    {
+      "market_name": "Eee Pad",
+      "codename": "EeePad",
+      "model": "Transformer TF101"
+    },
+    {
+      "market_name": "Eee Pad",
+      "codename": "EeePad",
+      "model": "Transformer TF101G"
+    },
+    {
+      "market_name": "Eee Pad Slider",
+      "codename": "SL101",
+      "model": "Slider SL101"
+    },
+    {
+      "market_name": "Eee Pad TF101",
+      "codename": "TF101",
+      "model": "TF101"
+    },
+    {
+      "market_name": "Eee Pad TF101",
+      "codename": "TF101",
+      "model": "Transformer TF101"
+    },
+    {
+      "market_name": "Eee Pad TF101-WiMAX",
+      "codename": "TF101-WiMAX",
+      "model": "TF101-WiMAX"
+    },
+    {
+      "market_name": "Eee Pad Transformer",
+      "codename": "TF101",
+      "model": "Transformer TF101"
+    },
+    {
+      "market_name": "Eee Pad Transformer Prime",
+      "codename": "TF201",
+      "model": "TF201"
+    },
+    {
+      "market_name": "Eee Pad Transformer Prime",
+      "codename": "TF201",
+      "model": "Transformer Prime TF201"
+    },
+    {
+      "market_name": "Eee Pad Transformer Prime",
+      "codename": "TF201",
+      "model": "Transformer TF201"
+    },
+    {
+      "market_name": "EeePad Slider SL101",
+      "codename": "SL101",
+      "model": "Slider SL101"
+    },
+    {
+      "market_name": "Fonepad 7",
+      "codename": "K00Z",
+      "model": "K00Z"
+    },
+    {
+      "market_name": "Fonepad 7",
+      "codename": "K012",
+      "model": "K012"
+    },
+    {
+      "market_name": "Fonepad 7",
+      "codename": "K01N_1",
+      "model": "K01N"
+    },
+    {
+      "market_name": "Fonepad 7",
+      "codename": "K01N_2",
+      "model": "K01N"
+    },
+    {
+      "market_name": "Fonepad 7 (FE375CG)",
+      "codename": "K019_1",
+      "model": "K019"
+    },
+    {
+      "market_name": "Fonepad 7 (FE375CXG)",
+      "codename": "K019_3",
+      "model": "K019"
+    },
+    {
+      "market_name": "Fonepad 7 (FE375CXG)",
+      "codename": "K019_4",
+      "model": "K019"
+    },
+    {
+      "market_name": "Fonepad 7 LTE",
+      "codename": "K01Q",
+      "model": "K01Q"
+    },
+    {
+      "market_name": "Fonepad 7(FE375CXG)",
+      "codename": "K019_2",
+      "model": "K019"
+    },
+    {
+      "market_name": "Fonepad HD7",
+      "codename": "K00E",
+      "model": "K00E"
+    },
+    {
+      "market_name": "K00F",
+      "codename": "K00F",
+      "model": "K00F"
+    },
+    {
+      "market_name": "K00L",
+      "codename": "K00L",
+      "model": "K00L"
+    },
+    {
+      "market_name": "ME173X",
+      "codename": "ME173X",
+      "model": "ME173X"
+    },
+    {
+      "market_name": "ME302KL",
+      "codename": "ME302KL",
+      "model": "ME302KL"
+    },
+    {
+      "market_name": "MeMO PAD",
+      "codename": "me172v",
+      "model": "ME172V"
+    },
+    {
+      "market_name": "MeMO Pad 7",
+      "codename": "K013",
+      "model": "K013"
+    },
+    {
+      "market_name": "MeMO Pad 7",
+      "codename": "K013C",
+      "model": "K013C"
+    },
+    {
+      "market_name": "MeMO Pad 7",
+      "codename": "K013_1",
+      "model": "K013"
+    },
+    {
+      "market_name": "MeMO Pad 7",
+      "codename": "K017",
+      "model": "K017"
+    },
+    {
+      "market_name": "MeMO Pad 7",
+      "codename": "K01A",
+      "model": "K01A"
+    },
+    {
+      "market_name": "MeMO Pad 7 LTE",
+      "codename": "K00X",
+      "model": "ASUS MeMO Pad 7"
+    },
+    {
+      "market_name": "MeMO Pad 7 ME572C",
+      "codename": "K007",
+      "model": "K007"
+    },
+    {
+      "market_name": "MeMO Pad 8",
+      "codename": "K011",
+      "model": "K011"
+    },
+    {
+      "market_name": "MeMO Pad 8",
+      "codename": "K011_1",
+      "model": "K011"
+    },
+    {
+      "market_name": "MeMO Pad ME103K",
+      "codename": "K01E_1",
+      "model": "K01E"
+    },
+    {
+      "market_name": "MeMO Pad ME103K",
+      "codename": "K01E_2",
+      "model": "K01E"
+    },
+    {
+      "market_name": "MeMO pad 8 AST21",
+      "codename": "K015",
+      "model": "AST21"
+    },
+    {
+      "market_name": "MeMO pad 8 ME581C",
+      "codename": "K01H",
+      "model": "K01H"
+    },
+    {
+      "market_name": "MeMO pad 8 ME581CL",
+      "codename": "K015",
+      "model": "K015"
+    },
+    {
+      "market_name": "MeMo Pad HD 7",
+      "codename": "K00U",
+      "model": "K00U"
+    },
+    {
+      "market_name": "Memo Pad 7",
+      "codename": "K01U_1",
+      "model": "K01U"
+    },
+    {
+      "market_name": "Memo Pad 7",
+      "codename": "K01U_2",
+      "model": "K01U"
+    },
+    {
+      "market_name": "Memo Pad HD7 Dual SIM",
+      "codename": "ASUS-K00S",
+      "model": "ASUS K00S"
+    },
+    {
+      "market_name": "Nexus 7 (2012)",
+      "codename": "grouper",
+      "model": "Nexus 7"
+    },
+    {
+      "market_name": "Nexus 7 (2012)",
+      "codename": "tilapia",
+      "model": "Nexus 7"
+    },
+    {
+      "market_name": "Nexus 7 (2013)",
+      "codename": "deb",
+      "model": "Nexus 7"
+    },
+    {
+      "market_name": "Nexus 7 (2013)",
+      "codename": "flo",
+      "model": "Nexus 7"
+    },
+    {
+      "market_name": "Nexus Player",
+      "codename": "fugu",
+      "model": "Nexus Player"
+    },
+    {
+      "market_name": "Nuvifone",
+      "codename": "a50",
+      "model": "Garmin-Asus A50"
+    },
+    {
+      "market_name": "PadFone",
+      "codename": "PadFone",
+      "model": "PadFone"
+    },
+    {
+      "market_name": "PadFone 2",
+      "codename": "A68",
+      "model": "PadFone 2"
+    },
+    {
+      "market_name": "PadFone E",
+      "codename": "ASUS-T008",
+      "model": "PadFone T008"
+    },
+    {
+      "market_name": "PadFone Infinity",
+      "codename": "A80",
+      "model": "PadFone Infinity"
+    },
+    {
+      "market_name": "PadFone Infinity",
+      "codename": "ASUS-A80",
+      "model": "PadFone Infinity"
+    },
+    {
+      "market_name": "PadFone Infinity Lite",
+      "codename": "ASUS-A80",
+      "model": "PadFone Infinity"
+    },
+    {
+      "market_name": "PadFone Mini",
+      "codename": "ASUS-T00C",
+      "model": "PadFone T00C"
+    },
+    {
+      "market_name": "PadFone S",
+      "codename": "ASUS_T00N",
+      "model": "ASUS_T00N"
+    },
+    {
+      "market_name": "PadFone T004",
+      "codename": "ASUS-A86",
+      "model": "PadFone T004"
+    },
+    {
+      "market_name": "PadFone Xmini",
+      "codename": "ASUS-T00S",
+      "model": "ASUS PadFone X mini"
+    },
+    {
+      "market_name": "PadFone mini",
+      "codename": "ASUS-T00C",
+      "model": "PadFone T00C"
+    },
+    {
+      "market_name": "PadFone mini",
+      "codename": "ASUS_T00E",
+      "model": "ASUS_T00E"
+    },
+    {
+      "market_name": "PadFone-T004",
+      "codename": "ASUS-A86",
+      "model": "PadFone T004"
+    },
+    {
+      "market_name": "Padfone S",
+      "codename": "ASUS_T00N",
+      "model": "ASUS_T00N"
+    },
+    {
+      "market_name": "Padfone X",
+      "codename": "ASUS-T00D",
+      "model": "ASUS PadFone X"
+    },
+    {
+      "market_name": "Padfone mini",
+      "codename": "ASUS-T00S",
+      "model": "ASUS_T00T"
+    },
+    {
+      "market_name": "RTC-700A",
+      "codename": "RTC-tablet",
+      "model": "RTC-tablet"
+    },
+    {
+      "market_name": "T101TA",
+      "codename": "T10xTA",
+      "model": "T10xTA"
+    },
+    {
+      "market_name": "T50",
+      "codename": "ASUS_X002",
+      "model": "ASUS_X002"
+    },
+    {
+      "market_name": "TF700T",
+      "codename": "TF700T",
+      "model": "ASUS Pad TF700T"
+    },
+    {
+      "market_name": "TF700T",
+      "codename": "TF700T",
+      "model": "ASUS Transformer Pad TF700T"
+    },
+    {
+      "market_name": "TX201LAF",
+      "codename": "TX201LAF",
+      "model": "TX201LAF"
+    },
+    {
+      "market_name": "Trans Pad Infinity",
+      "codename": "K00C",
+      "model": "K00C"
+    },
+    {
+      "market_name": "Transformer 10(TF103CE)",
+      "codename": "K010E",
+      "model": "K010E"
+    },
+    {
+      "market_name": "Transformer Pad",
+      "codename": "K00C",
+      "model": "K00C"
+    },
+    {
+      "market_name": "Transformer Pad",
+      "codename": "K010_3",
+      "model": "K010"
+    },
+    {
+      "market_name": "Transformer Pad",
+      "codename": "TF300T",
+      "model": "ASUS Pad TF300T"
+    },
+    {
+      "market_name": "Transformer Pad",
+      "codename": "TF300T",
+      "model": "ASUS Transformer 300"
+    },
+    {
+      "market_name": "Transformer Pad",
+      "codename": "TF300T",
+      "model": "ASUS Transformer Pad TF300T"
+    },
+    {
+      "market_name": "Transformer Pad Infinity",
+      "codename": "K00C",
+      "model": "K00C"
+    },
+    {
+      "market_name": "Transformer Pad TF303K",
+      "codename": "K01B",
+      "model": "K01B"
+    },
+    {
+      "market_name": "Transformer TF101G",
+      "codename": "TF101G",
+      "model": "Transformer TF101G"
+    },
+    {
+      "market_name": "ZenFone 2",
+      "codename": "ASUS_Z00RD_5",
+      "model": "ASUS_Z00RD"
+    },
+    {
+      "market_name": "ZenFone 2",
+      "codename": "ASUS_Z00RD_7",
+      "model": "ASUS_Z00RD"
+    },
+    {
+      "market_name": "ZenFone 2 Laser",
+      "codename": "ASUS_Z00E_1",
+      "model": "ASUS_Z00ED"
+    },
+    {
+      "market_name": "ZenFone 2 Laser",
+      "codename": "ASUS_Z00E_2",
+      "model": "ASUS_Z00ED"
+    },
+    {
+      "market_name": "ZenFone 4",
+      "codename": "ASUS_T00I",
+      "model": "ASUS_T00I"
+    },
+    {
+      "market_name": "ZenFone 4",
+      "codename": "ASUS_T00I",
+      "model": "ASUS_T00I-D"
+    },
+    {
+      "market_name": "ZenFone 4",
+      "codename": "ASUS_T00Q",
+      "model": "ASUS_T00Q"
+    },
+    {
+      "market_name": "ZenFone 5",
+      "codename": "ASUS_T00F",
+      "model": "ASUS_T00F"
+    },
+    {
+      "market_name": "ZenFone 5",
+      "codename": "ASUS_T00F1",
+      "model": "ASUS_T00F"
+    },
+    {
+      "market_name": "ZenFone 5",
+      "codename": "ASUS_T00J",
+      "model": "ASUS_T00J"
+    },
+    {
+      "market_name": "ZenFone 5",
+      "codename": "ASUS_T00J1",
+      "model": "ASUS_T00J"
+    },
+    {
+      "market_name": "ZenFone 5",
+      "codename": "ASUS_T00K",
+      "model": "ASUS_T00K"
+    },
+    {
+      "market_name": "ZenFone 5 LTE",
+      "codename": "ASUS_T00P",
+      "model": "ASUS_T00P"
+    },
+    {
+      "market_name": "ZenFone 6",
+      "codename": "ASUS_T00G",
+      "model": "ASUS_T00G"
+    },
+    {
+      "market_name": "ZenFone 6",
+      "codename": "ASUS_Z002",
+      "model": "ASUS_Z002"
+    },
+    {
+      "market_name": "ZenFone C",
+      "codename": "ASUS_Z007",
+      "model": "ASUS_Z007"
+    },
+    {
+      "market_name": "ZenFone Selfie",
+      "codename": "ASUS_Z00U_1",
+      "model": "ASUS_Z00UD"
+    },
+    {
+      "market_name": "ZenFone Selfie",
+      "codename": "ASUS_Z00U_2",
+      "model": "ASUS_Z00UD"
+    },
+    {
+      "market_name": "ZenFone2",
+      "codename": "ASUS_Z00D",
+      "model": "ASUS ZenFone 2"
+    },
+    {
+      "market_name": "ZenFone2",
+      "codename": "ASUS_Z00D",
+      "model": "ASUS ZenFone 2E"
+    },
+    {
+      "market_name": "ZenFone2",
+      "codename": "ASUS_Z00D",
+      "model": "Z00D"
+    },
+    {
+      "market_name": "ZenFone2",
+      "codename": "ASUS_Z00E_2",
+      "model": "ASUS_Z00EDB"
+    },
+    {
+      "market_name": "ZenPad 10",
+      "codename": "P01T_1",
+      "model": "P01T_1"
+    },
+    {
+      "market_name": "ZenPad 10 (Z300C)",
+      "codename": "P023_1",
+      "model": "P023"
+    },
+    {
+      "market_name": "ZenPad 10 (Z300C)",
+      "codename": "P023_2",
+      "model": "P023"
+    },
+    {
+      "market_name": "ZenPad 10 (Z300CG)",
+      "codename": "P021",
+      "model": "P021"
+    },
+    {
+      "market_name": "ZenPad C 7.0",
+      "codename": "P01Y",
+      "model": "P01Y"
+    },
+    {
+      "market_name": "ZenPad C 7.0",
+      "codename": "P01Y_2",
+      "model": "P01Y"
+    },
+    {
+      "market_name": "ZenPad C 7.0",
+      "codename": "P01Z",
+      "model": "P01Z"
+    },
+    {
+      "market_name": "ZenPad C 7.0",
+      "codename": "P01Z_2",
+      "model": "P01Z"
+    },
+    {
+      "market_name": "ZenPad S8.0",
+      "codename": "P01M_1",
+      "model": "P01MA"
+    },
+    {
+      "market_name": "ZenPad Z370C",
+      "codename": "P01W",
+      "model": "P01W"
+    },
+    {
+      "market_name": "ZenPad Z370CG",
+      "codename": "P01V_1",
+      "model": "P01V"
+    },
+    {
+      "market_name": "ZenPad Z370CG",
+      "codename": "P01V_2",
+      "model": "P01V"
+    },
+    {
+      "market_name": "ZenPadC 7.0 (Z170MG)",
+      "codename": "P001",
+      "model": "P001"
+    },
+    {
+      "market_name": "ZenPadC 7.0 (Z170MG)",
+      "codename": "P001_2",
+      "model": "P001"
+    },
+    {
+      "market_name": "ZenPadC 7.0 (Z170MG)",
+      "codename": "P001_2",
+      "model": "P001_2"
+    },
+    {
+      "market_name": "Zenfone 2 (ZE550KL)",
+      "codename": "ASUS_Z00L_63",
+      "model": "ASUS_Z00LD"
+    },
+    {
+      "market_name": "Zenfone 2 (ZE550KL)",
+      "codename": "ASUS_Z00L_63",
+      "model": "ASUS_Z00LDC"
+    },
+    {
+      "market_name": "Zenfone 2 (ZE550KL)",
+      "codename": "ASUS_Z00L_93",
+      "model": "ASUS_Z00LD"
+    },
+    {
+      "market_name": "Zenfone2",
+      "codename": "Z008_1",
+      "model": "ASUS_Z008D"
+    },
+    {
+      "market_name": "Zenfone2",
+      "codename": "Z00A",
+      "model": "ASUS_Z00AD"
+    },
+    {
+      "market_name": "Zenfone2",
+      "codename": "Z00A",
+      "model": "ASUS_Z00ADA"
+    },
+    {
+      "market_name": "Zenfone2",
+      "codename": "Z00A_1",
+      "model": "ASUS_Z00AD"
+    },
+    {
+      "market_name": "Zenfone2",
+      "codename": "Z00A_1",
+      "model": "ASUS_Z00ADB"
+    },
+    {
+      "market_name": "Zenfone6",
+      "codename": "ASUS_Z002",
+      "model": "ASUS_Z002"
+    },
+    {
+      "market_name": "Zenpad 8",
+      "codename": "P022_1",
+      "model": "P022"
+    },
+    {
+      "market_name": "Zenpad 8",
+      "codename": "P022_2",
+      "model": "P022"
+    },
+    {
+      "market_name": "Zenpad 8 LTE",
+      "codename": "P024_1",
+      "model": "P024"
+    }
+  ]
+}

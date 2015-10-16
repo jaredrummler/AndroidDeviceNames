@@ -1,0 +1,2535 @@
+{
+  "manufacturer": "HTC",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "express",
+      "model": "HTC Flyer"
+    },
+    {
+      "market_name": "",
+      "codename": "express",
+      "model": "PG41200"
+    },
+    {
+      "market_name": "",
+      "codename": "expresskt",
+      "model": "HTC_P515E"
+    },
+    {
+      "market_name": "",
+      "codename": "rider",
+      "model": "HTC_X515E"
+    },
+    {
+      "market_name": "",
+      "codename": "tagh",
+      "model": "HTC Incredible E S715e"
+    },
+    {
+      "market_name": "\\tADR6325",
+      "codename": "lexikon",
+      "model": "ADR6325"
+    },
+    {
+      "market_name": "ADR6330VW",
+      "codename": "blissc",
+      "model": "ADR6330VW"
+    },
+    {
+      "market_name": "ADR6425LVW",
+      "codename": "vigor",
+      "model": "ADR6425LVW"
+    },
+    {
+      "market_name": "AT\u0026T HTC One X+",
+      "codename": "evitareul",
+      "model": "HTC EVARE_UL"
+    },
+    {
+      "market_name": "AT\u0026T HTC One X+",
+      "codename": "evitareul",
+      "model": "HTC One X+"
+    },
+    {
+      "market_name": "Aria",
+      "codename": "liberty",
+      "model": "HTC Aria"
+    },
+    {
+      "market_name": "Aria",
+      "codename": "liberty",
+      "model": "HTC Aria A6380"
+    },
+    {
+      "market_name": "Aria",
+      "codename": "liberty",
+      "model": "HTC Gratia A6380"
+    },
+    {
+      "market_name": "Aria",
+      "codename": "liberty",
+      "model": "HTC Liberty"
+    },
+    {
+      "market_name": "Butterfly S",
+      "codename": "dlxpul",
+      "model": "HTC Butterfly s"
+    },
+    {
+      "market_name": "Butterfly S",
+      "codename": "dlxpul",
+      "model": "HTC_Butterfly_s_901s"
+    },
+    {
+      "market_name": "Chacha",
+      "codename": "chacha",
+      "model": "HTC ChaCha A810b"
+    },
+    {
+      "market_name": "Chacha",
+      "codename": "chacha",
+      "model": "HTC ChaCha A810e"
+    },
+    {
+      "market_name": "Chacha",
+      "codename": "chacha",
+      "model": "HTC ChaChaCha A810e"
+    },
+    {
+      "market_name": "Chacha",
+      "codename": "chacha",
+      "model": "HTC Status"
+    },
+    {
+      "market_name": "D616t",
+      "codename": "htc_a32ml_dtul",
+      "model": "HTC D626t"
+    },
+    {
+      "market_name": "D626t",
+      "codename": "htc_a32ml_dtul",
+      "model": "HTC D626t"
+    },
+    {
+      "market_name": "Desire",
+      "codename": "bravo",
+      "model": "HTC Desire"
+    },
+    {
+      "market_name": "Desire",
+      "codename": "bravo",
+      "model": "X06HT"
+    },
+    {
+      "market_name": "Desire",
+      "codename": "bravoc",
+      "model": "PB99400"
+    },
+    {
+      "market_name": "Desire 320",
+      "codename": "htc_v01_u",
+      "model": "HTC 0PF11"
+    },
+    {
+      "market_name": "Desire 320",
+      "codename": "htc_v01_u",
+      "model": "HTC Desire 320"
+    },
+    {
+      "market_name": "Desire 510",
+      "codename": "htc_a11ul8x26",
+      "model": "HTC Desire 510"
+    },
+    {
+      "market_name": "Desire 516 dual sim",
+      "codename": "htc_v2_dcg",
+      "model": "HTC Desire 516 dual sim"
+    },
+    {
+      "market_name": "Desire 516 dual sim",
+      "codename": "htc_v2_dug",
+      "model": "HTC Desire 516 dual sim"
+    },
+    {
+      "market_name": "Desire 516 dual sim",
+      "codename": "htc_v2_dug",
+      "model": "HTC V2"
+    },
+    {
+      "market_name": "Desire 620 dual sim",
+      "codename": "htc_a31dtul",
+      "model": "HTC_D620u"
+    },
+    {
+      "market_name": "Desire 626",
+      "codename": "htc_a32dcgl",
+      "model": "HTC D626d"
+    },
+    {
+      "market_name": "Desire 626",
+      "codename": "htc_a32ul",
+      "model": "HTC_D626x"
+    },
+    {
+      "market_name": "Desire 626",
+      "codename": "htc_a32ul",
+      "model": "HTC_D630x"
+    },
+    {
+      "market_name": "Desire 820",
+      "codename": "htc_a51ul",
+      "model": "HTC 0PFJ4"
+    },
+    {
+      "market_name": "Desire 820",
+      "codename": "htc_a51ul",
+      "model": "HTC Desire 820"
+    },
+    {
+      "market_name": "Desire 826",
+      "codename": "htc_a52dwgl",
+      "model": "HTC D826d"
+    },
+    {
+      "market_name": "Desire D820mini",
+      "codename": "htc_a31dtul",
+      "model": "HTC D820mt"
+    },
+    {
+      "market_name": "Desire D820mini",
+      "codename": "htc_a31dtul",
+      "model": "HTC D820mu"
+    },
+    {
+      "market_name": "Desire D826",
+      "codename": "htc_a52dwgl",
+      "model": "HTC D826d"
+    },
+    {
+      "market_name": "Desire HD",
+      "codename": "ace",
+      "model": "001HT"
+    },
+    {
+      "market_name": "Desire HD",
+      "codename": "ace",
+      "model": "Desire HD"
+    },
+    {
+      "market_name": "Desire HD",
+      "codename": "ace",
+      "model": "HTC Desire HD A9191"
+    },
+    {
+      "market_name": "Desire HD",
+      "codename": "ace",
+      "model": "Inspire HD"
+    },
+    {
+      "market_name": "Desire L by HTC",
+      "codename": "cp2u",
+      "model": "Desire L by HTC"
+    },
+    {
+      "market_name": "Desire S",
+      "codename": "saga",
+      "model": "HTC Desire S"
+    },
+    {
+      "market_name": "Desire VC",
+      "codename": "primodd",
+      "model": "HTC Desire VC"
+    },
+    {
+      "market_name": "Desire VC",
+      "codename": "primodd",
+      "model": "HTC Desire VC T328d"
+    },
+    {
+      "market_name": "Desire VC",
+      "codename": "primodd",
+      "model": "HTC PRO_DD"
+    },
+    {
+      "market_name": "Desire VC",
+      "codename": "primodd",
+      "model": "HTC T328d"
+    },
+    {
+      "market_name": "Droid DNA",
+      "codename": "dlx",
+      "model": "HTC6435LRA"
+    },
+    {
+      "market_name": "Droid DNA",
+      "codename": "dlx",
+      "model": "HTC6435LVW"
+    },
+    {
+      "market_name": "Droid Eris",
+      "codename": "desirec",
+      "model": "Eris"
+    },
+    {
+      "market_name": "Droid Eris",
+      "codename": "desirec",
+      "model": "Pulse"
+    },
+    {
+      "market_name": "Droid Incredible",
+      "codename": "inc",
+      "model": "ADR6300"
+    },
+    {
+      "market_name": "EVO 3D",
+      "codename": "shooter",
+      "model": "HTCEVOV4G"
+    },
+    {
+      "market_name": "EVO 3D",
+      "codename": "shooter",
+      "model": "PG86100"
+    },
+    {
+      "market_name": "EVO LTE 4G",
+      "codename": "jewel",
+      "model": "EVO"
+    },
+    {
+      "market_name": "EVO Shift 4G",
+      "codename": "speedy",
+      "model": "PG06100"
+    },
+    {
+      "market_name": "Evo 4G",
+      "codename": "supersonic",
+      "model": "PC36100"
+    },
+    {
+      "market_name": "Flyer",
+      "codename": "flyer",
+      "model": "HTC Flyer"
+    },
+    {
+      "market_name": "Flyer",
+      "codename": "flyer",
+      "model": "HTC Flyer P510e"
+    },
+    {
+      "market_name": "Flyer",
+      "codename": "flyer",
+      "model": "HTC Flyer P511e"
+    },
+    {
+      "market_name": "Flyer",
+      "codename": "flyer",
+      "model": "HTC Flyer P512"
+    },
+    {
+      "market_name": "Flyer",
+      "codename": "flyer",
+      "model": "HTC_Flyer_P512_NA"
+    },
+    {
+      "market_name": "G1",
+      "codename": "dream",
+      "model": "HTC Dream"
+    },
+    {
+      "market_name": "G2",
+      "codename": "vision",
+      "model": "HTC Vision"
+    },
+    {
+      "market_name": "G2",
+      "codename": "vision",
+      "model": "T-Mobile G2"
+    },
+    {
+      "market_name": "HTC 0P9C8",
+      "codename": "htc_a5dwgl",
+      "model": "HTC 0P9C8"
+    },
+    {
+      "market_name": "HTC 0P9C8",
+      "codename": "htc_a5dwgl",
+      "model": "HTC Desire 816 dual sim"
+    },
+    {
+      "market_name": "HTC 0PK72",
+      "codename": "htc_hiaur_ml_tuhl",
+      "model": "HTC 0PK72"
+    },
+    {
+      "market_name": "HTC 0PK72",
+      "codename": "htc_hiaur_ml_tuhl",
+      "model": "HTC One M9PLUS"
+    },
+    {
+      "market_name": "HTC 0PM912",
+      "codename": "htc_a32eulatt",
+      "model": "HTC 0PM912"
+    },
+    {
+      "market_name": "HTC 0PM912",
+      "codename": "htc_a32eulatt",
+      "model": "HTC Desire 626"
+    },
+    {
+      "market_name": "HTC 5060 dual sim",
+      "codename": "z4dug",
+      "model": "HTC Desire 500 dual sim"
+    },
+    {
+      "market_name": "HTC 601e",
+      "codename": "m4",
+      "model": "HTC 601e"
+    },
+    {
+      "market_name": "HTC 606w",
+      "codename": "cp3dug",
+      "model": "HTC 606w"
+    },
+    {
+      "market_name": "HTC 606w",
+      "codename": "cp3dug",
+      "model": "HTC Desire 600"
+    },
+    {
+      "market_name": "HTC 606w",
+      "codename": "cp3dug",
+      "model": "HTC Desire 600 dual sim"
+    },
+    {
+      "market_name": "HTC 606w",
+      "codename": "cp3dug",
+      "model": "HTC PO49120"
+    },
+    {
+      "market_name": "HTC 608t",
+      "codename": "cp3dtg",
+      "model": "HTC 608t"
+    },
+    {
+      "market_name": "HTC 609d",
+      "codename": "cp3dcg",
+      "model": "HTC 609d"
+    },
+    {
+      "market_name": "HTC 6160",
+      "codename": "zaradug",
+      "model": "HTC 6160"
+    },
+    {
+      "market_name": "HTC 619d",
+      "codename": "zarawl",
+      "model": "HTC 619d"
+    },
+    {
+      "market_name": "HTC 7060",
+      "codename": "cp5dug",
+      "model": "HTC_7060"
+    },
+    {
+      "market_name": "HTC 710C",
+      "codename": "htc_a5chl",
+      "model": "710C"
+    },
+    {
+      "market_name": "HTC 802d",
+      "codename": "m7cdwg",
+      "model": "HTC 802d"
+    },
+    {
+      "market_name": "HTC 803e",
+      "codename": "t6ul",
+      "model": "HTC 803e"
+    },
+    {
+      "market_name": "HTC 8060",
+      "codename": "t6dug",
+      "model": "HTC 8060"
+    },
+    {
+      "market_name": "HTC 8088",
+      "codename": "t6tl",
+      "model": "HTC 8088"
+    },
+    {
+      "market_name": "HTC 809d",
+      "codename": "t6dwg",
+      "model": "HTC 809d"
+    },
+    {
+      "market_name": "HTC 8160",
+      "codename": "t6uhl",
+      "model": "HTC 8160"
+    },
+    {
+      "market_name": "HTC 9060",
+      "codename": "dlxpul",
+      "model": "HTC 901e"
+    },
+    {
+      "market_name": "HTC 9060",
+      "codename": "m7",
+      "model": "HTC 801e"
+    },
+    {
+      "market_name": "HTC 9060",
+      "codename": "m7cdug",
+      "model": "HTC 802w"
+    },
+    {
+      "market_name": "HTC 9088",
+      "codename": "dlpdtu",
+      "model": "HTC 9088"
+    },
+    {
+      "market_name": "HTC 919d",
+      "codename": "dlpdwg",
+      "model": "HTC 919d"
+    },
+    {
+      "market_name": "HTC Butterfly",
+      "codename": "dlxu",
+      "model": "HTC Butterfly"
+    },
+    {
+      "market_name": "HTC Butterfly",
+      "codename": "dlxu",
+      "model": "HTC DLX_U"
+    },
+    {
+      "market_name": "HTC Butterfly",
+      "codename": "dlxu",
+      "model": "HTC X920e"
+    },
+    {
+      "market_name": "HTC Butterfly",
+      "codename": "dlxub1",
+      "model": "HTC Butterfly"
+    },
+    {
+      "market_name": "HTC Butterfly",
+      "codename": "dlxub1",
+      "model": "HTC DLXUB1"
+    },
+    {
+      "market_name": "HTC Butterfly 2",
+      "codename": "htc_b2ul",
+      "model": "HTC Butterfly 2"
+    },
+    {
+      "market_name": "HTC Butterfly 2",
+      "codename": "htc_b2ul",
+      "model": "HTC_B810x"
+    },
+    {
+      "market_name": "HTC Butterfly s 9060",
+      "codename": "dlpdug",
+      "model": "HTC 9060"
+    },
+    {
+      "market_name": "HTC D316d",
+      "codename": "htc_v2_c",
+      "model": "HTC D316d"
+    },
+    {
+      "market_name": "HTC D610t",
+      "codename": "htc_a3tl",
+      "model": "HTC D610t"
+    },
+    {
+      "market_name": "HTC D728w",
+      "codename": "htc_a50cml_dtul",
+      "model": "HTC D728w"
+    },
+    {
+      "market_name": "HTC D816d",
+      "codename": "htc_a5dwg",
+      "model": "HTC D816d"
+    },
+    {
+      "market_name": "HTC D816d",
+      "codename": "htc_a5dwg",
+      "model": "HTC_D816d"
+    },
+    {
+      "market_name": "HTC D816e",
+      "codename": "htc_a5dugl",
+      "model": "HTC D816e"
+    },
+    {
+      "market_name": "HTC D816h",
+      "codename": "htc_a5mgp_dug",
+      "model": "HTC D816h"
+    },
+    {
+      "market_name": "HTC D816t",
+      "codename": "htc_a5tl",
+      "model": "HTC D816t"
+    },
+    {
+      "market_name": "HTC D816v",
+      "codename": "htc_a5dwgl",
+      "model": "HTC D816v"
+    },
+    {
+      "market_name": "HTC D816w",
+      "codename": "htc_a5dug",
+      "model": "HTC D816w"
+    },
+    {
+      "market_name": "HTC D820 Mini",
+      "codename": "htc_a31dtul",
+      "model": "HTC D820mt"
+    },
+    {
+      "market_name": "HTC D820t",
+      "codename": "htc_a51dtul",
+      "model": "HTC D820t"
+    },
+    {
+      "market_name": "HTC D820u",
+      "codename": "htc_a51dtul",
+      "model": "HTC D820u"
+    },
+    {
+      "market_name": "HTC D826t",
+      "codename": "htc_a52dtul",
+      "model": "HTC D826t"
+    },
+    {
+      "market_name": "HTC DROID DNA",
+      "codename": "dlx",
+      "model": "HTC6435LRA"
+    },
+    {
+      "market_name": "HTC DROID Incredible 4G LTE",
+      "codename": "fireball",
+      "model": "ADR6410LRA"
+    },
+    {
+      "market_name": "HTC DROID Incredible 4G LTE",
+      "codename": "fireball",
+      "model": "ADR6410LVW"
+    },
+    {
+      "market_name": "HTC DROID Incredible 4G LTE",
+      "codename": "fireball",
+      "model": "ADR6410OM"
+    },
+    {
+      "market_name": "HTC Desire 200",
+      "codename": "gtou",
+      "model": "HTC Desire 200"
+    },
+    {
+      "market_name": "HTC Desire 200",
+      "codename": "gtou",
+      "model": "HTC_Desire_200"
+    },
+    {
+      "market_name": "HTC Desire 210 dual sim",
+      "codename": "htc_v0_dug",
+      "model": "HTC Desire 210 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 300",
+      "codename": "g3u",
+      "model": "HTC 301e"
+    },
+    {
+      "market_name": "HTC Desire 300",
+      "codename": "g3u",
+      "model": "HTC Desire 300"
+    },
+    {
+      "market_name": "HTC Desire 300",
+      "codename": "g3u",
+      "model": "HTC_0P6A1"
+    },
+    {
+      "market_name": "HTC Desire 300",
+      "codename": "g3u",
+      "model": "HTC_Desire_300"
+    },
+    {
+      "market_name": "HTC Desire 310",
+      "codename": "htc_v1_dug",
+      "model": "HTC D310w"
+    },
+    {
+      "market_name": "HTC Desire 310",
+      "codename": "htc_v1_dug",
+      "model": "HTC Desire 310 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 310",
+      "codename": "htc_v1_u",
+      "model": "HTC Desire 310"
+    },
+    {
+      "market_name": "HTC Desire 310",
+      "codename": "htc_v1_u",
+      "model": "HTC_D310n"
+    },
+    {
+      "market_name": "HTC Desire 310",
+      "codename": "htc_v1_u",
+      "model": "HTC_V1"
+    },
+    {
+      "market_name": "HTC Desire 320",
+      "codename": "htc_v01_u",
+      "model": "HTC 0PF120"
+    },
+    {
+      "market_name": "HTC Desire 320",
+      "codename": "htc_v01_u",
+      "model": "HTC Desire 320"
+    },
+    {
+      "market_name": "HTC Desire 326G dual sim",
+      "codename": "htc_v01a_dug",
+      "model": "HTC 2PNT1"
+    },
+    {
+      "market_name": "HTC Desire 326G dual sim",
+      "codename": "htc_v01a_dug",
+      "model": "HTC Desire 326G dual sim"
+    },
+    {
+      "market_name": "HTC Desire 500",
+      "codename": "z4u",
+      "model": "HTC Desire 500"
+    },
+    {
+      "market_name": "HTC Desire 500",
+      "codename": "z4u",
+      "model": "HTC_Desire_500"
+    },
+    {
+      "market_name": "HTC Desire 500 dual sim",
+      "codename": "z4dug",
+      "model": "HTC 5060"
+    },
+    {
+      "market_name": "HTC Desire 500 dual sim",
+      "codename": "z4dug",
+      "model": "HTC Desire 500 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 501",
+      "codename": "htc_csnu",
+      "model": "HTC Desire 501"
+    },
+    {
+      "market_name": "HTC Desire 501",
+      "codename": "htc_csnu",
+      "model": "HTC_603h"
+    },
+    {
+      "market_name": "HTC Desire 501 dual sim",
+      "codename": "csndug",
+      "model": "HTC Desire 501 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 5088",
+      "codename": "z4td",
+      "model": "HTC 5088"
+    },
+    {
+      "market_name": "HTC Desire 510",
+      "codename": "htc_a11chl",
+      "model": "0PCV1"
+    },
+    {
+      "market_name": "HTC Desire 510",
+      "codename": "htc_a11ul",
+      "model": "HTC 0PCV20"
+    },
+    {
+      "market_name": "HTC Desire 510",
+      "codename": "htc_a11ul",
+      "model": "HTC Desire 510"
+    },
+    {
+      "market_name": "HTC Desire 510",
+      "codename": "htc_a11ul",
+      "model": "HTC_0PCV2"
+    },
+    {
+      "market_name": "HTC Desire 512",
+      "codename": "htc_a11aul8x26",
+      "model": "HTC Desire 512"
+    },
+    {
+      "market_name": "HTC Desire 516",
+      "codename": "htc_v2_dcg",
+      "model": "HTC D516d"
+    },
+    {
+      "market_name": "HTC Desire 516",
+      "codename": "htc_v2_dtg",
+      "model": "HTC D516t"
+    },
+    {
+      "market_name": "HTC Desire 516",
+      "codename": "htc_v2_dug",
+      "model": "HTC C2"
+    },
+    {
+      "market_name": "HTC Desire 516",
+      "codename": "htc_v2_dug",
+      "model": "HTC D516w"
+    },
+    {
+      "market_name": "HTC Desire 516",
+      "codename": "htc_v2_dug",
+      "model": "HTC V2"
+    },
+    {
+      "market_name": "HTC Desire 516 dual sim",
+      "codename": "htc_v2_dug",
+      "model": "HTC Desire 516 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 526",
+      "codename": "htc_a13wl",
+      "model": "HTC 0PM31"
+    },
+    {
+      "market_name": "HTC Desire 526",
+      "codename": "htc_a13wl",
+      "model": "HTC Desire 526"
+    },
+    {
+      "market_name": "HTC Desire 526",
+      "codename": "htc_a13wl",
+      "model": "HTCD100LVW"
+    },
+    {
+      "market_name": "HTC Desire 526",
+      "codename": "htc_a13wlpp",
+      "model": "HTCD100LVWPP"
+    },
+    {
+      "market_name": "HTC Desire 526G+ dual sim",
+      "codename": "htc_v02_dug",
+      "model": "HTC 0PL41"
+    },
+    {
+      "market_name": "HTC Desire 526G+ dual sim",
+      "codename": "htc_v02_dug",
+      "model": "HTC 0PL4100"
+    },
+    {
+      "market_name": "HTC Desire 526G+ dual sim",
+      "codename": "htc_v02_dug",
+      "model": "HTC Desire 526G dual sim"
+    },
+    {
+      "market_name": "HTC Desire 526G+ dual sim",
+      "codename": "htc_v02_dug",
+      "model": "HTC Desire 526GPLUS dual sim"
+    },
+    {
+      "market_name": "HTC Desire 526G+ dual sim",
+      "codename": "htc_v02_dug",
+      "model": "HTC_D526h"
+    },
+    {
+      "market_name": "HTC Desire 526GPLUS",
+      "codename": "htc_v02_u",
+      "model": "HTC 0PL41"
+    },
+    {
+      "market_name": "HTC Desire 526GPLUS",
+      "codename": "htc_v02_u",
+      "model": "HTC Desire 526G"
+    },
+    {
+      "market_name": "HTC Desire 600",
+      "codename": "cp3dug",
+      "model": "HTC Desire 600"
+    },
+    {
+      "market_name": "HTC Desire 600 Dual SIM",
+      "codename": "cp3dug",
+      "model": "HTC Desire 600 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 600c Dual SIM",
+      "codename": "cp3dcg",
+      "model": "HTC 609d"
+    },
+    {
+      "market_name": "HTC Desire 600c Dual SIM",
+      "codename": "cp3dcg",
+      "model": "HTC Desire 600c dual sim"
+    },
+    {
+      "market_name": "HTC Desire 601",
+      "codename": "zara",
+      "model": "HTC Desire 601"
+    },
+    {
+      "market_name": "HTC Desire 601",
+      "codename": "zara",
+      "model": "HTC_0P4E2"
+    },
+    {
+      "market_name": "HTC Desire 601",
+      "codename": "zaracl",
+      "model": "HTC Desire 601"
+    },
+    {
+      "market_name": "HTC Desire 601",
+      "codename": "zaracl",
+      "model": "HTC0P4E1"
+    },
+    {
+      "market_name": "HTC Desire 601 dual sim",
+      "codename": "zaradug",
+      "model": "HTC Desire 601 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 606w",
+      "codename": "cp3dug",
+      "model": "HTC 606w"
+    },
+    {
+      "market_name": "HTC Desire 609d",
+      "codename": "cp3dcg",
+      "model": "HTC 609d"
+    },
+    {
+      "market_name": "HTC Desire 610",
+      "codename": "htc_a3qhdul",
+      "model": "HTC Desire 610"
+    },
+    {
+      "market_name": "HTC Desire 610",
+      "codename": "htc_a3qhdul",
+      "model": "HTC_0P9O2"
+    },
+    {
+      "market_name": "HTC Desire 610",
+      "codename": "htc_a3qhdul",
+      "model": "HTC_D610x"
+    },
+    {
+      "market_name": "HTC Desire 610",
+      "codename": "htc_a3ul",
+      "model": "HTC Desire 610"
+    },
+    {
+      "market_name": "HTC Desire 612",
+      "codename": "htc_a3qhdcl",
+      "model": "HTC 0P9O30"
+    },
+    {
+      "market_name": "HTC Desire 612",
+      "codename": "htc_a3qhdcl",
+      "model": "HTC Desire 612"
+    },
+    {
+      "market_name": "HTC Desire 616 dual sim",
+      "codename": "htc_v3_dug",
+      "model": "HTC D616w"
+    },
+    {
+      "market_name": "HTC Desire 616 dual sim",
+      "codename": "htc_v3_dug",
+      "model": "HTC Desire 616 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 616 dual sim",
+      "codename": "htc_v3_dug",
+      "model": "HTC V3"
+    },
+    {
+      "market_name": "HTC Desire 620",
+      "codename": "htc_a31ul",
+      "model": "HTC 0PE64"
+    },
+    {
+      "market_name": "HTC Desire 620",
+      "codename": "htc_a31ul",
+      "model": "HTC Desire 620"
+    },
+    {
+      "market_name": "HTC Desire 620G dual sim",
+      "codename": "htc_a31mg_dug",
+      "model": "HTC 0PE65"
+    },
+    {
+      "market_name": "HTC Desire 620G dual sim",
+      "codename": "htc_a31mg_dug",
+      "model": "HTC Desire 620G dual sim"
+    },
+    {
+      "market_name": "HTC Desire 620G dual sim",
+      "codename": "htc_a31mg_dug",
+      "model": "HTC_D620h"
+    },
+    {
+      "market_name": "HTC Desire 626",
+      "codename": "htc_a32ewl",
+      "model": "HTCD200LVW"
+    },
+    {
+      "market_name": "HTC Desire 626",
+      "codename": "htc_a32ewlpp",
+      "model": "HTCD200LVWPP"
+    },
+    {
+      "market_name": "HTC Desire 626",
+      "codename": "htc_a32ul",
+      "model": "HTC Desire 626"
+    },
+    {
+      "market_name": "HTC Desire 626 dual sim",
+      "codename": "htc_a32ml_dtul",
+      "model": "HTC Desire 626 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 626G+ dual sim",
+      "codename": "htc_a32mg_dug",
+      "model": "HTC 0PM11"
+    },
+    {
+      "market_name": "HTC Desire 626G+ dual sim",
+      "codename": "htc_a32mg_dug",
+      "model": "HTC Desire 626G dual sim"
+    },
+    {
+      "market_name": "HTC Desire 626G+ dual sim",
+      "codename": "htc_a32mg_dug",
+      "model": "HTC Desire 626GPLUS dual sim"
+    },
+    {
+      "market_name": "HTC Desire 626G+ dual sim",
+      "codename": "htc_a32mg_dug",
+      "model": "HTC_D626ph"
+    },
+    {
+      "market_name": "HTC Desire 626s",
+      "codename": "htc_a32eul",
+      "model": "HTC Desire 625"
+    },
+    {
+      "market_name": "HTC Desire 626s",
+      "codename": "htc_a32eul",
+      "model": "HTC Desire 626s"
+    },
+    {
+      "market_name": "HTC Desire 626s",
+      "codename": "htc_a32eul_la",
+      "model": "HTC Desire 626s"
+    },
+    {
+      "market_name": "HTC Desire 626s",
+      "codename": "htc_a32ewhl",
+      "model": "0PM92"
+    },
+    {
+      "market_name": "HTC Desire 626s",
+      "codename": "htc_a32ewhl",
+      "model": "HTC 0PM92"
+    },
+    {
+      "market_name": "HTC Desire 700 dual sim",
+      "codename": "cp5dug",
+      "model": "HTC Desire 700 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 700 dual sim",
+      "codename": "cp5dwg",
+      "model": "HTC Desire 700 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 700 dual sim",
+      "codename": "cp5dwg",
+      "model": "HTC_709d"
+    },
+    {
+      "market_name": "HTC Desire 7060",
+      "codename": "cp5dug",
+      "model": "HTC_7060"
+    },
+    {
+      "market_name": "HTC Desire 7088",
+      "codename": "cp5dtu",
+      "model": "HTC 7088"
+    },
+    {
+      "market_name": "HTC Desire 709d",
+      "codename": "cp5dwg",
+      "model": "HTC 709d"
+    },
+    {
+      "market_name": "HTC Desire 816",
+      "codename": "htc_a5chl",
+      "model": "HTC Desire 816"
+    },
+    {
+      "market_name": "HTC Desire 816",
+      "codename": "htc_a5ul",
+      "model": "HTC Desire 816"
+    },
+    {
+      "market_name": "HTC Desire 816",
+      "codename": "htc_a5ul",
+      "model": "HTC_0P9C2"
+    },
+    {
+      "market_name": "HTC Desire 816",
+      "codename": "htc_a5ul",
+      "model": "HTC_D816x"
+    },
+    {
+      "market_name": "HTC Desire 816 dual sim",
+      "codename": "htc_a5dug",
+      "model": "HTC Desire 816 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 816 dual sim",
+      "codename": "htc_a5dwg",
+      "model": "HTC Desire 816 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 816G dual",
+      "codename": "htc_a5mgp_dug",
+      "model": "HTC Desire 816G dual sim"
+    },
+    {
+      "market_name": "HTC Desire 816G dual sim",
+      "codename": "htc_a5mg_dug",
+      "model": "HTC Desire 816G dual sim"
+    },
+    {
+      "market_name": "HTC Desire 816G dual sim",
+      "codename": "htc_a5mgp_dug",
+      "model": "HTC D816h"
+    },
+    {
+      "market_name": "HTC Desire 816G dual sim",
+      "codename": "htc_a5mgp_dug",
+      "model": "HTC Desire 816G dual sim"
+    },
+    {
+      "market_name": "HTC Desire 820",
+      "codename": "htc_a51ul",
+      "model": "HTC Desire 820"
+    },
+    {
+      "market_name": "HTC Desire 820 dual sim",
+      "codename": "htc_a51dtul",
+      "model": "HTC Desire 820 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 820G PLUS dual sim",
+      "codename": "htc_a50mgp_dug",
+      "model": "HTC Desire 820G PLUS dual sim"
+    },
+    {
+      "market_name": "HTC Desire 820G PLUS dual sim",
+      "codename": "htc_a50mgp_dug",
+      "model": "HTC Desire 820G dual sim"
+    },
+    {
+      "market_name": "HTC Desire 820q dual sim",
+      "codename": "htc_a50dtul",
+      "model": "HTC Desire 820q dual sim"
+    },
+    {
+      "market_name": "HTC Desire 820s",
+      "codename": "htc_a50ml_dtul",
+      "model": "HTC D820ts"
+    },
+    {
+      "market_name": "HTC Desire 820s",
+      "codename": "htc_a50ml_dtul",
+      "model": "HTC D820us"
+    },
+    {
+      "market_name": "HTC Desire 820s",
+      "codename": "htc_a50ml_dtul",
+      "model": "HTC Desire 820s dual sim"
+    },
+    {
+      "market_name": "HTC Desire 820s dual sim",
+      "codename": "htc_a50ml",
+      "model": "HTC Desire 820s dual sim"
+    },
+    {
+      "market_name": "HTC Desire 826",
+      "codename": "htc_a52dtul",
+      "model": "HTC D826w"
+    },
+    {
+      "market_name": "HTC Desire 826",
+      "codename": "htc_a52tuhl",
+      "model": "HTC_D826y"
+    },
+    {
+      "market_name": "HTC Desire 826 4G\n\\xe7\\xa7\\xbb\\xe5\\x8b\\x95\\xe5\\x85\\xac\\xe9\\x96\\\nx8b\\xe7\\x89\\x88(\\xe5\\x8f\\x8c\\xe5\\x8d\\xa1\\xe5\\x\n8f\\x8c\\xe5\\xbe\\x85)",
+      "codename": "htc_a52dtul",
+      "model": "HTC D826t"
+    },
+    {
+      "market_name": "HTC Desire 826 dual sim",
+      "codename": "htc_a52dtul",
+      "model": "HTC Desire 826 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 826 dual sim",
+      "codename": "htc_a52dwgl",
+      "model": "HTC Desire 826 dual sim"
+    },
+    {
+      "market_name": "HTC Desire C",
+      "codename": "golfc",
+      "model": "HTC Desire C"
+    },
+    {
+      "market_name": "HTC Desire C",
+      "codename": "golfu",
+      "model": "HTC Desire C"
+    },
+    {
+      "market_name": "HTC Desire D626w",
+      "codename": "htc_a32ml_dtul",
+      "model": "HTC D626w"
+    },
+    {
+      "market_name": "HTC Desire EYE",
+      "codename": "htc_eyetuhl",
+      "model": "HTC 0PFH2"
+    },
+    {
+      "market_name": "HTC Desire EYE",
+      "codename": "htc_eyetuhl",
+      "model": "HTC Desire EYE"
+    },
+    {
+      "market_name": "HTC Desire EYE",
+      "codename": "htc_eyetuhl",
+      "model": "HTC_M910x"
+    },
+    {
+      "market_name": "HTC Desire EYE",
+      "codename": "htc_eyeul",
+      "model": "HTC 0PFH11"
+    },
+    {
+      "market_name": "HTC Desire EYE",
+      "codename": "htc_eyeul",
+      "model": "HTC Desire EYE"
+    },
+    {
+      "market_name": "HTC Desire EYE",
+      "codename": "htc_eyeul_att",
+      "model": "HTC Desire Eye"
+    },
+    {
+      "market_name": "HTC Desire L dual sim",
+      "codename": "cp2dug",
+      "model": "HTC Desire L dual sim"
+    },
+    {
+      "market_name": "HTC Desire P",
+      "codename": "magniu",
+      "model": "HTC Desire P"
+    },
+    {
+      "market_name": "HTC Desire SV",
+      "codename": "magnids",
+      "model": "HTC Desire SV"
+    },
+    {
+      "market_name": "HTC Desire V",
+      "codename": "primods",
+      "model": "HTC Desire Q"
+    },
+    {
+      "market_name": "HTC Desire V",
+      "codename": "primods",
+      "model": "HTC Desire U"
+    },
+    {
+      "market_name": "HTC Desire V",
+      "codename": "primods",
+      "model": "HTC Desire U dual sim"
+    },
+    {
+      "market_name": "HTC Desire V",
+      "codename": "primods",
+      "model": "HTC Desire V"
+    },
+    {
+      "market_name": "HTC Desire V",
+      "codename": "primods",
+      "model": "HTC PROMIN_U"
+    },
+    {
+      "market_name": "HTC Desire V",
+      "codename": "primods",
+      "model": "HTC PRO_DS"
+    },
+    {
+      "market_name": "HTC Desire V",
+      "codename": "primods",
+      "model": "HTC T327w"
+    },
+    {
+      "market_name": "HTC Desire V",
+      "codename": "primods",
+      "model": "HTC T328w"
+    },
+    {
+      "market_name": "HTC Desire X",
+      "codename": "protou",
+      "model": "HTC Desire X"
+    },
+    {
+      "market_name": "HTC Desire X",
+      "codename": "protou",
+      "model": "HTC POO_U"
+    },
+    {
+      "market_name": "HTC Desire X dual sim",
+      "codename": "protodug",
+      "model": "HTC Desire X dual sim"
+    },
+    {
+      "market_name": "HTC Desire XC dual sim",
+      "codename": "protodcg",
+      "model": "HTC Desire XC dual sim"
+    },
+    {
+      "market_name": "HTC Desire320",
+      "codename": "htc_v01_u",
+      "model": "HTC_Desire_320"
+    },
+    {
+      "market_name": "HTC Desire815G",
+      "codename": "htc_a5mgp_u",
+      "model": "HTC Desire 816G"
+    },
+    {
+      "market_name": "HTC E9pt",
+      "codename": "htc_a55ml_dtul",
+      "model": "HTC E9pt"
+    },
+    {
+      "market_name": "HTC E9pw",
+      "codename": "htc_a55ml_dtul",
+      "model": "HTC E9pw"
+    },
+    {
+      "market_name": "HTC E9t",
+      "codename": "htc_a53ml_dtul",
+      "model": "HTC E9t"
+    },
+    {
+      "market_name": "HTC E9w",
+      "codename": "htc_a53ml_dtul",
+      "model": "HTC E9w"
+    },
+    {
+      "market_name": "HTC EVO 3D ISW12HT",
+      "codename": "shooterk",
+      "model": "ISW12HT"
+    },
+    {
+      "market_name": "HTC EVO 3D X515m",
+      "codename": "shooteru",
+      "model": "HTC EVO 3D X515a"
+    },
+    {
+      "market_name": "HTC EVO 3D X515m",
+      "codename": "shooteru",
+      "model": "HTC EVO 3D X515m"
+    },
+    {
+      "market_name": "HTC EVO 3D X515m",
+      "codename": "shooteru",
+      "model": "HTC Inspire 3D"
+    },
+    {
+      "market_name": "HTC EVO 4G LTE",
+      "codename": "jewel",
+      "model": "EVO"
+    },
+    {
+      "market_name": "HTC Explorer A310e",
+      "codename": "pico",
+      "model": "HTC Explorer"
+    },
+    {
+      "market_name": "HTC Explorer A310e",
+      "codename": "pico",
+      "model": "HTC Explorer A310b"
+    },
+    {
+      "market_name": "HTC Explorer A310e",
+      "codename": "pico",
+      "model": "HTC Explorer A310e"
+    },
+    {
+      "market_name": "HTC Hero",
+      "codename": "hero",
+      "model": "ERA G2 Touch"
+    },
+    {
+      "market_name": "HTC Hero",
+      "codename": "hero",
+      "model": "HTC Hero"
+    },
+    {
+      "market_name": "HTC Hero",
+      "codename": "hero",
+      "model": "T-Mobile G2 Touch"
+    },
+    {
+      "market_name": "HTC Hero",
+      "codename": "hero",
+      "model": "T-Mobile_G2_Touch"
+    },
+    {
+      "market_name": "HTC Hero",
+      "codename": "hero",
+      "model": "dopod A6288"
+    },
+    {
+      "market_name": "HTC J Butterfly",
+      "codename": "dlxj",
+      "model": "HTL21"
+    },
+    {
+      "market_name": "HTC J One",
+      "codename": "m7wlj",
+      "model": "HTL22"
+    },
+    {
+      "market_name": "HTC J Z321e",
+      "codename": "valentewxc9",
+      "model": "HTC J Z321e"
+    },
+    {
+      "market_name": "HTC M8si",
+      "codename": "htc_m8qltuhl",
+      "model": "HTC M8si"
+    },
+    {
+      "market_name": "HTC M8t",
+      "codename": "htc_m8tl",
+      "model": "HTC M8t"
+    },
+    {
+      "market_name": "HTC M9",
+      "codename": "htc_himaulatt",
+      "model": "HTC One M9"
+    },
+    {
+      "market_name": "HTC M9et",
+      "codename": "htc_hima_ace_ml_dtul",
+      "model": "HTC M9et"
+    },
+    {
+      "market_name": "HTC M9ew",
+      "codename": "htc_hima_ace_ml_dtul",
+      "model": "HTC M9ew"
+    },
+    {
+      "market_name": "HTC M9pw",
+      "codename": "htc_hiau_ml_tuhl",
+      "model": "HTC M9pw"
+    },
+    {
+      "market_name": "HTC M9pw",
+      "codename": "htc_hiaur_ml_tuhl",
+      "model": "HTC M9pw"
+    },
+    {
+      "market_name": "HTC M9w",
+      "codename": "htc_himauhl",
+      "model": "HTC M9w"
+    },
+    {
+      "market_name": "HTC ONE",
+      "codename": "m7cdug",
+      "model": "HTC One dual sim"
+    },
+    {
+      "market_name": "HTC ONE M8s",
+      "codename": "htc_m8qlul",
+      "model": "HTC One M8s"
+    },
+    {
+      "market_name": "HTC ONE M8s",
+      "codename": "htc_m8qlul",
+      "model": "HTC_0PKV1"
+    },
+    {
+      "market_name": "HTC ONE S",
+      "codename": "ville",
+      "model": "HTC One S"
+    },
+    {
+      "market_name": "HTC ONE SV",
+      "codename": "k2u",
+      "model": "HTC K2_U"
+    },
+    {
+      "market_name": "HTC ONE SV",
+      "codename": "k2u",
+      "model": "HTC One SV"
+    },
+    {
+      "market_name": "HTC ONE SV",
+      "codename": "k2ul",
+      "model": "HTC One SV"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7",
+      "model": "HTC 801e"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7",
+      "model": "HTC One"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7",
+      "model": "HTC One 801e"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7",
+      "model": "HTC_PN071"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7cdtu",
+      "model": "HTC 802t"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7cdtu",
+      "model": "HTC 802t 16GB"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7cdug",
+      "model": "HTC 802w"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7cdug",
+      "model": "HTC One dual sim"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7cdwg",
+      "model": "HTC 802d"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7cdwg",
+      "model": "HTC One dual 802d"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7cdwg",
+      "model": "HTC One dual sim"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7wls",
+      "model": "HTC One"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7wls",
+      "model": "HTCONE"
+    },
+    {
+      "market_name": "HTC One",
+      "codename": "m7wlv",
+      "model": "HTC One"
+    },
+    {
+      "market_name": "HTC One (E8)",
+      "codename": "htc_mecdwg",
+      "model": "HTC M8Sd"
+    },
+    {
+      "market_name": "HTC One (E8)",
+      "codename": "htc_mectl",
+      "model": "HTC M8St"
+    },
+    {
+      "market_name": "HTC One (E8)",
+      "codename": "htc_mectl",
+      "model": "HTC One_E8"
+    },
+    {
+      "market_name": "HTC One (E8)",
+      "codename": "htc_mecul",
+      "model": "HTC One_E8"
+    },
+    {
+      "market_name": "HTC One (E8)",
+      "codename": "htc_mecul",
+      "model": "HTC_M8Sx"
+    },
+    {
+      "market_name": "HTC One (E8)",
+      "codename": "htc_mecwhl",
+      "model": "0PAJ5"
+    },
+    {
+      "market_name": "HTC One (E8) dual sim",
+      "codename": "htc_mecdug",
+      "model": "HTC One_E8 dual sim"
+    },
+    {
+      "market_name": "HTC One (E8) dual sim",
+      "codename": "htc_mecdug",
+      "model": "HTC_M8Sy"
+    },
+    {
+      "market_name": "HTC One (E8) dual sim",
+      "codename": "htc_mecdwg",
+      "model": "HTC 0PAJ4"
+    },
+    {
+      "market_name": "HTC One (E8) dual sim",
+      "codename": "htc_mecdwg",
+      "model": "HTC One_E8 dual sim"
+    },
+    {
+      "market_name": "HTC One (E8)\n\\xe6\\x97\\xb6\\xe5\\xb0\\x9a\\xe7\\x89\\x88",
+      "codename": "htc_mectl",
+      "model": "HTC M8St"
+    },
+    {
+      "market_name": "HTC One (E8)\n\\xe6\\x97\\xb6\\xe5\\xb0\\x9a\\xe7\\x89\\x88   4G LTE\\xe5\\x8f\\x8c\\xe5\\x8d\\xa1\\xe5\\x8f\\x8c\\xe5\\xb e\\x85\\xe8\\x81\\x94\\xe9\\x80\\x9a\\xe7\\x89\\x88",
+      "codename": "htc_mecdug",
+      "model": "HTC M8Sw"
+    },
+    {
+      "market_name": "HTC One (E8)\n\\xe6\\x99\\x82\\xe5\\xb0\\x9a\\xe7\\x89\\x884G LTE\n\\xe7\\xa7\\xbb\\xe5\\x8a\\xa8\\xe7\\x89\\x88",
+      "codename": "htc_mectl",
+      "model": "HTC M8Ss"
+    },
+    {
+      "market_name": "HTC One (M8 EYE)",
+      "codename": "htc_melsuhl",
+      "model": "HTC 0P6B900"
+    },
+    {
+      "market_name": "HTC One (M8 EYE)",
+      "codename": "htc_melsuhl",
+      "model": "HTC One_M8 Eye"
+    },
+    {
+      "market_name": "HTC One (M8 Eye)",
+      "codename": "htc_melsuhl",
+      "model": "HTC 0P6B9"
+    },
+    {
+      "market_name": "HTC One (M8 Eye)",
+      "codename": "htc_melsuhl",
+      "model": "HTC One_M8 Eye"
+    },
+    {
+      "market_name": "HTC One (M8)",
+      "codename": "htc_m8",
+      "model": "HTC M8w"
+    },
+    {
+      "market_name": "HTC One (M8)",
+      "codename": "htc_m8",
+      "model": "HTC One_M8"
+    },
+    {
+      "market_name": "HTC One (M8)",
+      "codename": "htc_m8",
+      "model": "HTC_0P6B"
+    },
+    {
+      "market_name": "HTC One (M8)",
+      "codename": "htc_m8",
+      "model": "HTC_0P6B6"
+    },
+    {
+      "market_name": "HTC One (M8)",
+      "codename": "htc_m8",
+      "model": "HTC_M8x"
+    },
+    {
+      "market_name": "HTC One (M8)",
+      "codename": "htc_m8dug",
+      "model": "HTC One_M8 dual sim"
+    },
+    {
+      "market_name": "HTC One (M8)",
+      "codename": "htc_m8dwg",
+      "model": "HTC M8d"
+    },
+    {
+      "market_name": "HTC One (M8)",
+      "codename": "htc_m8whl",
+      "model": "831C"
+    },
+    {
+      "market_name": "HTC One (M8)",
+      "codename": "htc_m8wl",
+      "model": "HTC One_M8"
+    },
+    {
+      "market_name": "HTC One (M8)",
+      "codename": "htc_m8wl",
+      "model": "HTC6525LVW"
+    },
+    {
+      "market_name": "HTC One (M8) (4G LTE\n\\xe5\\x8f\\x8c\\xe5\\x8d\\xa1\\xe5\\x8f\\x8c\\xe5\\xbe\\x8\n5 \\xe8\\x81\\x94\\xe9\\x80\\x9a\\xe7\\x89\\x88)",
+      "codename": "htc_m8dug",
+      "model": "HTC M8e"
+    },
+    {
+      "market_name": "HTC One 801e",
+      "codename": "m7",
+      "model": "HTC One 801e"
+    },
+    {
+      "market_name": "HTC One 801e",
+      "codename": "m7",
+      "model": "HTC One 801s"
+    },
+    {
+      "market_name": "HTC One Dual 802d",
+      "codename": "m7cdwg",
+      "model": "HTC One dual 802d"
+    },
+    {
+      "market_name": "HTC One Dual Sim",
+      "codename": "m7cdwg",
+      "model": "HTC One dual sim"
+    },
+    {
+      "market_name": "HTC One E8 dual",
+      "codename": "htc_mecdwg",
+      "model": "HTC_M8Sd"
+    },
+    {
+      "market_name": "HTC One E9 dual sim",
+      "codename": "htc_a53ml_dtul",
+      "model": "HTC 0PL31"
+    },
+    {
+      "market_name": "HTC One E9 dual sim",
+      "codename": "htc_a53ml_dtul",
+      "model": "HTC One E9 dual sim"
+    },
+    {
+      "market_name": "HTC One E9PLUS dual sim",
+      "codename": "htc_a55ml_dtul",
+      "model": "HTC One E9PLUS dual sim"
+    },
+    {
+      "market_name": "HTC One E9s dual sim",
+      "codename": "htc_a50aml",
+      "model": "HTC D826sw"
+    },
+    {
+      "market_name": "HTC One E9s dual sim",
+      "codename": "htc_a50aml",
+      "model": "HTC One E9s dual sim"
+    },
+    {
+      "market_name": "HTC One Google Play edition",
+      "codename": "m7",
+      "model": "HTC One"
+    },
+    {
+      "market_name": "HTC One M8 eye 4G LTE\n\\xe7\\xa7\\xbb\\xe5\\x8a\\xa8\\xe5\\xae\\x9a\\xe5\\x88\\\nxb6\\xe7\\x89\\x88",
+      "codename": "htc_melstuhl",
+      "model": "HTC M8Et"
+    },
+    {
+      "market_name": "HTC One M8 eye 4G LTE\\xe8\\x81\\x94\\xe9\\x80\\x9a\\xe7\\x89\\x88",
+      "codename": "htc_melsuhl",
+      "model": "HTC M8Ew"
+    },
+    {
+      "market_name": "HTC One M9",
+      "codename": "htc_himauhl",
+      "model": "0PJA10"
+    },
+    {
+      "market_name": "HTC One M9",
+      "codename": "htc_himauhl",
+      "model": "HTC 0PJA10"
+    },
+    {
+      "market_name": "HTC One M9",
+      "codename": "htc_himauhl",
+      "model": "HTC One M9"
+    },
+    {
+      "market_name": "HTC One M9",
+      "codename": "htc_himauhl",
+      "model": "HTC_0PJA10"
+    },
+    {
+      "market_name": "HTC One M9",
+      "codename": "htc_himauhl",
+      "model": "HTC_M9u"
+    },
+    {
+      "market_name": "HTC One M9",
+      "codename": "htc_himaul",
+      "model": "HTC One M9"
+    },
+    {
+      "market_name": "HTC One M9",
+      "codename": "htc_himaulatt",
+      "model": "HTC One M9"
+    },
+    {
+      "market_name": "HTC One M9",
+      "codename": "htc_himawhl",
+      "model": "HTC One M9"
+    },
+    {
+      "market_name": "HTC One M9",
+      "codename": "htc_himawl",
+      "model": "HTC6535LRA"
+    },
+    {
+      "market_name": "HTC One M9",
+      "codename": "htc_himawl",
+      "model": "HTC6535LVW"
+    },
+    {
+      "market_name": "HTC One M9 \\xe2\\x80\\x93 0PJA2",
+      "codename": "htc_himawhl",
+      "model": "0PJA2"
+    },
+    {
+      "market_name": "HTC One M9+",
+      "codename": "htc_hiau_ml_tuhl",
+      "model": "HTC 0PK71"
+    },
+    {
+      "market_name": "HTC One M9+",
+      "codename": "htc_hiau_ml_tuhl",
+      "model": "HTC M9pt"
+    },
+    {
+      "market_name": "HTC One M9+",
+      "codename": "htc_hiau_ml_tuhl",
+      "model": "HTC One M9PLUS"
+    },
+    {
+      "market_name": "HTC One M9+",
+      "codename": "htc_hiau_ml_tuhl",
+      "model": "HTC_M9pw"
+    },
+    {
+      "market_name": "HTC One M9PLUS",
+      "codename": "htc_hiau_ml_tuhl",
+      "model": "HTC One M9PLUS"
+    },
+    {
+      "market_name": "HTC One ME dual sim",
+      "codename": "htc_hima_ace_ml_dtul",
+      "model": "HTC 0PLA1"
+    },
+    {
+      "market_name": "HTC One ME dual sim",
+      "codename": "htc_hima_ace_ml_dtul",
+      "model": "HTC One ME dual sim"
+    },
+    {
+      "market_name": "HTC One S",
+      "codename": "ville",
+      "model": "HTC One S"
+    },
+    {
+      "market_name": "HTC One S",
+      "codename": "ville",
+      "model": "HTC VLE_U"
+    },
+    {
+      "market_name": "HTC One S",
+      "codename": "villec2",
+      "model": "HTC One S"
+    },
+    {
+      "market_name": "HTC One S",
+      "codename": "villec2",
+      "model": "HTC Z560e"
+    },
+    {
+      "market_name": "HTC One S Special Edition",
+      "codename": "villeplus",
+      "model": "HTC One S Special Edition"
+    },
+    {
+      "market_name": "HTC One SC",
+      "codename": "cp2dcg",
+      "model": "HTC One SC"
+    },
+    {
+      "market_name": "HTC One SC",
+      "codename": "cp2dcg",
+      "model": "HTC One SC T528d"
+    },
+    {
+      "market_name": "HTC One SV",
+      "codename": "k2cl",
+      "model": "C525c"
+    },
+    {
+      "market_name": "HTC One SV",
+      "codename": "k2plccl",
+      "model": "HTC One SV"
+    },
+    {
+      "market_name": "HTC One SV",
+      "codename": "k2ul",
+      "model": "HTC K2_UL"
+    },
+    {
+      "market_name": "HTC One SV",
+      "codename": "k2ul",
+      "model": "HTC One SV"
+    },
+    {
+      "market_name": "HTC One SV BLK",
+      "codename": "k2plccl",
+      "model": "HTC One SV"
+    },
+    {
+      "market_name": "HTC One SV BLK",
+      "codename": "k2plccl",
+      "model": "HTC One SV BLK"
+    },
+    {
+      "market_name": "HTC One V",
+      "codename": "primoc",
+      "model": "HTC One V"
+    },
+    {
+      "market_name": "HTC One V",
+      "codename": "primou",
+      "model": "HTC ONE V"
+    },
+    {
+      "market_name": "HTC One V",
+      "codename": "primou",
+      "model": "HTC One V"
+    },
+    {
+      "market_name": "HTC One VX",
+      "codename": "totemc2",
+      "model": "HTC One VX"
+    },
+    {
+      "market_name": "HTC One X",
+      "codename": "endeavoru",
+      "model": "HTC One X"
+    },
+    {
+      "market_name": "HTC One X",
+      "codename": "endeavoru",
+      "model": "HTC S720e"
+    },
+    {
+      "market_name": "HTC One X",
+      "codename": "evita",
+      "model": "HTC One X"
+    },
+    {
+      "market_name": "HTC One X+",
+      "codename": "enrc2b",
+      "model": "HTC One X+"
+    },
+    {
+      "market_name": "HTC One X+",
+      "codename": "evitareul",
+      "model": "HTC One X+"
+    },
+    {
+      "market_name": "HTC One XL",
+      "codename": "evita",
+      "model": "HTC One X"
+    },
+    {
+      "market_name": "HTC One XL",
+      "codename": "evita",
+      "model": "HTC One XL"
+    },
+    {
+      "market_name": "HTC One XL",
+      "codename": "evita",
+      "model": "HTC_One_XL"
+    },
+    {
+      "market_name": "HTC One XL",
+      "codename": "evitautl",
+      "model": "HTC EVA_UTL"
+    },
+    {
+      "market_name": "HTC One max",
+      "codename": "t6ul",
+      "model": "HTC One max"
+    },
+    {
+      "market_name": "HTC One max",
+      "codename": "t6ul",
+      "model": "HTC_One_max"
+    },
+    {
+      "market_name": "HTC One max",
+      "codename": "t6whl",
+      "model": "HTC0P3P7"
+    },
+    {
+      "market_name": "HTC One mini",
+      "codename": "htc_m4",
+      "model": "HTC One mini"
+    },
+    {
+      "market_name": "HTC One mini",
+      "codename": "m4",
+      "model": "HTC One mini"
+    },
+    {
+      "market_name": "HTC One mini",
+      "codename": "m4",
+      "model": "HTC_One_mini_601e"
+    },
+    {
+      "market_name": "HTC One mini",
+      "codename": "m4",
+      "model": "HTC_PO582"
+    },
+    {
+      "market_name": "HTC One mini 2",
+      "codename": "htc_memul",
+      "model": "HTC One mini 2"
+    },
+    {
+      "market_name": "HTC One mini 2",
+      "codename": "htc_memul",
+      "model": "HTC_M8MINx"
+    },
+    {
+      "market_name": "HTC One mini 2",
+      "codename": "htc_memul",
+      "model": "HTC_One_mini_2"
+    },
+    {
+      "market_name": "HTC One mini 601E",
+      "codename": "m4",
+      "model": "HTC_One_mini_601e"
+    },
+    {
+      "market_name": "HTC One remix",
+      "codename": "htc_memwl",
+      "model": "HTC6515LVW"
+    },
+    {
+      "market_name": "HTC One_E8",
+      "codename": "htc_mecul_emea",
+      "model": "HTC One_E8"
+    },
+    {
+      "market_name": "HTC Onex X",
+      "codename": "endeavoru",
+      "model": "HTC One X"
+    },
+    {
+      "market_name": "HTC PO091",
+      "codename": "csndug",
+      "model": "HTC PO091"
+    },
+    {
+      "market_name": "HTC Rhyme S510b",
+      "codename": "bliss",
+      "model": "HTC Rhyme S510b"
+    },
+    {
+      "market_name": "HTC S720e",
+      "codename": "endeavoru",
+      "model": "HTC S720e"
+    },
+    {
+      "market_name": "HTC Salsa C510e",
+      "codename": "icong",
+      "model": "HTC Salsa C510b"
+    },
+    {
+      "market_name": "HTC Salsa C510e",
+      "codename": "icong",
+      "model": "HTC Salsa C510e"
+    },
+    {
+      "market_name": "HTC Sensation XL with Beats Audio X315e",
+      "codename": "runnymede",
+      "model": "HTC Sensation XL with Beats Audio X315b"
+    },
+    {
+      "market_name": "HTC Sensation XL with Beats Audio X315e",
+      "codename": "runnymede",
+      "model": "HTC Sensation XL with Beats Audio X315e"
+    },
+    {
+      "market_name": "HTC Sensation XL with Beats Audio X315e",
+      "codename": "runnymede",
+      "model": "HTC-X315E"
+    },
+    {
+      "market_name": "HTC Sensation XL with Beats Audio X315e",
+      "codename": "runnymede",
+      "model": "Sensation XL with Beats Audio"
+    },
+    {
+      "market_name": "HTC T329d",
+      "codename": "protodcg",
+      "model": "HTC T329d"
+    },
+    {
+      "market_name": "HTC T528w",
+      "codename": "cp2dug",
+      "model": "HTC Desire L dual sim"
+    },
+    {
+      "market_name": "HTC Velocity 4G",
+      "codename": "holiday",
+      "model": "HTC PH39100"
+    },
+    {
+      "market_name": "HTC Velocity 4G",
+      "codename": "holiday",
+      "model": "HTC Raider X710e"
+    },
+    {
+      "market_name": "HTC Velocity 4G",
+      "codename": "holiday",
+      "model": "HTC Velocity 4G"
+    },
+    {
+      "market_name": "HTC Velocity 4G",
+      "codename": "holiday",
+      "model": "HTC Velocity 4G X710s"
+    },
+    {
+      "market_name": "HTC Velocity 4G",
+      "codename": "holiday",
+      "model": "HTC-X710a"
+    },
+    {
+      "market_name": "HTC WF5w",
+      "codename": "htc_a50bml",
+      "model": "HTC WF5w"
+    },
+    {
+      "market_name": "HTC Wildfire S A515c",
+      "codename": "marvelc",
+      "model": "HTC Wildfire S A515c"
+    },
+    {
+      "market_name": "HTC Wildfire S A515c",
+      "codename": "marvelc",
+      "model": "HTC-PG762"
+    },
+    {
+      "market_name": "HTC Wildfire S A515c",
+      "codename": "marvelc",
+      "model": "USCCADR6230US"
+    },
+    {
+      "market_name": "HTC desire 608t",
+      "codename": "cp3dtg",
+      "model": "HTC 608t"
+    },
+    {
+      "market_name": "HTC first",
+      "codename": "mystul",
+      "model": "HTC first"
+    },
+    {
+      "market_name": "HTC6435LVW",
+      "codename": "dlx",
+      "model": "HTC6435LVW"
+    },
+    {
+      "market_name": "HTC909d",
+      "codename": "dlpdwg",
+      "model": "HTC 919d"
+    },
+    {
+      "market_name": "HTCDesire612VZW",
+      "codename": "htc_a3qhdcl",
+      "model": "HTC331ZLVW"
+    },
+    {
+      "market_name": "HTCDesire612VZW",
+      "codename": "htc_a3qhdcl",
+      "model": "HTC331ZLVWPP"
+    },
+    {
+      "market_name": "HTCEVODesign4G",
+      "codename": "kingdom",
+      "model": "HTC Acquire"
+    },
+    {
+      "market_name": "HTCEVODesign4G",
+      "codename": "kingdom",
+      "model": "HTC EVO Design C715e"
+    },
+    {
+      "market_name": "HTCEVODesign4G",
+      "codename": "kingdom",
+      "model": "HTC Hero S"
+    },
+    {
+      "market_name": "HTCEVODesign4G",
+      "codename": "kingdom",
+      "model": "HTC Kingdom"
+    },
+    {
+      "market_name": "HTCEVODesign4G",
+      "codename": "kingdom",
+      "model": "HTCEVODesign4G"
+    },
+    {
+      "market_name": "HTCEVODesign4G",
+      "codename": "kingdom",
+      "model": "PH44100"
+    },
+    {
+      "market_name": "HTCOneMaxVZW",
+      "codename": "t6wl",
+      "model": "HTC6600LVW"
+    },
+    {
+      "market_name": "HTC_0P3P5",
+      "codename": "t6ul",
+      "model": "HTC_0P3P5"
+    },
+    {
+      "market_name": "HTC_0P4E2",
+      "codename": "zara",
+      "model": "HTC_0P4E2"
+    },
+    {
+      "market_name": "HTC_0PFJ50",
+      "codename": "htc_a51tuhl",
+      "model": "HTC_0PFJ50"
+    },
+    {
+      "market_name": "HTC_A510c",
+      "codename": "marvelc",
+      "model": "HTC_A510c"
+    },
+    {
+      "market_name": "HTC_Amaze_4G",
+      "codename": "ruby",
+      "model": "HTC Amaze 4G"
+    },
+    {
+      "market_name": "HTC_Amaze_4G",
+      "codename": "ruby",
+      "model": "HTC Ruby"
+    },
+    {
+      "market_name": "HTC_Amaze_4G",
+      "codename": "ruby",
+      "model": "HTC_Amaze_4G"
+    },
+    {
+      "market_name": "HTC_D626q",
+      "codename": "htc_a32ml_dtul",
+      "model": "HTC Desire 626 dual sim"
+    },
+    {
+      "market_name": "HTC_D626q",
+      "codename": "htc_a32ml_dtul",
+      "model": "HTC_D626q"
+    },
+    {
+      "market_name": "HTC_D728x",
+      "codename": "htc_a50cml_dtul",
+      "model": "HTC_D728x"
+    },
+    {
+      "market_name": "HTC_D820f",
+      "codename": "htc_a51tuhl",
+      "model": "HTC_D820f"
+    },
+    {
+      "market_name": "HTC_D820u",
+      "codename": "htc_a51dtul",
+      "model": "HTC_D820u"
+    },
+    {
+      "market_name": "HTC_D820ys",
+      "codename": "htc_a50ml",
+      "model": "HTC_D820ys"
+    },
+    {
+      "market_name": "HTC_D820ys",
+      "codename": "htc_a50ml_dtul",
+      "model": "HTC_D820ys"
+    },
+    {
+      "market_name": "HTC_E9pw",
+      "codename": "htc_a55ml_dtul",
+      "model": "HTC_E9pw"
+    },
+    {
+      "market_name": "HTC_E9x",
+      "codename": "htc_a53ml_dtul",
+      "model": "HTC_E9x"
+    },
+    {
+      "market_name": "HTC_M9ew",
+      "codename": "htc_hima_ace_ml_dtul",
+      "model": "HTC_M9ew"
+    },
+    {
+      "market_name": "HTC_M9px",
+      "codename": "htc_hiaur_ml_tuhl",
+      "model": "HTC_M9px"
+    },
+    {
+      "market_name": "HTL23",
+      "codename": "htc_b2wlj",
+      "model": "HTL23"
+    },
+    {
+      "market_name": "HTV31",
+      "codename": "htc_b3uhl",
+      "model": "HTV31"
+    },
+    {
+      "market_name": "Hero",
+      "codename": "heroc",
+      "model": "HERO200"
+    },
+    {
+      "market_name": "ISW13HT",
+      "codename": "valentewx",
+      "model": "ISW13HT"
+    },
+    {
+      "market_name": "Incredible 2",
+      "codename": "vivow",
+      "model": "ADR6350"
+    },
+    {
+      "market_name": "Incredible 2",
+      "codename": "vivow",
+      "model": "HTC IncredibleS S710d"
+    },
+    {
+      "market_name": "Incredible S",
+      "codename": "vivo",
+      "model": "HTC Incredible S"
+    },
+    {
+      "market_name": "Incredible S",
+      "codename": "vivo",
+      "model": "HTC_S710E"
+    },
+    {
+      "market_name": "KDDI Infobar A02",
+      "codename": "imnj",
+      "model": "HTX21"
+    },
+    {
+      "market_name": "Legend",
+      "codename": "legend",
+      "model": "HTC Legend"
+    },
+    {
+      "market_name": "Nexus 9",
+      "codename": "flounder",
+      "model": "Nexus 9"
+    },
+    {
+      "market_name": "Nexus 9 LTE",
+      "codename": "flounder_lte",
+      "model": "Nexus 9"
+    },
+    {
+      "market_name": "Nexus One",
+      "codename": "passion",
+      "model": "Nexus One"
+    },
+    {
+      "market_name": "One XL",
+      "codename": "evita",
+      "model": "HTC One XL"
+    },
+    {
+      "market_name": "Puccini",
+      "codename": "puccinilte",
+      "model": "HTC PG09410"
+    },
+    {
+      "market_name": "Puccini",
+      "codename": "puccinilte",
+      "model": "HTC-P715a"
+    },
+    {
+      "market_name": "Sensation 4G",
+      "codename": "pyramid",
+      "model": "HTC Sensation"
+    },
+    {
+      "market_name": "Sensation 4G",
+      "codename": "pyramid",
+      "model": "HTC Sensation 4G"
+    },
+    {
+      "market_name": "Sensation 4G",
+      "codename": "pyramid",
+      "model": "HTC Sensation XE with Beats Audio"
+    },
+    {
+      "market_name": "Sensation 4G",
+      "codename": "pyramid",
+      "model": "HTC Sensation XE with Beats Audio Z715a"
+    },
+    {
+      "market_name": "Sensation 4G",
+      "codename": "pyramid",
+      "model": "HTC Sensation XE with Beats Audio Z715e"
+    },
+    {
+      "market_name": "Sensation 4G",
+      "codename": "pyramid",
+      "model": "HTC Sensation Z710a"
+    },
+    {
+      "market_name": "Sensation 4G",
+      "codename": "pyramid",
+      "model": "HTC Sensation Z710e"
+    },
+    {
+      "market_name": "Sensation 4G",
+      "codename": "pyramid",
+      "model": "HTC-Z710a"
+    },
+    {
+      "market_name": "Thunderbolt",
+      "codename": "mecha",
+      "model": "ADR6400L"
+    },
+    {
+      "market_name": "Thunderbolt",
+      "codename": "mecha",
+      "model": "HTC Mecha"
+    },
+    {
+      "market_name": "Wildfire",
+      "codename": "buzz",
+      "model": "HTC Wildfire"
+    },
+    {
+      "market_name": "Wildfire CDMA",
+      "codename": "bee",
+      "model": "HTC Bee"
+    },
+    {
+      "market_name": "Wildfire CDMA",
+      "codename": "bee",
+      "model": "HTC Wildfire"
+    },
+    {
+      "market_name": "Wildfire S",
+      "codename": "marvel",
+      "model": "HTC Wildfire S"
+    },
+    {
+      "market_name": "Wildfire S",
+      "codename": "marvel",
+      "model": "HTC Wildfire S A510b"
+    },
+    {
+      "market_name": "Wildfire S",
+      "codename": "marvel",
+      "model": "HTC Wildfire S A510e"
+    },
+    {
+      "market_name": "Wildfire S",
+      "codename": "marvel",
+      "model": "HTC-A510a"
+    },
+    {
+      "market_name": "hTC Desire 601",
+      "codename": "zara",
+      "model": "HTC Desire 601"
+    },
+    {
+      "market_name": "htc desire 400 dual sim",
+      "codename": "cp2dug",
+      "model": "HTC Desire 400 dual sim"
+    },
+    {
+      "market_name": "htc desire 610",
+      "codename": "htc_a3qhdul",
+      "model": "HTC Desire 610"
+    },
+    {
+      "market_name": "htc desire x",
+      "codename": "protou",
+      "model": "HTC Desire X"
+    },
+    {
+      "market_name": "myTouch 3G",
+      "codename": "sapphire",
+      "model": "HTC Magic"
+    },
+    {
+      "market_name": "myTouch 3G",
+      "codename": "sapphire",
+      "model": "T-Mobile myTouch 3G"
+    },
+    {
+      "market_name": "myTouch 3G Slide",
+      "codename": "espresso",
+      "model": "T-Mobile myTouch 3G Slide"
+    },
+    {
+      "market_name": "myTouch 4G",
+      "codename": "glacier",
+      "model": "HTC Glacier"
+    },
+    {
+      "market_name": "myTouch 4G",
+      "codename": "glacier",
+      "model": "HTC Panache"
+    },
+    {
+      "market_name": "myTouch 4G Slide",
+      "codename": "doubleshot",
+      "model": "myTouch_4G_Slide"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Zebra",
+  "devices": [
+    {
+      "market_name": "Pollux",
+      "codename": "TC70",
+      "model": "TC700H"
+    },
+    {
+      "market_name": "Pollux",
+      "codename": "TC75",
+      "model": "TC75"
+    },
+    {
+      "market_name": "TC55",
+      "codename": "TC55",
+      "model": "TC55"
+    }
+  ]
+}

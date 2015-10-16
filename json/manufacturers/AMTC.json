@@ -1,0 +1,20 @@
+{
+  "manufacturer": "AMTC",
+  "devices": [
+    {
+      "market_name": "AMTC MD1001 Tablet",
+      "codename": "MD1001",
+      "model": "MD1001"
+    },
+    {
+      "market_name": "AMTC MD7008",
+      "codename": "MD7008A",
+      "model": "MD7008"
+    },
+    {
+      "market_name": "AMTC MD7081",
+      "codename": "MD7081A",
+      "model": "MD7081"
+    }
+  ]
+}

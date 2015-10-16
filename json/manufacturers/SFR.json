@@ -1,0 +1,35 @@
+{
+  "manufacturer": "SFR",
+  "devices": [
+    {
+      "market_name": "SFR-G8800",
+      "codename": "stb_dvb_sfr",
+      "model": "SFR-G8800"
+    },
+    {
+      "market_name": "STARADDICT 4",
+      "codename": "staraddict4",
+      "model": "STARADDICT 4"
+    },
+    {
+      "market_name": "Star Shine II",
+      "codename": "up11_sfr_mensa",
+      "model": "STARSHINE II"
+    },
+    {
+      "market_name": "Star Trail 5",
+      "codename": "STARTRAIL5",
+      "model": "STARTRAIL5"
+    },
+    {
+      "market_name": "Star Trail 6",
+      "codename": "STARTRAIL6",
+      "model": "STARTRAIL6"
+    },
+    {
+      "market_name": "Star Trail III",
+      "codename": "mobiwire_startrail3",
+      "model": "StarTrail III"
+    }
+  ]
+}

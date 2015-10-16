@@ -1,0 +1,20 @@
+{
+  "manufacturer": "NGM",
+  "devices": [
+    {
+      "market_name": "Forward_Prime",
+      "codename": "Forward_Prime",
+      "model": "Forward_Prime"
+    },
+    {
+      "market_name": "Infinity",
+      "codename": "Infinity",
+      "model": "Infinity"
+    },
+    {
+      "market_name": "NGM_Dynamic_Stylo",
+      "codename": "NGM_Dynamic_Stylo",
+      "model": "NGM_Dynamic_Stylo"
+    }
+  ]
+}

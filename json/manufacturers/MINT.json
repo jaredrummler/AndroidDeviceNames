@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Mint",
+  "devices": [
+    {
+      "market_name": "M4",
+      "codename": "M4",
+      "model": "M4"
+    },
+    {
+      "market_name": "M5",
+      "codename": "MINT-M5",
+      "model": "M5"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "manufacturer": "Anydata",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "ASP320Q_GSM",
+      "model": "ASP320Q_ANDi"
+    },
+    {
+      "market_name": "Aquaris I8",
+      "codename": "bq_Aquaris",
+      "model": "bq Aquaris"
+    },
+    {
+      "market_name": "Auchan MID7317CP Tablet",
+      "codename": "MID7317CP",
+      "model": "MID7317CP"
+    },
+    {
+      "market_name": "COBY MID7055",
+      "codename": "MID7055",
+      "model": "MID7055"
+    },
+    {
+      "market_name": "Carrefour CT710",
+      "codename": "M755ND",
+      "model": "CT710"
+    },
+    {
+      "market_name": "Carrefour CT720 / Emdoor EM63 Tablet",
+      "codename": "EM63",
+      "model": "EM63"
+    },
+    {
+      "market_name": "Coby MID1065",
+      "codename": "MID1065",
+      "model": "MID1065"
+    },
+    {
+      "market_name": "Coby MID7065",
+      "codename": "MID7065",
+      "model": "MID7065"
+    },
+    {
+      "market_name": "Coby MID8065",
+      "codename": "MID8065",
+      "model": "MID8065"
+    },
+    {
+      "market_name": "D2-721G",
+      "codename": "D2-721G",
+      "model": "D2-721G"
+    },
+    {
+      "market_name": "D2-727G",
+      "codename": "D2-727",
+      "model": "D2-727"
+    },
+    {
+      "market_name": "DOPO GMS-718 Tablet / Discovery",
+      "codename": "DT088",
+      "model": "GS-718"
+    },
+    {
+      "market_name": "DOTPAD DP3D8 / Gadmei",
+      "codename": "E8-3D",
+      "model": "DP3D8"
+    },
+    {
+      "market_name": "Digix TAB-840_G",
+      "codename": "TAB-840_G",
+      "model": "TAB-840_G"
+    },
+    {
+      "market_name": "Eviant MT8000",
+      "codename": "PDM829MD",
+      "model": "MT8000"
+    },
+    {
+      "market_name": "Garmin nuvi3590",
+      "codename": "scorpio",
+      "model": "nuvi 3590"
+    },
+    {
+      "market_name": "Garmin nuvi3595",
+      "codename": "scorpio",
+      "model": "nuvi 3595"
+    },
+    {
+      "market_name": "Grundig GR-TB10S Tablet",
+      "codename": "GR-TB10S",
+      "model": "GR-TB10S"
+    },
+    {
+      "market_name": "HCL ME TABLET PC U2",
+      "codename": "M712MC",
+      "model": "U2"
+    },
+    {
+      "market_name": "HKC P771A",
+      "codename": "P771A_WIFI",
+      "model": "P771A"
+    },
+    {
+      "market_name": "HKC P774A",
+      "codename": "P774A",
+      "model": "P774A"
+    },
+    {
+      "market_name": "HKC P776A",
+      "codename": "P776A",
+      "model": "P776A"
+    },
+    {
+      "market_name": "HKC P778A",
+      "codename": "HKCP778A",
+      "model": "P778A"
+    },
+    {
+      "market_name": "HKC P886A",
+      "codename": "P886A",
+      "model": "P886A"
+    },
+    {
+      "market_name": "HS_7DTB14",
+      "codename": "HS_7DTB14",
+      "model": "HS_7DTB14"
+    },
+    {
+      "market_name": "Insignia NS-13T001 Tablet",
+      "codename": "oracle",
+      "model": "NS-13T001"
+    },
+    {
+      "market_name": "Jiateng JT1241",
+      "codename": "JT1241",
+      "model": "JT1241"
+    },
+    {
+      "market_name": "Lazer MD7305 Tablet / AMTC",
+      "codename": "MD7305",
+      "model": "MD7305"
+    },
+    {
+      "market_name": "Le Pan S",
+      "codename": "oracle",
+      "model": "Le Pan S"
+    },
+    {
+      "market_name": "LePanII",
+      "codename": "LePanII_wifi",
+      "model": "LePanII"
+    },
+    {
+      "market_name": "Leader I10A-LE",
+      "codename": "I10A-LE",
+      "model": "I10A-LE"
+    },
+    {
+      "market_name": "Mach_Speed Trio G2 Tablet",
+      "codename": "Trio_Stealth_G2",
+      "model": "G2"
+    },
+    {
+      "market_name": "Marquis Tablet",
+      "codename": "marquis_tablet",
+      "model": "Marquis_MP977"
+    },
+    {
+      "market_name": "Matsunichi M97",
+      "codename": "oracle",
+      "model": "M97"
+    },
+    {
+      "market_name": "Monster M7 Tablet",
+      "codename": "MONSTERM7",
+      "model": "M7"
+    },
+    {
+      "market_name": "Nextbook NX007HD Tablet",
+      "codename": "M7000ND",
+      "model": "NX007HD"
+    },
+    {
+      "market_name": "Nextbook NX008HD8G Tablet",
+      "codename": "M8000ND",
+      "model": "NX008HD8G"
+    },
+    {
+      "market_name": "Nextbook NX008HI Tablet / Carrefour CT810",
+      "codename": "M909NP",
+      "model": "NX008HI"
+    },
+    {
+      "market_name": "Nextbook Next7D12 Tablet",
+      "codename": "M757ND",
+      "model": "Next7D12"
+    },
+    {
+      "market_name": "Nextbook Next7P12",
+      "codename": "M727MC",
+      "model": "Next7P12"
+    },
+    {
+      "market_name": "Pendo PNDPP48GP",
+      "codename": "PNDPP48GP",
+      "model": "PNDPP48GP"
+    },
+    {
+      "market_name": "Philips W336",
+      "codename": "Crane",
+      "model": "Philips W336"
+    },
+    {
+      "market_name": "Philips W536",
+      "codename": "Philips_WG-MANTO-RU_B",
+      "model": "Philips W536"
+    },
+    {
+      "market_name": "Philips W626",
+      "codename": "sangfei73_gb",
+      "model": "W626"
+    },
+    {
+      "market_name": "Philips W632",
+      "codename": "robot",
+      "model": "Philips W632"
+    },
+    {
+      "market_name": "Philips W832",
+      "codename": "Philips_WG-ROVER-RU_A",
+      "model": "Philips W832"
+    },
+    {
+      "market_name": "Proscan PLT7223G",
+      "codename": "PLT7223G",
+      "model": "PLT7223G"
+    },
+    {
+      "market_name": "Proscan PLT7777",
+      "codename": "AMLMID710K",
+      "model": "PLT7777"
+    },
+    {
+      "market_name": "Proscan PLT8223G",
+      "codename": "PLT8223G",
+      "model": "PLT8223G"
+    },
+    {
+      "market_name": "RCA RCT6078W2",
+      "codename": "AMLEM62",
+      "model": "RCT6078W2"
+    },
+    {
+      "market_name": "RCA RCT6078W2",
+      "codename": "EM62",
+      "model": "RCT6078W2"
+    },
+    {
+      "market_name": "TecToy TT-2500",
+      "codename": "AML757ND",
+      "model": "TECTOYTT2500"
+    },
+    {
+      "market_name": "Visual Land Prestige 7D",
+      "codename": "PRO7D",
+      "model": "PRO7D"
+    },
+    {
+      "market_name": "Vivitar Camelio Tablet",
+      "codename": "PI070H04CA",
+      "model": "Camelio Family tablet"
+    },
+    {
+      "market_name": "Vivitar XO Tablet",
+      "codename": "PI070H08XO",
+      "model": "XO Learning tablet"
+    },
+    {
+      "market_name": "Zeki TBDG773",
+      "codename": "TBDG773",
+      "model": "TBDG773"
+    },
+    {
+      "market_name": "ematic EGP008",
+      "codename": "EGP008",
+      "model": "EGP008"
+    },
+    {
+      "market_name": "ematic EGP010",
+      "codename": "EGP010",
+      "model": "EGP010"
+    },
+    {
+      "market_name": "ematic EGS004",
+      "codename": "EGS004",
+      "model": "EGS004"
+    },
+    {
+      "market_name": "ematic EGS102",
+      "codename": "EGS102",
+      "model": "EGS102"
+    },
+    {
+      "market_name": "essentielb ST8003/FT8001 Tablet",
+      "codename": "M805ND",
+      "model": "Smart\\\u0027TAB 8003"
+    },
+    {
+      "market_name": "iCraig CMP748",
+      "codename": "CMP748",
+      "model": "CMP748"
+    },
+    {
+      "market_name": "iCraig CMP749",
+      "codename": "CMP749",
+      "model": "CMP749"
+    }
+  ]
+}

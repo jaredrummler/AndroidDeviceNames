@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Tobii DynaVox",
+  "devices": [
+    {
+      "market_name": "T10+",
+      "codename": "T10plus",
+      "model": "T10+"
+    },
+    {
+      "market_name": "T7",
+      "codename": "T7",
+      "model": "T7"
+    }
+  ]
+}

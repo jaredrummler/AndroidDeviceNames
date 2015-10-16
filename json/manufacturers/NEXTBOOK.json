@@ -1,0 +1,45 @@
+{
+  "manufacturer": "Nextbook",
+  "devices": [
+    {
+      "market_name": "M-MP7NB3G",
+      "codename": "7_Plus_HD3G",
+      "model": "M-MP7NB3G"
+    },
+    {
+      "market_name": "NX700QC",
+      "codename": "nxm7100lvd_wm",
+      "model": "NX700QC"
+    },
+    {
+      "market_name": "NX785QC",
+      "codename": "nxm865lvd_wm",
+      "model": "NX785QC"
+    },
+    {
+      "market_name": "NX785QC8G",
+      "codename": "NXM865FD",
+      "model": "NX785QC8G"
+    },
+    {
+      "market_name": "NXA101LTE116",
+      "codename": "NXA101LTE116",
+      "model": "NXA101LTE116"
+    },
+    {
+      "market_name": "NXA116QC164",
+      "codename": "NXA116QC164",
+      "model": "NXA116QC164"
+    },
+    {
+      "market_name": "NXA8LTE116",
+      "codename": "NXA8LTE116",
+      "model": "NXA8LTE116"
+    },
+    {
+      "market_name": "NXA8QC116",
+      "codename": "NXA8QC116",
+      "model": "NXA8QC116"
+    }
+  ]
+}

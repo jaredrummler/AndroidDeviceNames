@@ -1,0 +1,15 @@
+{
+  "manufacturer": "MTC",
+  "devices": [
+    {
+      "market_name": "MTC 982",
+      "codename": "MTC_982",
+      "model": "MTC 982"
+    },
+    {
+      "market_name": "Vodafone Smart mini",
+      "codename": "Vodafone_875",
+      "model": "MTC 970H"
+    }
+  ]
+}

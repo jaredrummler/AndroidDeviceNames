@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Tesco",
+  "devices": [
+    {
+      "market_name": "Hudl 2",
+      "codename": "HTF8A4",
+      "model": "Hudl 2"
+    },
+    {
+      "market_name": "Hudl HT7S3",
+      "codename": "ht7s3",
+      "model": "Hudl HT7S3"
+    },
+    {
+      "market_name": "Hudl HT7S3",
+      "codename": "ht7s3",
+      "model": "hudl ht7s3"
+    },
+    {
+      "market_name": "W032I_C3",
+      "codename": "w032i_c3",
+      "model": "W032I_C3"
+    },
+    {
+      "market_name": "hudl 2",
+      "codename": "HTF8A4",
+      "model": "Hudl 2"
+    }
+  ]
+}

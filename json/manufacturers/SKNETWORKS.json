@@ -1,0 +1,30 @@
+{
+  "manufacturer": "SKnetworks",
+  "devices": [
+    {
+      "market_name": "EG68BE",
+      "codename": "EG668BE",
+      "model": "EG668"
+    },
+    {
+      "market_name": "EG978TW",
+      "codename": "EG978TW",
+      "model": "EG978"
+    },
+    {
+      "market_name": "EG980",
+      "codename": "eg980tw",
+      "model": "EG980"
+    },
+    {
+      "market_name": "WA966",
+      "codename": "u966e_2",
+      "model": "WA966"
+    },
+    {
+      "market_name": "WA978",
+      "codename": "u978e_1",
+      "model": "WA978"
+    }
+  ]
+}

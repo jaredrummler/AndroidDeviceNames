@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Hon Hai Precision Industry Co., Ltd.",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "EP10_wifi",
+      "model": "PocketBook A10"
+    },
+    {
+      "market_name": "",
+      "codename": "EP5A_wifi",
+      "model": "PocketBook A7"
+    },
+    {
+      "market_name": "Germany",
+      "codename": "S9714",
+      "model": "LIFETAB_S9714"
+    },
+    {
+      "market_name": "nabi_XD",
+      "codename": "XD",
+      "model": "NABIXD-NV10C"
+    }
+  ]
+}

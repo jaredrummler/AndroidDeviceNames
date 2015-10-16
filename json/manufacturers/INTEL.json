@@ -1,0 +1,75 @@
+{
+  "manufacturer": "Intel",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "SP-A20i",
+      "model": "SP-A20i"
+    },
+    {
+      "market_name": "",
+      "codename": "blackbay",
+      "model": "Xolo_X900"
+    },
+    {
+      "market_name": "",
+      "codename": "noonhill",
+      "model": "AZ210A"
+    },
+    {
+      "market_name": "",
+      "codename": "noonhill",
+      "model": "AZ210B"
+    },
+    {
+      "market_name": "",
+      "codename": "noonhill",
+      "model": "SP-A20i"
+    },
+    {
+      "market_name": "AQ710A",
+      "codename": "Salitpa",
+      "model": "AQ710A"
+    },
+    {
+      "market_name": "Etisalat E-20",
+      "codename": "zeeyabeach",
+      "model": "BT230"
+    },
+    {
+      "market_name": "Orange San Diego",
+      "codename": "AZ210A",
+      "model": "AZ210A"
+    },
+    {
+      "market_name": "Orange avec Intel Inside",
+      "codename": "AZ210B",
+      "model": "AZ210B"
+    },
+    {
+      "market_name": "TR10CD1(PVT2)",
+      "codename": "TR10CD1_4",
+      "model": "TR10CD1"
+    },
+    {
+      "market_name": "TR10CD1(PVT2)",
+      "codename": "TR10CD1_6",
+      "model": "TR10CD1"
+    },
+    {
+      "market_name": "TR10CS1 (PVT2)",
+      "codename": "TR10CS1_4",
+      "model": "TR10CS1"
+    },
+    {
+      "market_name": "Xolo X500",
+      "codename": "zeeyabeach",
+      "model": "Xolo_X500"
+    },
+    {
+      "market_name": "Yolo",
+      "codename": "zeeyabeach",
+      "model": "BT210"
+    }
+  ]
+}

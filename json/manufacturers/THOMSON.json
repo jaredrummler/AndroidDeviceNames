@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Thomson",
+  "devices": [
+    {
+      "market_name": "THOMSON PRIMO7 Tablet",
+      "codename": "PRIMO7",
+      "model": "PRIMO7"
+    },
+    {
+      "market_name": "THOMSON PRIMO8 Tablet",
+      "codename": "AMLMY8306P",
+      "model": "PRIMO8"
+    },
+    {
+      "market_name": "TLink 455",
+      "codename": "TLINK455",
+      "model": "TLINK455"
+    }
+  ]
+}

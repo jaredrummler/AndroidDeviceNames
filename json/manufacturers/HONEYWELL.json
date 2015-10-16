@@ -1,0 +1,100 @@
+{
+  "manufacturer": "Honeywell",
+  "devices": [
+    {
+      "market_name": "70eL00",
+      "codename": "dblack",
+      "model": "Dolphin 70e Black"
+    },
+    {
+      "market_name": "70eLW0",
+      "codename": "dblack_wo",
+      "model": "Dolphin 70e Black"
+    },
+    {
+      "market_name": "70eLWN",
+      "codename": "dblack_wn",
+      "model": "Dolphin 70e Black"
+    },
+    {
+      "market_name": "D75E",
+      "codename": "75E-L0N",
+      "model": "D75E"
+    },
+    {
+      "market_name": "Dolphin CT50",
+      "codename": "CT50L0N-CS13S",
+      "model": "CT50"
+    },
+    {
+      "market_name": "Dolphin CT50",
+      "codename": "CT50LFN-CS13S",
+      "model": "CT50"
+    },
+    {
+      "market_name": "Dolphin CT50",
+      "codename": "CT50LUN-CS13S",
+      "model": "CT50"
+    },
+    {
+      "market_name": "Honeywell CN51",
+      "codename": "CN51_NC0",
+      "model": "CN51 NC0"
+    },
+    {
+      "market_name": "Honeywell CN51",
+      "codename": "CN51_NCF",
+      "model": "CN51 NCF"
+    },
+    {
+      "market_name": "Honeywell CN51",
+      "codename": "CN51_NCU",
+      "model": "CN51 NCU"
+    },
+    {
+      "market_name": "Honeywell CN51",
+      "codename": "CN51_NN0",
+      "model": "CN51 NN0"
+    },
+    {
+      "market_name": "Honeywell CN51",
+      "codename": "CN51_QC0",
+      "model": "CN51 QC0"
+    },
+    {
+      "market_name": "Honeywell CN51",
+      "codename": "CN51_QCF",
+      "model": "CN51 QCF"
+    },
+    {
+      "market_name": "Honeywell CN51",
+      "codename": "CN51_QCU",
+      "model": "CN51 QCU"
+    },
+    {
+      "market_name": "Honeywell CN51",
+      "codename": "CN51_QN0",
+      "model": "CN51 QN0"
+    },
+    {
+      "market_name": "Honeywell Dolphin 70e Black",
+      "codename": "dblack_gn",
+      "model": "Dolphin 70e Black"
+    },
+    {
+      "market_name": "Honeywell Dolphin 70e Black",
+      "codename": "dblack_go",
+      "model": "Dolphin 70e Black"
+    },
+    {
+      "market_name": "Honeywell Dolphin 70e Black",
+      "codename": "dblack_wn",
+      "model": "Dolphin 70e Black"
+    },
+    {
+      "market_name": "Honeywell Dolphin 70e Black",
+      "codename": "dblack_wo",
+      "model": "Dolphin 70e Black"
+    }
+  ]
+}

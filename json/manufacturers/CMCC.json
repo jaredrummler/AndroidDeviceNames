@@ -1,0 +1,15 @@
+{
+  "manufacturer": "CMCC",
+  "devices": [
+    {
+      "market_name": "M811",
+      "codename": "m811",
+      "model": "M811"
+    },
+    {
+      "market_name": "M811",
+      "codename": "m811hk",
+      "model": "M811"
+    }
+  ]
+}

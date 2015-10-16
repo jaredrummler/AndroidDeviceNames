@@ -1,0 +1,20 @@
+{
+  "manufacturer": "ESI Enterprises",
+  "devices": [
+    {
+      "market_name": "CKT3",
+      "codename": "CKT3",
+      "model": "CKT3"
+    },
+    {
+      "market_name": "Trinity T101",
+      "codename": "Trinity_T101",
+      "model": "Trinity T101"
+    },
+    {
+      "market_name": "Trinity T900",
+      "codename": "Trinity_T900",
+      "model": "Trinity T900"
+    }
+  ]
+}

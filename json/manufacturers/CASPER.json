@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Casper",
+  "devices": [
+    {
+      "market_name": "TA80CA2",
+      "codename": "TA80CA2_1",
+      "model": "TA80CA2"
+    },
+    {
+      "market_name": "VIA T7D",
+      "codename": "VIA-T7D",
+      "model": "VIA-T7D"
+    },
+    {
+      "market_name": "VIA T7D 3G",
+      "codename": "VIA-T7D-3G",
+      "model": "VIA-T7D-3G"
+    },
+    {
+      "market_name": "VIA_T41",
+      "codename": "VIA_T41",
+      "model": "VIA_T41"
+    }
+  ]
+}

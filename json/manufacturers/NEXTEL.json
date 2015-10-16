@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Nextel",
+  "devices": [
+    {
+      "market_name": "V.35",
+      "codename": "up11_vsn_h1_single",
+      "model": "Nextel V.35"
+    },
+    {
+      "market_name": "V.45",
+      "codename": "H26-VSN",
+      "model": "NII Nextel"
+    },
+    {
+      "market_name": "V.45",
+      "codename": "H26-VSN",
+      "model": "V.45"
+    }
+  ]
+}

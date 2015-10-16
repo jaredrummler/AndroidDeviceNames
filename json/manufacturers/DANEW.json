@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Danew",
+  "devices": [
+    {
+      "market_name": "DANEW Dslide971DC",
+      "codename": "Dslide971DC",
+      "model": "Dslide971DC"
+    },
+    {
+      "market_name": "DSlide 710",
+      "codename": "Dslide710",
+      "model": "Dslide710"
+    },
+    {
+      "market_name": "Danew DSlide 750",
+      "codename": "Danew_DSlide750",
+      "model": "DSlide750"
+    },
+    {
+      "market_name": "Danew Dslide 1013",
+      "codename": "DSlide1013",
+      "model": "DSlide 1013"
+    }
+  ]
+}

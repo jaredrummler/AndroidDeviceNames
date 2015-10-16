@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Ubiquiti",
+  "devices": [
+    {
+      "market_name": "USS",
+      "codename": "grizzlies_telefi4wm",
+      "model": "USS"
+    },
+    {
+      "market_name": "UVP",
+      "codename": "capri_ubq_telefi5",
+      "model": "UVP"
+    },
+    {
+      "market_name": "UVP Executive",
+      "codename": "capri_ubq_telefi7",
+      "model": "UVP Executive"
+    },
+    {
+      "market_name": "UVP Pro",
+      "codename": "capri_ubq_telefi5p",
+      "model": "UVP Pro"
+    },
+    {
+      "market_name": "UVP-X",
+      "codename": "grizzlies_telefi4x",
+      "model": "UVP-X"
+    }
+  ]
+}

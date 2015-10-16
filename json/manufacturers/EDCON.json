@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Edcon",
+  "devices": [
+    {
+      "market_name": "Motion E1.1",
+      "codename": "MotionE11",
+      "model": "MotionE11"
+    },
+    {
+      "market_name": "Platiunm vp.1",
+      "codename": "VerssedVP1",
+      "model": "Verssed VP1"
+    },
+    {
+      "market_name": "Platiunm vp.2",
+      "codename": "VerssedVP2",
+      "model": "Verssed VP2"
+    },
+    {
+      "market_name": "VERSSED platinum vp.2.1",
+      "codename": "VERSSEDvp2-1",
+      "model": "VERSSED vp2.1"
+    },
+    {
+      "market_name": "Verssed Platinum VP3.0",
+      "codename": "VERSSED_Vp3",
+      "model": "VERSSED vp3"
+    }
+  ]
+}

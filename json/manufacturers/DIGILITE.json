@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Digilite",
+  "devices": [
+    {
+      "market_name": "TA70CA1",
+      "codename": "TA70CA1",
+      "model": "TA70CA1"
+    },
+    {
+      "market_name": "TA70CA2",
+      "codename": "TA70CA2_1",
+      "model": "TA70CA2"
+    },
+    {
+      "market_name": "TA70CA3",
+      "codename": "TA70CA3_1",
+      "model": "TA70CA3"
+    },
+    {
+      "market_name": "TR10CD1",
+      "codename": "TR10CD1_5",
+      "model": "TR10CD1"
+    },
+    {
+      "market_name": "TR10CS1",
+      "codename": "TR10CS1_3",
+      "model": "TR10CS1"
+    }
+  ]
+}

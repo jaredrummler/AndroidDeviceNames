@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Audiovox",
+  "devices": [
+    {
+      "market_name": "Audiovox T752 Tablet",
+      "codename": "AD7L",
+      "model": "T752"
+    },
+    {
+      "market_name": "Audiovox T852 Tablet",
+      "codename": "MID30801",
+      "model": "T852"
+    }
+  ]
+}

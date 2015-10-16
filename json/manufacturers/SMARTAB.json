@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Smartab",
+  "devices": [
+    {
+      "market_name": "STJR700",
+      "codename": "STJR700",
+      "model": "STJR700"
+    },
+    {
+      "market_name": "Smartab SRF79",
+      "codename": "SRF79",
+      "model": "SRF79"
+    },
+    {
+      "market_name": "Smartab STJR76",
+      "codename": "STJR76",
+      "model": "STJR76"
+    }
+  ]
+}

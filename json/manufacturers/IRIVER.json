@@ -1,0 +1,65 @@
+{
+  "manufacturer": "iRiver",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "smdkc110",
+      "model": "ILT-MX100"
+    },
+    {
+      "market_name": "DMT580D",
+      "codename": "m805_892x",
+      "model": "DDA800R"
+    },
+    {
+      "market_name": "DMT580D",
+      "codename": "m805_892x",
+      "model": "DMT580D"
+    },
+    {
+      "market_name": "DMT580D",
+      "codename": "m805_892x",
+      "model": "MIT700"
+    },
+    {
+      "market_name": "MM3202",
+      "codename": "mm3201",
+      "model": "MM-3201"
+    },
+    {
+      "market_name": "MM3202",
+      "codename": "mm3201",
+      "model": "MM-3202"
+    },
+    {
+      "market_name": "ULALA",
+      "codename": "msm7627a_sku3",
+      "model": "I-K1"
+    },
+    {
+      "market_name": "WOW Tab+(ITQ1000)",
+      "codename": "itq1000",
+      "model": "ITQ1000"
+    },
+    {
+      "market_name": "WPT005",
+      "codename": "wikipad",
+      "model": "WPT005"
+    },
+    {
+      "market_name": "Wow TAB +",
+      "codename": "itq701",
+      "model": "ITQ701"
+    },
+    {
+      "market_name": "Wow(Window of the world)",
+      "codename": "itq700",
+      "model": "ITQ700"
+    },
+    {
+      "market_name": "Wow(Window of the world)",
+      "codename": "itq700",
+      "model": "YBMK01"
+    }
+  ]
+}

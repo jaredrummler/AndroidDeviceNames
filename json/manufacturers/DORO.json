@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Doro",
+  "devices": [
+    {
+      "market_name": "Doro Liberto 820 Mini",
+      "codename": "820Mini",
+      "model": "Doro Liberto 820 Mini"
+    },
+    {
+      "market_name": "Liberto 810",
+      "codename": "Liberto810",
+      "model": "Doro Liberto 810"
+    },
+    {
+      "market_name": "Liberto 810",
+      "codename": "Liberto810",
+      "model": "Doro Liberto 810-orange"
+    },
+    {
+      "market_name": "Liberto 810",
+      "codename": "Liberto810_S12",
+      "model": "Doro Liberto 810"
+    },
+    {
+      "market_name": "Liberto 820",
+      "codename": "Liberto820",
+      "model": "Doro Liberto 820"
+    },
+    {
+      "market_name": "Liberto 820 Mini",
+      "codename": "820Mini",
+      "model": "Doro Liberto 820 Mini"
+    }
+  ]
+}

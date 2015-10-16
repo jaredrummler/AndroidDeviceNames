@@ -1,0 +1,3465 @@
+{
+  "manufacturer": "TCT (Alcatel)",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "A556C",
+      "model": "A556C"
+    },
+    {
+      "market_name": "",
+      "codename": "A919_gsm",
+      "model": "TCL A919"
+    },
+    {
+      "market_name": "",
+      "codename": "ASB-D_T918",
+      "model": "ASB-D T918"
+    },
+    {
+      "market_name": "",
+      "codename": "B-GriffinPlus_TD",
+      "model": "ASB-D T918"
+    },
+    {
+      "market_name": "",
+      "codename": "BASE_Varia_gsm",
+      "model": "BASE_Varia"
+    },
+    {
+      "market_name": "",
+      "codename": "E928_TD",
+      "model": "TCL E928"
+    },
+    {
+      "market_name": "",
+      "codename": "Griffin_TD",
+      "model": "TCL E928"
+    },
+    {
+      "market_name": "",
+      "codename": "MOVE_gsm",
+      "model": "MOVE"
+    },
+    {
+      "market_name": "",
+      "codename": "MTC-962_gsm",
+      "model": "MTC-962"
+    },
+    {
+      "market_name": "",
+      "codename": "Martini",
+      "model": "one touch 906"
+    },
+    {
+      "market_name": "",
+      "codename": "MegaFon_SP-A10",
+      "model": "MegaFon_SP-A10"
+    },
+    {
+      "market_name": "",
+      "codename": "ONE_TOUCH_928D_gsm",
+      "model": "ALCATEL ONE TOUCH 928D"
+    },
+    {
+      "market_name": "",
+      "codename": "ONE_TOUCH_983A_gsm",
+      "model": "ALCATEL_one_touch_983A"
+    },
+    {
+      "market_name": "",
+      "codename": "ONE_TOUCH_983M_gsm",
+      "model": "ONE TOUCH 983M"
+    },
+    {
+      "market_name": "",
+      "codename": "OP070",
+      "model": "OP070"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-906",
+      "model": "ALCATEL_one_touch_906"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-906",
+      "model": "ALCATEL_one_touch_906Y"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-913D",
+      "model": "ALCATEL_one_touch_913D"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-976",
+      "model": "ALCATEL_one_touch_976"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-978",
+      "model": "ALCATEL_one_touch_978"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-979",
+      "model": "ALCATEL_one_touch_979"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-979",
+      "model": "ALCATEL_one_touch_979_HelloKitty"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-980A_gsm",
+      "model": "Alcatel OT-980A"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-980_gsm",
+      "model": "Alcatel OT-980"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-980_gsm",
+      "model": "Alcatel OT-980A"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-980_gsm",
+      "model": "Alcatel OT-981A"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-981A_gsm",
+      "model": "Alcatel OT-981A"
+    },
+    {
+      "market_name": "",
+      "codename": "OT-981_gsm",
+      "model": "Alcatel OT-981A"
+    },
+    {
+      "market_name": "",
+      "codename": "OT_918_gsm",
+      "model": "ALCATEL OT 918"
+    },
+    {
+      "market_name": "",
+      "codename": "OT_919_HelloKitty_gsm",
+      "model": "ALCATEL OT 919 HelloKitty"
+    },
+    {
+      "market_name": "",
+      "codename": "OT_919_gsm",
+      "model": "ALCATEL OT 919"
+    },
+    {
+      "market_name": "",
+      "codename": "OT_990M_gsm",
+      "model": "ALCATEL_OT_990M"
+    },
+    {
+      "market_name": "",
+      "codename": "RASPG3201_umts",
+      "model": "RASPG3201"
+    },
+    {
+      "market_name": "",
+      "codename": "RPSPG3201_umts",
+      "model": "RPSPG3201"
+    },
+    {
+      "market_name": "",
+      "codename": "SmartIII4",
+      "model": "Vodafone 975N"
+    },
+    {
+      "market_name": "",
+      "codename": "T20",
+      "model": "one touch T20"
+    },
+    {
+      "market_name": "",
+      "codename": "T60",
+      "model": "onetouch T60"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL-A909_A909_gsm",
+      "model": "TCL A909"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL-S806",
+      "model": "TCL-S806"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_890D_gsm",
+      "model": "TCL A890 2SIM"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_A510",
+      "model": "TCL A510"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_A510",
+      "model": "TCL_A510"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_A919_umts",
+      "model": "TCL A919"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_A919_umts",
+      "model": "TCL_W969"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_A966_gsm",
+      "model": "TCL A966"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_A968",
+      "model": "TCL A968"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_A980_gsm",
+      "model": "TCL A980"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_A986_gsm",
+      "model": "TCL A986"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_A988_gsm",
+      "model": "TCL_A988"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_A998_gsm",
+      "model": "TCL A998"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_C990_Plus_cdma",
+      "model": "TCL C990+"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_D515_cdma",
+      "model": "TCL D515"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_D662_cdma",
+      "model": "TCL D662"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_S800_GSM",
+      "model": "TCL S800"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_W939_gsm",
+      "model": "TCL_W939"
+    },
+    {
+      "market_name": "",
+      "codename": "TCL_W969_gsm",
+      "model": "TCL W969"
+    },
+    {
+      "market_name": "",
+      "codename": "Vancouver_gsm",
+      "model": "Vancouver_Orange"
+    },
+    {
+      "market_name": "",
+      "codename": "mercury",
+      "model": "I-L1"
+    },
+    {
+      "market_name": "",
+      "codename": "move_2_gsm",
+      "model": "move 2"
+    },
+    {
+      "market_name": "",
+      "codename": "msm7627_ffa",
+      "model": "Alcatel OT-980"
+    },
+    {
+      "market_name": "",
+      "codename": "msm7627_ffa",
+      "model": "Alcatel OT-980A"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_890D_gsm",
+      "model": "ALCATEL one touch 890D"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_890_gsm",
+      "model": "ALCATEL_one_touch_890"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_890_gsm",
+      "model": "Vip_MiniDroid"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_891_gsm",
+      "model": "ALCATEL_one_touch_891"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_908A_gsm",
+      "model": "ALCATEL_one_touch_908A"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_908F_gsm",
+      "model": "ALCATEL_one_touch_908F"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_908F_gsm",
+      "model": "ALCATEL_one_touch_908F_Orange"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_908F_gsm",
+      "model": "Alcatel_one_touch_908F"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_908F_gsm",
+      "model": "Alcatel_one_touch_908F_Orange"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_908M_gsm",
+      "model": "ALCATEL_one_touch_908M"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_908S_gsm",
+      "model": "ALCATEL_one_touch_908S"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_908_gsm",
+      "model": "ALCATEL ONE TOUCH 908"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_909A_gsm",
+      "model": "ALCATEL_one_touch_909A"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_909B_cdma",
+      "model": "ALCATEL_one_touch_909B"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_909B_cdma",
+      "model": "USCC_ALCATEL_one_touch_909B"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_909S_gsm",
+      "model": "ALCATEL_one_touch_909S"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_910A_gsm",
+      "model": "ALCATEL_one_touch_910A"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_910_gsm",
+      "model": "ALCATEL_one_touch_910"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_916A_gsm",
+      "model": "ALCATEL ONE TOUCH 916A"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_916D_gsm",
+      "model": "ALCATEL ONE TOUCH 916D"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_916_gsm",
+      "model": "ALCATEL ONE TOUCH 916"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_918M_gsm",
+      "model": "ALCATEL_ONE_TOUCH_918M"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_918M_umts",
+      "model": "ALCATEL_one_touch_918M"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_918N_umts",
+      "model": "ALCATEL_one_touch_918N"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_918_gsm",
+      "model": "ALCATEL ONE TOUCH 918"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_985_gsm",
+      "model": "ALCATEL ONE TOUCH 985"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_985_gsm",
+      "model": "Telenor Smart"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_988_cdma",
+      "model": "ALCATEL_one_touch_988"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_988_cdma",
+      "model": "USCC_ALCATEL_one_touch_988"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_990A_gsm",
+      "model": "ALCATEL ONE TOUCH 990A"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_990A_gsm",
+      "model": "ALCATEL_one_touch_990A"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_990C_cdma",
+      "model": "ALCATEL one touch 990C"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_990_gsm",
+      "model": "ALCATEL ONE TOUCH 990"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_990_gsm",
+      "model": "Alcatel one touch 990 Orange"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_990_gsm",
+      "model": "Telenor_OneTouch"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_991S_gsm",
+      "model": "ALCATEL ONE TOUCH 991S"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_993D_gsm",
+      "model": "ALCATEL ONE TOUCH 993D"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_995A_gsm",
+      "model": "ALCATEL_one_touch_995A"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_995C_cdma",
+      "model": "one touch 995C+"
+    },
+    {
+      "market_name": "",
+      "codename": "one_touch_996_gsm",
+      "model": "Orange_infinity_996"
+    },
+    {
+      "market_name": "4009M",
+      "codename": "PIXI3_35",
+      "model": "4009M"
+    },
+    {
+      "market_name": "4013M",
+      "codename": "Pixi3-4",
+      "model": "4013M"
+    },
+    {
+      "market_name": "4014A",
+      "codename": "Pixi3-4",
+      "model": "4014A"
+    },
+    {
+      "market_name": "4014M",
+      "codename": "Pixi3-4",
+      "model": "4014M"
+    },
+    {
+      "market_name": "5017D",
+      "codename": "PIXI3_45_4G",
+      "model": "5017D"
+    },
+    {
+      "market_name": "5017E",
+      "codename": "PIXI3_45_4G",
+      "model": "5017E"
+    },
+    {
+      "market_name": "5017X",
+      "codename": "PIXI3_45_4G",
+      "model": "5017X"
+    },
+    {
+      "market_name": "5038D",
+      "codename": "SOUL45_GSM",
+      "model": "5038D"
+    },
+    {
+      "market_name": "5042T",
+      "codename": "ALTO45TMO",
+      "model": "5042T"
+    },
+    {
+      "market_name": "6010A",
+      "codename": "Miata_3G",
+      "model": "6016A"
+    },
+    {
+      "market_name": "6014X",
+      "codename": "Miata_3G",
+      "model": "6014X"
+    },
+    {
+      "market_name": "6016D",
+      "codename": "Miata_3G",
+      "model": "6016D"
+    },
+    {
+      "market_name": "6016E",
+      "codename": "Miata_3G",
+      "model": "6016E"
+    },
+    {
+      "market_name": "6016X",
+      "codename": "Miata_3G",
+      "model": "6016X"
+    },
+    {
+      "market_name": "6037B",
+      "codename": "Eclipse",
+      "model": "6037B"
+    },
+    {
+      "market_name": "6037K",
+      "codename": "Eclipse",
+      "model": "6037K"
+    },
+    {
+      "market_name": "6037Y",
+      "codename": "Eclipse",
+      "model": "6037Y"
+    },
+    {
+      "market_name": "6039A",
+      "codename": "idol347",
+      "model": "6039A"
+    },
+    {
+      "market_name": "6039H",
+      "codename": "idol347",
+      "model": "6039H"
+    },
+    {
+      "market_name": "6039J",
+      "codename": "idol347",
+      "model": "6039J"
+    },
+    {
+      "market_name": "6039K",
+      "codename": "idol347",
+      "model": "6039K"
+    },
+    {
+      "market_name": "6039S",
+      "codename": "idol347",
+      "model": "6039S"
+    },
+    {
+      "market_name": "6039Y",
+      "codename": "idol347",
+      "model": "6039Y"
+    },
+    {
+      "market_name": "6042D",
+      "codename": "CROSSAPAC",
+      "model": "6042D"
+    },
+    {
+      "market_name": "6043A",
+      "codename": "DIABLOXPLUS",
+      "model": "6043A"
+    },
+    {
+      "market_name": "6043D",
+      "codename": "DIABLOXPLUS",
+      "model": "6043D"
+    },
+    {
+      "market_name": "7040N",
+      "codename": "Yaris5TMO",
+      "model": "7040N"
+    },
+    {
+      "market_name": "7040R",
+      "codename": "Yaris5TMO",
+      "model": "7040R"
+    },
+    {
+      "market_name": "7040T",
+      "codename": "Yaris5TMO",
+      "model": "7040T"
+    },
+    {
+      "market_name": "7045Y",
+      "codename": "RIO5",
+      "model": "7045Y"
+    },
+    {
+      "market_name": "730U",
+      "codename": "Rio5C",
+      "model": "J730U"
+    },
+    {
+      "market_name": "8030B",
+      "codename": "HERO2",
+      "model": "8030B"
+    },
+    {
+      "market_name": "8030B",
+      "codename": "HERO2PLUS",
+      "model": "8030B"
+    },
+    {
+      "market_name": "8030Y",
+      "codename": "HERO2",
+      "model": "8030Y"
+    },
+    {
+      "market_name": "8054.0",
+      "codename": "Pixi3-7",
+      "model": "8054.0"
+    },
+    {
+      "market_name": "8055.0",
+      "codename": "Pixi3-7",
+      "model": "8055.0"
+    },
+    {
+      "market_name": "8056.0",
+      "codename": "Pixi3-7",
+      "model": "8056.0"
+    },
+    {
+      "market_name": "8057.0",
+      "codename": "Pixi3-7",
+      "model": "8057.0"
+    },
+    {
+      "market_name": "8057.0",
+      "codename": "Pixi3-7",
+      "model": "KR076"
+    },
+    {
+      "market_name": "8080.0",
+      "codename": "Pixi3-10_WiFi",
+      "model": "8080.0"
+    },
+    {
+      "market_name": "9002A",
+      "codename": "Pixi3-7_3G",
+      "model": "9002A"
+    },
+    {
+      "market_name": "9002A",
+      "codename": "Pixi3-7_3G",
+      "model": "ALCATEL ONE TOUCH 9002A"
+    },
+    {
+      "market_name": "9002X",
+      "codename": "Pixi3-7_3G",
+      "model": "9002X"
+    },
+    {
+      "market_name": "9005X",
+      "codename": "PIXO8_3G",
+      "model": "9005X"
+    },
+    {
+      "market_name": "9006W",
+      "codename": "Pixi2-7_4G_TMO",
+      "model": "9006W"
+    },
+    {
+      "market_name": "9020A",
+      "codename": "tint8_att",
+      "model": "9020A"
+    },
+    {
+      "market_name": "9021A",
+      "codename": "Pop2-8_4G_Telus",
+      "model": "9021A"
+    },
+    {
+      "market_name": "A520L",
+      "codename": "Alto4EVDO",
+      "model": "A520L"
+    },
+    {
+      "market_name": "A521L",
+      "codename": "Alto4NA",
+      "model": "A521L"
+    },
+    {
+      "market_name": "A846L",
+      "codename": "Alto5TF",
+      "model": "A846L"
+    },
+    {
+      "market_name": "A851L",
+      "codename": "Viper_gsm",
+      "model": "Alcatel 7030L"
+    },
+    {
+      "market_name": "A851L",
+      "codename": "Viper_gsm",
+      "model": "Alcatel A851L"
+    },
+    {
+      "market_name": "ALCATEL 4015T",
+      "codename": "Yaris35_GSM",
+      "model": "ALCATEL 4015T"
+    },
+    {
+      "market_name": "ALCATEL A564C",
+      "codename": "Yaris5NA",
+      "model": "ALCATEL A564C"
+    },
+    {
+      "market_name": "ALCATEL A564R",
+      "codename": "Yaris5NA",
+      "model": "ALCATEL A564R"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4005D",
+      "codename": "Beetle_Lite_Edge_GSM",
+      "model": "ALCATEL ONE TOUCH 4005D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4005D",
+      "codename": "Beetle_Lite_Edge_GSM",
+      "model": "ALCATEL_ONE_TOUCH_4005D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4010X",
+      "codename": "Beetle_Lite_GSM",
+      "model": "ALCATEL ONE TOUCH 4010A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4010X",
+      "codename": "Beetle_Lite_GSM",
+      "model": "ALCATEL ONE TOUCH 4010D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4010X",
+      "codename": "Beetle_Lite_GSM",
+      "model": "ALCATEL ONE TOUCH 4010E"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4010X",
+      "codename": "Beetle_Lite_GSM",
+      "model": "ALCATEL ONE TOUCH 4010X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4010X",
+      "codename": "Beetle_Lite_GSM",
+      "model": "TCL_J210"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4010X",
+      "codename": "Beetle_Lite_GSM",
+      "model": "Telenor Smart 2"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4030X",
+      "codename": "Beetle_GSM",
+      "model": "ALCATEL ONE TOUCH 4029A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4030X",
+      "codename": "Beetle_GSM",
+      "model": "ALCATEL ONE TOUCH 4030D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4030X",
+      "codename": "Beetle_GSM",
+      "model": "ALCATEL ONE TOUCH 4030E"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4030X",
+      "codename": "Beetle_GSM",
+      "model": "ALCATEL ONE TOUCH 4030X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4030X",
+      "codename": "Beetle_GSM",
+      "model": "ALCATEL ONE TOUCH 4030Y"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4030X",
+      "codename": "Beetle_GSM",
+      "model": "ALCATEL ONE TOUCH 4030Y_orange"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4030X",
+      "codename": "Beetle_GSM",
+      "model": "Infinity POP"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4030X",
+      "codename": "Beetle_GSM",
+      "model": "Orange Runo"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4037N",
+      "codename": "SOUL4NA",
+      "model": "ALCATEL ONE TOUCH 4037N"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 4037N",
+      "codename": "SOUL4NA",
+      "model": "ALCATEL ONE TOUCH 4037T"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "ALCATEL ONE TOUCH 5020A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "ALCATEL ONE TOUCH 5020D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "ALCATEL ONE TOUCH 5020E"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "ALCATEL ONE TOUCH 5020T"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "ALCATEL ONE TOUCH 5020W"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "ALCATEL ONE TOUCH 5020X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "ALCATEL ONE TOUCH 5021E"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "ALCATEL_ONE_TOUCH_5020D_Orange"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "ALCATEL_ONE_TOUCH_5020X_Orange"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "AURUS III"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "MTC 972"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "Orange Kivo"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020D",
+      "codename": "Megane_GSM",
+      "model": "Telenor Smart Pro 2"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5020N",
+      "codename": "Megane",
+      "model": "ALCATEL ONE TOUCH 5020N"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5035D",
+      "codename": "Camry_GSM",
+      "model": "ALCATEL ONE TOUCH 5035A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5035D",
+      "codename": "Camry_GSM",
+      "model": "ALCATEL ONE TOUCH 5035D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5035D",
+      "codename": "Camry_GSM",
+      "model": "ALCATEL ONE TOUCH 5035E"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5035D",
+      "codename": "Camry_GSM",
+      "model": "ALCATEL ONE TOUCH 5035X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5035D",
+      "codename": "Camry_GSM",
+      "model": "TCL J610"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5035D",
+      "codename": "Camry_GSM",
+      "model": "TCL S810"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5036A",
+      "codename": "YarisL_GSM",
+      "model": "ALCATEL ONE TOUCH 5036A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5036D",
+      "codename": "YarisL_GSM",
+      "model": "ALCATEL ONE TOUCH 5036D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5036D",
+      "codename": "YarisL_GSM",
+      "model": "ONE TOUCH 5036X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5036F",
+      "codename": "YarisL_GSM",
+      "model": "ALCATEL ONE TOUCH 5036F"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5036X",
+      "codename": "YarisL_GSM",
+      "model": "ALCATEL ONE TOUCH 5036X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 5037E",
+      "codename": "YarisL_GSM",
+      "model": "ALCATEL ONE TOUCH 5037E"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 601",
+      "codename": "Telsa",
+      "model": "ALCATEL ONE TOUCH 6010"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6010A",
+      "codename": "Telsa",
+      "model": "ALCATEL ONE TOUCH 6010A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6010D",
+      "codename": "Telsa",
+      "model": "ALCATEL ONE TOUCH 6010D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6010X",
+      "codename": "Telsa",
+      "model": "ALCATEL ONE TOUCH 6010"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6010X",
+      "codename": "Telsa",
+      "model": "ALCATEL ONE TOUCH 6010D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6010X",
+      "codename": "Telsa",
+      "model": "ALCATEL ONE TOUCH 6010X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6010X",
+      "codename": "Telsa",
+      "model": "ALCATEL ONE TOUCH 6010X-orange"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6010X",
+      "codename": "Telsa",
+      "model": "TCL S520"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6030A",
+      "codename": "Diablo",
+      "model": "ALCATEL ONE TOUCH 6030A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6030D",
+      "codename": "Diablo",
+      "model": "ALCATEL ONE TOUCH 6030D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6030N",
+      "codename": "Diablo",
+      "model": "ALCATEL ONE TOUCH 6030N"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6030X",
+      "codename": "Diablo",
+      "model": "ALCATEL ONE TOUCH 6030A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6030X",
+      "codename": "Diablo",
+      "model": "ALCATEL ONE TOUCH 6030D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6030X",
+      "codename": "Diablo",
+      "model": "ALCATEL ONE TOUCH 6030X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6030X",
+      "codename": "Diablo",
+      "model": "ALCATEL ONE TOUCH 6030X-orange"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6030X",
+      "codename": "Diablo",
+      "model": "ALCATEL_ONE_TOUCH_6030X_Orange"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6030X",
+      "codename": "Diablo",
+      "model": "Optimus_San_Remo"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6030X",
+      "codename": "Diablo",
+      "model": "TCL S820"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6030X-orange",
+      "codename": "Diablo",
+      "model": "ALCATEL ONE TOUCH 6030X-orange"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6032",
+      "codename": "Alpha",
+      "model": "ALCATEL ONE TOUCH 6032"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6032A",
+      "codename": "Alpha",
+      "model": "ALCATEL ONE TOUCH 6032A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6032X",
+      "codename": "Alpha",
+      "model": "ALCATEL ONE TOUCH 6032X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6033A",
+      "codename": "DiabloHD",
+      "model": "ALCATEL ONE TOUCH 6033A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6033M",
+      "codename": "DiabloHD",
+      "model": "ALCATEL ONE TOUCH 6033M"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6033X",
+      "codename": "DiabloHD",
+      "model": "ALCATEL ONE TOUCH 6033M"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6033X",
+      "codename": "DiabloHD",
+      "model": "ALCATEL ONE TOUCH 6033X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6033X",
+      "codename": "DiabloHD",
+      "model": "TCL S850"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6037B",
+      "codename": "Eclipse",
+      "model": "ALCATEL ONE TOUCH 6037B"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6040A",
+      "codename": "DIABLOX",
+      "model": "ALCATEL ONE TOUCH 6040A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6040D",
+      "codename": "DIABLOX",
+      "model": "ALCATEL ONE TOUCH 6040D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6040D",
+      "codename": "DIABLOX",
+      "model": "TCL S950"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6040E",
+      "codename": "DIABLOX",
+      "model": "ALCATEL ONE TOUCH 6040E"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 6040X",
+      "codename": "DIABLOX",
+      "model": "ALCATEL ONE TOUCH 6040X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7024W",
+      "codename": "Rav4",
+      "model": "ALCATEL ONE TOUCH 7024R"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7024W",
+      "codename": "Rav4",
+      "model": "ALCATEL ONE TOUCH 7024W"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7024W",
+      "codename": "Rav4",
+      "model": "ALCATEL ONE TOUCH FIERCE"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7025D",
+      "codename": "Rav4",
+      "model": "ALCATEL ONE TOUCH 7025D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7040A",
+      "codename": "YARISXL",
+      "model": "ALCATEL ONE TOUCH 7040A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7040D",
+      "codename": "YARISXL",
+      "model": "ALCATEL ONE TOUCH 7040D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7040E",
+      "codename": "YARISXL",
+      "model": "ALCATEL ONE TOUCH 7040E"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7040K",
+      "codename": "YARISXL",
+      "model": "ALCATEL ONE TOUCH 7040K"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7040X",
+      "codename": "YARISXL",
+      "model": "ALCATEL ONE TOUCH 7040X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7041D",
+      "codename": "YARISXL",
+      "model": "ALCATEL ONE TOUCH 7041D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7041X",
+      "codename": "YARISXL",
+      "model": "ALCATEL ONE TOUCH 7041X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7042A",
+      "codename": "YARISXL",
+      "model": "ALCATEL ONE TOUCH 7042A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7042D",
+      "codename": "YARISXL",
+      "model": "ALCATEL ONE TOUCH 7042D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7042E",
+      "codename": "YARISXL",
+      "model": "ALCATEL ONE TOUCH 7042E"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7047D",
+      "codename": "YARIS_55",
+      "model": "ALCATEL ONE TOUCH 7047D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7047E",
+      "codename": "YARIS_55",
+      "model": "ALCATEL ONE TOUCH 7047E"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 7047X",
+      "codename": "YARIS_55",
+      "model": "ALCATEL ONE TOUCH 7047X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 8008D",
+      "codename": "Scribe5HD",
+      "model": "ALCATEL ONE TOUCH 8008D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 8008D",
+      "codename": "Scribe5HD",
+      "model": "ALCATEL ONE TOUCH 8008X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 8008D",
+      "codename": "Scribe5HD",
+      "model": "Orange Infinity 8008X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 8020A",
+      "codename": "SCRIBEPRO",
+      "model": "ALCATEL ONE TOUCH 8020A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 8020D",
+      "codename": "SCRIBEPRO",
+      "model": "ALCATEL ONE TOUCH 8020D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 8020E",
+      "codename": "SCRIBEPRO",
+      "model": "ALCATEL ONE TOUCH 8020E"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 8020X",
+      "codename": "SCRIBEPRO",
+      "model": "ALCATEL ONE TOUCH 8020X"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 903",
+      "codename": "one_touch_903A_gsm",
+      "model": "ALCATEL_ONE_TOUCH_903"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 903",
+      "codename": "one_touch_903A_gsm",
+      "model": "ALCATEL_one_touch_903"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 903",
+      "codename": "one_touch_903D_gsm",
+      "model": "ALCATEL ONE TOUCH 903D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 903",
+      "codename": "one_touch_903_gsm",
+      "model": "ALCATEL ONE TOUCH 903"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 903",
+      "codename": "one_touch_903_gsm",
+      "model": "ALCATEL_ONE_TOUCH_903"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 903A",
+      "codename": "one_touch_903A_gsm",
+      "model": "ALCATEL ONE TOUCH 903A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 903D",
+      "codename": "one_touch_903D_gsm",
+      "model": "ALCATEL ONE TOUCH 903D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 918",
+      "codename": "one_touch_918_gsm",
+      "model": "ALCATEL ONE TOUCH 918"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 918",
+      "codename": "one_touch_918_gsm",
+      "model": "ALCATEL one touch 918"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 918",
+      "codename": "one_touch_918_gsm",
+      "model": "ALCATEL_one_touch_918"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 918",
+      "codename": "one_touch_918_gsm",
+      "model": "Alcatel_one_touch_918_Orange"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 918A",
+      "codename": "one_touch_918A_gsm",
+      "model": "ALCATEL ONE TOUCH 918A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 918A",
+      "codename": "one_touch_918A_gsm",
+      "model": "ALCATEL_one_touch_918A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 918D",
+      "codename": "ONE_TOUCH_918D_umts",
+      "model": "ALCATEL ONE TOUCH 918D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 918D",
+      "codename": "one_touch_918D_gsm",
+      "model": "ALCATEL ONE TOUCH 918D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 918N",
+      "codename": "ONE_TOUCH_918N_umts",
+      "model": "ALCATEL ONE TOUCH 918N"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 918N",
+      "codename": "one_touch_918N_gsm",
+      "model": "ALCATEL ONE TOUCH 918N"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 918S",
+      "codename": "one_touch_918S_gsm",
+      "model": "ALCATEL ONE TOUCH 918S"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 922",
+      "codename": "one_touch_922_gsm",
+      "model": "ALCATEL ONE TOUCH 922"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 930D",
+      "codename": "OT-930",
+      "model": "ALCATEL ONE TOUCH 930D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 930D",
+      "codename": "OT-930",
+      "model": "ALCATEL ONE TOUCH 930N"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 985",
+      "codename": "one_touch_985_gsm",
+      "model": "ALCATEL ONE TOUCH 985"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 985",
+      "codename": "one_touch_985_gsm",
+      "model": "ALCATEL_ONE_TOUCH_985"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 985",
+      "codename": "one_touch_985_gsm",
+      "model": "ALCATEL_one_touch_985"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 985",
+      "codename": "one_touch_985_gsm",
+      "model": "Telenor_One_Touch_C"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 985D",
+      "codename": "one_touch_985D_gsm",
+      "model": "ALCATEL ONE TOUCH 985D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 985N",
+      "codename": "one_touch_985N_gsm",
+      "model": "ALCATEL ONE TOUCH 985N"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 991",
+      "codename": "ONE_TOUCH_991D_gsm",
+      "model": "ALCATEL ONE TOUCH 991D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 991",
+      "codename": "ONE_TOUCH_991_gsm",
+      "model": "ALCATEL ONE TOUCH 991"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 991",
+      "codename": "ONE_TOUCH_991_gsm",
+      "model": "ALCATEL_one_touch_991"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 991",
+      "codename": "ONE_TOUCH_991_gsm",
+      "model": "Telenor_Smart_Pro"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 991",
+      "codename": "one_touch_991_gsm",
+      "model": "ALCATEL ONE TOUCH 991"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 991A",
+      "codename": "ONE_TOUCH_991A_gsm",
+      "model": "ALCATEL ONE TOUCH 991A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 991D",
+      "codename": "ONE_TOUCH_991D_gsm",
+      "model": "ALCATEL ONE TOUCH 991D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 991D",
+      "codename": "one_touch_991D_gsm",
+      "model": "ALCATEL ONE TOUCH 991D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 991T",
+      "codename": "one_touch_991T_gsm",
+      "model": "ALCATEL ONE TOUCH 991T"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 992D",
+      "codename": "Martell_lite_GSM",
+      "model": "ALCATEL ONE TOUCH 992"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 992D",
+      "codename": "Martell_lite_GSM",
+      "model": "ALCATEL ONE TOUCH 992D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 992D",
+      "codename": "Martell_lite_GSM",
+      "model": "TCL S500"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 992D",
+      "codename": "Martell_lite_GSM",
+      "model": "TCL S600"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 995",
+      "codename": "one_touch_995_gsm",
+      "model": "ALCATEL_one_touch_995"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 995",
+      "codename": "one_touch_995_gsm",
+      "model": "Optimus_Madrid"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 995",
+      "codename": "one_touch_995_gsm",
+      "model": "Telenor_Smart_HD"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 995A",
+      "codename": "one_touch_995_gsm",
+      "model": "ALCATEL_one_touch_995A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 997D",
+      "codename": "Martell_GSM",
+      "model": "ALCATEL ONE TOUCH 997"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 997D",
+      "codename": "Martell_GSM",
+      "model": "ALCATEL ONE TOUCH 997D"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 997D",
+      "codename": "Martell_GSM",
+      "model": "BASE_Lutea_3"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 997D",
+      "codename": "Martell_GSM",
+      "model": "TCL S710"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH 997D",
+      "codename": "Martell_GSM",
+      "model": "TCL S800"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH D668",
+      "codename": "DANIEL",
+      "model": "ALCATEL ONE TOUCH D668"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH D668",
+      "codename": "DANIEL",
+      "model": "TCL D668"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH D668",
+      "codename": "DANIEL",
+      "model": "TCL-D668"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH Fierce",
+      "codename": "Rav4",
+      "model": "ALCATEL ONE TOUCH 7024N"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH Fierce",
+      "codename": "Rav4",
+      "model": "ALCATEL ONE TOUCH 7024W"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH Fierce",
+      "codename": "Rav4",
+      "model": "ALCATEL ONE TOUCH Fierce"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH P310A",
+      "codename": "POP7",
+      "model": "ALCATEL ONE TOUCH P310A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH P320A",
+      "codename": "POP8",
+      "model": "ALCATEL ONE TOUCH P320A"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH P321",
+      "codename": "POP8",
+      "model": "ALCATEL ONE TOUCH P321"
+    },
+    {
+      "market_name": "ALCATEL ONE TOUCH918N",
+      "codename": "one_touch_918_gsm",
+      "model": "ALCATEL ONE TOUCH 918N"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH 4037R",
+      "codename": "SOUL4NA",
+      "model": "ALCATEL ONE TOUCH 4037R"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH 4037R",
+      "codename": "SOUL4NA",
+      "model": "ALCATEL ONETOUCH 4037R"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH 6032",
+      "codename": "Alpha",
+      "model": "ALCATEL ONETOUCH 6032"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH 6032A",
+      "codename": "Alpha",
+      "model": "ALCATEL ONETOUCH 6032A"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH 6032X",
+      "codename": "Alpha",
+      "model": "ALCATEL ONETOUCH 6032X"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH 6043D",
+      "codename": "DIABLOXPLUS",
+      "model": "ALCATEL ONETOUCH 6043D"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH Flash Plus",
+      "codename": "CROSS2",
+      "model": "ALCATEL ONETOUCH Flash Plus"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH IDOL 3 (5.5)",
+      "codename": "idol3",
+      "model": "6045I"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH IDOL 3 (5.5)",
+      "codename": "idol3",
+      "model": "6045K"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH IDOL 3 (5.5)",
+      "codename": "idol3",
+      "model": "6045Y"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH P310A",
+      "codename": "POP7",
+      "model": "ALCATEL ONE TOUCH P310A"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH P310A",
+      "codename": "POP7",
+      "model": "ALCATEL ONETOUCH P310A"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP D3",
+      "codename": "SOUL4NA",
+      "model": "ALCATEL ONETOUCH POP D3"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH Victory",
+      "codename": "7046T",
+      "model": "Alcatel 7046T"
+    },
+    {
+      "market_name": "ALCATEL one touch 986+",
+      "codename": "OT986",
+      "model": "ALCATEL one touch 986+"
+    },
+    {
+      "market_name": "ALCATEL one touch 990C+",
+      "codename": "one_touch_990C_Plus_cdma",
+      "model": "ALCATEL one touch 990C+"
+    },
+    {
+      "market_name": "ALCATEL one touch J320",
+      "codename": "Iris",
+      "model": "ALCATEL one touch J320"
+    },
+    {
+      "market_name": "ALCATEL_ONE_TOUCH_4027A",
+      "codename": "Pixi3-45",
+      "model": "ALCATEL ONE TOUCH 4027A"
+    },
+    {
+      "market_name": "ALCATEL_ONE_TOUCH_5037A",
+      "codename": "YarisL_GSM",
+      "model": "ALCATEL ONE TOUCH 5037A"
+    },
+    {
+      "market_name": "ALCATEL_ONE_TOUCH_5037X",
+      "codename": "YarisL_GSM",
+      "model": "ALCATEL ONE TOUCH 5037X"
+    },
+    {
+      "market_name": "ALCATEL_ONE_TOUCH_6010X_Orange",
+      "codename": "ONE_TOUCH_6010X_gsm",
+      "model": "ALCATEL_ONE_TOUCH_6010X_Orange"
+    },
+    {
+      "market_name": "ALCATEL_ONE_TOUCH_6030X_Orange",
+      "codename": "ONE_TOUCH_6030X_gsm",
+      "model": "ALCATEL_ONE_TOUCH_6030X_Orange"
+    },
+    {
+      "market_name": "ALCATEL_ONE_TOUCH_7047A",
+      "codename": "YARIS_55",
+      "model": "ALCATEL ONE TOUCH 7047A"
+    },
+    {
+      "market_name": "ALCATEL_ONE_TOUCH_903",
+      "codename": "one_touch_903A_gsm",
+      "model": "ALCATEL_ONE_TOUCH_903"
+    },
+    {
+      "market_name": "ALCATEL_ONE_TOUCH_903",
+      "codename": "one_touch_903_gsm",
+      "model": "ALCATEL_ONE_TOUCH_903"
+    },
+    {
+      "market_name": "ALCATEL_ONE_TOUCH_991_Orange",
+      "codename": "one_touch_991_gsm",
+      "model": "ALCATEL_ONE_TOUCH_991_Orange"
+    },
+    {
+      "market_name": "ALCATEL_ONE_TOUCH_P310X",
+      "codename": "POP7",
+      "model": "ALCATEL ONE TOUCH P310X"
+    },
+    {
+      "market_name": "ALCATEL_ONE_TOUCH_P320X",
+      "codename": "POP8",
+      "model": "ALCATEL ONE TOUCH P320X"
+    },
+    {
+      "market_name": "ALCATEL_one_touch_918D",
+      "codename": "one_touch_918D_umts",
+      "model": "ALCATEL_one_touch_918D"
+    },
+    {
+      "market_name": "ALCATEL_one_touch_991",
+      "codename": "ONE_TOUCH_991A_gsm",
+      "model": "ALCATEL_one_touch_991"
+    },
+    {
+      "market_name": "ALCATEL_one_touch_991",
+      "codename": "one_touch_991_gsm",
+      "model": "ALCATEL_one_touch_991"
+    },
+    {
+      "market_name": "ALCATEL_one_touch_995",
+      "codename": "one_touch_995_gsm",
+      "model": "ALCATEL_one_touch_995"
+    },
+    {
+      "market_name": "ALCATEL_one_touch_995",
+      "codename": "one_touch_995_gsm",
+      "model": "RPSPE4301"
+    },
+    {
+      "market_name": "ALCATEL_one_touch_995",
+      "codename": "one_touch_995_gsm",
+      "model": "Telenor_One_Touch_S"
+    },
+    {
+      "market_name": "ALCATEL_one_touch_995",
+      "codename": "one_touch_995_gsm",
+      "model": "Telenor_Smart_HD"
+    },
+    {
+      "market_name": "ALCATEL_one_touch_995A",
+      "codename": "one_touch_995_gsm",
+      "model": "ALCATEL_one_touch_995A"
+    },
+    {
+      "market_name": "ALCATEL_one_touch_995S",
+      "codename": "one_touch_995_gsm",
+      "model": "ALCATEL_one_touch_995S"
+    },
+    {
+      "market_name": "ALOO 6032",
+      "codename": "Alpha",
+      "model": "ALOO 6032"
+    },
+    {
+      "market_name": "AM-H100",
+      "codename": "EOS_lte",
+      "model": "AM-H100"
+    },
+    {
+      "market_name": "ATEL ONE TOUCH 995",
+      "codename": "one_touch_995_gsm",
+      "model": "ALCATEL_one_touch_995"
+    },
+    {
+      "market_name": "Alcatel one touch 985",
+      "codename": "one_touch_985A_gsm",
+      "model": "ALCATEL_one_touch_985"
+    },
+    {
+      "market_name": "Alcatel_one_touch_918_Orange",
+      "codename": "one_touch_918_gsm",
+      "model": "Alcatel_one_touch_918_Orange"
+    },
+    {
+      "market_name": "Boost View 5.0",
+      "codename": "YARISXL",
+      "model": "Boost View 5.0"
+    },
+    {
+      "market_name": "D819",
+      "codename": "HERO8",
+      "model": "D819"
+    },
+    {
+      "market_name": "D820",
+      "codename": "HERO8",
+      "model": "D820"
+    },
+    {
+      "market_name": "D820X",
+      "codename": "HERO8",
+      "model": "D820X"
+    },
+    {
+      "market_name": "DL900",
+      "codename": "YARISXL",
+      "model": "DL900"
+    },
+    {
+      "market_name": "E500",
+      "codename": "X50D",
+      "model": "E500"
+    },
+    {
+      "market_name": "EVO7",
+      "codename": "EVO7",
+      "model": "MTC 1065"
+    },
+    {
+      "market_name": "EVO7",
+      "codename": "EVO7",
+      "model": "onetouch EVO7"
+    },
+    {
+      "market_name": "EVO7",
+      "codename": "EVO7",
+      "model": "starTIM tab 7"
+    },
+    {
+      "market_name": "Hero2C",
+      "codename": "Hero2C",
+      "model": "7055A"
+    },
+    {
+      "market_name": "I216A",
+      "codename": "PIXI7",
+      "model": "I216A"
+    },
+    {
+      "market_name": "I216X",
+      "codename": "PIXI7",
+      "model": "I216X"
+    },
+    {
+      "market_name": "I220",
+      "codename": "PIXI8",
+      "model": "I220"
+    },
+    {
+      "market_name": "I221",
+      "codename": "PIXI8",
+      "model": "I221"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS4G",
+      "model": "6050Y"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS4G",
+      "model": "ALCATEL ONE TOUCH 6050Y"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS4G",
+      "model": "Idol2S_Orange"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS_lte",
+      "model": "6050A"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS_lte",
+      "model": "6050F"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS_lte",
+      "model": "6050W"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS_lte",
+      "model": "6050Y"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS_lte",
+      "model": "ALCATEL ONE TOUCH 6050Y"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS_lte",
+      "model": "ALCATEL ONETOUCH 6050A"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS_lte",
+      "model": "OWN S5030"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS_lte",
+      "model": "TCL S830U"
+    },
+    {
+      "market_name": "IDOL 2 S",
+      "codename": "EOS_lte",
+      "model": "TCL S838M"
+    },
+    {
+      "market_name": "Idol S",
+      "codename": "DiabloHD_LTE",
+      "model": "ALCATEL ONE TOUCH 6035L"
+    },
+    {
+      "market_name": "Idol S",
+      "codename": "DiabloHD_LTE",
+      "model": "BS472"
+    },
+    {
+      "market_name": "Idol S",
+      "codename": "DiabloHD_LTE",
+      "model": "MTC 978"
+    },
+    {
+      "market_name": "Idol S",
+      "codename": "Diablo_LTE",
+      "model": "ALCATEL ONE TOUCH 6034L"
+    },
+    {
+      "market_name": "Idol S",
+      "codename": "Diablo_LTE",
+      "model": "ALCATEL ONE TOUCH 6034M"
+    },
+    {
+      "market_name": "Idol S",
+      "codename": "Diablo_LTE",
+      "model": "ALCATEL ONE TOUCH 6034R"
+    },
+    {
+      "market_name": "Idol S",
+      "codename": "Diablo_LTE",
+      "model": "ALCATEL ONE TOUCH 6034Y"
+    },
+    {
+      "market_name": "Idol S",
+      "codename": "Diablo_LTE",
+      "model": "San Remo 4G"
+    },
+    {
+      "market_name": "Idol S",
+      "codename": "Diablo_LTE",
+      "model": "TCL-S850L"
+    },
+    {
+      "market_name": "Idol X",
+      "codename": "DiabloHD_LTE",
+      "model": "ALCATEL ONE TOUCH 6035R"
+    },
+    {
+      "market_name": "Idol2 MINI S",
+      "codename": "MIATA_lte",
+      "model": "6036A"
+    },
+    {
+      "market_name": "Idol2 MINI S",
+      "codename": "MIATA_lte",
+      "model": "6036X"
+    },
+    {
+      "market_name": "Idol2 MINI S",
+      "codename": "MIATA_lte",
+      "model": "6036Y"
+    },
+    {
+      "market_name": "Juke-A554C",
+      "codename": "A554C",
+      "model": "A554C"
+    },
+    {
+      "market_name": "M812C",
+      "codename": "M812",
+      "model": "M812C"
+    },
+    {
+      "market_name": "MTC 960",
+      "codename": "MTC_960_gsm",
+      "model": "MTC 960"
+    },
+    {
+      "market_name": "MTC 970",
+      "codename": "Beetle_GSM",
+      "model": "MTC 970"
+    },
+    {
+      "market_name": "MTC975",
+      "codename": "Camry_GSM",
+      "model": "MTC975"
+    },
+    {
+      "market_name": "MegaFon_SP-A10",
+      "codename": "one_touch_995_gsm",
+      "model": "MegaFon_SP-A10"
+    },
+    {
+      "market_name": "Megafon Login",
+      "codename": "OT-930",
+      "model": "MegaFon_SP-AI"
+    },
+    {
+      "market_name": "Moov2",
+      "codename": "move_2_gsm",
+      "model": "move 2"
+    },
+    {
+      "market_name": "ONE TOUCH 4007X",
+      "codename": "Pixo_GSM",
+      "model": "ONE TOUCH 4007A"
+    },
+    {
+      "market_name": "ONE TOUCH 4007X",
+      "codename": "Pixo_GSM",
+      "model": "ONE TOUCH 4007D"
+    },
+    {
+      "market_name": "ONE TOUCH 4007X",
+      "codename": "Pixo_GSM",
+      "model": "ONE TOUCH 4007E"
+    },
+    {
+      "market_name": "ONE TOUCH 4007X",
+      "codename": "Pixo_GSM",
+      "model": "ONE TOUCH 4007X"
+    },
+    {
+      "market_name": "ONE TOUCH 4011X",
+      "codename": "BeetleliteJB",
+      "model": "ONE TOUCH 4011X"
+    },
+    {
+      "market_name": "ONE TOUCH 4015X",
+      "codename": "Yaris35_GSM",
+      "model": "4016D"
+    },
+    {
+      "market_name": "ONE TOUCH 4015X",
+      "codename": "Yaris35_GSM",
+      "model": "ONE TOUCH 4015A"
+    },
+    {
+      "market_name": "ONE TOUCH 4015X",
+      "codename": "Yaris35_GSM",
+      "model": "ONE TOUCH 4015D"
+    },
+    {
+      "market_name": "ONE TOUCH 4015X",
+      "codename": "Yaris35_GSM",
+      "model": "ONE TOUCH 4015N"
+    },
+    {
+      "market_name": "ONE TOUCH 4015X",
+      "codename": "Yaris35_GSM",
+      "model": "ONE TOUCH 4015X"
+    },
+    {
+      "market_name": "ONE TOUCH 4015X",
+      "codename": "Yaris35_GSM",
+      "model": "ONE TOUCH 4015X-orange"
+    },
+    {
+      "market_name": "ONE TOUCH 4015X",
+      "codename": "Yaris35_GSM",
+      "model": "ONE TOUCH 4016A"
+    },
+    {
+      "market_name": "ONE TOUCH 4015X",
+      "codename": "Yaris35_GSM",
+      "model": "Orange Yomi"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "4032A"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "4032D"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "4032E"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "4032X"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "4033L"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "MS3B"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "ONE TOUCH 4032A"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "ONE TOUCH 4033A"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "ONE TOUCH 4033D"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "ONE TOUCH 4033E"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "ONE TOUCH 4033X"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "OWN S3010"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "OWN S3010D"
+    },
+    {
+      "market_name": "ONE TOUCH 4033X",
+      "codename": "Yaris_M_GSM",
+      "model": "TCLJ330"
+    },
+    {
+      "market_name": "ONE TOUCH 6012A",
+      "codename": "California_GSM",
+      "model": "ONE TOUCH 6012A"
+    },
+    {
+      "market_name": "ONE TOUCH 6012D",
+      "codename": "California",
+      "model": "ALCATEL ONE TOUCH 6012D"
+    },
+    {
+      "market_name": "ONE TOUCH 6012D",
+      "codename": "California",
+      "model": "ALCATEL ONE TOUCH 6012X"
+    },
+    {
+      "market_name": "ONE TOUCH 6012D",
+      "codename": "California",
+      "model": "Mobile Sosh"
+    },
+    {
+      "market_name": "ONE TOUCH 6012D",
+      "codename": "California",
+      "model": "ONE TOUCH 6012A"
+    },
+    {
+      "market_name": "ONE TOUCH 6012D",
+      "codename": "California",
+      "model": "ONE TOUCH 6012D"
+    },
+    {
+      "market_name": "ONE TOUCH 6012D",
+      "codename": "California",
+      "model": "ONE TOUCH 6012E"
+    },
+    {
+      "market_name": "ONE TOUCH 6012D",
+      "codename": "California",
+      "model": "ONE TOUCH 6012X"
+    },
+    {
+      "market_name": "ONE TOUCH 6012D",
+      "codename": "California",
+      "model": "ONE TOUCH IDOL MINI"
+    },
+    {
+      "market_name": "ONE TOUCH 6012D",
+      "codename": "California",
+      "model": "Orange Covo"
+    },
+    {
+      "market_name": "ONE TOUCH 6012D",
+      "codename": "California",
+      "model": "Orange Hiro"
+    },
+    {
+      "market_name": "ONE TOUCH 6012X",
+      "codename": "California",
+      "model": "ONE TOUCH 6012X"
+    },
+    {
+      "market_name": "ONE TOUCH 8020D",
+      "codename": "SCRIBEPRO",
+      "model": "ONE TOUCH 8020D"
+    },
+    {
+      "market_name": "ONE TOUCH 983",
+      "codename": "ONE_TOUCH_983_gsm",
+      "model": "ALCATEL_one_touch_983"
+    },
+    {
+      "market_name": "ONE TOUCH 983",
+      "codename": "ONE_TOUCH_983_gsm",
+      "model": "ONE TOUCH 983"
+    },
+    {
+      "market_name": "ONE TOUCH 983",
+      "codename": "ONE_TOUCH_983_gsm",
+      "model": "VALENCIA"
+    },
+    {
+      "market_name": "ONE TOUCH 983",
+      "codename": "one_touch_983_gsm",
+      "model": "ALCATEL_one_touch_983"
+    },
+    {
+      "market_name": "ONE TOUCH C505C",
+      "codename": "ONE_TOUCH_C505C_cdma",
+      "model": "ONE TOUCH C505C"
+    },
+    {
+      "market_name": "ONE TOUCH EVO7HD",
+      "codename": "E710",
+      "model": "MTC 1078"
+    },
+    {
+      "market_name": "ONE TOUCH EVO7HD",
+      "codename": "E710",
+      "model": "ONE TOUCH E710"
+    },
+    {
+      "market_name": "ONE TOUCH EVO7HD",
+      "codename": "E710",
+      "model": "ONE TOUCH EVO7HD"
+    },
+    {
+      "market_name": "ONE TOUCH EVO8HD",
+      "codename": "E720",
+      "model": "ONE TOUCH EVO7HD"
+    },
+    {
+      "market_name": "ONE TOUCH EVO8HD",
+      "codename": "E720",
+      "model": "ONE TOUCH EVO8HD"
+    },
+    {
+      "market_name": "ONE TOUCH SCRIBE 5",
+      "codename": "Scribe5_gsm",
+      "model": "ALCATEL ONE TOUCH 8000A"
+    },
+    {
+      "market_name": "ONE TOUCH SCRIBE 5",
+      "codename": "Scribe5_gsm",
+      "model": "ALCATEL ONE TOUCH 8000D"
+    },
+    {
+      "market_name": "ONE TOUCH SCRIBE 5",
+      "codename": "Scribe5_gsm",
+      "model": "TCL Y710"
+    },
+    {
+      "market_name": "ONE TOUCH T10",
+      "codename": "GR-TB7",
+      "model": "GR-TB7"
+    },
+    {
+      "market_name": "ONE TOUCH TAB 7",
+      "codename": "T011",
+      "model": "ONE TOUCH TAB 7"
+    },
+    {
+      "market_name": "ONE TOUCH TAB 7",
+      "codename": "T011",
+      "model": "TCL TAB 7"
+    },
+    {
+      "market_name": "ONE TOUCH TAB 7HD",
+      "codename": "T016",
+      "model": "ONE TOUCH TAB 7HD"
+    },
+    {
+      "market_name": "ONE TOUCH TAB 8HD",
+      "codename": "T021",
+      "model": "ONE TOUCH TAB 8HD"
+    },
+    {
+      "market_name": "ONE TOUCH Ultra 960c",
+      "codename": "Alltel",
+      "model": "ONE_TOUCH_960C"
+    },
+    {
+      "market_name": "ONE TOUCH Ultra 960c",
+      "codename": "ONE_TOUCH_960C",
+      "model": "ADR3010"
+    },
+    {
+      "market_name": "ONE TOUCH Ultra 960c",
+      "codename": "ONE_TOUCH_960C",
+      "model": "ONE TOUCH 960C"
+    },
+    {
+      "market_name": "ONE TOUCH Ultra 960c",
+      "codename": "RadioShack",
+      "model": "ADR3010"
+    },
+    {
+      "market_name": "ONE TOUCH Ultra 960c",
+      "codename": "nTelos",
+      "model": "ONE_TOUCH_960C"
+    },
+    {
+      "market_name": "ONE TOUCH Ultra 960c",
+      "codename": "vulcan",
+      "model": "ONE_TOUCH_960C"
+    },
+    {
+      "market_name": "ONE_TOUCH_P310A",
+      "codename": "POP7",
+      "model": "ONE TOUCH P310A"
+    },
+    {
+      "market_name": "ONE_TOUCH_P310X",
+      "codename": "POP7",
+      "model": "ALCATEL ONE TOUCH P310X"
+    },
+    {
+      "market_name": "OT-990C",
+      "codename": "OT-990C_cdma",
+      "model": "OT-990C"
+    },
+    {
+      "market_name": "OWN S4010",
+      "codename": "Telsa",
+      "model": "OWN S4010"
+    },
+    {
+      "market_name": "OWN S5010",
+      "codename": "DiabloHD",
+      "model": "OWN S5010"
+    },
+    {
+      "market_name": "OWN_S4025",
+      "codename": "YARIS_55",
+      "model": "OWN_S4025"
+    },
+    {
+      "market_name": "One Touch 890D",
+      "codename": "one_touch_890D_gsm",
+      "model": "ALCATEL one touch 890D"
+    },
+    {
+      "market_name": "One Touch 906",
+      "codename": "one_touch_906_gsm",
+      "model": "ALCATEL_one_touch_906Y"
+    },
+    {
+      "market_name": "One Touch 908",
+      "codename": "one_touch_908_gsm",
+      "model": "ALCATEL ONE TOUCH 908"
+    },
+    {
+      "market_name": "One Touch 908",
+      "codename": "one_touch_908_gsm",
+      "model": "ALCATEL_one_touch_908"
+    },
+    {
+      "market_name": "One Touch 908",
+      "codename": "one_touch_908_gsm",
+      "model": "Alcatel_one_touch_908F_Orange"
+    },
+    {
+      "market_name": "One Touch 990",
+      "codename": "one_touch_990_gsm",
+      "model": "ALCATEL ONE TOUCH 990"
+    },
+    {
+      "market_name": "One Touch 990",
+      "codename": "one_touch_990_gsm",
+      "model": "ALCATEL one touch 990"
+    },
+    {
+      "market_name": "One Touch 990",
+      "codename": "one_touch_990_gsm",
+      "model": "ALCATEL_one_touch_990"
+    },
+    {
+      "market_name": "One Touch 990",
+      "codename": "one_touch_990_gsm",
+      "model": "Alcatel one touch 908F Orange"
+    },
+    {
+      "market_name": "One Touch 990",
+      "codename": "one_touch_990_gsm",
+      "model": "Alcatel one touch 990 Orange"
+    },
+    {
+      "market_name": "One Touch 990",
+      "codename": "one_touch_990_gsm",
+      "model": "Los Angeles"
+    },
+    {
+      "market_name": "One Touch 990",
+      "codename": "one_touch_990_gsm",
+      "model": "TCL A990"
+    },
+    {
+      "market_name": "One Touch 990",
+      "codename": "one_touch_990_gsm",
+      "model": "TCL ONE TOUCH 990"
+    },
+    {
+      "market_name": "One Touch 990",
+      "codename": "one_touch_990_gsm",
+      "model": "Telenor_OneTouch"
+    },
+    {
+      "market_name": "One Touch 990",
+      "codename": "one_touch_990_gsm",
+      "model": "Vodafone 958"
+    },
+    {
+      "market_name": "One Touch 990A",
+      "codename": "one_touch_990A_gsm",
+      "model": "ALCATEL_one_touch_990A"
+    },
+    {
+      "market_name": "One Touch 990S",
+      "codename": "one_touch_990S_gsm",
+      "model": "ALCATEL_one_touch_990S"
+    },
+    {
+      "market_name": "One Touch 990S",
+      "codename": "one_touch_990S_gsm",
+      "model": "Alcatel one touch 990S"
+    },
+    {
+      "market_name": "Orange_Sego",
+      "codename": "Orange_Sego",
+      "model": "Orange Sego"
+    },
+    {
+      "market_name": "P330X",
+      "codename": "Pop7_LTE",
+      "model": "P330X"
+    },
+    {
+      "market_name": "P330X_orange",
+      "codename": "Pop7_LTE",
+      "model": "P330X_orange"
+    },
+    {
+      "market_name": "P350X",
+      "codename": "POP8_LTE",
+      "model": "P350X"
+    },
+    {
+      "market_name": "P360X",
+      "codename": "POP10",
+      "model": "P360X"
+    },
+    {
+      "market_name": "P688L",
+      "codename": "Rio5C",
+      "model": "TCL-P688L"
+    },
+    {
+      "market_name": "P688L",
+      "codename": "Rio5C",
+      "model": "TOM007"
+    },
+    {
+      "market_name": "PIXI3(3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009A"
+    },
+    {
+      "market_name": "PIXI3(3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009D"
+    },
+    {
+      "market_name": "PIXI3(3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009E"
+    },
+    {
+      "market_name": "PIXI3(3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009F"
+    },
+    {
+      "market_name": "PIXI3(3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009S"
+    },
+    {
+      "market_name": "PIXI3(3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009X"
+    },
+    {
+      "market_name": "PIXI3(4)",
+      "codename": "Pixi3-4",
+      "model": "4003A"
+    },
+    {
+      "market_name": "PIXI3(4)",
+      "codename": "Pixi3-4",
+      "model": "4003J"
+    },
+    {
+      "market_name": "PIXI3(4)",
+      "codename": "Pixi3-4",
+      "model": "4013D"
+    },
+    {
+      "market_name": "PIXI3(4)",
+      "codename": "Pixi3-4",
+      "model": "4013E"
+    },
+    {
+      "market_name": "PIXI3(4)",
+      "codename": "Pixi3-4",
+      "model": "4013J"
+    },
+    {
+      "market_name": "PIXI3(4)",
+      "codename": "Pixi3-4",
+      "model": "4013K"
+    },
+    {
+      "market_name": "PIXI3(4)",
+      "codename": "Pixi3-4",
+      "model": "4013X"
+    },
+    {
+      "market_name": "PIXI3(4)",
+      "codename": "Pixi3-4",
+      "model": "4014E"
+    },
+    {
+      "market_name": "PIXI3(4)",
+      "codename": "Pixi3-4",
+      "model": "ONE_TOUCH_PIXI3D"
+    },
+    {
+      "market_name": "PIXI3(4.5)",
+      "codename": "Pixi3-45",
+      "model": "4027A"
+    },
+    {
+      "market_name": "PIXI3(4.5)",
+      "codename": "Pixi3-45",
+      "model": "4027D"
+    },
+    {
+      "market_name": "PIXI3(4.5)",
+      "codename": "Pixi3-45",
+      "model": "4027N"
+    },
+    {
+      "market_name": "PIXI3(4.5)",
+      "codename": "Pixi3-45",
+      "model": "4027X"
+    },
+    {
+      "market_name": "PIXI3(4.5)",
+      "codename": "Pixi3-45",
+      "model": "4028A"
+    },
+    {
+      "market_name": "PIXI3(4.5)",
+      "codename": "Pixi3-45",
+      "model": "4028E"
+    },
+    {
+      "market_name": "POP 2",
+      "codename": "Alto45",
+      "model": "5042A"
+    },
+    {
+      "market_name": "POP 2",
+      "codename": "Alto45",
+      "model": "5042D"
+    },
+    {
+      "market_name": "POP 2",
+      "codename": "Alto45",
+      "model": "5042X"
+    },
+    {
+      "market_name": "POP 2 (5)",
+      "codename": "alto5",
+      "model": "7043A"
+    },
+    {
+      "market_name": "POP 2 (5)",
+      "codename": "alto5",
+      "model": "7043K"
+    },
+    {
+      "market_name": "POP 2 (5)",
+      "codename": "alto5",
+      "model": "7043Y"
+    },
+    {
+      "market_name": "POP 2 (5)",
+      "codename": "alto5_premium",
+      "model": "7044X"
+    },
+    {
+      "market_name": "POP S3",
+      "codename": "RIO4G_TF",
+      "model": "ALCATEL A845L"
+    },
+    {
+      "market_name": "POP S3",
+      "codename": "RIO_4G",
+      "model": "5050A"
+    },
+    {
+      "market_name": "POP S3",
+      "codename": "RIO_4G",
+      "model": "5050S"
+    },
+    {
+      "market_name": "POP S3",
+      "codename": "RIO_4G",
+      "model": "5050X"
+    },
+    {
+      "market_name": "POP S3",
+      "codename": "RIO_4G",
+      "model": "5050Y"
+    },
+    {
+      "market_name": "POP S3",
+      "codename": "RIO_4G",
+      "model": "ALCATEL ONETOUCH 5050X"
+    },
+    {
+      "market_name": "POP S3",
+      "codename": "RIO_4G",
+      "model": "Siru"
+    },
+    {
+      "market_name": "POP S9",
+      "codename": "RIO6_lte",
+      "model": "7050Y"
+    },
+    {
+      "market_name": "POP S9",
+      "codename": "RIO6_lte",
+      "model": "ALCATEL A995L"
+    },
+    {
+      "market_name": "POP S9",
+      "codename": "RIO6_lte",
+      "model": "STARXTREM II"
+    },
+    {
+      "market_name": "POP S9",
+      "codename": "RIO6_lte",
+      "model": "Smartphone Android by SFR STARXTREM II"
+    },
+    {
+      "market_name": "POP2 (4)",
+      "codename": "alto4",
+      "model": "4045A"
+    },
+    {
+      "market_name": "POP2 (4)",
+      "codename": "alto4_8g",
+      "model": "4045D"
+    },
+    {
+      "market_name": "POP2 (4)",
+      "codename": "alto4_8g",
+      "model": "4045X"
+    },
+    {
+      "market_name": "POP2 (4.5)",
+      "codename": "alto45_latam_b28",
+      "model": "5042W"
+    },
+    {
+      "market_name": "PandA_m14",
+      "codename": "YARIS_55",
+      "model": "PandA_m14"
+    },
+    {
+      "market_name": "Pixi3-3.5 TF",
+      "codename": "Pixi3-35TF",
+      "model": "A463BG"
+    },
+    {
+      "market_name": "Pixi3-4 TF",
+      "codename": "PIXI3_4TF",
+      "model": "A460G"
+    },
+    {
+      "market_name": "Pixo 7",
+      "codename": "PIXO7",
+      "model": "I211"
+    },
+    {
+      "market_name": "Pixo 7",
+      "codename": "PIXO7",
+      "model": "I212"
+    },
+    {
+      "market_name": "Pixo 7",
+      "codename": "PIXO7",
+      "model": "I213"
+    },
+    {
+      "market_name": "SMART 4G 5.5 Enterprise",
+      "codename": "M812",
+      "model": "SMART 4G 5.5 Enterprise"
+    },
+    {
+      "market_name": "SOUL 4.5",
+      "codename": "SOUL45_GSM",
+      "model": "5038X"
+    },
+    {
+      "market_name": "Smartphone Android by SFR STARADDICT II",
+      "codename": "one_touch_996_gsm",
+      "model": "Smartphone Android by SFR STARADDICT II"
+    },
+    {
+      "market_name": "Smartphone Android by SFR STARADDICT II",
+      "codename": "one_touch_996_gsm",
+      "model": "Smartphone_Android_by_SFR_STARADDICT_I I"
+    },
+    {
+      "market_name": "Soul 3.5",
+      "codename": "SOUL35",
+      "model": "4018A"
+    },
+    {
+      "market_name": "Soul 3.5",
+      "codename": "SOUL35",
+      "model": "4018D"
+    },
+    {
+      "market_name": "Soul 3.5",
+      "codename": "SOUL35",
+      "model": "4018E"
+    },
+    {
+      "market_name": "Soul 3.5",
+      "codename": "SOUL35",
+      "model": "4018F"
+    },
+    {
+      "market_name": "Soul 3.5",
+      "codename": "SOUL35",
+      "model": "4018M"
+    },
+    {
+      "market_name": "Soul 3.5",
+      "codename": "SOUL35",
+      "model": "4018X"
+    },
+    {
+      "market_name": "Soul 3.5",
+      "codename": "SOUL35",
+      "model": "T4018"
+    },
+    {
+      "market_name": "Soul 4",
+      "codename": "SOUL4",
+      "model": "4035A"
+    },
+    {
+      "market_name": "Soul 4",
+      "codename": "SOUL4",
+      "model": "4035D"
+    },
+    {
+      "market_name": "Soul 4",
+      "codename": "SOUL4",
+      "model": "4035X"
+    },
+    {
+      "market_name": "Soul 4",
+      "codename": "SOUL4",
+      "model": "4035X_Orange"
+    },
+    {
+      "market_name": "Soul 4",
+      "codename": "SOUL4",
+      "model": "4035Y"
+    },
+    {
+      "market_name": "Soul 4",
+      "codename": "SOUL4",
+      "model": "4036E"
+    },
+    {
+      "market_name": "Soul 4.5",
+      "codename": "SOUL45_GSM",
+      "model": "5038A"
+    },
+    {
+      "market_name": "Soul 4.5",
+      "codename": "SOUL45_GSM",
+      "model": "5038E"
+    },
+    {
+      "market_name": "Soul 4.5",
+      "codename": "SOUL45_GSM",
+      "model": "D45"
+    },
+    {
+      "market_name": "T10",
+      "codename": "T10",
+      "model": "one touch T10"
+    },
+    {
+      "market_name": "T70",
+      "codename": "PIXO7",
+      "model": "T70"
+    },
+    {
+      "market_name": "TAB 7 DUAL CORE",
+      "codename": "T015",
+      "model": "TAB 7 DUAL CORE"
+    },
+    {
+      "market_name": "TAB 7 DUAL CORE",
+      "codename": "T017",
+      "model": "TAB 7 DUAL CORE"
+    },
+    {
+      "market_name": "TCL 736L",
+      "codename": "Rio5C",
+      "model": "TCL-J736L"
+    },
+    {
+      "market_name": "TCL 738M",
+      "codename": "Rio5C",
+      "model": "TCL J738M"
+    },
+    {
+      "market_name": "TCL A506",
+      "codename": "TCL_A506",
+      "model": "TCL A506"
+    },
+    {
+      "market_name": "TCL A865",
+      "codename": "TCL_A865",
+      "model": "TCL A865"
+    },
+    {
+      "market_name": "TCL A988",
+      "codename": "one_touch_993D_gsm",
+      "model": "ALCATEL ONE TOUCH 993D"
+    },
+    {
+      "market_name": "TCL A988",
+      "codename": "one_touch_993_gsm",
+      "model": "ALCATEL ONE TOUCH 993"
+    },
+    {
+      "market_name": "TCL A988",
+      "codename": "one_touch_993_gsm",
+      "model": "MTC_968"
+    },
+    {
+      "market_name": "TCL C995",
+      "codename": "TCL_C995_cdma",
+      "model": "TCL C995"
+    },
+    {
+      "market_name": "TCL D35",
+      "codename": "SOUL35",
+      "model": "TCL D35"
+    },
+    {
+      "market_name": "TCL D40 DUAL",
+      "codename": "D40",
+      "model": "TCL D40 DUAL"
+    },
+    {
+      "market_name": "TCL D55",
+      "codename": "YARIS_55",
+      "model": "TCL D55"
+    },
+    {
+      "market_name": "TCL D662",
+      "codename": "TCL_D662_cdma",
+      "model": "TCL D662"
+    },
+    {
+      "market_name": "TCL D706",
+      "codename": "EG502",
+      "model": "TCL D706"
+    },
+    {
+      "market_name": "TCL D768",
+      "codename": "EG501",
+      "model": "TCL D768"
+    },
+    {
+      "market_name": "TCL D920",
+      "codename": "TCL_D920",
+      "model": "TCL D920"
+    },
+    {
+      "market_name": "TCL D920",
+      "codename": "TCL_D920",
+      "model": "TCL-D920"
+    },
+    {
+      "market_name": "TCL DL750",
+      "codename": "SOUL4",
+      "model": "DL750"
+    },
+    {
+      "market_name": "TCL H900M",
+      "codename": "HERO2",
+      "model": "TCL H900M"
+    },
+    {
+      "market_name": "TCL J210C",
+      "codename": "TCL_J210C_cdma",
+      "model": "TCL J210C"
+    },
+    {
+      "market_name": "TCL J210C",
+      "codename": "TCL_J210C_cdma",
+      "model": "TCL-J210C"
+    },
+    {
+      "market_name": "TCL J300",
+      "codename": "Megane",
+      "model": "ALCATEL ONE TOUCH 5020T"
+    },
+    {
+      "market_name": "TCL J300",
+      "codename": "Megane",
+      "model": "TCL J300"
+    },
+    {
+      "market_name": "TCL J310",
+      "codename": "MeganeB",
+      "model": "TCL J310"
+    },
+    {
+      "market_name": "TCL J320",
+      "codename": "Iris",
+      "model": "TCL J320"
+    },
+    {
+      "market_name": "TCL J320C",
+      "codename": "Daniel_lite",
+      "model": "TCL J320C"
+    },
+    {
+      "market_name": "TCL J320T",
+      "codename": "IrisTD",
+      "model": "TCL J320T"
+    },
+    {
+      "market_name": "TCL J600T",
+      "codename": "Iris2TD",
+      "model": "TCL J600T"
+    },
+    {
+      "market_name": "TCL J620",
+      "codename": "md501",
+      "model": "TCL J620"
+    },
+    {
+      "market_name": "TCL J630",
+      "codename": "Iris2PlusUMTS",
+      "model": "J630"
+    },
+    {
+      "market_name": "TCL J630T",
+      "codename": "Iris2PlusTD",
+      "model": "TCL J630T"
+    },
+    {
+      "market_name": "TCL J720",
+      "codename": "YARISXL",
+      "model": "TCL J720"
+    },
+    {
+      "market_name": "TCL J726T",
+      "codename": "YARISXL",
+      "model": "TCL J726T"
+    },
+    {
+      "market_name": "TCL J900",
+      "codename": "Camry2",
+      "model": "TCL J900"
+    },
+    {
+      "market_name": "TCL J900T",
+      "codename": "Camry2_TD",
+      "model": "TCL J900T"
+    },
+    {
+      "market_name": "TCL J920",
+      "codename": "YARIS_55",
+      "model": "TCL J920"
+    },
+    {
+      "market_name": "TCL J926T",
+      "codename": "YARIS_55",
+      "model": "TCL J926T"
+    },
+    {
+      "market_name": "TCL J928",
+      "codename": "Prius",
+      "model": "TCL J928"
+    },
+    {
+      "market_name": "TCL J929L",
+      "codename": "Diablo_LTE",
+      "model": "TCL-J929L"
+    },
+    {
+      "market_name": "TCL J938M",
+      "codename": "RIO55_LTE",
+      "model": "TCL J938M"
+    },
+    {
+      "market_name": "TCL M2M",
+      "codename": "CROSS2",
+      "model": "TCL M2M"
+    },
+    {
+      "market_name": "TCL M2U",
+      "codename": "CROSS2",
+      "model": "TCL M2U"
+    },
+    {
+      "market_name": "TCL P301C",
+      "codename": "Cooper_40",
+      "model": "TCL P301C"
+    },
+    {
+      "market_name": "TCL P301M",
+      "codename": "TCL_P301M",
+      "model": "TCL P301M"
+    },
+    {
+      "market_name": "TCL P302C",
+      "codename": "Cooper40",
+      "model": "TCL P302C"
+    },
+    {
+      "market_name": "TCL P316L",
+      "codename": "Festa5_CT",
+      "model": "TCL P316L"
+    },
+    {
+      "market_name": "TCL P331M",
+      "codename": "TCL_P331M",
+      "model": "TCL P331M"
+    },
+    {
+      "market_name": "TCL P332U",
+      "codename": "TCL_P332U",
+      "model": "TCL P332U"
+    },
+    {
+      "market_name": "TCL P360W",
+      "codename": "Focus5_CU",
+      "model": "TCL P360W"
+    },
+    {
+      "market_name": "TCL P500M",
+      "codename": "Festa_L",
+      "model": "TCL P500M"
+    },
+    {
+      "market_name": "TCL P502U",
+      "codename": "Festa5_CU",
+      "model": "TCL P502U"
+    },
+    {
+      "market_name": "TCL P520L",
+      "codename": "Bora5_CT",
+      "model": "TCL P520L"
+    },
+    {
+      "market_name": "TCL P606",
+      "codename": "Rav4_GSM",
+      "model": "TCL P600"
+    },
+    {
+      "market_name": "TCL P606",
+      "codename": "Rav4_GSM",
+      "model": "TCL P606"
+    },
+    {
+      "market_name": "TCL P606",
+      "codename": "Rav4_GSM",
+      "model": "TCL P606T"
+    },
+    {
+      "market_name": "TCL P618L",
+      "codename": "HUMMER5_CT",
+      "model": "TCL P618L"
+    },
+    {
+      "market_name": "TCL P631M",
+      "codename": "Civic_X",
+      "model": "TCL P631M"
+    },
+    {
+      "market_name": "TCL P689L",
+      "codename": "POLO55",
+      "model": "TCL_P689L"
+    },
+    {
+      "market_name": "TCL P728M",
+      "codename": "CROSS_LTE",
+      "model": "TCL P728M"
+    },
+    {
+      "market_name": "TCL S300T",
+      "codename": "TCLS300T",
+      "model": "TCL S300T"
+    },
+    {
+      "market_name": "TCL S500",
+      "codename": "TCL_S500_GSM",
+      "model": "TCL S500"
+    },
+    {
+      "market_name": "TCL S520",
+      "codename": "TCL_S520_GSM",
+      "model": "TCL S520"
+    },
+    {
+      "market_name": "TCL S530T",
+      "codename": "California",
+      "model": "TCL S530T"
+    },
+    {
+      "market_name": "TCL S600",
+      "codename": "TCL_S600_GSM",
+      "model": "TCL S600"
+    },
+    {
+      "market_name": "TCL S700",
+      "codename": "TCLS700",
+      "model": "TCL S700"
+    },
+    {
+      "market_name": "TCL S700T",
+      "codename": "TCLS700T",
+      "model": "TCL S700T"
+    },
+    {
+      "market_name": "TCL S720",
+      "codename": "Cross55",
+      "model": "TCL S720"
+    },
+    {
+      "market_name": "TCL S720T",
+      "codename": "Cross55",
+      "model": "TCL S720T"
+    },
+    {
+      "market_name": "TCL S725T",
+      "codename": "Cross55_TD_Plus",
+      "model": "TCL_S725T"
+    },
+    {
+      "market_name": "TCL S820",
+      "codename": "Diablo",
+      "model": "TCL S820"
+    },
+    {
+      "market_name": "TCL S850",
+      "codename": "DiabloHD",
+      "model": "TCL S850"
+    },
+    {
+      "market_name": "TCL S860",
+      "codename": "Alpha",
+      "model": "TCL S860"
+    },
+    {
+      "market_name": "TCL S900",
+      "codename": "S900",
+      "model": "TCL S900"
+    },
+    {
+      "market_name": "TCL S950",
+      "codename": "DIABLOX",
+      "model": "TCL S950"
+    },
+    {
+      "market_name": "TCL S950T",
+      "codename": "DIABLOX",
+      "model": "TCL S950T"
+    },
+    {
+      "market_name": "TCL S960",
+      "codename": "DIABLOXPLUS",
+      "model": "TCL S960"
+    },
+    {
+      "market_name": "TCL S960T",
+      "codename": "DIABLOXPLUS",
+      "model": "TCL S960T"
+    },
+    {
+      "market_name": "TCL Y900",
+      "codename": "Scribe5HD_GSM",
+      "model": "TCL Y900"
+    },
+    {
+      "market_name": "TCL Y910",
+      "codename": "SCRIBEPRO",
+      "model": "TCL Y910"
+    },
+    {
+      "market_name": "TCL Y910T",
+      "codename": "SCRIBEPRO",
+      "model": "TCL Y910T"
+    },
+    {
+      "market_name": "TCL i708U",
+      "codename": "EOS_MACAN",
+      "model": "TCL i708U"
+    },
+    {
+      "market_name": "TCL i718M",
+      "codename": "EOS2",
+      "model": "TCL i718M"
+    },
+    {
+      "market_name": "TCL i718M",
+      "codename": "EOS_Plus",
+      "model": "TCL i709M"
+    },
+    {
+      "market_name": "TCL-J320D",
+      "codename": "Daniel_lite_2S",
+      "model": "TCL-J320D"
+    },
+    {
+      "market_name": "TCL-J900C",
+      "codename": "TCL_J900C",
+      "model": "TCL-J900C"
+    },
+    {
+      "market_name": "TCL-P306C",
+      "codename": "Ford50",
+      "model": "TCL-P306C"
+    },
+    {
+      "market_name": "TCL_6110A",
+      "codename": "Telsa",
+      "model": "TCL 6110A"
+    },
+    {
+      "market_name": "TCL_6110A",
+      "codename": "Telsa",
+      "model": "TCL_6110A"
+    },
+    {
+      "market_name": "TCL_J636D",
+      "codename": "msm7627a_a5y_j636d",
+      "model": "TCL_J636D"
+    },
+    {
+      "market_name": "TCL_J706T",
+      "codename": "Focus_L",
+      "model": "TCL_J706T"
+    },
+    {
+      "market_name": "TCL_U980",
+      "codename": "TCL_U980",
+      "model": "TCL_U980"
+    },
+    {
+      "market_name": "Telekom_Puls",
+      "codename": "T-Tab",
+      "model": "Telekom Puls"
+    },
+    {
+      "market_name": "Telenor_Smart",
+      "codename": "one_touch_985_gsm",
+      "model": "Telenor_Smart"
+    },
+    {
+      "market_name": "Telenor_Smart_Mini",
+      "codename": "SOUL4",
+      "model": "Telenor Smart Mini"
+    },
+    {
+      "market_name": "VF 860",
+      "codename": "Vodafone_Smart_II_gsm",
+      "model": "Vodafone Smart II"
+    },
+    {
+      "market_name": "VF-1497",
+      "codename": "Vodafone_Tab_Prime",
+      "model": "VF-1497"
+    },
+    {
+      "market_name": "VF685",
+      "codename": "VF685",
+      "model": "VF685"
+    },
+    {
+      "market_name": "VF695",
+      "codename": "VF695",
+      "model": "VF695"
+    },
+    {
+      "market_name": "Vodafone 785",
+      "codename": "Vodafone_785",
+      "model": "MTC 982"
+    },
+    {
+      "market_name": "Vodafone 785",
+      "codename": "Vodafone_785",
+      "model": "Vodafone 785"
+    },
+    {
+      "market_name": "Vodafone 861",
+      "codename": "one_touch_922_gsm",
+      "model": "ALCATEL ONE TOUCH 922"
+    },
+    {
+      "market_name": "Vodafone 861",
+      "codename": "one_touch_922_gsm",
+      "model": "Vodafone 861"
+    },
+    {
+      "market_name": "Vodafone 895",
+      "codename": "VF-895N",
+      "model": "VF-895N"
+    },
+    {
+      "market_name": "Vodafone 985N",
+      "codename": "Vodafone985N",
+      "model": "Vodafone 985N"
+    },
+    {
+      "market_name": "Vodafone Smart III",
+      "codename": "Vodafone_975",
+      "model": "Vodafone 975"
+    },
+    {
+      "market_name": "Vodafone Smart III (with NFC)",
+      "codename": "Vodafone_975N",
+      "model": "Vodafone 975N"
+    },
+    {
+      "market_name": "Vodafone Smart Tab 4",
+      "codename": "Vodafone_Smart_Tab_4",
+      "model": "Vodafone Smart Tab 4"
+    },
+    {
+      "market_name": "Vodafone_Smart_Tab_3G",
+      "codename": "Vodafone_Smart_Tab_3G",
+      "model": "Vodafone Smart Tab 3G"
+    },
+    {
+      "market_name": "Vodafone_Smart_Tab_4G",
+      "codename": "Vodafone_Smart_Tab_4G",
+      "model": "Vodafone Smart Tab 4G"
+    },
+    {
+      "market_name": "X35E",
+      "codename": "X35E",
+      "model": "X35E"
+    },
+    {
+      "market_name": "X50D",
+      "codename": "X50D",
+      "model": "X50D"
+    },
+    {
+      "market_name": "freebit PandA_m14",
+      "codename": "YARIS_55",
+      "model": "freebit PandA_m14"
+    },
+    {
+      "market_name": "one touch 995C+",
+      "codename": "one_touch_995C_cdma",
+      "model": "one touch 995C+"
+    },
+    {
+      "market_name": "one touch D920",
+      "codename": "one_touch_D920",
+      "model": "ALCATEL one touch D920"
+    },
+    {
+      "market_name": "one touch D920",
+      "codename": "one_touch_D920",
+      "model": "one touch D920"
+    },
+    {
+      "market_name": "one_touch_4030_TLVE",
+      "codename": "Beetle_GSM",
+      "model": "ALCATEL_one_touch_4030A"
+    },
+    {
+      "market_name": "one_touch_D920_ALIQ",
+      "codename": "one_touch_D920",
+      "model": "one touch D920"
+    },
+    {
+      "market_name": "onetouch_P689L",
+      "codename": "POLO55",
+      "model": "onetouch_P689L"
+    },
+    {
+      "market_name": "tmn smarta8",
+      "codename": "ONE_TOUCH_991D_gsm",
+      "model": "moche smart a8"
+    },
+    {
+      "market_name": "tmn smarta8",
+      "codename": "ONE_TOUCH_991D_gsm",
+      "model": "tmn smart a8"
+    }
+  ]
+}

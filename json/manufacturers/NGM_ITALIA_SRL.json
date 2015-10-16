@@ -1,0 +1,60 @@
+{
+  "manufacturer": "NGM Italia SRL",
+  "devices": [
+    {
+      "market_name": "Danamic Now",
+      "codename": "DynamicNow",
+      "model": "Now"
+    },
+    {
+      "market_name": "Dynamic Racing 3",
+      "codename": "NGM_Dynamic_Racing_3",
+      "model": "Dynamic Racing 3"
+    },
+    {
+      "market_name": "Endurance",
+      "codename": "ForwardEndurance",
+      "model": "ForwardEndurance"
+    },
+    {
+      "market_name": "ForwardZero",
+      "codename": "ForwardZero",
+      "model": "ForwardZero"
+    },
+    {
+      "market_name": "LIFE",
+      "codename": "Life",
+      "model": "Life"
+    },
+    {
+      "market_name": "M500",
+      "codename": "NGM_M500",
+      "model": "NGM M500"
+    },
+    {
+      "market_name": "M502",
+      "codename": "M502",
+      "model": "M502"
+    },
+    {
+      "market_name": "NGM Youcolor E505",
+      "codename": "E505",
+      "model": "E505"
+    },
+    {
+      "market_name": "P503",
+      "codename": "NGM_P503",
+      "model": "NGM P503"
+    },
+    {
+      "market_name": "Ruby",
+      "codename": "ForwardRuby",
+      "model": "Forward Ruby"
+    },
+    {
+      "market_name": "Ruby",
+      "codename": "ForwardRuby",
+      "model": "ForwardRuby"
+    }
+  ]
+}

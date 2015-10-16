@@ -1,0 +1,70 @@
+{
+  "manufacturer": "Tecno",
+  "devices": [
+    {
+      "market_name": "H5S",
+      "codename": "up09_tecno_h5s",
+      "model": "TECNO H5S"
+    },
+    {
+      "market_name": "M3",
+      "codename": "up11_tecno_m3s",
+      "model": "TECNO M3S"
+    },
+    {
+      "market_name": "PHANTOM-Z-mini",
+      "codename": "PTM-Z-mini",
+      "model": "PTM-Z-mini"
+    },
+    {
+      "market_name": "TECNO-A7S",
+      "codename": "TECNO-A7S",
+      "model": "TECNO-A7S"
+    },
+    {
+      "market_name": "TECNO-J5",
+      "codename": "TECNO-J5",
+      "model": "TECNO-J5"
+    },
+    {
+      "market_name": "TECNO-J7",
+      "codename": "TECNO-J7",
+      "model": "TECNO-J7"
+    },
+    {
+      "market_name": "TECNO-M6S",
+      "codename": "g335_b1",
+      "model": "TECNO-M6S"
+    },
+    {
+      "market_name": "TECNO-Y3",
+      "codename": "TECNO-Y3",
+      "model": "TECNO-Y3"
+    },
+    {
+      "market_name": "TECNO-Y3S",
+      "codename": "TECNO-Y3S",
+      "model": "TECNO-Y3S"
+    },
+    {
+      "market_name": "TECNO-Y4",
+      "codename": "TECNO-Y4",
+      "model": "TECNO-Y4"
+    },
+    {
+      "market_name": "TECNO-Y5",
+      "codename": "TECNO-Y5",
+      "model": "TECNO-Y5"
+    },
+    {
+      "market_name": "TECNO-Y6",
+      "codename": "TECNO-Y6",
+      "model": "TECNO-Y6"
+    },
+    {
+      "market_name": "Techno L6",
+      "codename": "TECNO-L6",
+      "model": "TECNO-L6"
+    }
+  ]
+}

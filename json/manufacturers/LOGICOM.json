@@ -1,0 +1,70 @@
+{
+  "manufacturer": "Logicom",
+  "devices": [
+    {
+      "market_name": "E350",
+      "codename": "E350",
+      "model": "E350"
+    },
+    {
+      "market_name": "E400",
+      "codename": "E400",
+      "model": "E400"
+    },
+    {
+      "market_name": "L-ITE552",
+      "codename": "L-ITE552",
+      "model": "L-ITE 552"
+    },
+    {
+      "market_name": "LEMENT TAB 740",
+      "codename": "LEMENTTAB740",
+      "model": "L-EMENT 740"
+    },
+    {
+      "market_name": "LOGICOM E1052GP",
+      "codename": "E1052GP",
+      "model": "E1052GP"
+    },
+    {
+      "market_name": "LOGICOM E852GP",
+      "codename": "E852GP",
+      "model": "E852GP"
+    },
+    {
+      "market_name": "Logicom S450",
+      "codename": "S450",
+      "model": "S450"
+    },
+    {
+      "market_name": "Logicom S504",
+      "codename": "S504",
+      "model": "Connect 5"
+    },
+    {
+      "market_name": "Logicom S504",
+      "codename": "S504",
+      "model": "S504"
+    },
+    {
+      "market_name": "S1052",
+      "codename": "S1052",
+      "model": "S1052"
+    },
+    {
+      "market_name": "S732",
+      "codename": "rk3026",
+      "model": "S732"
+    },
+    {
+      "market_name": "S7842",
+      "codename": "S7842",
+      "model": "S7842"
+    },
+    {
+      "market_name": "S952",
+      "codename": "S952",
+      "model": "S952"
+    }
+  ]
+}

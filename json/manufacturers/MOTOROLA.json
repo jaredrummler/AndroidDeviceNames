@@ -1,0 +1,1435 @@
+{
+  "manufacturer": "Motorola",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "A853",
+      "model": "Milestone"
+    },
+    {
+      "market_name": "",
+      "codename": "ArgonSpin",
+      "model": "XT550"
+    },
+    {
+      "market_name": "",
+      "codename": "Graham",
+      "model": "MZ505"
+    },
+    {
+      "market_name": "",
+      "codename": "TAHITI",
+      "model": "MT620"
+    },
+    {
+      "market_name": "",
+      "codename": "Triumph",
+      "model": "MOTWX435KT"
+    },
+    {
+      "market_name": "",
+      "codename": "XT311",
+      "model": "XT311"
+    },
+    {
+      "market_name": "",
+      "codename": "XT316",
+      "model": "XT316"
+    },
+    {
+      "market_name": "",
+      "codename": "XT317",
+      "model": "XT317"
+    },
+    {
+      "market_name": "",
+      "codename": "XT319",
+      "model": "XT319"
+    },
+    {
+      "market_name": "",
+      "codename": "XT530",
+      "model": "XT530"
+    },
+    {
+      "market_name": "",
+      "codename": "XT531",
+      "model": "XT531"
+    },
+    {
+      "market_name": "",
+      "codename": "XT532",
+      "model": "XT532"
+    },
+    {
+      "market_name": "",
+      "codename": "argonspin_umts",
+      "model": "XT550"
+    },
+    {
+      "market_name": "",
+      "codename": "cdma_kronos",
+      "model": "MB612"
+    },
+    {
+      "market_name": "",
+      "codename": "cdma_pax",
+      "model": "XT603"
+    },
+    {
+      "market_name": "",
+      "codename": "cdma_solana",
+      "model": "MILESTONE3"
+    },
+    {
+      "market_name": "",
+      "codename": "cdma_spyder",
+      "model": "DROID RAZR"
+    },
+    {
+      "market_name": "",
+      "codename": "cdma_spyder",
+      "model": "IS12M"
+    },
+    {
+      "market_name": "",
+      "codename": "cdma_spyder",
+      "model": "Motorola RAZR MAXX"
+    },
+    {
+      "market_name": "",
+      "codename": "cdma_targa",
+      "model": "DROID BIONIC"
+    },
+    {
+      "market_name": "",
+      "codename": "cg_tita2",
+      "model": "XT800+"
+    },
+    {
+      "market_name": "",
+      "codename": "choi",
+      "model": "XT711"
+    },
+    {
+      "market_name": "",
+      "codename": "choles",
+      "model": "XT701"
+    },
+    {
+      "market_name": "",
+      "codename": "destino",
+      "model": "i867"
+    },
+    {
+      "market_name": "",
+      "codename": "dominoq_umts",
+      "model": "XT316"
+    },
+    {
+      "market_name": "",
+      "codename": "edison",
+      "model": "MB865"
+    },
+    {
+      "market_name": "",
+      "codename": "edison",
+      "model": "ME865"
+    },
+    {
+      "market_name": "",
+      "codename": "fawnridge",
+      "model": "i940"
+    },
+    {
+      "market_name": "",
+      "codename": "fleming",
+      "model": "MZ607"
+    },
+    {
+      "market_name": "",
+      "codename": "fleming",
+      "model": "MZ608"
+    },
+    {
+      "market_name": "",
+      "codename": "fleming",
+      "model": "MZ609"
+    },
+    {
+      "market_name": "",
+      "codename": "fleming",
+      "model": "XOOM 2 ME"
+    },
+    {
+      "market_name": "",
+      "codename": "graham_wifi",
+      "model": "MZ505"
+    },
+    {
+      "market_name": "",
+      "codename": "iDEN",
+      "model": "Motorola_i1"
+    },
+    {
+      "market_name": "",
+      "codename": "morr",
+      "model": "MB200"
+    },
+    {
+      "market_name": "",
+      "codename": "pasteur",
+      "model": "MZ616"
+    },
+    {
+      "market_name": "",
+      "codename": "pasteur",
+      "model": "MZ617"
+    },
+    {
+      "market_name": "",
+      "codename": "pasteur",
+      "model": "XOOM 2"
+    },
+    {
+      "market_name": "",
+      "codename": "qilin",
+      "model": "XT806"
+    },
+    {
+      "market_name": "",
+      "codename": "scorpion_mini_u",
+      "model": "XT905"
+    },
+    {
+      "market_name": "",
+      "codename": "smq_u",
+      "model": "XT905"
+    },
+    {
+      "market_name": "",
+      "codename": "swordfish",
+      "model": "XT882"
+    },
+    {
+      "market_name": "",
+      "codename": "tinq_umts",
+      "model": "XT560"
+    },
+    {
+      "market_name": "",
+      "codename": "ttu_skt",
+      "model": "XT800W"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_begonia",
+      "model": "MB610"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_begonia",
+      "model": "MB611"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_elway",
+      "model": "MB632"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_elway",
+      "model": "ME632"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_hubble",
+      "model": "MZ605"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_kobe",
+      "model": "MB520"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_lucky",
+      "model": "A1680"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_sage",
+      "model": "MB508"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_solana",
+      "model": "ME863"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_solana",
+      "model": "XT860"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_spyder",
+      "model": "XT910"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_spyder",
+      "model": "XT910K"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_spyder",
+      "model": "XT910S"
+    },
+    {
+      "market_name": "",
+      "codename": "umts_venus2",
+      "model": "XT610"
+    },
+    {
+      "market_name": "",
+      "codename": "wifi_hubble",
+      "model": "MZ604"
+    },
+    {
+      "market_name": "",
+      "codename": "zepp",
+      "model": "MB501"
+    },
+    {
+      "market_name": "Atrix",
+      "codename": "olympus",
+      "model": "MB860"
+    },
+    {
+      "market_name": "Atrix",
+      "codename": "olympus",
+      "model": "MB861"
+    },
+    {
+      "market_name": "Atrix",
+      "codename": "olympus",
+      "model": "ME860"
+    },
+    {
+      "market_name": "Atrix HD",
+      "codename": "qinara",
+      "model": "MB886"
+    },
+    {
+      "market_name": "Backflip",
+      "codename": "motus",
+      "model": "MB300"
+    },
+    {
+      "market_name": "Backflip",
+      "codename": "motus",
+      "model": "ME600"
+    },
+    {
+      "market_name": "CLIQ",
+      "codename": "morrison",
+      "model": "MB200"
+    },
+    {
+      "market_name": "CLIQ",
+      "codename": "morrison",
+      "model": "morrison"
+    },
+    {
+      "market_name": "Charm",
+      "codename": "umts_basil",
+      "model": "MB502"
+    },
+    {
+      "market_name": "Citrus",
+      "codename": "cdma_ciena",
+      "model": "WX442"
+    },
+    {
+      "market_name": "Citrus",
+      "codename": "cdma_ciena",
+      "model": "WX445"
+    },
+    {
+      "market_name": "Citrus",
+      "codename": "cdma_ciena",
+      "model": "XT301"
+    },
+    {
+      "market_name": "Cliq-XT",
+      "codename": "zeppelin",
+      "model": "MB501"
+    },
+    {
+      "market_name": "Cliq-XT",
+      "codename": "zeppelin",
+      "model": "ME501"
+    },
+    {
+      "market_name": "DROID RAZR HD",
+      "codename": "vanquish",
+      "model": "DROID RAZR HD"
+    },
+    {
+      "market_name": "DROID RAZR HD",
+      "codename": "vanquish_u",
+      "model": "RAZR HD"
+    },
+    {
+      "market_name": "DROID RAZR HD",
+      "codename": "vanquish_u",
+      "model": "XT925"
+    },
+    {
+      "market_name": "DROID RAZR M",
+      "codename": "scorpion_mini",
+      "model": "XT907"
+    },
+    {
+      "market_name": "DROID RAZR i",
+      "codename": "smi",
+      "model": "XT890"
+    },
+    {
+      "market_name": "DROID Turbo",
+      "codename": "quark",
+      "model": "XT1250"
+    },
+    {
+      "market_name": "DROID Turbo",
+      "codename": "quark",
+      "model": "XT1254"
+    },
+    {
+      "market_name": "DROID4",
+      "codename": "cdma_maserati",
+      "model": "DROID4"
+    },
+    {
+      "market_name": "Defy",
+      "codename": "umts_jordan",
+      "model": "MB525"
+    },
+    {
+      "market_name": "Defy",
+      "codename": "umts_jordan",
+      "model": "MB526"
+    },
+    {
+      "market_name": "Defy",
+      "codename": "umts_jordan",
+      "model": "ME525"
+    },
+    {
+      "market_name": "Defy",
+      "codename": "umts_jordan",
+      "model": "ME525+"
+    },
+    {
+      "market_name": "Defy",
+      "codename": "umts_jordan",
+      "model": "unknown"
+    },
+    {
+      "market_name": "Defy Mini",
+      "codename": "TinBoost",
+      "model": "XT320"
+    },
+    {
+      "market_name": "Defy Mini",
+      "codename": "TinBoost",
+      "model": "XT321"
+    },
+    {
+      "market_name": "Defy Mini",
+      "codename": "tinboost_umts",
+      "model": "XT320"
+    },
+    {
+      "market_name": "Defy Mini",
+      "codename": "tinboost_umts",
+      "model": "XT321"
+    },
+    {
+      "market_name": "Defy Pro",
+      "codename": "XT560",
+      "model": "XT560"
+    },
+    {
+      "market_name": "Devour",
+      "codename": "calgary",
+      "model": "Devour"
+    },
+    {
+      "market_name": "Devour",
+      "codename": "calgary",
+      "model": "calgary"
+    },
+    {
+      "market_name": "Droid",
+      "codename": "miler",
+      "model": "A854"
+    },
+    {
+      "market_name": "Droid",
+      "codename": "sholes",
+      "model": "Droid"
+    },
+    {
+      "market_name": "Droid",
+      "codename": "umts_sholes",
+      "model": "A853"
+    },
+    {
+      "market_name": "Droid",
+      "codename": "umts_sholes",
+      "model": "Milestone"
+    },
+    {
+      "market_name": "Droid",
+      "codename": "umts_sholes",
+      "model": "XT701"
+    },
+    {
+      "market_name": "Droid",
+      "codename": "umts_sholes",
+      "model": "XT702"
+    },
+    {
+      "market_name": "Droid",
+      "codename": "umts_sholes",
+      "model": "XT720"
+    },
+    {
+      "market_name": "Droid",
+      "codename": "umts_sholes",
+      "model": "umts"
+    },
+    {
+      "market_name": "Droid 3",
+      "codename": "cdma_solana",
+      "model": "DROID3"
+    },
+    {
+      "market_name": "Droid 4",
+      "codename": "cdma_maserati",
+      "model": "DROID4"
+    },
+    {
+      "market_name": "Droid Bionic",
+      "codename": "cdma_targa",
+      "model": "DROID BIONIC"
+    },
+    {
+      "market_name": "Droid II",
+      "codename": "cdma_droid2",
+      "model": "A955"
+    },
+    {
+      "market_name": "Droid II",
+      "codename": "cdma_droid2",
+      "model": "DROID2"
+    },
+    {
+      "market_name": "Droid II",
+      "codename": "cdma_droid2we",
+      "model": "DROID2 GLOBAL"
+    },
+    {
+      "market_name": "Droid MAXX",
+      "codename": "obake-maxx",
+      "model": "XT1080"
+    },
+    {
+      "market_name": "Droid Mini",
+      "codename": "obakem",
+      "model": "XT1030"
+    },
+    {
+      "market_name": "Droid Pro",
+      "codename": "cdma_venus2",
+      "model": "DROID PRO"
+    },
+    {
+      "market_name": "Droid Pro",
+      "codename": "cdma_venus2",
+      "model": "DROID Pro"
+    },
+    {
+      "market_name": "Droid Pro",
+      "codename": "cdma_venus2",
+      "model": "Milestone PLUS"
+    },
+    {
+      "market_name": "Droid Pro",
+      "codename": "cdma_venus2",
+      "model": "XT610"
+    },
+    {
+      "market_name": "Droid RAZR",
+      "codename": "umts_spyder",
+      "model": "XT910"
+    },
+    {
+      "market_name": "Droid Razr M",
+      "codename": "scorpion_mini_t",
+      "model": "201M"
+    },
+    {
+      "market_name": "Droid Ultra",
+      "codename": "obake",
+      "model": "XT1080"
+    },
+    {
+      "market_name": "Droid X",
+      "codename": "cdma_shadow",
+      "model": "DROIDX"
+    },
+    {
+      "market_name": "Droid X",
+      "codename": "cdma_shadow",
+      "model": "MB810"
+    },
+    {
+      "market_name": "Droid X",
+      "codename": "cdma_shadow",
+      "model": "ME811"
+    },
+    {
+      "market_name": "Droid X",
+      "codename": "cdma_shadow",
+      "model": "Milestone X"
+    },
+    {
+      "market_name": "Droid X",
+      "codename": "cdma_shadow",
+      "model": "MotoroiX"
+    },
+    {
+      "market_name": "Droid X2",
+      "codename": "daytona",
+      "model": "DROID X2"
+    },
+    {
+      "market_name": "Droid X2",
+      "codename": "daytona",
+      "model": "Milestone X2"
+    },
+    {
+      "market_name": "Electrify M",
+      "codename": "solstice",
+      "model": "XT901"
+    },
+    {
+      "market_name": "Flipout",
+      "codename": "umts_ruth",
+      "model": "MB511"
+    },
+    {
+      "market_name": "Flipout",
+      "codename": "umts_ruth",
+      "model": "ME511"
+    },
+    {
+      "market_name": "Flipout",
+      "codename": "umts_ruth",
+      "model": "MotoMB511"
+    },
+    {
+      "market_name": "Glam XT800",
+      "codename": "titanium",
+      "model": "XT800"
+    },
+    {
+      "market_name": "Iron Rock",
+      "codename": "umts_irock",
+      "model": "XT627"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "condor_cdma",
+      "model": "XT1019"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "condor_cdma",
+      "model": "XT830C"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "condor_umts",
+      "model": "XT1021"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "condor_umts",
+      "model": "XT1023"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "condor_umtsds",
+      "model": "XT1022"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "otus",
+      "model": "MotoE2"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "otus",
+      "model": "XT0000"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "otus_ds",
+      "model": "MotoE2"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "otus_ds",
+      "model": "XT1021"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "surnia_cdma",
+      "model": "XT1526"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "surnia_uds",
+      "model": "MotoE2(4G-LTE)"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "surnia_udstv",
+      "model": "MotoE2(4G-LTE)"
+    },
+    {
+      "market_name": "MOTO E",
+      "codename": "surnia_umts",
+      "model": "MotoE2(4G-LTE)"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "falcon_umts",
+      "model": "XT1002"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "falcon_umts",
+      "model": "XT1003"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "falcon_umts",
+      "model": "XT1032"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "osprey_udstv",
+      "model": "MotoG3"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "peregrine",
+      "model": "XT1039"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "peregrine",
+      "model": "XT1042"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "peregrine",
+      "model": "XT1045"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "thea",
+      "model": "XT1072"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "thea_umtsds",
+      "model": "XT1063"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "thea_umtsds",
+      "model": "XT1078"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "titan_umts",
+      "model": "XT1063"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "titan_umts",
+      "model": "XT1064"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "titan_umtsds",
+      "model": "XT1068"
+    },
+    {
+      "market_name": "MOTO G",
+      "codename": "titan_umtsds",
+      "model": "titan_niibr_ds"
+    },
+    {
+      "market_name": "MOTO G LTE",
+      "codename": "peregrine",
+      "model": "XT1039"
+    },
+    {
+      "market_name": "MOTO G LTE",
+      "codename": "peregrine",
+      "model": "XT1040"
+    },
+    {
+      "market_name": "MOTO G LTE",
+      "codename": "peregrine",
+      "model": "XT1045"
+    },
+    {
+      "market_name": "MOTO G w/4G LTE",
+      "codename": "peregrine",
+      "model": "XT1039"
+    },
+    {
+      "market_name": "MOTO G w/4G LTE",
+      "codename": "peregrine",
+      "model": "XT1040"
+    },
+    {
+      "market_name": "MOTO X",
+      "codename": "ghost",
+      "model": "XT1053"
+    },
+    {
+      "market_name": "MOTO X",
+      "codename": "ghost",
+      "model": "XT1058"
+    },
+    {
+      "market_name": "MOTO X",
+      "codename": "victara",
+      "model": "XT1092"
+    },
+    {
+      "market_name": "MOTO X",
+      "codename": "victara",
+      "model": "XT1093"
+    },
+    {
+      "market_name": "MOTO X",
+      "codename": "victara",
+      "model": "XT1094"
+    },
+    {
+      "market_name": "MOTO X",
+      "codename": "victara",
+      "model": "XT1095"
+    },
+    {
+      "market_name": "MOTO X",
+      "codename": "victara",
+      "model": "XT1096"
+    },
+    {
+      "market_name": "MOTO X",
+      "codename": "victara",
+      "model": "XT1097"
+    },
+    {
+      "market_name": "MOTOROLA ELECTRIFY 2",
+      "codename": "cdma_yangtze",
+      "model": "XT881"
+    },
+    {
+      "market_name": "MOTOROLA RAZR HD",
+      "codename": "vanquish_u",
+      "model": "RAZR HD"
+    },
+    {
+      "market_name": "MOTOROLA RAZR M",
+      "codename": "smq_t",
+      "model": "201M"
+    },
+    {
+      "market_name": "MOTOROLA RAZR i",
+      "codename": "smi",
+      "model": "XT890"
+    },
+    {
+      "market_name": "Master Touch",
+      "codename": "umts_primus",
+      "model": "XT621"
+    },
+    {
+      "market_name": "Milestone2",
+      "codename": "umts_milestone2",
+      "model": "A953"
+    },
+    {
+      "market_name": "Milestone2",
+      "codename": "umts_milestone2",
+      "model": "ME722"
+    },
+    {
+      "market_name": "Milestone2",
+      "codename": "umts_milestone2",
+      "model": "MotoA953"
+    },
+    {
+      "market_name": "Moto 360",
+      "codename": "minnow",
+      "model": "Moto 360"
+    },
+    {
+      "market_name": "Moto 360 (2nd Gen)",
+      "codename": "carp",
+      "model": "Moto 360"
+    },
+    {
+      "market_name": "Moto 360 (2nd Gen)",
+      "codename": "smelt",
+      "model": "Moto 360"
+    },
+    {
+      "market_name": "Moto Defy XT",
+      "codename": "XT535",
+      "model": "XT535"
+    },
+    {
+      "market_name": "Moto Defy XT",
+      "codename": "tinboostplus_cdma",
+      "model": "XT555C"
+    },
+    {
+      "market_name": "Moto Defy XT",
+      "codename": "tinboostplus_cdma",
+      "model": "XT556"
+    },
+    {
+      "market_name": "Moto Defy XT",
+      "codename": "tinboostplus_cdma",
+      "model": "XT557"
+    },
+    {
+      "market_name": "Moto Defy XT",
+      "codename": "tinboostplus_umts",
+      "model": "XT535"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "condor_cdma",
+      "model": "XT1019"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "condor_udstv",
+      "model": "XT1025"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "condor_umts",
+      "model": "XT1021"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "condor_umts",
+      "model": "XT1023"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "condor_umtsds",
+      "model": "XT1022"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "otus",
+      "model": "MotoE2"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "surnia_cdma",
+      "model": "MotoE2(4G-LTE)"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "surnia_cdma",
+      "model": "XT1526"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "surnia_cdma",
+      "model": "XT1528"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "surnia_cdma",
+      "model": "XT1528O"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "surnia_uds",
+      "model": "MotoE2(4G-LTE)"
+    },
+    {
+      "market_name": "Moto E",
+      "codename": "surnia_umts",
+      "model": "MotoE2(4G-LTE)"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "falcon_cdma",
+      "model": "XT1028"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "falcon_cdma",
+      "model": "XT1031"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "falcon_cdma",
+      "model": "XT937C"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "falcon_umts",
+      "model": "XT1008"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "falcon_umts",
+      "model": "XT1032"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "falcon_umts",
+      "model": "XT1034"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "falcon_umts",
+      "model": "XT939G"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "falcon_umtsds",
+      "model": "XT1033"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "osprey_cdma",
+      "model": "MotoG3"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "osprey_u2",
+      "model": "MotoG3"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "osprey_ud2",
+      "model": "MotoG3"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "osprey_uds",
+      "model": "MotoG3"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "osprey_umts",
+      "model": "MotoG3"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "thea_ds",
+      "model": "XT1079"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "titan_udstv",
+      "model": "XT1069"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "titan_udstv",
+      "model": "titan_retbr_dstv"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "titan_umts",
+      "model": "XT1064"
+    },
+    {
+      "market_name": "Moto G",
+      "codename": "titan_umtsds",
+      "model": "XT1068"
+    },
+    {
+      "market_name": "Moto G Google Play edition",
+      "codename": "falcon_umts",
+      "model": "XT1032"
+    },
+    {
+      "market_name": "Moto G w/ 4G LTE",
+      "codename": "peregrine",
+      "model": "XT1045"
+    },
+    {
+      "market_name": "Moto G w/4G LTE",
+      "codename": "peregrine",
+      "model": "XT1040"
+    },
+    {
+      "market_name": "Moto MAXX",
+      "codename": "quark_umts",
+      "model": "XT1225"
+    },
+    {
+      "market_name": "Moto Turbo",
+      "codename": "quark_umts",
+      "model": "XT1225"
+    },
+    {
+      "market_name": "Moto X",
+      "codename": "ghost",
+      "model": "XT1049"
+    },
+    {
+      "market_name": "Moto X",
+      "codename": "ghost",
+      "model": "XT1050"
+    },
+    {
+      "market_name": "Moto X",
+      "codename": "ghost",
+      "model": "XT1052"
+    },
+    {
+      "market_name": "Moto X",
+      "codename": "ghost",
+      "model": "XT1053"
+    },
+    {
+      "market_name": "Moto X",
+      "codename": "ghost",
+      "model": "XT1055"
+    },
+    {
+      "market_name": "Moto X",
+      "codename": "ghost",
+      "model": "XT1056"
+    },
+    {
+      "market_name": "Moto X",
+      "codename": "ghost",
+      "model": "XT1058"
+    },
+    {
+      "market_name": "Moto X",
+      "codename": "ghost",
+      "model": "XT1060"
+    },
+    {
+      "market_name": "Moto X",
+      "codename": "victara",
+      "model": "XT1085"
+    },
+    {
+      "market_name": "Moto X",
+      "codename": "victara",
+      "model": "XT1097"
+    },
+    {
+      "market_name": "Moto X",
+      "codename": "victara",
+      "model": "XT1098"
+    },
+    {
+      "market_name": "Moto X Style",
+      "codename": "clark",
+      "model": "XT1572"
+    },
+    {
+      "market_name": "Moto X Style",
+      "codename": "clark",
+      "model": "XT1575"
+    },
+    {
+      "market_name": "Motoluxe",
+      "codename": "XT611",
+      "model": "XT611"
+    },
+    {
+      "market_name": "Motoluxe",
+      "codename": "XT615",
+      "model": "XT615"
+    },
+    {
+      "market_name": "Motoluxe",
+      "codename": "XT682",
+      "model": "XT682"
+    },
+    {
+      "market_name": "Motoluxe",
+      "codename": "ironmax_umts",
+      "model": "XT615"
+    },
+    {
+      "market_name": "Motoluxe",
+      "codename": "ironmax_umts",
+      "model": "XT685"
+    },
+    {
+      "market_name": "Motoluxe",
+      "codename": "ironmaxct_cdma",
+      "model": "Motorola MOT-XT681"
+    },
+    {
+      "market_name": "Motoluxe",
+      "codename": "ironmaxtv_umts",
+      "model": "XT687"
+    },
+    {
+      "market_name": "Motoluxe",
+      "codename": "umts_irock",
+      "model": "XT626"
+    },
+    {
+      "market_name": "Motoluxe",
+      "codename": "umts_irock",
+      "model": "XT627"
+    },
+    {
+      "market_name": "Motoroi",
+      "codename": "sholest",
+      "model": "Milestone XT720"
+    },
+    {
+      "market_name": "Motoroi",
+      "codename": "sholest",
+      "model": "Motorola XT720"
+    },
+    {
+      "market_name": "Motoroi",
+      "codename": "sholest",
+      "model": "XT720"
+    },
+    {
+      "market_name": "Motorola Atrix HD",
+      "codename": "qinara",
+      "model": "MB886"
+    },
+    {
+      "market_name": "Motorola Master Touch",
+      "codename": "umts_primus",
+      "model": "XT621"
+    },
+    {
+      "market_name": "Motorola Master Touch XT621",
+      "codename": "umts_primus",
+      "model": "XT621"
+    },
+    {
+      "market_name": "Motorola Photon",
+      "codename": "asanti_c",
+      "model": "XT897"
+    },
+    {
+      "market_name": "Motorola Photon",
+      "codename": "asanti_c",
+      "model": "XT897S"
+    },
+    {
+      "market_name": "Motorola RAZR HD",
+      "codename": "vanquish",
+      "model": "DROID RAZR HD"
+    },
+    {
+      "market_name": "Motorola RAZR M",
+      "codename": "smq",
+      "model": "XT907"
+    },
+    {
+      "market_name": "Motorola Razr V",
+      "codename": "umts_yangtze",
+      "model": "XT885"
+    },
+    {
+      "market_name": "Motorola Razr V",
+      "codename": "umts_yangtze",
+      "model": "XT886"
+    },
+    {
+      "market_name": "Motorola XOOM 2",
+      "codename": "fleming",
+      "model": "MZ609"
+    },
+    {
+      "market_name": "Motorola XOOM 2",
+      "codename": "pasteur",
+      "model": "MZ617"
+    },
+    {
+      "market_name": "Motosmart",
+      "codename": "XT389",
+      "model": "XT389"
+    },
+    {
+      "market_name": "Motosmart",
+      "codename": "XT390",
+      "model": "XT390"
+    },
+    {
+      "market_name": "Motosmart",
+      "codename": "argonmini_umts",
+      "model": "XT389"
+    },
+    {
+      "market_name": "Motosmart",
+      "codename": "argonmini_umts",
+      "model": "XT390"
+    },
+    {
+      "market_name": "Motosmart",
+      "codename": "silversmart_umts",
+      "model": "XT303"
+    },
+    {
+      "market_name": "Motosmart",
+      "codename": "silversmart_umts",
+      "model": "XT305"
+    },
+    {
+      "market_name": "Nexus 6",
+      "codename": "shamu",
+      "model": "Nexus 6"
+    },
+    {
+      "market_name": "Opus One",
+      "codename": "rubicon",
+      "model": "Motorola Titanium"
+    },
+    {
+      "market_name": "Opus One",
+      "codename": "rubicon",
+      "model": "Titanium"
+    },
+    {
+      "market_name": "Photon 4G",
+      "codename": "sunfire",
+      "model": "ISW11M"
+    },
+    {
+      "market_name": "Photon 4G",
+      "codename": "sunfire",
+      "model": "MB855"
+    },
+    {
+      "market_name": "Photon 4G",
+      "codename": "sunfire",
+      "model": "Motorola Electrify"
+    },
+    {
+      "market_name": "Quench XT3",
+      "codename": "XT502",
+      "model": "Motorola-XT502"
+    },
+    {
+      "market_name": "RAZR D1",
+      "codename": "hawk35_umts",
+      "model": "XT914"
+    },
+    {
+      "market_name": "RAZR D1",
+      "codename": "hawk35_umts",
+      "model": "XT915"
+    },
+    {
+      "market_name": "RAZR D1",
+      "codename": "hawk35_umts",
+      "model": "XT916"
+    },
+    {
+      "market_name": "RAZR D1",
+      "codename": "hawk35_umts",
+      "model": "XT918"
+    },
+    {
+      "market_name": "RAZR D3",
+      "codename": "hawk40_umts",
+      "model": "XT919"
+    },
+    {
+      "market_name": "RAZR D3",
+      "codename": "hawk40_umts",
+      "model": "XT920"
+    },
+    {
+      "market_name": "Spice",
+      "codename": "sesame",
+      "model": "XT300"
+    },
+    {
+      "market_name": "XOOM",
+      "codename": "stingray",
+      "model": "Xoom"
+    },
+    {
+      "market_name": "XOOM",
+      "codename": "umts_everest",
+      "model": "MZ601"
+    },
+    {
+      "market_name": "XOOM",
+      "codename": "umts_hubble",
+      "model": "MZ601"
+    },
+    {
+      "market_name": "XOOM",
+      "codename": "umts_hubble",
+      "model": "MZ605"
+    },
+    {
+      "market_name": "XOOM",
+      "codename": "wifi_hubble",
+      "model": "MZ604"
+    },
+    {
+      "market_name": "XOOM",
+      "codename": "wifi_hubble",
+      "model": "MZ606"
+    },
+    {
+      "market_name": "XOOM",
+      "codename": "wingray",
+      "model": "Xoom"
+    },
+    {
+      "market_name": "XT605",
+      "codename": "umts_jorian",
+      "model": "XT605"
+    },
+    {
+      "market_name": "XT627",
+      "codename": "umts_irock",
+      "model": "XT627"
+    }
+  ]
+}

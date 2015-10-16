@@ -1,0 +1,225 @@
+{
+  "manufacturer": "Philips",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "Philips_GGC3",
+      "model": "SA3CNT"
+    },
+    {
+      "market_name": "",
+      "codename": "Philips_PI5000",
+      "model": "Philips_PI5000"
+    },
+    {
+      "market_name": "",
+      "codename": "SA2CNTxx",
+      "model": "Philips GoGear Connect"
+    },
+    {
+      "market_name": "4K \u0026 Full HD Slim LED TV powered by\nAndroid\\xe2\\x84\\xa2",
+      "codename": "philips_MT5593FHT_EU",
+      "model": "QM152E"
+    },
+    {
+      "market_name": "4K UHD Razor Slim LED TV powered by\nAndroid\\xe2\\x84\\xa2",
+      "codename": "QV151E",
+      "model": "QV151E"
+    },
+    {
+      "market_name": "HMP8100/93",
+      "codename": "HMP8100_ATV_93",
+      "model": "HMP8100_ATV_93"
+    },
+    {
+      "market_name": "HMP8100/98",
+      "codename": "HMP8100_ATV",
+      "model": "HMP8100_ATV_INT"
+    },
+    {
+      "market_name": "PHP-S221C4AFD",
+      "codename": "MMD_WW",
+      "model": "G3SMNTS22"
+    },
+    {
+      "market_name": "PHP-S231C4AFD",
+      "codename": "G3SMNTS23",
+      "model": "G3SMNTS23"
+    },
+    {
+      "market_name": "PI2000",
+      "codename": "PI2000",
+      "model": "PI2000"
+    },
+    {
+      "market_name": "PI2010",
+      "codename": "PI2010",
+      "model": "PI2010"
+    },
+    {
+      "market_name": "PI2011",
+      "codename": "PI2011",
+      "model": "PI2011"
+    },
+    {
+      "market_name": "PI3100/51",
+      "codename": "PI3100_51",
+      "model": "PI3100"
+    },
+    {
+      "market_name": "PI3100/58",
+      "codename": "PI3100_58",
+      "model": "PI3100"
+    },
+    {
+      "market_name": "PI3100/93",
+      "codename": "PI3100_93",
+      "model": "PI3100-93"
+    },
+    {
+      "market_name": "PI3100/98",
+      "codename": "PI3100_98",
+      "model": "PI3100"
+    },
+    {
+      "market_name": "PI3100Z3/93",
+      "codename": "PI3100Z3_93",
+      "model": "PI3100Z3_93"
+    },
+    {
+      "market_name": "PI3105",
+      "codename": "PI3105",
+      "model": "PI3105"
+    },
+    {
+      "market_name": "PI3106",
+      "codename": "PI3106",
+      "model": "PI3106"
+    },
+    {
+      "market_name": "PI3110",
+      "codename": "PI3110",
+      "model": "PI3110"
+    },
+    {
+      "market_name": "PI3205G",
+      "codename": "PI3205G_93",
+      "model": "PI3205G"
+    },
+    {
+      "market_name": "PI3210G",
+      "codename": "PI3210G",
+      "model": "PI3210G"
+    },
+    {
+      "market_name": "PI3900",
+      "codename": "T7p_Duo_93",
+      "model": "PI3900-93"
+    },
+    {
+      "market_name": "PI3900/51",
+      "codename": "PI3900_51",
+      "model": "PI3900"
+    },
+    {
+      "market_name": "PI3900/58",
+      "codename": "PI3900_58",
+      "model": "PI3900"
+    },
+    {
+      "market_name": "PI3900/98",
+      "codename": "PI3900_98",
+      "model": "PI3900"
+    },
+    {
+      "market_name": "PI3910",
+      "codename": "PI3910",
+      "model": "PI3910"
+    },
+    {
+      "market_name": "PI4010G",
+      "codename": "PI4010G",
+      "model": "PI4010G"
+    },
+    {
+      "market_name": "PI7100/93",
+      "codename": "PI7100_93",
+      "model": "PI7100_93"
+    },
+    {
+      "market_name": "Philips Android 2014",
+      "codename": "philipstv",
+      "model": "AND1E"
+    },
+    {
+      "market_name": "Philips S308",
+      "codename": "Philips_S308",
+      "model": "Philips S308"
+    },
+    {
+      "market_name": "Philips V387",
+      "codename": "V387",
+      "model": "Philips V387"
+    },
+    {
+      "market_name": "Philips W8510",
+      "codename": "Topaz",
+      "model": "Philips W8510"
+    },
+    {
+      "market_name": "Philips_W3500",
+      "codename": "Philips_W3500",
+      "model": "Philips_W3500"
+    },
+    {
+      "market_name": "Philps S398",
+      "codename": "Philips_S398",
+      "model": "Philips S398"
+    },
+    {
+      "market_name": "S221C3A",
+      "codename": "MMD_WW",
+      "model": "G2SMNT"
+    },
+    {
+      "market_name": "T8 PI7000",
+      "codename": "Tablet_8",
+      "model": "PI7000"
+    },
+    {
+      "market_name": "W337",
+      "codename": "W337",
+      "model": "W337"
+    },
+    {
+      "market_name": "W3568",
+      "codename": "Philips_W3568",
+      "model": "Philips W3568"
+    },
+    {
+      "market_name": "W3620",
+      "codename": "W3620",
+      "model": "W3620"
+    },
+    {
+      "market_name": "W6500",
+      "codename": "Philips_W6500_A",
+      "model": "W6500"
+    },
+    {
+      "market_name": "W6610",
+      "codename": "Marathon",
+      "model": "Philips W6610"
+    },
+    {
+      "market_name": "W6620",
+      "codename": "W6620",
+      "model": "W6620"
+    },
+    {
+      "market_name": "W8555",
+      "codename": "Pride",
+      "model": "Philips W8555"
+    }
+  ]
+}

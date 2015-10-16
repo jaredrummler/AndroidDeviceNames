@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Lexibook",
+  "devices": [
+    {
+      "market_name": "Fluo",
+      "codename": "MFC145FR1",
+      "model": "MFC145FR1"
+    },
+    {
+      "market_name": "Fluo XL",
+      "codename": "MFC191FR2",
+      "model": "MFC191FR2"
+    },
+    {
+      "market_name": "Fluo XL Premium Edition",
+      "codename": "MFC510FR1",
+      "model": "MFC510FR1"
+    },
+    {
+      "market_name": "MFC191",
+      "codename": "MFC191",
+      "model": "S952"
+    },
+    {
+      "market_name": "Playdroid",
+      "codename": "lbox500",
+      "model": "LBOX500"
+    }
+  ]
+}

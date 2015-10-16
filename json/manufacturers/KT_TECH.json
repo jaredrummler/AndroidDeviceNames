@@ -1,0 +1,45 @@
+{
+  "manufacturer": "KT Tech",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "s120",
+      "model": "KM-S120"
+    },
+    {
+      "market_name": "",
+      "codename": "s200",
+      "model": "KM-S200"
+    },
+    {
+      "market_name": "",
+      "codename": "s220",
+      "model": "KM-S220"
+    },
+    {
+      "market_name": "",
+      "codename": "s220H",
+      "model": "KM-S220H"
+    },
+    {
+      "market_name": "",
+      "codename": "s300",
+      "model": "KM-S300"
+    },
+    {
+      "market_name": "",
+      "codename": "s330",
+      "model": "KM-S330"
+    },
+    {
+      "market_name": "EV-S100",
+      "codename": "s100",
+      "model": "EV-S100"
+    },
+    {
+      "market_name": "TAKE SUIT",
+      "codename": "e100",
+      "model": "KM-E100"
+    }
+  ]
+}

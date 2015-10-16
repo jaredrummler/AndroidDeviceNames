@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Cat",
+  "devices": [
+    {
+      "market_name": "B15Q",
+      "codename": "CatB15Q",
+      "model": "B15Q"
+    },
+    {
+      "market_name": "CatS50c",
+      "codename": "CatS50c",
+      "model": "S50c"
+    },
+    {
+      "market_name": "S30",
+      "codename": "CatS30",
+      "model": "S30"
+    },
+    {
+      "market_name": "S40",
+      "codename": "CatS40",
+      "model": "S40"
+    },
+    {
+      "market_name": "S50",
+      "codename": "CatS50",
+      "model": "S50"
+    }
+  ]
+}

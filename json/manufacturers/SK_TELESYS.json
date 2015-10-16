@@ -1,0 +1,70 @@
+{
+  "manufacturer": "SK Telesys",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "K4",
+      "model": "SK-S170"
+    },
+    {
+      "market_name": "",
+      "codename": "msm8255_k5",
+      "model": "SK-S150"
+    },
+    {
+      "market_name": "",
+      "codename": "qsd8250_s1",
+      "model": "SK-S100"
+    },
+    {
+      "market_name": "AN200",
+      "codename": "AN200",
+      "model": "AN200"
+    },
+    {
+      "market_name": "Fly",
+      "codename": "htt77_ics2",
+      "model": "Fly"
+    },
+    {
+      "market_name": "ITP-E410W",
+      "codename": "willow",
+      "model": "ITP-E410W"
+    },
+    {
+      "market_name": "ITP-R208W",
+      "codename": "rk30sdk",
+      "model": "ITP-R208W"
+    },
+    {
+      "market_name": "Ice-Phone Forever",
+      "codename": "z262_wvga_mge",
+      "model": "Ice-Phone Forever"
+    },
+    {
+      "market_name": "K2401",
+      "codename": "K2401",
+      "model": "S201"
+    },
+    {
+      "market_name": "S150",
+      "codename": "msm8255_k5",
+      "model": "S150"
+    },
+    {
+      "market_name": "T720",
+      "codename": "T720",
+      "model": "Clear"
+    },
+    {
+      "market_name": "UTA200",
+      "codename": "htt75_nand_6628_ics",
+      "model": "UTA200"
+    },
+    {
+      "market_name": "icube-830",
+      "codename": "icube-830",
+      "model": "icube-830"
+    }
+  ]
+}

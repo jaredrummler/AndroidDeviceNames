@@ -1,0 +1,215 @@
+{
+  "manufacturer": "HP",
+  "devices": [
+    {
+      "market_name": "10.0",
+      "codename": "spruce",
+      "model": "HP 10"
+    },
+    {
+      "market_name": "10 Plus",
+      "codename": "torsa",
+      "model": "HP 10 Plus"
+    },
+    {
+      "market_name": "7 G2",
+      "codename": "redwood",
+      "model": "HP 7 G2"
+    },
+    {
+      "market_name": "7 Plus",
+      "codename": "Ilex",
+      "model": "HP 7 Plus"
+    },
+    {
+      "market_name": "7 Plus G2",
+      "codename": "deschutes",
+      "model": "HP 7 Plus G2"
+    },
+    {
+      "market_name": "7 Tablet",
+      "codename": "Mesquite",
+      "model": "HP 7"
+    },
+    {
+      "market_name": "7 Voice Tab",
+      "codename": "klondike",
+      "model": "HP 7 VoiceTab"
+    },
+    {
+      "market_name": "7 VoiceTab",
+      "codename": "yukon",
+      "model": "HP 7 VoiceTab"
+    },
+    {
+      "market_name": "7.1",
+      "codename": "Holly",
+      "model": "HP 7.1"
+    },
+    {
+      "market_name": "8.0",
+      "codename": "Fir",
+      "model": "HP 8"
+    },
+    {
+      "market_name": "8 G2",
+      "codename": "maple",
+      "model": "HP 8 G2"
+    },
+    {
+      "market_name": "Bonsai 10 HD",
+      "codename": "bonsai10",
+      "model": "HP Slate 10 HD"
+    },
+    {
+      "market_name": "HP Slate 7",
+      "codename": "pine",
+      "model": "HP Slate 7"
+    },
+    {
+      "market_name": "HP SlateBook 10 x2 PC",
+      "codename": "3645.0",
+      "model": "HP SlateBook 10 x2 PC"
+    },
+    {
+      "market_name": "Pro Slate 10 EE G1",
+      "codename": "bulldog",
+      "model": "HP Pro Slate 10 EE G1"
+    },
+    {
+      "market_name": "Pro Slate 10 EE G1",
+      "codename": "hound",
+      "model": "HP Pro Slate 10 EE G1"
+    },
+    {
+      "market_name": "Pro Slate 10 EE G1",
+      "codename": "poodle",
+      "model": "HP Pro Slate 10 EE G1"
+    },
+    {
+      "market_name": "Pro Slate 10 EE G1",
+      "codename": "terrier",
+      "model": "HP Pro Slate 10 EE G1"
+    },
+    {
+      "market_name": "Pro Slate 12",
+      "codename": "dane",
+      "model": "HP Pro Slate 12"
+    },
+    {
+      "market_name": "Pro Slate 8",
+      "codename": "malamute",
+      "model": "HP Pro Slate 8"
+    },
+    {
+      "market_name": "Slate 10 HD",
+      "codename": "bonsai10",
+      "model": "HP Slate 10 HD"
+    },
+    {
+      "market_name": "Slate 10 Plus",
+      "codename": "linkplus",
+      "model": "HP Slate 10 Plus"
+    },
+    {
+      "market_name": "Slate 17",
+      "codename": "franky",
+      "model": "HP Slate 17"
+    },
+    {
+      "market_name": "Slate 21 Pro",
+      "codename": "ranger",
+      "model": "Slate 21 Pro"
+    },
+    {
+      "market_name": "Slate 6 Voice Tab",
+      "codename": "pomegranate",
+      "model": "HP Slate 6 Voice Tab"
+    },
+    {
+      "market_name": "Slate 6 Voice Tab II",
+      "codename": "avocado",
+      "model": "HP Slate 6 Voice Tab II"
+    },
+    {
+      "market_name": "Slate 6 VoiceTab Plus",
+      "codename": "mekong",
+      "model": "HP Slate 6 VoiceTab Plus"
+    },
+    {
+      "market_name": "Slate 7 Beats Special Edition",
+      "codename": "fairfax",
+      "model": "HP Slate 7 Beats Special Edition"
+    },
+    {
+      "market_name": "Slate 7 Beats Special Edition",
+      "codename": "fairfax",
+      "model": "HP Slate7 Beats Special Edition"
+    },
+    {
+      "market_name": "Slate 7 Extreme",
+      "codename": "olive",
+      "model": "HP Slate7 Extreme"
+    },
+    {
+      "market_name": "Slate 7 HD",
+      "codename": "bonsai10",
+      "model": "HP Slate 10 HD"
+    },
+    {
+      "market_name": "Slate 7 HD",
+      "codename": "bonsai7",
+      "model": "HP Slate 7 HD"
+    },
+    {
+      "market_name": "Slate 7 Voice Tab",
+      "codename": "almond",
+      "model": "HP Slate 7 Voice Tab"
+    },
+    {
+      "market_name": "Slate 7 VoiceTab Ultra",
+      "codename": "charm",
+      "model": "HP Slate 7 VoiceTab Ultra"
+    },
+    {
+      "market_name": "Slate 8 Plus",
+      "codename": "vogue",
+      "model": "HP Slate 8 Plus"
+    },
+    {
+      "market_name": "Slate 8 Pro",
+      "codename": "dogwood",
+      "model": "HP Slate 8 Pro"
+    },
+    {
+      "market_name": "Slate21",
+      "codename": "phobos",
+      "model": "Slate 21"
+    },
+    {
+      "market_name": "Slate7 Plus",
+      "codename": "birch",
+      "model": "HP Slate 7 Plus"
+    },
+    {
+      "market_name": "Slate8 Pro",
+      "codename": "fig",
+      "model": "HP Slate 8 Pro"
+    },
+    {
+      "market_name": "SlateBook 14",
+      "codename": "200a",
+      "model": "HP SlateBook 14 PC"
+    },
+    {
+      "market_name": "Tablet 10",
+      "codename": "balsa",
+      "model": "HP_10_Tablet"
+    },
+    {
+      "market_name": "Voice Tab 7",
+      "codename": "almond",
+      "model": "HP Slate 7 Voice Tab"
+    }
+  ]
+}

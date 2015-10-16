@@ -1,0 +1,55 @@
+{
+  "manufacturer": "Garmin",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "a10",
+      "model": "Garmin-Asus A10"
+    },
+    {
+      "market_name": "Monterra",
+      "codename": "monterra",
+      "model": "Monterra"
+    },
+    {
+      "market_name": "Nuvi 3595",
+      "codename": "scorpio",
+      "model": "nuvi 3595"
+    },
+    {
+      "market_name": "Nuvifone",
+      "codename": "a50",
+      "model": "Garmin-Asus A50"
+    },
+    {
+      "market_name": "Nuvifone",
+      "codename": "a50",
+      "model": "Garminfone"
+    },
+    {
+      "market_name": "Nuvifone",
+      "codename": "a50",
+      "model": "nuvifone A50"
+    },
+    {
+      "market_name": "Nuvifone",
+      "codename": "a50",
+      "model": "n\\xc3\\xbcvifone A50"
+    },
+    {
+      "market_name": "nuvi 3590",
+      "codename": "scorpio",
+      "model": "nuvi 3590"
+    },
+    {
+      "market_name": "nuvi 3592",
+      "codename": "scorpio",
+      "model": "nuvi 3592"
+    },
+    {
+      "market_name": "nuvi 3595",
+      "codename": "scorpio",
+      "model": "nuvi 3595"
+    }
+  ]
+}

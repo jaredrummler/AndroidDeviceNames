@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Verizon Wireless",
+  "devices": [
+    {
+      "market_name": "Ellipsis 7",
+      "codename": "QMV7A",
+      "model": "QMV7A"
+    },
+    {
+      "market_name": "Ellipsis 7",
+      "codename": "QMV7A",
+      "model": "QMV7B"
+    },
+    {
+      "market_name": "Ellipsis 7 (QMV7A)",
+      "codename": "QMV7A",
+      "model": "QMV7A"
+    },
+    {
+      "market_name": "Ellipsis 7 (QMV7B)",
+      "codename": "QMV7A",
+      "model": "QMV7B"
+    },
+    {
+      "market_name": "Ellipsis 8",
+      "codename": "QTAQZ3",
+      "model": "QTAQZ3"
+    },
+    {
+      "market_name": "QTAQZ3KID",
+      "codename": "QTAQZ3KID",
+      "model": "QTAQZ3KID"
+    }
+  ]
+}

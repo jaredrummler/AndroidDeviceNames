@@ -1,0 +1,545 @@
+{
+  "manufacturer": "Sony Ericsson",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "LT15a",
+      "model": "LT15a"
+    },
+    {
+      "market_name": "",
+      "codename": "LT18i",
+      "model": "LT18i"
+    },
+    {
+      "market_name": "",
+      "codename": "LT22i",
+      "model": "LT22i"
+    },
+    {
+      "market_name": "",
+      "codename": "LT26i",
+      "model": "LT26i"
+    },
+    {
+      "market_name": "",
+      "codename": "LT28h",
+      "model": "LT28h"
+    },
+    {
+      "market_name": "",
+      "codename": "LT28i",
+      "model": "LT28i"
+    },
+    {
+      "market_name": "",
+      "codename": "MK16a",
+      "model": "MK16a"
+    },
+    {
+      "market_name": "",
+      "codename": "MK16i",
+      "model": "MK16i"
+    },
+    {
+      "market_name": "",
+      "codename": "MT11i",
+      "model": "MT11i"
+    },
+    {
+      "market_name": "",
+      "codename": "MT15i",
+      "model": "MT15i"
+    },
+    {
+      "market_name": "",
+      "codename": "MT27i",
+      "model": "MT27i"
+    },
+    {
+      "market_name": "",
+      "codename": "R800x",
+      "model": "R800x"
+    },
+    {
+      "market_name": "",
+      "codename": "SK17i",
+      "model": "SK17i"
+    },
+    {
+      "market_name": "",
+      "codename": "ST15i",
+      "model": "ST15i"
+    },
+    {
+      "market_name": "",
+      "codename": "ST17i",
+      "model": "ST17i"
+    },
+    {
+      "market_name": "",
+      "codename": "ST18i",
+      "model": "ST18i"
+    },
+    {
+      "market_name": "",
+      "codename": "WT18i",
+      "model": "WT18i"
+    },
+    {
+      "market_name": "",
+      "codename": "WT19a",
+      "model": "WT19a"
+    },
+    {
+      "market_name": "",
+      "codename": "WT19i",
+      "model": "WT19i"
+    },
+    {
+      "market_name": "Live with Walkman",
+      "codename": "WT19a",
+      "model": "WT19a"
+    },
+    {
+      "market_name": "Live with Walkman",
+      "codename": "WT19i",
+      "model": "WT19i"
+    },
+    {
+      "market_name": "Live with Walkman(TM)",
+      "codename": "WT19a",
+      "model": "WT19a"
+    },
+    {
+      "market_name": "X10 Xperia Mini",
+      "codename": "robyn",
+      "model": "E10i"
+    },
+    {
+      "market_name": "Xperia A",
+      "codename": "SO-04E",
+      "model": "SO-04E"
+    },
+    {
+      "market_name": "Xperia AX",
+      "codename": "SO-01E",
+      "model": "SO-01E"
+    },
+    {
+      "market_name": "Xperia Acro",
+      "codename": "IS11S",
+      "model": "IS11S"
+    },
+    {
+      "market_name": "Xperia Acro",
+      "codename": "SO-02C",
+      "model": "SO-02C"
+    },
+    {
+      "market_name": "Xperia Arc",
+      "codename": "LT15i",
+      "model": "LT15i"
+    },
+    {
+      "market_name": "Xperia Arc",
+      "codename": "SO-01C",
+      "model": "SO-01C"
+    },
+    {
+      "market_name": "Xperia C",
+      "codename": "S39h",
+      "model": "S39h"
+    },
+    {
+      "market_name": "Xperia GX",
+      "codename": "SO-04D",
+      "model": "SO-04D"
+    },
+    {
+      "market_name": "Xperia Go",
+      "codename": "ST27a",
+      "model": "ST27a"
+    },
+    {
+      "market_name": "Xperia Go",
+      "codename": "ST27i",
+      "model": "ST27i"
+    },
+    {
+      "market_name": "Xperia J",
+      "codename": "ST26i",
+      "model": "ST26i"
+    },
+    {
+      "market_name": "Xperia Neo",
+      "codename": "MT15i",
+      "model": "MT15i"
+    },
+    {
+      "market_name": "Xperia P",
+      "codename": "LT22i",
+      "model": "LT22i"
+    },
+    {
+      "market_name": "Xperia PLAY",
+      "codename": "R800a",
+      "model": "R800a"
+    },
+    {
+      "market_name": "Xperia PLAY",
+      "codename": "R800at",
+      "model": "R800at"
+    },
+    {
+      "market_name": "Xperia PLAY",
+      "codename": "R800i",
+      "model": "R800i"
+    },
+    {
+      "market_name": "Xperia PLAY",
+      "codename": "R800x",
+      "model": "R800x"
+    },
+    {
+      "market_name": "Xperia PLAY",
+      "codename": "SO-01D",
+      "model": "SO-01D"
+    },
+    {
+      "market_name": "Xperia Play",
+      "codename": "R800i",
+      "model": "R800i"
+    },
+    {
+      "market_name": "Xperia Play",
+      "codename": "Zeus",
+      "model": "Zeus"
+    },
+    {
+      "market_name": "Xperia S",
+      "codename": "LT26i",
+      "model": "LT26i"
+    },
+    {
+      "market_name": "Xperia S",
+      "codename": "SO-02D",
+      "model": "SO-02D"
+    },
+    {
+      "market_name": "Xperia SL",
+      "codename": "LT26ii",
+      "model": "LT26ii"
+    },
+    {
+      "market_name": "Xperia SP",
+      "codename": "M35c",
+      "model": "M35c"
+    },
+    {
+      "market_name": "Xperia SX",
+      "codename": "SO-05D",
+      "model": "SO-05D"
+    },
+    {
+      "market_name": "Xperia T",
+      "codename": "LT30a",
+      "model": "LT30a"
+    },
+    {
+      "market_name": "Xperia T",
+      "codename": "LT30at",
+      "model": "LT30at"
+    },
+    {
+      "market_name": "Xperia T",
+      "codename": "LT30p",
+      "model": "LT30p"
+    },
+    {
+      "market_name": "Xperia TX",
+      "codename": "LT29i",
+      "model": "LT29i"
+    },
+    {
+      "market_name": "Xperia Tablet Z",
+      "codename": "SGP311",
+      "model": "SGP311"
+    },
+    {
+      "market_name": "Xperia Tablet Z",
+      "codename": "SGP321",
+      "model": "SGP321"
+    },
+    {
+      "market_name": "Xperia Tablet Z",
+      "codename": "SGP341",
+      "model": "SGP341"
+    },
+    {
+      "market_name": "Xperia Tablet Z",
+      "codename": "SO-03E",
+      "model": "SO-03E"
+    },
+    {
+      "market_name": "Xperia U",
+      "codename": "ST25i",
+      "model": "ST25i"
+    },
+    {
+      "market_name": "Xperia UL",
+      "codename": "SOL22",
+      "model": "SOL22"
+    },
+    {
+      "market_name": "Xperia V",
+      "codename": "LT25c",
+      "model": "LT25c"
+    },
+    {
+      "market_name": "Xperia V",
+      "codename": "LT25i",
+      "model": "LT25i"
+    },
+    {
+      "market_name": "Xperia VL",
+      "codename": "SOL21",
+      "model": "SOL21"
+    },
+    {
+      "market_name": "Xperia X10",
+      "codename": "SO-01B",
+      "model": "SO-01B"
+    },
+    {
+      "market_name": "Xperia X10",
+      "codename": "SonyEricssonSO-01B",
+      "model": "SO-01B"
+    },
+    {
+      "market_name": "Xperia X10",
+      "codename": "SonyEricssonX10iv",
+      "model": "X10i"
+    },
+    {
+      "market_name": "Xperia X10",
+      "codename": "X10a",
+      "model": "X10a"
+    },
+    {
+      "market_name": "Xperia X10",
+      "codename": "X10i",
+      "model": "X10i"
+    },
+    {
+      "market_name": "Xperia X10 Mini",
+      "codename": "E10i",
+      "model": "E10i"
+    },
+    {
+      "market_name": "Xperia X10 Mini",
+      "codename": "SonyEricssonE10i",
+      "model": "E10i"
+    },
+    {
+      "market_name": "Xperia X10 Mini Pro",
+      "codename": "U20i",
+      "model": "U20i"
+    },
+    {
+      "market_name": "Xperia X10 mini",
+      "codename": "SonyEricssonE10a",
+      "model": "E10a"
+    },
+    {
+      "market_name": "Xperia X10 mini pro",
+      "codename": "SonyEricssonU20a",
+      "model": "U20a"
+    },
+    {
+      "market_name": "Xperia X8",
+      "codename": "E15i",
+      "model": "E15i"
+    },
+    {
+      "market_name": "Xperia Z",
+      "codename": "SO-02E",
+      "model": "SO-02E"
+    },
+    {
+      "market_name": "Xperia Z Ultra",
+      "codename": "C6806",
+      "model": "C6806"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "C6903",
+      "model": "C6903"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "C6906",
+      "model": "C6906"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "C6943",
+      "model": "C6943"
+    },
+    {
+      "market_name": "Xperia acro HD",
+      "codename": "IS12S",
+      "model": "IS12S"
+    },
+    {
+      "market_name": "Xperia acro S",
+      "codename": "LT26w",
+      "model": "LT26w"
+    },
+    {
+      "market_name": "Xperia active",
+      "codename": "ST17i",
+      "model": "ST17i"
+    },
+    {
+      "market_name": "Xperia arc",
+      "codename": "LT15a",
+      "model": "LT15a"
+    },
+    {
+      "market_name": "Xperia arc",
+      "codename": "LT15i",
+      "model": "LT15i"
+    },
+    {
+      "market_name": "Xperia arc S",
+      "codename": "LT18a",
+      "model": "LT18a"
+    },
+    {
+      "market_name": "Xperia arc S",
+      "codename": "LT18i",
+      "model": "LT18i"
+    },
+    {
+      "market_name": "Xperia go",
+      "codename": "ST27i",
+      "model": "ST27i"
+    },
+    {
+      "market_name": "Xperia ion",
+      "codename": "LT28at",
+      "model": "LT28at"
+    },
+    {
+      "market_name": "Xperia ion",
+      "codename": "LT28h",
+      "model": "LT28h"
+    },
+    {
+      "market_name": "Xperia ion",
+      "codename": "LT28i",
+      "model": "LT28i"
+    },
+    {
+      "market_name": "Xperia live",
+      "codename": "WT19a",
+      "model": "WT19a"
+    },
+    {
+      "market_name": "Xperia mini",
+      "codename": "S51SE",
+      "model": "S51SE"
+    },
+    {
+      "market_name": "Xperia mini",
+      "codename": "ST15a",
+      "model": "ST15a"
+    },
+    {
+      "market_name": "Xperia mini",
+      "codename": "ST15i",
+      "model": "ST15i"
+    },
+    {
+      "market_name": "Xperia mini pro",
+      "codename": "SK17a",
+      "model": "SK17a"
+    },
+    {
+      "market_name": "Xperia mini pro",
+      "codename": "SK17i",
+      "model": "SK17i"
+    },
+    {
+      "market_name": "Xperia miro",
+      "codename": "ST23i",
+      "model": "ST23i"
+    },
+    {
+      "market_name": "Xperia neo",
+      "codename": "MT15a",
+      "model": "MT15a"
+    },
+    {
+      "market_name": "Xperia neo",
+      "codename": "MT15i",
+      "model": "MT15i"
+    },
+    {
+      "market_name": "Xperia neo L",
+      "codename": "MT25i",
+      "model": "MT25i"
+    },
+    {
+      "market_name": "Xperia neo V",
+      "codename": "MT11a",
+      "model": "MT11a"
+    },
+    {
+      "market_name": "Xperia neo V",
+      "codename": "MT11i",
+      "model": "MT11i"
+    },
+    {
+      "market_name": "Xperia pro",
+      "codename": "MK16a",
+      "model": "MK16a"
+    },
+    {
+      "market_name": "Xperia pro",
+      "codename": "MK16i",
+      "model": "MK16i"
+    },
+    {
+      "market_name": "Xperia ray",
+      "codename": "SO-03C",
+      "model": "SO-03C"
+    },
+    {
+      "market_name": "Xperia ray",
+      "codename": "ST18a",
+      "model": "ST18a"
+    },
+    {
+      "market_name": "Xperia ray",
+      "codename": "ST18i",
+      "model": "ST18i"
+    },
+    {
+      "market_name": "Xperia sola",
+      "codename": "MT27i",
+      "model": "MT27i"
+    },
+    {
+      "market_name": "Xperia tipo",
+      "codename": "ST21i",
+      "model": "ST21i"
+    },
+    {
+      "market_name": "Xperia tipo dual",
+      "codename": "ST21i2",
+      "model": "ST21i2"
+    }
+  ]
+}

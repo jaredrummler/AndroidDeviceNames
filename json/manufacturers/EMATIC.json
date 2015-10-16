@@ -1,0 +1,90 @@
+{
+  "manufacturer": "Ematic",
+  "devices": [
+    {
+      "market_name": "Cubby",
+      "codename": "SproutChannelCubby",
+      "model": "SproutChannelCubby"
+    },
+    {
+      "market_name": "EGD078",
+      "codename": "EGD078",
+      "model": "EGD078"
+    },
+    {
+      "market_name": "EGD170",
+      "codename": "EGD170",
+      "model": "Ematic EGD170"
+    },
+    {
+      "market_name": "EGD172",
+      "codename": "EGD172",
+      "model": "EGD172"
+    },
+    {
+      "market_name": "EGD213",
+      "codename": "EGD213",
+      "model": "EGD213"
+    },
+    {
+      "market_name": "EGQ178",
+      "codename": "EGQ178",
+      "model": "EGQ178"
+    },
+    {
+      "market_name": "EGQ337",
+      "codename": "EGQ337",
+      "model": "EGQ337"
+    },
+    {
+      "market_name": "EGQ347",
+      "codename": "EGQ347",
+      "model": "EGQ347"
+    },
+    {
+      "market_name": "EGQ780",
+      "codename": "EGQ780",
+      "model": "EGQ780"
+    },
+    {
+      "market_name": "EMATICEGS109",
+      "codename": "EGS109",
+      "model": "EGS109"
+    },
+    {
+      "market_name": "Ematic EGD103",
+      "codename": "EGD103",
+      "model": "EGD103"
+    },
+    {
+      "market_name": "Ematic EGQ307",
+      "codename": "EGQ307",
+      "model": "EGQ307"
+    },
+    {
+      "market_name": "Ematic EGQ327M",
+      "codename": "EGQ327M",
+      "model": "EGQ327M"
+    },
+    {
+      "market_name": "Ematic EGS017",
+      "codename": "EGS017",
+      "model": "EGS017"
+    },
+    {
+      "market_name": "Ematic ETH102",
+      "codename": "ETH102",
+      "model": "ETH102"
+    },
+    {
+      "market_name": "FunTab 2",
+      "codename": "FunTab2",
+      "model": "FunTab2"
+    },
+    {
+      "market_name": "Sprout Channel Cubby",
+      "codename": "Cubby",
+      "model": "SproutChannelCubby"
+    }
+  ]
+}

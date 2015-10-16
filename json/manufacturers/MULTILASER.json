@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Multilaser",
+  "devices": [
+    {
+      "market_name": "M7s Dual Core",
+      "codename": "NB116_NB117_NB118",
+      "model": "M7s Dual ML03"
+    },
+    {
+      "market_name": "M7s Quad Core",
+      "codename": "astar-ococci",
+      "model": "ML01-M7S-Quad-Core"
+    },
+    {
+      "market_name": "Ms5",
+      "codename": "MTL-MS5",
+      "model": "MS5"
+    },
+    {
+      "market_name": "Ms6",
+      "codename": "MS6",
+      "model": "MS6"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "manufacturer": "Pegatron",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "Duke3G",
+      "model": "Android Tablet PC"
+    },
+    {
+      "market_name": "",
+      "codename": "DukeWifi",
+      "model": "Android Tablet PC"
+    },
+    {
+      "market_name": "",
+      "codename": "TabletPC",
+      "model": "Android Tablet PC"
+    },
+    {
+      "market_name": "MaxiIQ",
+      "codename": "MaxiIQ",
+      "model": "MaxiIQ"
+    },
+    {
+      "market_name": "Olipad",
+      "codename": "OP111",
+      "model": "chagall"
+    },
+    {
+      "market_name": "chagall",
+      "codename": "chagall",
+      "model": "Chagall 10.1 WiFi"
+    },
+    {
+      "market_name": "chagall",
+      "codename": "chagall",
+      "model": "E-Tab 4G"
+    },
+    {
+      "market_name": "chagall",
+      "codename": "chagall",
+      "model": "chagall"
+    }
+  ]
+}

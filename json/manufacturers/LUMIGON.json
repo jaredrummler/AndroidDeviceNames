@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Lumigon",
+  "devices": [
+    {
+      "market_name": "T2",
+      "codename": "msm7630_fw8911",
+      "model": "T2"
+    },
+    {
+      "market_name": "T2 HD",
+      "codename": "T2HD",
+      "model": "T2HD"
+    }
+  ]
+}

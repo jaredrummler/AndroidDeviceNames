@@ -1,0 +1,60 @@
+{
+  "manufacturer": "Clementoni",
+  "devices": [
+    {
+      "market_name": "Clempad 4.4 Basic Special",
+      "codename": "Clempad2_special",
+      "model": "Clempad2_special"
+    },
+    {
+      "market_name": "Clempad 4.4 Plus",
+      "codename": "Clempad2_plus",
+      "model": "Clempad2_plus"
+    },
+    {
+      "market_name": "Clempad 4.4 XL",
+      "codename": "Clempad2_XL",
+      "model": "Clempad2_XL"
+    },
+    {
+      "market_name": "Clempad 5.0 XL",
+      "codename": "Clempad_HR_XL",
+      "model": "Clempad_HR_XL"
+    },
+    {
+      "market_name": "Clempad Call",
+      "codename": "CLEMPADCALL",
+      "model": "CLEMPADCALL"
+    },
+    {
+      "market_name": "Clempad HR",
+      "codename": "Clempad_HR",
+      "model": "Clempad_HR"
+    },
+    {
+      "market_name": "Clempad HR Plus",
+      "codename": "Clempad_HR_Plus",
+      "model": "Clempad_HR_Plus"
+    },
+    {
+      "market_name": "My First Clempad HR",
+      "codename": "MFC_HR",
+      "model": "MFC_HR"
+    },
+    {
+      "market_name": "My First Clempad HR Plus",
+      "codename": "MFC_HR_Plus",
+      "model": "MFC_HR_Plus"
+    },
+    {
+      "market_name": "My first Clempad 4.4 Basic Special",
+      "codename": "MFC2_Special",
+      "model": "MFC2_Special"
+    },
+    {
+      "market_name": "My first Clempad 4.4 Plus",
+      "codename": "MFC2_Plus",
+      "model": "MFC2_Plus"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "manufacturer": "GoClever",
+  "devices": [
+    {
+      "market_name": "INSIGNIA 550i",
+      "codename": "INSIGNIA_550i",
+      "model": "INSIGNIA_550i"
+    },
+    {
+      "market_name": "QUANTUM 1010N",
+      "codename": "QUANTUM_1010N",
+      "model": "QUANTUM_1010N"
+    },
+    {
+      "market_name": "QUANTUM 400 LITE",
+      "codename": "QUANTUM_400_LITE",
+      "model": "QUANTUM_400_LITE"
+    },
+    {
+      "market_name": "QUANTUM_550",
+      "codename": "QUANTUM_550",
+      "model": "QUANTUM_550"
+    }
+  ]
+}

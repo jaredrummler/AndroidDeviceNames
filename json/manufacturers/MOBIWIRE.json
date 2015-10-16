@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Mobiwire",
+  "devices": [
+    {
+      "market_name": "Ahiga",
+      "codename": "Ahiga",
+      "model": "Ahiga"
+    },
+    {
+      "market_name": "Cygnus mini",
+      "codename": "Cygnus_mini",
+      "model": "Cygnus mini"
+    },
+    {
+      "market_name": "Cygnus mini",
+      "codename": "Cygnus_mini",
+      "model": "Cygnus_mini"
+    },
+    {
+      "market_name": "Pegasus",
+      "codename": "Pegasus",
+      "model": "Pegasus"
+    },
+    {
+      "market_name": "Telenor SmartPlus",
+      "codename": "Telenor_SmartPlus",
+      "model": "Telenor_SmartPlus"
+    },
+    {
+      "market_name": "VSN V.45",
+      "codename": "up06_h26_v45",
+      "model": "V.45"
+    }
+  ]
+}

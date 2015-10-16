@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Teleepoch",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "MaxBravo",
+      "model": "PMI920"
+    },
+    {
+      "market_name": "",
+      "codename": "U670C",
+      "model": "U670C"
+    },
+    {
+      "market_name": "",
+      "codename": "chaser-921",
+      "model": "Chaser"
+    },
+    {
+      "market_name": "Essentiel B SmartTab 1002",
+      "codename": "T9660R",
+      "model": "SmartTAB 1002"
+    },
+    {
+      "market_name": "U675",
+      "codename": "U675",
+      "model": "U675"
+    },
+    {
+      "market_name": "UMX U680C",
+      "codename": "U680C",
+      "model": "U680C"
+    }
+  ]
+}

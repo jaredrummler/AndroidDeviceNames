@@ -1,0 +1,45 @@
+{
+  "manufacturer": "Trio",
+  "devices": [
+    {
+      "market_name": "TRIO-7.85",
+      "codename": "astar-y3",
+      "model": "TRIO-7.85"
+    },
+    {
+      "market_name": "Trio 7.85 vQ",
+      "codename": "Trio-785-vQ",
+      "model": "Trio 7.85 vQ"
+    },
+    {
+      "market_name": "Trio AXS 3G",
+      "codename": "Trio_AXS_3G",
+      "model": "Trio AXS 3G"
+    },
+    {
+      "market_name": "Trio MINI",
+      "codename": "Trio-MINI",
+      "model": "Trio MINI"
+    },
+    {
+      "market_name": "Trio MST711",
+      "codename": "nuclear-MST711",
+      "model": "MST711"
+    },
+    {
+      "market_name": "Trio-Stealth G4 7",
+      "codename": "Trio-Stealth-G4-7",
+      "model": "Trio-Stealth-G4-7"
+    },
+    {
+      "market_name": "Trio-Stealth-G4-101",
+      "codename": "Trio-Stealth-G4-101",
+      "model": "Trio-Stealth G4 10.1"
+    },
+    {
+      "market_name": "Trio-Stealth-G4-7.85",
+      "codename": "Trio-Stealth-G4-785",
+      "model": "Trio-Stealth-G4-7.85"
+    }
+  ]
+}

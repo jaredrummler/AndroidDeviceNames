@@ -1,0 +1,350 @@
+{
+  "manufacturer": "Pantech",
+  "devices": [
+    {
+      "market_name": "ADR910L",
+      "codename": "ADR910L",
+      "model": "ADR910L"
+    },
+    {
+      "market_name": "ADR930L",
+      "codename": "ADR930L",
+      "model": "ADR930L"
+    },
+    {
+      "market_name": "AT1",
+      "codename": "at1",
+      "model": "IM-T100K"
+    },
+    {
+      "market_name": "Apache",
+      "codename": "ADR8995",
+      "model": "ADR8995"
+    },
+    {
+      "market_name": "Burst",
+      "codename": "presto",
+      "model": "PantechP9070"
+    },
+    {
+      "market_name": "Crossover",
+      "codename": "moon",
+      "model": "PantechP8000"
+    },
+    {
+      "market_name": "EF33S",
+      "codename": "ef33s",
+      "model": "IM-A760S"
+    },
+    {
+      "market_name": "EF34K",
+      "codename": "ef34k",
+      "model": "IM-A770K"
+    },
+    {
+      "market_name": "EF35L",
+      "codename": "ef35l",
+      "model": "IM-A780L"
+    },
+    {
+      "market_name": "Element",
+      "codename": "pororo",
+      "model": "PantechP4100"
+    },
+    {
+      "market_name": "Flex",
+      "codename": "oscar",
+      "model": "PantechP8010"
+    },
+    {
+      "market_name": "IM-810K",
+      "codename": "ef40k",
+      "model": "IM-A810K"
+    },
+    {
+      "market_name": "IM-840SP",
+      "codename": "IM-A840SP",
+      "model": "IM-A840SP"
+    },
+    {
+      "market_name": "IM-A730S",
+      "codename": "ef30s",
+      "model": "IM-A730S"
+    },
+    {
+      "market_name": "IM-A740S",
+      "codename": "ef31s",
+      "model": "IM-A740S"
+    },
+    {
+      "market_name": "IM-A760S",
+      "codename": "ef33s",
+      "model": "IM-A760S"
+    },
+    {
+      "market_name": "IM-A770K",
+      "codename": "ef34k",
+      "model": "IM-A770K"
+    },
+    {
+      "market_name": "IM-A775C",
+      "codename": "ef34c",
+      "model": "IM-A775C"
+    },
+    {
+      "market_name": "IM-A780L",
+      "codename": "ef35l",
+      "model": "IM-A780L"
+    },
+    {
+      "market_name": "IM-A800S",
+      "codename": "ef39s",
+      "model": "IM-A800S"
+    },
+    {
+      "market_name": "IM-A810K",
+      "codename": "ef40k",
+      "model": "IM-A810K"
+    },
+    {
+      "market_name": "IM-A810S",
+      "codename": "ef40s",
+      "model": "IM-A810S"
+    },
+    {
+      "market_name": "IM-A830K",
+      "codename": "ef45k",
+      "model": "IM-A830K"
+    },
+    {
+      "market_name": "IM-A830KE",
+      "codename": "ef45kv",
+      "model": "IM-A830KE"
+    },
+    {
+      "market_name": "IM-A830L",
+      "codename": "ef46l",
+      "model": "IM-A830L"
+    },
+    {
+      "market_name": "IM-A830S",
+      "codename": "ef47s",
+      "model": "IM-A830S"
+    },
+    {
+      "market_name": "IM-A840S",
+      "codename": "IM-A840S",
+      "model": "IM-A840S"
+    },
+    {
+      "market_name": "IM-A850K",
+      "codename": "ef49k",
+      "model": "IM-A850K"
+    },
+    {
+      "market_name": "IM-A850L",
+      "codename": "ef50l",
+      "model": "IM-A850L"
+    },
+    {
+      "market_name": "IM-A850S",
+      "codename": "ef48s",
+      "model": "IM-A850S"
+    },
+    {
+      "market_name": "IM-A860K",
+      "codename": "ef51k",
+      "model": "IM-A860K"
+    },
+    {
+      "market_name": "IM-A860L",
+      "codename": "ef51l",
+      "model": "IM-A860L"
+    },
+    {
+      "market_name": "IM-A860S",
+      "codename": "ef51s",
+      "model": "IM-A860S"
+    },
+    {
+      "market_name": "IM-A870K",
+      "codename": "ef52k",
+      "model": "IM-A870K"
+    },
+    {
+      "market_name": "IM-A870L",
+      "codename": "ef52l",
+      "model": "IM-A870L"
+    },
+    {
+      "market_name": "IM-A870S",
+      "codename": "ef52s",
+      "model": "IM-A870S"
+    },
+    {
+      "market_name": "IM-A880S",
+      "codename": "EF56S",
+      "model": "IM-A880S"
+    },
+    {
+      "market_name": "IM-A910K",
+      "codename": "ef63k",
+      "model": "IM-A910K"
+    },
+    {
+      "market_name": "IM-A910L",
+      "codename": "ef63l",
+      "model": "IM-A910L"
+    },
+    {
+      "market_name": "IM-A910S",
+      "codename": "ef63s",
+      "model": "IM-A910S"
+    },
+    {
+      "market_name": "IM-A920S",
+      "codename": "ef65s",
+      "model": "IM-A920S"
+    },
+    {
+      "market_name": "Izar",
+      "codename": "sp33k",
+      "model": "SKY IM-A630K"
+    },
+    {
+      "market_name": "MIRACH_J",
+      "codename": "mirachj",
+      "model": "EIS01PT"
+    },
+    {
+      "market_name": "MIRACH_J",
+      "codename": "mirachj",
+      "model": "IS11PT"
+    },
+    {
+      "market_name": "Mirach",
+      "codename": "ef13l",
+      "model": "IM-A690L"
+    },
+    {
+      "market_name": "Mirach",
+      "codename": "ef13s",
+      "model": "IM-A690S"
+    },
+    {
+      "market_name": "Mirach A",
+      "codename": "ef32k",
+      "model": "IM-A750K"
+    },
+    {
+      "market_name": "P9090",
+      "codename": "magnus",
+      "model": "PantechP9090"
+    },
+    {
+      "market_name": "PLANET",
+      "codename": "mini",
+      "model": "PLANET"
+    },
+    {
+      "market_name": "PTL21",
+      "codename": "maruko",
+      "model": "PTL21"
+    },
+    {
+      "market_name": "Pocket",
+      "codename": "mini",
+      "model": "PantechP9060"
+    },
+    {
+      "market_name": "SIRIUS \\xce\\xb1",
+      "codename": "jmasai",
+      "model": "IS06"
+    },
+    {
+      "market_name": "Sirius",
+      "codename": "ef10s",
+      "model": "SKY IM-A600S"
+    },
+    {
+      "market_name": "VEGA RACER",
+      "codename": "ef34k",
+      "model": "IM-A770K"
+    },
+    {
+      "market_name": "VEGA RACER",
+      "codename": "ef35l",
+      "model": "IM-A780L"
+    },
+    {
+      "market_name": "VEGA Secret Note",
+      "codename": "EF59K",
+      "model": "IM-A890K"
+    },
+    {
+      "market_name": "VEGA Secret Note",
+      "codename": "EF59L",
+      "model": "IM-A890L"
+    },
+    {
+      "market_name": "VEGA Secret Note",
+      "codename": "EF59S",
+      "model": "IM-A890S"
+    },
+    {
+      "market_name": "VEGA Secret UP",
+      "codename": "EF60S",
+      "model": "IM-A900S"
+    },
+    {
+      "market_name": "VEGA Secret UP",
+      "codename": "EF61K",
+      "model": "IM-A900K"
+    },
+    {
+      "market_name": "VEGA Secret UP",
+      "codename": "EF62L",
+      "model": "IM-A900L"
+    },
+    {
+      "market_name": "VEGA Secret UP",
+      "codename": "ef60s",
+      "model": "IM-A900S"
+    },
+    {
+      "market_name": "VEGA Secret UP",
+      "codename": "ef61k",
+      "model": "IM-A900K"
+    },
+    {
+      "market_name": "VEGA Secret UP",
+      "codename": "ef62l",
+      "model": "IM-A900L"
+    },
+    {
+      "market_name": "Vega",
+      "codename": "ef12s",
+      "model": "SKY IM-A650S"
+    },
+    {
+      "market_name": "Vega LTE M",
+      "codename": "ef65l",
+      "model": "IM-A820L"
+    },
+    {
+      "market_name": "Vega X",
+      "codename": "ef14l",
+      "model": "IM-A720L"
+    },
+    {
+      "market_name": "Vega X",
+      "codename": "ef18k",
+      "model": "IM-A710K"
+    },
+    {
+      "market_name": "ef14lv",
+      "codename": "ef14lv",
+      "model": "IM-A725L"
+    }
+  ]
+}

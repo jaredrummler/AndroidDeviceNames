@@ -1,0 +1,45 @@
+{
+  "manufacturer": "NVidia",
+  "devices": [
+    {
+      "market_name": "SHIELD Android TV",
+      "codename": "foster",
+      "model": "SHIELD Android TV"
+    },
+    {
+      "market_name": "SHIELD Android TV",
+      "codename": "foster",
+      "model": "SHIELD Console"
+    },
+    {
+      "market_name": "SHIELD Tablet",
+      "codename": "shieldtablet",
+      "model": "SHIELD Tablet"
+    },
+    {
+      "market_name": "Shield",
+      "codename": "roth",
+      "model": "SHIELD"
+    },
+    {
+      "market_name": "TegraNote",
+      "codename": "tegranote",
+      "model": "Tegra Note 7"
+    },
+    {
+      "market_name": "TegraNote",
+      "codename": "tegranote",
+      "model": "TegraNote-P1640"
+    },
+    {
+      "market_name": "TegraNote",
+      "codename": "tegranote",
+      "model": "TegraNote-Premium"
+    },
+    {
+      "market_name": "TegraNote",
+      "codename": "tegranote7c",
+      "model": "Tegra Note 7"
+    }
+  ]
+}

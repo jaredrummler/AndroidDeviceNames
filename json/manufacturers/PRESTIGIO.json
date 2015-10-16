@@ -1,0 +1,315 @@
+{
+  "manufacturer": "Prestigio",
+  "devices": [
+    {
+      "market_name": "GV7790",
+      "codename": "GV7790",
+      "model": "GV7790"
+    },
+    {
+      "market_name": "Grace X3",
+      "codename": "PSP3455DUO",
+      "model": "PSP3455DUO"
+    },
+    {
+      "market_name": "Grace X5",
+      "codename": "PSP5470DUO",
+      "model": "PSP5470DUO"
+    },
+    {
+      "market_name": "Grace X7",
+      "codename": "PSP7505DUO",
+      "model": "PSP7505DUO"
+    },
+    {
+      "market_name": "MultiPad Thunder 7.0i",
+      "codename": "g01p",
+      "model": "PMT3377_Wi"
+    },
+    {
+      "market_name": "MultiPad Wize 3037 3G",
+      "codename": "PMT3038_3G",
+      "model": "PMT3037_3G"
+    },
+    {
+      "market_name": "MultiPad Wize 3038 3G",
+      "codename": "PMT3038_3G",
+      "model": "PMT3038_3G"
+    },
+    {
+      "market_name": "MultiPhone 5453 DUO",
+      "codename": "PSP5453DUO",
+      "model": "PSP5453DUO"
+    },
+    {
+      "market_name": "MultiPhone 5455 DUO",
+      "codename": "PSP5455DUO",
+      "model": "PSP5455DUO"
+    },
+    {
+      "market_name": "MultiPhone 5504 DUO",
+      "codename": "PSP5504DUO",
+      "model": "PSP5504DUO"
+    },
+    {
+      "market_name": "MultiPhone 5505 DUO",
+      "codename": "PSP5505DUO",
+      "model": "PSP5505DUO"
+    },
+    {
+      "market_name": "MultiPhone 5517 DUO",
+      "codename": "PSP5517DUO",
+      "model": "PSP5517DUO"
+    },
+    {
+      "market_name": "Multiphone 5508 DUO",
+      "codename": "PSP5508DUO",
+      "model": "PSP5508DUO"
+    },
+    {
+      "market_name": "Muze A3",
+      "codename": "PSP3452DUO",
+      "model": "PSP3452DUO"
+    },
+    {
+      "market_name": "PMT3008_Wi",
+      "codename": "PMT3008_Wi_C",
+      "model": "PMT3008_Wi_C"
+    },
+    {
+      "market_name": "PMT3011_3G",
+      "codename": "PMT3011_3G",
+      "model": "PMT3011_3G"
+    },
+    {
+      "market_name": "PMT3021_3G",
+      "codename": "PMT3011_3G",
+      "model": "PMT3021_3G"
+    },
+    {
+      "market_name": "PMT3031_3G",
+      "codename": "PMT3011_3G",
+      "model": "PMT3031_3G"
+    },
+    {
+      "market_name": "PMT3047_3G",
+      "codename": "PMT3047_3G",
+      "model": "PMT3047_3G"
+    },
+    {
+      "market_name": "PMT3057_3G",
+      "codename": "PMT3057_3G",
+      "model": "PMT3057_3G"
+    },
+    {
+      "market_name": "PMT3067_3G",
+      "codename": "PMT3057_3G",
+      "model": "PMT3067_3G"
+    },
+    {
+      "market_name": "PMT3087_3G",
+      "codename": "PMT3057_3G",
+      "model": "PMT3087_3G"
+    },
+    {
+      "market_name": "PMT3177_3G",
+      "codename": "PMT3177_3G",
+      "model": "PMT3177_3G"
+    },
+    {
+      "market_name": "PMT3277_3G",
+      "codename": "PMT3277_3G",
+      "model": "PMT3277_3G"
+    },
+    {
+      "market_name": "PMT3287_3G",
+      "codename": "PMT3287_3G",
+      "model": "PMT3287_3G"
+    },
+    {
+      "market_name": "PMT3677_Wi",
+      "codename": "PMT3677",
+      "model": "PMT3677_Wi"
+    },
+    {
+      "market_name": "PMT5001_3G",
+      "codename": "PMT5001_3G",
+      "model": "PMT5001_3G"
+    },
+    {
+      "market_name": "PMT5002_Wi",
+      "codename": "PMT5002_Wi",
+      "model": "PMT5002_Wi"
+    },
+    {
+      "market_name": "PMT5008_3G",
+      "codename": "PMT5008_3G",
+      "model": "PMT5008_3G"
+    },
+    {
+      "market_name": "PMT5011_3G",
+      "codename": "PMT5001_3G",
+      "model": "PMT5011_3G"
+    },
+    {
+      "market_name": "PMT5018_3G",
+      "codename": "PMT5008_3G",
+      "model": "PMT5018_3G"
+    },
+    {
+      "market_name": "PMT5021_3G",
+      "codename": "PMT5001_3G",
+      "model": "PMT5021_3G"
+    },
+    {
+      "market_name": "PMT5287_4G",
+      "codename": "PMT5287_4G",
+      "model": "PMT5287_4G"
+    },
+    {
+      "market_name": "PMT5487_3G",
+      "codename": "PMT5487_3G",
+      "model": "PMT5487_3G"
+    },
+    {
+      "market_name": "PMT5777_3G",
+      "codename": "PMT5777_3G",
+      "model": "PMT5777_3G"
+    },
+    {
+      "market_name": "PMT5887_3G",
+      "codename": "PMT5887_3G",
+      "model": "PMT5887_3G"
+    },
+    {
+      "market_name": "PMT7008_4G",
+      "codename": "PMT7008_4G",
+      "model": "PMT7008_4G"
+    },
+    {
+      "market_name": "PMT7177_3G",
+      "codename": "PMT7177_3G",
+      "model": "PMT7177_3G"
+    },
+    {
+      "market_name": "PMT7287_3G",
+      "codename": "PMT7287_3G",
+      "model": "PMT7287_3G"
+    },
+    {
+      "market_name": "PMT7787_3G",
+      "codename": "PMT7787_3G",
+      "model": "PMT7787_3G"
+    },
+    {
+      "market_name": "PSP3404DUO",
+      "codename": "PSP3404DUO",
+      "model": "PSP3404DUO"
+    },
+    {
+      "market_name": "PSP3405DUO",
+      "codename": "PSP3405DUO",
+      "model": "PSP3405DUO"
+    },
+    {
+      "market_name": "PSP3450DUO",
+      "codename": "PSP3450DUO",
+      "model": "PSP3450DUO"
+    },
+    {
+      "market_name": "PSP3456DUO",
+      "codename": "PSP3456DUO",
+      "model": "PSP3456DUO"
+    },
+    {
+      "market_name": "PSP3502DUO",
+      "codename": "PSP3502DUO",
+      "model": "PSP3502DUO"
+    },
+    {
+      "market_name": "PSP3503DUO",
+      "codename": "PSP3503DUO",
+      "model": "PSP3503DUO"
+    },
+    {
+      "market_name": "PSP3505DUO",
+      "codename": "PSP3503DUO",
+      "model": "PSP3505DUO"
+    },
+    {
+      "market_name": "PSP5047DUO",
+      "codename": "MT6589",
+      "model": "PSP5047DUO"
+    },
+    {
+      "market_name": "PSP5454DUO",
+      "codename": "PSP5454DUO",
+      "model": "PSP5454DUO"
+    },
+    {
+      "market_name": "PSP5457DUO",
+      "codename": "MT6572",
+      "model": "PSP5457DUO"
+    },
+    {
+      "market_name": "PSP5507DUO",
+      "codename": "PSP5507DUO",
+      "model": "PSP5507DUO"
+    },
+    {
+      "market_name": "PSP5550DUO",
+      "codename": "PSP5550DUO",
+      "model": "PSP5550DUO"
+    },
+    {
+      "market_name": "Prestigio Grace",
+      "codename": "PSP7557",
+      "model": "PSP7557"
+    },
+    {
+      "market_name": "Prestigio MultiPad Wize 3009",
+      "codename": "PMT3009_Wi_C",
+      "model": "PMT3009_Wi_C"
+    },
+    {
+      "market_name": "Prestigio MultiPad Wize 3017",
+      "codename": "PMT3017_WI",
+      "model": "PMT3017_WI"
+    },
+    {
+      "market_name": "Prestigio MultiPad Wize 3018",
+      "codename": "PMT3018_WI",
+      "model": "PMT3018_WI"
+    },
+    {
+      "market_name": "Prestigio PMT5587_Wi",
+      "codename": "AML8726-MXS",
+      "model": "PMT5587_Wi"
+    },
+    {
+      "market_name": "Prestigio PMT5877C",
+      "codename": "PMT5877C",
+      "model": "PMT5877C"
+    },
+    {
+      "market_name": "Prestigio PMT7077_3G",
+      "codename": "PMT7077_3G",
+      "model": "PMT7077_3G"
+    },
+    {
+      "market_name": "Prestigio PMT7287C3G",
+      "codename": "PMT7287C3G",
+      "model": "PMT7287C3G"
+    },
+    {
+      "market_name": "Prestigio PSP5307DUO",
+      "codename": "PSP5307DUO",
+      "model": "PSP5307DUO"
+    },
+    {
+      "market_name": "Prestigio WIZE A3",
+      "codename": "PSP3453DUO",
+      "model": "PSP3453DUO"
+    }
+  ]
+}

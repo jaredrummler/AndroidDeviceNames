@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Nuvision",
+  "devices": [
+    {
+      "market_name": "TM1088",
+      "codename": "fiber-wifibt",
+      "model": "CT1000"
+    },
+    {
+      "market_name": "TM1088",
+      "codename": "fiber-wifibt",
+      "model": "Endeavour101"
+    },
+    {
+      "market_name": "TM1088",
+      "codename": "fiber-wifibt",
+      "model": "TM1088"
+    },
+    {
+      "market_name": "TM1088",
+      "codename": "fiber-wifibt",
+      "model": "WEBPAD1002"
+    },
+    {
+      "market_name": "TM785M3",
+      "codename": "TM785M3",
+      "model": "TM785M3"
+    },
+    {
+      "market_name": "TM800A510L",
+      "codename": "TM800A",
+      "model": "TM800A510L"
+    }
+  ]
+}

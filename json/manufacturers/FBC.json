@@ -1,0 +1,15 @@
+{
+  "manufacturer": "FBC",
+  "devices": [
+    {
+      "market_name": "M24IS810",
+      "codename": "MX24",
+      "model": "TDA02"
+    },
+    {
+      "market_name": "M24IS820",
+      "codename": "fst01ms",
+      "model": "M24IS820"
+    }
+  ]
+}

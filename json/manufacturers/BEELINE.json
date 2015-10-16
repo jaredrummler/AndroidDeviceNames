@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Beeline",
+  "devices": [
+    {
+      "market_name": "Beeline Pro 2",
+      "codename": "Beeline_Pro_2",
+      "model": "Beeline Pro 2"
+    },
+    {
+      "market_name": "Beeline Tab",
+      "codename": "Beeline_Tab",
+      "model": "Beeline Tab"
+    },
+    {
+      "market_name": "Beeline Tab 2",
+      "codename": "Tab_2",
+      "model": "Tab_2"
+    },
+    {
+      "market_name": "Beeline_Tab IS",
+      "codename": "Beeline_Tab_IS",
+      "model": "Beeline_Tab_IS"
+    },
+    {
+      "market_name": "Smart Dual",
+      "codename": "Beeline",
+      "model": "Beeline Smart Dual"
+    }
+  ]
+}

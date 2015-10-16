@@ -1,0 +1,75 @@
+{
+  "manufacturer": "i-Buddie",
+  "devices": [
+    {
+      "market_name": "TA10CA1",
+      "codename": "TA10CA1",
+      "model": "TA10CA1"
+    },
+    {
+      "market_name": "TA10CA2",
+      "codename": "TA10CA2",
+      "model": "TA10CA2"
+    },
+    {
+      "market_name": "TA10CA3",
+      "codename": "TA10CA3",
+      "model": "TA10CA3"
+    },
+    {
+      "market_name": "TA10CA4",
+      "codename": "TA10CA4",
+      "model": "TA10CA4"
+    },
+    {
+      "market_name": "TA71CA1",
+      "codename": "TA71CA1",
+      "model": "TA71CA1"
+    },
+    {
+      "market_name": "TA71CA5",
+      "codename": "TA71CA5",
+      "model": "TA71CA5"
+    },
+    {
+      "market_name": "TA80CA1",
+      "codename": "TA80CA1",
+      "model": "TA80CA1"
+    },
+    {
+      "market_name": "TM75A-V2",
+      "codename": "TM75A-V2",
+      "model": "TM75A-V2"
+    },
+    {
+      "market_name": "TR10CD1",
+      "codename": "TR10CD1_2",
+      "model": "TR10CD1"
+    },
+    {
+      "market_name": "TR10CD1",
+      "codename": "TR10CD1_4",
+      "model": "TR10CD1"
+    },
+    {
+      "market_name": "TR10CD1_P",
+      "codename": "TR10CD1",
+      "model": "TR10CD1"
+    },
+    {
+      "market_name": "TR10CS1",
+      "codename": "TR10CS1_12",
+      "model": "TR10CS1"
+    },
+    {
+      "market_name": "TR10CS1",
+      "codename": "TR10CS1_2",
+      "model": "TR10CS1"
+    },
+    {
+      "market_name": "TR10CS1_P",
+      "codename": "TR10CS1",
+      "model": "TR10CS1"
+    }
+  ]
+}

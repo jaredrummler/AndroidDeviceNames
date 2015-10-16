@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Grundig",
+  "devices": [
+    {
+      "market_name": "GTB1030",
+      "codename": "TA10CA2",
+      "model": "TA10CA2"
+    },
+    {
+      "market_name": "GTB1050",
+      "codename": "GTB1050",
+      "model": "GTB 1050"
+    },
+    {
+      "market_name": "GTB850",
+      "codename": "GTB850",
+      "model": "GTB 850"
+    },
+    {
+      "market_name": "TC69CA2",
+      "codename": "GTB801",
+      "model": "GTB 801"
+    }
+  ]
+}

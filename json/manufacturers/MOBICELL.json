@@ -1,0 +1,55 @@
+{
+  "manufacturer": "Mobicell",
+  "devices": [
+    {
+      "market_name": "Air",
+      "codename": "Mobicel_Air",
+      "model": "Air"
+    },
+    {
+      "market_name": "CHERRY",
+      "codename": "CHERRY",
+      "model": "CHERRY"
+    },
+    {
+      "market_name": "ECHO",
+      "codename": "ECHO",
+      "model": "ECHO"
+    },
+    {
+      "market_name": "HERO X",
+      "codename": "HERO_X",
+      "model": "HERO_X"
+    },
+    {
+      "market_name": "METRO2",
+      "codename": "METRO2",
+      "model": "MOBICEL METRO2"
+    },
+    {
+      "market_name": "Matrix",
+      "codename": "Matrix",
+      "model": "Matrix"
+    },
+    {
+      "market_name": "Mobicel",
+      "codename": "Sonic",
+      "model": "Sonic"
+    },
+    {
+      "market_name": "Mobicel",
+      "codename": "Venus",
+      "model": "Venus"
+    },
+    {
+      "market_name": "ONYX",
+      "codename": "ONYX",
+      "model": "ONYX"
+    },
+    {
+      "market_name": "Samba",
+      "codename": "Samba",
+      "model": "Samba"
+    }
+  ]
+}

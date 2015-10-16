@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Finggo",
+  "devices": [
+    {
+      "market_name": "FWSP-S1000",
+      "codename": "FWSP-S1000-HW",
+      "model": "FWSP-S1000"
+    },
+    {
+      "market_name": "FWTA-T1000",
+      "codename": "FWTA-T1000",
+      "model": "FWTA-T1000"
+    }
+  ]
+}

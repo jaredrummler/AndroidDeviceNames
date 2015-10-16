@@ -1,0 +1,30 @@
+{
+  "manufacturer": "General Mobile",
+  "devices": [
+    {
+      "market_name": "Discovery Air",
+      "codename": "Discovery_Air",
+      "model": "Discovery Air"
+    },
+    {
+      "market_name": "Discovery II Mini",
+      "codename": "Discovery_II_Mini",
+      "model": "Discovery II Mini"
+    },
+    {
+      "market_name": "General Mobile 4G",
+      "codename": "gm4g_s_sprout",
+      "model": "General Mobile 4G"
+    },
+    {
+      "market_name": "General Mobile 4G",
+      "codename": "gm4gtkc_s_sprout",
+      "model": "General Mobile 4G"
+    },
+    {
+      "market_name": "General Mobile 4G Dual",
+      "codename": "gm4g_sprout",
+      "model": "General Mobile 4G Dual"
+    }
+  ]
+}

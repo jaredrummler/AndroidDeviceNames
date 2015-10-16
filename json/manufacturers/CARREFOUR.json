@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Carrefour",
+  "devices": [
+    {
+      "market_name": "CT1000",
+      "codename": "Carrefour",
+      "model": "CT1000"
+    },
+    {
+      "market_name": "CT726",
+      "codename": "CT726",
+      "model": "CT726"
+    },
+    {
+      "market_name": "CT826",
+      "codename": "CT826",
+      "model": "CT826"
+    },
+    {
+      "market_name": "Carrefour CT1020W",
+      "codename": "M1010FP",
+      "model": "CT1020W"
+    },
+    {
+      "market_name": "Carrefour CT820",
+      "codename": "M878LP",
+      "model": "CT820"
+    }
+  ]
+}

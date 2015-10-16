@@ -1,0 +1,50 @@
+{
+  "manufacturer": "Condor",
+  "devices": [
+    {
+      "market_name": "C1+",
+      "codename": "C1Plus",
+      "model": "C1+"
+    },
+    {
+      "market_name": "C7",
+      "codename": "PGN_506",
+      "model": "PGN-506"
+    },
+    {
+      "market_name": "C_5",
+      "codename": "u970_5",
+      "model": "C-6"
+    },
+    {
+      "market_name": "Condor A9",
+      "codename": "PGN_507",
+      "model": "PGN-507"
+    },
+    {
+      "market_name": "Condor C6+",
+      "codename": "PGN_508",
+      "model": "PGN-508"
+    },
+    {
+      "market_name": "HS-U939",
+      "codename": "u939e_6",
+      "model": "HS-U939"
+    },
+    {
+      "market_name": "PGN404",
+      "codename": "PGN404",
+      "model": "PGN404"
+    },
+    {
+      "market_name": "PGN509",
+      "codename": "PGN509",
+      "model": "PGN509"
+    },
+    {
+      "market_name": "PGN511",
+      "codename": "PGN511",
+      "model": "PGN511"
+    }
+  ]
+}

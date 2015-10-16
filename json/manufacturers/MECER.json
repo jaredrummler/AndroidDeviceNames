@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Mecer",
+  "devices": [
+    {
+      "market_name": "101P51C",
+      "codename": "101P51C",
+      "model": "101P51C"
+    },
+    {
+      "market_name": "800P31C",
+      "codename": "800P31C",
+      "model": "800P31C"
+    },
+    {
+      "market_name": "TEI11011",
+      "codename": "TEI11011MST",
+      "model": "TEI11011MST"
+    }
+  ]
+}

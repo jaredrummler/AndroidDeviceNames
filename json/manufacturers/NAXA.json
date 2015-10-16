@@ -1,0 +1,15 @@
+{
+  "manufacturer": "NAXA",
+  "devices": [
+    {
+      "market_name": "NAXA NID-7011",
+      "codename": "NID-7011",
+      "model": "NID-7011"
+    },
+    {
+      "market_name": "NID_7010",
+      "codename": "NID_7010",
+      "model": "NID_7010"
+    }
+  ]
+}

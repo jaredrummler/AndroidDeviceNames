@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Digitron",
+  "devices": [
+    {
+      "market_name": "i-Buddie",
+      "codename": "TR10CD1_10",
+      "model": "TR10CD1"
+    },
+    {
+      "market_name": "i_Buddie",
+      "codename": "TR10CS1_12",
+      "model": "TR10CS1"
+    }
+  ]
+}

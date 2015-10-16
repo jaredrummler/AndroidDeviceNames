@@ -1,0 +1,25 @@
+{
+  "manufacturer": "FarEasTone",
+  "devices": [
+    {
+      "market_name": "Smart 403",
+      "codename": "msm8226",
+      "model": "Smart 403"
+    },
+    {
+      "market_name": "Smart 505",
+      "codename": "Smart505",
+      "model": "Smart 505"
+    },
+    {
+      "market_name": "Smart501",
+      "codename": "Smart501",
+      "model": "Smart501"
+    },
+    {
+      "market_name": "Smart503",
+      "codename": "MC2",
+      "model": "Smart503"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Lava",
+  "devices": [
+    {
+      "market_name": "Pixel V1",
+      "codename": "PixelV1_sprout",
+      "model": "PixelV1"
+    },
+    {
+      "market_name": "XOLO LT900",
+      "codename": "LT900",
+      "model": "LT900"
+    }
+  ]
+}

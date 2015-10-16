@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Moxee Technologies",
+  "devices": [
+    {
+      "market_name": "X1",
+      "codename": "X1",
+      "model": "X1"
+    },
+    {
+      "market_name": "X10",
+      "codename": "X10",
+      "model": "X10"
+    },
+    {
+      "market_name": "X100",
+      "codename": "X100",
+      "model": "X100"
+    }
+  ]
+}

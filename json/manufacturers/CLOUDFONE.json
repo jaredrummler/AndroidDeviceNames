@@ -1,0 +1,35 @@
+{
+  "manufacturer": "CloudFone",
+  "devices": [
+    {
+      "market_name": "Cloudpad One 6.95",
+      "codename": "one695_1_coho",
+      "model": "one695_1"
+    },
+    {
+      "market_name": "Cloudpad One 6.95",
+      "codename": "one695_1_coho",
+      "model": "one695_1_coho"
+    },
+    {
+      "market_name": "Cloudpad One 7.0",
+      "codename": "one7_0_4_coho",
+      "model": "one7_0_4"
+    },
+    {
+      "market_name": "Cloudpad One 7.0",
+      "codename": "one7_0_4_coho",
+      "model": "one7_0_4_coho"
+    },
+    {
+      "market_name": "Cloudpad One 8.0",
+      "codename": "one8_0_1_coho",
+      "model": "one8_0_1"
+    },
+    {
+      "market_name": "Cloudpad One 8.0",
+      "codename": "one8_0_1_coho",
+      "model": "one8_0_1_coho"
+    }
+  ]
+}

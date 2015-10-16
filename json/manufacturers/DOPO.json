@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Dopo",
+  "devices": [
+    {
+      "market_name": "DOPO EM63 Tablet",
+      "codename": "EM63",
+      "model": "EM63"
+    },
+    {
+      "market_name": "DOPO GS-918",
+      "codename": "GS_918",
+      "model": "GS-918"
+    },
+    {
+      "market_name": "DP7856K",
+      "codename": "DP7856K",
+      "model": "DP7856K"
+    },
+    {
+      "market_name": "DPA23D",
+      "codename": "polaris-wifionly",
+      "model": "DPA23D"
+    },
+    {
+      "market_name": "DPM1081",
+      "codename": "RCT6203W46",
+      "model": "DPM1081"
+    },
+    {
+      "market_name": "DPM7827",
+      "codename": "RCT6773W22",
+      "model": "DPM7827"
+    }
+  ]
+}

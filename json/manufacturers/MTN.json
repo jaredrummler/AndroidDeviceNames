@@ -1,0 +1,25 @@
+{
+  "manufacturer": "MTN",
+  "devices": [
+    {
+      "market_name": "MTN-5982C3",
+      "codename": "MTN-TBW5982C3",
+      "model": "MTN-TBW5982C3"
+    },
+    {
+      "market_name": "MTN-8978P",
+      "codename": "MTN-8978P",
+      "model": "MTN-8978P"
+    },
+    {
+      "market_name": "MTN-S620",
+      "codename": "MTN-S620",
+      "model": "MTN-S620"
+    },
+    {
+      "market_name": "MTN-S720i",
+      "codename": "MTN-S720i",
+      "model": "MTN-S720i"
+    }
+  ]
+}

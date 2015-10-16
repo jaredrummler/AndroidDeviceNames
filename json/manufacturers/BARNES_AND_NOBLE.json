@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Barnes and Noble",
+  "devices": [
+    {
+      "market_name": "NOOK\\xc2\\xae HD",
+      "codename": "hummingbird",
+      "model": "BNTV400"
+    },
+    {
+      "market_name": "NOOK\\xc2\\xae HD+",
+      "codename": "ovation",
+      "model": "BNTV600"
+    }
+  ]
+}

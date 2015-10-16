@@ -1,0 +1,35 @@
+{
+  "manufacturer": "iView",
+  "devices": [
+    {
+      "market_name": "776TPCIII",
+      "codename": "776TPCIII",
+      "model": "776TPCIII"
+    },
+    {
+      "market_name": "iView 778TPC",
+      "codename": "778TPC",
+      "model": "778TPC"
+    },
+    {
+      "market_name": "iView 788TPCII",
+      "codename": "iView_788TPCII",
+      "model": "788TPCII"
+    },
+    {
+      "market_name": "iView 920TPC",
+      "codename": "920TPC",
+      "model": "920TPC"
+    },
+    {
+      "market_name": "iView SupraPad i700",
+      "codename": "g01i",
+      "model": "i700"
+    },
+    {
+      "market_name": "iView SupraPad i785Q",
+      "codename": "anchor",
+      "model": "i785Q"
+    }
+  ]
+}

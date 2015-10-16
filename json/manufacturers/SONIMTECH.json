@@ -1,0 +1,40 @@
+{
+  "manufacturer": "Sonimtech",
+  "devices": [
+    {
+      "market_name": "XP6",
+      "codename": "XP6700",
+      "model": "Ex-Handy 209"
+    },
+    {
+      "market_name": "XP6",
+      "codename": "XP6700",
+      "model": "XP6700"
+    },
+    {
+      "market_name": "XP7",
+      "codename": "XP7700",
+      "model": "Smart-Ex 201"
+    },
+    {
+      "market_name": "XP7",
+      "codename": "XP7700",
+      "model": "XP7700"
+    },
+    {
+      "market_name": "XP7",
+      "codename": "XP7700Z1",
+      "model": "Smart-Ex 01"
+    },
+    {
+      "market_name": "XP7700Z1",
+      "codename": "XP7700Z1",
+      "model": "Smart-Ex 01"
+    },
+    {
+      "market_name": "XP7705",
+      "codename": "XP7705",
+      "model": "XP7700"
+    }
+  ]
+}

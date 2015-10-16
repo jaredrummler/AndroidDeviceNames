@@ -1,0 +1,50 @@
+{
+  "manufacturer": "ECS",
+  "devices": [
+    {
+      "market_name": "RealPad MA7BX2",
+      "codename": "RealPad_MA7BX2_1",
+      "model": "RealPad MA7BX2"
+    },
+    {
+      "market_name": "TC69CA2",
+      "codename": "TC69CA2_1",
+      "model": "TC69CA2"
+    },
+    {
+      "market_name": "TC70RA1",
+      "codename": "TC70RA1_2",
+      "model": "TC70RA1"
+    },
+    {
+      "market_name": "TI10RA1",
+      "codename": "TI10RA1_1",
+      "model": "TI10RA1"
+    },
+    {
+      "market_name": "TL10RA2",
+      "codename": "TL10RA2_1",
+      "model": "TL10RA2"
+    },
+    {
+      "market_name": "TP10RA1",
+      "codename": "TP10RA1_1",
+      "model": "TP10RA1"
+    },
+    {
+      "market_name": "TR10CS1",
+      "codename": "TR10CS1_8",
+      "model": "TR10CS1"
+    },
+    {
+      "market_name": "TR10RS1",
+      "codename": "TR10RS1_11",
+      "model": "TR10RS1"
+    },
+    {
+      "market_name": "TR10RS1",
+      "codename": "TR10RS1_2",
+      "model": "TR10RS1"
+    }
+  ]
+}

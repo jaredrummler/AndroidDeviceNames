@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Binatone",
+  "devices": [
+    {
+      "market_name": "SMART64",
+      "codename": "SMART64",
+      "model": "SMART64"
+    },
+    {
+      "market_name": "Smart 63",
+      "codename": "SMART63",
+      "model": "SMART63"
+    },
+    {
+      "market_name": "Smart 66",
+      "codename": "SMART66",
+      "model": "SMART66"
+    }
+  ]
+}

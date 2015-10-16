@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Toughshield",
+  "devices": [
+    {
+      "market_name": "R200",
+      "codename": "R200",
+      "model": "R200"
+    },
+    {
+      "market_name": "T700_TABLET",
+      "codename": "T700_TABLET",
+      "model": "T700"
+    }
+  ]
+}

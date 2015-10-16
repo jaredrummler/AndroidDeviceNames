@@ -1,0 +1,630 @@
+{
+  "manufacturer": "Acer",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "C6",
+      "model": "Acer E320"
+    },
+    {
+      "market_name": "",
+      "codename": "C6",
+      "model": "Acer E320-orange"
+    },
+    {
+      "market_name": "",
+      "codename": "C7",
+      "model": "E330"
+    },
+    {
+      "market_name": "",
+      "codename": "C8n",
+      "model": "E350"
+    },
+    {
+      "market_name": "",
+      "codename": "K3",
+      "model": "E130"
+    },
+    {
+      "market_name": "",
+      "codename": "T2",
+      "model": "AT390"
+    },
+    {
+      "market_name": "",
+      "codename": "T603T",
+      "model": "TD600"
+    },
+    {
+      "market_name": "",
+      "codename": "a3",
+      "model": "Stream"
+    },
+    {
+      "market_name": "",
+      "codename": "a5",
+      "model": "S300"
+    },
+    {
+      "market_name": "",
+      "codename": "c4",
+      "model": "E310"
+    },
+    {
+      "market_name": "",
+      "codename": "k4",
+      "model": "E140"
+    },
+    {
+      "market_name": "",
+      "codename": "k5",
+      "model": "E210"
+    },
+    {
+      "market_name": "A1-713",
+      "codename": "acer_aprilia",
+      "model": "A1-713"
+    },
+    {
+      "market_name": "A1-810",
+      "codename": "mango",
+      "model": "A1-810"
+    },
+    {
+      "market_name": "A1-811",
+      "codename": "mango",
+      "model": "A1-811"
+    },
+    {
+      "market_name": "A1-830",
+      "codename": "ducati",
+      "model": "A1-830"
+    },
+    {
+      "market_name": "A100",
+      "codename": "vangogh",
+      "model": "A100"
+    },
+    {
+      "market_name": "A101",
+      "codename": "vangogh",
+      "model": "A101"
+    },
+    {
+      "market_name": "A110",
+      "codename": "a110",
+      "model": "A110"
+    },
+    {
+      "market_name": "A3-A10",
+      "codename": "zara",
+      "model": "A3-A10"
+    },
+    {
+      "market_name": "A3-A11",
+      "codename": "zara",
+      "model": "A3-A11"
+    },
+    {
+      "market_name": "A3-A20",
+      "codename": "acer_harley",
+      "model": "A3-A20"
+    },
+    {
+      "market_name": "A3-A20FHD",
+      "codename": "acer_harleyfhd",
+      "model": "A3-A20FHD"
+    },
+    {
+      "market_name": "A3-A30",
+      "codename": "omega",
+      "model": "A3-A30"
+    },
+    {
+      "market_name": "AK330s",
+      "codename": "C8n",
+      "model": "AK330S"
+    },
+    {
+      "market_name": "Aspire A3",
+      "codename": "aa3-600",
+      "model": "AA3-600"
+    },
+    {
+      "market_name": "B1-710",
+      "codename": "B1-710",
+      "model": "B1-710"
+    },
+    {
+      "market_name": "B1-711",
+      "codename": "B1-711",
+      "model": "B1-711"
+    },
+    {
+      "market_name": "B1-720",
+      "codename": "b1-720",
+      "model": "b1-720"
+    },
+    {
+      "market_name": "B1-721",
+      "codename": "b1-721",
+      "model": "b1-721"
+    },
+    {
+      "market_name": "B1-730",
+      "codename": "vespatn",
+      "model": "B1-730"
+    },
+    {
+      "market_name": "B1-730HD",
+      "codename": "vespa",
+      "model": "B1-730HD"
+    },
+    {
+      "market_name": "B1-820",
+      "codename": "citizen",
+      "model": "B1-820"
+    },
+    {
+      "market_name": "B1-A71",
+      "codename": "B1-A71",
+      "model": "B1-A71"
+    },
+    {
+      "market_name": "CloudMobile S500",
+      "codename": "a9",
+      "model": "S500"
+    },
+    {
+      "market_name": "DA220HQL",
+      "codename": "DA220HQL",
+      "model": "DA220HQL"
+    },
+    {
+      "market_name": "DA221HQL",
+      "codename": "da1",
+      "model": "DA221HQL"
+    },
+    {
+      "market_name": "DA222HQL",
+      "codename": "da2",
+      "model": "DA222HQL"
+    },
+    {
+      "market_name": "DA222HQLA",
+      "codename": "da2",
+      "model": "DA222HQLA"
+    },
+    {
+      "market_name": "DA222HQLA",
+      "codename": "da222hqla",
+      "model": "DA222HQLA"
+    },
+    {
+      "market_name": "DA223HQL",
+      "codename": "da3",
+      "model": "DA223HQL"
+    },
+    {
+      "market_name": "DA226HQ",
+      "codename": "da6",
+      "model": "DA226HQ"
+    },
+    {
+      "market_name": "DA241HL",
+      "codename": "DA241HL",
+      "model": "DA241HL"
+    },
+    {
+      "market_name": "DA245HQL",
+      "codename": "da245hql",
+      "model": "DA245HQL"
+    },
+    {
+      "market_name": "E380",
+      "codename": "acer_e3n",
+      "model": "E380"
+    },
+    {
+      "market_name": "G1-715",
+      "codename": "G1-715",
+      "model": "G1-715"
+    },
+    {
+      "market_name": "G100W",
+      "codename": "maya",
+      "model": "G100W"
+    },
+    {
+      "market_name": "I110",
+      "codename": "I1",
+      "model": "I110"
+    },
+    {
+      "market_name": "Icona One 7",
+      "codename": "vespa",
+      "model": "B1-730HD"
+    },
+    {
+      "market_name": "Iconia One 7",
+      "codename": "G1-725",
+      "model": "G1-725"
+    },
+    {
+      "market_name": "Iconia One 7",
+      "codename": "vespa",
+      "model": "B1-730HD"
+    },
+    {
+      "market_name": "Iconia One 7",
+      "codename": "vespa2",
+      "model": "B1-750"
+    },
+    {
+      "market_name": "Iconia One 7",
+      "codename": "vespatn",
+      "model": "B1-730"
+    },
+    {
+      "market_name": "Iconia One 8",
+      "codename": "vespa8",
+      "model": "A1-850"
+    },
+    {
+      "market_name": "Iconia One 8",
+      "codename": "vespa8",
+      "model": "B1-810"
+    },
+    {
+      "market_name": "Iconia Tab 10",
+      "codename": "acer_harley",
+      "model": "A3-A20"
+    },
+    {
+      "market_name": "Iconia Tab 10",
+      "codename": "acer_harleyfhd",
+      "model": "A3-A20FHD"
+    },
+    {
+      "market_name": "Iconia Tab 7",
+      "codename": "acer_aprilia",
+      "model": "A1-713"
+    },
+    {
+      "market_name": "Iconia Tab 7",
+      "codename": "acer_apriliahd",
+      "model": "A1-713HD"
+    },
+    {
+      "market_name": "Iconia Tab 8",
+      "codename": "ducati2fhd",
+      "model": "A1-840FHD"
+    },
+    {
+      "market_name": "Iconia Tab 8",
+      "codename": "ducati2hd",
+      "model": "A1-840"
+    },
+    {
+      "market_name": "Iconia Tab 8",
+      "codename": "ducati2hd3g",
+      "model": "A1-841"
+    },
+    {
+      "market_name": "Iconia Tab A100 (VanGogh)",
+      "codename": "vangogh",
+      "model": "A100"
+    },
+    {
+      "market_name": "Iconia Tab A100 (VanGogh)",
+      "codename": "vangogh",
+      "model": "A101"
+    },
+    {
+      "market_name": "Iconia Tab A200",
+      "codename": "picasso_e",
+      "model": "A200"
+    },
+    {
+      "market_name": "Iconia Tab A210",
+      "codename": "picasso_e2",
+      "model": "A210"
+    },
+    {
+      "market_name": "Iconia Tab A211",
+      "codename": "picasso_e2",
+      "model": "A211"
+    },
+    {
+      "market_name": "Iconia Tab A500",
+      "codename": "picasso",
+      "model": "A500"
+    },
+    {
+      "market_name": "Iconia Tab A501",
+      "codename": "picasso",
+      "model": "A501"
+    },
+    {
+      "market_name": "Iconia Tab A510",
+      "codename": "picasso_m",
+      "model": "A510"
+    },
+    {
+      "market_name": "Iconia Tab A511",
+      "codename": "picasso_m",
+      "model": "A511"
+    },
+    {
+      "market_name": "Iconia Tab A700",
+      "codename": "picasso_mf",
+      "model": "A700"
+    },
+    {
+      "market_name": "Iconia Tab A701",
+      "codename": "picasso_mf",
+      "model": "A701"
+    },
+    {
+      "market_name": "Iconia TalkTab 7",
+      "codename": "acer_a1_724",
+      "model": "A1-724"
+    },
+    {
+      "market_name": "Liquid",
+      "codename": "a1",
+      "model": "Acer Liquid"
+    },
+    {
+      "market_name": "Liquid",
+      "codename": "a1",
+      "model": "Acer S100"
+    },
+    {
+      "market_name": "Liquid",
+      "codename": "a1",
+      "model": "Liquid"
+    },
+    {
+      "market_name": "Liquid 200",
+      "codename": "acer_z200",
+      "model": "Z200"
+    },
+    {
+      "market_name": "Liquid C1",
+      "codename": "I1",
+      "model": "I110"
+    },
+    {
+      "market_name": "Liquid E1",
+      "codename": "C10",
+      "model": "V360"
+    },
+    {
+      "market_name": "Liquid E2",
+      "codename": "C11",
+      "model": "V370"
+    },
+    {
+      "market_name": "Liquid E3",
+      "codename": "acer_e3",
+      "model": "E380"
+    },
+    {
+      "market_name": "Liquid E3",
+      "codename": "acer_e3n",
+      "model": "E380"
+    },
+    {
+      "market_name": "Liquid E3S",
+      "codename": "acer_ZXR",
+      "model": "Z130"
+    },
+    {
+      "market_name": "Liquid E600",
+      "codename": "e600",
+      "model": "E600"
+    },
+    {
+      "market_name": "Liquid E700",
+      "codename": "acer_e39",
+      "model": "E39"
+    },
+    {
+      "market_name": "Liquid Gallant E350",
+      "codename": "C8",
+      "model": "AK330"
+    },
+    {
+      "market_name": "Liquid Gallant E350",
+      "codename": "C8",
+      "model": "E350"
+    },
+    {
+      "market_name": "Liquid Jade",
+      "codename": "acer_S55",
+      "model": "S55"
+    },
+    {
+      "market_name": "Liquid Jade S",
+      "codename": "acer_S56",
+      "model": "S56"
+    },
+    {
+      "market_name": "Liquid Jade Z",
+      "codename": "acer_S57",
+      "model": "S57"
+    },
+    {
+      "market_name": "Liquid Mini",
+      "codename": "C4R",
+      "model": "E310"
+    },
+    {
+      "market_name": "Liquid S1",
+      "codename": "a10",
+      "model": "S510"
+    },
+    {
+      "market_name": "Liquid S2",
+      "codename": "a12",
+      "model": "S520"
+    },
+    {
+      "market_name": "Liquid S3",
+      "codename": "s3",
+      "model": "S53"
+    },
+    {
+      "market_name": "Liquid X1",
+      "codename": "s3",
+      "model": "S53"
+    },
+    {
+      "market_name": "Liquid Z200",
+      "codename": "acer_z200",
+      "model": "Z200"
+    },
+    {
+      "market_name": "Liquid Z205",
+      "codename": "acer_z205",
+      "model": "Z205"
+    },
+    {
+      "market_name": "Liquid Z205",
+      "codename": "acer_z205p",
+      "model": "Z205"
+    },
+    {
+      "market_name": "Liquid Z205",
+      "codename": "acer_z205p",
+      "model": "Z205P"
+    },
+    {
+      "market_name": "Liquid Z220",
+      "codename": "z220",
+      "model": "Z220"
+    },
+    {
+      "market_name": "Liquid Z3",
+      "codename": "ZX",
+      "model": "Z130"
+    },
+    {
+      "market_name": "Liquid Z3",
+      "codename": "acer_ZXR",
+      "model": "Z130"
+    },
+    {
+      "market_name": "Liquid Z4",
+      "codename": "acer_Z6",
+      "model": "Z160"
+    },
+    {
+      "market_name": "Liquid Z410",
+      "codename": "acer_z410",
+      "model": "Z410"
+    },
+    {
+      "market_name": "Liquid Z5",
+      "codename": "acer_ZXL",
+      "model": "Z150"
+    },
+    {
+      "market_name": "Liquid Z500",
+      "codename": "acer_Z500",
+      "model": "Z500"
+    },
+    {
+      "market_name": "Liquid Z520",
+      "codename": "acer_z520",
+      "model": "Z520"
+    },
+    {
+      "market_name": "Liquid Z630",
+      "codename": "acer_t03",
+      "model": "T03"
+    },
+    {
+      "market_name": "LiquidMT",
+      "codename": "a4",
+      "model": "Acer Liquid Metal"
+    },
+    {
+      "market_name": "LiquidMT",
+      "codename": "a4",
+      "model": "Liquid MT"
+    },
+    {
+      "market_name": "LiquidMT",
+      "codename": "a4",
+      "model": "Liquid Metal"
+    },
+    {
+      "market_name": "M3-2200",
+      "codename": "da2",
+      "model": "M3-2200"
+    },
+    {
+      "market_name": "MWND1",
+      "codename": "MW1",
+      "model": "MWND1"
+    },
+    {
+      "market_name": "N3-2200",
+      "codename": "da2",
+      "model": "N3-2200"
+    },
+    {
+      "market_name": "Picasso",
+      "codename": "picasso",
+      "model": "A501"
+    },
+    {
+      "market_name": "Picasso",
+      "codename": "ventana",
+      "model": "A500"
+    },
+    {
+      "market_name": "Picasso",
+      "codename": "ventana",
+      "model": "G100W"
+    },
+    {
+      "market_name": "Picasso",
+      "codename": "ventana",
+      "model": "TPA60W"
+    },
+    {
+      "market_name": "TA2",
+      "codename": "ta2",
+      "model": "TA272HUL"
+    },
+    {
+      "market_name": "TA272HUL",
+      "codename": "ta2",
+      "model": "TA272HUL"
+    },
+    {
+      "market_name": "TPA60W",
+      "codename": "maya",
+      "model": "TPA60W"
+    },
+    {
+      "market_name": "Tab 7",
+      "codename": "td070va1",
+      "model": "TD070VA1"
+    },
+    {
+      "market_name": "Z110",
+      "codename": "Z1",
+      "model": "Z110"
+    },
+    {
+      "market_name": "Z120",
+      "codename": "Z2",
+      "model": "Z120"
+    }
+  ]
+}

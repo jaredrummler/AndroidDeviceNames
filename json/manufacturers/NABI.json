@@ -1,0 +1,35 @@
+{
+  "manufacturer": "nabi",
+  "devices": [
+    {
+      "market_name": "nabi 2 Tablet",
+      "codename": "mt799",
+      "model": "NABI2-NV7A"
+    },
+    {
+      "market_name": "nabi 2S Tablet",
+      "codename": "nabi2S",
+      "model": "SNB02-NV7A"
+    },
+    {
+      "market_name": "nabi Big Tab HD\\xe2\\x84\\xa2 20\"",
+      "codename": "DMTAB-NV20A",
+      "model": "DMTAB-NV20A"
+    },
+    {
+      "market_name": "nabi Big Tab HD\\xe2\\x84\\xa2 24\"",
+      "codename": "DMTAB-NV24A",
+      "model": "DMTAB-NV24A"
+    },
+    {
+      "market_name": "nabi DreamTab HD8 Tablet",
+      "codename": "DMTAB",
+      "model": "DMTAB-IN08A"
+    },
+    {
+      "market_name": "nabi DreamTab HD8 Tablet",
+      "codename": "t8400n",
+      "model": "DMTAB-NV08B"
+    }
+  ]
+}

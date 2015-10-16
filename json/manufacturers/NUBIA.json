@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Nubia",
+  "devices": [
+    {
+      "market_name": "NX401",
+      "codename": "NX40X",
+      "model": "NX401"
+    },
+    {
+      "market_name": "NX501",
+      "codename": "NX501",
+      "model": "NX501"
+    },
+    {
+      "market_name": "NX503A",
+      "codename": "NX503A",
+      "model": "NX503A"
+    }
+  ]
+}

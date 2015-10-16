@@ -1,0 +1,25 @@
+{
+  "manufacturer": "AOC",
+  "devices": [
+    {
+      "market_name": "A2272PWHT",
+      "codename": "AOC_WW",
+      "model": "G2SMNT"
+    },
+    {
+      "market_name": "AOC-A2272PW4T",
+      "codename": "AOC_WW",
+      "model": "G3SMNTA22"
+    },
+    {
+      "market_name": "AOC-A2272PW4T",
+      "codename": "AOC_WW",
+      "model": "G3SMNTA24"
+    },
+    {
+      "market_name": "AOC-A2472PW4T",
+      "codename": "G3SMNTA24",
+      "model": "G3SMNTA24"
+    }
+  ]
+}

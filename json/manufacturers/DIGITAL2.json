@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Digital2",
+  "devices": [
+    {
+      "market_name": "Digital2 Deluxe",
+      "codename": "nuclear-D2_Deluxe",
+      "model": "Digital2-Deluxe"
+    },
+    {
+      "market_name": "Digital2 Platinum",
+      "codename": "D2-963G",
+      "model": "Digital2 Platinum"
+    },
+    {
+      "market_name": "Digital2 Plus",
+      "codename": "Digital2Plus",
+      "model": "Digital2 Plus"
+    }
+  ]
+}

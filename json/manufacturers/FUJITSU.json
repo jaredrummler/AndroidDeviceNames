@@ -1,0 +1,340 @@
+{
+  "manufacturer": "Fujitsu",
+  "devices": [
+    {
+      "market_name": "ARROWS A SoftBank 101F",
+      "codename": "SBM101F",
+      "model": "101F"
+    },
+    {
+      "market_name": "ARROWS A SoftBank 201F",
+      "codename": "SBM201F",
+      "model": "201F"
+    },
+    {
+      "market_name": "ARROWS A SoftBank 202F",
+      "codename": "SBM202F",
+      "model": "202F"
+    },
+    {
+      "market_name": "ARROWS A SoftBank 301F",
+      "codename": "SBM301F",
+      "model": "301F"
+    },
+    {
+      "market_name": "ARROWS ES IS12F",
+      "codename": "FJI12",
+      "model": "IS12F"
+    },
+    {
+      "market_name": "ARROWS Kiss F-03D",
+      "codename": "f11sky",
+      "model": "F-03D"
+    },
+    {
+      "market_name": "ARROWS Kiss F-03E",
+      "codename": "F03E",
+      "model": "F-03E"
+    },
+    {
+      "market_name": "ARROWS M01",
+      "codename": "M01",
+      "model": "M01"
+    },
+    {
+      "market_name": "ARROWS M305",
+      "codename": "M305",
+      "model": "M305"
+    },
+    {
+      "market_name": "ARROWS M555",
+      "codename": "M555",
+      "model": "M555"
+    },
+    {
+      "market_name": "ARROWS M555",
+      "codename": "M555SB",
+      "model": "M555"
+    },
+    {
+      "market_name": "ARROWS Me F-11D",
+      "codename": "F11D",
+      "model": "F-11D"
+    },
+    {
+      "market_name": "ARROWS NX F-06E",
+      "codename": "F06E",
+      "model": "F-06E"
+    },
+    {
+      "market_name": "ARROWS S EM01F",
+      "codename": "EM01F",
+      "model": "EM01F"
+    },
+    {
+      "market_name": "ARROWS Tab F-05E",
+      "codename": "F05E",
+      "model": "F-05E"
+    },
+    {
+      "market_name": "ARROWS Tab FJT21",
+      "codename": "FJT21_jp_kdi",
+      "model": "FJT21"
+    },
+    {
+      "market_name": "ARROWS Tab LTE F-01D",
+      "codename": "blaze_tablet",
+      "model": "F-01D"
+    },
+    {
+      "market_name": "ARROWS Tab Wi-Fi FAR70B",
+      "codename": "FAR70B",
+      "model": "FAR70B"
+    },
+    {
+      "market_name": "ARROWS Tab Wi-Fi FAR75A/70A",
+      "codename": "blaze_tablet",
+      "model": "FAR7"
+    },
+    {
+      "market_name": "ARROWS V F-04E",
+      "codename": "F04E",
+      "model": "F-04E"
+    },
+    {
+      "market_name": "ARROWS X F-02E",
+      "codename": "F02E",
+      "model": "F-02E"
+    },
+    {
+      "market_name": "ARROWS X F-10D",
+      "codename": "F10D",
+      "model": "F-10D"
+    },
+    {
+      "market_name": "ARROWS X LTE F-05D",
+      "codename": "blaze",
+      "model": "F-05D"
+    },
+    {
+      "market_name": "ARROWS Z FJL22",
+      "codename": "FJL22_jp_kdi",
+      "model": "FJL22"
+    },
+    {
+      "market_name": "ARROWS Z ISW11F",
+      "codename": "FJI11",
+      "model": "ISW11F"
+    },
+    {
+      "market_name": "ARROWS Z ISW13F",
+      "codename": "FJI13",
+      "model": "ISW13F"
+    },
+    {
+      "market_name": "ARROWS ef FJL21",
+      "codename": "FJL21",
+      "model": "FJL21"
+    },
+    {
+      "market_name": "ARROWS mu F-07D",
+      "codename": "f11apo",
+      "model": "F-074"
+    },
+    {
+      "market_name": "ARROWS mu F-07D",
+      "codename": "f11apo",
+      "model": "F-07D"
+    },
+    {
+      "market_name": "ARROWS mu F-07D",
+      "codename": "f11apo",
+      "model": "FJJB091"
+    },
+    {
+      "market_name": "Disney Mobile on docomo F-07E",
+      "codename": "F07E",
+      "model": "F-07E"
+    },
+    {
+      "market_name": "Disney Mobile on docomo F-08D",
+      "codename": "blaze",
+      "model": "F-08D"
+    },
+    {
+      "market_name": "F-01F",
+      "codename": "F01F",
+      "model": "F-01F"
+    },
+    {
+      "market_name": "F-01H",
+      "codename": "F01H",
+      "model": "F-01H"
+    },
+    {
+      "market_name": "F-02F",
+      "codename": "F02F",
+      "model": "F-02F"
+    },
+    {
+      "market_name": "F-02G",
+      "codename": "F02G",
+      "model": "F-02G"
+    },
+    {
+      "market_name": "F-03F",
+      "codename": "F03F",
+      "model": "F-03F"
+    },
+    {
+      "market_name": "F-03G",
+      "codename": "F03G",
+      "model": "F-03G"
+    },
+    {
+      "market_name": "F-04F",
+      "codename": "F04F",
+      "model": "F-04F"
+    },
+    {
+      "market_name": "F-04G",
+      "codename": "F04G",
+      "model": "F-04G"
+    },
+    {
+      "market_name": "F-05F",
+      "codename": "F05F",
+      "model": "F-05F"
+    },
+    {
+      "market_name": "F-05G",
+      "codename": "F05G",
+      "model": "F-05G"
+    },
+    {
+      "market_name": "F-06F",
+      "codename": "F06F",
+      "model": "F-06F"
+    },
+    {
+      "market_name": "F-09D ANTEPRIMA",
+      "codename": "F09D",
+      "model": "F-09D"
+    },
+    {
+      "market_name": "F-09E",
+      "codename": "F09E",
+      "model": "F-09E"
+    },
+    {
+      "market_name": "F-12C",
+      "codename": "f11eif",
+      "model": "F-12C"
+    },
+    {
+      "market_name": "FARTM9334P1",
+      "codename": "FARTM9334",
+      "model": "FARTM9334P1"
+    },
+    {
+      "market_name": "FARTM933KZ",
+      "codename": "FARTM933KZ",
+      "model": "FARTM933KZ"
+    },
+    {
+      "market_name": "FARTMB611Y",
+      "codename": "FARTMB611Y",
+      "model": "FARTMB611Y"
+    },
+    {
+      "market_name": "FHMD001",
+      "codename": "FHMD001",
+      "model": "FHMD001"
+    },
+    {
+      "market_name": "M305",
+      "codename": "M305",
+      "model": "M305"
+    },
+    {
+      "market_name": "M363/P",
+      "codename": "UY1",
+      "model": "M363/P"
+    },
+    {
+      "market_name": "Patio100",
+      "codename": "Patio100",
+      "model": "Patio100"
+    },
+    {
+      "market_name": "Patio100",
+      "codename": "Patio100_3G",
+      "model": "Patio100_3G"
+    },
+    {
+      "market_name": "REGZA Phone IS11T",
+      "codename": "TSI11",
+      "model": "IS11T"
+    },
+    {
+      "market_name": "REGZA Phone T-01C",
+      "codename": "tg03",
+      "model": "IS04"
+    },
+    {
+      "market_name": "REGZA Phone T-01C",
+      "codename": "tg03",
+      "model": "T-01C"
+    },
+    {
+      "market_name": "REGZA Phone T-01D",
+      "codename": "blaze",
+      "model": "T-01D"
+    },
+    {
+      "market_name": "REGZA Phone T-02D",
+      "codename": "T02D",
+      "model": "T-02D"
+    },
+    {
+      "market_name": "Raku-Raku SMART PHONE F-12D",
+      "codename": "F12D",
+      "model": "F-12D"
+    },
+    {
+      "market_name": "Raku-Raku SMART PHONE2 F-08E",
+      "codename": "F08E",
+      "model": "F-08E"
+    },
+    {
+      "market_name": "STYLISTIC M350/CA2",
+      "codename": "M350",
+      "model": "M350"
+    },
+    {
+      "market_name": "STYLISTIC M532",
+      "codename": "mx532",
+      "model": "M532"
+    },
+    {
+      "market_name": "STYLISTIC M702",
+      "codename": "M702",
+      "model": "M702"
+    },
+    {
+      "market_name": "STYLISTIC MH350",
+      "codename": "MH350",
+      "model": "MH350"
+    },
+    {
+      "market_name": "STYLISTIC S01",
+      "codename": "S01",
+      "model": "S01-orange"
+    },
+    {
+      "market_name": "SZJ-JS101",
+      "codename": "SZJ101",
+      "model": "SZJ-JS101"
+    }
+  ]
+}

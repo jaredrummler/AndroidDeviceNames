@@ -1,0 +1,15 @@
+{
+  "manufacturer": "AZPEN",
+  "devices": [
+    {
+      "market_name": "AZPEN A720",
+      "codename": "wing-inet",
+      "model": "A720"
+    },
+    {
+      "market_name": "AZPEN A920",
+      "codename": "wing-ibt",
+      "model": "A920"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "manufacturer": "MTT",
+  "devices": [
+    {
+      "market_name": "Master",
+      "codename": "Master",
+      "model": "M.T.T. Master"
+    },
+    {
+      "market_name": "Smart Fun",
+      "codename": "SmartFun",
+      "model": "M.T.T. Smart Fun"
+    }
+  ]
+}

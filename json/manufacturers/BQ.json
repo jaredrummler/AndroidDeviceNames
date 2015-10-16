@@ -1,0 +1,60 @@
+{
+  "manufacturer": "bq",
+  "devices": [
+    {
+      "market_name": "Aquaris E10",
+      "codename": "Aquaris_E10",
+      "model": "Aquaris E10"
+    },
+    {
+      "market_name": "Aquaris E10 3G",
+      "codename": "Aquaris_E10_3G",
+      "model": "Aquaris E10 3G"
+    },
+    {
+      "market_name": "Aquaris E4",
+      "codename": "Aquaris_E4",
+      "model": "Aquaris E4"
+    },
+    {
+      "market_name": "Aquaris E4.5",
+      "codename": "Aquaris_E45",
+      "model": "Aquaris E4.5"
+    },
+    {
+      "market_name": "Aquaris E5",
+      "codename": "Aquaris_E5",
+      "model": "Aquaris E5"
+    },
+    {
+      "market_name": "Aquaris E5 FHD",
+      "codename": "Aquaris_E5_FHD",
+      "model": "Aquaris E5 FHD"
+    },
+    {
+      "market_name": "Aquaris E5 HD",
+      "codename": "Aquaris_E5_HD",
+      "model": "Aquaris E5 HD"
+    },
+    {
+      "market_name": "Aquaris E6",
+      "codename": "Aquaris_E6",
+      "model": "Aquaris E6"
+    },
+    {
+      "market_name": "Edison 3",
+      "codename": "Edison_3",
+      "model": "Edison 3"
+    },
+    {
+      "market_name": "Edison_3_mini",
+      "codename": "Edison_3_mini",
+      "model": "Edison 3 mini"
+    },
+    {
+      "market_name": "bq Edison 3 3G",
+      "codename": "Edison_3_3G",
+      "model": "Edison 3 3G"
+    }
+  ]
+}

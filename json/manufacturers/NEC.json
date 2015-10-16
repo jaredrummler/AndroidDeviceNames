@@ -1,0 +1,385 @@
+{
+  "manufacturer": "NEC",
+  "devices": [
+    {
+      "market_name": "101T \\xe3\\x80\\x80MEDIAS",
+      "codename": "NEC-101",
+      "model": "NEC-101T"
+    },
+    {
+      "market_name": "AGT10",
+      "codename": "AGT10",
+      "model": "N8730-411"
+    },
+    {
+      "market_name": "AGT10",
+      "codename": "AGT10",
+      "model": "N8730-41101"
+    },
+    {
+      "market_name": "AGT10",
+      "codename": "AGT10",
+      "model": "N8730-41102"
+    },
+    {
+      "market_name": "CASIO G\\\u0027zOne Commando 4G LTE",
+      "codename": "C811",
+      "model": "C811 4G"
+    },
+    {
+      "market_name": "Casio G\\\u0027zOne Commando",
+      "codename": "C771",
+      "model": "C771"
+    },
+    {
+      "market_name": "Disney Mobile on docomoN-03E",
+      "codename": "N-03E",
+      "model": "N-03E"
+    },
+    {
+      "market_name": "G\\\u0027z One IS11CA",
+      "codename": "IS11CA",
+      "model": "IS11CA"
+    },
+    {
+      "market_name": "G\\\u0027zOne TYPE-L CAL21",
+      "codename": "CAL21",
+      "model": "CAL21"
+    },
+    {
+      "market_name": "G\\xe2\\x80\\x99zOne  CA-201L",
+      "codename": "CA201L",
+      "model": "CA-201L"
+    },
+    {
+      "market_name": "LaVieTab PC-TE508BAW",
+      "codename": "TE508BAW",
+      "model": "PC-TE508BAW"
+    },
+    {
+      "market_name": "LaVieTab PC-TE508S1W/LaVieTab PC- TE508S1L",
+      "codename": "PC-TE508S1_nec",
+      "model": "LaVieTab PC-TE508S1"
+    },
+    {
+      "market_name": "LaVieTab PC-TE510S1L",
+      "codename": "PC-TE510S1_nec",
+      "model": "LaVieTab PC-TE510S1"
+    },
+    {
+      "market_name": "LifeTouch B",
+      "codename": "LTB013",
+      "model": "D000-000013-101"
+    },
+    {
+      "market_name": "LifeTouch B",
+      "codename": "LTB018",
+      "model": "D000-000018-001"
+    },
+    {
+      "market_name": "LifeTouch B",
+      "codename": "LTB018",
+      "model": "D000-000018-002"
+    },
+    {
+      "market_name": "LifeTouch B",
+      "codename": "LTB018",
+      "model": "D000-000018-003"
+    },
+    {
+      "market_name": "LifeTouch B",
+      "codename": "LTB018",
+      "model": "D000-000018-004"
+    },
+    {
+      "market_name": "LifeTouch B",
+      "codename": "LTB018",
+      "model": "D000-000018-101"
+    },
+    {
+      "market_name": "LifeTouch B",
+      "codename": "LTB018",
+      "model": "D000-000018-102"
+    },
+    {
+      "market_name": "LifeTouch B",
+      "codename": "LTB018",
+      "model": "D000-000018-104"
+    },
+    {
+      "market_name": "LifeTouch B",
+      "codename": "LTB019G",
+      "model": "D000-000019-002"
+    },
+    {
+      "market_name": "LifeTouch B",
+      "codename": "LTB019W",
+      "model": "D000-000019-001"
+    },
+    {
+      "market_name": "LifeTouch B",
+      "codename": "LTB028",
+      "model": "LTB-HS"
+    },
+    {
+      "market_name": "LifeTouch L",
+      "codename": "D000000023",
+      "model": "LT-TLA"
+    },
+    {
+      "market_name": "LifeTouch L",
+      "codename": "D000000035",
+      "model": "NEC-STR"
+    },
+    {
+      "market_name": "LifeTouch L",
+      "codename": "D000000039",
+      "model": "NEC-STR"
+    },
+    {
+      "market_name": "LifeTouch L",
+      "codename": "LTTLA16",
+      "model": "LT-TLA"
+    },
+    {
+      "market_name": "LifeTouch L",
+      "codename": "LTTLA32",
+      "model": "LT-TLA"
+    },
+    {
+      "market_name": "LifeTouch Note",
+      "codename": "D000000010N",
+      "model": "D000-000010-N"
+    },
+    {
+      "market_name": "LifeTouch Note",
+      "codename": "D000000011N",
+      "model": "D000-000011-N"
+    },
+    {
+      "market_name": "LifeTouch Note",
+      "codename": "LTNA7",
+      "model": "LT-NA7"
+    },
+    {
+      "market_name": "LifeTouch Note",
+      "codename": "LTNA7F",
+      "model": "LT-NA7F"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-B01"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-B02"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-C01"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-K01"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-R01"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-R02"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-R03"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-R04"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-S00"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-S01"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-S05"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-S25"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D1",
+      "model": "D000-000001-S85"
+    },
+    {
+      "market_name": "LifeTouch S",
+      "codename": "LifeTouch_D7",
+      "model": "D000-000007-D01"
+    },
+    {
+      "market_name": "LifeTouch W",
+      "codename": "LT-W1_1",
+      "model": "D000-000002-W01"
+    },
+    {
+      "market_name": "LifeTouch W",
+      "codename": "LT-W1_2",
+      "model": "D000-000002-W02"
+    },
+    {
+      "market_name": "LifeTouch W",
+      "codename": "LifeTouch_W1",
+      "model": "D000-000002-001"
+    },
+    {
+      "market_name": "MEDIAS  X N-06E",
+      "codename": "N-06E",
+      "model": "N-06E"
+    },
+    {
+      "market_name": "MEDIAS BR IS11N",
+      "codename": "IS11N",
+      "model": "IS11N"
+    },
+    {
+      "market_name": "MEDIAS CH 101N",
+      "codename": "101N",
+      "model": "101N"
+    },
+    {
+      "market_name": "MEDIAS ES N-05D",
+      "codename": "N-05D",
+      "model": "N-05D"
+    },
+    {
+      "market_name": "MEDIAS LTE N-04D",
+      "codename": "N-04D",
+      "model": "N-04D"
+    },
+    {
+      "market_name": "MEDIAS N-04C",
+      "codename": "N-04C",
+      "model": "N-04C"
+    },
+    {
+      "market_name": "MEDIAS NE-202",
+      "codename": "NE-202",
+      "model": "NE-202"
+    },
+    {
+      "market_name": "MEDIAS NEC-101S",
+      "codename": "MAGNUM",
+      "model": "NEC-101S"
+    },
+    {
+      "market_name": "MEDIAS NEC-101S",
+      "codename": "NEC-101",
+      "model": "NEC-101S"
+    },
+    {
+      "market_name": "MEDIAS NEC-102",
+      "codename": "NEC-102",
+      "model": "NEC-102"
+    },
+    {
+      "market_name": "MEDIAS PP N-01D",
+      "codename": "N-01D",
+      "model": "N-01D"
+    },
+    {
+      "market_name": "MEDIAS TAB N-06D",
+      "codename": "N-06D",
+      "model": "N-06D"
+    },
+    {
+      "market_name": "MEDIAS TAB UL N-08D",
+      "codename": "N-08D",
+      "model": "N-08D"
+    },
+    {
+      "market_name": "MEDIAS U N-02E",
+      "codename": "N-02E",
+      "model": "N-02E"
+    },
+    {
+      "market_name": "MEDIAS U NE-103T",
+      "codename": "NE-103",
+      "model": "NE-103T"
+    },
+    {
+      "market_name": "MEDIAS W N-05E",
+      "codename": "N-05E",
+      "model": "N-05E"
+    },
+    {
+      "market_name": "MEDIAS WP N-06C",
+      "codename": "N-06C",
+      "model": "N-06C"
+    },
+    {
+      "market_name": "MEDIAS X N-04E",
+      "codename": "N-04E",
+      "model": "N-04E"
+    },
+    {
+      "market_name": "MEDIAS X N-07D",
+      "codename": "N-07D",
+      "model": "N-07D"
+    },
+    {
+      "market_name": "NE-201",
+      "codename": "NE-201",
+      "model": "NEC-NE-201A1A"
+    },
+    {
+      "market_name": "NEC909e",
+      "codename": "NEC909e",
+      "model": "NEC909e"
+    },
+    {
+      "market_name": "PC- TS507N1S",
+      "codename": "PC-TS507N1S",
+      "model": "LaVieTab PC-TS507N1S"
+    },
+    {
+      "market_name": "PC-508T1W",
+      "codename": "508T1W",
+      "model": "PC-TS508T1W"
+    },
+    {
+      "market_name": "PC-708T1W",
+      "codename": "708T1W",
+      "model": "PC-TS708T1W"
+    },
+    {
+      "market_name": "PC-TE307N1W",
+      "codename": "PC-TE307N1W",
+      "model": "PC-TE307N1W"
+    },
+    {
+      "market_name": "PC-TE510N1B",
+      "codename": "LaVieTab",
+      "model": "LaVieTab PC-TE510N1B"
+    }
+  ]
+}

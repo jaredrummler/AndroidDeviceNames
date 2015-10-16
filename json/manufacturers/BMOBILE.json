@@ -1,0 +1,20 @@
+{
+  "manufacturer": "BMobile",
+  "devices": [
+    {
+      "market_name": "AX1060",
+      "codename": "AX1060",
+      "model": "AX1060"
+    },
+    {
+      "market_name": "AX660",
+      "codename": "Bmobile",
+      "model": "AX660"
+    },
+    {
+      "market_name": "AX700",
+      "codename": "Bmobile",
+      "model": "AX7OO"
+    }
+  ]
+}

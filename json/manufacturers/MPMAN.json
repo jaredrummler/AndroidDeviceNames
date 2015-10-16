@@ -1,0 +1,15 @@
+{
+  "manufacturer": "MPman",
+  "devices": [
+    {
+      "market_name": "MPDC1006",
+      "codename": "MPDC1006",
+      "model": "MPDC1006"
+    },
+    {
+      "market_name": "MPDC706",
+      "codename": "MPDC706",
+      "model": "MPDC706"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "manufacturer": "MegaFon",
+  "devices": [
+    {
+      "market_name": "MFLogin3T",
+      "codename": "MFLogin3T",
+      "model": "MFLogin3T"
+    },
+    {
+      "market_name": "MFLoginPh",
+      "codename": "MFLoginPh",
+      "model": "MFLoginPh"
+    },
+    {
+      "market_name": "MS4B",
+      "codename": "Viper_LTE",
+      "model": "ALCATEL ONE TOUCH 7030R"
+    },
+    {
+      "market_name": "MS4B",
+      "codename": "Viper_LTE",
+      "model": "ALCATEL ONE TOUCH 7030Y"
+    },
+    {
+      "market_name": "MS4B",
+      "codename": "Viper_LTE",
+      "model": "MS4B"
+    },
+    {
+      "market_name": "MegaFon Login 3",
+      "codename": "MFLogin3",
+      "model": "MegaFon Login 3"
+    },
+    {
+      "market_name": "MegaFon MT3A",
+      "codename": "MT3A",
+      "model": "MT3A"
+    }
+  ]
+}

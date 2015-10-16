@@ -1,0 +1,30 @@
+{
+  "manufacturer": "MachSpeed",
+  "devices": [
+    {
+      "market_name": "MachSpeed Trio Stealth_10 Tablet",
+      "codename": "D_10AL",
+      "model": "Trio Stealth_10"
+    },
+    {
+      "market_name": "MachSpeed Trio Stealth_8 Tablet",
+      "codename": "D_8AL",
+      "model": "Trio Stealth_8"
+    },
+    {
+      "market_name": "MachSpeed Trio Stealth_9 Tablet",
+      "codename": "D_9AL",
+      "model": "Trio Stealth_9"
+    },
+    {
+      "market_name": "MachSpeed TrioStealth-7",
+      "codename": "TrioStealth-7",
+      "model": "TrioStealth-7"
+    },
+    {
+      "market_name": "STR-9.6-Tablet",
+      "codename": "STR_96_Tablet",
+      "model": "STR-9.6-Tablet"
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "manufacturer": "Fly",
+  "devices": [
+    {
+      "market_name": "Cirrus 2",
+      "codename": "Cirrus_2",
+      "model": "FS504"
+    },
+    {
+      "market_name": "Dune 3",
+      "codename": "Dune_3",
+      "model": "IQ4507"
+    },
+    {
+      "market_name": "Dune 4",
+      "codename": "Dune_4",
+      "model": "Fly IQ4508"
+    },
+    {
+      "market_name": "FLY IQ4421 Quad",
+      "codename": "IQ4421_Quad",
+      "model": "IQ4421 Quad"
+    },
+    {
+      "market_name": "Fly ERA Nano 7",
+      "codename": "Fly_IQ4407",
+      "model": "IQ4407"
+    },
+    {
+      "market_name": "Fly EVO Chic 1",
+      "codename": "IQ4405_Quad",
+      "model": "Fly IQ4405_Quad"
+    },
+    {
+      "market_name": "Fly Ego Art 2",
+      "codename": "Fly_Ego_Art_2",
+      "model": "Fly Ego Art 2"
+    },
+    {
+      "market_name": "Fly Era Energy 1",
+      "codename": "IQ4502_Quad",
+      "model": "IQ4502 Quad"
+    },
+    {
+      "market_name": "Fly Era Life 2",
+      "codename": "IQ456",
+      "model": "IQ456"
+    },
+    {
+      "market_name": "Fly Era Nano 6",
+      "codename": "Era_Nano_6",
+      "model": "IQ4406"
+    },
+    {
+      "market_name": "Fly Era Nano 8",
+      "codename": "IQ4400",
+      "model": "IQ4400"
+    },
+    {
+      "market_name": "Fly Era Nano 9",
+      "codename": "IQ436i",
+      "model": "IQ436i"
+    },
+    {
+      "market_name": "Fly Era Style 3",
+      "codename": "IQ4415_Quad",
+      "model": "IQ4415 Quad"
+    },
+    {
+      "market_name": "Fly Evo Chic 2",
+      "codename": "IQ459",
+      "model": "IQ459"
+    },
+    {
+      "market_name": "Fly Evo Chic 2",
+      "codename": "IQ459",
+      "model": "IQ459 Quad"
+    },
+    {
+      "market_name": "Fly Evo Energy4",
+      "codename": "IQ4501",
+      "model": "Evo Energy4"
+    },
+    {
+      "market_name": "Fly Evo Tech 3",
+      "codename": "IQ4414_Quad",
+      "model": "IQ4414 Quad"
+    },
+    {
+      "market_name": "Fly FS451",
+      "codename": "Nimbus1",
+      "model": "FS451"
+    },
+    {
+      "market_name": "Fly FS502",
+      "codename": "Cirrus_1",
+      "model": "FS502"
+    },
+    {
+      "market_name": "Fly IQ434",
+      "codename": "IQ434",
+      "model": "IQ434"
+    },
+    {
+      "market_name": "Fly IQ4420 Quad",
+      "codename": "IQ4420_Quad",
+      "model": "IQ4420 Quad"
+    },
+    {
+      "market_name": "Fly IQ4490i",
+      "codename": "IQ4490i",
+      "model": "IQ4490i"
+    },
+    {
+      "market_name": "Fly IQ4503",
+      "codename": "IQ4503",
+      "model": "FLY IQ4503"
+    },
+    {
+      "market_name": "Fly IQ4503 Quad",
+      "codename": "IQ4503_Quad",
+      "model": "IQ4503 Quad"
+    },
+    {
+      "market_name": "Fly IQ4504 Quad",
+      "codename": "IQ4504_Quad",
+      "model": "IQ4504 Quad"
+    },
+    {
+      "market_name": "Fly IQ4505",
+      "codename": "IQ4505",
+      "model": "Fly IQ4505"
+    },
+    {
+      "market_name": "Fly IQ4505 Quad",
+      "codename": "IQ4505_Quad",
+      "model": "IQ4505 Quad"
+    },
+    {
+      "market_name": "Fly IQ4512 Quad",
+      "codename": "IQ4512_Quad",
+      "model": "IQ4512 Quad"
+    },
+    {
+      "market_name": "Fly IQ4513",
+      "codename": "IQ4513",
+      "model": "IQ4513"
+    },
+    {
+      "market_name": "Fly IQ4513 Octa",
+      "codename": "IQ4513_Octa",
+      "model": "IQ4513 Octa"
+    },
+    {
+      "market_name": "Fly IQ4514 Quad",
+      "codename": "IQ4514_Quad",
+      "model": "Fly IQ4514"
+    },
+    {
+      "market_name": "Fly IQ4514 Quad",
+      "codename": "IQ4514_Quad",
+      "model": "Fly IQ4514 AF"
+    },
+    {
+      "market_name": "Fly IQ4514 Quad",
+      "codename": "IQ4514_Quad",
+      "model": "IQ4514 Quad"
+    },
+    {
+      "market_name": "Fly IQ4515 Quad",
+      "codename": "IQ4515_Quad",
+      "model": "IQ4515 Quad"
+    },
+    {
+      "market_name": "Fly IQ4516 Octa",
+      "codename": "IQ4516_Octa",
+      "model": "IQ4516"
+    },
+    {
+      "market_name": "Fly IQ4516 Octa",
+      "codename": "IQ4516_Octa",
+      "model": "IQ4516 Octa"
+    },
+    {
+      "market_name": "Fly IQ458 Quad Evo Tech 2",
+      "codename": "IQ458",
+      "model": "IQ458 Quad"
+    },
+    {
+      "market_name": "Fly IQ4602",
+      "codename": "Fly_IQ4602",
+      "model": "Fly IQ4602"
+    },
+    {
+      "market_name": "Fly IQ4602",
+      "codename": "IQ4602_Quad",
+      "model": "IQ4602 Quad"
+    },
+    {
+      "market_name": "Fly Iris",
+      "codename": "FLY_IQ4400",
+      "model": "FLY_IQ4400_AF"
+    },
+    {
+      "market_name": "Fly Nimbus 2",
+      "codename": "Nimbus_2",
+      "model": "FS452"
+    },
+    {
+      "market_name": "Fly Nimbus 4",
+      "codename": "Nimbus_4",
+      "model": "FS551"
+    },
+    {
+      "market_name": "Fly Nimbus3",
+      "codename": "Nimbus3",
+      "model": "FS501"
+    },
+    {
+      "market_name": "Fly Phoenix 2",
+      "codename": "IQ4410i",
+      "model": "Phoenix 2"
+    },
+    {
+      "market_name": "Fly Stratus 1",
+      "codename": "Stratus1",
+      "model": "FS401"
+    },
+    {
+      "market_name": "Flylife Connect 10.1",
+      "codename": "Flylife_Connect_101_3G_2",
+      "model": "Flylife Connect 10.1 3G 2"
+    },
+    {
+      "market_name": "Flylife Connect 7 3G 2",
+      "codename": "Flylife7",
+      "model": "Flylife Connect 7 3G 2"
+    },
+    {
+      "market_name": "Flylife Connect 7.85 3G 2",
+      "codename": "Flylife",
+      "model": "Flylife Connect 7.85 3G 2"
+    },
+    {
+      "market_name": "IQ4401",
+      "codename": "IQ4401",
+      "model": "IQ4401"
+    },
+    {
+      "market_name": "IQ4409 Quad",
+      "codename": "IQ4409_Quad",
+      "model": "IQ4409 Quad"
+    },
+    {
+      "market_name": "IQ4413 Quad",
+      "codename": "IQ4413_Quad",
+      "model": "IQ4413_Quad"
+    },
+    {
+      "market_name": "IQ4415",
+      "codename": "IQ4415",
+      "model": "IQ4415"
+    },
+    {
+      "market_name": "IQ4416",
+      "codename": "IQ4416",
+      "model": "IQ4416"
+    },
+    {
+      "market_name": "IQ4417 Quad",
+      "codename": "IQ4417_Quad",
+      "model": "IQ4417 Quad"
+    },
+    {
+      "market_name": "IQ4418",
+      "codename": "IQ4418",
+      "model": "Fly IQ4418 AF"
+    },
+    {
+      "market_name": "IQ4418",
+      "codename": "IQ4418",
+      "model": "IQ4418"
+    },
+    {
+      "market_name": "IQ4509",
+      "codename": "IQ4509",
+      "model": "IQ4509"
+    },
+    {
+      "market_name": "IQ4551",
+      "codename": "Epic_Note",
+      "model": "IQ4551"
+    },
+    {
+      "market_name": "IQ4601",
+      "codename": "IQ4601",
+      "model": "IQ4601"
+    },
+    {
+      "market_name": "Tornado One",
+      "codename": "IQ4511_Octa",
+      "model": "FLY IQ4511"
+    },
+    {
+      "market_name": "Tornado One",
+      "codename": "IQ4511_Octa",
+      "model": "IQ4511 Octa"
+    },
+    {
+      "market_name": "Tornado One",
+      "codename": "IQ4511_Octa",
+      "model": "IQ4511 TR"
+    }
+  ]
+}

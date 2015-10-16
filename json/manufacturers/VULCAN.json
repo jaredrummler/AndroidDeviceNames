@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Vulcan",
+  "devices": [
+    {
+      "market_name": "TA10TA2",
+      "codename": "TA10TA2_1",
+      "model": "TA10TA2"
+    },
+    {
+      "market_name": "TA71CA1",
+      "codename": "TA71CA1",
+      "model": "TA71CA1"
+    },
+    {
+      "market_name": "TA71CA2",
+      "codename": "TA71CA2_1",
+      "model": "TA71CA2"
+    }
+  ]
+}

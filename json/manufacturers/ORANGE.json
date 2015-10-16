@@ -1,0 +1,40 @@
+{
+  "manufacturer": "Orange",
+  "devices": [
+    {
+      "market_name": "Luno",
+      "codename": "Luno",
+      "model": "Luno"
+    },
+    {
+      "market_name": "NOS Roya",
+      "codename": "Alto45",
+      "model": "NOS Roya"
+    },
+    {
+      "market_name": "Orange Nura",
+      "codename": "M812",
+      "model": "Orange Nura"
+    },
+    {
+      "market_name": "Orange Rise 30",
+      "codename": "Pixi3-4",
+      "model": "Orange Rise 30"
+    },
+    {
+      "market_name": "Orange Roya",
+      "codename": "Alto45",
+      "model": "Orange Roya"
+    },
+    {
+      "market_name": "Orange Zilo",
+      "codename": "Orange_Zilo",
+      "model": "Zilo"
+    },
+    {
+      "market_name": "idol S",
+      "codename": "Diablo_LTE",
+      "model": "Orange Niva"
+    }
+  ]
+}

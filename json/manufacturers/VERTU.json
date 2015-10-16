@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Vertu",
+  "devices": [
+    {
+      "market_name": "Aster",
+      "codename": "alexa",
+      "model": "Aster"
+    },
+    {
+      "market_name": "Aster T",
+      "codename": "alexa",
+      "model": "Aster T"
+    },
+    {
+      "market_name": "Constellation V",
+      "codename": "gambit",
+      "model": "Constellation V"
+    },
+    {
+      "market_name": "Signature Touch",
+      "codename": "odin",
+      "model": "Signature Touch"
+    },
+    {
+      "market_name": "VERTU Ti",
+      "codename": "hermione",
+      "model": "VERTU Ti"
+    }
+  ]
+}

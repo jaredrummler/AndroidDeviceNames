@@ -1,0 +1,20 @@
+{
+  "manufacturer": "MG series",
+  "devices": [
+    {
+      "market_name": "Any 302",
+      "codename": "TR10CS2_2",
+      "model": "TR10CS2"
+    },
+    {
+      "market_name": "Any 303",
+      "codename": "TR10CD2_2",
+      "model": "TR10CD2"
+    },
+    {
+      "market_name": "Any 303",
+      "codename": "TR10CD2_3",
+      "model": "TR10CD2"
+    }
+  ]
+}

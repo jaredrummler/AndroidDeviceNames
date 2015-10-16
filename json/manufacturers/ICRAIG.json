@@ -1,0 +1,40 @@
+{
+  "manufacturer": "iCraig",
+  "devices": [
+    {
+      "market_name": "CMP791",
+      "codename": "CMP791",
+      "model": "CMP791"
+    },
+    {
+      "market_name": "CMP793",
+      "codename": "CMP793",
+      "model": "CMP793"
+    },
+    {
+      "market_name": "ICRAIG_CLP288",
+      "codename": "ICRAIG_CLP288",
+      "model": "ICRAIG_CLP288"
+    },
+    {
+      "market_name": "ICRAIG_CLP_291",
+      "codename": "ICRAIG_CLP_291",
+      "model": "ICRAIG_CLP291"
+    },
+    {
+      "market_name": "ICRAIG_CMP770",
+      "codename": "ICRAIG_CMP770",
+      "model": "ICRAIG_CMP770"
+    },
+    {
+      "market_name": "ICRAIG_CMP_771",
+      "codename": "ICRAIG_CMP_771",
+      "model": "ICRAIG_CMP771"
+    },
+    {
+      "market_name": "ICRAIG_CMP_773",
+      "codename": "ICRAIG_CMP_773",
+      "model": "ICRAIG_CMP773"
+    }
+  ]
+}

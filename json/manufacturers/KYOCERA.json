@@ -1,0 +1,325 @@
+{
+  "manufacturer": "Kyocera",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "SCP-8600",
+      "model": "Zio"
+    },
+    {
+      "market_name": "",
+      "codename": "WX06K",
+      "model": "WX06K"
+    },
+    {
+      "market_name": "404KC",
+      "codename": "404KC",
+      "model": "404KC"
+    },
+    {
+      "market_name": "BASIO",
+      "codename": "KYV32",
+      "model": "KYV32"
+    },
+    {
+      "market_name": "Brigadier",
+      "codename": "E6782",
+      "model": "E6782"
+    },
+    {
+      "market_name": "DIGNO",
+      "codename": "KYI11",
+      "model": "ISW11K"
+    },
+    {
+      "market_name": "DIGNO",
+      "codename": "KYL22",
+      "model": "KYL22"
+    },
+    {
+      "market_name": "DIGNO Dual",
+      "codename": "WX04K",
+      "model": "WX04K"
+    },
+    {
+      "market_name": "DIGNO R",
+      "codename": "202K",
+      "model": "202K"
+    },
+    {
+      "market_name": "DIGNO S",
+      "codename": "KYL21",
+      "model": "KYL21"
+    },
+    {
+      "market_name": "DIGNO T",
+      "codename": "302KC",
+      "model": "302KC"
+    },
+    {
+      "market_name": "DM015K",
+      "codename": "DM015K",
+      "model": "DM015K"
+    },
+    {
+      "market_name": "DuraForce",
+      "codename": "E6560",
+      "model": "KYOCERA-E6560"
+    },
+    {
+      "market_name": "DuraForce",
+      "codename": "E6560C",
+      "model": "E6560C"
+    },
+    {
+      "market_name": "DuraForce",
+      "codename": "E6560L",
+      "model": "E6560L"
+    },
+    {
+      "market_name": "DuraForce",
+      "codename": "E6560T",
+      "model": "E6560T"
+    },
+    {
+      "market_name": "DuraForce",
+      "codename": "E6762",
+      "model": "USCC-E6762"
+    },
+    {
+      "market_name": "DuraScout",
+      "codename": "E6782L",
+      "model": "E6782L"
+    },
+    {
+      "market_name": "Echo",
+      "codename": "KSP8000",
+      "model": "KSP8000"
+    },
+    {
+      "market_name": "Echo",
+      "codename": "M9300",
+      "model": "M9300"
+    },
+    {
+      "market_name": "Event",
+      "codename": "C5133",
+      "model": "Event"
+    },
+    {
+      "market_name": "HONEY BEE",
+      "codename": "101K",
+      "model": "101K"
+    },
+    {
+      "market_name": "Honeybee Touch",
+      "codename": "201K",
+      "model": "201K"
+    },
+    {
+      "market_name": "Hydro",
+      "codename": "C5170",
+      "model": "C5170"
+    },
+    {
+      "market_name": "Hydro",
+      "codename": "C5171",
+      "model": "Hydro"
+    },
+    {
+      "market_name": "Hydro EDGE",
+      "codename": "C5215",
+      "model": "C5215"
+    },
+    {
+      "market_name": "Hydro Elite",
+      "codename": "C6750",
+      "model": "C6750"
+    },
+    {
+      "market_name": "Hydro ICON",
+      "codename": "C6730",
+      "model": "C6730"
+    },
+    {
+      "market_name": "Hydro LIFE",
+      "codename": "C6530",
+      "model": "C6530"
+    },
+    {
+      "market_name": "Hydro LIFE",
+      "codename": "C6530N",
+      "model": "C6530N"
+    },
+    {
+      "market_name": "Hydro PLUS",
+      "codename": "C5171R",
+      "model": "Hydro"
+    },
+    {
+      "market_name": "Hydro PLUS",
+      "codename": "C5171R",
+      "model": "Hydro_PLUS"
+    },
+    {
+      "market_name": "Hydro VIBE",
+      "codename": "C6725",
+      "model": "C6725"
+    },
+    {
+      "market_name": "Hydro WAVE",
+      "codename": "C6740",
+      "model": "C6740"
+    },
+    {
+      "market_name": "Hydro WAVE",
+      "codename": "C6740N",
+      "model": "C6740N"
+    },
+    {
+      "market_name": "Hydro XTRM",
+      "codename": "C6522",
+      "model": "C6522"
+    },
+    {
+      "market_name": "Hydro XTRM",
+      "codename": "C6522N",
+      "model": "C6522N"
+    },
+    {
+      "market_name": "Hydro XTRM",
+      "codename": "C6721",
+      "model": "USCC-C6721"
+    },
+    {
+      "market_name": "INFOBAR A03",
+      "codename": "KYV33",
+      "model": "KYV33"
+    },
+    {
+      "market_name": "KC-01",
+      "codename": "KC-01",
+      "model": "KC-01"
+    },
+    {
+      "market_name": "LUCE",
+      "codename": "KCP01K",
+      "model": "KCP01K"
+    },
+    {
+      "market_name": "Milano",
+      "codename": "C5120",
+      "model": "C5120"
+    },
+    {
+      "market_name": "Milano",
+      "codename": "C5121",
+      "model": "C5121"
+    },
+    {
+      "market_name": "Rise",
+      "codename": "C5155",
+      "model": "C5155"
+    },
+    {
+      "market_name": "Rise",
+      "codename": "C5156",
+      "model": "Rise"
+    },
+    {
+      "market_name": "S301",
+      "codename": "KC-S301AE",
+      "model": "KC-S301AE"
+    },
+    {
+      "market_name": "TORQUE",
+      "codename": "SKT01",
+      "model": "SKT01"
+    },
+    {
+      "market_name": "TORQUE G01",
+      "codename": "KYY24",
+      "model": "KYY24"
+    },
+    {
+      "market_name": "TORQUE G02",
+      "codename": "KYV35",
+      "model": "KYV35"
+    },
+    {
+      "market_name": "TORQUE(KC-S701)",
+      "codename": "KC-S701",
+      "model": "KC-S701"
+    },
+    {
+      "market_name": "Torque",
+      "codename": "E6710",
+      "model": "Torque"
+    },
+    {
+      "market_name": "TorqueXT",
+      "codename": "E6715",
+      "model": "E6715"
+    },
+    {
+      "market_name": "URBANO L01",
+      "codename": "KYY21",
+      "model": "KYY21"
+    },
+    {
+      "market_name": "URBANO L02",
+      "codename": "KYY22",
+      "model": "KYY22"
+    },
+    {
+      "market_name": "URBANO L03",
+      "codename": "KYY23",
+      "model": "KYY23"
+    },
+    {
+      "market_name": "URBANO PROGRESSO",
+      "codename": "KYY04",
+      "model": "URBANO PROGRESSO"
+    },
+    {
+      "market_name": "URBANO V01",
+      "codename": "KYV31",
+      "model": "KYV31"
+    },
+    {
+      "market_name": "URBANO V02",
+      "codename": "KYV34",
+      "model": "KYV34"
+    },
+    {
+      "market_name": "WX10K",
+      "codename": "WX10K",
+      "model": "WX10K"
+    },
+    {
+      "market_name": "Zio",
+      "codename": "SCP-8600",
+      "model": "Zio"
+    },
+    {
+      "market_name": "miraie",
+      "codename": "KYL23",
+      "model": "KYL23"
+    },
+    {
+      "market_name": "zio",
+      "codename": "msm7627_kb60",
+      "model": "Zio"
+    },
+    {
+      "market_name": "zio",
+      "codename": "msm7627_surf",
+      "model": "Zio"
+    },
+    {
+      "market_name": "zio",
+      "codename": "pls8600",
+      "model": "Zio"
+    }
+  ]
+}

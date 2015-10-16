@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Kobo",
+  "devices": [
+    {
+      "market_name": "Arc 10HD",
+      "codename": "macallan",
+      "model": "arc 10HD"
+    },
+    {
+      "market_name": "Arc 7",
+      "codename": "lbp8",
+      "model": "arc 7"
+    },
+    {
+      "market_name": "Arc 7HD",
+      "codename": "cardhu",
+      "model": "arc 7HD"
+    },
+    {
+      "market_name": "Kobo Arc",
+      "codename": "zeus",
+      "model": "Arc"
+    },
+    {
+      "market_name": "Kobo Vox",
+      "codename": "pegasus",
+      "model": "Vox"
+    }
+  ]
+}

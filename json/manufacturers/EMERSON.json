@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Emerson",
+  "devices": [
+    {
+      "market_name": "EM9",
+      "codename": "EM9",
+      "model": "EM9"
+    },
+    {
+      "market_name": "Emerson EM749/748",
+      "codename": "EM749_748",
+      "model": "EM749_748"
+    }
+  ]
+}

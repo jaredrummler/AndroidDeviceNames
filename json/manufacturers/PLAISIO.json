@@ -1,0 +1,45 @@
+{
+  "manufacturer": "Plaisio",
+  "devices": [
+    {
+      "market_name": "G320",
+      "codename": "G320",
+      "model": "G320"
+    },
+    {
+      "market_name": "Hive V 3G",
+      "codename": "mg978",
+      "model": "Hive V 3G"
+    },
+    {
+      "market_name": "Hive V 3G",
+      "codename": "mr978",
+      "model": "Hive V 3G"
+    },
+    {
+      "market_name": "Rainbow II 3G 8\"",
+      "codename": "mr801",
+      "model": "RainbowII 3G"
+    },
+    {
+      "market_name": "RubikII 10\"",
+      "codename": "q102",
+      "model": "Rubik 10.1 II"
+    },
+    {
+      "market_name": "Turbo-X_epsilon",
+      "codename": "Turbo-X_epsilon",
+      "model": "Turbo-X_epsilon"
+    },
+    {
+      "market_name": "Turbo-X_pi_4G",
+      "codename": "Turbo-X_pi_4G",
+      "model": "Turbo-X_pi_4G"
+    },
+    {
+      "market_name": "lamda",
+      "codename": "Turbo-X_lamda",
+      "model": "Turbo-X lamda"
+    }
+  ]
+}

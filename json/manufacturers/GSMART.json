@@ -1,0 +1,115 @@
+{
+  "manufacturer": "GSmart",
+  "devices": [
+    {
+      "market_name": "Akta A4",
+      "codename": "Akta_A4",
+      "model": "Akta_A4"
+    },
+    {
+      "market_name": "Arty A3",
+      "codename": "Arty_A3",
+      "model": "GSmart Arty A3"
+    },
+    {
+      "market_name": "GSmart Aku A1",
+      "codename": "Aku_A1",
+      "model": "GSmart Aku A1"
+    },
+    {
+      "market_name": "GSmart Alto A2",
+      "codename": "Alto_A2",
+      "model": "GSmart Alto A2"
+    },
+    {
+      "market_name": "GSmart GS202+",
+      "codename": "GSmart_GS202",
+      "model": "GSmart GS202+"
+    },
+    {
+      "market_name": "GSmart GSmart SX1",
+      "codename": "GBC_bravo",
+      "model": "GSmart SX1"
+    },
+    {
+      "market_name": "GSmart Guru G1",
+      "codename": "Guru_G1",
+      "model": "GSmart Guru G1"
+    },
+    {
+      "market_name": "GSmart Maya M1",
+      "codename": "MayaM1",
+      "model": "GSmart Maya M1"
+    },
+    {
+      "market_name": "GSmart Maya M1 v2",
+      "codename": "Maya_M1_v2",
+      "model": "GSmart Maya M1 v2"
+    },
+    {
+      "market_name": "GSmart Rey R3",
+      "codename": "Rey_R3",
+      "model": "GSmart Rey R3"
+    },
+    {
+      "market_name": "GSmart Rio R1",
+      "codename": "Rio_R1",
+      "model": "GSmart Rio R1"
+    },
+    {
+      "market_name": "GSmart Roma R2",
+      "codename": "Roma_R2",
+      "model": "GSmart Roma R2"
+    },
+    {
+      "market_name": "GSmart SX1",
+      "codename": "bravo",
+      "model": "GSmart SX1"
+    },
+    {
+      "market_name": "GSmart Sierra S1",
+      "codename": "GSmart_Sierra_S1",
+      "model": "GSmart Sierra S1"
+    },
+    {
+      "market_name": "GSmart T4",
+      "codename": "GSmart_T4",
+      "model": "GSmart T4"
+    },
+    {
+      "market_name": "GSmart Tuku T2",
+      "codename": "Tuku_T2",
+      "model": "GSmart Tuku T2"
+    },
+    {
+      "market_name": "GX2",
+      "codename": "GBC_ares",
+      "model": "GX2"
+    },
+    {
+      "market_name": "Mika M2",
+      "codename": "Mika_M2",
+      "model": "GSmart Mika M2"
+    },
+    {
+      "market_name": "Mika M3",
+      "codename": "Mika_M3",
+      "model": "GSmart Mika M3"
+    },
+    {
+      "market_name": "Saga_S3",
+      "codename": "Saga_S3",
+      "model": "GSmart Saga S3"
+    },
+    {
+      "market_name": "Simba SX1",
+      "codename": "GBC_bravo",
+      "model": "Simba SX1"
+    },
+    {
+      "market_name": "Simba SX1",
+      "codename": "bravo",
+      "model": "Simba SX1"
+    }
+  ]
+}

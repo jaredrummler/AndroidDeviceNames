@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Spice",
+  "devices": [
+    {
+      "market_name": "Dream Uno",
+      "codename": "Mi-498_sprout",
+      "model": "Spice Mi-498"
+    },
+    {
+      "market_name": "Dream Uno",
+      "codename": "Mi-498_sprout",
+      "model": "Spice Mi-498H"
+    },
+    {
+      "market_name": "Smart Flo Mi-449",
+      "codename": "SpiceMi449",
+      "model": "SpiceMi-449"
+    },
+    {
+      "market_name": "Smart Flo Mi-449",
+      "codename": "hongyu72_wet_jb3",
+      "model": "SpiceMi-449"
+    },
+    {
+      "market_name": "Stellar Mi-438",
+      "codename": "Spice",
+      "model": "MI-438"
+    },
+    {
+      "market_name": "Stellar Mi-506",
+      "codename": "SpiceMi506",
+      "model": "Spice Mi-506"
+    }
+  ]
+}

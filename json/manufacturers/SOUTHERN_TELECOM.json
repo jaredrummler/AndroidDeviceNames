@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Southern Telecom",
+  "devices": [
+    {
+      "market_name": "A5",
+      "codename": "A5",
+      "model": "A5"
+    },
+    {
+      "market_name": "ST13",
+      "codename": "ST13",
+      "model": "ST13"
+    },
+    {
+      "market_name": "Smartab ST10",
+      "codename": "ST10",
+      "model": "ST10/ST10x"
+    },
+    {
+      "market_name": "Smartab ST7",
+      "codename": "ST7",
+      "model": "ST7/ST7x"
+    },
+    {
+      "market_name": "a4",
+      "codename": "a4",
+      "model": "a4"
+    }
+  ]
+}

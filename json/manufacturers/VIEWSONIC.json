@@ -1,0 +1,65 @@
+{
+  "manufacturer": "ViewSonic",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "v350",
+      "model": "ViewSonic-V350"
+    },
+    {
+      "market_name": "",
+      "codename": "viewpad4",
+      "model": "ViewSonic-ViewPad4"
+    },
+    {
+      "market_name": "",
+      "codename": "viewpad7",
+      "model": "ViewPad7"
+    },
+    {
+      "market_name": "",
+      "codename": "viewpad7x",
+      "model": "ViewPad7X"
+    },
+    {
+      "market_name": "",
+      "codename": "viewpad7x",
+      "model": "ViewPad7x"
+    },
+    {
+      "market_name": "VSD221",
+      "codename": "VSD221",
+      "model": "VSD221"
+    },
+    {
+      "market_name": "VSD231",
+      "codename": "VSD231-VSA",
+      "model": "VSD231"
+    },
+    {
+      "market_name": "VSD241 Smart Display",
+      "codename": "VSD241",
+      "model": "VSD241"
+    },
+    {
+      "market_name": "ViewPadi7Q",
+      "codename": "vsi7q_1_coho",
+      "model": "vsi7q_1"
+    },
+    {
+      "market_name": "ViewPadi7Q",
+      "codename": "vsi7q_1_coho",
+      "model": "vsi7q_1_coho"
+    },
+    {
+      "market_name": "ViewPadi8Q",
+      "codename": "vsi8q_1_coho",
+      "model": "vsi8q_1"
+    },
+    {
+      "market_name": "ViewPadi8Q",
+      "codename": "vsi8q_1_coho",
+      "model": "vsi8q_1_coho"
+    }
+  ]
+}

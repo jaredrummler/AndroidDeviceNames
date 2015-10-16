@@ -1,0 +1,35 @@
+{
+  "manufacturer": "AG Mobile",
+  "devices": [
+    {
+      "market_name": "AG_Go-Tab_Access",
+      "codename": "md789hwag",
+      "model": "AG Go-Tab Access"
+    },
+    {
+      "market_name": "AG_Tab_7_0",
+      "codename": "AG_Tab_7_0",
+      "model": "AG_Tab_7_0"
+    },
+    {
+      "market_name": "Ghost",
+      "codename": "Ghost",
+      "model": "Ghost"
+    },
+    {
+      "market_name": "Status",
+      "codename": "Status",
+      "model": "Status"
+    },
+    {
+      "market_name": "Swift",
+      "codename": "Swift",
+      "model": "Swift"
+    },
+    {
+      "market_name": "ULTRA",
+      "codename": "Ultra",
+      "model": "Ultra"
+    }
+  ]
+}

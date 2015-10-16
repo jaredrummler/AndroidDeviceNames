@@ -1,0 +1,690 @@
+{
+  "manufacturer": "Archos",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "A101S",
+      "model": "ARCHOS 101G9"
+    },
+    {
+      "market_name": "",
+      "codename": "A101S",
+      "model": "Archos 101 Internet Tablet"
+    },
+    {
+      "market_name": "",
+      "codename": "A80S",
+      "model": "ARCHOS 80G9"
+    },
+    {
+      "market_name": "",
+      "codename": "A80S",
+      "model": "Archos 80 Internet Tablet"
+    },
+    {
+      "market_name": "101 Childpad",
+      "codename": "A101CHP",
+      "model": "ARCHOS 101 CHILDPAD"
+    },
+    {
+      "market_name": "101 Cobalt",
+      "codename": "AC101CO",
+      "model": "Archos 101 Cobalt"
+    },
+    {
+      "market_name": "101 G9",
+      "codename": "A101",
+      "model": "ARCHOS 101G9"
+    },
+    {
+      "market_name": "101 Magnus",
+      "codename": "ac101ma",
+      "model": "ARCHOS 101 Magnus"
+    },
+    {
+      "market_name": "101 Neon",
+      "codename": "A101NE",
+      "model": "Archos 101 Neon"
+    },
+    {
+      "market_name": "101 Platinum",
+      "codename": "A101PL",
+      "model": "ARCHOS 101 PLATINUM"
+    },
+    {
+      "market_name": "101 Titanium",
+      "codename": "A101TI",
+      "model": "ARCHOS 101 Titanium"
+    },
+    {
+      "market_name": "101 XS",
+      "codename": "A101XS",
+      "model": "ARCHOS 101G10"
+    },
+    {
+      "market_name": "101 Xenon",
+      "codename": "a101xe",
+      "model": "Archos 101 Xenon"
+    },
+    {
+      "market_name": "101XS2",
+      "codename": "AC101XS2",
+      "model": "ARCHOS 101 XS 2"
+    },
+    {
+      "market_name": "101b XS2",
+      "codename": "ac101bxs2",
+      "model": "ARCHOS 101b XS2"
+    },
+    {
+      "market_name": "40 Titanium",
+      "codename": "a40ti",
+      "model": "Archos 40 Titanium"
+    },
+    {
+      "market_name": "40b Titanium",
+      "codename": "a40btisr",
+      "model": "Archos 40b Titanium Surround"
+    },
+    {
+      "market_name": "40c Titanium",
+      "codename": "ac40cti",
+      "model": "Archos 40c Titanium"
+    },
+    {
+      "market_name": "45 Helium 4G",
+      "codename": "a45he",
+      "model": "Archos 45 Helium 4G"
+    },
+    {
+      "market_name": "45 Platinum",
+      "codename": "msm8625",
+      "model": "Archos 45 Platinum"
+    },
+    {
+      "market_name": "45 Titanium",
+      "codename": "a45ti",
+      "model": "Archos 45 Titanium"
+    },
+    {
+      "market_name": "45c Platinum",
+      "codename": "ac45cpl",
+      "model": "Archos 45c Platinum"
+    },
+    {
+      "market_name": "50 Helium 4G",
+      "codename": "a50he",
+      "model": "Archos 50 Helium 4G"
+    },
+    {
+      "market_name": "50 Neon",
+      "codename": "a50ne",
+      "model": "Archos 50 Neon"
+    },
+    {
+      "market_name": "50 Oxygen",
+      "codename": "a50ox",
+      "model": "Archos 50 Oxygen"
+    },
+    {
+      "market_name": "50 Platinum",
+      "codename": "msm8625",
+      "model": "Archos 50 Platinum"
+    },
+    {
+      "market_name": "50 Titanium",
+      "codename": "a50ti",
+      "model": "Archos 50 Titanium"
+    },
+    {
+      "market_name": "50b Helium",
+      "codename": "ac50bhe",
+      "model": "AC50BHE"
+    },
+    {
+      "market_name": "50b Helium",
+      "codename": "ac50bhe",
+      "model": "Archos 50b Helium 4G"
+    },
+    {
+      "market_name": "50b Platinum",
+      "codename": "ac50bpl",
+      "model": "Archos 50b Platinum"
+    },
+    {
+      "market_name": "50c Oxygen",
+      "codename": "a50cox",
+      "model": "Archos 50c Oxygen"
+    },
+    {
+      "market_name": "53 Platinum",
+      "codename": "msm8625",
+      "model": "Archos 53 Platinum"
+    },
+    {
+      "market_name": "53 Titanium",
+      "codename": "a53ti",
+      "model": "Archos 53 Titanium"
+    },
+    {
+      "market_name": "70 Cobalt",
+      "codename": "AC70CO",
+      "model": "ARCHOS 70 Cobalt"
+    },
+    {
+      "market_name": "70 Neon",
+      "codename": "ac70ne",
+      "model": "Archos 70 Neon"
+    },
+    {
+      "market_name": "70 Titanium",
+      "codename": "A70TI",
+      "model": "ARCHOS 70 Titanium"
+    },
+    {
+      "market_name": "70 Xenon",
+      "codename": "a70xe",
+      "model": "Archos 70 Xenon"
+    },
+    {
+      "market_name": "70b Titanium",
+      "codename": "A70BTI",
+      "model": "ARCHOS 70b TITANIUM"
+    },
+    {
+      "market_name": "79 Neon",
+      "codename": "a79ne",
+      "model": "Archos 79 Neon"
+    },
+    {
+      "market_name": "79 Platinium",
+      "codename": "AC79PL",
+      "model": "ARCHOS 79 Platinum"
+    },
+    {
+      "market_name": "79 Xenon",
+      "codename": "a79xe",
+      "model": "Archos 79 Xenon"
+    },
+    {
+      "market_name": "80 Carbon",
+      "codename": "AC80CA",
+      "model": "ARCHOS 80 Carbon"
+    },
+    {
+      "market_name": "80 Childpad",
+      "codename": "A80CHP",
+      "model": "ARCHOS 80 CHILDPAD"
+    },
+    {
+      "market_name": "80 Cobalt",
+      "codename": "A80CO",
+      "model": "ARCHOS 80 COBALT"
+    },
+    {
+      "market_name": "80 G9",
+      "codename": "A80",
+      "model": "ARCHOS 80G9"
+    },
+    {
+      "market_name": "80 Platinum",
+      "codename": "A80PL",
+      "model": "ARCHOS 80 Platinum"
+    },
+    {
+      "market_name": "80 Titanium",
+      "codename": "A80TI",
+      "model": "ARCHOS 80 TITANIUM"
+    },
+    {
+      "market_name": "80 XS",
+      "codename": "A80XSK",
+      "model": "ARCHOS 80XSK"
+    },
+    {
+      "market_name": "80 Xenon",
+      "codename": "A80XE",
+      "model": "Archos 80 Xenon"
+    },
+    {
+      "market_name": "80b Platinum",
+      "codename": "A80BPL",
+      "model": "ARCHOS 80b PLATINUM"
+    },
+    {
+      "market_name": "9.4\\\u0027\\\u0027 FFF",
+      "codename": "ac94fff",
+      "model": "9.4\\\u0027\\\u0027 FFF"
+    },
+    {
+      "market_name": "90 Neon",
+      "codename": "a90ne",
+      "model": "Archos 90 Neon"
+    },
+    {
+      "market_name": "90b Neon",
+      "codename": "ac90bne",
+      "model": "Archos 90b Neon"
+    },
+    {
+      "market_name": "97 Carbon",
+      "codename": "A97C",
+      "model": "ARCHOS 97 CARBON"
+    },
+    {
+      "market_name": "97 Cobalt",
+      "codename": "AC97CO",
+      "model": "Archos 97 Cobalt"
+    },
+    {
+      "market_name": "97 Platinum",
+      "codename": "A97PL",
+      "model": "ARCHOS 97 Platinum"
+    },
+    {
+      "market_name": "97 Titanium HD",
+      "codename": "A97TIHD",
+      "model": "ARCHOS 97 TITANIUMHD"
+    },
+    {
+      "market_name": "97 Xenon",
+      "codename": "A97XE",
+      "model": "ARCHOS 97 XENON"
+    },
+    {
+      "market_name": "97b Platinum",
+      "codename": "AC97BPL",
+      "model": "ARCHOS 97b PLATINUM"
+    },
+    {
+      "market_name": "97b Titanium",
+      "codename": "A97BTI",
+      "model": "ARCHOS 97B TITANIUM"
+    },
+    {
+      "market_name": "ARCHOS 101 Oxygen",
+      "codename": "ac101ox",
+      "model": "Archos 101 Oxygen"
+    },
+    {
+      "market_name": "ARCHOS 35b Titanium",
+      "codename": "ac35bti",
+      "model": "Archos 35b Titanium"
+    },
+    {
+      "market_name": "ARCHOS 50b Neon",
+      "codename": "ac50bne",
+      "model": "Archos 50b Neon"
+    },
+    {
+      "market_name": "ARCHOS 50c Helium",
+      "codename": "ac50che",
+      "model": "Archos 50c Helium"
+    },
+    {
+      "market_name": "ARCHOS 52 Platinum",
+      "codename": "ac52pl",
+      "model": "Archos 52 Platinum"
+    },
+    {
+      "market_name": "ARCHOS 62 Xenon",
+      "codename": "ac62xe",
+      "model": "Archos 62 Xenon"
+    },
+    {
+      "market_name": "ARCHOS 90 Copper",
+      "codename": "ac90cv",
+      "model": "Archos 90 Copper"
+    },
+    {
+      "market_name": "Archos 101 Copper",
+      "codename": "ac101cv",
+      "model": "Archos 101 Copper"
+    },
+    {
+      "market_name": "Archos 101 Helium",
+      "codename": "ac101he",
+      "model": "Archos 101 Helium"
+    },
+    {
+      "market_name": "Archos 101 Xenon",
+      "codename": "ac101cxe",
+      "model": "Archos 101c Xenon"
+    },
+    {
+      "market_name": "Archos 101 Xenon",
+      "codename": "ac101xev2",
+      "model": "Archos 101 Xenon v2"
+    },
+    {
+      "market_name": "Archos 101D Neon",
+      "codename": "ac101dne",
+      "model": "Archos 101d Neon"
+    },
+    {
+      "market_name": "Archos 101b Copper",
+      "codename": "ac101bcv",
+      "model": "Archos 101b Copper"
+    },
+    {
+      "market_name": "Archos 101b Neon",
+      "codename": "ac101bne",
+      "model": "Archos 101b Neon"
+    },
+    {
+      "market_name": "Archos 101b Platinum",
+      "codename": "ac101bpl",
+      "model": "Archos 101b Platinium"
+    },
+    {
+      "market_name": "Archos 101c Neon",
+      "codename": "ac101cne",
+      "model": "Archos 101c Neon"
+    },
+    {
+      "market_name": "Archos 40c Titanium",
+      "codename": "ac40ctiv2",
+      "model": "ARCHOS 40C TIv2"
+    },
+    {
+      "market_name": "Archos 45 Neon",
+      "codename": "ac45ne",
+      "model": "Archos 45 Neon"
+    },
+    {
+      "market_name": "Archos 45b Helium",
+      "codename": "ac45bhe",
+      "model": "AC45BHE"
+    },
+    {
+      "market_name": "Archos 45b Helium",
+      "codename": "ac45bhe",
+      "model": "ARCHOS 45b Helium"
+    },
+    {
+      "market_name": "Archos 50 Diamond",
+      "codename": "ac50da",
+      "model": "Archos 50 Diamond"
+    },
+    {
+      "market_name": "Archos 50 Oxygen plus",
+      "codename": "ac50oxplus",
+      "model": "Archos 50 Oxygen Plus"
+    },
+    {
+      "market_name": "Archos 59 Titanium",
+      "codename": "ac59ti",
+      "model": "Archos 59 Titanium"
+    },
+    {
+      "market_name": "Archos 59 Xenon",
+      "codename": "ac59xe",
+      "model": "Archos 59 Xenon"
+    },
+    {
+      "market_name": "Archos 64 Xenon",
+      "codename": "ac64xe",
+      "model": "Archos 64 Xenon"
+    },
+    {
+      "market_name": "Archos 70 Copper",
+      "codename": "ac70cv",
+      "model": "Archos 70 Copper"
+    },
+    {
+      "market_name": "Archos 70 Helium",
+      "codename": "ac70he",
+      "model": "Archos 70 Helium"
+    },
+    {
+      "market_name": "Archos 70 Platinum",
+      "codename": "ac70pl",
+      "model": "Archos 70 Platinum"
+    },
+    {
+      "market_name": "Archos 70b Cobalt",
+      "codename": "a70bco",
+      "model": "Archos 70b Cobalt"
+    },
+    {
+      "market_name": "Archos 70b Xenon",
+      "codename": "ac70bxe",
+      "model": "Archos 70b Xenon"
+    },
+    {
+      "market_name": "Archos 70c Cobalt",
+      "codename": "ac70cco",
+      "model": "Archos 70c Cobalt"
+    },
+    {
+      "market_name": "Archos 70c Titanium",
+      "codename": "ac70cti",
+      "model": "Archos 70c Titanium"
+    },
+    {
+      "market_name": "Archos 70it 2",
+      "codename": "A70it2",
+      "model": "ARCHOS 70it2"
+    },
+    {
+      "market_name": "Archos 70it 2",
+      "codename": "A70it2",
+      "model": "ARCHOS 70it2G8"
+    },
+    {
+      "market_name": "Archos 79 Cobalt",
+      "codename": "ac79co",
+      "model": "Archos 79 Cobalt"
+    },
+    {
+      "market_name": "Archos 80 Helium",
+      "codename": "ac80he",
+      "model": "Archos 80 Helium 4G"
+    },
+    {
+      "market_name": "Archos 80b Helium",
+      "codename": "ac80bhe",
+      "model": "Archos 80b Helium"
+    },
+    {
+      "market_name": "Archos 80b xenon",
+      "codename": "ac80bxe",
+      "model": "Archos 80b Xenon"
+    },
+    {
+      "market_name": "Archos 90b Copper",
+      "codename": "ac90bcv",
+      "model": "Archos 90b Copper"
+    },
+    {
+      "market_name": "Archos 96 Xenon",
+      "codename": "ac96xe",
+      "model": "Archos 96 Xenon"
+    },
+    {
+      "market_name": "Archos ArcBook",
+      "codename": "a101db",
+      "model": "Archos 101 DB"
+    },
+    {
+      "market_name": "Archos Smarthome La Poste",
+      "codename": "hometablet",
+      "model": "Archos Smart Home Tablet"
+    },
+    {
+      "market_name": "Archos80cpl_loreal",
+      "codename": "ac80cpl",
+      "model": "Archos 80c Platinum"
+    },
+    {
+      "market_name": "Auchan QiLive 45",
+      "codename": "ql45",
+      "model": "Qilive 45"
+    },
+    {
+      "market_name": "Auchan QiLive 50",
+      "codename": "ql50",
+      "model": "Qilive 50"
+    },
+    {
+      "market_name": "Auchan Qilive 40",
+      "codename": "ql40",
+      "model": "Qilive 40"
+    },
+    {
+      "market_name": "Auchan Qilive8",
+      "codename": "QiLive8",
+      "model": "QiLive 8"
+    },
+    {
+      "market_name": "Auchan Qilive8QC",
+      "codename": "QiLive8QC",
+      "model": "QiLive 8QC"
+    },
+    {
+      "market_name": "Auchan Qilive97",
+      "codename": "QiLive97",
+      "model": "QiLive 97"
+    },
+    {
+      "market_name": "Auchan Qilive97R",
+      "codename": "QiLive97R",
+      "model": "QiLive 97R"
+    },
+    {
+      "market_name": "Auchan Selecline 10",
+      "codename": "SELECLINE10",
+      "model": "Selecline 10"
+    },
+    {
+      "market_name": "Bush 10.0 MyTablet",
+      "codename": "ac101dpl",
+      "model": "Bush 10.0 MyTablet"
+    },
+    {
+      "market_name": "Bush 4\" Android Phone",
+      "codename": "ac40cti",
+      "model": "Bush 4 Android"
+    },
+    {
+      "market_name": "Bush 5\" Android Phone",
+      "codename": "ac50bne",
+      "model": "BUSH 5 Android"
+    },
+    {
+      "market_name": "Bush 7.0 MyTablet",
+      "codename": "ac70pl",
+      "model": "Bush 7.0 MyTablet"
+    },
+    {
+      "market_name": "Bush 7.85 My Tablet",
+      "codename": "ac79bu",
+      "model": "Archos 79c Neon"
+    },
+    {
+      "market_name": "Bush 8.0 MyTablet",
+      "codename": "ac80cpl",
+      "model": "Bush 8.0 MyTablet"
+    },
+    {
+      "market_name": "Bush MyTablet 7",
+      "codename": "ac70bu",
+      "model": "Archos 70 Carbon"
+    },
+    {
+      "market_name": "Bush MyTablet 7",
+      "codename": "ac70bu",
+      "model": "BUSH 7.0 TABLET"
+    },
+    {
+      "market_name": "Bush Mytablet 2",
+      "codename": "a80bu",
+      "model": "Bush Mytablet 2"
+    },
+    {
+      "market_name": "ChefPad",
+      "codename": "A97CFP",
+      "model": "Archos Chefpad"
+    },
+    {
+      "market_name": "FamilyPad 2",
+      "codename": "A133FP2",
+      "model": "ARCHOS FAMILYPAD 2"
+    },
+    {
+      "market_name": "GamePad",
+      "codename": "A70GP",
+      "model": "ARCHOS GAMEPAD"
+    },
+    {
+      "market_name": "GamePad 2",
+      "codename": "A70GP2",
+      "model": "ARCHOS GAMEPAD2"
+    },
+    {
+      "market_name": "KUNO 4+",
+      "codename": "kuno4p",
+      "model": "KUNO 4+"
+    },
+    {
+      "market_name": "Kuno",
+      "codename": "KUNO4",
+      "model": "KUNO4"
+    },
+    {
+      "market_name": "My Tablet 101",
+      "codename": "ac101bu",
+      "model": "BUSH 10.1 TABLET"
+    },
+    {
+      "market_name": "QiLive 101",
+      "codename": "aqilive101",
+      "model": "QILIVE 101"
+    },
+    {
+      "market_name": "Qilive 53",
+      "codename": "msm8625",
+      "model": "Qilive 53"
+    },
+    {
+      "market_name": "Qilive 7",
+      "codename": "qilive7",
+      "model": "Qilive 7"
+    },
+    {
+      "market_name": "Qilive 97R2",
+      "codename": "qilive97r2",
+      "model": "Qilive 97R-2"
+    },
+    {
+      "market_name": "Qilive79",
+      "codename": "Qilive79",
+      "model": "Qilive 79"
+    },
+    {
+      "market_name": "Qilive7V2",
+      "codename": "ql70v2",
+      "model": "Qilive 70v2"
+    },
+    {
+      "market_name": "Quechua Phone 5",
+      "codename": "A50RG11",
+      "model": "Quechua Phone 5"
+    },
+    {
+      "market_name": "Quechua Tablet 8",
+      "codename": "A80RG11",
+      "model": "A80RG11"
+    },
+    {
+      "market_name": "Smart Home Tablet",
+      "codename": "hometablet",
+      "model": "Archos Smart Home Tablet"
+    },
+    {
+      "market_name": "TV Connect",
+      "codename": "LUDO",
+      "model": "ARCHOS LUDOG10"
+    }
+  ]
+}

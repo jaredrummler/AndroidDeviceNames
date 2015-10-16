@@ -1,0 +1,30 @@
+{
+  "manufacturer": "KD Interactive",
+  "devices": [
+    {
+      "market_name": "KD Interactive Kurio10S",
+      "codename": "C13300A",
+      "model": "Kurio10S"
+    },
+    {
+      "market_name": "KD Interactive Kurio4S",
+      "codename": "C13200A",
+      "model": "Kurio4S"
+    },
+    {
+      "market_name": "KD Interactive Kurio7S",
+      "codename": "C13000A",
+      "model": "Kurio7S"
+    },
+    {
+      "market_name": "Kurio Phone",
+      "codename": "C14500",
+      "model": "KurioPhone"
+    },
+    {
+      "market_name": "Kurio Tab - Extrem",
+      "codename": "g03k",
+      "model": "C14100"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Sonim",
+  "devices": [
+    {
+      "market_name": "Ex-Handy 09",
+      "codename": "XP6700Z1",
+      "model": "Ex-Handy 09"
+    },
+    {
+      "market_name": "Smart-Ex 01",
+      "codename": "XP7700Z1",
+      "model": "Smart-Ex 01"
+    },
+    {
+      "market_name": "XP6",
+      "codename": "XP6700",
+      "model": "XP6700"
+    },
+    {
+      "market_name": "XP7",
+      "codename": "XP7700",
+      "model": "XP7700"
+    }
+  ]
+}

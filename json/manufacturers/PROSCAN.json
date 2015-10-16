@@ -1,0 +1,90 @@
+{
+  "manufacturer": "Proscan",
+  "devices": [
+    {
+      "market_name": "PLT1065G",
+      "codename": "PLT1065G",
+      "model": "PLT1065G"
+    },
+    {
+      "market_name": "PLT1077G(1GB/8GB)",
+      "codename": "PLT1077G",
+      "model": "PLT1077G"
+    },
+    {
+      "market_name": "PLT1077G_16G",
+      "codename": "PLT1077G_16G",
+      "model": "PLT1077G_16G"
+    },
+    {
+      "market_name": "PLT7100G",
+      "codename": "PLT7100G",
+      "model": "PLT7100G"
+    },
+    {
+      "market_name": "PLT7109G",
+      "codename": "PLT7109G",
+      "model": "PLT7109G"
+    },
+    {
+      "market_name": "PLT7130G",
+      "codename": "PLT7130G",
+      "model": "PLT7130G"
+    },
+    {
+      "market_name": "PLT7602G",
+      "codename": "PLT7602G",
+      "model": "PLT7602G"
+    },
+    {
+      "market_name": "PLT7649G",
+      "codename": "PLT7649G",
+      "model": "PLT7649G"
+    },
+    {
+      "market_name": "PLT7803G",
+      "codename": "PLT7803G",
+      "model": "PLT7803G"
+    },
+    {
+      "market_name": "PLT7804G",
+      "codename": "PLT7804G",
+      "model": "PLT7804G"
+    },
+    {
+      "market_name": "PLT8802G",
+      "codename": "PLT8802G",
+      "model": "PLT8802G"
+    },
+    {
+      "market_name": "PLT9602G",
+      "codename": "PLT9602G",
+      "model": "PLT9602G"
+    },
+    {
+      "market_name": "PLT9606G",
+      "codename": "PLT9606G",
+      "model": "PLT9606G"
+    },
+    {
+      "market_name": "PLT9609G",
+      "codename": "PLT9609G",
+      "model": "PLT9609G"
+    },
+    {
+      "market_name": "PLT9649G",
+      "codename": "PLT9649G",
+      "model": "PLT9649G"
+    },
+    {
+      "market_name": "PLT9650G",
+      "codename": "PLT9650G",
+      "model": "PLT9650G"
+    },
+    {
+      "market_name": "PROSCAN PLT8235G Tablet",
+      "codename": "MID807_K",
+      "model": "PLT8235G"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Honda",
+  "devices": [
+    {
+      "market_name": "A-DA",
+      "codename": "e1853",
+      "model": "14A-DA"
+    },
+    {
+      "market_name": "A-DA",
+      "codename": "e1853",
+      "model": "MY15ADA"
+    },
+    {
+      "market_name": "MY15ADA",
+      "codename": "koelsch",
+      "model": "MY15ADA"
+    },
+    {
+      "market_name": "Pilot",
+      "codename": "koelsch",
+      "model": "MY15ADA"
+    }
+  ]
+}

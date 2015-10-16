@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Cherry Mobile",
+  "devices": [
+    {
+      "market_name": "Cherry W900 LTE",
+      "codename": "al7",
+      "model": "W900 LTE"
+    },
+    {
+      "market_name": "H220",
+      "codename": "ctih220_sprout",
+      "model": "H220"
+    },
+    {
+      "market_name": "One",
+      "codename": "H940_sprout",
+      "model": "H940"
+    }
+  ]
+}

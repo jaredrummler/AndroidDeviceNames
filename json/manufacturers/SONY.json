@@ -1,0 +1,1130 @@
+{
+  "manufacturer": "Sony",
+  "devices": [
+    {
+      "market_name": "",
+      "codename": "C5503",
+      "model": "C5503"
+    },
+    {
+      "market_name": "",
+      "codename": "C6616",
+      "model": "C6616"
+    },
+    {
+      "market_name": "",
+      "codename": "SGP312",
+      "model": "SGP312"
+    },
+    {
+      "market_name": "",
+      "codename": "ST21i",
+      "model": "ST21i"
+    },
+    {
+      "market_name": "",
+      "codename": "ST23i",
+      "model": "ST23i"
+    },
+    {
+      "market_name": "",
+      "codename": "ST26i",
+      "model": "ST26i"
+    },
+    {
+      "market_name": "",
+      "codename": "nbx02",
+      "model": "Sony Tablet P"
+    },
+    {
+      "market_name": "BRAVIA 2015",
+      "codename": "SVP-DTV15",
+      "model": "BRAVIA 2015"
+    },
+    {
+      "market_name": "BRAVIA 4K 2015",
+      "codename": "SVP-DTV15",
+      "model": "BRAVIA 2015"
+    },
+    {
+      "market_name": "BRAVIA 4K 2015",
+      "codename": "SVP-DTV15",
+      "model": "BRAVIA 4K 2015"
+    },
+    {
+      "market_name": "BRAVIA Smart Stick",
+      "codename": "NSZGU1",
+      "model": "NSZ-GU1"
+    },
+    {
+      "market_name": "Internet TV",
+      "codename": "asura",
+      "model": "Internet TV"
+    },
+    {
+      "market_name": "Internet TV",
+      "codename": "eagle",
+      "model": "Internet TV Box"
+    },
+    {
+      "market_name": "NSZGS7",
+      "codename": "NSZGS7",
+      "model": "NSZ-GS7/GX70"
+    },
+    {
+      "market_name": "NW-F800",
+      "codename": "icx1227",
+      "model": "WALKMAN"
+    },
+    {
+      "market_name": "NW-F880 Series",
+      "codename": "icx1237",
+      "model": "WALKMAN"
+    },
+    {
+      "market_name": "NW-Z1000",
+      "codename": "icx1216",
+      "model": "NW-Z1000Series"
+    },
+    {
+      "market_name": "NW-ZX1",
+      "codename": "icx1240",
+      "model": "WALKMAN"
+    },
+    {
+      "market_name": "NWZ-Z1000",
+      "codename": "icx1216",
+      "model": "NWZ-Z1000Series"
+    },
+    {
+      "market_name": "SmartWatch 3",
+      "codename": "tetra",
+      "model": "SmartWatch 3"
+    },
+    {
+      "market_name": "Sony Ericsson Live with Walkman",
+      "codename": "WT19a",
+      "model": "WT19a"
+    },
+    {
+      "market_name": "Sony Ericsson Live with Walkman",
+      "codename": "WT19i",
+      "model": "WT19i"
+    },
+    {
+      "market_name": "Sony Smartphone Z Ultra Google Play edition",
+      "codename": "C6806",
+      "model": "C6806_GPe"
+    },
+    {
+      "market_name": "Sony Tablet S",
+      "codename": "nbx03",
+      "model": "Sony Tablet S"
+    },
+    {
+      "market_name": "Tablet P",
+      "codename": "nbx02",
+      "model": "Sony Tablet P"
+    },
+    {
+      "market_name": "Tablet S",
+      "codename": "nbx03",
+      "model": "Sony Tablet S"
+    },
+    {
+      "market_name": "Xperia  E1 dual",
+      "codename": "D2114",
+      "model": "D2114"
+    },
+    {
+      "market_name": "Xperia A",
+      "codename": "SO-04E",
+      "model": "SO-04E"
+    },
+    {
+      "market_name": "Xperia A2",
+      "codename": "SO-04F",
+      "model": "SO-04F"
+    },
+    {
+      "market_name": "Xperia A4",
+      "codename": "SO-04G",
+      "model": "SO-04G"
+    },
+    {
+      "market_name": "Xperia C",
+      "codename": "C2304",
+      "model": "C2304"
+    },
+    {
+      "market_name": "Xperia C",
+      "codename": "C2305",
+      "model": "C2305"
+    },
+    {
+      "market_name": "Xperia C3",
+      "codename": "D2533",
+      "model": "D2533"
+    },
+    {
+      "market_name": "Xperia C3 Dual",
+      "codename": "D2502",
+      "model": "D2502"
+    },
+    {
+      "market_name": "Xperia C5 Ultra",
+      "codename": "E5506",
+      "model": "E5506"
+    },
+    {
+      "market_name": "Xperia C5 Ultra",
+      "codename": "E5533",
+      "model": "E5533"
+    },
+    {
+      "market_name": "Xperia C5 Ultra",
+      "codename": "E5553",
+      "model": "E5553"
+    },
+    {
+      "market_name": "Xperia C5 Ultra",
+      "codename": "E5563",
+      "model": "E5563"
+    },
+    {
+      "market_name": "Xperia E",
+      "codename": "C1504",
+      "model": "C1504"
+    },
+    {
+      "market_name": "Xperia E",
+      "codename": "C1505",
+      "model": "C1505"
+    },
+    {
+      "market_name": "Xperia E dual",
+      "codename": "C1604",
+      "model": "C1604"
+    },
+    {
+      "market_name": "Xperia E dual",
+      "codename": "C1605",
+      "model": "C1605"
+    },
+    {
+      "market_name": "Xperia E1",
+      "codename": "D2004",
+      "model": "D2004"
+    },
+    {
+      "market_name": "Xperia E1",
+      "codename": "D2005",
+      "model": "D2005"
+    },
+    {
+      "market_name": "Xperia E1",
+      "codename": "D2114",
+      "model": "D2114"
+    },
+    {
+      "market_name": "Xperia E1 Dual",
+      "codename": "D2104",
+      "model": "D2104"
+    },
+    {
+      "market_name": "Xperia E1 Dual",
+      "codename": "D2105",
+      "model": "D2105"
+    },
+    {
+      "market_name": "Xperia E1 dual",
+      "codename": "D2104",
+      "model": "D2104"
+    },
+    {
+      "market_name": "Xperia E1 dual",
+      "codename": "D2105",
+      "model": "D2105"
+    },
+    {
+      "market_name": "Xperia E3",
+      "codename": "D2202",
+      "model": "D2202"
+    },
+    {
+      "market_name": "Xperia E3",
+      "codename": "D2203",
+      "model": "D2203"
+    },
+    {
+      "market_name": "Xperia E3",
+      "codename": "D2206",
+      "model": "D2206"
+    },
+    {
+      "market_name": "Xperia E3",
+      "codename": "D2243",
+      "model": "D2243"
+    },
+    {
+      "market_name": "Xperia E3 Dual",
+      "codename": "D2212",
+      "model": "D2212"
+    },
+    {
+      "market_name": "Xperia E4g",
+      "codename": "E2053",
+      "model": "E2053"
+    },
+    {
+      "market_name": "Xperia E4g Dual",
+      "codename": "E2033",
+      "model": "E2033"
+    },
+    {
+      "market_name": "Xperia E4g Dual",
+      "codename": "E2043",
+      "model": "E2043"
+    },
+    {
+      "market_name": "Xperia Go",
+      "codename": "ST27a",
+      "model": "ST27a"
+    },
+    {
+      "market_name": "Xperia Go",
+      "codename": "ST27i",
+      "model": "ST27i"
+    },
+    {
+      "market_name": "Xperia J",
+      "codename": "ST26a",
+      "model": "ST26a"
+    },
+    {
+      "market_name": "Xperia J",
+      "codename": "ST26i",
+      "model": "ST26i"
+    },
+    {
+      "market_name": "Xperia J1 Compact",
+      "codename": "D5788",
+      "model": "D5788"
+    },
+    {
+      "market_name": "Xperia L",
+      "codename": "C2104",
+      "model": "C2104"
+    },
+    {
+      "market_name": "Xperia L",
+      "codename": "C2105",
+      "model": "C2105"
+    },
+    {
+      "market_name": "Xperia M",
+      "codename": "C1904",
+      "model": "C1904"
+    },
+    {
+      "market_name": "Xperia M",
+      "codename": "C1905",
+      "model": "C1905"
+    },
+    {
+      "market_name": "Xperia M dual",
+      "codename": "C2004",
+      "model": "C2004"
+    },
+    {
+      "market_name": "Xperia M dual",
+      "codename": "C2005",
+      "model": "C2005"
+    },
+    {
+      "market_name": "Xperia M2",
+      "codename": "D2303",
+      "model": "D2303"
+    },
+    {
+      "market_name": "Xperia M2",
+      "codename": "D2305",
+      "model": "D2305"
+    },
+    {
+      "market_name": "Xperia M2",
+      "codename": "D2306",
+      "model": "D2306"
+    },
+    {
+      "market_name": "Xperia M2 Aqua",
+      "codename": "D2403",
+      "model": "D2403"
+    },
+    {
+      "market_name": "Xperia M2 Aqua",
+      "codename": "D2406",
+      "model": "D2406"
+    },
+    {
+      "market_name": "Xperia M2 Dual",
+      "codename": "D2302",
+      "model": "D2302"
+    },
+    {
+      "market_name": "Xperia M2 dual",
+      "codename": "D2302",
+      "model": "D2302"
+    },
+    {
+      "market_name": "Xperia M5",
+      "codename": "E5603",
+      "model": "E5603"
+    },
+    {
+      "market_name": "Xperia M5",
+      "codename": "E5606",
+      "model": "E5606"
+    },
+    {
+      "market_name": "Xperia M5",
+      "codename": "E5653",
+      "model": "E5653"
+    },
+    {
+      "market_name": "Xperia M5 Dual",
+      "codename": "E5633",
+      "model": "E5633"
+    },
+    {
+      "market_name": "Xperia M5 Dual",
+      "codename": "E5643",
+      "model": "E5643"
+    },
+    {
+      "market_name": "Xperia M5 Dual",
+      "codename": "E5663",
+      "model": "E5663"
+    },
+    {
+      "market_name": "Xperia Miro",
+      "codename": "ST23i",
+      "model": "ST23i"
+    },
+    {
+      "market_name": "Xperia P",
+      "codename": "LT22i",
+      "model": "LT22i"
+    },
+    {
+      "market_name": "Xperia PLAY",
+      "codename": "R800a",
+      "model": "R800a"
+    },
+    {
+      "market_name": "Xperia PLAY",
+      "codename": "R800i",
+      "model": "R800i"
+    },
+    {
+      "market_name": "Xperia S",
+      "codename": "LT26i",
+      "model": "LT26i"
+    },
+    {
+      "market_name": "Xperia SL",
+      "codename": "LT26ii",
+      "model": "LT26ii"
+    },
+    {
+      "market_name": "Xperia SP",
+      "codename": "C5302",
+      "model": "C5302"
+    },
+    {
+      "market_name": "Xperia SP",
+      "codename": "C5303",
+      "model": "C5303"
+    },
+    {
+      "market_name": "Xperia SP",
+      "codename": "C5306",
+      "model": "C5306"
+    },
+    {
+      "market_name": "Xperia SP",
+      "codename": "M35h",
+      "model": "M35h"
+    },
+    {
+      "market_name": "Xperia SP",
+      "codename": "M35t",
+      "model": "M35t"
+    },
+    {
+      "market_name": "Xperia T",
+      "codename": "LT30a",
+      "model": "LT30a"
+    },
+    {
+      "market_name": "Xperia T",
+      "codename": "LT30p",
+      "model": "LT30p"
+    },
+    {
+      "market_name": "Xperia T2 Ultra",
+      "codename": "D5303",
+      "model": "D5303"
+    },
+    {
+      "market_name": "Xperia T2 Ultra",
+      "codename": "D5306",
+      "model": "D5306"
+    },
+    {
+      "market_name": "Xperia T2 Ultra",
+      "codename": "D5316",
+      "model": "D5316"
+    },
+    {
+      "market_name": "Xperia T2 Ultra",
+      "codename": "D5316N",
+      "model": "D5316N"
+    },
+    {
+      "market_name": "Xperia T2 Ultra",
+      "codename": "D5322",
+      "model": "D5322"
+    },
+    {
+      "market_name": "Xperia T2 Ultra dual",
+      "codename": "D5322",
+      "model": "D5322"
+    },
+    {
+      "market_name": "Xperia T3",
+      "codename": "D5102",
+      "model": "D5102"
+    },
+    {
+      "market_name": "Xperia T3",
+      "codename": "D5103",
+      "model": "D5103"
+    },
+    {
+      "market_name": "Xperia T3",
+      "codename": "D5106",
+      "model": "D5106"
+    },
+    {
+      "market_name": "Xperia TX",
+      "codename": "LT29i",
+      "model": "LT29i"
+    },
+    {
+      "market_name": "Xperia Tablet S",
+      "codename": "txs03",
+      "model": "SGPT12"
+    },
+    {
+      "market_name": "Xperia Tablet S",
+      "codename": "txs03",
+      "model": "SGPT13"
+    },
+    {
+      "market_name": "Xperia Tablet Z",
+      "codename": "SGP311",
+      "model": "SGP311"
+    },
+    {
+      "market_name": "Xperia Tablet Z",
+      "codename": "SGP312",
+      "model": "SGP312"
+    },
+    {
+      "market_name": "Xperia Tablet Z",
+      "codename": "SGP321",
+      "model": "SGP321"
+    },
+    {
+      "market_name": "Xperia Tablet Z",
+      "codename": "SGP351",
+      "model": "SGP351"
+    },
+    {
+      "market_name": "Xperia Tipo",
+      "codename": "ST21i",
+      "model": "ST21i"
+    },
+    {
+      "market_name": "Xperia Tipo",
+      "codename": "ST21i2",
+      "model": "ST21i2"
+    },
+    {
+      "market_name": "Xperia U",
+      "codename": "ST25a",
+      "model": "ST25a"
+    },
+    {
+      "market_name": "Xperia U",
+      "codename": "ST25i",
+      "model": "ST25i"
+    },
+    {
+      "market_name": "Xperia V",
+      "codename": "LT25i",
+      "model": "LT25i"
+    },
+    {
+      "market_name": "Xperia Z",
+      "codename": "C6602",
+      "model": "C6602"
+    },
+    {
+      "market_name": "Xperia Z",
+      "codename": "C6603",
+      "model": "C6603"
+    },
+    {
+      "market_name": "Xperia Z",
+      "codename": "C6606",
+      "model": "C6606"
+    },
+    {
+      "market_name": "Xperia Z",
+      "codename": "C6616",
+      "model": "C6616"
+    },
+    {
+      "market_name": "Xperia Z",
+      "codename": "L36h",
+      "model": "L36h"
+    },
+    {
+      "market_name": "Xperia Z",
+      "codename": "SO-02E",
+      "model": "SO-02E"
+    },
+    {
+      "market_name": "Xperia Z Ultra",
+      "codename": "C6802",
+      "model": "C6802"
+    },
+    {
+      "market_name": "Xperia Z Ultra",
+      "codename": "C6806",
+      "model": "C6806"
+    },
+    {
+      "market_name": "Xperia Z Ultra",
+      "codename": "C6833",
+      "model": "C6833"
+    },
+    {
+      "market_name": "Xperia Z Ultra",
+      "codename": "C6843",
+      "model": "C6843"
+    },
+    {
+      "market_name": "Xperia Z Ultra",
+      "codename": "SGP412",
+      "model": "SGP412"
+    },
+    {
+      "market_name": "Xperia Z Ultra",
+      "codename": "SOL24",
+      "model": "SOL24"
+    },
+    {
+      "market_name": "Xperia Z Ultra",
+      "codename": "XL39h",
+      "model": "XL39h"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "C6902",
+      "model": "C6902"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "C6903",
+      "model": "C6903"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "C6906",
+      "model": "C6906"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "C6916",
+      "model": "C6916"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "C6943",
+      "model": "C6943"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "L39h",
+      "model": "L39h"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "L39t",
+      "model": "L39t"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "L39u",
+      "model": "L39u"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "SO-01F",
+      "model": "SO-01F"
+    },
+    {
+      "market_name": "Xperia Z1",
+      "codename": "SOL23",
+      "model": "SOL23"
+    },
+    {
+      "market_name": "Xperia Z1 Compact",
+      "codename": "D5503",
+      "model": "D5503"
+    },
+    {
+      "market_name": "Xperia Z1 Compact",
+      "codename": "M51w",
+      "model": "M51w"
+    },
+    {
+      "market_name": "Xperia Z1f",
+      "codename": "SO-02F",
+      "model": "SO-02F"
+    },
+    {
+      "market_name": "Xperia Z2",
+      "codename": "D6502",
+      "model": "D6502"
+    },
+    {
+      "market_name": "Xperia Z2",
+      "codename": "D6503",
+      "model": "D6503"
+    },
+    {
+      "market_name": "Xperia Z2",
+      "codename": "D6543",
+      "model": "D6543"
+    },
+    {
+      "market_name": "Xperia Z2",
+      "codename": "SO-03F",
+      "model": "SO-03F"
+    },
+    {
+      "market_name": "Xperia Z2 Tablet",
+      "codename": "SGP511",
+      "model": "SGP511"
+    },
+    {
+      "market_name": "Xperia Z2 Tablet",
+      "codename": "SGP512",
+      "model": "SGP512"
+    },
+    {
+      "market_name": "Xperia Z2 Tablet",
+      "codename": "SGP521",
+      "model": "SGP521"
+    },
+    {
+      "market_name": "Xperia Z2 Tablet",
+      "codename": "SGP551",
+      "model": "SGP551"
+    },
+    {
+      "market_name": "Xperia Z2 Tablet",
+      "codename": "SGP561",
+      "model": "SGP561"
+    },
+    {
+      "market_name": "Xperia Z2 Tablet",
+      "codename": "SO-05F",
+      "model": "SO-05F"
+    },
+    {
+      "market_name": "Xperia Z2 Tablet",
+      "codename": "SOT21",
+      "model": "SOT21"
+    },
+    {
+      "market_name": "Xperia Z2a",
+      "codename": "D6563",
+      "model": "D6563"
+    },
+    {
+      "market_name": "Xperia Z3",
+      "codename": "401SO",
+      "model": "401SO"
+    },
+    {
+      "market_name": "Xperia Z3",
+      "codename": "D6603",
+      "model": "D6603"
+    },
+    {
+      "market_name": "Xperia Z3",
+      "codename": "D6616",
+      "model": "D6616"
+    },
+    {
+      "market_name": "Xperia Z3",
+      "codename": "D6643",
+      "model": "D6643"
+    },
+    {
+      "market_name": "Xperia Z3",
+      "codename": "D6653",
+      "model": "D6653"
+    },
+    {
+      "market_name": "Xperia Z3",
+      "codename": "SO-01G",
+      "model": "SO-01G"
+    },
+    {
+      "market_name": "Xperia Z3",
+      "codename": "SOL26",
+      "model": "SOL26"
+    },
+    {
+      "market_name": "Xperia Z3",
+      "codename": "leo",
+      "model": "D6603"
+    },
+    {
+      "market_name": "Xperia Z3 Compact",
+      "codename": "D5803",
+      "model": "D5803"
+    },
+    {
+      "market_name": "Xperia Z3 Compact",
+      "codename": "D5833",
+      "model": "D5833"
+    },
+    {
+      "market_name": "Xperia Z3 Compact",
+      "codename": "SO-02G",
+      "model": "SO-02G"
+    },
+    {
+      "market_name": "Xperia Z3 Dual",
+      "codename": "D6633",
+      "model": "D6633"
+    },
+    {
+      "market_name": "Xperia Z3 Dual",
+      "codename": "D6683",
+      "model": "D6683"
+    },
+    {
+      "market_name": "Xperia Z3 Tablet Compact",
+      "codename": "SGP611",
+      "model": "SGP611"
+    },
+    {
+      "market_name": "Xperia Z3 Tablet Compact",
+      "codename": "SGP612",
+      "model": "SGP612"
+    },
+    {
+      "market_name": "Xperia Z3 Tablet Compact",
+      "codename": "SGP621",
+      "model": "SGP621"
+    },
+    {
+      "market_name": "Xperia Z3 Tablet Compact",
+      "codename": "SGP641",
+      "model": "SGP641"
+    },
+    {
+      "market_name": "Xperia Z3+",
+      "codename": "E6553",
+      "model": "E6553"
+    },
+    {
+      "market_name": "Xperia Z3+ Dual",
+      "codename": "E6533",
+      "model": "E6533"
+    },
+    {
+      "market_name": "Xperia Z3v",
+      "codename": "D6708",
+      "model": "D6708"
+    },
+    {
+      "market_name": "Xperia Z4",
+      "codename": "402SO",
+      "model": "402SO"
+    },
+    {
+      "market_name": "Xperia Z4",
+      "codename": "SO-03G",
+      "model": "SO-03G"
+    },
+    {
+      "market_name": "Xperia Z4",
+      "codename": "SOV31",
+      "model": "SOV31"
+    },
+    {
+      "market_name": "Xperia Z4 Tablet",
+      "codename": "SGP771",
+      "model": "SGP771"
+    },
+    {
+      "market_name": "Xperia Z4 Tablet",
+      "codename": "SO-05G",
+      "model": "SO-05G"
+    },
+    {
+      "market_name": "Xperia Z4 Tablet",
+      "codename": "SOT31",
+      "model": "SOT31"
+    },
+    {
+      "market_name": "Xperia Z4 tablet",
+      "codename": "SGP712",
+      "model": "SGP712"
+    },
+    {
+      "market_name": "Xperia Z4v",
+      "codename": "E6508",
+      "model": "E6508"
+    },
+    {
+      "market_name": "Xperia Z5 Compact",
+      "codename": "E5803",
+      "model": "E5803"
+    },
+    {
+      "market_name": "Xperia Z5 Compact",
+      "codename": "E5823",
+      "model": "E5823"
+    },
+    {
+      "market_name": "Xperia ZL",
+      "codename": "C6502",
+      "model": "C6502"
+    },
+    {
+      "market_name": "Xperia ZL",
+      "codename": "C6503",
+      "model": "C6503"
+    },
+    {
+      "market_name": "Xperia ZL",
+      "codename": "C6506",
+      "model": "C6506"
+    },
+    {
+      "market_name": "Xperia ZL",
+      "codename": "L35h",
+      "model": "L35h"
+    },
+    {
+      "market_name": "Xperia ZL2",
+      "codename": "SOL25",
+      "model": "SOL25"
+    },
+    {
+      "market_name": "Xperia ZR",
+      "codename": "C5306",
+      "model": "C5306"
+    },
+    {
+      "market_name": "Xperia ZR",
+      "codename": "C5502",
+      "model": "C5502"
+    },
+    {
+      "market_name": "Xperia ZR",
+      "codename": "C5503",
+      "model": "C5503"
+    },
+    {
+      "market_name": "Xperia acro HD",
+      "codename": "SO-03D",
+      "model": "SO-03D"
+    },
+    {
+      "market_name": "Xperia acro S",
+      "codename": "LT26w",
+      "model": "LT26w"
+    },
+    {
+      "market_name": "Xperia active",
+      "codename": "ST17i",
+      "model": "ST17i"
+    },
+    {
+      "market_name": "Xperia arc S",
+      "codename": "LT18i",
+      "model": "LT18i"
+    },
+    {
+      "market_name": "Xperia go",
+      "codename": "ST27i",
+      "model": "ST27i"
+    },
+    {
+      "market_name": "Xperia ion",
+      "codename": "LT28h",
+      "model": "LT28h"
+    },
+    {
+      "market_name": "Xperia ion",
+      "codename": "LT28i",
+      "model": "LT28i"
+    },
+    {
+      "market_name": "Xperia mini pro",
+      "codename": "SK17a",
+      "model": "SK17a"
+    },
+    {
+      "market_name": "Xperia miro",
+      "codename": "ST23a",
+      "model": "ST23a"
+    },
+    {
+      "market_name": "Xperia miro",
+      "codename": "ST23i",
+      "model": "ST23i"
+    },
+    {
+      "market_name": "Xperia neo L",
+      "codename": "MT25i",
+      "model": "MT25i"
+    },
+    {
+      "market_name": "Xperia pro",
+      "codename": "MK16i",
+      "model": "MK16i"
+    },
+    {
+      "market_name": "Xperia ray",
+      "codename": "ST18i",
+      "model": "ST18i"
+    },
+    {
+      "market_name": "Xperia sola",
+      "codename": "MT27i",
+      "model": "MT27i"
+    },
+    {
+      "market_name": "Xperia tipo",
+      "codename": "ST21a",
+      "model": "ST21a"
+    },
+    {
+      "market_name": "Xperia tipo dual",
+      "codename": "ST21a2",
+      "model": "ST21a2"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 C4",
+      "codename": "E5303",
+      "model": "E5303"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 C4",
+      "codename": "E5306",
+      "model": "E5306"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 C4",
+      "codename": "E5353",
+      "model": "E5353"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 C4 Dual",
+      "codename": "E5333",
+      "model": "E5333"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 C4 Dual",
+      "codename": "E5343",
+      "model": "E5343"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 C4 Dual",
+      "codename": "E5363",
+      "model": "E5363"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 E4",
+      "codename": "E2104",
+      "model": "E2104"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 E4",
+      "codename": "E2105",
+      "model": "E2105"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 E4 Dual",
+      "codename": "E2115",
+      "model": "E2115"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 E4 Dual",
+      "codename": "E2124",
+      "model": "E2124"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 E4g",
+      "codename": "E2003",
+      "model": "E2003"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 E4g",
+      "codename": "E2006",
+      "model": "E2006"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua",
+      "codename": "E2303",
+      "model": "E2303"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua",
+      "codename": "E2306",
+      "model": "E2306"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua",
+      "codename": "E2353",
+      "model": "E2353"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua Dual",
+      "codename": "E2312",
+      "model": "E2312"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua Dual",
+      "codename": "E2333",
+      "model": "E2333"
+    },
+    {
+      "market_name": "Xperia\\xe2\\x84\\xa2 M4 Aqua Dual",
+      "codename": "E2363",
+      "model": "E2363"
+    }
+  ]
+}
