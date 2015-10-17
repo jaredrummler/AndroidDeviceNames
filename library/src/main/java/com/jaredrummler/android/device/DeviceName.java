@@ -934,7 +934,15 @@ public class DeviceName {
     }
   }
 
-  /** Get the {@link DeviceInfo} for the current device. */
+  /**
+   * Get the {@link DeviceInfo} for the current device. Do not run on the UI thread, as this may
+   * download JSON to retrieve the {@link DeviceInfo}. JSON is only downloaded once and then
+   * stored to {@link SharedPreferences}.
+   *
+   * @param context
+   *     the application context.
+   * @return {@link DeviceInfo} for the current device.
+   */
   public static DeviceInfo getDeviceInfo(Context context) {
     return getDeviceInfo(context.getApplicationContext(), Build.DEVICE, Build.MODEL);
   }
