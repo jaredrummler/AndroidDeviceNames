@@ -934,6 +934,11 @@ public class DeviceName {
     }
   }
 
+  /** Get the {@link DeviceInfo} for the current device. */
+  public static DeviceInfo getDeviceInfo(Context context) {
+    return getDeviceInfo(context.getApplicationContext(), Build.DEVICE, Build.MODEL);
+  }
+
   /** Get the device name from the generated JSON files created from Google's device list. */
   private static DeviceInfo getDeviceInfo(Context context, String codename, String model) {
     SharedPreferences prefs = context.getSharedPreferences(SHARED_PREF_NAME, Context.MODE_PRIVATE);
