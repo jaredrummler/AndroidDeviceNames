@@ -9,17 +9,17 @@ This small library gets the market (consumer friendly) name of a device. You can
 Download
 --------
 
-Download [the latest AAR](https://repo1.maven.org/maven2/com/jaredrummler/android-device-names/1.0.0/android-device-names-1.0.0.aar) or grab via Gradle:
+Download [the latest AAR](https://repo1.maven.org/maven2/com/jaredrummler/android-device-names/1.0.1/android-device-names-1.0.1.aar) or grab via Gradle:
 
 ```groovy
-compile 'com.jaredrummler:android-device-names:1.0.0'
+compile 'com.jaredrummler:android-device-names:1.0.1'
 ```
 or Maven:
 ```xml
 <dependency>
   <groupId>com.jaredrummler</groupId>
   <artifactId>android-device-names</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 </dependency>
 ```
 
