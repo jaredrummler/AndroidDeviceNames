@@ -1,14 +1,7 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidDeviceNames-green.svg?style=flat)](https://android-arsenal.com/details/1/2663)
-
 # AndroidDeviceNames
 A small Android library to get the market name of an Android device.
 ___
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidDeviceNames-green.svg?style=flat)](https://android-arsenal.com/details/1/2663)
-
-
-Unfortunately, on many popular devices, the market name of the device is not available. For example, on the Samsung Galaxy S6 the value of [Build.MODEL](http://developer.android.com/reference/android/os/Build.html#MODEL) could be "SM-G920F", "SM-G920I", "SM-G920W8", etc.
-
-This small library gets the market (consumer friendly) name of a device. You can use one (or both) of the following examples:
 
 Download
 --------
@@ -21,6 +14,12 @@ compile 'com.jaredrummler:android-device-names:1.0.1'
 
 Or simply copy the [DeviceName](https://raw.githubusercontent.com/jaredrummler/AndroidDeviceNames/master/library/src/main/java/com/jaredrummler/android/device/DeviceName.java) class intro your project, update the package declaration, and you are good to go.
 
+Description
+-----------
+
+Unfortunately, on many popular devices, the market name of the device is not available. For example, on the Samsung Galaxy S6 the value of [Build.MODEL](http://developer.android.com/reference/android/os/Build.html#MODEL) could be "SM-G920F", "SM-G920I", or "SM-G920W8".
+
+This small library gets the market (consumer friendly) name of a device. You can use one (or both) of the following examples:
 
 Examples
 --------
