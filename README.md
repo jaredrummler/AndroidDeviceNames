@@ -1,3 +1,5 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidDeviceNames-green.svg?style=flat)](https://android-arsenal.com/details/1/2663)
+
 # AndroidDeviceNames
 A small Android library to get the market name of an Android device.
 ___
