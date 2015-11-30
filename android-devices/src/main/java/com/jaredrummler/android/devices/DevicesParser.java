@@ -15,8 +15,8 @@ import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -41,10 +41,9 @@ public class DevicesParser {
     this.xls = xls;
   }
 
-  public List<Device> getDevices() throws IOException {
+  public List<Device> getDevices(InputStream inputStream) throws IOException {
     List<Device> devices = new ArrayList<>();
-    FileInputStream fis = new FileInputStream(new File(xls.getPath()));
-    HSSFWorkbook workbook = new HSSFWorkbook(fis);
+    HSSFWorkbook workbook = new HSSFWorkbook(inputStream);
     HSSFSheet sheet = workbook.getSheetAt(0);
     int numRows = sheet.getLastRowNum();
     for (int i = 1; i < numRows; i++) {
@@ -55,7 +54,7 @@ public class DevicesParser {
       String model = cellToString(row.getCell(3));
       devices.add(new Device(manufacturer, marketName, codename, model));
     }
-    fis.close();
+    inputStream.close();
     return devices;
   }
 

@@ -18,13 +18,18 @@
 package com.jaredrummler.android.devices;
 
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.List;
 
 public class Main {
 
+  // https://support.google.com/googleplay/answer/1727131?hl=en
+  private static final String LATEST_DEVICE_LIST_XLS = "supported_devices_11-30-2015.xls";
+
   public static void main(String[] args) throws IOException {
+    InputStream inputStream = ClassLoader.getSystemResourceAsStream(LATEST_DEVICE_LIST_XLS);
     DevicesParser parser = new DevicesParser();
-    List<Device> devices = parser.getDevices();
+    List<Device> devices = parser.getDevices(inputStream);
     DevicesToJson devicesToJson = new DevicesToJson(devices);
     devicesToJson.createDevicesJson(Constants.DEVICES_JSON);
     devicesToJson.createCodenamesJson(Constants.CODENAMES_DIR);
