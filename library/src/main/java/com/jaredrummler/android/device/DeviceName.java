@@ -134,11 +134,6 @@ public class DeviceName {
     switch (codename) {
       case "quark":
         return "DROID Turbo";
-      case "K01N_2":
-      case "K01N_1":
-      case "K012":
-      case "K00Z":
-        return "Fonepad 7";
       case "a3ltedd":
       case "a3ulte":
       case "a3ltezh":
@@ -158,9 +153,11 @@ public class DeviceName {
       case "a5ltechn":
       case "a5ulte":
       case "a5ultektt":
+      case "a5ultebmc":
       case "a5ultelgt":
         return "Galaxy A5";
       case "a8elte":
+      case "a8hplte":
       case "a8elteskt":
       case "a8ltechn":
         return "Galaxy A8";
@@ -201,6 +198,7 @@ public class DeviceName {
       case "rossalte":
       case "coreprimeltespr":
       case "rossaltexsa":
+      case "coreprimeltelra":
       case "coreprimelte":
       case "coreprimeltevzw":
       case "coreprimeve3g":
@@ -239,15 +237,19 @@ public class DeviceName {
       case "nevisvess":
       case "nevisds":
         return "Galaxy Fame";
+      case "grandprimelteatt":
+        return "Galaxy Go Prime";
       case "baffinq3g":
       case "baffinlitedtv":
       case "baffinlite":
         return "Galaxy Grand Neo";
+      case "gprimelteacg":
       case "gprimelteusc":
       case "grandprimeveltezt":
       case "grandprimelte":
       case "fortunaltezh":
       case "gprimeltetfnvzw":
+      case "gprimeltemtr":
       case "fortunalte":
       case "gprimeltecan":
       case "fortunaltectc":
@@ -270,6 +272,11 @@ public class DeviceName {
       case "ms01lteskt":
       case "ms01ltektt":
         return "Galaxy Grand2";
+      case "j75ltektt":
+      case "j7ltechn":
+      case "j7e3g":
+      case "j7elte":
+        return "Galaxy J7";
       case "toroplus":
       case "maguro":
       case "toro":
@@ -375,6 +382,7 @@ public class DeviceName {
       case "trelte":
       case "trhplte":
         return "Galaxy Note4";
+      case "noblelteacg":
       case "noblelteusc":
       case "nobleltechn":
       case "nobleltektt":
@@ -387,8 +395,15 @@ public class DeviceName {
       case "nobleltehk":
       case "nobleltelgt":
       case "noblelteskt":
+      case "nobleltelra":
       case "noblelteatt":
         return "Galaxy Note5";
+      case "o5lte":
+      case "o5ltechn":
+        return "Galaxy On5";
+      case "o7ltechn":
+      case "o7lte":
+        return "Galaxy On7";
       case "kyletdcmcc":
       case "kylechn":
       case "kyleichn":
@@ -474,6 +489,7 @@ public class DeviceName {
       case "jfltecan":
       case "ks01lte":
       case "jfltespr":
+      case "jfltevzwpp":
       case "SC-04E":
       case "jflte":
       case "jfltevzw":
@@ -487,6 +503,20 @@ public class DeviceName {
       case "ja3gduosctc":
       case "jftdd":
         return "Galaxy S4";
+      case "serranoltektt":
+      case "serranolteusc":
+      case "serrano3g":
+      case "serranove3g":
+      case "serranovolteatt":
+      case "serranoltelra":
+      case "serranods":
+      case "serranovelte":
+      case "serranoltebmc":
+      case "serranoltespr":
+      case "serranoltevzw":
+      case "serranoltekx":
+      case "serranolte":
+        return "Galaxy S4 Mini";
       case "klte":
       case "kltektt":
       case "klteduoszn":
@@ -509,6 +539,9 @@ public class DeviceName {
       case "k3g":
       case "kltelgt":
         return "Galaxy S5";
+      case "s5neoltecan":
+      case "s5neolte":
+        return "Galaxy S5 Neo";
       case "zerofltechn":
       case "zeroflteaio":
       case "zeroflte":
@@ -547,6 +580,7 @@ public class DeviceName {
       case "zenltechn":
       case "zenltelgt":
       case "zenltetmo":
+      case "zenltekx":
       case "zenltespr":
       case "zenltevzw":
       case "zenlte":
@@ -575,6 +609,15 @@ public class DeviceName {
       case "SGH-T869":
       case "SHW-M430W":
         return "Galaxy Tab 7.0 Plus";
+      case "gtesqltespr":
+      case "gtesqlteusc":
+        return "Galaxy Tab E 8.0";
+      case "gtelwifi":
+      case "gtelwifiue":
+      case "gtelwifichn":
+      case "gtel3g":
+      case "gtelltevzw":
+        return "Galaxy Tab E 9.6";
       case "degaswifiue":
       case "403SC":
       case "degasltespr":
@@ -588,6 +631,11 @@ public class DeviceName {
       case "degas3g":
       case "degaslte":
         return "Galaxy Tab4 7.0";
+      case "gvltexsp":
+      case "gvwifiue":
+      case "gvlteatt":
+      case "gvlte":
+        return "Galaxy View";
       case "GT-S5368":
       case "SCH-i509":
       case "GT-S5360T":
@@ -616,6 +664,11 @@ public class DeviceName {
       case "htc_m8":
       case "htc_m8whl":
         return "HTC One (M8)";
+      case "htc_hiaeuhl":
+      case "htc_hiaeul":
+      case "htc_hiaetuhl":
+      case "htc_hiaewhl":
+        return "HTC One A9";
       case "htc_himauhl":
       case "htc_himawhl":
       case "htc_himaulatt":
@@ -666,6 +719,8 @@ public class DeviceName {
         return "LG Optimus G Pro";
       case "u2":
         return "LG Optimus L9";
+      case "A7-30GC":
+        return "Lenovo A7-30GC";
       case "a1":
         return "Liquid";
       case "acer_e3n":
@@ -710,22 +765,24 @@ public class DeviceName {
       case "ghost":
       case "victara":
         return "MOTO X";
-      case "K013":
-      case "K01A":
-      case "K017":
+      case "HWCRR":
+        return "Mate S";
       case "K013C":
-      case "K01U_2":
-      case "K01U_1":
-      case "K013_1":
         return "MeMO Pad 7";
       case "clark":
         return "Moto X Style";
       case "manta":
         return "Nexus 10";
+      case "mako":
+        return "Nexus 4";
       case "hammerhead":
         return "Nexus 5";
+      case "bullhead":
+        return "Nexus 5X";
       case "shamu":
         return "Nexus 6";
+      case "angler":
+        return "Nexus 6P";
       case "grouper":
       case "tilapia":
         return "Nexus 7 (2012)";
@@ -734,8 +791,12 @@ public class DeviceName {
         return "Nexus 7 (2013)";
       case "flounder":
         return "Nexus 9";
+      case "OnePlus":
+        return "OnePlus";
       case "A0001":
         return "OnePlus One";
+      case "OnePlus2":
+        return "OnePlus2";
       case "p990":
       case "p990_CIS-xxx":
       case "star":
@@ -808,6 +869,9 @@ public class DeviceName {
       case "stingray":
       case "wingray":
         return "XOOM";
+      case "D2104":
+      case "D2105":
+        return "Xperia E1 dual";
       case "D2203":
       case "D2202":
       case "D2243":
@@ -845,6 +909,7 @@ public class DeviceName {
       case "D6543":
         return "Xperia Z2";
       case "D6603":
+      case "D6646":
       case "401SO":
       case "SOL26":
       case "D6643":
@@ -857,20 +922,12 @@ public class DeviceName {
       case "SO-03G":
       case "SOV31":
         return "Xperia Z4";
+      case "SO-02H":
       case "E5823":
       case "E5803":
         return "Xperia Z5 Compact";
-      case "ASUS_Z00RD_7":
-      case "ASUS_Z00RD_5":
-        return "ZenFone 2";
-      case "ASUS_T00I":
-      case "ASUS_T00Q":
-        return "ZenFone 4";
-      case "ASUS_T00F1":
-      case "ASUS_T00K":
       case "ASUS_T00J":
       case "ASUS_T00F":
-      case "ASUS_T00J1":
         return "ZenFone 5";
       default:
         return fallback;

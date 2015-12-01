@@ -1,11 +1,5 @@
 [
   {
-    "manufacturer": "Asus",
-    "market_name": "ASUS Live",
-    "codename": "ASUS_Z00YD",
-    "model": "ASUS_Z00YD"
-  },
-  {
     "manufacturer": "Acer",
     "market_name": "Iconia Tab 7",
     "codename": "acer_aprilia",
@@ -538,30 +532,6 @@
     "market_name": "HTC One M9",
     "codename": "htc_himawl",
     "model": "HTC6535LVW"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Desire 828",
-    "codename": "htc_a51bml_dtul",
-    "model": "HTC D828w"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Desire 828",
-    "codename": "htc_a51bml_dtul",
-    "model": "HTC_D828x"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Desire626",
-    "codename": "htc_a32ul_emea",
-    "model": "HTC 0PKX2"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "Desire626",
-    "codename": "htc_a32ul_emea",
-    "model": "HTC Desire 626"
   },
   {
     "manufacturer": "HTC",

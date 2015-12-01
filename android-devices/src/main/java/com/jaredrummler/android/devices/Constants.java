@@ -33,7 +33,6 @@ public class Constants {
 
   public static final String[] POPULAR_DEVICES = {
       // Acer
-      "ASUS Live",
       "Iconia Tab 7",
       "Iconia Tab 8",
       "Iconia Tab 10",
@@ -51,10 +50,7 @@ public class Constants {
       // Asus
       "Nexus 7 (2012)",
       "Nexus 7 (2013)",
-      "ZenFone 2",
-      "ZenFone 4",
       "ZenFone 5",
-      "Fonepad 7",
       "MeMO Pad 7",
 
       // Huawei
@@ -69,8 +65,6 @@ public class Constants {
       "HTC One (E8)",
       "HTC One (M8)",
       "HTC One M9",
-      "Desire 828",
-      "Desire626",
       "HTC One A9",
 
       // LGE
