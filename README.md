@@ -1,15 +1,13 @@
-# AndroidDeviceNames
+# AndroidDeviceNames [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidDeviceNames-green.svg?style=flat)](https://android-arsenal.com/details/1/2663)
 A small Android library to get the market name of an Android device.
-___
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidDeviceNames-green.svg?style=flat)](https://android-arsenal.com/details/1/2663)
 
 Download
 --------
 
-Download [the latest AAR](https://repo1.maven.org/maven2/com/jaredrummler/android-device-names/1.0.1/android-device-names-1.0.1.aar) or grab via Gradle:
+Download [the latest AAR](https://repo1.maven.org/maven2/com/jaredrummler/android-device-names/1.0.2/android-device-names-1.0.2.aar) or grab via Gradle:
 
 ```groovy
-compile 'com.jaredrummler:android-device-names:1.0.1'
+compile 'com.jaredrummler:android-device-names:1.0.2'
 ```
 
 Or simply copy the [DeviceName](https://raw.githubusercontent.com/jaredrummler/AndroidDeviceNames/master/library/src/main/java/com/jaredrummler/android/device/DeviceName.java) class intro your project, update the package declaration, and you are good to go.
