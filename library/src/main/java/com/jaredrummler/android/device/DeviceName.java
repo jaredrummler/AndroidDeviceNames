@@ -935,63 +935,6 @@ public class DeviceName {
   }
 
   /**
-   * <p>Capitalizes getAllProcesses the whitespace separated words in a String. Only the first
-   * letter of each word is changed.</p>
-   *
-   * Whitespace is defined by {@link Character#isWhitespace(char)}.
-   *
-   * @param str
-   *     the String to capitalize
-   * @return capitalized The capitalized String
-   */
-  private static String capitalize(String str) {
-    if (TextUtils.isEmpty(str)) {
-      return str;
-    }
-    char[] arr = str.toCharArray();
-    boolean capitalizeNext = true;
-    String phrase = "";
-    for (char c : arr) {
-      if (capitalizeNext && Character.isLetter(c)) {
-        phrase += Character.toUpperCase(c);
-        capitalizeNext = false;
-        continue;
-      } else if (Character.isWhitespace(c)) {
-        capitalizeNext = true;
-      }
-      phrase += c;
-    }
-    return phrase;
-  }
-
-  /** Download URL to String */
-  private static String downloadJson(String myurl) throws IOException {
-    StringBuilder sb = new StringBuilder();
-    BufferedReader reader = null;
-    try {
-      URL url = new URL(myurl);
-      HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-      conn.setReadTimeout(10000);
-      conn.setConnectTimeout(15000);
-      conn.setRequestMethod("GET");
-      conn.setDoInput(true);
-      conn.connect();
-      if (conn.getResponseCode() == HttpURLConnection.HTTP_OK) {
-        reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
-        String line;
-        while ((line = reader.readLine()) != null) {
-          sb.append(line).append('\n');
-        }
-      }
-      return sb.toString();
-    } finally {
-      if (reader != null) {
-        reader.close();
-      }
-    }
-  }
-
-  /**
    * Get the {@link DeviceInfo} for the current device. Do not run on the UI thread, as this may
    * download JSON to retrieve the {@link DeviceInfo}. JSON is only downloaded once and then
    * stored to {@link SharedPreferences}.
@@ -1058,30 +1001,74 @@ public class DeviceName {
     }
 
     if (codename.equals(Build.DEVICE) && model.equals(Build.MODEL)) {
-      // current device
-      return new DeviceInfo(
-          Build.MANUFACTURER,
-          getDeviceName(),
-          codename,
-          model);
+      return new DeviceInfo(Build.MANUFACTURER, getDeviceName(), codename, model); // current device
     }
 
-    // unknown device
-    return new DeviceInfo(
-        null,
-        null,
-        codename,
-        model);
+    return new DeviceInfo(null, null, codename, model); // unknown device
+  }
+
+  /**
+   * <p>Capitalizes getAllProcesses the whitespace separated words in a String. Only the first
+   * letter of each word is changed.</p>
+   *
+   * Whitespace is defined by {@link Character#isWhitespace(char)}.
+   *
+   * @param str
+   *     the String to capitalize
+   * @return capitalized The capitalized String
+   */
+  private static String capitalize(String str) {
+    if (TextUtils.isEmpty(str)) {
+      return str;
+    }
+    char[] arr = str.toCharArray();
+    boolean capitalizeNext = true;
+    String phrase = "";
+    for (char c : arr) {
+      if (capitalizeNext && Character.isLetter(c)) {
+        phrase += Character.toUpperCase(c);
+        capitalizeNext = false;
+        continue;
+      } else if (Character.isWhitespace(c)) {
+        capitalizeNext = true;
+      }
+      phrase += c;
+    }
+    return phrase;
+  }
+
+  /** Download URL to String */
+  private static String downloadJson(String myurl) throws IOException {
+    StringBuilder sb = new StringBuilder();
+    BufferedReader reader = null;
+    try {
+      URL url = new URL(myurl);
+      HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+      conn.setReadTimeout(10000);
+      conn.setConnectTimeout(15000);
+      conn.setRequestMethod("GET");
+      conn.setDoInput(true);
+      conn.connect();
+      if (conn.getResponseCode() == HttpURLConnection.HTTP_OK) {
+        reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+        String line;
+        while ((line = reader.readLine()) != null) {
+          sb.append(line).append('\n');
+        }
+      }
+      return sb.toString();
+    } finally {
+      if (reader != null) {
+        reader.close();
+      }
+    }
   }
 
   public static final class Request {
 
     private final Context context;
-
     private final Handler handler;
-
     private String codename;
-
     private String model;
 
     private Request(Context ctx) {
@@ -1125,35 +1112,37 @@ public class DeviceName {
      *     the callback to retrieve the {@link DeviceName.DeviceInfo}
      */
     public void request(Callback callback) {
+      GetDeviceRunnable runnable = new GetDeviceRunnable(callback);
       if (Looper.myLooper() == Looper.getMainLooper()) {
-        new Thread(runnable(callback)).start();
+        new Thread(runnable).start();
       } else {
-        runnable(callback).run(); // already running in background thread.
+        runnable.run(); // already running in background thread.
       }
     }
 
-    private Runnable runnable(final Callback callback) {
-      return new Runnable() {
+    private final class GetDeviceRunnable implements Runnable {
 
-        DeviceInfo deviceInfo;
+      private final Callback callback;
+      private DeviceInfo deviceInfo;
+      private Exception error;
 
-        Exception error;
+      public GetDeviceRunnable(Callback callback) {
+        this.callback = callback;
+      }
 
-        @Override
-        public void run() {
-          try {
-            deviceInfo = getDeviceInfo(context, codename, model);
-          } catch (Exception e) {
-            error = e;
-          }
-          handler.post(new Runnable() {
-
-            @Override public void run() {
-              callback.onFinished(deviceInfo, error);
-            }
-          });
+      @Override public void run() {
+        try {
+          deviceInfo = getDeviceInfo(context, codename, model);
+        } catch (Exception e) {
+          error = e;
         }
-      };
+        handler.post(new Runnable() {
+
+          @Override public void run() {
+            callback.onFinished(deviceInfo, error);
+          }
+        });
+      }
     }
 
   }
