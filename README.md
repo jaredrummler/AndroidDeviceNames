@@ -1,5 +1,47 @@
 # Android Device Names [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names) [![License](http://img.shields.io/:license-apache-blue.svg)](LICENSE.txt)
+
 A small Android library to get the market name of an Android device.
+
+Unfortunately, on many popular devices, the market name of the device is not available. For example, on the Samsung Galaxy S6 the value of [`Build.MODEL`](http://developer.android.com/reference/android/os/Build.html#MODEL) could be `"SM-G920F"`, `"SM-G920I"`, or `"SM-G920W8"`.
+
+This small library gets the market (consumer friendly) name of a device.
+
+Usage
+-----
+
+**Get the name of the current device:**
+
+```java
+String deviceName = DeviceName.getDeviceName();
+```
+
+The above code will get the correct device name for the top 600 Android devices. If the device is unrecognized, then [`Build.MODEL`](http://developer.android.com/reference/android/os/Build.html#MODEL) is returned. This can be executed from the UI thread.
+
+**Get the name of a device using the device's codename:**
+
+```java
+// Retruns "Moto X Style"
+DeviceName.getDeviceName("clark", "Unknown device");
+```
+
+**Get information about the device:**
+
+```java
+DeviceName.with(this).request(new DeviceName.Callback() {
+
+  @Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
+    String manufacturer = info.manufacturer;  // "Samsung"
+    String name = info.marketName;            // "Galaxy S6 Edge"
+    String model = info.model;                // "SM-G925I"
+    String codename = info.codename;          // "zerolte"
+    String deviceName = info.getName();       // "Galaxy S6 Edge"
+  }
+});
+ ```
+
+The above code loads [JSON from a generated list](https://github.com/jaredrummler/AndroidDeviceNames/tree/master/json) of device names based on [Google's maintained list](https://support.google.com/googleplay/answer/1727131?hl=en). It will be up-to-date with Google's supported device list so that you will get the correct name for new or unknown devices. This supports *over 10,000* devices.
+
+This will only make a network call once. The value is saved to SharedPreferences for future calls.
 
 Download
 --------
@@ -11,42 +53,6 @@ compile 'com.jaredrummler:android-device-names:1.0.2'
 ```
 
 Or simply copy the [DeviceName](https://raw.githubusercontent.com/jaredrummler/AndroidDeviceNames/master/library/src/main/java/com/jaredrummler/android/device/DeviceName.java) class intro your project, update the package declaration, and you are good to go.
-
-Description
------------
-
-Unfortunately, on many popular devices, the market name of the device is not available. For example, on the Samsung Galaxy S6 the value of [Build.MODEL](http://developer.android.com/reference/android/os/Build.html#MODEL) could be "SM-G920F", "SM-G920I", or "SM-G920W8".
-
-This small library gets the market (consumer friendly) name of a device. You can use one (or both) of the following examples:
-
-Examples
---------
-
-<b>Example 1</b>
-
-```java
-String deviceName = DeviceName.getDeviceName();
-```
-
-`getDeviceName()` contains over 600 popular Android devices and can be run on the UI thread. If the current device is not in the list then [Build.MODEL](http://developer.android.com/reference/android/os/Build.html#MODEL) will be returned as a fallback.
-
-<b>Example 2</b>
-
-```java
-DeviceName.with(context).request(new DeviceName.Callback() {
-
-  @Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
-    String deviceName;
-    if (error != null) {
-      deviceName = info.getName();
-    } else {
-      deviceName = DeviceName.getDeviceName();
-    }
-  }
- });
- ```
- 
-The above code loads [JSON from a generated list](https://github.com/jaredrummler/AndroidDeviceNames/tree/master/json) of device names based on [Google's maintained list](https://support.google.com/googleplay/answer/1727131?hl=en). It will be up-to-date with Google's supported device list so that you will get the correct name for new or unknown devices.
 
 License
 --------
