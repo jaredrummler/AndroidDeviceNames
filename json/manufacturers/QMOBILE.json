@@ -1,0 +1,40 @@
+{
+  "manufacturer": "QMobile",
+  "devices": [
+    {
+      "market_name": "E8",
+      "codename": "GBL5805QM",
+      "model": "E8"
+    },
+    {
+      "market_name": "LT700",
+      "codename": "GBL7325QM",
+      "model": "LT700"
+    },
+    {
+      "market_name": "Qmobile L20",
+      "codename": "L20",
+      "model": "QMobile L20"
+    },
+    {
+      "market_name": "W80",
+      "codename": "WBW5615QM",
+      "model": "W80"
+    },
+    {
+      "market_name": "X75",
+      "codename": "WBW5613QM",
+      "model": "X75"
+    },
+    {
+      "market_name": "Z10",
+      "codename": "Z10",
+      "model": "QMobile Z10"
+    },
+    {
+      "market_name": "Z9 Plus",
+      "codename": "WBL7511QM",
+      "model": "Z9 Plus"
+    }
+  ]
+}

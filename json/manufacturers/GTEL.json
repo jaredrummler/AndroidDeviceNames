@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Gtel",
+  "devices": [
+    {
+      "market_name": "A7100 X3",
+      "codename": "A7100_X3",
+      "model": "A7100_X3"
+    },
+    {
+      "market_name": "A714 Vivo Play",
+      "codename": "A714_Vivo_Play",
+      "model": "A714_Vivo_Play"
+    },
+    {
+      "market_name": "A715_Inspire_One",
+      "codename": "A715_Inspire_One",
+      "model": "A715_Inspire_One"
+    },
+    {
+      "market_name": "A716 Inspire Life",
+      "codename": "A716_Inspire_Life",
+      "model": "A716_Inspire_Life"
+    },
+    {
+      "market_name": "A726 Infinity Lite",
+      "codename": "A726_Infinity_Lite",
+      "model": "A726_Infinity_Lite"
+    },
+    {
+      "market_name": "A727_Infinity_Pro",
+      "codename": "A727_Infinity_Pro",
+      "model": "A727_Infinity_Pro"
+    }
+  ]
+}

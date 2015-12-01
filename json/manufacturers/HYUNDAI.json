@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Hyundai",
+  "devices": [
+    {
+      "market_name": "CAR AVN SYSTEM",
+      "codename": "koecn",
+      "model": "TCC893X_EVM"
+    },
+    {
+      "market_name": "L575",
+      "codename": "L575",
+      "model": "L575"
+    },
+    {
+      "market_name": "Ultra Energy Plus",
+      "codename": "Ultra_Energy_Plus",
+      "model": "Ultra Energy Plus"
+    },
+    {
+      "market_name": "Ultra Latitude",
+      "codename": "Ultra_Latitude",
+      "model": "Ultra Latitude"
+    },
+    {
+      "market_name": "Ultra Style",
+      "codename": "Ultra_Style",
+      "model": "Ultra Style"
+    }
+  ]
+}

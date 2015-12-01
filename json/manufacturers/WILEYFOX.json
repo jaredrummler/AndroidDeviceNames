@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Wileyfox",
+  "devices": [
+    {
+      "market_name": "Storm",
+      "codename": "kipper",
+      "model": "Wileyfox Storm"
+    },
+    {
+      "market_name": "Wileyfox Swift",
+      "codename": "crackling",
+      "model": "Wileyfox Swift"
+    }
+  ]
+}

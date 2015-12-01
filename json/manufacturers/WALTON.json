@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Walton",
+  "devices": [
+    {
+      "market_name": "Primo NX3",
+      "codename": "Primo_NX3",
+      "model": "Primo_NX3"
+    },
+    {
+      "market_name": "Primo R4",
+      "codename": "Primo_R4",
+      "model": "Primo R4"
+    },
+    {
+      "market_name": "Primo ZX2",
+      "codename": "GBL5805WA",
+      "model": "Primo_ZX2"
+    }
+  ]
+}

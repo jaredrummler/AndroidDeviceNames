@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Vonino",
+  "devices": [
+    {
+      "market_name": "Druid_L10",
+      "codename": "Druid_L10",
+      "model": "Druid_L10"
+    },
+    {
+      "market_name": "Xavy_T7",
+      "codename": "Xavy_T7",
+      "model": "Xavy_T7"
+    },
+    {
+      "market_name": "ZUN XO",
+      "codename": "ZUN_XO",
+      "model": "ZUN XO"
+    }
+  ]
+}
