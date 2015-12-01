@@ -1042,7 +1042,13 @@ public class DeviceName {
           DeviceInfo info = new DeviceInfo(json);
           if (codename.equals(info.codename) && model.equals(info.model)) {
             // Save to SharedPreferences so we don't need to make another request.
-            prefs.edit().putString(key, json.toString()).commit();
+            SharedPreferences.Editor editor = prefs.edit();
+            editor.putString(key, json.toString());
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.GINGERBREAD) {
+              editor.apply();
+            } else {
+              editor.commit();
+            }
             return info;
           }
         }
