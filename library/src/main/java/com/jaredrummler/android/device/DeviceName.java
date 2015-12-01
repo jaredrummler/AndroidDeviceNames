@@ -49,13 +49,11 @@ import java.net.URL;
  *
  * <p><b>Get the name of the current device:</b></p>
  *
- * <p>
- * <blockquote>
  * <pre>
+ * <code>
  * String deviceName = DeviceName.getDeviceName();
+ * </code>
  * </pre>
- * </blockquote>
- * </p>
  *
  * <p>The above code will get the correct device name for the top 600 Android devices. If the
  * device is unrecognized, then Build.MODEL is returned. This can be executed from the UI
@@ -63,20 +61,17 @@ import java.net.URL;
  *
  * <p><b>Get the name of a device using the device's codename:</b></p>
  *
- * <p>
- * <blockquote>
  * <pre>
+ * <code>
  * // Retruns "Moto X Style"
  * DeviceName.getDeviceName("clark", "Unknown device");
+ * </code>
  * </pre>
- * </blockquote>
- * </p>
  *
  * <p><b>Get information about the device:</b></p>
  *
- * <p>
- * <blockquote>
  * <pre>
+ * <code>
  * DeviceName.with(this).request(new DeviceName.Callback() {
  *
  *   {@literal @}Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
@@ -87,9 +82,8 @@ import java.net.URL;
  *     String deviceName = info.getName();       // "Galaxy S6 Edge"
  *   }
  * });
+ * </code>
  * </pre>
- * </blockquote>
- * </p>
  *
  * <p>The above code loads JSON from a generated list of device names based on Google's maintained
  * list. It will be up-to-date with Google's supported device list so that you will get the correct
