@@ -117,7 +117,23 @@ public class DeviceName {
     } else {
       fallback = capitalize(manufacturer) + " " + model;
     }
-    return getDeviceName(Build.DEVICE, fallback);
+    return getDeviceName(Build.DEVICE, model, fallback);
+  }
+
+  /**
+   * Get the consumer friendly name of a device.
+   *
+   * @param codename
+   *     the value of the system property "ro.product.device" ({@link Build#DEVICE})
+   *     <i>or</i>
+   *     the value of the system property "ro.product.model" ({@link Build#MODEL})
+   * @param fallback
+   *     the fallback name if the device is unknown. Usually the value of the system property
+   *     "ro.product.model" ({@link Build#MODEL})
+   * @return the market name of a device or {@code fallback} if the device is unknown.
+   */
+  public static String getDeviceName(String codename, String fallback) {
+    return getDeviceName(codename, codename, fallback);
   }
 
   /**
@@ -125,813 +141,1846 @@ public class DeviceName {
    *
    * @param codename
    *     the value of the system property "ro.product.device" ({@link Build#DEVICE}).
+   * @param model
+   *     the value of the system property "ro.product.model" ({@link Build#MODEL}).
    * @param fallback
    *     the fallback name if the device is unknown. Usually the value of the system property
    *     "ro.product.model" ({@link Build#MODEL})
    * @return the market name of a device or {@code fallback} if the device is unknown.
    */
-  public static String getDeviceName(String codename, String fallback) {
-    switch (codename) {
-      case "quark":
-        return "DROID Turbo";
-      case "a3ltedd":
-      case "a3ulte":
-      case "a3ltezh":
-      case "a3ltechn":
-      case "a3lte":
-      case "a33g":
-      case "a3ltectc":
-      case "a3lteslk":
-      case "a3ltezt":
-        return "Galaxy A3";
-      case "a5ltectc":
-      case "a5ltezh":
-      case "a5ulteskt":
-      case "a53g":
-      case "a5ltezt":
-      case "a5lte":
-      case "a5ltechn":
-      case "a5ulte":
-      case "a5ultektt":
-      case "a5ultebmc":
-      case "a5ultelgt":
-        return "Galaxy A5";
-      case "a8elte":
-      case "a8hplte":
-      case "a8elteskt":
-      case "a8ltechn":
-        return "Galaxy A8";
-      case "vivaltods5m":
-        return "Galaxy Ace 4";
-      case "GT-S6802B":
-      case "GT-S6802":
-      case "SCH-i589":
-      case "SCH-i579":
-      case "GT-S6352":
-      case "SCH-I589":
-      case "SCH-I579":
-        return "Galaxy Ace Duos";
-      case "GT-S7500L":
-      case "GT-S7500":
-      case "GT-S7500T":
-      case "GT-S7508":
-      case "GT-S7500W":
-        return "Galaxy Ace Plus";
-      case "heatqlte":
-      case "heat3gtfnvzw":
-      case "heatnfc3g":
-        return "Galaxy Ace Style";
-      case "vivaltolte":
-      case "vivalto5mve3g":
-      case "vivaltonfc3g":
-      case "vivalto3g":
-      case "vivalto3mve3g":
-        return "Galaxy Ace4";
-      case "sltechn":
-      case "sltelgt":
-      case "slteskt":
-      case "sltektt":
-      case "sltecan":
-      case "slteatt":
-      case "slte":
-        return "Galaxy Alpha";
-      case "rossalte":
-      case "coreprimeltespr":
-      case "rossaltexsa":
-      case "coreprimeltelra":
-      case "coreprimelte":
-      case "coreprimeltevzw":
-      case "coreprimeve3g":
-      case "core33g":
-      case "cprimeltetmo":
-      case "coreprimelteaio":
-      case "cprimeltemtr":
-      case "rossaltectc":
-      case "coreprimeltetfnvzw":
-      case "coreprimevelte":
-        return "Galaxy Core Prime";
-      case "kanas3g":
-      case "kanas3gnfc":
-      case "kanas3gcmcc":
-      case "kanas":
-      case "kanas3gctc":
-        return "Galaxy Core2";
-      case "e5lte":
-      case "e53g":
-      case "e5ltetfnvzw":
-      case "e5ltetw":
-        return "Galaxy E5";
-      case "e7lte":
-      case "e7ltehktw":
-      case "e7ltechn":
-      case "e73g":
-      case "e7ltectc":
-        return "Galaxy E7";
-      case "nevis":
-      case "SCH-I629":
-      case "nevis3gcmcc":
-      case "nevisw":
-      case "nevis3g":
-      case "nevisp":
-      case "nevisnvess":
-      case "nevisvess":
-      case "nevisds":
-        return "Galaxy Fame";
-      case "grandprimelteatt":
-        return "Galaxy Go Prime";
-      case "baffinq3g":
-      case "baffinlitedtv":
-      case "baffinlite":
-        return "Galaxy Grand Neo";
-      case "gprimelteacg":
-      case "gprimelteusc":
-      case "grandprimeveltezt":
-      case "grandprimelte":
-      case "fortunaltezh":
-      case "gprimeltetfnvzw":
-      case "gprimeltemtr":
-      case "fortunalte":
-      case "gprimeltecan":
-      case "fortunaltectc":
-      case "grandprimevelteltn":
-      case "gprimeltespr":
-      case "fortuna3gdtv":
-      case "gprimeltetmo":
-      case "fortuna3g":
-      case "grandprimeve3g":
-      case "fortunaltezt":
-      case "grandprimelteaio":
-      case "grandprimevelte":
-      case "grandprimeve3gdtv":
-        return "Galaxy Grand Prime";
-      case "ms013g":
-      case "ms01lte":
-      case "ms013gdtv":
-      case "ms01ltelgt":
-      case "ms013gss":
-      case "ms01lteskt":
-      case "ms01ltektt":
-        return "Galaxy Grand2";
-      case "j75ltektt":
-      case "j7ltechn":
-      case "j7e3g":
-      case "j7elte":
-        return "Galaxy J7";
-      case "toroplus":
-      case "maguro":
-      case "toro":
-        return "Galaxy Nexus";
-      case "p4noterf":
-      case "p4noteltektt":
-      case "p4notewifiww":
-      case "p4noterfktt":
-      case "lt03ltektt":
-      case "p4notewifi43241any":
-      case "p4noteltespr":
-      case "p4noteltevzw":
-      case "p4notelte":
-      case "p4noteltelgt":
-      case "lt03ltelgt":
-      case "p4notelteskt":
-      case "lt033g":
-      case "lt03lteskt":
-      case "p4notelteusc":
-      case "p4notewifi":
-      case "p4notewifiany":
-      case "p4notewifiktt":
-        return "Galaxy Note 10.1";
-      case "tbltechn":
-      case "tbltecan":
-      case "tblteatt":
-      case "tbeltelgt":
-      case "tbltevzw":
-      case "tbeltektt":
-      case "tbelteskt":
-      case "tbltespr":
-      case "tblteusc":
-      case "SCL24":
-      case "tblte":
-      case "tbltetmo":
-        return "Galaxy Note Edge";
-      case "v1awifi":
-      case "v1awifikx":
-      case "viennalte":
-      case "viennaltevzw":
-      case "v1a3g":
-      case "viennaltekx":
-      case "viennalteatt":
-        return "Galaxy Note Pro 12.2";
-      case "t0ltecmcc":
-      case "SC-02E":
-      case "t03gchn":
-      case "t0ltevzw":
-      case "t0ltetmo":
-      case "t03g":
-      case "t0ltespr":
-      case "t0ltelgt":
-      case "t0lteskt":
-      case "t03gcmcc":
-      case "t0lteatt":
-      case "t03gchnduos":
-      case "t0lteusc":
-      case "t03gctc":
-      case "t0lte":
-      case "t0ltektt":
-      case "t0ltedcm":
-      case "t03gcuduos":
-      case "t0ltecan":
-        return "Galaxy Note2";
-      case "SC-02F":
-      case "hltelgt":
-      case "hlteskt":
-      case "hltetmo":
-      case "hlte":
-      case "hltespr":
-      case "hlteatt":
-      case "htdlte":
-      case "SCL22":
-      case "hltektt":
-      case "hlteusc":
-      case "hltevzw":
-      case "ha3g":
-      case "hltecan":
-        return "Galaxy Note3";
-      case "hl3gds":
-      case "hllte":
-      case "frescoltektt":
-      case "hl3g":
-      case "frescolteskt":
-      case "frescoltelgt":
-        return "Galaxy Note3 Neo";
-      case "tre3caltelgt":
-      case "trltechn":
-      case "trlte":
-      case "tre3calteskt":
-      case "trlteusc":
-      case "tre3g":
-      case "treltektt":
-      case "trlteatt":
-      case "trltechnzh":
-      case "tre3caltektt":
-      case "treltelgt":
-      case "trltevzw":
-      case "trltespr":
-      case "trltetmo":
-      case "trelteskt":
-      case "trltecan":
-      case "trelte":
-      case "trhplte":
-        return "Galaxy Note4";
-      case "noblelteacg":
-      case "noblelteusc":
-      case "nobleltechn":
-      case "nobleltektt":
-      case "nobleltecmcc":
-      case "nobleltevzw":
-      case "noblelte":
-      case "nobleltetmo":
-      case "nobleltespr":
-      case "nobleltebmc":
-      case "nobleltehk":
-      case "nobleltelgt":
-      case "noblelteskt":
-      case "nobleltelra":
-      case "noblelteatt":
-        return "Galaxy Note5";
-      case "o5lte":
-      case "o5ltechn":
-        return "Galaxy On5";
-      case "o7ltechn":
-      case "o7lte":
-        return "Galaxy On7";
-      case "kyletdcmcc":
-      case "kylechn":
-      case "kyleichn":
-      case "kyleopen":
-        return "Galaxy S Duos";
-      case "kyleprods":
-        return "Galaxy S Duos2";
-      case "vivalto3gvn":
-        return "Galaxy S Duos3";
-      case "SHW-M250L":
-      case "GT-I9108":
-      case "SHW-M250K":
-      case "SCH-R760X":
-      case "SC-02C":
-      case "SGH-T989":
-      case "GT-I9100":
-      case "SHW-M250S":
-      case "GT-I9103":
-      case "GT-I9100M":
-      case "GT-I9100P":
-      case "GT-I9210T":
-      case "GT-I9100T":
-      case "SGH-I777":
-      case "t1cmcc":
-      case "SHV-E110S":
-      case "SGH-S959G":
-        return "Galaxy S2";
-      case "SC-03E":
-      case "d2xar":
-      case "d2mtr":
-      case "d2spi":
-      case "d2vmu":
-      case "d2att":
-      case "m0skt":
-      case "d2lterefreshspr":
-      case "d2tmo":
-      case "d2cri":
-      case "m0ctc":
-      case "d2dcm":
-      case "d2can":
-      case "c1lgt":
-      case "m0":
-      case "c1skt":
-      case "m3":
-      case "d2lteMetroPCS":
-      case "d2ltetmo":
-      case "d2usc":
-      case "m3dcm":
-      case "m0chn":
-      case "d2tfnvzw":
-      case "m0apt":
-      case "c1ktt":
-      case "d2tfnspr":
-      case "c1att":
-      case "d2vzw":
-      case "m0ctcduos":
-      case "d2spr":
-      case "m0cmcc":
-        return "Galaxy S3";
-      case "goldenltevzw":
-      case "goldenlteatt":
-      case "golden":
-      case "goldenve3g":
-      case "goldenltebmc":
-        return "Galaxy S3 Mini";
-      case "s3ve3g":
-      case "s3ve3gdsdd":
-      case "s3ve3gds":
-      case "s3ve3gdd":
-        return "Galaxy S3 Neo";
-      case "jalteskt":
-      case "jfltetmo":
-      case "ks01ltektt":
-      case "jfvelte":
-      case "jaltelgt":
-      case "jfltecri":
-      case "jfltelra":
-      case "jfltetfntmo":
-      case "jflterefreshspr":
-      case "jflteusc":
-      case "ks01ltelgt":
-      case "jflteaio":
-      case "jfltecan":
-      case "ks01lte":
-      case "jfltespr":
-      case "jfltevzwpp":
-      case "SC-04E":
-      case "jflte":
-      case "jfltevzw":
-      case "jfwifi":
-      case "jfltecsp":
-      case "jfltetfnatt":
-      case "jaltektt":
-      case "jflteatt":
-      case "jsglte":
-      case "ja3g":
-      case "ja3gduosctc":
-      case "jftdd":
-        return "Galaxy S4";
-      case "serranoltektt":
-      case "serranolteusc":
-      case "serrano3g":
-      case "serranove3g":
-      case "serranovolteatt":
-      case "serranoltelra":
-      case "serranods":
-      case "serranovelte":
-      case "serranoltebmc":
-      case "serranoltespr":
-      case "serranoltevzw":
-      case "serranoltekx":
-      case "serranolte":
-        return "Galaxy S4 Mini";
-      case "klte":
-      case "kltektt":
-      case "klteduoszn":
-      case "kltecan":
-      case "klteMetroPCS":
-      case "lentisltelgt":
-      case "lentislteskt":
-      case "klteacg":
-      case "klteusc":
-      case "SCL23":
-      case "klteaio":
-      case "kltelra":
-      case "klteskt":
-      case "lentisltektt":
-      case "klteatt":
-      case "kltevzw":
-      case "kltespr":
-      case "kwifi":
-      case "kltetmo":
-      case "k3g":
-      case "kltelgt":
-        return "Galaxy S5";
-      case "s5neoltecan":
-      case "s5neolte":
-        return "Galaxy S5 Neo";
-      case "zerofltechn":
-      case "zeroflteaio":
-      case "zeroflte":
-      case "zerofltektt":
-      case "zerofltemtr":
-      case "zeroflteatt":
-      case "zeroflteusc":
-      case "zeroflteacg":
-      case "zerofltelgt":
-      case "zeroflteskt":
-      case "zerofltebmc":
-      case "zerofltelra":
-      case "zerofltectc":
-      case "zerofltevzw":
-      case "zerofltespr":
-      case "zerofltetmo":
-      case "zerofltetfnvzw":
-        return "Galaxy S6";
-      case "zeroltektt":
-      case "zeroltechn":
-      case "zerolteacg":
-      case "zerolteusc":
-      case "zeroltevzw":
-      case "zeroltelra":
-      case "zerolteskt":
-      case "zeroltelgt":
-      case "SCV31":
-      case "zeroltebmc":
-      case "zeroltetmo":
-      case "zeroltespr":
-      case "zerolte":
-      case "zerolteatt":
-      case "404SC":
-        return "Galaxy S6 Edge";
-      case "zenltebmc":
-      case "zenltechn":
-      case "zenltelgt":
-      case "zenltetmo":
-      case "zenltekx":
-      case "zenltespr":
-      case "zenltevzw":
-      case "zenlte":
-      case "zenlteatt":
-      case "zenlteskt":
-      case "zenltektt":
-        return "Galaxy S6 Edge+";
-      case "SC-01D":
-      case "SHW-M380K":
-      case "GT-P7500":
-      case "SCH-I905":
-      case "GT-P7510":
-      case "SHW-M300W":
-      case "GT-P7503":
-      case "SGH-T859":
-      case "SHW-M380S":
-      case "GT-P7500D":
-      case "SHW-M380W":
-        return "Galaxy Tab 10.1";
-      case "GT-P6210":
-      case "SC-02D":
-      case "GT-P6201":
-      case "GT-P6200":
-      case "GT-P6211":
-      case "GT-P6200L":
-      case "SGH-T869":
-      case "SHW-M430W":
-        return "Galaxy Tab 7.0 Plus";
-      case "gtesqltespr":
-      case "gtesqlteusc":
-        return "Galaxy Tab E 8.0";
-      case "gtelwifi":
-      case "gtelwifiue":
-      case "gtelwifichn":
-      case "gtel3g":
-      case "gtelltevzw":
-        return "Galaxy Tab E 9.6";
-      case "degaswifiue":
-      case "403SC":
-      case "degasltespr":
-      case "degasveltechn":
-      case "degaswifiopenbnn":
-      case "degasvelte":
-      case "degaswifibmwzc":
-      case "degaswifidtv":
-      case "degasltevzw":
-      case "degaswifi":
-      case "degas3g":
-      case "degaslte":
-        return "Galaxy Tab4 7.0";
-      case "gvltexsp":
-      case "gvwifiue":
-      case "gvlteatt":
-      case "gvlte":
-        return "Galaxy View";
-      case "GT-S5368":
-      case "SCH-i509":
-      case "GT-S5360T":
-      case "SCH-I509":
-      case "GT-S5369":
-      case "GT-S5360":
-      case "GT-S5360L":
-      case "GT-S5360B":
-      case "GT-S5363":
-        return "Galaxy Y";
-      case "m7cdug":
-      case "m7cdtu":
-      case "m7":
-      case "m7wlv":
-      case "m7cdwg":
-      case "m7wls":
-        return "HTC One";
-      case "htc_mecul":
-      case "htc_mectl":
-      case "htc_mecwhl":
-      case "htc_mecdwg":
-        return "HTC One (E8)";
-      case "htc_m8wl":
-      case "htc_m8dwg":
-      case "htc_m8dug":
-      case "htc_m8":
-      case "htc_m8whl":
-        return "HTC One (M8)";
-      case "htc_hiaeuhl":
-      case "htc_hiaeul":
-      case "htc_hiaetuhl":
-      case "htc_hiaewhl":
-        return "HTC One A9";
-      case "htc_himauhl":
-      case "htc_himawhl":
-      case "htc_himaulatt":
-      case "htc_himaul":
-      case "htc_himawl":
-        return "HTC One M9";
-      case "villec2":
-      case "ville":
-        return "HTC One S";
-      case "hwH30-T10":
-      case "hwH30-U10":
-      case "hwhn3-u00":
-      case "hwhn3-u01":
-        return "Honor3";
-      case "acer_harleyfhd":
-      case "acer_harley":
-        return "Iconia Tab 10";
-      case "acer_apriliahd":
-      case "acer_aprilia":
-        return "Iconia Tab 7";
-      case "ducati2fhd":
-      case "ducati2hd":
-      case "ducati2hd3g":
-        return "Iconia Tab 8";
-      case "zee":
-        return "LG G Flex";
-      case "z2":
-        return "LG G Flex2";
-      case "g2":
-        return "LG G2";
-      case "g3":
-        return "LG G3";
-      case "p1":
-        return "LG G4";
-      case "c50ds":
-      case "c50n":
-      case "c50":
-        return "LG Leon 4G LTE";
-      case "cosmopolitan":
-        return "LG Optimus 3D";
-      case "geehdc":
-      case "geehrc":
-      case "geehrc4g":
-      case "geeb":
-        return "LG Optimus G";
-      case "geefhd4g":
-      case "geefhd":
-        return "LG Optimus G Pro";
-      case "u2":
-        return "LG Optimus L9";
-      case "A7-30GC":
-        return "Lenovo A7-30GC";
-      case "a1":
-        return "Liquid";
-      case "acer_e3n":
-      case "acer_e3":
-        return "Liquid E3";
-      case "acer_S55":
-        return "Liquid Jade";
-      case "acer_S56":
-        return "Liquid Jade S";
-      case "s3":
-        return "Liquid S3";
-      case "acer_ZXL":
-        return "Liquid Z5";
-      case "surnia_uds":
-      case "condor_cdma":
-      case "condor_umts":
-      case "condor_umtsds":
-      case "condor_udstv":
-      case "otus":
-      case "otus_ds":
-      case "surnia_cdma":
-      case "surnia_umts":
-      case "surnia_udstv":
-        return "MOTO E";
-      case "osprey_udstv":
-      case "osprey_umts":
-      case "thea_umtsds":
-      case "falcon_umts":
-      case "thea":
-      case "titan_umtsds":
-      case "peregrine":
-      case "osprey_cdma":
-      case "titan_udstv":
-      case "titan_umts":
-      case "osprey_uds":
-      case "osprey_ud2":
-      case "falcon_umtsds":
-      case "thea_ds":
-      case "falcon_cdma":
-      case "osprey_u2":
-        return "MOTO G";
-      case "ghost":
-      case "victara":
-        return "MOTO X";
-      case "HWCRR":
-        return "Mate S";
-      case "K013C":
-        return "MeMO Pad 7";
-      case "clark":
-        return "Moto X Style";
-      case "manta":
-        return "Nexus 10";
-      case "mako":
-        return "Nexus 4";
-      case "hammerhead":
-        return "Nexus 5";
-      case "bullhead":
-        return "Nexus 5X";
-      case "shamu":
-        return "Nexus 6";
-      case "angler":
-        return "Nexus 6P";
-      case "grouper":
-      case "tilapia":
-        return "Nexus 7 (2012)";
-      case "deb":
-      case "flo":
-        return "Nexus 7 (2013)";
-      case "flounder":
-        return "Nexus 9";
-      case "OnePlus":
-        return "OnePlus";
-      case "A0001":
-        return "OnePlus One";
-      case "OnePlus2":
-        return "OnePlus2";
-      case "p990":
-      case "p990_CIS-xxx":
-      case "star":
-      case "star_450-05":
-      case "su660":
-      case "p990_EUR-xx":
-      case "p990hN":
-      case "p999":
-      case "p990_262-xx":
-        return "Optimus 2X";
-      case "cosmo_450-05":
-      case "p920":
-      case "cosmo_EUR-XXX":
-      case "su760":
-      case "cosmo_MEA-XXX":
-        return "Optimus 3D";
-      case "cx2":
-        return "Optimus 3D MAX";
-      case "bproj_214-03":
-      case "bproj_EUR-XXX":
-      case "bproj_ARE-XXX":
-      case "black":
-      case "LGL85C":
-      case "bproj_302-220":
-      case "ku5900":
-      case "bproj_262-XXX":
-      case "blackg":
-      case "bproj_sea-xxx":
-      case "bproj_724-xxx":
-      case "lgp970":
-      case "bproj_334-020":
-        return "Optimus Black";
-      case "m4":
-        return "Optimus L5";
-      case "i_skt":
-      case "iproj":
-      case "lgp930":
-      case "i_dcm":
-      case "lgp935":
-      case "i_u":
-        return "Optimus LTE";
-      case "su370":
-      case "ku3700":
-      case "thunder_kor-05":
-      case "lu3700":
-      case "thunderc":
-      case "thunder_kor-08":
-        return "Optimus One";
-      case "l06c":
-      case "v901ar":
-      case "v905r":
-      case "v900":
-      case "v900asia":
-      case "v901tr":
-      case "v909mkt":
-      case "v909":
-      case "v901kr":
-        return "Optimus Pad";
-      case "thunderbird":
-      case "LW":
-      case "Venue7":
-        return "Venue 7";
-      case "BB":
-      case "yellowtail":
-      case "Venue8":
-        return "Venue 8";
-      case "wifi_hubble":
-      case "umts_hubble":
-      case "umts_everest":
-      case "stingray":
-      case "wingray":
-        return "XOOM";
-      case "D2104":
-      case "D2105":
-        return "Xperia E1 dual";
-      case "D2203":
-      case "D2202":
-      case "D2243":
-      case "D2206":
-        return "Xperia E3";
-      case "E5653":
-      case "E5606":
-      case "E5603":
-        return "Xperia M5";
-      case "E5643":
-      case "E5633":
-      case "E5663":
-        return "Xperia M5 Dual";
-      case "SO-02D":
-      case "LT26i":
-        return "Xperia S";
-      case "D5316":
-      case "D5303":
-      case "D5322":
-      case "D5316N":
-      case "D5306":
-        return "Xperia T2 Ultra";
-      case "txs03":
-        return "Xperia Tablet S";
-      case "SO-03E":
-      case "SGP312":
-      case "SGP311":
-      case "SGP321":
-      case "SGP341":
-      case "SGP351":
-        return "Xperia Tablet Z";
-      case "D6503":
-      case "D6502":
-      case "SO-03F":
-      case "D6543":
-        return "Xperia Z2";
-      case "D6603":
-      case "D6646":
-      case "401SO":
-      case "SOL26":
-      case "D6643":
-      case "D6653":
-      case "SO-01G":
-      case "leo":
-      case "D6616":
-        return "Xperia Z3";
-      case "402SO":
-      case "SO-03G":
-      case "SOV31":
-        return "Xperia Z4";
-      case "SO-02H":
-      case "E5823":
-      case "E5803":
-        return "Xperia Z5 Compact";
-      case "ASUS_T00J":
-      case "ASUS_T00F":
-        return "ZenFone 5";
-      default:
-        return fallback;
+  public static String getDeviceName(String codename, String model, String fallback) {
+    // ----------------------------------------------------------------------------
+    // Acer
+    if ((codename != null && (codename.equals("acer_harley")
+        || codename.equals("acer_harleyfhd")))
+        || (model != null && (model.equals("A3-A20")
+        || model.equals("A3-A20FHD")))) {
+      return "Iconia Tab 10";
     }
+    if ((codename != null && (codename.equals("acer_aprilia")
+        || codename.equals("acer_apriliahd")))
+        || (model != null && (model.equals("A1-713")
+        || model.equals("A1-713HD")))) {
+      return "Iconia Tab 7";
+    }
+    if ((codename != null && (codename.equals("ducati2fhd")
+        || codename.equals("ducati2hd")
+        || codename.equals("ducati2hd3g")))
+        || (model != null && (model.equals("A1-840")
+        || model.equals("A1-840FHD")
+        || model.equals("A1-841")))) {
+      return "Iconia Tab 8";
+    }
+    if ((codename != null && (codename.equals("a1")))
+        || (model != null && (model.equals("Acer Liquid")
+        || model.equals("Acer S100")))) {
+      return "Liquid";
+    }
+    if ((codename != null && (codename.equals("acer_e3")
+        || codename.equals("acer_e3n")))
+        || (model != null && (model.equals("E380")))) {
+      return "Liquid E3";
+    }
+    if ((codename != null && codename.equals("acer_S55"))
+        || (model != null && model.equals("S55"))) {
+      return "Liquid Jade";
+    }
+    if ((codename != null && codename.equals("acer_S56"))
+        || (model != null && model.equals("S56"))) {
+      return "Liquid Jade S";
+    }
+    if ((codename != null && codename.equals("s3"))
+        || (model != null && model.equals("S53"))) {
+      return "Liquid S3";
+    }
+    if ((codename != null && codename.equals("acer_ZXL"))
+        || (model != null && model.equals("Z150"))) {
+      return "Liquid Z5";
+    }
+    // ----------------------------------------------------------------------------
+    // Asus
+    if ((codename != null && codename.equals("K013C"))
+        || (model != null && model.equals("K013C"))) {
+      return "MeMO Pad 7";
+    }
+    if ((codename != null && (codename.equals("grouper")
+        || codename.equals("tilapia")))
+        || (model != null && (model.equals("Nexus 7")))) {
+      return "Nexus 7 (2012)";
+    }
+    if ((codename != null && (codename.equals("deb")
+        || codename.equals("flo")))
+        || (model != null && (model.equals("Nexus 7")))) {
+      return "Nexus 7 (2013)";
+    }
+    if ((codename != null && (codename.equals("ASUS_T00F")
+        || codename.equals("ASUS_T00J")))
+        || (model != null && (model.equals("ASUS_T00F")
+        || model.equals("ASUS_T00J")))) {
+      return "ZenFone 5";
+    }
+    // ----------------------------------------------------------------------------
+    // Dell
+    if ((codename != null && (codename.equals("LW")
+        || codename.equals("Venue7")
+        || codename.equals("thunderbird")))
+        || (model != null && (model.equals("Venue 7 3730")
+        || model.equals("Venue 7 3740")
+        || model.equals("Venue 7 3741")
+        || model.equals("Venue 7 HSPA+")
+        || model.equals("Venue7 3740")
+        || model.equals("Venue7 3740 LTE")))) {
+      return "Venue 7";
+    }
+    if ((codename != null && (codename.equals("BB")
+        || codename.equals("Venue8")
+        || codename.equals("yellowtail")))
+        || (model != null && (model.equals("Venue 8 3830")
+        || model.equals("Venue 8 3840")
+        || model.equals("Venue 8 7840")
+        || model.equals("Venue 8 7840 LTE")
+        || model.equals("Venue 8 HSPA+")
+        || model.equals("Venue8 3840")
+        || model.equals("Venue8 3840 LTE")))) {
+      return "Venue 8";
+    }
+    // ----------------------------------------------------------------------------
+    // HTC
+    if ((codename != null && (codename.equals("m7")
+        || codename.equals("m7cdtu")
+        || codename.equals("m7cdug")
+        || codename.equals("m7cdwg")
+        || codename.equals("m7wls")
+        || codename.equals("m7wlv")))
+        || (model != null && (model.equals("HTC 801e")
+        || model.equals("HTC 802d")
+        || model.equals("HTC 802t")
+        || model.equals("HTC 802t 16GB")
+        || model.equals("HTC 802w")
+        || model.equals("HTC One 801e")
+        || model.equals("HTC One dual 802d")
+        || model.equals("HTC One dual sim")
+        || model.equals("HTCONE")
+        || model.equals("HTC_PN071")))) {
+      return "HTC One";
+    }
+    if ((codename != null && (codename.equals("htc_mecdwg")
+        || codename.equals("htc_mectl")
+        || codename.equals("htc_mecul")
+        || codename.equals("htc_mecwhl")))
+        || (model != null && (model.equals("0PAJ5")
+        || model.equals("HTC M8Sd")
+        || model.equals("HTC M8St")
+        || model.equals("HTC One_E8")
+        || model.equals("HTC_M8Sx")))) {
+      return "HTC One (E8)";
+    }
+    if ((codename != null && (codename.equals("htc_m8")
+        || codename.equals("htc_m8dug")
+        || codename.equals("htc_m8dwg")
+        || codename.equals("htc_m8whl")
+        || codename.equals("htc_m8wl")))
+        || (model != null && (model.equals("831C")
+        || model.equals("HTC M8d")
+        || model.equals("HTC M8w")
+        || model.equals("HTC One_M8")
+        || model.equals("HTC One_M8 dual sim")
+        || model.equals("HTC6525LVW")
+        || model.equals("HTC_0P6B")
+        || model.equals("HTC_0P6B6")
+        || model.equals("HTC_M8x")))) {
+      return "HTC One (M8)";
+    }
+    if ((codename != null && (codename.equals("htc_hiaetuhl")
+        || codename.equals("htc_hiaeuhl")
+        || codename.equals("htc_hiaeul")
+        || codename.equals("htc_hiaewhl")))
+        || (model != null && (model.equals("2PQ93")
+        || model.equals("HTC A9w")
+        || model.equals("HTC_A9u")))) {
+      return "HTC One A9";
+    }
+    if ((codename != null && (codename.equals("htc_himauhl")
+        || codename.equals("htc_himaul")
+        || codename.equals("htc_himaulatt")
+        || codename.equals("htc_himawhl")
+        || codename.equals("htc_himawl")))
+        || (model != null && (model.equals("0PJA10")
+        || model.equals("HTC 0PJA10")
+        || model.equals("HTC6535LRA")
+        || model.equals("HTC6535LVW")
+        || model.equals("HTC_0PJA10")
+        || model.equals("HTC_M9u")))) {
+      return "HTC One M9";
+    }
+    if ((codename != null && (codename.equals("ville")
+        || codename.equals("villec2")))
+        || (model != null && (model.equals("HTC VLE_U")
+        || model.equals("HTC Z560e")))) {
+      return "HTC One S";
+    }
+    if ((codename != null && codename.equals("flounder"))) {
+      return "Nexus 9";
+    }
+    // ----------------------------------------------------------------------------
+    // Huawei
+    if ((codename != null && (codename.equals("hwH30-T10")
+        || codename.equals("hwH30-U10")
+        || codename.equals("hwhn3-u00")
+        || codename.equals("hwhn3-u01")))
+        || (model != null && (model.equals("H30-T10")
+        || model.equals("H30-U10")
+        || model.equals("HUAWEI HN3-U00")
+        || model.equals("HUAWEI HN3-U01")))) {
+      return "Honor3";
+    }
+    if ((codename != null && codename.equals("HWCRR"))
+        || (model != null && model.equals("HUAWEI CRR-L09"))) {
+      return "Mate S";
+    }
+    if ((codename != null && codename.equals("angler"))) {
+      return "Nexus 6P";
+    }
+    // ----------------------------------------------------------------------------
+    // LGE
+    if ((codename != null && (codename.equals("zee")))
+        || (model != null && (model.equals("LG-D950")
+        || model.equals("LG-D950G")
+        || model.equals("LG-D951")
+        || model.equals("LG-D955")
+        || model.equals("LG-D956")
+        || model.equals("LG-D958")
+        || model.equals("LG-D959")
+        || model.equals("LG-F340K")
+        || model.equals("LG-F340L")
+        || model.equals("LG-F340S")
+        || model.equals("LG-LS995")
+        || model.equals("LGL23")))) {
+      return "LG G Flex";
+    }
+    if ((codename != null && (codename.equals("z2")))
+        || (model != null && (model.equals("LG-F510K")
+        || model.equals("LG-F510L")
+        || model.equals("LG-F510S")
+        || model.equals("LG-H950")
+        || model.equals("LG-H955")
+        || model.equals("LG-H959")
+        || model.equals("LGAS995")
+        || model.equals("LGLS996")
+        || model.equals("LGUS995")))) {
+      return "LG G Flex2";
+    }
+    if ((codename != null && (codename.equals("g2")))
+        || (model != null && (model.equals("LG-D800")
+        || model.equals("LG-D801")
+        || model.equals("LG-D802")
+        || model.equals("LG-D802T")
+        || model.equals("LG-D802TR")
+        || model.equals("LG-D803")
+        || model.equals("LG-D805")
+        || model.equals("LG-D806")
+        || model.equals("LG-F320K")
+        || model.equals("LG-F320L")
+        || model.equals("LG-F320S")
+        || model.equals("LG-LS980")
+        || model.equals("VS980 4G")))) {
+      return "LG G2";
+    }
+    if ((codename != null && (codename.equals("g3")))
+        || (model != null && (model.equals("AS985")
+        || model.equals("LG-AS990")
+        || model.equals("LG-D850")
+        || model.equals("LG-D851")
+        || model.equals("LG-D852")
+        || model.equals("LG-D852G")
+        || model.equals("LG-D855")
+        || model.equals("LG-D856")
+        || model.equals("LG-D857")
+        || model.equals("LG-D858")
+        || model.equals("LG-D858HK")
+        || model.equals("LG-D859")
+        || model.equals("LG-F400K")
+        || model.equals("LG-F400L")
+        || model.equals("LG-F400S")
+        || model.equals("LGL24")
+        || model.equals("LGLS990")
+        || model.equals("LGUS990")
+        || model.equals("LGV31")
+        || model.equals("VS985 4G")))) {
+      return "LG G3";
+    }
+    if ((codename != null && (codename.equals("p1")))
+        || (model != null && (model.equals("AS986")
+        || model.equals("LG-AS811")
+        || model.equals("LG-AS991")
+        || model.equals("LG-F500K")
+        || model.equals("LG-F500L")
+        || model.equals("LG-F500S")
+        || model.equals("LG-H810")
+        || model.equals("LG-H811")
+        || model.equals("LG-H812")
+        || model.equals("LG-H815")
+        || model.equals("LG-H818")
+        || model.equals("LG-H819")
+        || model.equals("LGLS991")
+        || model.equals("LGUS991")
+        || model.equals("LGV32")
+        || model.equals("VS986")))) {
+      return "LG G4";
+    }
+    if ((codename != null && (codename.equals("c50")
+        || codename.equals("c50ds")
+        || codename.equals("c50n")))
+        || (model != null && (model.equals("LG-H340")
+        || model.equals("LG-H340AR")
+        || model.equals("LG-H340GT")
+        || model.equals("LG-H340n")
+        || model.equals("LG-H342")
+        || model.equals("LG-H343")
+        || model.equals("LGMS345")))) {
+      return "LG Leon 4G LTE";
+    }
+    if ((codename != null && (codename.equals("cosmopolitan")))
+        || (model != null && (model.equals("LG-P920")
+        || model.equals("LG-P925g")
+        || model.equals("LG-SU760")))) {
+      return "LG Optimus 3D";
+    }
+    if ((codename != null && (codename.equals("geeb")
+        || codename.equals("geehdc")
+        || codename.equals("geehrc")
+        || codename.equals("geehrc4g")))
+        || (model != null && (model.equals("L-01E")
+        || model.equals("LG-E970")
+        || model.equals("LG-E971")
+        || model.equals("LG-E973")
+        || model.equals("LG-E975")
+        || model.equals("LG-E975K")
+        || model.equals("LG-E975T")
+        || model.equals("LG-E976")
+        || model.equals("LG-E977")
+        || model.equals("LG-E987")
+        || model.equals("LG-F180K")
+        || model.equals("LG-F180L")
+        || model.equals("LG-F180S")
+        || model.equals("LG-LS970")
+        || model.equals("LGL21")))) {
+      return "LG Optimus G";
+    }
+    if ((codename != null && (codename.equals("geefhd")
+        || codename.equals("geefhd4g")))
+        || (model != null && (model.equals("LG-E980")
+        || model.equals("LG-E980h")
+        || model.equals("LG-E981h")
+        || model.equals("LG-E986")
+        || model.equals("LG-E988")
+        || model.equals("LG-E989")
+        || model.equals("LG-F240K")
+        || model.equals("LG-F240L")
+        || model.equals("LG-F240S")))) {
+      return "LG Optimus G Pro";
+    }
+    if ((codename != null && (codename.equals("u2")))
+        || (model != null && (model.equals("LG-D700")
+        || model.equals("LG-P760")
+        || model.equals("LG-P765")
+        || model.equals("LG-P768")
+        || model.equals("LG-P769")
+        || model.equals("LG-P778")
+        || model.equals("LGMS769")))) {
+      return "LG Optimus L9";
+    }
+    if ((codename != null && codename.equals("mako"))) {
+      return "Nexus 4";
+    }
+    if ((codename != null && codename.equals("hammerhead"))) {
+      return "Nexus 5";
+    }
+    if ((codename != null && codename.equals("bullhead"))) {
+      return "Nexus 5X";
+    }
+    if ((codename != null && (codename.equals("p990")
+        || codename.equals("p990_262-xx")
+        || codename.equals("p990_CIS-xxx")
+        || codename.equals("p990_EUR-xx")
+        || codename.equals("p990hN")
+        || codename.equals("p999")
+        || codename.equals("star")
+        || codename.equals("star_450-05")
+        || codename.equals("su660")))
+        || (model != null && (model.equals("LG-P990")
+        || model.equals("LG-P990H")
+        || model.equals("LG-P990h")
+        || model.equals("LG-P990hN")
+        || model.equals("LG-P999")
+        || model.equals("LG-SU660")))) {
+      return "Optimus 2X";
+    }
+    if ((codename != null && (codename.equals("cosmo_450-05")
+        || codename.equals("cosmo_EUR-XXX")
+        || codename.equals("cosmo_MEA-XXX")
+        || codename.equals("p920")
+        || codename.equals("su760")))
+        || (model != null && (model.equals("LG-P920")
+        || model.equals("LG-P920h")
+        || model.equals("LG-SU760")))) {
+      return "Optimus 3D";
+    }
+    if ((codename != null && (codename.equals("cx2")))
+        || (model != null && (model.equals("LG-P720")
+        || model.equals("LG-P720h")
+        || model.equals("LG-P725")
+        || model.equals("LG-SU870")))) {
+      return "Optimus 3D MAX";
+    }
+    if ((codename != null && (codename.equals("LGL85C")
+        || codename.equals("black")
+        || codename.equals("blackg")
+        || codename.equals("bproj_214-03")
+        || codename.equals("bproj_262-XXX")
+        || codename.equals("bproj_302-220")
+        || codename.equals("bproj_334-020")
+        || codename.equals("bproj_724-xxx")
+        || codename.equals("bproj_ARE-XXX")
+        || codename.equals("bproj_EUR-XXX")
+        || codename.equals("bproj_sea-xxx")
+        || codename.equals("ku5900")
+        || codename.equals("lgp970")))
+        || (model != null && (model.equals("LG-KU5900")
+        || model.equals("LG-P970")
+        || model.equals("LG-P970g")
+        || model.equals("LG-P970h")
+        || model.equals("LGL85C")))) {
+      return "Optimus Black";
+    }
+    if ((codename != null && (codename.equals("m4")))
+        || (model != null && (model.equals("LG-E610")
+        || model.equals("LG-E610v")
+        || model.equals("LG-E612")
+        || model.equals("LG-E612f")
+        || model.equals("LG-E612g")
+        || model.equals("LG-E617G")
+        || model.equals("LG-L40G")))) {
+      return "Optimus L5";
+    }
+    if ((codename != null && (codename.equals("i_dcm")
+        || codename.equals("i_skt")
+        || codename.equals("i_u")
+        || codename.equals("iproj")
+        || codename.equals("lgp930")
+        || codename.equals("lgp935")))
+        || (model != null && (model.equals("L-01D")
+        || model.equals("LG-LU6200")
+        || model.equals("LG-P930")
+        || model.equals("LG-P935")
+        || model.equals("LG-P936")
+        || model.equals("LG-SU640")))) {
+      return "Optimus LTE";
+    }
+    if ((codename != null && (codename.equals("ku3700")
+        || codename.equals("lu3700")
+        || codename.equals("su370")
+        || codename.equals("thunder_kor-05")
+        || codename.equals("thunder_kor-08")
+        || codename.equals("thunderc")))
+        || (model != null && (model.equals("LG-CX670")
+        || model.equals("LG-KU3700")
+        || model.equals("LG-LU3700")
+        || model.equals("LG-LW690")
+        || model.equals("LG-MS690")
+        || model.equals("LG-SU370")
+        || model.equals("LG-US670")
+        || model.equals("LS670")
+        || model.equals("VM670")
+        || model.equals("Vortex")
+        || model.equals("thunderc")))) {
+      return "Optimus One";
+    }
+    if ((codename != null && (codename.equals("l06c")
+        || codename.equals("v900")
+        || codename.equals("v900asia")
+        || codename.equals("v901ar")
+        || codename.equals("v901kr")
+        || codename.equals("v901tr")
+        || codename.equals("v905r")
+        || codename.equals("v909")
+        || codename.equals("v909mkt")))
+        || (model != null && (model.equals("L-06C")
+        || model.equals("LG-V900")
+        || model.equals("LG-V901")
+        || model.equals("LG-V905R")
+        || model.equals("LG-V909")))) {
+      return "Optimus Pad";
+    }
+    // ----------------------------------------------------------------------------
+    // Lenovo
+    if ((codename != null && codename.equals("A7-30GC"))
+        || (model != null && model.equals("Lenovo TAB 2 A7-30GC"))) {
+      return "Lenovo A7-30GC";
+    }
+    // ----------------------------------------------------------------------------
+    // Motorola
+    if ((codename != null && (codename.equals("quark")))
+        || (model != null && (model.equals("XT1250")
+        || model.equals("XT1254")))) {
+      return "DROID Turbo";
+    }
+    if ((codename != null && (codename.equals("condor_cdma")
+        || codename.equals("condor_umts")
+        || codename.equals("condor_umtsds")
+        || codename.equals("otus")
+        || codename.equals("otus_ds")
+        || codename.equals("surnia_cdma")
+        || codename.equals("surnia_uds")
+        || codename.equals("surnia_udstv")
+        || codename.equals("surnia_umts")))
+        || (model != null && (model.equals("MotoE2")
+        || model.equals("MotoE2(4G-LTE)")
+        || model.equals("XT0000")
+        || model.equals("XT1019")
+        || model.equals("XT1021")
+        || model.equals("XT1022")
+        || model.equals("XT1023")
+        || model.equals("XT1526")
+        || model.equals("XT830C")))) {
+      return "MOTO E";
+    }
+    if ((codename != null && (codename.equals("falcon_umts")
+        || codename.equals("osprey_udstv")
+        || codename.equals("peregrine")
+        || codename.equals("thea")
+        || codename.equals("thea_umtsds")
+        || codename.equals("titan_umts")
+        || codename.equals("titan_umtsds")))
+        || (model != null && (model.equals("MotoG3")
+        || model.equals("XT1002")
+        || model.equals("XT1003")
+        || model.equals("XT1032")
+        || model.equals("XT1039")
+        || model.equals("XT1042")
+        || model.equals("XT1045")
+        || model.equals("XT1063")
+        || model.equals("XT1064")
+        || model.equals("XT1068")
+        || model.equals("XT1072")
+        || model.equals("XT1078")
+        || model.equals("titan_niibr_ds")))) {
+      return "MOTO G";
+    }
+    if ((codename != null && (codename.equals("ghost")
+        || codename.equals("victara")))
+        || (model != null && (model.equals("XT1053")
+        || model.equals("XT1058")
+        || model.equals("XT1092")
+        || model.equals("XT1093")
+        || model.equals("XT1094")
+        || model.equals("XT1095")
+        || model.equals("XT1096")
+        || model.equals("XT1097")))) {
+      return "MOTO X";
+    }
+    if ((codename != null && (codename.equals("clark")))
+        || (model != null && (model.equals("XT1572")
+        || model.equals("XT1575")))) {
+      return "Moto X Style";
+    }
+    if ((codename != null && codename.equals("shamu"))) {
+      return "Nexus 6";
+    }
+    if ((codename != null && (codename.equals("stingray")
+        || codename.equals("umts_everest")
+        || codename.equals("umts_hubble")
+        || codename.equals("wifi_hubble")
+        || codename.equals("wingray")))
+        || (model != null && (model.equals("MZ601")
+        || model.equals("MZ604")
+        || model.equals("MZ605")
+        || model.equals("MZ606")
+        || model.equals("Xoom")))) {
+      return "XOOM";
+    }
+    // ----------------------------------------------------------------------------
+    // OnePlus
+    if ((codename != null && codename.equals("OnePlus"))
+        || (model != null && model.equals("ONE E1003"))) {
+      return "OnePlus";
+    }
+    if ((codename != null && (codename.equals("A0001")))
+        || (model != null && (model.equals("A0001")
+        || model.equals("One")))) {
+      return "OnePlus One";
+    }
+    if ((codename != null && codename.equals("OnePlus2"))
+        || (model != null && model.equals("ONE A2003"))) {
+      return "OnePlus2";
+    }
+    // ----------------------------------------------------------------------------
+    // Samsung
+    if ((codename != null && (codename.equals("a33g")
+        || codename.equals("a3lte")
+        || codename.equals("a3ltechn")
+        || codename.equals("a3ltectc")
+        || codename.equals("a3ltedd")
+        || codename.equals("a3lteslk")
+        || codename.equals("a3ltezh")
+        || codename.equals("a3ltezt")
+        || codename.equals("a3ulte")))
+        || (model != null && (model.equals("SM-A3000")
+        || model.equals("SM-A3009")
+        || model.equals("SM-A300F")
+        || model.equals("SM-A300FU")
+        || model.equals("SM-A300G")
+        || model.equals("SM-A300H")
+        || model.equals("SM-A300M")
+        || model.equals("SM-A300X")
+        || model.equals("SM-A300XU")
+        || model.equals("SM-A300XZ")
+        || model.equals("SM-A300Y")
+        || model.equals("SM-A300YZ")))) {
+      return "Galaxy A3";
+    }
+    if ((codename != null && (codename.equals("a53g")
+        || codename.equals("a5lte")
+        || codename.equals("a5ltechn")
+        || codename.equals("a5ltectc")
+        || codename.equals("a5ltezh")
+        || codename.equals("a5ltezt")
+        || codename.equals("a5ulte")
+        || codename.equals("a5ultebmc")
+        || codename.equals("a5ultektt")
+        || codename.equals("a5ultelgt")
+        || codename.equals("a5ulteskt")))
+        || (model != null && (model.equals("SM-A5000")
+        || model.equals("SM-A5009")
+        || model.equals("SM-A500F")
+        || model.equals("SM-A500F1")
+        || model.equals("SM-A500FU")
+        || model.equals("SM-A500G")
+        || model.equals("SM-A500H")
+        || model.equals("SM-A500K")
+        || model.equals("SM-A500L")
+        || model.equals("SM-A500M")
+        || model.equals("SM-A500S")
+        || model.equals("SM-A500W")
+        || model.equals("SM-A500X")
+        || model.equals("SM-A500XZ")
+        || model.equals("SM-A500Y")
+        || model.equals("SM-A500YZ")))) {
+      return "Galaxy A5";
+    }
+    if ((codename != null && (codename.equals("a8elte")
+        || codename.equals("a8elteskt")
+        || codename.equals("a8hplte")
+        || codename.equals("a8ltechn")))
+        || (model != null && (model.equals("SM-A8000")
+        || model.equals("SM-A800F")
+        || model.equals("SM-A800I")
+        || model.equals("SM-A800IZ")
+        || model.equals("SM-A800S")
+        || model.equals("SM-A800X")
+        || model.equals("SM-A800YZ")))) {
+      return "Galaxy A8";
+    }
+    if ((codename != null && (codename.equals("vivaltods5m")))
+        || (model != null && (model.equals("SM-G313HU")
+        || model.equals("SM-G313HY")
+        || model.equals("SM-G313M")
+        || model.equals("SM-G313MY")))) {
+      return "Galaxy Ace 4";
+    }
+    if ((codename != null && (codename.equals("GT-S6352")
+        || codename.equals("GT-S6802")
+        || codename.equals("GT-S6802B")
+        || codename.equals("SCH-I579")
+        || codename.equals("SCH-I589")
+        || codename.equals("SCH-i579")
+        || codename.equals("SCH-i589")))
+        || (model != null && (model.equals("GT-S6352")
+        || model.equals("GT-S6802")
+        || model.equals("GT-S6802B")
+        || model.equals("SCH-I589")
+        || model.equals("SCH-i579")
+        || model.equals("SCH-i589")))) {
+      return "Galaxy Ace Duos";
+    }
+    if ((codename != null && (codename.equals("GT-S7500")
+        || codename.equals("GT-S7500L")
+        || codename.equals("GT-S7500T")
+        || codename.equals("GT-S7500W")
+        || codename.equals("GT-S7508")))
+        || (model != null && (model.equals("GT-S7500")
+        || model.equals("GT-S7500L")
+        || model.equals("GT-S7500T")
+        || model.equals("GT-S7500W")
+        || model.equals("GT-S7508")))) {
+      return "Galaxy Ace Plus";
+    }
+    if ((codename != null && (codename.equals("heat3gtfnvzw")
+        || codename.equals("heatnfc3g")
+        || codename.equals("heatqlte")))
+        || (model != null && (model.equals("SM-G310HN")
+        || model.equals("SM-G357FZ")
+        || model.equals("SM-S765C")
+        || model.equals("SM-S766C")))) {
+      return "Galaxy Ace Style";
+    }
+    if ((codename != null && (codename.equals("vivalto3g")
+        || codename.equals("vivalto3mve3g")
+        || codename.equals("vivalto5mve3g")
+        || codename.equals("vivaltolte")
+        || codename.equals("vivaltonfc3g")))
+        || (model != null && (model.equals("SM-G313F")
+        || model.equals("SM-G313HN")
+        || model.equals("SM-G313ML")
+        || model.equals("SM-G313MU")
+        || model.equals("SM-G316H")
+        || model.equals("SM-G316HU")
+        || model.equals("SM-G316M")
+        || model.equals("SM-G316MY")))) {
+      return "Galaxy Ace4";
+    }
+    if ((codename != null && (codename.equals("slte")
+        || codename.equals("slteatt")
+        || codename.equals("sltecan")
+        || codename.equals("sltechn")
+        || codename.equals("sltektt")
+        || codename.equals("sltelgt")
+        || codename.equals("slteskt")))
+        || (model != null && (model.equals("SAMSUNG-SM-G850A")
+        || model.equals("SM-G8508S")
+        || model.equals("SM-G850F")
+        || model.equals("SM-G850FQ")
+        || model.equals("SM-G850K")
+        || model.equals("SM-G850L")
+        || model.equals("SM-G850M")
+        || model.equals("SM-G850S")
+        || model.equals("SM-G850W")
+        || model.equals("SM-G850X")
+        || model.equals("SM-G850Y")))) {
+      return "Galaxy Alpha";
+    }
+    if ((codename != null && (codename.equals("core33g")
+        || codename.equals("coreprimelte")
+        || codename.equals("coreprimelteaio")
+        || codename.equals("coreprimeltelra")
+        || codename.equals("coreprimeltespr")
+        || codename.equals("coreprimeltetfnvzw")
+        || codename.equals("coreprimeltevzw")
+        || codename.equals("coreprimeve3g")
+        || codename.equals("coreprimevelte")
+        || codename.equals("cprimeltemtr")
+        || codename.equals("cprimeltetmo")
+        || codename.equals("rossalte")
+        || codename.equals("rossaltectc")
+        || codename.equals("rossaltexsa")))
+        || (model != null && (model.equals("SAMSUNG-SM-G360AZ")
+        || model.equals("SM-G3606")
+        || model.equals("SM-G3608")
+        || model.equals("SM-G3609")
+        || model.equals("SM-G360F")
+        || model.equals("SM-G360FY")
+        || model.equals("SM-G360GY")
+        || model.equals("SM-G360H")
+        || model.equals("SM-G360HU")
+        || model.equals("SM-G360M")
+        || model.equals("SM-G360P")
+        || model.equals("SM-G360R6")
+        || model.equals("SM-G360T")
+        || model.equals("SM-G360T1")
+        || model.equals("SM-G360V")
+        || model.equals("SM-G361F")
+        || model.equals("SM-G361H")
+        || model.equals("SM-G361HU")
+        || model.equals("SM-G361M")
+        || model.equals("SM-S820L")))) {
+      return "Galaxy Core Prime";
+    }
+    if ((codename != null && (codename.equals("kanas")
+        || codename.equals("kanas3g")
+        || codename.equals("kanas3gcmcc")
+        || codename.equals("kanas3gctc")
+        || codename.equals("kanas3gnfc")))
+        || (model != null && (model.equals("SM-G3556D")
+        || model.equals("SM-G3558")
+        || model.equals("SM-G3559")
+        || model.equals("SM-G355H")
+        || model.equals("SM-G355HN")
+        || model.equals("SM-G355HQ")
+        || model.equals("SM-G355M")))) {
+      return "Galaxy Core2";
+    }
+    if ((codename != null && (codename.equals("e53g")
+        || codename.equals("e5lte")
+        || codename.equals("e5ltetfnvzw")
+        || codename.equals("e5ltetw")))
+        || (model != null && (model.equals("SM-E500F")
+        || model.equals("SM-E500H")
+        || model.equals("SM-E500M")
+        || model.equals("SM-E500YZ")
+        || model.equals("SM-S978L")))) {
+      return "Galaxy E5";
+    }
+    if ((codename != null && (codename.equals("e73g")
+        || codename.equals("e7lte")
+        || codename.equals("e7ltechn")
+        || codename.equals("e7ltectc")
+        || codename.equals("e7ltehktw")))
+        || (model != null && (model.equals("SM-E7000")
+        || model.equals("SM-E7009")
+        || model.equals("SM-E700F")
+        || model.equals("SM-E700H")
+        || model.equals("SM-E700M")))) {
+      return "Galaxy E7";
+    }
+    if ((codename != null && (codename.equals("SCH-I629")
+        || codename.equals("nevis")
+        || codename.equals("nevis3g")
+        || codename.equals("nevis3gcmcc")
+        || codename.equals("nevisds")
+        || codename.equals("nevisnvess")
+        || codename.equals("nevisp")
+        || codename.equals("nevisvess")
+        || codename.equals("nevisw")))
+        || (model != null && (model.equals("GT-S6790")
+        || model.equals("GT-S6790E")
+        || model.equals("GT-S6790L")
+        || model.equals("GT-S6790N")
+        || model.equals("GT-S6810")
+        || model.equals("GT-S6810B")
+        || model.equals("GT-S6810E")
+        || model.equals("GT-S6810L")
+        || model.equals("GT-S6810M")
+        || model.equals("GT-S6810P")
+        || model.equals("GT-S6812")
+        || model.equals("GT-S6812B")
+        || model.equals("GT-S6812C")
+        || model.equals("GT-S6812i")
+        || model.equals("GT-S6818")
+        || model.equals("GT-S6818V")
+        || model.equals("SCH-I629")))) {
+      return "Galaxy Fame";
+    }
+    if ((codename != null && codename.equals("grandprimelteatt"))
+        || (model != null && model.equals("SAMSUNG-SM-G530A"))) {
+      return "Galaxy Go Prime";
+    }
+    if ((codename != null && (codename.equals("baffinlite")
+        || codename.equals("baffinlitedtv")
+        || codename.equals("baffinq3g")))
+        || (model != null && (model.equals("GT-I9060")
+        || model.equals("GT-I9060L")
+        || model.equals("GT-I9063T")
+        || model.equals("GT-I9082C")
+        || model.equals("GT-I9168")
+        || model.equals("GT-I9168I")))) {
+      return "Galaxy Grand Neo";
+    }
+    if ((codename != null && (codename.equals("fortuna3g")
+        || codename.equals("fortuna3gdtv")
+        || codename.equals("fortunalte")
+        || codename.equals("fortunaltectc")
+        || codename.equals("fortunaltezh")
+        || codename.equals("fortunaltezt")
+        || codename.equals("gprimelteacg")
+        || codename.equals("gprimeltecan")
+        || codename.equals("gprimeltemtr")
+        || codename.equals("gprimeltespr")
+        || codename.equals("gprimeltetfnvzw")
+        || codename.equals("gprimeltetmo")
+        || codename.equals("gprimelteusc")
+        || codename.equals("grandprimelte")
+        || codename.equals("grandprimelteaio")
+        || codename.equals("grandprimeve3g")
+        || codename.equals("grandprimeve3gdtv")
+        || codename.equals("grandprimevelte")
+        || codename.equals("grandprimevelteltn")
+        || codename.equals("grandprimeveltezt")))
+        || (model != null && (model.equals("SAMSUNG-SM-G530AZ")
+        || model.equals("SM-G5306W")
+        || model.equals("SM-G5308W")
+        || model.equals("SM-G5309W")
+        || model.equals("SM-G530BT")
+        || model.equals("SM-G530F")
+        || model.equals("SM-G530FZ")
+        || model.equals("SM-G530H")
+        || model.equals("SM-G530M")
+        || model.equals("SM-G530MU")
+        || model.equals("SM-G530P")
+        || model.equals("SM-G530R4")
+        || model.equals("SM-G530R7")
+        || model.equals("SM-G530T")
+        || model.equals("SM-G530T1")
+        || model.equals("SM-G530W")
+        || model.equals("SM-G530Y")
+        || model.equals("SM-G531BT")
+        || model.equals("SM-G531F")
+        || model.equals("SM-G531H")
+        || model.equals("SM-G531M")
+        || model.equals("SM-G531Y")
+        || model.equals("SM-S920L")
+        || model.equals("gprimelteacg")))) {
+      return "Galaxy Grand Prime";
+    }
+    if ((codename != null && (codename.equals("ms013g")
+        || codename.equals("ms013gdtv")
+        || codename.equals("ms013gss")
+        || codename.equals("ms01lte")
+        || codename.equals("ms01ltektt")
+        || codename.equals("ms01ltelgt")
+        || codename.equals("ms01lteskt")))
+        || (model != null && (model.equals("SM-G710")
+        || model.equals("SM-G7102")
+        || model.equals("SM-G7102T")
+        || model.equals("SM-G7105")
+        || model.equals("SM-G7105H")
+        || model.equals("SM-G7105L")
+        || model.equals("SM-G7106")
+        || model.equals("SM-G7108")
+        || model.equals("SM-G7109")
+        || model.equals("SM-G710K")
+        || model.equals("SM-G710L")
+        || model.equals("SM-G710S")))) {
+      return "Galaxy Grand2";
+    }
+    if ((codename != null && (codename.equals("j75ltektt")
+        || codename.equals("j7e3g")
+        || codename.equals("j7elte")
+        || codename.equals("j7ltechn")))
+        || (model != null && (model.equals("SM-J7008")
+        || model.equals("SM-J700F")
+        || model.equals("SM-J700H")
+        || model.equals("SM-J700K")
+        || model.equals("SM-J700M")))) {
+      return "Galaxy J7";
+    }
+    if ((codename != null && (codename.equals("maguro")
+        || codename.equals("toro")
+        || codename.equals("toroplus")))
+        || (model != null && (model.equals("Galaxy X")))) {
+      return "Galaxy Nexus";
+    }
+    if ((codename != null && (codename.equals("lt033g")
+        || codename.equals("lt03ltektt")
+        || codename.equals("lt03ltelgt")
+        || codename.equals("lt03lteskt")
+        || codename.equals("p4notelte")
+        || codename.equals("p4noteltektt")
+        || codename.equals("p4noteltelgt")
+        || codename.equals("p4notelteskt")
+        || codename.equals("p4noteltespr")
+        || codename.equals("p4notelteusc")
+        || codename.equals("p4noteltevzw")
+        || codename.equals("p4noterf")
+        || codename.equals("p4noterfktt")
+        || codename.equals("p4notewifi")
+        || codename.equals("p4notewifi43241any")
+        || codename.equals("p4notewifiany")
+        || codename.equals("p4notewifiktt")
+        || codename.equals("p4notewifiww")))
+        || (model != null && (model.equals("GT-N8000")
+        || model.equals("GT-N8005")
+        || model.equals("GT-N8010")
+        || model.equals("GT-N8013")
+        || model.equals("GT-N8020")
+        || model.equals("SCH-I925")
+        || model.equals("SCH-I925U")
+        || model.equals("SHV-E230K")
+        || model.equals("SHV-E230L")
+        || model.equals("SHV-E230S")
+        || model.equals("SHW-M480K")
+        || model.equals("SHW-M480W")
+        || model.equals("SHW-M485W")
+        || model.equals("SHW-M486W")
+        || model.equals("SM-P601")
+        || model.equals("SM-P602")
+        || model.equals("SM-P605K")
+        || model.equals("SM-P605L")
+        || model.equals("SM-P605S")
+        || model.equals("SPH-P600")))) {
+      return "Galaxy Note 10.1";
+    }
+    if ((codename != null && (codename.equals("SCL24")
+        || codename.equals("tbeltektt")
+        || codename.equals("tbeltelgt")
+        || codename.equals("tbelteskt")
+        || codename.equals("tblte")
+        || codename.equals("tblteatt")
+        || codename.equals("tbltecan")
+        || codename.equals("tbltechn")
+        || codename.equals("tbltespr")
+        || codename.equals("tbltetmo")
+        || codename.equals("tblteusc")
+        || codename.equals("tbltevzw")))
+        || (model != null && (model.equals("SAMSUNG-SM-N915A")
+        || model.equals("SCL24")
+        || model.equals("SM-N9150")
+        || model.equals("SM-N915F")
+        || model.equals("SM-N915FY")
+        || model.equals("SM-N915G")
+        || model.equals("SM-N915K")
+        || model.equals("SM-N915L")
+        || model.equals("SM-N915P")
+        || model.equals("SM-N915R4")
+        || model.equals("SM-N915S")
+        || model.equals("SM-N915T")
+        || model.equals("SM-N915T3")
+        || model.equals("SM-N915V")
+        || model.equals("SM-N915W8")
+        || model.equals("SM-N915X")))) {
+      return "Galaxy Note Edge";
+    }
+    if ((codename != null && (codename.equals("v1a3g")
+        || codename.equals("v1awifi")
+        || codename.equals("v1awifikx")
+        || codename.equals("viennalte")
+        || codename.equals("viennalteatt")
+        || codename.equals("viennaltekx")
+        || codename.equals("viennaltevzw")))
+        || (model != null && (model.equals("SAMSUNG-SM-P907A")
+        || model.equals("SM-P900")
+        || model.equals("SM-P901")
+        || model.equals("SM-P905")
+        || model.equals("SM-P905F0")
+        || model.equals("SM-P905M")
+        || model.equals("SM-P905V")))) {
+      return "Galaxy Note Pro 12.2";
+    }
+    if ((codename != null && (codename.equals("SC-02E")
+        || codename.equals("t03g")
+        || codename.equals("t03gchn")
+        || codename.equals("t03gchnduos")
+        || codename.equals("t03gcmcc")
+        || codename.equals("t03gctc")
+        || codename.equals("t03gcuduos")
+        || codename.equals("t0lte")
+        || codename.equals("t0lteatt")
+        || codename.equals("t0ltecan")
+        || codename.equals("t0ltecmcc")
+        || codename.equals("t0ltedcm")
+        || codename.equals("t0ltektt")
+        || codename.equals("t0ltelgt")
+        || codename.equals("t0lteskt")
+        || codename.equals("t0ltespr")
+        || codename.equals("t0ltetmo")
+        || codename.equals("t0lteusc")
+        || codename.equals("t0ltevzw")))
+        || (model != null && (model.equals("GT-N7100")
+        || model.equals("GT-N7100T")
+        || model.equals("GT-N7102")
+        || model.equals("GT-N7102i")
+        || model.equals("GT-N7105")
+        || model.equals("GT-N7105T")
+        || model.equals("GT-N7108")
+        || model.equals("GT-N7108D")
+        || model.equals("SAMSUNG-SGH-I317")
+        || model.equals("SC-02E")
+        || model.equals("SCH-I605")
+        || model.equals("SCH-N719")
+        || model.equals("SCH-R950")
+        || model.equals("SGH-I317M")
+        || model.equals("SGH-T889")
+        || model.equals("SGH-T889V")
+        || model.equals("SHV-E250K")
+        || model.equals("SHV-E250L")
+        || model.equals("SHV-E250S")
+        || model.equals("SPH-L900")))) {
+      return "Galaxy Note2";
+    }
+    if ((codename != null && (codename.equals("SC-02F")
+        || codename.equals("SCL22")
+        || codename.equals("ha3g")
+        || codename.equals("hlte")
+        || codename.equals("hlteatt")
+        || codename.equals("hltecan")
+        || codename.equals("hltektt")
+        || codename.equals("hltelgt")
+        || codename.equals("hlteskt")
+        || codename.equals("hltespr")
+        || codename.equals("hltetmo")
+        || codename.equals("hlteusc")
+        || codename.equals("hltevzw")
+        || codename.equals("htdlte")))
+        || (model != null && (model.equals("SAMSUNG-SM-N900A")
+        || model.equals("SC-02F")
+        || model.equals("SCL22")
+        || model.equals("SM-N900")
+        || model.equals("SM-N9000Q")
+        || model.equals("SM-N9005")
+        || model.equals("SM-N9006")
+        || model.equals("SM-N9007")
+        || model.equals("SM-N9008V")
+        || model.equals("SM-N9009")
+        || model.equals("SM-N900K")
+        || model.equals("SM-N900L")
+        || model.equals("SM-N900P")
+        || model.equals("SM-N900R4")
+        || model.equals("SM-N900S")
+        || model.equals("SM-N900T")
+        || model.equals("SM-N900U")
+        || model.equals("SM-N900V")
+        || model.equals("SM-N900W8")))) {
+      return "Galaxy Note3";
+    }
+    if ((codename != null && (codename.equals("frescoltektt")
+        || codename.equals("frescoltelgt")
+        || codename.equals("frescolteskt")
+        || codename.equals("hl3g")
+        || codename.equals("hl3gds")
+        || codename.equals("hllte")))
+        || (model != null && (model.equals("SM-N750")
+        || model.equals("SM-N7500Q")
+        || model.equals("SM-N7502")
+        || model.equals("SM-N7505")
+        || model.equals("SM-N7505L")
+        || model.equals("SM-N7507")
+        || model.equals("SM-N750K")
+        || model.equals("SM-N750L")
+        || model.equals("SM-N750S")))) {
+      return "Galaxy Note3 Neo";
+    }
+    if ((codename != null && (codename.equals("tre3caltektt")
+        || codename.equals("tre3caltelgt")
+        || codename.equals("tre3calteskt")
+        || codename.equals("tre3g")
+        || codename.equals("trelte")
+        || codename.equals("treltektt")
+        || codename.equals("treltelgt")
+        || codename.equals("trelteskt")
+        || codename.equals("trhplte")
+        || codename.equals("trlte")
+        || codename.equals("trlteatt")
+        || codename.equals("trltecan")
+        || codename.equals("trltechn")
+        || codename.equals("trltechnzh")
+        || codename.equals("trltespr")
+        || codename.equals("trltetmo")
+        || codename.equals("trlteusc")
+        || codename.equals("trltevzw")))
+        || (model != null && (model.equals("SAMSUNG-SM-N910A")
+        || model.equals("SM-N9100")
+        || model.equals("SM-N9106W")
+        || model.equals("SM-N9108V")
+        || model.equals("SM-N9109W")
+        || model.equals("SM-N910C")
+        || model.equals("SM-N910F")
+        || model.equals("SM-N910G")
+        || model.equals("SM-N910H")
+        || model.equals("SM-N910K")
+        || model.equals("SM-N910L")
+        || model.equals("SM-N910P")
+        || model.equals("SM-N910R4")
+        || model.equals("SM-N910S")
+        || model.equals("SM-N910T")
+        || model.equals("SM-N910T2")
+        || model.equals("SM-N910T3")
+        || model.equals("SM-N910U")
+        || model.equals("SM-N910V")
+        || model.equals("SM-N910W8")
+        || model.equals("SM-N910X")
+        || model.equals("SM-N916K")
+        || model.equals("SM-N916L")
+        || model.equals("SM-N916S")))) {
+      return "Galaxy Note4";
+    }
+    if ((codename != null && (codename.equals("noblelte")
+        || codename.equals("noblelteacg")
+        || codename.equals("noblelteatt")
+        || codename.equals("nobleltebmc")
+        || codename.equals("nobleltechn")
+        || codename.equals("nobleltecmcc")
+        || codename.equals("nobleltehk")
+        || codename.equals("nobleltektt")
+        || codename.equals("nobleltelgt")
+        || codename.equals("nobleltelra")
+        || codename.equals("noblelteskt")
+        || codename.equals("nobleltespr")
+        || codename.equals("nobleltetmo")
+        || codename.equals("noblelteusc")
+        || codename.equals("nobleltevzw")))
+        || (model != null && (model.equals("SAMSUNG-SM-N920A")
+        || model.equals("SM-N9200")
+        || model.equals("SM-N9208")
+        || model.equals("SM-N920C")
+        || model.equals("SM-N920F")
+        || model.equals("SM-N920G")
+        || model.equals("SM-N920I")
+        || model.equals("SM-N920K")
+        || model.equals("SM-N920L")
+        || model.equals("SM-N920P")
+        || model.equals("SM-N920R4")
+        || model.equals("SM-N920R6")
+        || model.equals("SM-N920R7")
+        || model.equals("SM-N920S")
+        || model.equals("SM-N920T")
+        || model.equals("SM-N920V")
+        || model.equals("SM-N920W8")
+        || model.equals("SM-N920X")))) {
+      return "Galaxy Note5";
+    }
+    if ((codename != null && (codename.equals("o5lte")
+        || codename.equals("o5ltechn")))
+        || (model != null && (model.equals("SM-G5500")
+        || model.equals("SM-G550FY")))) {
+      return "Galaxy On5";
+    }
+    if ((codename != null && (codename.equals("o7lte")
+        || codename.equals("o7ltechn")))
+        || (model != null && (model.equals("SM-G6000")
+        || model.equals("SM-G600FY")))) {
+      return "Galaxy On7";
+    }
+    if ((codename != null && (codename.equals("kylechn")
+        || codename.equals("kyleopen")
+        || codename.equals("kyletdcmcc")))
+        || (model != null && (model.equals("GT-S7562")
+        || model.equals("GT-S7568")))) {
+      return "Galaxy S Duos";
+    }
+    if ((codename != null && (codename.equals("kyleprods")))
+        || (model != null && (model.equals("GT-S7582")
+        || model.equals("GT-S7582L")))) {
+      return "Galaxy S Duos2";
+    }
+    if ((codename != null && codename.equals("vivalto3gvn"))
+        || (model != null && model.equals("SM-G313HZ"))) {
+      return "Galaxy S Duos3";
+    }
+    if ((codename != null && (codename.equals("GT-I9100")
+        || codename.equals("GT-I9100M")
+        || codename.equals("GT-I9100P")
+        || codename.equals("GT-I9100T")
+        || codename.equals("GT-I9103")
+        || codename.equals("GT-I9108")
+        || codename.equals("GT-I9210T")
+        || codename.equals("SC-02C")
+        || codename.equals("SCH-R760X")
+        || codename.equals("SGH-I777")
+        || codename.equals("SGH-S959G")
+        || codename.equals("SGH-T989")
+        || codename.equals("SHV-E110S")
+        || codename.equals("SHW-M250K")
+        || codename.equals("SHW-M250L")
+        || codename.equals("SHW-M250S")
+        || codename.equals("t1cmcc")))
+        || (model != null && (model.equals("GT-I9100")
+        || model.equals("GT-I9100M")
+        || model.equals("GT-I9100P")
+        || model.equals("GT-I9100T")
+        || model.equals("GT-I9103")
+        || model.equals("GT-I9108")
+        || model.equals("GT-I9210T")
+        || model.equals("SAMSUNG-SGH-I777")
+        || model.equals("SC-02C")
+        || model.equals("SCH-R760X")
+        || model.equals("SGH-S959G")
+        || model.equals("SGH-T989")
+        || model.equals("SHV-E110S")
+        || model.equals("SHW-M250K")
+        || model.equals("SHW-M250L")
+        || model.equals("SHW-M250S")))) {
+      return "Galaxy S2";
+    }
+    if ((codename != null && (codename.equals("SC-03E")
+        || codename.equals("c1att")
+        || codename.equals("c1ktt")
+        || codename.equals("c1lgt")
+        || codename.equals("c1skt")
+        || codename.equals("d2att")
+        || codename.equals("d2can")
+        || codename.equals("d2cri")
+        || codename.equals("d2dcm")
+        || codename.equals("d2lteMetroPCS")
+        || codename.equals("d2lterefreshspr")
+        || codename.equals("d2ltetmo")
+        || codename.equals("d2mtr")
+        || codename.equals("d2spi")
+        || codename.equals("d2spr")
+        || codename.equals("d2tfnspr")
+        || codename.equals("d2tfnvzw")
+        || codename.equals("d2tmo")
+        || codename.equals("d2usc")
+        || codename.equals("d2vmu")
+        || codename.equals("d2vzw")
+        || codename.equals("d2xar")
+        || codename.equals("m0")
+        || codename.equals("m0apt")
+        || codename.equals("m0chn")
+        || codename.equals("m0cmcc")
+        || codename.equals("m0ctc")
+        || codename.equals("m0ctcduos")
+        || codename.equals("m0skt")
+        || codename.equals("m3")
+        || codename.equals("m3dcm")))
+        || (model != null && (model.equals("GT-I9300")
+        || model.equals("GT-I9300T")
+        || model.equals("GT-I9305")
+        || model.equals("GT-I9305N")
+        || model.equals("GT-I9305T")
+        || model.equals("GT-I9308")
+        || model.equals("Gravity")
+        || model.equals("GravityQuad")
+        || model.equals("SAMSUNG-SGH-I747")
+        || model.equals("SC-03E")
+        || model.equals("SC-06D")
+        || model.equals("SCH-I535")
+        || model.equals("SCH-I535PP")
+        || model.equals("SCH-I939")
+        || model.equals("SCH-I939D")
+        || model.equals("SCH-L710")
+        || model.equals("SCH-R530C")
+        || model.equals("SCH-R530M")
+        || model.equals("SCH-R530U")
+        || model.equals("SCH-R530X")
+        || model.equals("SCH-S960L")
+        || model.equals("SCH-S968C")
+        || model.equals("SGH-I747M")
+        || model.equals("SGH-I748")
+        || model.equals("SGH-T999")
+        || model.equals("SGH-T999L")
+        || model.equals("SGH-T999N")
+        || model.equals("SGH-T999V")
+        || model.equals("SHV-E210K")
+        || model.equals("SHV-E210L")
+        || model.equals("SHV-E210S")
+        || model.equals("SHW-M440S")
+        || model.equals("SPH-L710")
+        || model.equals("SPH-L710T")))) {
+      return "Galaxy S3";
+    }
+    if ((codename != null && (codename.equals("golden")
+        || codename.equals("goldenlteatt")
+        || codename.equals("goldenltebmc")
+        || codename.equals("goldenltevzw")
+        || codename.equals("goldenve3g")))
+        || (model != null && (model.equals("GT-I8190")
+        || model.equals("GT-I8190L")
+        || model.equals("GT-I8190N")
+        || model.equals("GT-I8190T")
+        || model.equals("GT-I8200L")
+        || model.equals("SAMSUNG-SM-G730A")
+        || model.equals("SM-G730V")
+        || model.equals("SM-G730W8")))) {
+      return "Galaxy S3 Mini";
+    }
+    if ((codename != null && (codename.equals("s3ve3g")
+        || codename.equals("s3ve3gdd")
+        || codename.equals("s3ve3gds")
+        || codename.equals("s3ve3gdsdd")))
+        || (model != null && (model.equals("GT-I9300I")
+        || model.equals("GT-I9301I")
+        || model.equals("GT-I9301Q")))) {
+      return "Galaxy S3 Neo";
+    }
+    if ((codename != null && (codename.equals("SC-04E")
+        || codename.equals("ja3g")
+        || codename.equals("ja3gduosctc")
+        || codename.equals("jaltektt")
+        || codename.equals("jaltelgt")
+        || codename.equals("jalteskt")
+        || codename.equals("jflte")
+        || codename.equals("jflteaio")
+        || codename.equals("jflteatt")
+        || codename.equals("jfltecan")
+        || codename.equals("jfltecri")
+        || codename.equals("jfltecsp")
+        || codename.equals("jfltelra")
+        || codename.equals("jflterefreshspr")
+        || codename.equals("jfltespr")
+        || codename.equals("jfltetfnatt")
+        || codename.equals("jfltetfntmo")
+        || codename.equals("jfltetmo")
+        || codename.equals("jflteusc")
+        || codename.equals("jfltevzw")
+        || codename.equals("jfltevzwpp")
+        || codename.equals("jftdd")
+        || codename.equals("jfvelte")
+        || codename.equals("jfwifi")
+        || codename.equals("jsglte")
+        || codename.equals("ks01lte")
+        || codename.equals("ks01ltektt")
+        || codename.equals("ks01ltelgt")))
+        || (model != null && (model.equals("GT-I9500")
+        || model.equals("GT-I9505")
+        || model.equals("GT-I9505X")
+        || model.equals("GT-I9506")
+        || model.equals("GT-I9507")
+        || model.equals("GT-I9507V")
+        || model.equals("GT-I9508")
+        || model.equals("GT-I9508C")
+        || model.equals("GT-I9508V")
+        || model.equals("GT-I9515")
+        || model.equals("GT-I9515L")
+        || model.equals("SAMSUNG-SGH-I337")
+        || model.equals("SAMSUNG-SGH-I337Z")
+        || model.equals("SC-04E")
+        || model.equals("SCH-I545")
+        || model.equals("SCH-I545L")
+        || model.equals("SCH-I545PP")
+        || model.equals("SCH-I959")
+        || model.equals("SCH-R970")
+        || model.equals("SCH-R970C")
+        || model.equals("SCH-R970X")
+        || model.equals("SGH-I337M")
+        || model.equals("SGH-M919")
+        || model.equals("SGH-M919V")
+        || model.equals("SGH-S970G")
+        || model.equals("SHV-E300K")
+        || model.equals("SHV-E300L")
+        || model.equals("SHV-E300S")
+        || model.equals("SHV-E330K")
+        || model.equals("SHV-E330L")
+        || model.equals("SM-S975L")
+        || model.equals("SPH-L720")
+        || model.equals("SPH-L720T")))) {
+      return "Galaxy S4";
+    }
+    if ((codename != null && (codename.equals("serrano3g")
+        || codename.equals("serranods")
+        || codename.equals("serranolte")
+        || codename.equals("serranoltebmc")
+        || codename.equals("serranoltektt")
+        || codename.equals("serranoltekx")
+        || codename.equals("serranoltelra")
+        || codename.equals("serranoltespr")
+        || codename.equals("serranolteusc")
+        || codename.equals("serranoltevzw")
+        || codename.equals("serranove3g")
+        || codename.equals("serranovelte")
+        || codename.equals("serranovolteatt")))
+        || (model != null && (model.equals("GT-I9190")
+        || model.equals("GT-I9192")
+        || model.equals("GT-I9192I")
+        || model.equals("GT-I9195")
+        || model.equals("GT-I9195I")
+        || model.equals("GT-I9195L")
+        || model.equals("GT-I9195T")
+        || model.equals("GT-I9195X")
+        || model.equals("GT-I9197")
+        || model.equals("SAMSUNG-SGH-I257")
+        || model.equals("SCH-I435")
+        || model.equals("SCH-I435L")
+        || model.equals("SCH-R890")
+        || model.equals("SGH-I257M")
+        || model.equals("SHV-E370D")
+        || model.equals("SHV-E370K")
+        || model.equals("SPH-L520")))) {
+      return "Galaxy S4 Mini";
+    }
+    if ((codename != null && (codename.equals("SCL23")
+        || codename.equals("k3g")
+        || codename.equals("klte")
+        || codename.equals("klteMetroPCS")
+        || codename.equals("klteacg")
+        || codename.equals("klteaio")
+        || codename.equals("klteatt")
+        || codename.equals("kltecan")
+        || codename.equals("klteduoszn")
+        || codename.equals("kltektt")
+        || codename.equals("kltelgt")
+        || codename.equals("kltelra")
+        || codename.equals("klteskt")
+        || codename.equals("kltespr")
+        || codename.equals("kltetmo")
+        || codename.equals("klteusc")
+        || codename.equals("kltevzw")
+        || codename.equals("kwifi")
+        || codename.equals("lentisltektt")
+        || codename.equals("lentisltelgt")
+        || codename.equals("lentislteskt")))
+        || (model != null && (model.equals("SAMSUNG-SM-G900A")
+        || model.equals("SAMSUNG-SM-G900AZ")
+        || model.equals("SCL23")
+        || model.equals("SM-G9006W")
+        || model.equals("SM-G9008W")
+        || model.equals("SM-G9009W")
+        || model.equals("SM-G900F")
+        || model.equals("SM-G900FQ")
+        || model.equals("SM-G900H")
+        || model.equals("SM-G900I")
+        || model.equals("SM-G900K")
+        || model.equals("SM-G900L")
+        || model.equals("SM-G900M")
+        || model.equals("SM-G900MD")
+        || model.equals("SM-G900P")
+        || model.equals("SM-G900R4")
+        || model.equals("SM-G900R6")
+        || model.equals("SM-G900R7")
+        || model.equals("SM-G900S")
+        || model.equals("SM-G900T")
+        || model.equals("SM-G900T1")
+        || model.equals("SM-G900T3")
+        || model.equals("SM-G900T4")
+        || model.equals("SM-G900V")
+        || model.equals("SM-G900W8")
+        || model.equals("SM-G900X")
+        || model.equals("SM-G906K")
+        || model.equals("SM-G906L")
+        || model.equals("SM-G906S")))) {
+      return "Galaxy S5";
+    }
+    if ((codename != null && (codename.equals("s5neolte")
+        || codename.equals("s5neoltecan")))
+        || (model != null && (model.equals("SM-G903F")
+        || model.equals("SM-G903M")
+        || model.equals("SM-G903W")))) {
+      return "Galaxy S5 Neo";
+    }
+    if ((codename != null && (codename.equals("zeroflte")
+        || codename.equals("zeroflteacg")
+        || codename.equals("zeroflteaio")
+        || codename.equals("zeroflteatt")
+        || codename.equals("zerofltebmc")
+        || codename.equals("zerofltechn")
+        || codename.equals("zerofltectc")
+        || codename.equals("zerofltektt")
+        || codename.equals("zerofltelgt")
+        || codename.equals("zerofltelra")
+        || codename.equals("zerofltemtr")
+        || codename.equals("zeroflteskt")
+        || codename.equals("zerofltespr")
+        || codename.equals("zerofltetfnvzw")
+        || codename.equals("zerofltetmo")
+        || codename.equals("zeroflteusc")
+        || codename.equals("zerofltevzw")))
+        || (model != null && (model.equals("SAMSUNG-SM-G920A")
+        || model.equals("SAMSUNG-SM-G920AZ")
+        || model.equals("SM-G9200")
+        || model.equals("SM-G9208")
+        || model.equals("SM-G9209")
+        || model.equals("SM-G920F")
+        || model.equals("SM-G920I")
+        || model.equals("SM-G920K")
+        || model.equals("SM-G920L")
+        || model.equals("SM-G920P")
+        || model.equals("SM-G920R4")
+        || model.equals("SM-G920R6")
+        || model.equals("SM-G920R7")
+        || model.equals("SM-G920S")
+        || model.equals("SM-G920T")
+        || model.equals("SM-G920T1")
+        || model.equals("SM-G920V")
+        || model.equals("SM-G920W8")
+        || model.equals("SM-G920X")
+        || model.equals("SM-S906L")))) {
+      return "Galaxy S6";
+    }
+    if ((codename != null && (codename.equals("404SC")
+        || codename.equals("SCV31")
+        || codename.equals("zerolte")
+        || codename.equals("zerolteacg")
+        || codename.equals("zerolteatt")
+        || codename.equals("zeroltebmc")
+        || codename.equals("zeroltechn")
+        || codename.equals("zeroltektt")
+        || codename.equals("zeroltelgt")
+        || codename.equals("zeroltelra")
+        || codename.equals("zerolteskt")
+        || codename.equals("zeroltespr")
+        || codename.equals("zeroltetmo")
+        || codename.equals("zerolteusc")
+        || codename.equals("zeroltevzw")))
+        || (model != null && (model.equals("404SC")
+        || model.equals("SAMSUNG-SM-G925A")
+        || model.equals("SCV31")
+        || model.equals("SM-G9250")
+        || model.equals("SM-G925F")
+        || model.equals("SM-G925I")
+        || model.equals("SM-G925K")
+        || model.equals("SM-G925L")
+        || model.equals("SM-G925P")
+        || model.equals("SM-G925R4")
+        || model.equals("SM-G925R6")
+        || model.equals("SM-G925R7")
+        || model.equals("SM-G925S")
+        || model.equals("SM-G925T")
+        || model.equals("SM-G925V")
+        || model.equals("SM-G925W8")
+        || model.equals("SM-G925X")))) {
+      return "Galaxy S6 Edge";
+    }
+    if ((codename != null && (codename.equals("zenlte")
+        || codename.equals("zenlteatt")
+        || codename.equals("zenltebmc")
+        || codename.equals("zenltechn")
+        || codename.equals("zenltektt")
+        || codename.equals("zenltekx")
+        || codename.equals("zenltelgt")
+        || codename.equals("zenlteskt")
+        || codename.equals("zenltespr")
+        || codename.equals("zenltetmo")
+        || codename.equals("zenltevzw")))
+        || (model != null && (model.equals("SAMSUNG-SM-G928A")
+        || model.equals("SM-G9280")
+        || model.equals("SM-G9287")
+        || model.equals("SM-G9287C")
+        || model.equals("SM-G928C")
+        || model.equals("SM-G928F")
+        || model.equals("SM-G928G")
+        || model.equals("SM-G928I")
+        || model.equals("SM-G928K")
+        || model.equals("SM-G928L")
+        || model.equals("SM-G928N0")
+        || model.equals("SM-G928P")
+        || model.equals("SM-G928S")
+        || model.equals("SM-G928T")
+        || model.equals("SM-G928V")
+        || model.equals("SM-G928W8")
+        || model.equals("SM-G928X")))) {
+      return "Galaxy S6 Edge+";
+    }
+    if ((codename != null && (codename.equals("GT-P7500")
+        || codename.equals("GT-P7500D")
+        || codename.equals("GT-P7503")
+        || codename.equals("GT-P7510")
+        || codename.equals("SC-01D")
+        || codename.equals("SCH-I905")
+        || codename.equals("SGH-T859")
+        || codename.equals("SHW-M300W")
+        || codename.equals("SHW-M380K")
+        || codename.equals("SHW-M380S")
+        || codename.equals("SHW-M380W")))
+        || (model != null && (model.equals("GT-P7500")
+        || model.equals("GT-P7500D")
+        || model.equals("GT-P7503")
+        || model.equals("GT-P7510")
+        || model.equals("SC-01D")
+        || model.equals("SCH-I905")
+        || model.equals("SGH-T859")
+        || model.equals("SHW-M300W")
+        || model.equals("SHW-M380K")
+        || model.equals("SHW-M380S")
+        || model.equals("SHW-M380W")))) {
+      return "Galaxy Tab 10.1";
+    }
+    if ((codename != null && (codename.equals("GT-P6200")
+        || codename.equals("GT-P6200L")
+        || codename.equals("GT-P6201")
+        || codename.equals("GT-P6210")
+        || codename.equals("GT-P6211")
+        || codename.equals("SC-02D")
+        || codename.equals("SGH-T869")
+        || codename.equals("SHW-M430W")))
+        || (model != null && (model.equals("GT-P6200")
+        || model.equals("GT-P6200L")
+        || model.equals("GT-P6201")
+        || model.equals("GT-P6210")
+        || model.equals("GT-P6211")
+        || model.equals("SC-02D")
+        || model.equals("SGH-T869")
+        || model.equals("SHW-M430W")))) {
+      return "Galaxy Tab 7.0 Plus";
+    }
+    if ((codename != null && (codename.equals("gtesqltespr")
+        || codename.equals("gtesqlteusc")))
+        || (model != null && (model.equals("SM-T377P")
+        || model.equals("SM-T377R4")))) {
+      return "Galaxy Tab E 8.0";
+    }
+    if ((codename != null && (codename.equals("gtel3g")
+        || codename.equals("gtelltevzw")
+        || codename.equals("gtelwifi")
+        || codename.equals("gtelwifichn")
+        || codename.equals("gtelwifiue")))
+        || (model != null && (model.equals("SM-T560")
+        || model.equals("SM-T560NU")
+        || model.equals("SM-T561")
+        || model.equals("SM-T561M")
+        || model.equals("SM-T561Y")
+        || model.equals("SM-T562")
+        || model.equals("SM-T567V")))) {
+      return "Galaxy Tab E 9.6";
+    }
+    if ((codename != null && (codename.equals("403SC")
+        || codename.equals("degas3g")
+        || codename.equals("degaslte")
+        || codename.equals("degasltespr")
+        || codename.equals("degasltevzw")
+        || codename.equals("degasvelte")
+        || codename.equals("degasveltechn")
+        || codename.equals("degaswifi")
+        || codename.equals("degaswifibmwzc")
+        || codename.equals("degaswifidtv")
+        || codename.equals("degaswifiopenbnn")
+        || codename.equals("degaswifiue")))
+        || (model != null && (model.equals("403SC")
+        || model.equals("SM-T230")
+        || model.equals("SM-T230NT")
+        || model.equals("SM-T230NU")
+        || model.equals("SM-T230NY")
+        || model.equals("SM-T230X")
+        || model.equals("SM-T231")
+        || model.equals("SM-T232")
+        || model.equals("SM-T235")
+        || model.equals("SM-T235Y")
+        || model.equals("SM-T237P")
+        || model.equals("SM-T237V")
+        || model.equals("SM-T239")
+        || model.equals("SM-T2397")
+        || model.equals("SM-T239C")
+        || model.equals("SM-T239M")))) {
+      return "Galaxy Tab4 7.0";
+    }
+    if ((codename != null && (codename.equals("gvlte")
+        || codename.equals("gvlteatt")
+        || codename.equals("gvltexsp")
+        || codename.equals("gvwifiue")))
+        || (model != null && (model.equals("SAMSUNG-SM-T677A")
+        || model.equals("SM-T670")
+        || model.equals("SM-T677")))) {
+      return "Galaxy View";
+    }
+    if ((codename != null && (codename.equals("GT-S5360")
+        || codename.equals("GT-S5360B")
+        || codename.equals("GT-S5360L")
+        || codename.equals("GT-S5360T")
+        || codename.equals("GT-S5363")
+        || codename.equals("GT-S5368")
+        || codename.equals("GT-S5369")
+        || codename.equals("SCH-I509")
+        || codename.equals("SCH-i509")))
+        || (model != null && (model.equals("GT-S5360")
+        || model.equals("GT-S5360B")
+        || model.equals("GT-S5360L")
+        || model.equals("GT-S5360T")
+        || model.equals("GT-S5363")
+        || model.equals("GT-S5368")
+        || model.equals("GT-S5369")
+        || model.equals("SCH-I509")
+        || model.equals("SCH-i509")))) {
+      return "Galaxy Y";
+    }
+    if ((codename != null && codename.equals("manta"))) {
+      return "Nexus 10";
+    }
+    // ----------------------------------------------------------------------------
+    // Sony
+    if ((codename != null && (codename.equals("D2104")
+        || codename.equals("D2105")))
+        || (model != null && (model.equals("D2104")
+        || model.equals("D2105")))) {
+      return "Xperia E1 dual";
+    }
+    if ((codename != null && (codename.equals("D2202")
+        || codename.equals("D2203")
+        || codename.equals("D2206")
+        || codename.equals("D2243")))
+        || (model != null && (model.equals("D2202")
+        || model.equals("D2203")
+        || model.equals("D2206")
+        || model.equals("D2243")))) {
+      return "Xperia E3";
+    }
+    if ((codename != null && (codename.equals("E5603")
+        || codename.equals("E5606")
+        || codename.equals("E5653")))
+        || (model != null && (model.equals("E5603")
+        || model.equals("E5606")
+        || model.equals("E5653")))) {
+      return "Xperia M5";
+    }
+    if ((codename != null && (codename.equals("E5633")
+        || codename.equals("E5643")
+        || codename.equals("E5663")))
+        || (model != null && (model.equals("E5633")
+        || model.equals("E5643")
+        || model.equals("E5663")))) {
+      return "Xperia M5 Dual";
+    }
+    if ((codename != null && (codename.equals("LT26i")))
+        || (model != null && (model.equals("LT26i")))) {
+      return "Xperia S";
+    }
+    if ((codename != null && (codename.equals("D5303")
+        || codename.equals("D5306")
+        || codename.equals("D5316")
+        || codename.equals("D5316N")
+        || codename.equals("D5322")))
+        || (model != null && (model.equals("D5303")
+        || model.equals("D5306")
+        || model.equals("D5316")
+        || model.equals("D5316N")
+        || model.equals("D5322")))) {
+      return "Xperia T2 Ultra";
+    }
+    if ((codename != null && (codename.equals("txs03")))
+        || (model != null && (model.equals("SGPT12")
+        || model.equals("SGPT13")))) {
+      return "Xperia Tablet S";
+    }
+    if ((codename != null && (codename.equals("SGP311")
+        || codename.equals("SGP312")
+        || codename.equals("SGP321")
+        || codename.equals("SGP351")))
+        || (model != null && (model.equals("SGP311")
+        || model.equals("SGP312")
+        || model.equals("SGP321")
+        || model.equals("SGP351")))) {
+      return "Xperia Tablet Z";
+    }
+    if ((codename != null && (codename.equals("D6502")
+        || codename.equals("D6503")
+        || codename.equals("D6543")
+        || codename.equals("SO-03F")))
+        || (model != null && (model.equals("D6502")
+        || model.equals("D6503")
+        || model.equals("D6543")
+        || model.equals("SO-03F")))) {
+      return "Xperia Z2";
+    }
+    if ((codename != null && (codename.equals("401SO")
+        || codename.equals("D6603")
+        || codename.equals("D6616")
+        || codename.equals("D6643")
+        || codename.equals("D6646")
+        || codename.equals("D6653")
+        || codename.equals("SO-01G")
+        || codename.equals("SOL26")
+        || codename.equals("leo")))
+        || (model != null && (model.equals("401SO")
+        || model.equals("D6603")
+        || model.equals("D6616")
+        || model.equals("D6643")
+        || model.equals("D6646")
+        || model.equals("D6653")
+        || model.equals("SO-01G")
+        || model.equals("SOL26")))) {
+      return "Xperia Z3";
+    }
+    if ((codename != null && (codename.equals("402SO")
+        || codename.equals("SO-03G")
+        || codename.equals("SOV31")))
+        || (model != null && (model.equals("402SO")
+        || model.equals("SO-03G")
+        || model.equals("SOV31")))) {
+      return "Xperia Z4";
+    }
+    if ((codename != null && (codename.equals("E5803")
+        || codename.equals("E5823")
+        || codename.equals("SO-02H")))
+        || (model != null && (model.equals("E5803")
+        || model.equals("E5823")
+        || model.equals("SO-02H")))) {
+      return "Xperia Z5 Compact";
+    }
+    // ----------------------------------------------------------------------------
+    // Sony Ericsson
+    if ((codename != null && (codename.equals("LT26i")
+        || codename.equals("SO-02D")))
+        || (model != null && (model.equals("LT26i")
+        || model.equals("SO-02D")))) {
+      return "Xperia S";
+    }
+    if ((codename != null && (codename.equals("SGP311")
+        || codename.equals("SGP321")
+        || codename.equals("SGP341")
+        || codename.equals("SO-03E")))
+        || (model != null && (model.equals("SGP311")
+        || model.equals("SGP321")
+        || model.equals("SGP341")
+        || model.equals("SO-03E")))) {
+      return "Xperia Tablet Z";
+    }
+    return fallback;
   }
 
   /**
