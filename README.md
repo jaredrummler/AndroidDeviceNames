@@ -1,4 +1,4 @@
-# AndroidDeviceNames [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidDeviceNames-green.svg?style=flat)](https://android-arsenal.com/details/1/2663)
+# Android Device Names [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names) [![License](http://img.shields.io/:license-apache-blue.svg)](LICENSE.txt)
 A small Android library to get the market name of an Android device.
 
 Download
