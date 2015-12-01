@@ -41,48 +41,66 @@ import java.net.URL;
 /**
  * <p>Get the consumer friendly name of an Android device.</p>
  *
- * <p>Unfortunately, on many popular devices, it is not easy to get the market name of the
- * device. For example, on the Samsung Galaxy S6 the value of {@link Build#MODEL}
- * could be "SM-G920F", "SM-G920I", "SM-G920W8", etc.</p>
+ * <p>On many popular devices the market name of the device is not available. For example, on the
+ * Samsung Galaxy S6 the value of {@link Build#MODEL} could be "SM-G920F", "SM-G920I", "SM-G920W8",
+ * etc.</p>
  *
- * <p>To get the market (consumer friendly) name of a device you can use one (or both) of the
- * following examples:</p>
+ * <p>See the usages below to get the consumer friends name of a device:</p>
  *
- * <b>Example 1:</b>
+ * <p><b>Get the name of the current device:</b></p>
  *
- * <br>
- * <p>{@code String deviceName = DeviceName.getDeviceName();}</p>
- * <b>Example 2:</b>
- * <br>
+ * <p>
+ * <blockquote>
  * <pre>
- * <code>
- *   DeviceName.with(context).request(new DeviceName.Callback() {
- *
- *       {@literal @}Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
- *           String deviceName;
- *           if (error != null) {
- *               deviceName = info.getName();
- *           } else {
- *               deviceName = DeviceName.getDeviceName();
- *           }
- *       }
- *   });
- * </code>
+ * String deviceName = DeviceName.getDeviceName();
  * </pre>
+ * </blockquote>
+ * </p>
  *
- * <p><b>Example 1:</b> contains over 600 popular Android devices and can be run on the UI thread.
- * If the current device is not in the list then {@link Build#MODEL} will be returned as a
- * fallback.</p>
+ * <p>The above code will get the correct device name for the top 600 Android devices. If the
+ * device is unrecognized, then Build.MODEL is returned. This can be executed from the UI
+ * thread.</p>
  *
- * <p><b>Example 2:</b> loads JSON from a generated list of device names based on Google's
- * maintained list and contains around 10,000 devices. This needs a network connection and is run
- * in a background thread.</p>
+ * <p><b>Get the name of a device using the device's codename:</b></p>
  *
- * @author Jared Rummler
+ * <p>
+ * <blockquote>
+ * <pre>
+ * // Retruns "Moto X Style"
+ * DeviceName.getDeviceName("clark", "Unknown device");
+ * </pre>
+ * </blockquote>
+ * </p>
+ *
+ * <p><b>Get information about the device:</b></p>
+ *
+ * <p>
+ * <blockquote>
+ * <pre>
+ * DeviceName.with(this).request(new DeviceName.Callback() {
+ *
+ *   {@literal @}Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
+ *     String manufacturer = info.manufacturer;  // "Samsung"
+ *     String name = info.marketName;            // "Galaxy S6 Edge"
+ *     String model = info.model;                // "SM-G925I"
+ *     String codename = info.codename;          // "zerolte"
+ *     String deviceName = info.getName();       // "Galaxy S6 Edge"
+ *   }
+ * });
+ * </pre>
+ * </blockquote>
+ * </p>
+ *
+ * <p>The above code loads JSON from a generated list of device names based on Google's maintained
+ * list. It will be up-to-date with Google's supported device list so that you will get the correct
+ * name for new or unknown devices. This supports over 10,000 devices.</p>
+ *
+ * <p>This will only make a network call once. The value is saved to SharedPreferences for future
+ * calls.</p>
  */
 public class DeviceName {
 
-  // JSON which is derived from Google's PDF document which contains all devices on Google Play
+  // JSON which is derived from Google's PDF document which contains all devices on Google Play.
   // To get the URL to the JSON file which contains information about the device name:
   // String url = String.format(DEVICE_JSON_URL, Build.DEVICE);
   private static final String DEVICE_JSON_URL =
