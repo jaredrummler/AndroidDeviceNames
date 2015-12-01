@@ -21,6 +21,9 @@ import java.io.File;
 
 public class Constants {
 
+  // https://support.google.com/googleplay/answer/1727131?hl=en
+  public static final String LATEST_XLS = "supported_devices_11-30-2015.xls";
+
   public static final File JSON_DIR = new File("json");
 
   public static final File CODENAMES_DIR = new File(JSON_DIR, "codenames");

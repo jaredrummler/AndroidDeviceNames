@@ -31,9 +31,6 @@ import java.util.List;
 
 public class Main {
 
-  // https://support.google.com/googleplay/answer/1727131?hl=en
-  private static final String LATEST_DEVICE_LIST_XLS = "supported_devices_11-30-2015.xls";
-
   public static void main(String[] args) throws Exception {
     Main main = new Main();
     List<Device> devices = main.getLatestDevices();
@@ -41,13 +38,11 @@ public class Main {
     DevicesToJava.printGetDeviceNameMethod(devices);
   }
 
-  private final Gson GSON = new Gson();
-
-  private final Type DEVICE_TYPE = new TypeToken<List<Device>>() {
-
-  }.getType();
-
   public List<Device> getDevicesFromJson(File file) throws FileNotFoundException {
+    final Gson GSON = new Gson();
+    final Type DEVICE_TYPE = new TypeToken<List<Device>>() {
+
+    }.getType();
     return GSON.fromJson(new JsonReader(new FileReader(file)), DEVICE_TYPE);
   }
 
@@ -56,15 +51,15 @@ public class Main {
   }
 
   public List<Device> getLatestDevices() throws IOException {
-    return getDeviceFromXls(ClassLoader.getSystemResourceAsStream(LATEST_DEVICE_LIST_XLS));
+    return getDeviceFromXls(ClassLoader.getSystemResourceAsStream(Constants.LATEST_XLS));
   }
 
   public void createJsonFiles(List<Device> devices) throws IOException {
-    DevicesToJson devicesToJson = new DevicesToJson(devices);
-    devicesToJson.createDevicesJson(Constants.DEVICES_JSON);
-    devicesToJson.createCodenamesJson(Constants.CODENAMES_DIR);
-    devicesToJson.createManufacturersJson(Constants.MANUFACTURERS_DIR);
-    devicesToJson.createPopularDevicesJson(Constants.POPULAR_DEVICES_JSON);
+    DevicesToJson toJson = new DevicesToJson(devices);
+    toJson.createDevicesJson(Constants.DEVICES_JSON);
+    toJson.createCodenamesJson(Constants.CODENAMES_DIR);
+    toJson.createManufacturersJson(Constants.MANUFACTURERS_DIR);
+    toJson.createPopularDevicesJson(Constants.POPULAR_DEVICES_JSON);
   }
 
 }
