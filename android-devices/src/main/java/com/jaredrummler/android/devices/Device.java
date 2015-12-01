@@ -39,4 +39,38 @@ public class Device {
     this.codename = codename;
     this.model = model;
   }
+
+  @Override public boolean equals(Object o) {
+    if (this == o) return true;
+    if (o == null || getClass() != o.getClass()) return false;
+
+    Device device = (Device) o;
+
+    if (manufacturer != null ? !manufacturer.equals(device.manufacturer) :
+        device.manufacturer != null) return false;
+    if (marketName != null ? !marketName.equals(device.marketName) : device.marketName != null)
+      return false;
+    if (codename != null ? !codename.equals(device.codename) : device.codename != null)
+      return false;
+    return !(model != null ? !model.equals(device.model) : device.model != null);
+
+  }
+
+  @Override public int hashCode() {
+    int result = manufacturer != null ? manufacturer.hashCode() : 0;
+    result = 31 * result + (marketName != null ? marketName.hashCode() : 0);
+    result = 31 * result + (codename != null ? codename.hashCode() : 0);
+    result = 31 * result + (model != null ? model.hashCode() : 0);
+    return result;
+  }
+
+  @Override public String toString() {
+    return "Device{" +
+        "manufacturer='" + manufacturer + '\'' +
+        ", marketName='" + marketName + '\'' +
+        ", codename='" + codename + '\'' +
+        ", model='" + model + '\'' +
+        '}';
+  }
+
 }

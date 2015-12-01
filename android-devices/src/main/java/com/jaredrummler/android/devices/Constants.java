@@ -33,6 +33,7 @@ public class Constants {
 
   public static final String[] POPULAR_DEVICES = {
       // Acer
+      "ASUS Live",
       "Iconia Tab 7",
       "Iconia Tab 8",
       "Iconia Tab 10",
@@ -57,7 +58,9 @@ public class Constants {
       "MeMO Pad 7",
 
       // Huawei
+      "Nexus 6P",
       "Honor3",
+      "Mate S",
 
       // HTC
       "Nexus 9",
@@ -66,9 +69,14 @@ public class Constants {
       "HTC One (E8)",
       "HTC One (M8)",
       "HTC One M9",
+      "Desire 828",
+      "Desire626",
+      "HTC One A9",
 
       // LGE
+      "Nexus 5X",
       "Nexus 5",
+      "Nexus 4",
       "LG G Flex",
       "LG G Flex2",
       "LG G2",
@@ -98,6 +106,8 @@ public class Constants {
       "XOOM",
 
       // OnePlus
+      "OnePlus",
+      "OnePlus2",
       "OnePlus One",
 
       // SAMSUNG
@@ -108,6 +118,7 @@ public class Constants {
       "Galaxy Ace Plus",
       "Galaxy Ace Style",
       "Galaxy Core Prime",
+      "Galaxy Go Prime",
       "Galaxy Core2",
       "Galaxy Alpha",
       "Galaxy Ace 4",
@@ -117,10 +128,16 @@ public class Constants {
       "Galaxy Note Edge",
       "Galaxy Note Pro 12.2",
       "Galaxy Tab 10.1",
+      "Galaxy Tab E 8.0",
+      "Galaxy Tab E 9.6",
       "Galaxy Tab 7.0 Plus",
       "Galaxy Tab4 7.0",
       "Galaxy E5",
       "Galaxy E7",
+      "Galaxy J7",
+      "Galaxy View",
+      "Galaxy On5",
+      "Galaxy On7",
       "Galaxy Fame",
       "Galaxy Grand2",
       "Galaxy Grand Neo",
@@ -128,6 +145,7 @@ public class Constants {
       "Galaxy S Duos2",
       "Galaxy S Duos3",
       "Galaxy S3 Neo",
+      "Galaxy S5 Neo",
       "Galaxy Nexus",
       "Galaxy Note2",
       "Galaxy Note3",
@@ -139,11 +157,15 @@ public class Constants {
       "Galaxy S3",
       "Galaxy S3 Mini",
       "Galaxy S4",
+      "Galaxy S4 Mini",
       "Galaxy S5",
       "Galaxy S6",
       "Galaxy S6 Edge",
       "Galaxy S6 Edge+",
       "Nexus 10",
+
+      // Lenovo
+      "Lenovo A7-30GC",
 
       // SONY
       "Xperia E3",
@@ -153,6 +175,7 @@ public class Constants {
       "Xperia Tablet Z",
       "Xperia M5",
       "Xperia M5 Dual",
+      "Xperia E1 dual",
       "Xperia Z2",
       "Xperia Z3",
       "Xperia Z4",

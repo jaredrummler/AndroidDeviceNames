@@ -17,9 +17,18 @@
 
 package com.jaredrummler.android.devices;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+import com.google.gson.stream.JsonReader;
+
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
+import java.lang.reflect.Type;
 import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
+import java.util.stream.Collectors;
 
 public class Main {
 
@@ -27,6 +36,10 @@ public class Main {
   private static final String LATEST_DEVICE_LIST_XLS = "supported_devices_11-30-2015.xls";
 
   public static void main(String[] args) throws IOException {
+    printNewDevices();
+  }
+
+  private static void createJsonManifests() throws IOException {
     InputStream inputStream = ClassLoader.getSystemResourceAsStream(LATEST_DEVICE_LIST_XLS);
     DevicesParser parser = new DevicesParser();
     List<Device> devices = parser.getDevices(inputStream);
@@ -36,6 +49,24 @@ public class Main {
     devicesToJson.createManufacturersJson(Constants.MANUFACTURERS_DIR);
     devicesToJson.createPopularDevicesJson(Constants.POPULAR_DEVICES_JSON);
     DevicesToJava.printMethod(devices);
+  }
+
+  // print new devices before creating the new JSON files.
+  private static void printNewDevices() throws IOException {
+    InputStream inputStream = ClassLoader.getSystemResourceAsStream(LATEST_DEVICE_LIST_XLS);
+    DevicesParser parser = new DevicesParser();
+    List<Device> newDeviceList = parser.getDevices(inputStream);
+    final Type DEVICE_TYPE = new TypeToken<List<Device>>() {
+
+    }.getType();
+    Gson gson = new Gson();
+    JsonReader reader = new JsonReader(new FileReader("json/devices.json"));
+    List<Device> oldDeviceList = gson.fromJson(reader, DEVICE_TYPE);
+    Set<String> devices =
+        newDeviceList.stream().filter(device -> !oldDeviceList.contains(device)).map(
+            device -> device.marketName + " : " + device.manufacturer)
+            .collect(Collectors.toCollection(TreeSet::new));
+    devices.forEach(System.out::println);
   }
 
 }
