@@ -980,7 +980,7 @@ public class DeviceName {
         reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
         String line;
         while ((line = reader.readLine()) != null) {
-          sb.append(line + "\n");
+          sb.append(line).append('\n');
         }
       }
       return sb.toString();
