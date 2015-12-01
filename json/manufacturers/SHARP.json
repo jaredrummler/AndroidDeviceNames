@@ -57,6 +57,11 @@
       "model": "402SH"
     },
     {
+      "market_name": "AQUOS Compact SH-02H",
+      "codename": "SH-02H",
+      "model": "SH-02H"
+    },
+    {
       "market_name": "AQUOS EVER SH-04G",
       "codename": "SH-04G",
       "model": "SH-04G"
@@ -207,17 +212,17 @@
       "model": "SBM104SH"
     },
     {
-      "market_name": "AQUOS PHONE THE HYBRID SoftBank 007SH",
+      "market_name": "AQUOS PHONE THE HYBRID SoftBank\n007SH",
       "codename": "SBM007SH",
       "model": "SBM007SH"
     },
     {
-      "market_name": "AQUOS PHONE THE HYBRID SoftBank 007SH J",
+      "market_name": "AQUOS PHONE THE HYBRID SoftBank\n007SH J",
       "codename": "SBM007SHJ",
       "model": "SBM007SHJ"
     },
     {
-      "market_name": "AQUOS PHONE THE HYBRID SoftBank 101SH",
+      "market_name": "AQUOS PHONE THE HYBRID SoftBank\n101SH",
       "codename": "SBM101SH",
       "model": "SBM101SH"
     },
@@ -332,6 +337,16 @@
       "model": "SH-M01"
     },
     {
+      "market_name": "AQUOS SH-M02",
+      "codename": "SH-M02",
+      "model": "SH-M02"
+    },
+    {
+      "market_name": "AQUOS SH-RM02",
+      "codename": "SH-RM02",
+      "model": "SH-RM02"
+    },
+    {
       "market_name": "AQUOS Xx",
       "codename": "SG404SH",
       "model": "404SH"
@@ -342,9 +357,19 @@
       "model": "304SH"
     },
     {
+      "market_name": "AQUOS Xx2",
+      "codename": "SG502SH",
+      "model": "502SH"
+    },
+    {
       "market_name": "AQUOS ZETA SH-01G",
       "codename": "SH-01G",
       "model": "SH-01G"
+    },
+    {
+      "market_name": "AQUOS ZETA SH-01H",
+      "codename": "SH-01H",
+      "model": "SH-01H"
     },
     {
       "market_name": "AQUOS ZETA SH-03G",
@@ -357,7 +382,7 @@
       "model": "SH-04F"
     },
     {
-      "market_name": "AQUOS\n\\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\x a4 SH-06G",
+      "market_name": "AQUOS\n\\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x8\n2\\xa4 SH-06G",
       "codename": "SH-06G",
       "model": "SH-06G"
     },

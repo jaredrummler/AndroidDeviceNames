@@ -178,16 +178,16 @@
     },
     {
       "market_name": "Xperia C5 Ultra",
-      "codename": "E5533",
-      "model": "E5533"
-    },
-    {
-      "market_name": "Xperia C5 Ultra",
       "codename": "E5553",
       "model": "E5553"
     },
     {
-      "market_name": "Xperia C5 Ultra",
+      "market_name": "Xperia C5 Ultra Dual",
+      "codename": "E5533",
+      "model": "E5533"
+    },
+    {
+      "market_name": "Xperia C5 Ultra Dual",
       "codename": "E5563",
       "model": "E5563"
     },
@@ -788,6 +788,11 @@
     },
     {
       "market_name": "Xperia Z3",
+      "codename": "D6646",
+      "model": "D6646"
+    },
+    {
+      "market_name": "Xperia Z3",
       "codename": "D6653",
       "model": "D6653"
     },
@@ -907,6 +912,31 @@
       "model": "E6508"
     },
     {
+      "market_name": "Xperia Z5",
+      "codename": "501SO",
+      "model": "501SO"
+    },
+    {
+      "market_name": "Xperia Z5",
+      "codename": "E6603",
+      "model": "E6603"
+    },
+    {
+      "market_name": "Xperia Z5",
+      "codename": "E6653",
+      "model": "E6653"
+    },
+    {
+      "market_name": "Xperia Z5",
+      "codename": "SO-01H",
+      "model": "SO-01H"
+    },
+    {
+      "market_name": "Xperia Z5",
+      "codename": "SOV32",
+      "model": "SOV32"
+    },
+    {
       "market_name": "Xperia Z5 Compact",
       "codename": "E5803",
       "model": "E5803"
@@ -915,6 +945,41 @@
       "market_name": "Xperia Z5 Compact",
       "codename": "E5823",
       "model": "E5823"
+    },
+    {
+      "market_name": "Xperia Z5 Compact",
+      "codename": "SO-02H",
+      "model": "SO-02H"
+    },
+    {
+      "market_name": "Xperia Z5 Premium",
+      "codename": "E6853",
+      "model": "E6853"
+    },
+    {
+      "market_name": "Xperia Z5 Premium",
+      "codename": "SO-03H",
+      "model": "SO-03H"
+    },
+    {
+      "market_name": "Xperia Z5 Premium Dual",
+      "codename": "E6833",
+      "model": "E6833"
+    },
+    {
+      "market_name": "Xperia Z5 Premium Dual",
+      "codename": "E6883",
+      "model": "E6883"
+    },
+    {
+      "market_name": "Xperia Z5 dual",
+      "codename": "E6633",
+      "model": "E6633"
+    },
+    {
+      "market_name": "Xperia Z5 dual",
+      "codename": "E6683",
+      "model": "E6683"
     },
     {
       "market_name": "Xperia ZL",

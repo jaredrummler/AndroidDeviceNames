@@ -507,9 +507,9 @@
       "model": "Orange_infinity_996"
     },
     {
-      "market_name": "4009M",
-      "codename": "PIXI3_35",
-      "model": "4009M"
+      "market_name": "\\t ALCATEL ONETOUCH PIXI 3 (4.5)",
+      "codename": "PIXI3_45_4G",
+      "model": "5017X"
     },
     {
       "market_name": "4013M",
@@ -527,21 +527,6 @@
       "model": "4014M"
     },
     {
-      "market_name": "5017D",
-      "codename": "PIXI3_45_4G",
-      "model": "5017D"
-    },
-    {
-      "market_name": "5017E",
-      "codename": "PIXI3_45_4G",
-      "model": "5017E"
-    },
-    {
-      "market_name": "5017X",
-      "codename": "PIXI3_45_4G",
-      "model": "5017X"
-    },
-    {
       "market_name": "5038D",
       "codename": "SOUL45_GSM",
       "model": "5038D"
@@ -550,6 +535,41 @@
       "market_name": "5042T",
       "codename": "ALTO45TMO",
       "model": "5042T"
+    },
+    {
+      "market_name": "5054A",
+      "codename": "Pop355",
+      "model": "5054A"
+    },
+    {
+      "market_name": "5054D",
+      "codename": "Pop355",
+      "model": "5054D"
+    },
+    {
+      "market_name": "5054W",
+      "codename": "Pop355",
+      "model": "5054W"
+    },
+    {
+      "market_name": "5065A",
+      "codename": "Pop35",
+      "model": "5065A"
+    },
+    {
+      "market_name": "5065D",
+      "codename": "Pop35",
+      "model": "5065D"
+    },
+    {
+      "market_name": "5065W",
+      "codename": "Pop35",
+      "model": "5065W"
+    },
+    {
+      "market_name": "5065X",
+      "codename": "Pop35",
+      "model": "5065X"
     },
     {
       "market_name": "6010A",
@@ -702,6 +722,16 @@
       "model": "KR076"
     },
     {
+      "market_name": "8070.0",
+      "codename": "Pixi3-8_WIFI",
+      "model": "8070.0"
+    },
+    {
+      "market_name": "8079.0",
+      "codename": "Pixi3-10_WiFi",
+      "model": "8079.0"
+    },
+    {
       "market_name": "8080.0",
       "codename": "Pixi3-10_WiFi",
       "model": "8080.0"
@@ -730,6 +760,11 @@
       "market_name": "9006W",
       "codename": "Pixi2-7_4G_TMO",
       "model": "9006W"
+    },
+    {
+      "market_name": "9007X",
+      "codename": "Pixi3-7_4G_EE",
+      "model": "9007X"
     },
     {
       "market_name": "9020A",
@@ -1619,6 +1654,16 @@
     {
       "market_name": "ALCATEL ONETOUCH IDOL 3 (5.5)",
       "codename": "idol3",
+      "model": "6045B"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH IDOL 3 (5.5)",
+      "codename": "idol3",
+      "model": "6045F"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH IDOL 3 (5.5)",
+      "codename": "idol3",
       "model": "6045I"
     },
     {
@@ -1632,6 +1677,11 @@
       "model": "6045Y"
     },
     {
+      "market_name": "ALCATEL ONETOUCH IDOL 3 (5.5)",
+      "codename": "idol3",
+      "model": "TCL i806"
+    },
+    {
       "market_name": "ALCATEL ONETOUCH P310A",
       "codename": "POP7",
       "model": "ALCATEL ONE TOUCH P310A"
@@ -1640,6 +1690,126 @@
       "market_name": "ALCATEL ONETOUCH P310A",
       "codename": "POP7",
       "model": "ALCATEL ONETOUCH P310A"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009A"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009D"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009E"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009F"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009K"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009M"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009S"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (3.5)",
+      "codename": "PIXI3_35",
+      "model": "4009X"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (4.5)",
+      "codename": "PIXI3_45_4G",
+      "model": "5017A"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (4.5)",
+      "codename": "PIXI3_45_4G",
+      "model": "5017D"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (4.5)",
+      "codename": "PIXI3_45_4G",
+      "model": "5017E"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI\\xe2\\x84\\xa2 3 (4.5)",
+      "codename": "PIXI3_45_4G",
+      "model": "5017O"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5)",
+      "codename": "PIXI3-5",
+      "model": "5015A"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5)",
+      "codename": "PIXI3-5",
+      "model": "5015D"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5)",
+      "codename": "PIXI3-5",
+      "model": "5015E"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5)",
+      "codename": "PIXI3-5",
+      "model": "5015X"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5)",
+      "codename": "PIXI3-5",
+      "model": "5016A"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5)",
+      "codename": "PIXI3-5",
+      "model": "5016J"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5.5)",
+      "codename": "PIXI3-55",
+      "model": "5025D"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5.5)",
+      "codename": "PIXI3-55",
+      "model": "5025E"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5.5)",
+      "codename": "PIXI3-55",
+      "model": "5025G"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5.5)",
+      "codename": "PIXI3-55",
+      "model": "5025X"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5.5)",
+      "codename": "PIXI3-55",
+      "model": "DIGICEL DL1000"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH POP 3 (5.5)",
+      "codename": "PIXI3-55",
+      "model": "S4035 3G"
     },
     {
       "market_name": "ALCATEL ONETOUCH POP D3",
@@ -2347,6 +2517,21 @@
       "model": "ONE_TOUCH_960C"
     },
     {
+      "market_name": "ONETOUCH PIXI 3 (8)",
+      "codename": "pixi384g",
+      "model": "9022X"
+    },
+    {
+      "market_name": "ONETOUCH PIXI3(7)",
+      "codename": "pixi37",
+      "model": "9007A"
+    },
+    {
+      "market_name": "ONETOUCH PIXI3(7)",
+      "codename": "pixi37",
+      "model": "9007X"
+    },
+    {
       "market_name": "ONE_TOUCH_P310A",
       "codename": "POP7",
       "model": "ONE TOUCH P310A"
@@ -2502,36 +2687,6 @@
       "model": "TOM007"
     },
     {
-      "market_name": "PIXI3(3.5)",
-      "codename": "PIXI3_35",
-      "model": "4009A"
-    },
-    {
-      "market_name": "PIXI3(3.5)",
-      "codename": "PIXI3_35",
-      "model": "4009D"
-    },
-    {
-      "market_name": "PIXI3(3.5)",
-      "codename": "PIXI3_35",
-      "model": "4009E"
-    },
-    {
-      "market_name": "PIXI3(3.5)",
-      "codename": "PIXI3_35",
-      "model": "4009F"
-    },
-    {
-      "market_name": "PIXI3(3.5)",
-      "codename": "PIXI3_35",
-      "model": "4009S"
-    },
-    {
-      "market_name": "PIXI3(3.5)",
-      "codename": "PIXI3_35",
-      "model": "4009X"
-    },
-    {
       "market_name": "PIXI3(4)",
       "codename": "Pixi3-4",
       "model": "4003A"
@@ -2607,6 +2762,21 @@
       "model": "4028E"
     },
     {
+      "market_name": "PIXI3(4.5)",
+      "codename": "Pixi3-45",
+      "model": "4028J"
+    },
+    {
+      "market_name": "PIXI3(4.5)",
+      "codename": "Pixi3-45",
+      "model": "4028S"
+    },
+    {
+      "market_name": "PLAY_P1",
+      "codename": "PLAY_P1",
+      "model": "4024D"
+    },
+    {
       "market_name": "POP 2",
       "codename": "Alto45",
       "model": "5042A"
@@ -2635,6 +2805,11 @@
       "market_name": "POP 2 (5)",
       "codename": "alto5",
       "model": "7043Y"
+    },
+    {
+      "market_name": "POP 2 (5)",
+      "codename": "alto5_premium",
+      "model": "7044A"
     },
     {
       "market_name": "POP 2 (5)",
@@ -2704,12 +2879,32 @@
     {
       "market_name": "POP2 (4)",
       "codename": "alto4_8g",
+      "model": "4045A"
+    },
+    {
+      "market_name": "POP2 (4)",
+      "codename": "alto4_8g",
       "model": "4045D"
     },
     {
       "market_name": "POP2 (4)",
       "codename": "alto4_8g",
+      "model": "4045L"
+    },
+    {
+      "market_name": "POP2 (4)",
+      "codename": "alto4_8g",
+      "model": "4045O"
+    },
+    {
+      "market_name": "POP2 (4)",
+      "codename": "alto4_8g",
       "model": "4045X"
+    },
+    {
+      "market_name": "POP2 (4.5)",
+      "codename": "alto45_latam_b28",
+      "model": "5042G"
     },
     {
       "market_name": "POP2 (4.5)",
@@ -2764,7 +2959,7 @@
     {
       "market_name": "Smartphone Android by SFR STARADDICT II",
       "codename": "one_touch_996_gsm",
-      "model": "Smartphone_Android_by_SFR_STARADDICT_I I"
+      "model": "Smartphone_Android_by_SFR_STARADDIC T_II"
     },
     {
       "market_name": "Soul 3.5",
@@ -3337,6 +3532,21 @@
       "model": "Vodafone Smart II"
     },
     {
+      "market_name": "VF-1296",
+      "codename": "voda_tab",
+      "model": "Vodacom Power Tab 10"
+    },
+    {
+      "market_name": "VF-1296",
+      "codename": "voda_tab",
+      "model": "Vodafone Tab grand 6"
+    },
+    {
+      "market_name": "VF-1397",
+      "codename": "Vodafone_Tab_speed_6",
+      "model": "VF-1397"
+    },
+    {
       "market_name": "VF-1497",
       "codename": "Vodafone_Tab_Prime",
       "model": "VF-1497"
@@ -3420,6 +3630,11 @@
       "market_name": "freebit PandA_m14",
       "codename": "YARIS_55",
       "model": "freebit PandA_m14"
+    },
+    {
+      "market_name": "n1 max",
+      "codename": "m823_cmcc",
+      "model": "M823"
     },
     {
       "market_name": "one touch 995C+",

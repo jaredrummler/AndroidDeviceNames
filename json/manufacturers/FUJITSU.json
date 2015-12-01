@@ -182,6 +182,11 @@
       "model": "F-02G"
     },
     {
+      "market_name": "F-02H",
+      "codename": "F02H",
+      "model": "F-02H"
+    },
+    {
       "market_name": "F-03F",
       "codename": "F03F",
       "model": "F-03F"
@@ -297,6 +302,11 @@
       "model": "T-02D"
     },
     {
+      "market_name": "RM02",
+      "codename": "M02",
+      "model": "RM02"
+    },
+    {
       "market_name": "Raku-Raku SMART PHONE F-12D",
       "codename": "F12D",
       "model": "F-12D"
@@ -335,6 +345,11 @@
       "market_name": "SZJ-JS101",
       "codename": "SZJ101",
       "model": "SZJ-JS101"
+    },
+    {
+      "market_name": "arrows M02",
+      "codename": "M02",
+      "model": "M02"
     }
   ]
 }

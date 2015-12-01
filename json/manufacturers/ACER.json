@@ -152,6 +152,11 @@
       "model": "b1-721"
     },
     {
+      "market_name": "B1-723",
+      "codename": "oban",
+      "model": "B1-723"
+    },
+    {
       "market_name": "B1-730",
       "codename": "vespatn",
       "model": "B1-730"
@@ -235,6 +240,11 @@
       "market_name": "G100W",
       "codename": "maya",
       "model": "G100W"
+    },
+    {
+      "market_name": "GT-810",
+      "codename": "rolex",
+      "model": "GT-810"
     },
     {
       "market_name": "I110",
@@ -482,6 +492,11 @@
       "model": "S53"
     },
     {
+      "market_name": "Liquid X2",
+      "codename": "acer_S59",
+      "model": "S59"
+    },
+    {
       "market_name": "Liquid Z200",
       "codename": "acer_z200",
       "model": "Z200"
@@ -517,6 +532,16 @@
       "model": "Z130"
     },
     {
+      "market_name": "Liquid Z320",
+      "codename": "T012",
+      "model": "T012"
+    },
+    {
+      "market_name": "Liquid Z330",
+      "codename": "T01",
+      "model": "T01"
+    },
+    {
       "market_name": "Liquid Z4",
       "codename": "acer_Z6",
       "model": "Z160"
@@ -542,9 +567,24 @@
       "model": "Z520"
     },
     {
+      "market_name": "Liquid Z530",
+      "codename": "acer_T02",
+      "model": "T02"
+    },
+    {
+      "market_name": "Liquid Z530S",
+      "codename": "acer_t05",
+      "model": "T05"
+    },
+    {
       "market_name": "Liquid Z630",
       "codename": "acer_t03",
       "model": "T03"
+    },
+    {
+      "market_name": "Liquid Z630S",
+      "codename": "acer_t04",
+      "model": "T04"
     },
     {
       "market_name": "LiquidMT",

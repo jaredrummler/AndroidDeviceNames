@@ -72,6 +72,11 @@
       "model": "M210"
     },
     {
+      "market_name": "InFocus M260",
+      "codename": "ZL2",
+      "model": "InFocus M260"
+    },
+    {
       "market_name": "InFocus M310",
       "codename": "H1W",
       "model": "InFocus M310"
@@ -107,6 +112,11 @@
       "model": "M370i"
     },
     {
+      "market_name": "InFocus M372",
+      "codename": "FOT",
+      "model": "M372"
+    },
+    {
       "market_name": "InFocus M510t",
       "codename": "TID",
       "model": "InFocus M510t"
@@ -125,6 +135,16 @@
       "market_name": "InFocus M550 3D",
       "codename": "ZD1",
       "model": "InFocus M550 3D"
+    },
+    {
+      "market_name": "InFocus M680",
+      "codename": "G42",
+      "model": "InFocus M680"
+    },
+    {
+      "market_name": "InFocus M808",
+      "codename": "ZM1",
+      "model": "InFocus M808"
     },
     {
       "market_name": "InFocus M808i",
@@ -235,6 +255,11 @@
       "market_name": "M518",
       "codename": "MC2_APT",
       "model": "M518"
+    },
+    {
+      "market_name": "M535_00WW",
+      "codename": "G40",
+      "model": "InFocus M535"
     },
     {
       "market_name": "Smart503",

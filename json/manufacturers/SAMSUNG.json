@@ -483,6 +483,11 @@
     },
     {
       "market_name": "Galaxy A5",
+      "codename": "a5ultebmc",
+      "model": "SM-A500W"
+    },
+    {
+      "market_name": "Galaxy A5",
       "codename": "a5ultektt",
       "model": "SM-A500K"
     },
@@ -565,6 +570,16 @@
       "market_name": "Galaxy A8",
       "codename": "a8elteskt",
       "model": "SM-A800S"
+    },
+    {
+      "market_name": "Galaxy A8",
+      "codename": "a8hplte",
+      "model": "SM-A800I"
+    },
+    {
+      "market_name": "Galaxy A8",
+      "codename": "a8hplte",
+      "model": "SM-A800IZ"
     },
     {
       "market_name": "Galaxy A8",
@@ -1293,6 +1308,11 @@
     },
     {
       "market_name": "Galaxy Core Prime",
+      "codename": "coreprimeltelra",
+      "model": "SM-G360R6"
+    },
+    {
+      "market_name": "Galaxy Core Prime",
       "codename": "coreprimeltespr",
       "model": "SM-G360P"
     },
@@ -1737,6 +1757,11 @@
       "model": "SHW-M290S"
     },
     {
+      "market_name": "Galaxy Go Prime",
+      "codename": "grandprimelteatt",
+      "model": "SAMSUNG-SM-G530A"
+    },
+    {
       "market_name": "Galaxy Golden",
       "codename": "ks02lte",
       "model": "GT-I9230"
@@ -1948,8 +1973,23 @@
     },
     {
       "market_name": "Galaxy Grand Prime",
+      "codename": "gprimelteacg",
+      "model": "SM-G530R7"
+    },
+    {
+      "market_name": "Galaxy Grand Prime",
+      "codename": "gprimelteacg",
+      "model": "gprimelteacg"
+    },
+    {
+      "market_name": "Galaxy Grand Prime",
       "codename": "gprimeltecan",
       "model": "SM-G530W"
+    },
+    {
+      "market_name": "Galaxy Grand Prime",
+      "codename": "gprimeltemtr",
+      "model": "SM-G530T1"
     },
     {
       "market_name": "Galaxy Grand Prime",
@@ -2147,6 +2187,11 @@
       "model": "SM-J100VPP"
     },
     {
+      "market_name": "Galaxy J1",
+      "codename": "j1xlte",
+      "model": "SM-J120F"
+    },
+    {
       "market_name": "Galaxy J1 Ace",
       "codename": "j1acelte",
       "model": "SM-J110F"
@@ -2202,6 +2247,16 @@
       "model": "SM-J200Y"
     },
     {
+      "market_name": "Galaxy J2",
+      "codename": "j2ltedtv",
+      "model": "SM-J200BT"
+    },
+    {
+      "market_name": "Galaxy J3",
+      "codename": "j3ltectc",
+      "model": "SM-J3109"
+    },
+    {
       "market_name": "Galaxy J5",
       "codename": "j53g",
       "model": "SM-J500H"
@@ -2245,6 +2300,11 @@
       "market_name": "Galaxy J5",
       "codename": "j5ylte",
       "model": "SM-J500Y"
+    },
+    {
+      "market_name": "Galaxy J7",
+      "codename": "j75ltektt",
+      "model": "SM-J700K"
     },
     {
       "market_name": "Galaxy J7",
@@ -3383,6 +3443,11 @@
     },
     {
       "market_name": "Galaxy Note5",
+      "codename": "noblelteacg",
+      "model": "SM-N920R7"
+    },
+    {
+      "market_name": "Galaxy Note5",
       "codename": "noblelteatt",
       "model": "SAMSUNG-SM-N920A"
     },
@@ -3418,6 +3483,11 @@
     },
     {
       "market_name": "Galaxy Note5",
+      "codename": "nobleltelra",
+      "model": "SM-N920R6"
+    },
+    {
+      "market_name": "Galaxy Note5",
       "codename": "noblelteskt",
       "model": "SM-N920S"
     },
@@ -3440,6 +3510,26 @@
       "market_name": "Galaxy Note5",
       "codename": "nobleltevzw",
       "model": "SM-N920V"
+    },
+    {
+      "market_name": "Galaxy On5",
+      "codename": "o5lte",
+      "model": "SM-G550FY"
+    },
+    {
+      "market_name": "Galaxy On5",
+      "codename": "o5ltechn",
+      "model": "SM-G5500"
+    },
+    {
+      "market_name": "Galaxy On7",
+      "codename": "o7lte",
+      "model": "SM-G600FY"
+    },
+    {
+      "market_name": "Galaxy On7",
+      "codename": "o7ltechn",
+      "model": "SM-G6000"
     },
     {
       "market_name": "Galaxy Player",
@@ -4578,6 +4668,11 @@
     },
     {
       "market_name": "Galaxy S4",
+      "codename": "jfltevzwpp",
+      "model": "SCH-I545PP"
+    },
+    {
+      "market_name": "Galaxy S4",
       "codename": "jftdd",
       "model": "GT-I9507"
     },
@@ -4977,6 +5072,11 @@
       "model": "SM-G903M"
     },
     {
+      "market_name": "Galaxy S5 Neo",
+      "codename": "s5neoltecan",
+      "model": "SM-G903W"
+    },
+    {
       "market_name": "Galaxy S5 mini",
       "codename": "kmini3g",
       "model": "SM-G800HQ"
@@ -5245,6 +5345,11 @@
       "market_name": "Galaxy S6 Edge+",
       "codename": "zenltektt",
       "model": "SM-G928K"
+    },
+    {
+      "market_name": "Galaxy S6 Edge+",
+      "codename": "zenltekx",
+      "model": "SM-G928N0"
     },
     {
       "market_name": "Galaxy S6 Edge+",
@@ -5817,6 +5922,16 @@
       "model": "SM-T357W"
     },
     {
+      "market_name": "Galaxy Tab E 8.0",
+      "codename": "gtesqltespr",
+      "model": "SM-T377P"
+    },
+    {
+      "market_name": "Galaxy Tab E 8.0",
+      "codename": "gtesqlteusc",
+      "model": "SM-T377R4"
+    },
+    {
       "market_name": "Galaxy Tab E 9.6",
       "codename": "gtel3g",
       "model": "SM-T561"
@@ -5838,8 +5953,23 @@
     },
     {
       "market_name": "Galaxy Tab E 9.6",
+      "codename": "gtelltevzw",
+      "model": "SM-T567V"
+    },
+    {
+      "market_name": "Galaxy Tab E 9.6",
       "codename": "gtelwifi",
       "model": "SM-T560"
+    },
+    {
+      "market_name": "Galaxy Tab E 9.6",
+      "codename": "gtelwifichn",
+      "model": "SM-T560"
+    },
+    {
+      "market_name": "Galaxy Tab E 9.6",
+      "codename": "gtelwifiue",
+      "model": "SM-T560NU"
     },
     {
       "market_name": "Galaxy Tab Plus 7.0",
@@ -6767,6 +6897,26 @@
       "model": "SPH-L300"
     },
     {
+      "market_name": "Galaxy View",
+      "codename": "gvlte",
+      "model": "SM-T677"
+    },
+    {
+      "market_name": "Galaxy View",
+      "codename": "gvlteatt",
+      "model": "SAMSUNG-SM-T677A"
+    },
+    {
+      "market_name": "Galaxy View",
+      "codename": "gvltexsp",
+      "model": "SM-T677"
+    },
+    {
+      "market_name": "Galaxy View",
+      "codename": "gvwifiue",
+      "model": "SM-T670"
+    },
+    {
       "market_name": "Galaxy W",
       "codename": "GT-I8150",
       "model": "GT-I8150"
@@ -7195,6 +7345,11 @@
       "market_name": "SC-01G",
       "codename": "SC-01G",
       "model": "SC-01G"
+    },
+    {
+      "market_name": "SC-01H",
+      "codename": "SC-01H",
+      "model": "SC-01H"
     },
     {
       "market_name": "SC-02G",

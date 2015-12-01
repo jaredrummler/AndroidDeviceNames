@@ -32,6 +32,11 @@
       "model": "vivo X5"
     },
     {
+      "market_name": "vivo X5M",
+      "codename": "PD1401CL",
+      "model": "vivo X5M"
+    },
+    {
       "market_name": "vivo X5Max S",
       "codename": "bbk6752_lwt_kk",
       "model": "vivo X5Max S"
@@ -45,6 +50,21 @@
       "market_name": "vivo X5Pro",
       "codename": "X5Pro",
       "model": "vivo X5Pro"
+    },
+    {
+      "market_name": "vivo X5Pro D",
+      "codename": "bbk6752_lwt_l",
+      "model": "vivo X5Pro D"
+    },
+    {
+      "market_name": "vivo X5Pro V",
+      "codename": "PD1421V",
+      "model": "vivo X5Pro V"
+    },
+    {
+      "market_name": "vivo X6Plus D",
+      "codename": "PD1501D",
+      "model": "vivo PD1501D"
     },
     {
       "market_name": "vivo Y11",
@@ -82,9 +102,34 @@
       "model": "vivo Y31"
     },
     {
+      "market_name": "vivo Y31i",
+      "codename": "Y31i",
+      "model": "vivo Y31i"
+    },
+    {
       "market_name": "vivo Y33",
       "codename": "bbk6735_65c_l",
       "model": "vivo Y33"
+    },
+    {
+      "market_name": "vivo Y35",
+      "codename": "PD1502L",
+      "model": "vivo Y35"
+    },
+    {
+      "market_name": "vivo Y51",
+      "codename": "Y51",
+      "model": "vivo Y51"
+    },
+    {
+      "market_name": "vivo Y51A",
+      "codename": "PD1510",
+      "model": "vivo Y51A"
+    },
+    {
+      "market_name": "vivo Y937",
+      "codename": "PD1503",
+      "model": "vivo Y937"
     }
   ]
 }

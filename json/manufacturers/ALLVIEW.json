@@ -4,6 +4,11 @@
     {
       "market_name": "A5 Easy",
       "codename": "A5_Easy",
+      "model": "A5_Easy"
+    },
+    {
+      "market_name": "A5 Easy",
+      "codename": "A5_Easy",
       "model": "A5_Easy_TM"
     },
     {
@@ -17,9 +22,29 @@
       "model": "A5_Quad_Plus_TM"
     },
     {
+      "market_name": "A6 Duo",
+      "codename": "A6_Duo",
+      "model": "A6_Duo"
+    },
+    {
+      "market_name": "A6 Lite",
+      "codename": "A6_Lite",
+      "model": "A6_Lite"
+    },
+    {
+      "market_name": "A7 Lite",
+      "codename": "A7_Lite",
+      "model": "A7_Lite"
+    },
+    {
       "market_name": "AX4 Nano Plus",
       "codename": "AX4Nano_plus",
       "model": "AX4Nano_plus"
+    },
+    {
+      "market_name": "C6 Duo",
+      "codename": "C6_Duo",
+      "model": "C6_Duo"
     },
     {
       "market_name": "C6 Quad 4G",
@@ -42,9 +67,29 @@
       "model": "E3_Sign"
     },
     {
+      "market_name": "E4",
+      "codename": "E4",
+      "model": "E4"
+    },
+    {
+      "market_name": "E4 Lite",
+      "codename": "E4_Lite",
+      "model": "E4_Lite"
+    },
+    {
       "market_name": "P5 Energy",
       "codename": "P5_Energy",
       "model": "P5_Energy"
+    },
+    {
+      "market_name": "P5 Life",
+      "codename": "P5Life",
+      "model": "P5Life_TM"
+    },
+    {
+      "market_name": "P5Life",
+      "codename": "P5Life",
+      "model": "P5Life"
     },
     {
       "market_name": "P6 Energy",
@@ -102,6 +147,26 @@
       "model": "V1_Viper_S4G"
     },
     {
+      "market_name": "V2 Viper",
+      "codename": "V2_Viper",
+      "model": "V2_Viper"
+    },
+    {
+      "market_name": "V2 Viper I",
+      "codename": "V2_Viper_I",
+      "model": "V2_Viper_I"
+    },
+    {
+      "market_name": "V2 Viper X",
+      "codename": "V2_Viper_X",
+      "model": "V2_Viper_X"
+    },
+    {
+      "market_name": "V2 Viper X plus",
+      "codename": "V2_Viper_X_plus",
+      "model": "V2_Viper_X_plus"
+    },
+    {
       "market_name": "Viva C701",
       "codename": "Viva_C701",
       "model": "Viva_C701"
@@ -127,9 +192,34 @@
       "model": "H8_Life"
     },
     {
+      "market_name": "Viva i10HD",
+      "codename": "Viva_i10HD",
+      "model": "Viva_i10HD"
+    },
+    {
+      "market_name": "Viva i7G",
+      "codename": "Viva_i7G",
+      "model": "Viva_i7G"
+    },
+    {
+      "market_name": "X2 Soul Lite",
+      "codename": "X2_Soul_Lite",
+      "model": "X2_Soul_Lite"
+    },
+    {
+      "market_name": "X2 Soul Lite",
+      "codename": "X2_Soul_Lite",
+      "model": "X2_Soul_Lite_TM"
+    },
+    {
       "market_name": "X2 Soul Mini",
       "codename": "X2_Soul_Mini",
       "model": "X2_Soul_Mini"
+    },
+    {
+      "market_name": "X2 Soul PRO",
+      "codename": "X2_Soul_PRO",
+      "model": "X2_Soul_PRO"
     },
     {
       "market_name": "X2 Soul Xtreme",

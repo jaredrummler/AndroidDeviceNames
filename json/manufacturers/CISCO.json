@@ -7,12 +7,17 @@
       "model": "CP-DX650"
     },
     {
-      "market_name": "Cisco Desktop Collaboration Experience DX70",
+      "market_name": "Cisco DX70",
       "codename": "CP-DX70",
       "model": "CP-DX70"
     },
     {
-      "market_name": "Cisco Desktop Collaboration Experience DX80",
+      "market_name": "Cisco Desktop Collaboration Experience\nDX70",
+      "codename": "CP-DX70",
+      "model": "CP-DX70"
+    },
+    {
+      "market_name": "Cisco Desktop Collaboration Experience\nDX80",
       "codename": "CP-DX80",
       "model": "CP-DX80"
     }

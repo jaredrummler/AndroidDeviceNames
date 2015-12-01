@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Asus",
+    "market_name": "ASUS Live",
+    "codename": "ASUS_Z00YD",
+    "model": "ASUS_Z00YD"
+  },
+  {
     "manufacturer": "Acer",
     "market_name": "Iconia Tab 7",
     "codename": "acer_aprilia",
@@ -199,44 +205,8 @@
   },
   {
     "manufacturer": "Asus",
-    "market_name": "ZenFone 2",
-    "codename": "ASUS_Z00RD_5",
-    "model": "ASUS_Z00RD"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "ZenFone 2",
-    "codename": "ASUS_Z00RD_7",
-    "model": "ASUS_Z00RD"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "ZenFone 4",
-    "codename": "ASUS_T00I",
-    "model": "ASUS_T00I"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "ZenFone 4",
-    "codename": "ASUS_T00I",
-    "model": "ASUS_T00I-D"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "ZenFone 4",
-    "codename": "ASUS_T00Q",
-    "model": "ASUS_T00Q"
-  },
-  {
-    "manufacturer": "Asus",
     "market_name": "ZenFone 5",
     "codename": "ASUS_T00F",
-    "model": "ASUS_T00F"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "ZenFone 5",
-    "codename": "ASUS_T00F1",
     "model": "ASUS_T00F"
   },
   {
@@ -247,81 +217,15 @@
   },
   {
     "manufacturer": "Asus",
-    "market_name": "ZenFone 5",
-    "codename": "ASUS_T00J1",
-    "model": "ASUS_T00J"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "ZenFone 5",
-    "codename": "ASUS_T00K",
-    "model": "ASUS_T00K"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "Fonepad 7",
-    "codename": "K00Z",
-    "model": "K00Z"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "Fonepad 7",
-    "codename": "K012",
-    "model": "K012"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "Fonepad 7",
-    "codename": "K01N_1",
-    "model": "K01N"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "Fonepad 7",
-    "codename": "K01N_2",
-    "model": "K01N"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "MeMO Pad 7",
-    "codename": "K013",
-    "model": "K013"
-  },
-  {
-    "manufacturer": "Asus",
     "market_name": "MeMO Pad 7",
     "codename": "K013C",
     "model": "K013C"
   },
   {
-    "manufacturer": "Asus",
-    "market_name": "MeMO Pad 7",
-    "codename": "K013_1",
-    "model": "K013"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "MeMO Pad 7",
-    "codename": "K017",
-    "model": "K017"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "MeMO Pad 7",
-    "codename": "K01A",
-    "model": "K01A"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "Memo Pad 7",
-    "codename": "K01U_1",
-    "model": "K01U"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "Memo Pad 7",
-    "codename": "K01U_2",
-    "model": "K01U"
+    "manufacturer": "Huawei",
+    "market_name": "Nexus 6P",
+    "codename": "angler",
+    "model": "Nexus 6P"
   },
   {
     "manufacturer": "Huawei",
@@ -346,6 +250,12 @@
     "market_name": "Honor3",
     "codename": "hwhn3-u01",
     "model": "HUAWEI HN3-U01"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Mate S",
+    "codename": "HWCRR",
+    "model": "HUAWEI CRR-L09"
   },
   {
     "manufacturer": "HTC",
@@ -630,10 +540,82 @@
     "model": "HTC6535LVW"
   },
   {
+    "manufacturer": "HTC",
+    "market_name": "Desire 828",
+    "codename": "htc_a51bml_dtul",
+    "model": "HTC D828w"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "Desire 828",
+    "codename": "htc_a51bml_dtul",
+    "model": "HTC_D828x"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "Desire626",
+    "codename": "htc_a32ul_emea",
+    "model": "HTC 0PKX2"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "Desire626",
+    "codename": "htc_a32ul_emea",
+    "model": "HTC Desire 626"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "HTC ONE A9",
+    "codename": "htc_hiaeul",
+    "model": "HTC One A9"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "HTC One A9",
+    "codename": "htc_hiaetuhl",
+    "model": "HTC A9w"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "HTC One A9",
+    "codename": "htc_hiaeuhl",
+    "model": "HTC One A9"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "HTC One A9",
+    "codename": "htc_hiaeuhl",
+    "model": "HTC_A9u"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "HTC One A9",
+    "codename": "htc_hiaeul",
+    "model": "HTC One A9"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "HTC One A9",
+    "codename": "htc_hiaewhl",
+    "model": "2PQ93"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "Nexus 5X",
+    "codename": "bullhead",
+    "model": "Nexus 5X"
+  },
+  {
     "manufacturer": "LGE",
     "market_name": "Nexus 5",
     "codename": "hammerhead",
     "model": "Nexus 5"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "Nexus 4",
+    "codename": "mako",
+    "model": "Nexus 4"
   },
   {
     "manufacturer": "LGE",
@@ -2281,6 +2263,18 @@
   },
   {
     "manufacturer": "OnePlus",
+    "market_name": "OnePlus",
+    "codename": "OnePlus",
+    "model": "ONE E1003"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus2",
+    "codename": "OnePlus2",
+    "model": "ONE A2003"
+  },
+  {
+    "manufacturer": "OnePlus",
     "market_name": "OnePlus One",
     "codename": "A0001",
     "model": "A0001"
@@ -2456,6 +2450,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy A5",
+    "codename": "a5ultebmc",
+    "model": "SM-A500W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A5",
     "codename": "a5ultektt",
     "model": "SM-A500K"
   },
@@ -2494,6 +2494,18 @@
     "market_name": "Galaxy A8",
     "codename": "a8elteskt",
     "model": "SM-A800S"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A8",
+    "codename": "a8hplte",
+    "model": "SM-A800I"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A8",
+    "codename": "a8hplte",
+    "model": "SM-A800IZ"
   },
   {
     "manufacturer": "Samsung",
@@ -2648,6 +2660,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy Core Prime",
+    "codename": "coreprimeltelra",
+    "model": "SM-G360R6"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Core Prime",
     "codename": "coreprimeltespr",
     "model": "SM-G360P"
   },
@@ -2722,6 +2740,12 @@
     "market_name": "Galaxy Core Prime",
     "codename": "rossaltexsa",
     "model": "SM-G360GY"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Go Prime",
+    "codename": "grandprimelteatt",
+    "model": "SAMSUNG-SM-G530A"
   },
   {
     "manufacturer": "Samsung",
@@ -2966,8 +2990,26 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy Grand Prime",
+    "codename": "gprimelteacg",
+    "model": "SM-G530R7"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Grand Prime",
+    "codename": "gprimelteacg",
+    "model": "gprimelteacg"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Grand Prime",
     "codename": "gprimeltecan",
     "model": "SM-G530W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Grand Prime",
+    "codename": "gprimeltemtr",
+    "model": "SM-G530T1"
   },
   {
     "manufacturer": "Samsung",
@@ -3373,6 +3415,66 @@
   },
   {
     "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 8.0",
+    "codename": "gtesqltespr",
+    "model": "SM-T377P"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 8.0",
+    "codename": "gtesqlteusc",
+    "model": "SM-T377R4"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 9.6",
+    "codename": "gtel3g",
+    "model": "SM-T561"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 9.6",
+    "codename": "gtel3g",
+    "model": "SM-T561M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 9.6",
+    "codename": "gtel3g",
+    "model": "SM-T561Y"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 9.6",
+    "codename": "gtel3g",
+    "model": "SM-T562"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 9.6",
+    "codename": "gtelltevzw",
+    "model": "SM-T567V"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 9.6",
+    "codename": "gtelwifi",
+    "model": "SM-T560"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 9.6",
+    "codename": "gtelwifichn",
+    "model": "SM-T560"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 9.6",
+    "codename": "gtelwifiue",
+    "model": "SM-T560NU"
+  },
+  {
+    "manufacturer": "Samsung",
     "market_name": "Galaxy Tab 7.0 Plus",
     "codename": "GT-P6200",
     "model": "GT-P6200"
@@ -3592,6 +3694,84 @@
     "market_name": "Galaxy E7",
     "codename": "e7ltehktw",
     "model": "SM-E7000"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7",
+    "codename": "j75ltektt",
+    "model": "SM-J700K"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7",
+    "codename": "j7e3g",
+    "model": "SM-J700H"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7",
+    "codename": "j7elte",
+    "model": "SM-J700F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7",
+    "codename": "j7elte",
+    "model": "SM-J700M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7",
+    "codename": "j7ltechn",
+    "model": "SM-J7008"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy View",
+    "codename": "gvlte",
+    "model": "SM-T677"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy View",
+    "codename": "gvlteatt",
+    "model": "SAMSUNG-SM-T677A"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy View",
+    "codename": "gvltexsp",
+    "model": "SM-T677"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy View",
+    "codename": "gvwifiue",
+    "model": "SM-T670"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On5",
+    "codename": "o5lte",
+    "model": "SM-G550FY"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On5",
+    "codename": "o5ltechn",
+    "model": "SM-G5500"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On7",
+    "codename": "o7lte",
+    "model": "SM-G600FY"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On7",
+    "codename": "o7ltechn",
+    "model": "SM-G6000"
   },
   {
     "manufacturer": "Samsung",
@@ -3892,6 +4072,24 @@
     "market_name": "Galaxy S3 Neo",
     "codename": "s3ve3gdsdd",
     "model": "GT-I9300I"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S5 Neo",
+    "codename": "s5neolte",
+    "model": "SM-G903F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S5 Neo",
+    "codename": "s5neolte",
+    "model": "SM-G903M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S5 Neo",
+    "codename": "s5neoltecan",
+    "model": "SM-G903W"
   },
   {
     "manufacturer": "Samsung",
@@ -4376,6 +4574,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy Note5",
+    "codename": "noblelteacg",
+    "model": "SM-N920R7"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note5",
     "codename": "noblelteatt",
     "model": "SAMSUNG-SM-N920A"
   },
@@ -4414,6 +4618,12 @@
     "market_name": "Galaxy Note5",
     "codename": "nobleltelgt",
     "model": "SM-N920L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note5",
+    "codename": "nobleltelra",
+    "model": "SM-N920R6"
   },
   {
     "manufacturer": "Samsung",
@@ -5072,6 +5282,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S4",
+    "codename": "jfltevzwpp",
+    "model": "SCH-I545PP"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4",
     "codename": "jftdd",
     "model": "GT-I9507"
   },
@@ -5122,6 +5338,108 @@
     "market_name": "Galaxy S4",
     "codename": "ks01ltelgt",
     "model": "SHV-E330L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serrano3g",
+    "model": "GT-I9190"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranods",
+    "model": "GT-I9192"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranolte",
+    "model": "GT-I9195"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranolte",
+    "model": "GT-I9195L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranolte",
+    "model": "GT-I9195T"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranolte",
+    "model": "GT-I9195X"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranolte",
+    "model": "GT-I9197"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranoltebmc",
+    "model": "SGH-I257M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranoltektt",
+    "model": "SHV-E370K"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranoltekx",
+    "model": "SHV-E370D"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranoltelra",
+    "model": "SCH-I435L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranoltespr",
+    "model": "SPH-L520"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranolteusc",
+    "model": "SCH-R890"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranoltevzw",
+    "model": "SCH-I435"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranove3g",
+    "model": "GT-I9192I"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranovelte",
+    "model": "GT-I9195I"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4 Mini",
+    "codename": "serranovolteatt",
+    "model": "SAMSUNG-SGH-I257"
   },
   {
     "manufacturer": "Samsung",
@@ -5588,6 +5906,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S6 Edge+",
+    "codename": "zenltekx",
+    "model": "SM-G928N0"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S6 Edge+",
     "codename": "zenltelgt",
     "model": "SM-G928L"
   },
@@ -5620,6 +5944,12 @@
     "market_name": "Nexus 10",
     "codename": "manta",
     "model": "Nexus 10"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "market_name": "Lenovo A7-30GC",
+    "codename": "A7-30GC",
+    "model": "Lenovo TAB 2 A7-30GC"
   },
   {
     "manufacturer": "Sony",
@@ -5791,6 +6121,30 @@
   },
   {
     "manufacturer": "Sony",
+    "market_name": "Xperia E1 Dual",
+    "codename": "D2104",
+    "model": "D2104"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia E1 Dual",
+    "codename": "D2105",
+    "model": "D2105"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia E1 dual",
+    "codename": "D2104",
+    "model": "D2104"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia E1 dual",
+    "codename": "D2105",
+    "model": "D2105"
+  },
+  {
+    "manufacturer": "Sony",
     "market_name": "Xperia Z2",
     "codename": "D6502",
     "model": "D6502"
@@ -5836,6 +6190,12 @@
     "market_name": "Xperia Z3",
     "codename": "D6643",
     "model": "D6643"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia Z3",
+    "codename": "D6646",
+    "model": "D6646"
   },
   {
     "manufacturer": "Sony",
@@ -5890,5 +6250,11 @@
     "market_name": "Xperia Z5 Compact",
     "codename": "E5823",
     "model": "E5823"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia Z5 Compact",
+    "codename": "SO-02H",
+    "model": "SO-02H"
   }
 ]

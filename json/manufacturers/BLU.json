@@ -7,6 +7,11 @@
       "model": "BLU DASH X"
     },
     {
+      "market_name": "PURE XL",
+      "codename": "BLU_PURE_XL",
+      "model": "PURE XL"
+    },
+    {
       "market_name": "STUDIO 7.0 LTE",
       "codename": "blu_s0010tw",
       "model": "BLU STUDIO 7.0 LTE"
@@ -15,6 +20,16 @@
       "market_name": "STUDIO 7.0 LTE",
       "codename": "blu_s0010uu",
       "model": "BLU STUDIO 7.0 LTE"
+    },
+    {
+      "market_name": "STUDIO ONE PLUS",
+      "codename": "BLU_STUDIO_ONE_PLUS",
+      "model": "BLU STUDIO ONE PLUS"
+    },
+    {
+      "market_name": "SUTDIO ENERGY 2",
+      "codename": "BLU_STUDIO_ENERGY_2",
+      "model": "STUDIO ENERGY 2"
     }
   ]
 }

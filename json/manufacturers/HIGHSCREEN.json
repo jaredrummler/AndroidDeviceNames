@@ -2,9 +2,19 @@
   "manufacturer": "HighScreen",
   "devices": [
     {
+      "market_name": "Bay",
+      "codename": "Bay",
+      "model": "Bay"
+    },
+    {
       "market_name": "Power Five",
       "codename": "PowerFive",
       "model": "PowerFive"
+    },
+    {
+      "market_name": "Power Four",
+      "codename": "PowerFour",
+      "model": "PowerFour"
     }
   ]
 }

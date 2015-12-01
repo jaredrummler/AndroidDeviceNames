@@ -17,6 +17,16 @@
       "model": "Positivo BGH Y200"
     },
     {
+      "market_name": "Positivo BGH Y210",
+      "codename": "Y210",
+      "model": "Positivo BGH Y210"
+    },
+    {
+      "market_name": "Positivo BGH Y400",
+      "codename": "Y400",
+      "model": "Y400"
+    },
+    {
       "market_name": "Positivo Mini",
       "codename": "mini",
       "model": "Positivo Mini"
@@ -255,6 +265,16 @@
       "market_name": "Positivo mini I",
       "codename": "mini_i",
       "model": "Positivo Mini I"
+    },
+    {
+      "market_name": "Quantum Go",
+      "codename": "Q1",
+      "model": "Quantum Go"
+    },
+    {
+      "market_name": "Quantum Go",
+      "codename": "Q2",
+      "model": "Quantum Go"
     },
     {
       "market_name": "S440",

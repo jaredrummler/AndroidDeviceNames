@@ -2,9 +2,24 @@
   "manufacturer": "MTN Group",
   "devices": [
     {
+      "market_name": "MTN Sm@rt L860",
+      "codename": "MTN-L860",
+      "model": "MTN-L860"
+    },
+    {
+      "market_name": "MTN Smart S730",
+      "codename": "MTN-S730",
+      "model": "MTN-S730"
+    },
+    {
       "market_name": "MTN Steppa 2 LTE",
       "codename": "Steppa2",
       "model": "MTN Steppa 2 LTE"
+    },
+    {
+      "market_name": "Sm@rt Mini S630",
+      "codename": "MTN-S630",
+      "model": "MTN-S630"
     }
   ]
 }

@@ -36,7 +36,7 @@ public class Main {
   private static final String LATEST_DEVICE_LIST_XLS = "supported_devices_11-30-2015.xls";
 
   public static void main(String[] args) throws IOException {
-    printNewDevices();
+    createJsonManifests();
   }
 
   private static void createJsonManifests() throws IOException {

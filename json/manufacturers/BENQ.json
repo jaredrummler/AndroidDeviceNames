@@ -57,6 +57,11 @@
       "model": "B502"
     },
     {
+      "market_name": "BenQ B506",
+      "codename": "B506_TW",
+      "model": "B506_TW"
+    },
+    {
       "market_name": "BenQ F3",
       "codename": "F3",
       "model": "F3"
@@ -122,6 +127,11 @@
       "model": "BenQ T3"
     },
     {
+      "market_name": "BenQ T47_09",
+      "codename": "T47",
+      "model": "T47_09"
+    },
+    {
       "market_name": "F52",
       "codename": "F52",
       "model": "F52_05"
@@ -160,6 +170,11 @@
       "market_name": "Kogan 4G+",
       "codename": "Agora_4G_PLUS",
       "model": "Agora 4G+"
+    },
+    {
+      "market_name": "Kogan Agora 4G Lite",
+      "codename": "B506",
+      "model": "Kogan Agora 4G Lite"
     },
     {
       "market_name": "PT2200",

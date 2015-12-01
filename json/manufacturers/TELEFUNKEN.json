@@ -2,6 +2,11 @@
   "manufacturer": "Telefunken",
   "devices": [
     {
+      "market_name": "Enjoy TE1",
+      "codename": "TE1",
+      "model": "TE1"
+    },
+    {
       "market_name": "VP73_Telefunken",
       "codename": "Telefunken",
       "model": "VP73_Telefunken"

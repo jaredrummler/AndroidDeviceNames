@@ -2,6 +2,11 @@
   "manufacturer": "Zebra",
   "devices": [
     {
+      "market_name": "MC36",
+      "codename": "cardhu",
+      "model": "MC36"
+    },
+    {
       "market_name": "Pollux",
       "codename": "TC70",
       "model": "TC700H"

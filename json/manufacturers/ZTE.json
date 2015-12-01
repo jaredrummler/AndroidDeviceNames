@@ -1369,6 +1369,11 @@
     {
       "market_name": "Blade S6",
       "codename": "P839F30",
+      "model": "LS-5008"
+    },
+    {
+      "market_name": "Blade S6",
+      "codename": "P839F30",
       "model": "NOS SLIM"
     },
     {
@@ -1405,6 +1410,11 @@
       "market_name": "Blade V6",
       "codename": "P635A20",
       "model": "ZTE T660"
+    },
+    {
+      "market_name": "Blade V6",
+      "codename": "P635A20",
+      "model": "ZTE T663"
     },
     {
       "market_name": "Bouygues Telecom Bs 351",
@@ -2204,6 +2214,11 @@
     {
       "market_name": "Spro 2",
       "codename": "msm8974",
+      "model": "Spro 2 LTE"
+    },
+    {
+      "market_name": "Spro 2",
+      "codename": "msm8974",
       "model": "ZKB2A"
     },
     {
@@ -2662,6 +2677,11 @@
       "model": "Z955L"
     },
     {
+      "market_name": "Z958",
+      "codename": "lol",
+      "model": "Z958"
+    },
+    {
       "market_name": "Z970",
       "codename": "draconis",
       "model": "Z970"
@@ -2695,6 +2715,16 @@
       "market_name": "Z998",
       "codename": "coeus",
       "model": "Z998"
+    },
+    {
+      "market_name": "ZTE A2015",
+      "codename": "msm8994",
+      "model": "ZTE A2015"
+    },
+    {
+      "market_name": "ZTE A2016",
+      "codename": "msm8994",
+      "model": "ZTE A2016"
     },
     {
       "market_name": "ZTE A880",
@@ -2735,6 +2765,11 @@
       "market_name": "ZTE Blade A460",
       "codename": "P809A20",
       "model": "Blade A460"
+    },
+    {
+      "market_name": "ZTE Blade A460",
+      "codename": "P809A20",
+      "model": "ZTE BLADE A460"
     },
     {
       "market_name": "ZTE Blade A460",
@@ -2904,6 +2939,11 @@
     {
       "market_name": "ZTE Blade L3",
       "codename": "P182A20",
+      "model": "X8607"
+    },
+    {
+      "market_name": "ZTE Blade L3",
+      "codename": "P182A20",
       "model": "ZTE Blade L3"
     },
     {
@@ -2970,6 +3010,11 @@
       "market_name": "ZTE Blade Q Mini",
       "codename": "P172G10_UK_VIRGIN",
       "model": "ZTE Blade Q Mini"
+    },
+    {
+      "market_name": "ZTE Blade S6 Plus",
+      "codename": "P839F50",
+      "model": "LS-5503"
     },
     {
       "market_name": "ZTE Blade S6 Plus",
@@ -3654,6 +3699,26 @@
     {
       "market_name": "ZTE T221",
       "codename": "P731A20",
+      "model": "Blade C341"
+    },
+    {
+      "market_name": "ZTE T221",
+      "codename": "P731A20",
+      "model": "DIGICEL DL755"
+    },
+    {
+      "market_name": "ZTE T221",
+      "codename": "P731A20",
+      "model": "KIS C341"
+    },
+    {
+      "market_name": "ZTE T221",
+      "codename": "P731A20",
+      "model": "ZTE Blade A5"
+    },
+    {
+      "market_name": "ZTE T221",
+      "codename": "P731A20",
       "model": "ZTE Blade AF5"
     },
     {
@@ -3700,6 +3765,11 @@
       "market_name": "ZTE T790",
       "codename": "roamer2",
       "model": "ZTE T790"
+    },
+    {
+      "market_name": "ZTE T792",
+      "codename": "ZTE-T792",
+      "model": "ZTE B792"
     },
     {
       "market_name": "ZTE T792",

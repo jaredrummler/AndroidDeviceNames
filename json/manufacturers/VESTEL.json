@@ -134,6 +134,11 @@
     {
       "market_name": "VT785P2",
       "codename": "VT785P2",
+      "model": "V TAB 7.85\\\u0027\\\u0027 LITE"
+    },
+    {
+      "market_name": "VT785P2",
+      "codename": "VT785P2",
       "model": "VT785P2-Celcus"
     },
     {
@@ -150,6 +155,16 @@
       "market_name": "VT785P2",
       "codename": "VT785P2",
       "model": "VT785P2-Vestel"
+    },
+    {
+      "market_name": "Venus V3 5040",
+      "codename": "Venus_V3_5040",
+      "model": "Venus_V3_5040"
+    },
+    {
+      "market_name": "Venus V3 5570",
+      "codename": "Venus_V3_5570",
+      "model": "Venus_V3_5570"
     }
   ]
 }

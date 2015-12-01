@@ -12,14 +12,79 @@
       "model": "E400"
     },
     {
+      "market_name": "L-EMENT TAB 1040",
+      "codename": "generic",
+      "model": "L-EMENT_TAB1040"
+    },
+    {
+      "market_name": "L-EMENT TAB 741",
+      "codename": "LEMENTTAB741",
+      "model": "L-EMENT 741"
+    },
+    {
+      "market_name": "L-EMENT TAB 742",
+      "codename": "LEMENTTAB742",
+      "model": "L-EMENT 742"
+    },
+    {
+      "market_name": "L-EMENT350",
+      "codename": "L-EMENT350",
+      "model": "L-EMENT350"
+    },
+    {
+      "market_name": "L-EMENT400",
+      "codename": "LEMENT400",
+      "model": "L-EMENT 400"
+    },
+    {
+      "market_name": "L-EMENT500",
+      "codename": "L-EMENT500L",
+      "model": "L-EMENT500L"
+    },
+    {
+      "market_name": "L-EMENT550",
+      "codename": "L-EMENT550",
+      "model": "L-EMENT550"
+    },
+    {
+      "market_name": "L-EMENT_TAB1040_BT",
+      "codename": "generic",
+      "model": "L-EMENT_TAB1040_BT"
+    },
+    {
+      "market_name": "L-ITE402",
+      "codename": "L-ITE402",
+      "model": "L-ITE 402"
+    },
+    {
       "market_name": "L-ITE552",
       "codename": "L-ITE552",
       "model": "L-ITE 552"
     },
     {
+      "market_name": "L-IXIR TAB 1041",
+      "codename": "generic",
+      "model": "LIXIR1041"
+    },
+    {
+      "market_name": "L-IXIR TAB 701 3G",
+      "codename": "TAB701",
+      "model": "L-IXIR TAB 701 3G"
+    },
+    {
+      "market_name": "L-IXIR TAB 840",
+      "codename": "L-IXIR_TAB_840",
+      "model": "L-IXIR_TAB_840"
+    },
+    {
       "market_name": "LEMENT TAB 740",
       "codename": "LEMENTTAB740",
       "model": "L-EMENT 740"
+    },
+    {
+      "market_name": "LEMENTTAB901",
+      "codename": "LEMENTTAB901",
+      "model": "LEMENT_TAB901"
     },
     {
       "market_name": "LOGICOM E1052GP",

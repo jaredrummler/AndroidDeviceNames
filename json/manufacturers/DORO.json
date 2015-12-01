@@ -2,6 +2,16 @@
   "manufacturer": "Doro",
   "devices": [
     {
+      "market_name": "825A",
+      "codename": "825A",
+      "model": "Doro 824"
+    },
+    {
+      "market_name": "825A",
+      "codename": "825A",
+      "model": "Doro Liberto 825"
+    },
+    {
       "market_name": "Doro Liberto 820 Mini",
       "codename": "820Mini",
       "model": "Doro Liberto 820 Mini"
@@ -30,6 +40,11 @@
       "market_name": "Liberto 820 Mini",
       "codename": "820Mini",
       "model": "Doro Liberto 820 Mini"
+    },
+    {
+      "market_name": "Liberto 822 / 8030",
+      "codename": "DSB0010",
+      "model": "Doro Liberto 822"
     }
   ]
 }

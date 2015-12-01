@@ -2,9 +2,19 @@
   "manufacturer": "LeTV",
   "devices": [
     {
+      "market_name": "Le X507",
+      "codename": "X3_HK",
+      "model": "Le X507"
+    },
+    {
       "market_name": "Le1",
       "codename": "Le1",
       "model": "x600"
+    },
+    {
+      "market_name": "Letv Super TV X3-55 Pro",
+      "codename": "L553AN_US",
+      "model": "X3-55 Pro"
     },
     {
       "market_name": "Letv x600",

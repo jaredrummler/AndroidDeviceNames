@@ -157,6 +157,16 @@
       "model": "Micromax A69"
     },
     {
+      "market_name": "BOLT",
+      "codename": "Q332",
+      "model": "Micromax Q332"
+    },
+    {
+      "market_name": "BOLT",
+      "codename": "Q338",
+      "model": "Micromax Q338"
+    },
+    {
       "market_name": "Bolt",
       "codename": "A066",
       "model": "Micromax A066"
@@ -173,13 +183,53 @@
     },
     {
       "market_name": "Bolt",
+      "codename": "D303",
+      "model": "Micromax D303"
+    },
+    {
+      "market_name": "Bolt",
       "codename": "D321",
       "model": "Micromax D321"
     },
     {
       "market_name": "Bolt",
+      "codename": "Q324",
+      "model": "Micromax Q324"
+    },
+    {
+      "market_name": "Bolt",
+      "codename": "Q325",
+      "model": "Micromax Q325"
+    },
+    {
+      "market_name": "Bolt",
+      "codename": "Q331",
+      "model": "Micromax Q331"
+    },
+    {
+      "market_name": "Bolt",
+      "codename": "Q333",
+      "model": "Micromax Q333"
+    },
+    {
+      "market_name": "Bolt",
       "codename": "Q335",
       "model": "Micromax Q335"
+    },
+    {
+      "market_name": "Bolt",
+      "codename": "Q336",
+      "model": "Micromax Q336"
+    },
+    {
+      "market_name": "Bolt",
+      "codename": "S300",
+      "model": "Micromax S300"
+    },
+    {
+      "market_name": "Bolt",
+      "codename": "S302",
+      "model": "Micromax S302"
     },
     {
       "market_name": "CANVAS 2 COLOURS",
@@ -302,14 +352,39 @@
       "model": "Micromax A315"
     },
     {
+      "market_name": "Canvas 5",
+      "codename": "E481",
+      "model": "Micromax E481"
+    },
+    {
       "market_name": "Canvas A1",
       "codename": "AQ4501_sprout",
       "model": "Micromax AQ4501"
     },
     {
+      "market_name": "Canvas A1",
+      "codename": "AQ4502_sprout",
+      "model": "Micromax AQ4502"
+    },
+    {
+      "market_name": "Canvas AMAZE",
+      "codename": "Q395",
+      "model": "Micromax Q395"
+    },
+    {
+      "market_name": "Canvas Blaze",
+      "codename": "Q400",
+      "model": "Micromax Q400"
+    },
+    {
       "market_name": "Canvas Doodle4",
       "codename": "Q391",
       "model": "Micromax Q391"
+    },
+    {
+      "market_name": "Canvas FIRE4G",
+      "codename": "Q411",
+      "model": "Micromax Q411"
     },
     {
       "market_name": "Canvas Fire",
@@ -332,9 +407,24 @@
       "model": "Micromax A190"
     },
     {
+      "market_name": "Canvas Juice",
+      "codename": "A77",
+      "model": "Micromax A77"
+    },
+    {
+      "market_name": "Canvas Juice 3+",
+      "codename": "Q394",
+      "model": "Micromax Q394"
+    },
+    {
       "market_name": "Canvas Juice2",
       "codename": "AQ5001",
       "model": "Micromax AQ5001"
+    },
+    {
+      "market_name": "Canvas Juice3",
+      "codename": "Q392",
+      "model": "Micromax Q392"
     },
     {
       "market_name": "Canvas Knight Cameo",
@@ -352,6 +442,21 @@
       "model": "Micromax A108"
     },
     {
+      "market_name": "Canvas Magnus",
+      "codename": "A117",
+      "model": "Micromax A117"
+    },
+    {
+      "market_name": "Canvas Mega",
+      "codename": "E353",
+      "model": "Micromax E353"
+    },
+    {
+      "market_name": "Canvas Mega",
+      "codename": "Q417",
+      "model": "Micromax Q417"
+    },
+    {
       "market_name": "Canvas Nitro",
       "codename": "A310",
       "model": "Micromax A310"
@@ -367,6 +472,16 @@
       "model": "Micromax E311"
     },
     {
+      "market_name": "Canvas Pace 4G",
+      "codename": "Q416",
+      "model": "Micromax Q416"
+    },
+    {
+      "market_name": "Canvas Pep",
+      "codename": "Q370",
+      "model": "Micromax Q370"
+    },
+    {
       "market_name": "Canvas Pep",
       "codename": "Q371",
       "model": "Micromax Q371"
@@ -375,6 +490,21 @@
       "market_name": "Canvas Play",
       "codename": "Q355",
       "model": "Micromax Q355"
+    },
+    {
+      "market_name": "Canvas Play 4G",
+      "codename": "Q412",
+      "model": "Micromax Q412"
+    },
+    {
+      "market_name": "Canvas Play4G",
+      "codename": "Q469",
+      "model": "Micromax Q469"
+    },
+    {
+      "market_name": "Canvas SPARK2",
+      "codename": "Q334",
+      "model": "Micromax Q334"
     },
     {
       "market_name": "Canvas Selfie",
@@ -394,12 +524,32 @@
     {
       "market_name": "Canvas Tab",
       "codename": "P480",
+      "model": "MicromaxP480"
+    },
+    {
+      "market_name": "Canvas Tab",
+      "codename": "P480",
       "model": "P480"
     },
     {
       "market_name": "Canvas Tab",
       "codename": "P690",
       "model": "Micromax P690"
+    },
+    {
+      "market_name": "Canvas Tab",
+      "codename": "P70221",
+      "model": "P70221"
+    },
+    {
+      "market_name": "Canvas Tabby",
+      "codename": "P469",
+      "model": "P469"
+    },
+    {
+      "market_name": "Canvas Turbo",
+      "codename": "A250",
+      "model": "Micromax A250"
     },
     {
       "market_name": "Canvas XL2",
@@ -413,6 +563,11 @@
     },
     {
       "market_name": "Canvas tab",
+      "codename": "P290",
+      "model": "Micromax P290"
+    },
+    {
+      "market_name": "Canvas tab",
       "codename": "P470",
       "model": "P470"
     },
@@ -420,6 +575,16 @@
       "market_name": "Canvas tab",
       "codename": "P666",
       "model": "Micromax P666"
+    },
+    {
+      "market_name": "Canvas tab",
+      "codename": "P680",
+      "model": "MicromaxP680"
+    },
+    {
+      "market_name": "Doodle 4",
+      "codename": "Q491",
+      "model": "Micromax Q491"
     },
     {
       "market_name": "MICROMAX MAD",
@@ -447,6 +612,16 @@
       "model": "Micromax A082"
     },
     {
+      "market_name": "Nitro 3",
+      "codename": "E352",
+      "model": "Micromax E352"
+    },
+    {
+      "market_name": "Nitro 4G",
+      "codename": "E455",
+      "model": "Micromax E455"
+    },
+    {
       "market_name": "P275",
       "codename": "P275",
       "model": "P275"
@@ -457,9 +632,39 @@
       "model": "P300"
     },
     {
+      "market_name": "Selfie 2",
+      "codename": "Q340",
+      "model": "Micromax Q340"
+    },
+    {
+      "market_name": "Selfie 3",
+      "codename": "Q348",
+      "model": "Micromax Q348"
+    },
+    {
+      "market_name": "Sliver 5",
+      "codename": "Q450",
+      "model": "Micromax Q450"
+    },
+    {
+      "market_name": "Unite 3",
+      "codename": "Q379",
+      "model": "Micromax Q379"
+    },
+    {
+      "market_name": "Unite2",
+      "codename": "A106",
+      "model": "Micromax A106"
+    },
+    {
       "market_name": "Unite3",
       "codename": "Q372",
       "model": "Micromax Q372"
+    },
+    {
+      "market_name": "Xpress 2",
+      "codename": "E313",
+      "model": "Micromax E313"
     }
   ]
 }
