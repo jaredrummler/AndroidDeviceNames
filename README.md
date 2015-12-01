@@ -27,7 +27,7 @@ DeviceName.getDeviceName("clark", "Unknown device");
 **Get information about the device:**
 
 ```java
-DeviceName.with(this).request(new DeviceName.Callback() {
+DeviceName.with(context).request(new DeviceName.Callback() {
 
   @Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
     String manufacturer = info.manufacturer;  // "Samsung"

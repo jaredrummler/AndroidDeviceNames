@@ -72,7 +72,7 @@ import java.net.URL;
  *
  * <pre>
  * <code>
- * DeviceName.with(this).request(new DeviceName.Callback() {
+ * DeviceName.with(context).request(new DeviceName.Callback() {
  *
  *   {@literal @}Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
  *     String manufacturer = info.manufacturer;  // "Samsung"
