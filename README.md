@@ -2,7 +2,7 @@
 
 A small Android library to get the market name of an Android device.
 
-Unfortunately, on many popular devices, the market name of the device is not available. For example, on the Samsung Galaxy S6 the value of [`Build.MODEL`](http://developer.android.com/reference/android/os/Build.html#MODEL) could be `"SM-G920F"`, `"SM-G920I"`, or `"SM-G920W8"`.
+On many popular devices the market name of the device is not available. For example, on the Samsung Galaxy S6 the value of [`Build.MODEL`](http://developer.android.com/reference/android/os/Build.html#MODEL) could be `"SM-G920F"`, `"SM-G920I"`, or `"SM-G920W8"`.
 
 This small library gets the market (consumer friendly) name of a device.
 
@@ -35,6 +35,7 @@ DeviceName.with(context).request(new DeviceName.Callback() {
     String model = info.model;                // "SM-G925I"
     String codename = info.codename;          // "zerolte"
     String deviceName = info.getName();       // "Galaxy S6 Edge"
+    // FYI: We are on the UI thread.
   }
 });
  ```
