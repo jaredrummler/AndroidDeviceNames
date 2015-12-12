@@ -72,9 +72,24 @@
       "model": "P508"
     },
     {
+      "market_name": "P509",
+      "codename": "NGM_P509",
+      "model": "P509"
+    },
+    {
       "market_name": "P550",
       "codename": "NGM_P550",
       "model": "NGM P550"
+    },
+    {
+      "market_name": "P551",
+      "codename": "NGM_P551",
+      "model": "P551"
+    },
+    {
+      "market_name": "P552",
+      "codename": "NGM_P552",
+      "model": "P552"
     },
     {
       "market_name": "Ruby",

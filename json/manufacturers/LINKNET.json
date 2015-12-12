@@ -2,6 +2,11 @@
   "manufacturer": "LinkNet",
   "devices": [
     {
+      "market_name": "ST950I-LN",
+      "codename": "ST950I-LN",
+      "model": "ST950I-LN"
+    },
+    {
       "market_name": "Smart Box HD",
       "codename": "SH940C-LN",
       "model": "SH940C-LN"

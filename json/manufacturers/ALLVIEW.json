@@ -12,6 +12,11 @@
       "model": "A5_Easy_TM"
     },
     {
+      "market_name": "A5 Lite",
+      "codename": "A5_Lite",
+      "model": "A5_Lite"
+    },
+    {
       "market_name": "A5 Quad Plus",
       "codename": "A5_Quad_Plus",
       "model": "A5_Quad_Plus"
@@ -95,6 +100,11 @@
       "market_name": "P6 Energy",
       "codename": "P6_Energy",
       "model": "P6_Energy_TM"
+    },
+    {
+      "market_name": "P6 Pro",
+      "codename": "P6_Pro",
+      "model": "P6_Pro"
     },
     {
       "market_name": "P6 Qmax",

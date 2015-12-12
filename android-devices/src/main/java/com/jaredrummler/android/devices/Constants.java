@@ -26,7 +26,9 @@ public class Constants {
 
   public static final File JSON_DIR = new File("json");
 
-  public static final File CODENAMES_DIR = new File(JSON_DIR, "codenames");
+  public static final File CODENAMES_DIR = new File(JSON_DIR, "devices");
+
+  public static final File LEGACY_CODENAMES_DIR = new File(JSON_DIR, "codenames");
 
   public static final File MANUFACTURERS_DIR = new File(JSON_DIR, "manufacturers");
 

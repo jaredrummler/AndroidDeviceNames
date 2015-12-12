@@ -2,6 +2,16 @@
   "manufacturer": "Blu",
   "devices": [
     {
+      "market_name": "BLU LIFE XL",
+      "codename": "BLU_LIFE_XL",
+      "model": "BLU LIFE XL"
+    },
+    {
+      "market_name": "DASH X LTE",
+      "codename": "DASH_X_LTE",
+      "model": "BLU DASH X LTE"
+    },
+    {
       "market_name": "Dash X",
       "codename": "BLU_DASH_X",
       "model": "BLU DASH X"
@@ -20,6 +30,11 @@
       "market_name": "STUDIO 7.0 LTE",
       "codename": "blu_s0010uu",
       "model": "BLU STUDIO 7.0 LTE"
+    },
+    {
+      "market_name": "STUDIO G PLUS",
+      "codename": "Studio_G_Plus",
+      "model": "BLU STUDIO G PLUS"
     },
     {
       "market_name": "STUDIO ONE PLUS",

@@ -22,9 +22,19 @@
       "model": "Beeline_Tab_IS"
     },
     {
+      "market_name": "Beeline\\xc2\\xa0Tab\\xc2\\xa0Pro",
+      "codename": "BeelineTabPro",
+      "model": "Beeline Tab Pro"
+    },
+    {
       "market_name": "Fast",
       "codename": "Fast",
       "model": "Beeline Fast"
+    },
+    {
+      "market_name": "Pro 3",
+      "codename": "Pro_3",
+      "model": "Beeline_Pro_3"
     },
     {
       "market_name": "Smart Dual",

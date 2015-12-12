@@ -32,7 +32,11 @@ public class DevicesParser {
 
   private static final String HEADER_RETAIL_BRANDING = "Retail Branding";
 
-  public static List<Device> getDevices(InputStream inputStream) throws IOException {
+  public static List<Device> parse(String resource) throws IOException {
+    return parse(ClassLoader.getSystemResourceAsStream(resource));
+  }
+
+  public static List<Device> parse(InputStream inputStream) throws IOException {
     List<Device> devices = new ArrayList<>();
     HSSFWorkbook workbook = new HSSFWorkbook(inputStream);
     HSSFSheet sheet = workbook.getSheetAt(0);

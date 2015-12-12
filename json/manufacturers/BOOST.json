@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Boost",
+  "devices": [
+    {
+      "market_name": "Moova Shuffle",
+      "codename": "MoovaShuffle",
+      "model": "MoovaShuffle"
+    },
+    {
+      "market_name": "ShakerBeat",
+      "codename": "ShakerBeat",
+      "model": "ShakerBeat"
+    },
+    {
+      "market_name": "StrikaPlay",
+      "codename": "StrikaPlay",
+      "model": "StrikaPlay"
+    }
+  ]
+}

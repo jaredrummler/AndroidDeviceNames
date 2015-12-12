@@ -29,6 +29,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
+import java.util.stream.Collectors;
 
 public class DevicesToJson {
 
@@ -73,11 +74,23 @@ public class DevicesToJson {
     this.devices = devices;
   }
 
+  public void createLegacyCodenamesJson(File dir) throws IOException {
+    HashMap<String, List<Device>> codenames = getCodenames(devices);
+    dir.mkdirs();
+    for (Map.Entry<String, List<Device>> entry : codenames.entrySet()) {
+      String filename = entry.getKey() + ".json";
+      File file = new File(dir, filename);
+      String json = gson.toJson(entry.getValue());
+      FileUtils.write(file, json);
+    }
+  }
+
   public void createCodenamesJson(File dir) throws IOException {
     HashMap<String, List<Device>> codenames = getCodenames(devices);
     dir.mkdirs();
     for (Map.Entry<String, List<Device>> entry : codenames.entrySet()) {
-      File file = new File(dir, entry.getKey() + ".json");
+      String filename = entry.getKey().toLowerCase() + ".json";
+      File file = new File(dir, filename);
       String json = gson.toJson(entry.getValue());
       FileUtils.write(file, json);
     }
@@ -96,11 +109,9 @@ public class DevicesToJson {
   public void createPopularDevicesJson(File destination) throws IOException {
     List<Device> popularDevices = new ArrayList<>();
     for (String deviceName : Constants.POPULAR_DEVICES) {
-      for (Device device : devices) {
-        if (device.marketName.equalsIgnoreCase(deviceName)) {
-          popularDevices.add(device);
-        }
-      }
+      popularDevices.addAll(
+          devices.stream().filter(device -> device.marketName.equalsIgnoreCase(deviceName))
+              .collect(Collectors.toList()));
     }
     FileUtils.write(destination, gson.toJson(popularDevices));
   }

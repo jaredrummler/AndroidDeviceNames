@@ -1462,6 +1462,16 @@
       "model": "ALE-L21"
     },
     {
+      "market_name": "ALE-L23",
+      "codename": "hwALE-H",
+      "model": "ALE-L23"
+    },
+    {
+      "market_name": "ALE-L23",
+      "codename": "hwALE-H",
+      "model": "Autana LTE"
+    },
+    {
       "market_name": "ATH-AL00",
       "codename": "HWATH",
       "model": "ATH-AL00"
@@ -2547,6 +2557,21 @@
       "model": "Ice-Twist"
     },
     {
+      "market_name": "LISZT",
+      "codename": "hwliszt",
+      "model": "HUAWEI M2-A01L"
+    },
+    {
+      "market_name": "LISZT",
+      "codename": "hwliszt",
+      "model": "HUAWEI M2-A01W"
+    },
+    {
+      "market_name": "M2-A04L",
+      "codename": "d-01H",
+      "model": "d-01H"
+    },
+    {
       "market_name": "M220",
       "codename": "hwmediaqm220",
       "model": "M220"
@@ -2792,6 +2817,36 @@
       "model": "PE-UL00"
     },
     {
+      "market_name": "PLK-AL10",
+      "codename": "HWPLK",
+      "model": "PLK-AL10"
+    },
+    {
+      "market_name": "PLK-CL00",
+      "codename": "HWPLK",
+      "model": "PLK-CL00"
+    },
+    {
+      "market_name": "PLK-L01",
+      "codename": "HWPLK",
+      "model": "PLK-L01"
+    },
+    {
+      "market_name": "PLK-TL00",
+      "codename": "HWPLK",
+      "model": "PLK-TL00"
+    },
+    {
+      "market_name": "PLK-TL01H",
+      "codename": "HWPLK",
+      "model": "PLK-TL01H"
+    },
+    {
+      "market_name": "PLK-UL00",
+      "codename": "HWPLK",
+      "model": "PLK-UL00"
+    },
+    {
       "market_name": "Prism II",
       "codename": "hwu8686",
       "model": "Prism II"
@@ -3005,6 +3060,16 @@
       "market_name": "Vogue7",
       "codename": "hws7601u",
       "model": "MediaPad 7 Vogue"
+    },
+    {
+      "market_name": "X2",
+      "codename": "HWGemini",
+      "model": "GEM-701L"
+    },
+    {
+      "market_name": "X2",
+      "codename": "HWGemini",
+      "model": "GEM-702L"
     },
     {
       "market_name": "X2",
@@ -3630,11 +3695,6 @@
       "market_name": "d-01G",
       "codename": "d-01G",
       "model": "d-01G"
-    },
-    {
-      "market_name": "d-01H",
-      "codename": "d-01H",
-      "model": "d-01H"
     },
     {
       "market_name": "eH811",

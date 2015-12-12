@@ -507,6 +507,21 @@
       "model": "SM-A500S"
     },
     {
+      "market_name": "Galaxy A5(2016)",
+      "codename": "a5xelte",
+      "model": "SM-A510F"
+    },
+    {
+      "market_name": "Galaxy A5(2016)",
+      "codename": "a5xelte",
+      "model": "SM-A510M"
+    },
+    {
+      "market_name": "Galaxy A5(2016)",
+      "codename": "a5xelte",
+      "model": "SM-A510X"
+    },
+    {
       "market_name": "Galaxy A7",
       "codename": "a73g",
       "model": "SM-A700H"
@@ -555,6 +570,26 @@
       "market_name": "Galaxy A7",
       "codename": "a7lteskt",
       "model": "SM-A700S"
+    },
+    {
+      "market_name": "Galaxy A7(2016)",
+      "codename": "a7xelte",
+      "model": "SM-A710F"
+    },
+    {
+      "market_name": "Galaxy A7(2016)",
+      "codename": "a7xelte",
+      "model": "SM-A710M"
+    },
+    {
+      "market_name": "Galaxy A7(2016)",
+      "codename": "a7xelte",
+      "model": "SM-A710X"
+    },
+    {
+      "market_name": "Galaxy A8",
+      "codename": "SCV32",
+      "model": "SCV32"
     },
     {
       "market_name": "Galaxy A8",
@@ -7440,6 +7475,11 @@
       "market_name": "VinsQ(M910)",
       "codename": "SPH-M910",
       "model": "SPH-M910"
+    },
+    {
+      "market_name": "W2016",
+      "codename": "royceltectc",
+      "model": "SM-W2016"
     },
     {
       "market_name": "olleh",

@@ -812,6 +812,16 @@
       "model": "LG-V498"
     },
     {
+      "market_name": "G Pad II 8.0",
+      "codename": "t8wifi",
+      "model": "LG-V498S1"
+    },
+    {
+      "market_name": "G Pad II 8.0",
+      "codename": "t8wifi",
+      "model": "LG-V498S2"
+    },
+    {
       "market_name": "G Pro Lite",
       "codename": "luv90ds",
       "model": "LG-D685"
@@ -1624,7 +1634,22 @@
     {
       "market_name": "LG G Pad F 8.0",
       "codename": "t8lte",
+      "model": "LG-AK495"
+    },
+    {
+      "market_name": "LG G Pad F 8.0",
+      "codename": "t8lte",
+      "model": "LG-UK495"
+    },
+    {
+      "market_name": "LG G Pad F 8.0",
+      "codename": "t8lte",
       "model": "LG-V495"
+    },
+    {
+      "market_name": "LG G Pad F 8.0",
+      "codename": "t8lte",
+      "model": "LG-V496"
     },
     {
       "market_name": "LG G Pad F 8.0",
@@ -1637,34 +1662,19 @@
       "model": "LGLK430"
     },
     {
-      "market_name": "LG G Pad F\\xe2\\x84\\xa2 8.0",
-      "codename": "t8lte",
-      "model": "LG-AK495"
-    },
-    {
-      "market_name": "LG G Pad F\\xe2\\x84\\xa2 8.0",
-      "codename": "t8lte",
-      "model": "LG-UK495"
-    },
-    {
-      "market_name": "LG G Pad F\\xe2\\x84\\xa2 8.0",
-      "codename": "t8lte",
-      "model": "LG-V496"
-    },
-    {
       "market_name": "LG G Pad II 10.1 FHD",
       "codename": "t1wifi",
       "model": "LG-V940"
     },
     {
+      "market_name": "LG G Pad II 8.0LTE",
+      "codename": "t8lte",
+      "model": "LG-V497"
+    },
+    {
       "market_name": "LG G Pad X 8.3",
       "codename": "altev2",
       "model": "VK815"
-    },
-    {
-      "market_name": "LG G Pad\\xe2\\x84\\xa2 II 8.0LTE",
-      "codename": "t8lte",
-      "model": "LG-V497"
     },
     {
       "market_name": "LG G Stylo",
@@ -3187,12 +3197,12 @@
       "model": "LG-P970"
     },
     {
-      "market_name": "Optimus  EX",
+      "market_name": "Optimus EX",
       "codename": "x2",
       "model": "LG-SU880"
     },
     {
-      "market_name": "Optimus  LTE",
+      "market_name": "Optimus LTE",
       "codename": "l1a",
       "model": "LG-P870"
     },
@@ -4195,6 +4205,11 @@
       "market_name": "V10",
       "codename": "pplus",
       "model": "LG-H960"
+    },
+    {
+      "market_name": "V10",
+      "codename": "pplus",
+      "model": "LG-H961AN"
     },
     {
       "market_name": "V10",
