@@ -22,7 +22,7 @@ import java.io.File;
 public class Constants {
 
   // https://support.google.com/googleplay/answer/1727131?hl=en
-  public static final String LATEST_XLS = "supported_devices_11-30-2015.xls";
+  public static final String LATEST_XLS = "supported_devices_12-12-15.xls";
 
   public static final File JSON_DIR = new File("json");
 
