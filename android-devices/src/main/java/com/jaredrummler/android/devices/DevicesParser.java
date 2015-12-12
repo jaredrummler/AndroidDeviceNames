@@ -32,7 +32,7 @@ public class DevicesParser {
 
   private static final String HEADER_RETAIL_BRANDING = "Retail Branding";
 
-  public List<Device> getDevices(InputStream inputStream) throws IOException {
+  public static List<Device> getDevices(InputStream inputStream) throws IOException {
     List<Device> devices = new ArrayList<>();
     HSSFWorkbook workbook = new HSSFWorkbook(inputStream);
     HSSFSheet sheet = workbook.getSheetAt(0);
@@ -53,7 +53,7 @@ public class DevicesParser {
     return devices;
   }
 
-  private String cellToString(Cell cell) {
+  private static String cellToString(Cell cell) {
     switch (cell.getCellType()) {
       case Cell.CELL_TYPE_BOOLEAN:
         return cell.getBooleanCellValue() ? "true" : "false";

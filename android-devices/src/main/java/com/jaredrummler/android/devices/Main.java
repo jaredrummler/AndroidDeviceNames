@@ -25,7 +25,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStream;
 import java.lang.reflect.Type;
 import java.util.List;
 
@@ -46,12 +45,8 @@ public class Main {
     return GSON.fromJson(new JsonReader(new FileReader(file)), DEVICE_TYPE);
   }
 
-  public List<Device> getDeviceFromXls(InputStream inputStream) throws IOException {
-    return new DevicesParser().getDevices(inputStream);
-  }
-
   public List<Device> getLatestDevices() throws IOException {
-    return getDeviceFromXls(ClassLoader.getSystemResourceAsStream(Constants.LATEST_XLS));
+    return DevicesParser.getDevices(ClassLoader.getSystemResourceAsStream(Constants.LATEST_XLS));
   }
 
   public void createJsonFiles(List<Device> devices) throws IOException {
