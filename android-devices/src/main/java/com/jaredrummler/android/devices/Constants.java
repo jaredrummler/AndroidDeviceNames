@@ -122,6 +122,7 @@ public class Constants {
       "Galaxy Grand Neo",
       "Galaxy Grand Prime",
       "Galaxy Grand2",
+      "Galaxy J1",
       "Galaxy J7",
       "Galaxy Nexus",
       "Galaxy Note 10.1",

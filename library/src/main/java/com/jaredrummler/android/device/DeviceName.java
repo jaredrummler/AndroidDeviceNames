@@ -267,6 +267,7 @@ public class DeviceName {
         || model.equals("HTC One 801e")
         || model.equals("HTC One dual 802d")
         || model.equals("HTC One dual sim")
+        || model.equals("HTC6500LVW")
         || model.equals("HTCONE")
         || model.equals("HTC_PN071")))) {
       return "HTC One";
@@ -574,10 +575,12 @@ public class DeviceName {
         || codename.equals("i_skt")
         || codename.equals("i_u")
         || codename.equals("iproj")
+        || codename.equals("l1a")
         || codename.equals("lgp930")
         || codename.equals("lgp935")))
         || (model != null && (model.equals("L-01D")
         || model.equals("LG-LU6200")
+        || model.equals("LG-P870")
         || model.equals("LG-P930")
         || model.equals("LG-P935")
         || model.equals("LG-P936")
@@ -775,11 +778,13 @@ public class DeviceName {
         || model.equals("SM-A500YZ")))) {
       return "Galaxy A5";
     }
-    if ((codename != null && (codename.equals("a8elte")
+    if ((codename != null && (codename.equals("SCV32")
+        || codename.equals("a8elte")
         || codename.equals("a8elteskt")
         || codename.equals("a8hplte")
         || codename.equals("a8ltechn")))
-        || (model != null && (model.equals("SM-A8000")
+        || (model != null && (model.equals("SCV32")
+        || model.equals("SM-A8000")
         || model.equals("SM-A800F")
         || model.equals("SM-A800I")
         || model.equals("SM-A800IZ")
@@ -1048,6 +1053,25 @@ public class DeviceName {
         || model.equals("SM-G710L")
         || model.equals("SM-G710S")))) {
       return "Galaxy Grand2";
+    }
+    if ((codename != null && (codename.equals("j13g")
+        || codename.equals("j13gtfnvzw")
+        || codename.equals("j1lte")
+        || codename.equals("j1nlte")
+        || codename.equals("j1qltevzw")
+        || codename.equals("j1xlte")))
+        || (model != null && (model.equals("SM-J100F")
+        || model.equals("SM-J100FN")
+        || model.equals("SM-J100G")
+        || model.equals("SM-J100H")
+        || model.equals("SM-J100M")
+        || model.equals("SM-J100ML")
+        || model.equals("SM-J100MU")
+        || model.equals("SM-J100VPP")
+        || model.equals("SM-J100Y")
+        || model.equals("SM-J120F")
+        || model.equals("SM-S777C")))) {
+      return "Galaxy J1";
     }
     if ((codename != null && (codename.equals("j75ltektt")
         || codename.equals("j7e3g")
@@ -1862,9 +1886,11 @@ public class DeviceName {
     // ----------------------------------------------------------------------------
     // Sony
     if ((codename != null && (codename.equals("D2104")
-        || codename.equals("D2105")))
+        || codename.equals("D2105")
+        || codename.equals("D2114")))
         || (model != null && (model.equals("D2104")
-        || model.equals("D2105")))) {
+        || model.equals("D2105")
+        || model.equals("D2114")))) {
       return "Xperia E1 dual";
     }
     if ((codename != null && (codename.equals("D2202")
