@@ -37,6 +37,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.util.Locale;
 
 /**
  * <p>Get the consumer friendly name of an Android device.</p>
@@ -92,7 +93,7 @@ public class DeviceName {
   // To get the URL to the JSON file which contains information about the device name:
   // String url = String.format(DEVICE_JSON_URL, Build.DEVICE);
   private static final String DEVICE_JSON_URL =
-      "https://raw.githubusercontent.com/jaredrummler/AndroidDeviceNames/master/json/codenames/%s.json";
+      "https://raw.githubusercontent.com/jaredrummler/AndroidDeviceNames/master/json/devices/%s.json";
 
   // Preference filename for storing device info so we don't need to download it again.
   private static final String SHARED_PREF_NAME = "device_names";
@@ -2032,7 +2033,7 @@ public class DeviceName {
 
     if (isConnectedToNetwork) {
       try {
-        String url = String.format(DEVICE_JSON_URL, codename);
+        String url = String.format(DEVICE_JSON_URL, codename.toLowerCase(Locale.ENGLISH));
         String jsonString = downloadJson(url);
         JSONArray jsonArray = new JSONArray(jsonString);
         for (int i = 0, len = jsonArray.length(); i < len; i++) {
