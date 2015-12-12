@@ -14,7 +14,6 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 
-import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
@@ -31,15 +30,7 @@ import java.util.List;
  */
 public class DevicesParser {
 
-  private final File xls;
-
-  protected DevicesParser() {
-    this(new File("resources/devices.xls"));
-  }
-
-  public DevicesParser(File xls) {
-    this.xls = xls;
-  }
+  private static final String HEADER_RETAIL_BRANDING = "Retail Branding";
 
   public List<Device> getDevices(InputStream inputStream) throws IOException {
     List<Device> devices = new ArrayList<>();
@@ -52,6 +43,10 @@ public class DevicesParser {
       String marketName = cellToString(row.getCell(1));
       String codename = cellToString(row.getCell(2));
       String model = cellToString(row.getCell(3));
+      if (manufacturer.equals(HEADER_RETAIL_BRANDING)) {
+        // skip headers
+        continue;
+      }
       devices.add(new Device(manufacturer, marketName, codename, model));
     }
     inputStream.close();
