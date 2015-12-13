@@ -69,14 +69,14 @@ import java.util.Locale;
  * <pre class="prettyprint">
  * DeviceName.with(context).request(new DeviceName.Callback() {
  *
- *   &#64;Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
- *     String manufacturer = info.manufacturer;  // "Samsung"
- *     String name = info.marketName;            // "Galaxy S6 Edge"
- *     String model = info.model;                // "SM-G925I"
- *     String codename = info.codename;          // "zerolte"
- *     String deviceName = info.getName();       // "Galaxy S6 Edge"
- *     // FYI: We are on the UI thread.
- *   }
+ * &#64;Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
+ * String manufacturer = info.manufacturer;  // "Samsung"
+ * String name = info.marketName;            // "Galaxy S6 Edge"
+ * String model = info.model;                // "SM-G925I"
+ * String codename = info.codename;          // "zerolte"
+ * String deviceName = info.getName();       // "Galaxy S6 Edge"
+ * // FYI: We are on the UI thread.
+ * }
  * });
  * </pre>
  *
@@ -2065,7 +2065,8 @@ public class DeviceName {
         for (int i = 0, len = jsonArray.length(); i < len; i++) {
           JSONObject json = jsonArray.getJSONObject(i);
           DeviceInfo info = new DeviceInfo(json);
-          if (codename.equalsIgnoreCase(info.codename) && model.equalsIgnoreCase(info.model)) {
+          if ((codename.equalsIgnoreCase(info.codename) && model == null)
+              || codename.equalsIgnoreCase(info.codename) && model.equalsIgnoreCase(info.model)) {
             // Save to SharedPreferences so we don't need to make another request.
             SharedPreferences.Editor editor = prefs.edit();
             editor.putString(key, json.toString());
@@ -2156,8 +2157,6 @@ public class DeviceName {
     private Request(Context ctx) {
       context = ctx;
       handler = new Handler(ctx.getMainLooper());
-      codename = Build.DEVICE;
-      model = Build.MODEL;
     }
 
     /**
@@ -2194,6 +2193,10 @@ public class DeviceName {
      *     the callback to retrieve the {@link DeviceName.DeviceInfo}
      */
     public void request(Callback callback) {
+      if (codename == null && model == null) {
+        codename = Build.DEVICE;
+        model = Build.MODEL;
+      }
       GetDeviceRunnable runnable = new GetDeviceRunnable(callback);
       if (Looper.myLooper() == Looper.getMainLooper()) {
         new Thread(runnable).start();
