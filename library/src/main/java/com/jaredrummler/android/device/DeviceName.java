@@ -39,6 +39,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Locale;
 
+// @formatter:off
 /**
  * <p>Get the consumer friendly name of an Android device.</p>
  *
@@ -69,14 +70,14 @@ import java.util.Locale;
  * <pre class="prettyprint">
  * DeviceName.with(context).request(new DeviceName.Callback() {
  *
- * &#64;Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
- * String manufacturer = info.manufacturer;  // "Samsung"
- * String name = info.marketName;            // "Galaxy S6 Edge"
- * String model = info.model;                // "SM-G925I"
- * String codename = info.codename;          // "zerolte"
- * String deviceName = info.getName();       // "Galaxy S6 Edge"
- * // FYI: We are on the UI thread.
- * }
+ *   &#64;Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
+ *     String manufacturer = info.manufacturer;  // "Samsung"
+ *     String name = info.marketName;            // "Galaxy S6 Edge"
+ *     String model = info.model;                // "SM-G925I"
+ *     String codename = info.codename;          // "zerolte"
+ *     String deviceName = info.getName();       // "Galaxy S6 Edge"
+ *     // FYI: We are on the UI thread.
+ *   }
  * });
  * </pre>
  *
@@ -88,6 +89,7 @@ import java.util.Locale;
  * calls.</p>
  */
 public class DeviceName {
+  // @formatter:on
 
   // JSON which is derived from Google's PDF document which contains all devices on Google Play.
   // To get the URL to the JSON file which contains information about the device name:
