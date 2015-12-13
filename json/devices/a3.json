@@ -4,5 +4,17 @@
     "market_name": "",
     "codename": "a3",
     "model": "Stream"
+  },
+  {
+    "manufacturer": "BenQ",
+    "market_name": "A3",
+    "codename": "A3",
+    "model": "A3"
+  },
+  {
+    "manufacturer": "BenQ",
+    "market_name": "BenQ A3",
+    "codename": "A3",
+    "model": "A3"
   }
 ]

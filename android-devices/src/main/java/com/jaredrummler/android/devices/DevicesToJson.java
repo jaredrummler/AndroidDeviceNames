@@ -36,6 +36,19 @@ public class DevicesToJson {
   private static HashMap<String, List<Device>> getCodenames(List<Device> devices) {
     HashMap<String, List<Device>> codenames = new HashMap<>();
     for (Device device : devices) {
+      List<Device> deviceList = codenames.get(device.codename.toLowerCase());
+      if (deviceList == null) {
+        deviceList = new ArrayList<>();
+      }
+      deviceList.add(device);
+      codenames.put(device.codename.toLowerCase(), deviceList);
+    }
+    return codenames;
+  }
+
+  private static HashMap<String, List<Device>> getLegacyCodenames(List<Device> devices) {
+    HashMap<String, List<Device>> codenames = new HashMap<>();
+    for (Device device : devices) {
       List<Device> deviceList = codenames.get(device.codename);
       if (deviceList == null) {
         deviceList = new ArrayList<>();
@@ -74,12 +87,12 @@ public class DevicesToJson {
     this.devices = devices;
   }
 
-  public void createLegacyCodenamesJson(File dir) throws IOException {
-    HashMap<String, List<Device>> codenames = getCodenames(devices);
-    dir.mkdirs();
+  public void createLegacyJson() throws IOException {
+    HashMap<String, List<Device>> codenames = getLegacyCodenames(devices);
+    Constants.LEGACY_CODENAMES_DIR.mkdirs();
     for (Map.Entry<String, List<Device>> entry : codenames.entrySet()) {
       String filename = entry.getKey() + ".json";
-      File file = new File(dir, filename);
+      File file = new File(Constants.LEGACY_CODENAMES_DIR, filename);
       String json = gson.toJson(entry.getValue());
       FileUtils.write(file, json);
     }
@@ -89,7 +102,7 @@ public class DevicesToJson {
     HashMap<String, List<Device>> codenames = getCodenames(devices);
     dir.mkdirs();
     for (Map.Entry<String, List<Device>> entry : codenames.entrySet()) {
-      String filename = entry.getKey().toLowerCase() + ".json";
+      String filename = entry.getKey() + ".json";
       File file = new File(dir, filename);
       String json = gson.toJson(entry.getValue());
       FileUtils.write(file, json);

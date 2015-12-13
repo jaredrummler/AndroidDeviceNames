@@ -51,9 +51,9 @@ public class Main {
 
   public void createJsonFiles(List<Device> devices) throws IOException {
     DevicesToJson toJson = new DevicesToJson(devices);
+    toJson.createLegacyJson();
     toJson.createDevicesJson(Constants.DEVICES_JSON);
     toJson.createCodenamesJson(Constants.CODENAMES_DIR);
-    toJson.createLegacyCodenamesJson(Constants.LEGACY_CODENAMES_DIR);
     toJson.createManufacturersJson(Constants.MANUFACTURERS_DIR);
     toJson.createPopularDevicesJson(Constants.POPULAR_DEVICES_JSON);
   }

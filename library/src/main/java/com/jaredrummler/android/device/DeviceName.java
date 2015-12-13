@@ -2065,7 +2065,7 @@ public class DeviceName {
         for (int i = 0, len = jsonArray.length(); i < len; i++) {
           JSONObject json = jsonArray.getJSONObject(i);
           DeviceInfo info = new DeviceInfo(json);
-          if (codename.equals(info.codename) && model.equals(info.model)) {
+          if (codename.equalsIgnoreCase(info.codename) && model.equalsIgnoreCase(info.model)) {
             // Save to SharedPreferences so we don't need to make another request.
             SharedPreferences.Editor editor = prefs.edit();
             editor.putString(key, json.toString());

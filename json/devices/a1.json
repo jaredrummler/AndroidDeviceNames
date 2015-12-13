@@ -20,7 +20,19 @@
   {
     "manufacturer": "Foxconn",
     "market_name": "",
+    "codename": "A1",
+    "model": "MUCHTEL A1"
+  },
+  {
+    "manufacturer": "Foxconn",
+    "market_name": "",
     "codename": "a1",
     "model": "Rstream-A1"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "UN-MT300",
+    "codename": "A1",
+    "model": "Panasonic UN-MT300"
   }
 ]

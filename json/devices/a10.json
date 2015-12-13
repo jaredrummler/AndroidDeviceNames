@@ -1,5 +1,29 @@
 [
   {
+    "manufacturer": "Acer",
+    "market_name": "Liquid S1",
+    "codename": "a10",
+    "model": "S510"
+  },
+  {
+    "manufacturer": "Asus",
+    "market_name": "",
+    "codename": "a10",
+    "model": "Asus A10"
+  },
+  {
+    "manufacturer": "Asus",
+    "market_name": "",
+    "codename": "a10",
+    "model": "Garmin-Asus A10"
+  },
+  {
+    "manufacturer": "Garmin",
+    "market_name": "",
+    "codename": "a10",
+    "model": "Garmin-Asus A10"
+  },
+  {
     "manufacturer": "Lenovo",
     "market_name": "A10",
     "codename": "A10",
