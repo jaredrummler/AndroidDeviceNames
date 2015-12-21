@@ -6,4 +6,5 @@ dependencies {
     compile 'org.apache.poi:poi:3.9'
     compile 'commons-io:commons-io:2.4'
     compile 'com.squareup.okhttp:okhttp:2.7.0'
+    compile 'org.apache.commons:commons-csv:1.2'
 }
