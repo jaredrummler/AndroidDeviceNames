@@ -352,9 +352,9 @@
       "model": "Archos 90 Copper"
     },
     {
-      "market_name": "Alba 4\" Android",
+      "market_name": "\"Alba 4\"\" Android\"",
       "codename": "ac40dti",
-      "model": "Alba 4\" Android"
+      "model": "\"Alba 4\"\" Android\""
     },
     {
       "market_name": "Archos 101 Copper",
@@ -607,27 +607,37 @@
       "model": "Bush 10.0 MyTablet"
     },
     {
-      "market_name": "Bush 4\" Android Phone",
+      "market_name": "\"Bush 4\"\" Android Phone\"",
       "codename": "ac40cti",
       "model": "Bush 4 Android"
     },
     {
       "market_name": "Bush 5 4G",
       "codename": "ac50heplus",
-      "model": "Bush 5\" 4G"
+      "model": "\"Bush 5\"\" 4G\""
+    },
+    {
+      "market_name": "Bush 5 4G",
+      "codename": "ac50heplus",
+      "model": "\"Bush Spira C2 5\"\" Smartphone\""
     },
     {
       "market_name": "Bush 5 4G",
       "codename": "ac55heplus",
-      "model": "Bush 5.5\" 4G"
+      "model": "\"Bush 5.5\"\" 4G\""
     },
     {
-      "market_name": "Bush 5\" Android",
+      "market_name": "Bush 5 4G",
+      "codename": "ac55heplus",
+      "model": "\"Bush Spira D2 5.5\"\" Smartphone\""
+    },
+    {
+      "market_name": "\"Bush 5\"\" Android\"",
       "codename": "ac50cne",
-      "model": "Bush 5\" Android"
+      "model": "\"Bush 5\"\" Android\""
     },
     {
-      "market_name": "Bush 5\" Android Phone",
+      "market_name": "\"Bush 5\"\" Android Phone\"",
       "codename": "ac50bne",
       "model": "BUSH 5 Android"
     },

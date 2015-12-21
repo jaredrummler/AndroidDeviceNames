@@ -32,6 +32,16 @@
       "model": "Telenor_SmartPlus"
     },
     {
+      "market_name": "V.40",
+      "codename": "Nextel",
+      "model": "V.40"
+    },
+    {
+      "market_name": "V.45",
+      "codename": "VSN",
+      "model": "V.45S"
+    },
+    {
       "market_name": "VSN V.45",
       "codename": "up06_h26_v45",
       "model": "V.45"

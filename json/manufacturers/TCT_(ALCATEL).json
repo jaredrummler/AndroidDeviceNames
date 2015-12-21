@@ -662,6 +662,11 @@
       "model": "6043D"
     },
     {
+      "market_name": "6044D",
+      "codename": "I1-5_4G",
+      "model": "6044D"
+    },
+    {
       "market_name": "7040N",
       "codename": "Yaris5TMO",
       "model": "7040N"
@@ -702,44 +707,44 @@
       "model": "8030Y"
     },
     {
-      "market_name": "8054.0",
+      "market_name": "8054",
       "codename": "Pixi3-7",
-      "model": "8054.0"
+      "model": "8054"
     },
     {
-      "market_name": "8055.0",
+      "market_name": "8055",
       "codename": "Pixi3-7",
-      "model": "8055.0"
+      "model": "8055"
     },
     {
-      "market_name": "8056.0",
+      "market_name": "8056",
       "codename": "Pixi3-7",
-      "model": "8056.0"
+      "model": "8056"
     },
     {
-      "market_name": "8057.0",
+      "market_name": "8057",
       "codename": "Pixi3-7",
-      "model": "8057.0"
+      "model": "8057"
     },
     {
-      "market_name": "8057.0",
+      "market_name": "8057",
       "codename": "Pixi3-7",
       "model": "KR076"
     },
     {
-      "market_name": "8070.0",
+      "market_name": "8070",
       "codename": "Pixi3-8_WIFI",
-      "model": "8070.0"
+      "model": "8070"
     },
     {
-      "market_name": "8079.0",
+      "market_name": "8079",
       "codename": "Pixi3-10_WiFi",
-      "model": "8079.0"
+      "model": "8079"
     },
     {
-      "market_name": "8080.0",
+      "market_name": "8080",
       "codename": "Pixi3-10_WiFi",
-      "model": "8080.0"
+      "model": "8080"
     },
     {
       "market_name": "9002A",
@@ -782,6 +787,11 @@
       "model": "9021A"
     },
     {
+      "market_name": "A450TL",
+      "codename": "ALTO45_TF",
+      "model": "A450TL"
+    },
+    {
       "market_name": "A520L",
       "codename": "Alto4EVDO",
       "model": "A520L"
@@ -790,6 +800,11 @@
       "market_name": "A521L",
       "codename": "Alto4NA",
       "model": "A521L"
+    },
+    {
+      "market_name": "A621BL",
+      "codename": "Pop355",
+      "model": "A621BL"
     },
     {
       "market_name": "A846L",
@@ -1833,7 +1848,7 @@
     },
     {
       "market_name": "ALCATEL one touch 990C+",
-      "codename": "one_touch_990C_Plus_cdm a",
+      "codename": "one_touch_990C_Plus_cdma",
       "model": "ALCATEL one touch 990C+"
     },
     {
@@ -2969,7 +2984,7 @@
     {
       "market_name": "Smartphone Android by SFR STARADDICT II",
       "codename": "one_touch_996_gsm",
-      "model": "Smartphone_Android_by_SFR_STARADDICT_ II"
+      "model": "Smartphone_Android_by_SFR_STARADDICT_II"
     },
     {
       "market_name": "Soul 3.5",

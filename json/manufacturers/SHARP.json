@@ -77,7 +77,7 @@
       "model": "SHF32"
     },
     {
-      "market_name": "AQUOS PAD SHT22",
+      "market_name": "AQUOS PAD  SHT22",
       "codename": "SHT22",
       "model": "SHT22"
     },
@@ -102,17 +102,17 @@
       "model": "SHT21"
     },
     {
-      "market_name": "AQUOS PHONE SERIE SHL22",
+      "market_name": "AQUOS PHONE  SERIE SHL22",
       "codename": "SHL22",
       "model": "SHL22"
     },
     {
-      "market_name": "AQUOS PHONE SERIE SHL23",
+      "market_name": "AQUOS PHONE  SERIE SHL23",
       "codename": "SHL23",
       "model": "SHL23"
     },
     {
-      "market_name": "AQUOS PHONE SERIE mini SHL24",
+      "market_name": "AQUOS PHONE  SERIE mini SHL24",
       "codename": "SHL24",
       "model": "SHL24"
     },
@@ -187,7 +187,7 @@
       "model": "IS15SH"
     },
     {
-      "market_name": "AQUOS PHONE SoftBank 102SH II",
+      "market_name": "AQUOS PHONE SoftBank  102SH II",
       "codename": "SBM102SH2",
       "model": "SBM102SH2"
     },
@@ -212,22 +212,22 @@
       "model": "SBM104SH"
     },
     {
-      "market_name": "AQUOS PHONE THE HYBRID SoftBank\n007SH",
+      "market_name": "AQUOS PHONE THE HYBRID SoftBank 007SH",
       "codename": "SBM007SH",
       "model": "SBM007SH"
     },
     {
-      "market_name": "AQUOS PHONE THE HYBRID SoftBank\n007SH J",
+      "market_name": "AQUOS PHONE THE HYBRID SoftBank 007SH J",
       "codename": "SBM007SHJ",
       "model": "SBM007SHJ"
     },
     {
-      "market_name": "AQUOS PHONE THE HYBRID SoftBank\n101SH",
+      "market_name": "AQUOS PHONE THE HYBRID SoftBank 101SH",
       "codename": "SBM101SH",
       "model": "SBM101SH"
     },
     {
-      "market_name": "AQUOS PHONE THE PREMIUM SoftBank\n009SH",
+      "market_name": "AQUOS PHONE THE PREMIUM SoftBank 009SH",
       "codename": "SBM009SH",
       "model": "SBM009SH"
     },
@@ -257,7 +257,7 @@
       "model": "SBM303SH"
     },
     {
-      "market_name": "AQUOS PHONE ZETA SH-01F",
+      "market_name": "AQUOS PHONE ZETA  SH-01F",
       "codename": "SH-01F",
       "model": "SH-01F"
     },
@@ -342,6 +342,11 @@
       "model": "SH-M02"
     },
     {
+      "market_name": "AQUOS SH-M02-EVA20",
+      "codename": "SH-M02-EVA20",
+      "model": "SH-M02-EVA20"
+    },
+    {
       "market_name": "AQUOS SH-RM02",
       "codename": "SH-RM02",
       "model": "SH-RM02"
@@ -382,7 +387,7 @@
       "model": "SH-04F"
     },
     {
-      "market_name": "AQUOS\n\\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\\nxa4 SH-06G",
+      "market_name": "AQUOS \\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\xa4 SH-06G",
       "codename": "SH-06G",
       "model": "SH-06G"
     },

@@ -554,6 +554,11 @@
     {
       "market_name": "Droid Maxx 2",
       "codename": "lux",
+      "model": "XT1564"
+    },
+    {
+      "market_name": "Droid Maxx 2",
+      "codename": "lux",
       "model": "XT1565"
     },
     {
@@ -590,6 +595,11 @@
       "market_name": "Droid Razr M",
       "codename": "scorpion_mini_t",
       "model": "201M"
+    },
+    {
+      "market_name": "Droid Turbo 2",
+      "codename": "kinzie",
+      "model": "XT1585"
     },
     {
       "market_name": "Droid Ultra",
@@ -1170,6 +1180,21 @@
       "market_name": "Moto X",
       "codename": "victara",
       "model": "XT1098"
+    },
+    {
+      "market_name": "Moto X Force",
+      "codename": "kinzie",
+      "model": "XT1580"
+    },
+    {
+      "market_name": "Moto X Play",
+      "codename": "lux",
+      "model": "XT1021"
+    },
+    {
+      "market_name": "Moto X Play",
+      "codename": "lux",
+      "model": "XT1563"
     },
     {
       "market_name": "Moto X Style",

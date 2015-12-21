@@ -12,6 +12,16 @@
       "model": "BLOOM"
     },
     {
+      "market_name": "FEVER",
+      "codename": "L5460AP25E",
+      "model": "FEVER"
+    },
+    {
+      "market_name": "FEVER",
+      "codename": "l5460",
+      "model": "FEVER"
+    },
+    {
       "market_name": "GETAWAY",
       "codename": "s8812",
       "model": "GETAWAY"
@@ -58,6 +68,11 @@
     },
     {
       "market_name": "LENNY2",
+      "codename": "S5030AP12H",
+      "model": "LENNY2"
+    },
+    {
+      "market_name": "LENNY2",
       "codename": "s5030",
       "model": "LENNY2"
     },
@@ -65,6 +80,16 @@
       "market_name": "MACARON",
       "codename": "l8401_international",
       "model": "MACARON"
+    },
+    {
+      "market_name": "PULP",
+      "codename": "S5420",
+      "model": "PULP"
+    },
+    {
+      "market_name": "PULP 4G",
+      "codename": "l5421",
+      "model": "PULP 4G"
     },
     {
       "market_name": "PULP FAB",
@@ -77,6 +102,11 @@
       "model": "SLIDE2"
     },
     {
+      "market_name": "PULP FAB 4G",
+      "codename": "l5261",
+      "model": "PULP FAB 4G"
+    },
+    {
       "market_name": "RAINBOW",
       "codename": "s5501",
       "model": "RAINBOW"
@@ -87,9 +117,49 @@
       "model": "RAINBOW 4G"
     },
     {
+      "market_name": "RAINBOW JAM",
+      "codename": "S5254AP24K",
+      "model": "RAINBOW JAM"
+    },
+    {
+      "market_name": "RAINBOW JAM",
+      "codename": "s5250",
+      "model": "RAINBOW JAM"
+    },
+    {
+      "market_name": "RAINBOW JAM",
+      "codename": "s5254",
+      "model": "RAINBOW JAM"
+    },
+    {
       "market_name": "RAINBOW LITE",
       "codename": "s5222",
       "model": "RAINBOW LITE"
+    },
+    {
+      "market_name": "RAINBOW LITE 4G",
+      "codename": "L5221",
+      "model": "RAINBOW LITE 4G"
+    },
+    {
+      "market_name": "RAINBOW LITE 4G",
+      "codename": "L5221AE23G",
+      "model": "RAINBOW LITE 4G"
+    },
+    {
+      "market_name": "RAINBOW LITE 4G",
+      "codename": "L5225AC",
+      "model": "RAINBOW LITE 4G"
+    },
+    {
+      "market_name": "RAINBOW LITE 4G",
+      "codename": "L5227AC",
+      "model": "RAINBOW LITE 4G"
+    },
+    {
+      "market_name": "RAINBOW LITE 4G",
+      "codename": "L5251",
+      "model": "RAINBOW JAM 4G"
     },
     {
       "market_name": "RAINBOW UP",

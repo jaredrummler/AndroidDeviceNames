@@ -5,6 +5,31 @@
       "market_name": "",
       "codename": "whistler",
       "model": "W808"
+    },
+    {
+      "market_name": "K-Touch920",
+      "codename": "KTOUCH920",
+      "model": "K-Touch 920"
+    },
+    {
+      "market_name": "K3",
+      "codename": "K3",
+      "model": "K-Touch K3"
+    },
+    {
+      "market_name": "L930i",
+      "codename": "L930i",
+      "model": "K-Touch L930i"
+    },
+    {
+      "market_name": "M2s",
+      "codename": "M2s",
+      "model": "K-Touch M2s"
+    },
+    {
+      "market_name": "Touch 2C",
+      "codename": "Touch2c",
+      "model": "K-Touch Tou ch 2c"
     }
   ]
 }

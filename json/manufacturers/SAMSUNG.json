@@ -522,6 +522,11 @@
       "model": "SM-A510X"
     },
     {
+      "market_name": "Galaxy A5(2016)",
+      "codename": "a5xltechn",
+      "model": "SM-A5100"
+    },
+    {
       "market_name": "Galaxy A7",
       "codename": "a73g",
       "model": "SM-A700H"
@@ -585,6 +590,11 @@
       "market_name": "Galaxy A7(2016)",
       "codename": "a7xelte",
       "model": "SM-A710X"
+    },
+    {
+      "market_name": "Galaxy A7(2016)",
+      "codename": "a7xltechn",
+      "model": "SM-A7100"
     },
     {
       "market_name": "Galaxy A8",
@@ -2290,6 +2300,11 @@
       "market_name": "Galaxy J3",
       "codename": "j3ltectc",
       "model": "SM-J3109"
+    },
+    {
+      "market_name": "Galaxy J3",
+      "codename": "j3ltespr",
+      "model": "SM-J320P"
     },
     {
       "market_name": "Galaxy J5",
