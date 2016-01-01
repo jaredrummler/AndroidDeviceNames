@@ -355,7 +355,7 @@ public class GooglePlayDevices {
         Set<String> models = new TreeSet<>();
         for (Device device : list) {
           codenames.add(device.codename);
-          if (!device.model.equals(deviceName)) {
+          if (!device.model.equals(deviceName) && !device.model.equals("Nexus 7")) {
             models.add(device.model);
           }
         }

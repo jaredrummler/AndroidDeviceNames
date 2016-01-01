@@ -157,6 +157,7 @@ public class DeviceName {
    *     "ro.product.model" ({@link Build#MODEL})
    * @return the market name of a device or {@code fallback} if the device is unknown.
    */
+
   public static String getDeviceName(String codename, String model, String fallback) {
     // ----------------------------------------------------------------------------
     // Acer
@@ -213,13 +214,11 @@ public class DeviceName {
       return "MeMO Pad 7";
     }
     if ((codename != null && (codename.equals("grouper")
-        || codename.equals("tilapia")))
-        || (model != null && (model.equals("Nexus 7")))) {
+        || codename.equals("tilapia")))) {
       return "Nexus 7 (2012)";
     }
     if ((codename != null && (codename.equals("deb")
-        || codename.equals("flo")))
-        || (model != null && (model.equals("Nexus 7")))) {
+        || codename.equals("flo")))) {
       return "Nexus 7 (2013)";
     }
     if ((codename != null && (codename.equals("ASUS_T00F")
@@ -577,12 +576,10 @@ public class DeviceName {
         || codename.equals("i_skt")
         || codename.equals("i_u")
         || codename.equals("iproj")
-        || codename.equals("l1a")
         || codename.equals("lgp930")
         || codename.equals("lgp935")))
         || (model != null && (model.equals("L-01D")
         || model.equals("LG-LU6200")
-        || model.equals("LG-P870")
         || model.equals("LG-P930")
         || model.equals("LG-P935")
         || model.equals("LG-P936")
@@ -1072,6 +1069,7 @@ public class DeviceName {
         || model.equals("SM-J100VPP")
         || model.equals("SM-J100Y")
         || model.equals("SM-J120F")
+        || model.equals("SM-J120M")
         || model.equals("SM-S777C")))) {
       return "Galaxy J1";
     }
@@ -1888,11 +1886,9 @@ public class DeviceName {
     // ----------------------------------------------------------------------------
     // Sony
     if ((codename != null && (codename.equals("D2104")
-        || codename.equals("D2105")
-        || codename.equals("D2114")))
+        || codename.equals("D2105")))
         || (model != null && (model.equals("D2104")
-        || model.equals("D2105")
-        || model.equals("D2114")))) {
+        || model.equals("D2105")))) {
       return "Xperia E1 dual";
     }
     if ((codename != null && (codename.equals("D2202")
