@@ -874,6 +874,11 @@
     {
       "market_name": "Lenovo  TAB 2 A7-30HC",
       "codename": "A7-30HC",
+      "model": "Lenovo 2 A7-30HC"
+    },
+    {
+      "market_name": "Lenovo  TAB 2 A7-30HC",
+      "codename": "A7-30HC",
       "model": "Lenovo TAB 2 A7-30HC"
     },
     {
@@ -1458,6 +1463,11 @@
     },
     {
       "market_name": "Lenovo K50",
+      "codename": "K50a40",
+      "model": "Lenovo K50a40"
+    },
+    {
+      "market_name": "Lenovo K50",
       "codename": "aio_3m_otfp",
       "model": "Lenovo K50-t3s"
     },
@@ -1545,6 +1555,11 @@
       "market_name": "Lenovo P90",
       "codename": "P90",
       "model": "Lenovo P90"
+    },
+    {
+      "market_name": "Lenovo S1",
+      "codename": "S1a40",
+      "model": "Lenovo S1a40"
     },
     {
       "market_name": "Lenovo S580",
@@ -1797,6 +1812,16 @@
       "model": "Lenovo TAB S8-50LC"
     },
     {
+      "market_name": "Lenovo VIBE X3 Lite",
+      "codename": "A7010a48",
+      "model": "Lenovo A7010a48"
+    },
+    {
+      "market_name": "Lenovo VIBE X3 Lite",
+      "codename": "k5fp",
+      "model": "Lenovo K51c78"
+    },
+    {
       "market_name": "Lenovo X2",
       "codename": "X2-EU",
       "model": "Lenovo X2-EU"
@@ -1827,6 +1852,21 @@
       "model": "Lenovo X2-TR"
     },
     {
+      "market_name": "Lenovo X3a40",
+      "codename": "x3_row",
+      "model": "Lenovo X3a40"
+    },
+    {
+      "market_name": "Lenovo X3c50",
+      "codename": "X3c50",
+      "model": "Lenovo X3c50"
+    },
+    {
+      "market_name": "Lenovo X3c70",
+      "codename": "X3c70",
+      "model": "Lenovo X3c70"
+    },
+    {
       "market_name": "Lenovo YOGA Tablet Pro-1050L/Yoga Tablet 2",
       "codename": "YT2",
       "model": "YOGA Tablet 2-1050L"
@@ -1855,6 +1895,36 @@
       "market_name": "Lenovo YOGA Tablet Pro-830LC/Yoga Tablet 2",
       "codename": "YT2",
       "model": "YOGA Tablet 2-830LC"
+    },
+    {
+      "market_name": "Lenovo YT3-850F/Lenovo YOGATab3",
+      "codename": "YT3-850F",
+      "model": "Lenovo YT3-850F"
+    },
+    {
+      "market_name": "Lenovo YT3-850L/Lenovo YOGATab3",
+      "codename": "YT3-850L",
+      "model": "Lenovo YT3-850L"
+    },
+    {
+      "market_name": "Lenovo YT3-850M/Lenovo YOGATab3",
+      "codename": "YT3-850M",
+      "model": "Lenovo YT3-850M"
+    },
+    {
+      "market_name": "Lenovo YT3-X50F/Yoga3 Tablet",
+      "codename": "YT3-X50F",
+      "model": "Lenovo YT3-X50F"
+    },
+    {
+      "market_name": "Lenovo YT3-X50L/Yoga3 Tablet",
+      "codename": "YT3-X50L",
+      "model": "Lenovo YT3-X50L"
+    },
+    {
+      "market_name": "Lenovo YT3-X50M/Yoga3 Tablet",
+      "codename": "YT3-X50M",
+      "model": "Lenovo YT3-X50M"
     },
     {
       "market_name": "Lenovo YogaTablet2 -1050F",
@@ -1890,6 +1960,16 @@
       "market_name": "Lenovo Z90/VIBE Shot",
       "codename": "zoom_fdd",
       "model": "Lenovo Z90-7"
+    },
+    {
+      "market_name": "Lenovo Z90/VIBE Shot",
+      "codename": "zoom_tdd",
+      "model": "Lenovo Z90-3"
+    },
+    {
+      "market_name": "Lenovo Z90a40/VIBE Shot",
+      "codename": "zoom_row",
+      "model": "Lenovo Z90a40"
     },
     {
       "market_name": "LenovoTAB2 A7-30DC",

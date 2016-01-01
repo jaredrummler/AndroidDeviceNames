@@ -507,6 +507,11 @@
       "model": "Orange_infinity_996"
     },
     {
+      "market_name": "\\t ALCATEL ONETOUCH PIXI 3 (3.5)",
+      "codename": "PIXI3_35",
+      "model": "SoshPhone_mini"
+    },
+    {
       "market_name": "\\t ALCATEL ONETOUCH PIXI 3 (4.5)",
       "codename": "PIXI3_45_4G",
       "model": "5017X"
@@ -547,6 +552,11 @@
       "model": "5054D"
     },
     {
+      "market_name": "5054T",
+      "codename": "Pop355",
+      "model": "5054T"
+    },
+    {
       "market_name": "5054W",
       "codename": "Pop355",
       "model": "5054W"
@@ -575,6 +585,11 @@
       "market_name": "5065X",
       "codename": "Pop35",
       "model": "5065X"
+    },
+    {
+      "market_name": "5070D",
+      "codename": "P3-5_4G",
+      "model": "5070D"
     },
     {
       "market_name": "6010A",

@@ -1,26 +1,38 @@
 [
   {
     "manufacturer": "Huawei",
-    "market_name": "CRR-CL00",
+    "market_name": "Mate S",
+    "codename": "HWCRR",
+    "model": "HUAWEI CRR-L09"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Mate S-CL00",
     "codename": "HWCRR",
     "model": "HUAWEI CRR-CL00"
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "CRR-TL00",
+    "market_name": "Mate S-CL20",
+    "codename": "HWCRR",
+    "model": "HUAWEI CRR-CL20"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Mate S-TL00",
     "codename": "HWCRR",
     "model": "HUAWEI CRR-TL00"
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "CRR-UL00",
+    "market_name": "Mate S-UL00",
     "codename": "HWCRR",
     "model": "HUAWEI CRR-UL00"
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "Mate S",
+    "market_name": "Mate S-UL20",
     "codename": "HWCRR",
-    "model": "HUAWEI CRR-L09"
+    "model": "HUAWEI CRR-UL20"
   }
 ]

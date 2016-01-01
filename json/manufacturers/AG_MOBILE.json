@@ -12,14 +12,34 @@
       "model": "AG_Tab_7_0"
     },
     {
+      "market_name": "Boost",
+      "codename": "Boost",
+      "model": "Boost"
+    },
+    {
+      "market_name": "Chacer",
+      "codename": "Chacer",
+      "model": "Chacer"
+    },
+    {
       "market_name": "Ghost",
       "codename": "Ghost",
       "model": "Ghost"
     },
     {
+      "market_name": "Neon",
+      "codename": "Neon",
+      "model": "Neon"
+    },
+    {
       "market_name": "Quest",
       "codename": "Quest",
       "model": "Quest"
+    },
+    {
+      "market_name": "Rage",
+      "codename": "Rage",
+      "model": "Rage"
     },
     {
       "market_name": "Shine",
@@ -32,14 +52,34 @@
       "model": "Status"
     },
     {
+      "market_name": "Style",
+      "codename": "Style",
+      "model": "Style"
+    },
+    {
       "market_name": "Swift",
       "codename": "Swift",
       "model": "Swift"
     },
     {
+      "market_name": "Swift_Plus",
+      "codename": "Swift_Plus",
+      "model": "Swift_Plus"
+    },
+    {
       "market_name": "ULTRA",
       "codename": "Ultra",
       "model": "Ultra"
+    },
+    {
+      "market_name": "Zenith",
+      "codename": "Zenith",
+      "model": "Zenith"
+    },
+    {
+      "market_name": "Zoom",
+      "codename": "Zoom",
+      "model": "Zoom"
     }
   ]
 }

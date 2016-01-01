@@ -1582,21 +1582,6 @@
       "model": "CM990"
     },
     {
-      "market_name": "CRR-CL00",
-      "codename": "HWCRR",
-      "model": "HUAWEI CRR-CL00"
-    },
-    {
-      "market_name": "CRR-TL00",
-      "codename": "HWCRR",
-      "model": "HUAWEI CRR-TL00"
-    },
-    {
-      "market_name": "CRR-UL00",
-      "codename": "HWCRR",
-      "model": "HUAWEI CRR-UL00"
-    },
-    {
       "market_name": "Che1-CL10",
       "codename": "Che1",
       "model": "Che1-CL10"
@@ -1650,6 +1635,11 @@
       "market_name": "D2",
       "codename": "hwD2-6070",
       "model": "HUAWEI D2-6070"
+    },
+    {
+      "market_name": "DAV",
+      "codename": "HWP8max",
+      "model": "HUAWEI P8max"
     },
     {
       "market_name": "G350",
@@ -2287,6 +2277,31 @@
       "model": "HUAWEI G7-UL20"
     },
     {
+      "market_name": "HUAWEI G8",
+      "codename": "HWRIO",
+      "model": "HUAWEI RIO-L02"
+    },
+    {
+      "market_name": "HUAWEI G8",
+      "codename": "HWRIO",
+      "model": "HUAWEI RIO-L03"
+    },
+    {
+      "market_name": "HUAWEI G8",
+      "codename": "HWRIO",
+      "model": "RIO-L03"
+    },
+    {
+      "market_name": "HUAWEI GX8",
+      "codename": "hwRIO-L01",
+      "model": "HUAWEI"
+    },
+    {
+      "market_name": "HUAWEI GX8",
+      "codename": "hwRIO-L01",
+      "model": "HUAWEI RIO-L01"
+    },
+    {
       "market_name": "HUAWEI H871G",
       "codename": "hwh871g",
       "model": "HUAWEI H871G"
@@ -2417,6 +2432,36 @@
       "model": "HUAWEI P7-L11"
     },
     {
+      "market_name": "HUAWEI RIO-CL00",
+      "codename": "hwRIO-CL00",
+      "model": "HUAWEI RIO-CL00"
+    },
+    {
+      "market_name": "HUAWEI ShotX",
+      "codename": "HWATH",
+      "model": "HUAWEI ATH-UL01"
+    },
+    {
+      "market_name": "HUAWEI ShotX",
+      "codename": "HWATH",
+      "model": "HUAWEI ATH-UL06"
+    },
+    {
+      "market_name": "HUAWEI TANGO",
+      "codename": "HWTAG-L6753",
+      "model": "HUAWEI TAG-AL00"
+    },
+    {
+      "market_name": "HUAWEI TANGO",
+      "codename": "HWTAG-L6753",
+      "model": "HUAWEI TAG-CL00"
+    },
+    {
+      "market_name": "HUAWEI TANGO",
+      "codename": "HWTAG-L6753",
+      "model": "HUAWEI TAG-TL00"
+    },
+    {
       "market_name": "HUAWEI WATCH",
       "codename": "sturgeon",
       "model": "HUAWEI WATCH"
@@ -2449,12 +2494,27 @@
     {
       "market_name": "HUAWEI Y6 Pro",
       "codename": "HWTIT-L6735",
+      "model": "HUAWEI TIT-AL00"
+    },
+    {
+      "market_name": "HUAWEI Y6 Pro",
+      "codename": "HWTIT-L6735",
       "model": "HUAWEI TIT-CL10"
     },
     {
       "market_name": "HUAWEI Y6 Pro",
       "codename": "HWTIT-L6735",
       "model": "HUAWEI TIT-TL00"
+    },
+    {
+      "market_name": "HUAWEI Y6 Pro",
+      "codename": "HWTIT-L6735",
+      "model": "TIT-AL00"
+    },
+    {
+      "market_name": "HUAWEI Y6 Pro",
+      "codename": "HWTIT-L8916",
+      "model": "HUAWEI TIT-CL00"
     },
     {
       "market_name": "HUAWEI Y610",
@@ -2517,6 +2577,11 @@
       "model": "KIW-TL00H"
     },
     {
+      "market_name": "Honor Box",
+      "codename": "m321",
+      "model": "M321"
+    },
+    {
       "market_name": "Honor3",
       "codename": "hwH30-T10",
       "model": "H30-T10"
@@ -2570,6 +2635,31 @@
       "market_name": "LISZT",
       "codename": "hwliszt",
       "model": "HUAWEI M2-A01W"
+    },
+    {
+      "market_name": "M2",
+      "codename": "HWMozart",
+      "model": "HUAWEI M2-801L"
+    },
+    {
+      "market_name": "M2",
+      "codename": "HWMozart",
+      "model": "HUAWEI M2-801W"
+    },
+    {
+      "market_name": "M2",
+      "codename": "HWMozart",
+      "model": "HUAWEI M2-802L"
+    },
+    {
+      "market_name": "M2",
+      "codename": "HWMozart",
+      "model": "HUAWEI M2-803L"
+    },
+    {
+      "market_name": "M2-802LD",
+      "codename": "d-02H",
+      "model": "d-02H"
     },
     {
       "market_name": "M2-A04L",
@@ -2687,14 +2777,99 @@
       "model": "HUAWEI MT1-T00"
     },
     {
+      "market_name": "Mate 8-AL10",
+      "codename": "HWNXT",
+      "model": "HUAWEI NXT-AL10"
+    },
+    {
+      "market_name": "Mate 8-CL00",
+      "codename": "HWNXT",
+      "model": "HUAWEI NXT-CL00"
+    },
+    {
+      "market_name": "Mate 8-DL00",
+      "codename": "HWNXT",
+      "model": "HUAWEI NXT-DL00"
+    },
+    {
+      "market_name": "Mate 8-L09",
+      "codename": "HWNXT",
+      "model": "HUAWEI NXT-L09"
+    },
+    {
+      "market_name": "Mate 8-L29",
+      "codename": "HWNXT",
+      "model": "HUAWEI NXT-L29"
+    },
+    {
+      "market_name": "Mate 8-TL00",
+      "codename": "HWNXT",
+      "model": "HUAWEI NXT-TL00"
+    },
+    {
       "market_name": "Mate S",
       "codename": "HWCRR",
       "model": "HUAWEI CRR-L09"
     },
     {
+      "market_name": "Mate S-CL00",
+      "codename": "HWCRR",
+      "model": "HUAWEI CRR-CL00"
+    },
+    {
+      "market_name": "Mate S-CL20",
+      "codename": "HWCRR",
+      "model": "HUAWEI CRR-CL20"
+    },
+    {
+      "market_name": "Mate S-TL00",
+      "codename": "HWCRR",
+      "model": "HUAWEI CRR-TL00"
+    },
+    {
+      "market_name": "Mate S-UL00",
+      "codename": "HWCRR",
+      "model": "HUAWEI CRR-UL00"
+    },
+    {
+      "market_name": "Mate S-UL20",
+      "codename": "HWCRR",
+      "model": "HUAWEI CRR-UL20"
+    },
+    {
       "market_name": "Mate2",
       "codename": "hwmt2-c00",
       "model": "HUAWEI MT2-C00"
+    },
+    {
+      "market_name": "MediaPad",
+      "codename": "hwt1701",
+      "model": "HUAWEI MediaPad T1 7.0 3G"
+    },
+    {
+      "market_name": "MediaPad",
+      "codename": "hwt1701",
+      "model": "T1 7.0"
+    },
+    {
+      "market_name": "MediaPad",
+      "codename": "hwt1701",
+      "model": "T1-701u"
+    },
+    {
+      "market_name": "MediaPad",
+      "codename": "hwt1701",
+      "model": "T1-701ua"
+    },
+    {
+      "market_name": "MediaPad",
+      "codename": "hwt1701",
+      "model": "T1-701w"
+    },
+    {
+      "market_name": "MediaPad",
+      "codename": "hwt1701",
+      "model": "Telpad QS"
     },
     {
       "market_name": "MediaPad Vogue",
@@ -2935,6 +3110,11 @@
       "market_name": "T-Mobile Pulse",
       "codename": "U8100",
       "model": "Videocon_V7400"
+    },
+    {
+      "market_name": "T1",
+      "codename": "hwt1823l",
+      "model": "T1-823L"
     },
     {
       "market_name": "T1 10",
@@ -3732,9 +3912,49 @@
       "model": "S8-701w"
     },
     {
+      "market_name": "t1_8p0lte",
+      "codename": "hwt1821l",
+      "model": "HUAWEI MediaPad T1 8.0 4G"
+    },
+    {
+      "market_name": "t1_8p0lte",
+      "codename": "hwt1821l",
+      "model": "MediaPad T1 8.0 Pro"
+    },
+    {
+      "market_name": "t1_8p0lte",
+      "codename": "hwt1821l",
+      "model": "S8-821w"
+    },
+    {
+      "market_name": "t1_8p0lte",
+      "codename": "hwt1821l",
+      "model": "T1-821w"
+    },
+    {
+      "market_name": "t1_8p0lte",
+      "codename": "hwt1821l",
+      "model": "T1-823L"
+    },
+    {
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
       "codename": "HNKIW-Q",
       "model": "KIW-AL10"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
+      "codename": "HNKIW-Q",
+      "model": "KIW-CL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
+      "codename": "HNKIW-Q",
+      "model": "KIW-TL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
+      "codename": "HNKIW-Q",
+      "model": "KIW-UL00"
     },
     {
       "market_name": "\\xe9\\xba\\xa6\\xe8\\x8a\\x924",

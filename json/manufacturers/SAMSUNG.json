@@ -237,6 +237,11 @@
       "model": "GT-I9260"
     },
     {
+      "market_name": "\\t Galaxy A7(2016)",
+      "codename": "a7xltechn",
+      "model": "SM-A710XZ"
+    },
+    {
       "market_name": "Absolute",
       "codename": "GT-B9120",
       "model": "GT-B9120"
@@ -422,6 +427,26 @@
       "model": "SM-A300Y"
     },
     {
+      "market_name": "Galaxy A3(2016)",
+      "codename": "a3xelte",
+      "model": "SM-A310F"
+    },
+    {
+      "market_name": "Galaxy A3(2016)",
+      "codename": "a3xelte",
+      "model": "SM-A310M"
+    },
+    {
+      "market_name": "Galaxy A3(2016)",
+      "codename": "a3xelte",
+      "model": "SM-A310X"
+    },
+    {
+      "market_name": "Galaxy A3(2016)",
+      "codename": "a3xelte",
+      "model": "SM-A310Y"
+    },
+    {
       "market_name": "Galaxy A5",
       "codename": "a53g",
       "model": "SM-A500H"
@@ -523,8 +548,38 @@
     },
     {
       "market_name": "Galaxy A5(2016)",
+      "codename": "a5xeltektt",
+      "model": "SM-A510K"
+    },
+    {
+      "market_name": "Galaxy A5(2016)",
+      "codename": "a5xeltelgt",
+      "model": "SM-A510L"
+    },
+    {
+      "market_name": "Galaxy A5(2016)",
+      "codename": "a5xelteskt",
+      "model": "SM-A510S"
+    },
+    {
+      "market_name": "Galaxy A5(2016)",
+      "codename": "a5xeltextc",
+      "model": "SM-A510Y"
+    },
+    {
+      "market_name": "Galaxy A5(2016)",
       "codename": "a5xltechn",
       "model": "SM-A5100"
+    },
+    {
+      "market_name": "Galaxy A5(2016)",
+      "codename": "a5xltechn",
+      "model": "SM-A5100X"
+    },
+    {
+      "market_name": "Galaxy A5(2016)",
+      "codename": "a5xltechn",
+      "model": "SM-A510XZ"
     },
     {
       "market_name": "Galaxy A7",
@@ -593,6 +648,26 @@
     },
     {
       "market_name": "Galaxy A7(2016)",
+      "codename": "a7xeltektt",
+      "model": "SM-A710K"
+    },
+    {
+      "market_name": "Galaxy A7(2016)",
+      "codename": "a7xeltelgt",
+      "model": "SM-A710L"
+    },
+    {
+      "market_name": "Galaxy A7(2016)",
+      "codename": "a7xelteskt",
+      "model": "SM-A710S"
+    },
+    {
+      "market_name": "Galaxy A7(2016)",
+      "codename": "a7xeltextc",
+      "model": "SM-A710Y"
+    },
+    {
+      "market_name": "Galaxy A7(2016)",
       "codename": "a7xltechn",
       "model": "SM-A7100"
     },
@@ -635,6 +710,11 @@
       "market_name": "Galaxy A8",
       "codename": "a8ltechn",
       "model": "SM-A800X"
+    },
+    {
+      "market_name": "Galaxy A9(2016)",
+      "codename": "a9xltechn",
+      "model": "SM-A9000"
     },
     {
       "market_name": "Galaxy Ace",
@@ -2235,6 +2315,11 @@
       "market_name": "Galaxy J1",
       "codename": "j1xlte",
       "model": "SM-J120F"
+    },
+    {
+      "market_name": "Galaxy J1",
+      "codename": "j1xlte",
+      "model": "SM-J120M"
     },
     {
       "market_name": "Galaxy J1 Ace",
@@ -7280,6 +7365,11 @@
       "market_name": "Galaxy win",
       "codename": "delos3gss",
       "model": "GT-I8550L"
+    },
+    {
+      "market_name": "Galaxy-A9(2016)",
+      "codename": "a9xltechn",
+      "model": "SM-A9000"
     },
     {
       "market_name": "Garda",
