@@ -552,6 +552,11 @@
       "model": "5054D"
     },
     {
+      "market_name": "5054S",
+      "codename": "Pop355",
+      "model": "5054S"
+    },
+    {
       "market_name": "5054T",
       "codename": "Pop355",
       "model": "5054T"
@@ -1992,6 +1997,16 @@
       "model": "ALCATEL_one_touch_985"
     },
     {
+      "market_name": "Alcatel_5054O",
+      "codename": "Pop355",
+      "model": "Alcatel_5054O"
+    },
+    {
+      "market_name": "Alcatel_5056O",
+      "codename": "Pop355",
+      "model": "Alcatel_5056O"
+    },
+    {
       "market_name": "Alcatel_one_touch_918_Orange",
       "codename": "one_touch_918_gsm",
       "model": "Alcatel_one_touch_918_Orange"
@@ -2040,6 +2055,21 @@
       "market_name": "EVO7",
       "codename": "EVO7",
       "model": "starTIM tab 7"
+    },
+    {
+      "market_name": "Go PLAY",
+      "codename": "alto5_sporty",
+      "model": "7048A"
+    },
+    {
+      "market_name": "Go PLAY",
+      "codename": "alto5_sporty",
+      "model": "7048S"
+    },
+    {
+      "market_name": "Go PLAY",
+      "codename": "alto5_sporty",
+      "model": "7048W"
     },
     {
       "market_name": "Go PLAY",
@@ -2817,6 +2847,11 @@
       "model": "4024D"
     },
     {
+      "market_name": "PLAY_P1",
+      "codename": "PLAY_P1",
+      "model": "4024E"
+    },
+    {
       "market_name": "POP 2",
       "codename": "Alto45",
       "model": "5042A"
@@ -2982,6 +3017,11 @@
       "model": "I213"
     },
     {
+      "market_name": "S4035_4G",
+      "codename": "Pop355",
+      "model": "S4035_4G"
+    },
+    {
       "market_name": "SMART 4G 5.5 Enterprise",
       "codename": "M812",
       "model": "SMART 4G 5.5 Enterprise"
@@ -3000,6 +3040,11 @@
       "market_name": "Smartphone Android by SFR STARADDICT II",
       "codename": "one_touch_996_gsm",
       "model": "Smartphone_Android_by_SFR_STARADDICT_II"
+    },
+    {
+      "market_name": "Sol",
+      "codename": "idol3",
+      "model": "AM-H200"
     },
     {
       "market_name": "Soul 3.5",
@@ -3485,6 +3530,11 @@
       "market_name": "TCL S960T",
       "codename": "DIABLOXPLUS",
       "model": "TCL S960T"
+    },
+    {
+      "market_name": "TCL T500L",
+      "codename": "evoque_cn",
+      "model": "TCL T500L"
     },
     {
       "market_name": "TCL Y900",

@@ -112,6 +112,11 @@
       "model": "HG-9041"
     },
     {
+      "market_name": "HM-N501-FL",
+      "codename": "HM-N501-FL",
+      "model": "HM-N501-FL"
+    },
+    {
       "market_name": "HS-10DTB4",
       "codename": "HS-10DTB4",
       "model": "HS-10DTB4"
@@ -195,6 +200,11 @@
       "market_name": "L50",
       "codename": "M916-D500-PAK",
       "model": "L50"
+    },
+    {
+      "market_name": "L52",
+      "codename": "Haier_L52",
+      "model": "L52"
     },
     {
       "market_name": "LE32U5000A",

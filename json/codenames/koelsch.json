@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Honda",
+    "market_name": "Accord",
+    "codename": "koelsch",
+    "model": "MY16ADA"
+  },
+  {
+    "manufacturer": "Honda",
     "market_name": "MY15ADA",
     "codename": "koelsch",
     "model": "MY15ADA"
@@ -8,6 +14,12 @@
   {
     "manufacturer": "Honda",
     "market_name": "Pilot",
+    "codename": "koelsch",
+    "model": "MY15ADA"
+  },
+  {
+    "manufacturer": "Honda",
+    "market_name": "Spirior",
     "codename": "koelsch",
     "model": "MY15ADA"
   }

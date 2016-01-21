@@ -2,6 +2,11 @@
   "manufacturer": "Sprint",
   "devices": [
     {
+      "market_name": "AQT100",
+      "codename": "NKJ_AQT100",
+      "model": "AQT100"
+    },
+    {
       "market_name": "Slate 8 Tablet",
       "codename": "NKS_AQT80",
       "model": "AQT80"

@@ -548,6 +548,11 @@
     },
     {
       "market_name": "Galaxy A5(2016)",
+      "codename": "a5xelte",
+      "model": "SM-A510Y"
+    },
+    {
+      "market_name": "Galaxy A5(2016)",
       "codename": "a5xeltektt",
       "model": "SM-A510K"
     },
@@ -580,6 +585,11 @@
       "market_name": "Galaxy A5(2016)",
       "codename": "a5xltechn",
       "model": "SM-A510XZ"
+    },
+    {
+      "market_name": "Galaxy A5x(2016)",
+      "codename": "a5xeltextc",
+      "model": "SM-A510Y"
     },
     {
       "market_name": "Galaxy A7",
@@ -2345,6 +2355,11 @@
       "market_name": "Galaxy J1 Ace",
       "codename": "j1pop3g",
       "model": "SM-J110L"
+    },
+    {
+      "market_name": "Galaxy J1(2016)",
+      "codename": "j1x3g",
+      "model": "SM-J120H"
     },
     {
       "market_name": "Galaxy J2",
@@ -6058,6 +6073,11 @@
     },
     {
       "market_name": "Galaxy Tab E 8.0",
+      "codename": "gtesltetw",
+      "model": "SM-T3777"
+    },
+    {
+      "market_name": "Galaxy Tab E 8.0",
       "codename": "gtesqltespr",
       "model": "SM-T377P"
     },
@@ -7360,6 +7380,16 @@
       "market_name": "Galaxy player 70 Plus",
       "codename": "YP-GB70D",
       "model": "YP-GB70D"
+    },
+    {
+      "market_name": "Galaxy view",
+      "codename": "gvltektt",
+      "model": "SM-T677NK"
+    },
+    {
+      "market_name": "Galaxy view",
+      "codename": "gvltelgt",
+      "model": "SM-T677NL"
     },
     {
       "market_name": "Galaxy win",

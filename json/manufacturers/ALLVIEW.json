@@ -122,6 +122,11 @@
       "model": "P8_Energy"
     },
     {
+      "market_name": "P8 Energy mini",
+      "codename": "P8_Energy_mini",
+      "model": "P8_Energy_mini"
+    },
+    {
       "market_name": "V1 Viper E",
       "codename": "V1_Viper_E",
       "model": "V1_Viper_E"
@@ -222,6 +227,11 @@
       "model": "Viva_i7G"
     },
     {
+      "market_name": "Viva_H701_LTE",
+      "codename": "Viva_H701_LTE",
+      "model": "Viva_H701_LTE"
+    },
+    {
       "market_name": "X2 Soul Lite",
       "codename": "X2_Soul_Lite",
       "model": "X2_Soul_Lite"
@@ -245,6 +255,11 @@
       "market_name": "X2 Soul Style",
       "codename": "X2_Soul_Style",
       "model": "X2_Soul_Style"
+    },
+    {
+      "market_name": "X2 Soul Style",
+      "codename": "X2_Soul_Style",
+      "model": "X2_Soul_Style_TM"
     },
     {
       "market_name": "X2 Soul Style+",

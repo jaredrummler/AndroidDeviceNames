@@ -2,6 +2,11 @@
   "manufacturer": "Nuu",
   "devices": [
     {
+      "market_name": "NUU N4L",
+      "codename": "N4L",
+      "model": "N4L"
+    },
+    {
       "market_name": "NUU N5L",
       "codename": "N5L",
       "model": "N5L"

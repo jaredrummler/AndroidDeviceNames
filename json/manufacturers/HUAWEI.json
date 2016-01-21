@@ -738,16 +738,6 @@
     },
     {
       "market_name": "",
-      "codename": "hwu8652",
-      "model": "Huawei-U8652"
-    },
-    {
-      "market_name": "",
-      "codename": "hwu8652",
-      "model": "U8652"
-    },
-    {
-      "market_name": "",
       "codename": "hwu8652-51",
       "model": "U8652-51"
     },
@@ -2657,16 +2647,6 @@
       "model": "HUAWEI M2-803L"
     },
     {
-      "market_name": "M2-802LD",
-      "codename": "d-02H",
-      "model": "d-02H"
-    },
-    {
-      "market_name": "M2-A04L",
-      "codename": "d-01H",
-      "model": "d-01H"
-    },
-    {
       "market_name": "M220",
       "codename": "hwmediaqm220",
       "model": "M220"
@@ -3113,6 +3093,21 @@
     },
     {
       "market_name": "T1",
+      "codename": "hwt1821l",
+      "model": "T1-821L"
+    },
+    {
+      "market_name": "T1",
+      "codename": "hwt1821l",
+      "model": "T1-821W"
+    },
+    {
+      "market_name": "T1",
+      "codename": "hwt1821l",
+      "model": "T1-823L"
+    },
+    {
+      "market_name": "T1",
       "codename": "hwt1823l",
       "model": "T1-823L"
     },
@@ -3200,6 +3195,16 @@
       "market_name": "U8230",
       "codename": "U8230",
       "model": "U8230"
+    },
+    {
+      "market_name": "U8652",
+      "codename": "hwu8652",
+      "model": "Huawei-U8652"
+    },
+    {
+      "market_name": "U8652",
+      "codename": "hwu8652",
+      "model": "U8652"
     },
     {
       "market_name": "U8687",
@@ -3880,6 +3885,16 @@
       "market_name": "d-01G",
       "codename": "d-01G",
       "model": "d-01G"
+    },
+    {
+      "market_name": "d-01H",
+      "codename": "d-01H",
+      "model": "d-01H"
+    },
+    {
+      "market_name": "d-02H",
+      "codename": "d-02H",
+      "model": "d-02H"
     },
     {
       "market_name": "eH811",

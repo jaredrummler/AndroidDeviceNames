@@ -92,6 +92,11 @@
       "model": "USCC-E6762"
     },
     {
+      "market_name": "DuraForce XD",
+      "codename": "E6790",
+      "model": "KYOCERA-E6790"
+    },
+    {
       "market_name": "DuraScout",
       "codename": "E6782L",
       "model": "E6782L"
@@ -175,6 +180,16 @@
       "market_name": "Hydro VIBE",
       "codename": "C6725",
       "model": "C6725"
+    },
+    {
+      "market_name": "Hydro VIEW",
+      "codename": "C6742",
+      "model": "C6742"
+    },
+    {
+      "market_name": "Hydro VIEW",
+      "codename": "C6742",
+      "model": "KYOCERA-C6742"
     },
     {
       "market_name": "Hydro WAVE",

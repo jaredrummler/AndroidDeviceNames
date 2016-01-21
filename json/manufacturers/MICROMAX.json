@@ -178,6 +178,21 @@
     },
     {
       "market_name": "Bolt",
+      "codename": "A79",
+      "model": "Micromax A79"
+    },
+    {
+      "market_name": "Bolt",
+      "codename": "A82",
+      "model": "Micromax A82"
+    },
+    {
+      "market_name": "Bolt",
+      "codename": "AD3520",
+      "model": "Micromax AD3520"
+    },
+    {
+      "market_name": "Bolt",
       "codename": "AD4500",
       "model": "Micromax AD4500"
     },
@@ -225,6 +240,11 @@
       "market_name": "Bolt",
       "codename": "S300",
       "model": "Micromax S300"
+    },
+    {
+      "market_name": "Bolt",
+      "codename": "S301",
+      "model": "Micromax S301"
     },
     {
       "market_name": "Bolt",
@@ -397,6 +417,11 @@
       "model": "Micromax A104"
     },
     {
+      "market_name": "Canvas Fire3",
+      "codename": "A096",
+      "model": "Micromax A096"
+    },
+    {
       "market_name": "Canvas Fire4",
       "codename": "A107",
       "model": "Micromax A107"
@@ -405,6 +430,16 @@
       "market_name": "Canvas HD Plus",
       "codename": "A190",
       "model": "Micromax A190"
+    },
+    {
+      "market_name": "Canvas Hue",
+      "codename": "AQ5000",
+      "model": "Micromax AQ5000"
+    },
+    {
+      "market_name": "Canvas Hue 2",
+      "codename": "A316",
+      "model": "Micromax A316"
     },
     {
       "market_name": "Canvas Juice",
@@ -485,6 +520,11 @@
       "market_name": "Canvas Pep",
       "codename": "Q371",
       "model": "Micromax Q371"
+    },
+    {
+      "market_name": "Canvas Pep",
+      "codename": "Q375",
+      "model": "Micromax Q375"
     },
     {
       "market_name": "Canvas Play",
@@ -665,6 +705,11 @@
       "market_name": "Xpress 2",
       "codename": "E313",
       "model": "Micromax E313"
+    },
+    {
+      "market_name": "Yutopia",
+      "codename": "YUTOPIA",
+      "model": "YU5050"
     }
   ]
 }

@@ -2,6 +2,11 @@
   "manufacturer": "Claresta",
   "devices": [
     {
+      "market_name": "F3",
+      "codename": "F3",
+      "model": "F3"
+    },
+    {
       "market_name": "G4",
       "codename": "G4",
       "model": "G4"

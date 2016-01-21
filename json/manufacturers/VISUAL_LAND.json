@@ -2,6 +2,11 @@
   "manufacturer": "Visual Land",
   "devices": [
     {
+      "market_name": "Prestige Elite10QI",
+      "codename": "Elite10QI",
+      "model": "Elite10QI"
+    },
+    {
       "market_name": "Prestige Elite10QL",
       "codename": "Elite10QL",
       "model": "Elite10QL"
@@ -50,6 +55,11 @@
       "market_name": "Prestige Prime10ES",
       "codename": "Prime10ES",
       "model": "Prime10ES"
+    },
+    {
+      "market_name": "Prestige Prime11E",
+      "codename": "Prime11E",
+      "model": "Prime11E"
     }
   ]
 }

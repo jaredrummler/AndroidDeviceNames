@@ -13,6 +13,12 @@
   },
   {
     "manufacturer": "TCT (Alcatel)",
+    "market_name": "5054S",
+    "codename": "Pop355",
+    "model": "5054S"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
     "market_name": "5054T",
     "codename": "Pop355",
     "model": "5054T"
@@ -34,5 +40,23 @@
     "market_name": "A621BL",
     "codename": "Pop355",
     "model": "A621BL"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel_5054O",
+    "codename": "Pop355",
+    "model": "Alcatel_5054O"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel_5056O",
+    "codename": "Pop355",
+    "model": "Alcatel_5056O"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "S4035_4G",
+    "codename": "Pop355",
+    "model": "S4035_4G"
   }
 ]

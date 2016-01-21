@@ -137,6 +137,11 @@
       "model": "InFocus M530"
     },
     {
+      "market_name": "InFocus M535",
+      "codename": "G40",
+      "model": "InFocus M535"
+    },
+    {
       "market_name": "InFocus M550",
       "codename": "ZZ1",
       "model": "InFocus M550"
@@ -145,6 +150,11 @@
       "market_name": "InFocus M550 3D",
       "codename": "ZD1",
       "model": "InFocus M550 3D"
+    },
+    {
+      "market_name": "InFocus M560",
+      "codename": "ZM1",
+      "model": "InFocus M560"
     },
     {
       "market_name": "InFocus M680",
@@ -175,6 +185,11 @@
       "market_name": "InFocus M812",
       "codename": "VN2",
       "model": "InFocus M812"
+    },
+    {
+      "market_name": "InFocus M812A",
+      "codename": "VN2",
+      "model": "InFocus M812A"
     },
     {
       "market_name": "InFocus M812i",

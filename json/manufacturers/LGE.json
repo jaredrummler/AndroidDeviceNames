@@ -2057,6 +2057,26 @@
       "model": "LG-H221AR"
     },
     {
+      "market_name": "LG K10",
+      "codename": "m216n",
+      "model": "LG-F670K"
+    },
+    {
+      "market_name": "LG K10",
+      "codename": "m216n",
+      "model": "LG-F670L"
+    },
+    {
+      "market_name": "LG K10",
+      "codename": "m216n",
+      "model": "LG-F670S"
+    },
+    {
+      "market_name": "LG K9",
+      "codename": "m23g",
+      "model": "LG-K410"
+    },
+    {
       "market_name": "LG L39C",
       "codename": "l4ii_cdma",
       "model": "LGL39C"
@@ -4102,11 +4122,6 @@
       "model": "LG-P355"
     },
     {
-      "market_name": "SH950C-CM",
-      "codename": "stb_catv_cnmuhd",
-      "model": "SH950C-CM"
-    },
-    {
       "market_name": "Shine Plus with Google",
       "codename": "alohag",
       "model": "LG-C710h"
@@ -4285,6 +4300,11 @@
       "market_name": "Y25",
       "codename": "y25c",
       "model": "LGL16C"
+    },
+    {
+      "market_name": "Zone3",
+      "codename": "e1q",
+      "model": "VS425PP"
     }
   ]
 }

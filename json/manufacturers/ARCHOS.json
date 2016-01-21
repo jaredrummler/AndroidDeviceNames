@@ -117,6 +117,11 @@
       "model": "Archos 45c Platinum"
     },
     {
+      "market_name": "50 Diamond",
+      "codename": "ac50da",
+      "model": "Archos 50 Diamond"
+    },
+    {
       "market_name": "50 Helium 4G",
       "codename": "a50he",
       "model": "Archos 50 Helium 4G"
@@ -425,11 +430,6 @@
       "market_name": "Archos 45b Helium",
       "codename": "ac45bhe",
       "model": "ARCHOS 45b Helium"
-    },
-    {
-      "market_name": "Archos 50 Diamond",
-      "codename": "ac50da",
-      "model": "Archos 50 Diamond"
     },
     {
       "market_name": "Archos 50 Oxygen plus",
