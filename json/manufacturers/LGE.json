@@ -787,6 +787,11 @@
       "model": "LG-V400Y1"
     },
     {
+      "market_name": "G Pad 7.0",
+      "codename": "e7wifi",
+      "model": "LG-V400Y7"
+    },
+    {
       "market_name": "G Pad 7.0 LTE",
       "codename": "e7lte",
       "model": "LG-V410"
@@ -820,6 +825,21 @@
       "market_name": "G Pad II 8.0",
       "codename": "t8wifi",
       "model": "LG-V498S2"
+    },
+    {
+      "market_name": "G Pad \\xe2\\x85\\xa1 10.1",
+      "codename": "t1lte",
+      "model": "LGUK932"
+    },
+    {
+      "market_name": "G Pad \\xe2\\x85\\xa1 10.1 FHD 4G LTE",
+      "codename": "t1lte",
+      "model": "LG-V935"
+    },
+    {
+      "market_name": "G Pad \\xe2\\x85\\xa1 10.1 FHD 4G LTE",
+      "codename": "t1lte",
+      "model": "LG-V935T"
     },
     {
       "market_name": "G Pro Lite",
@@ -2027,6 +2047,11 @@
       "model": "LG-H734"
     },
     {
+      "market_name": "LG Gpad X 10.1",
+      "codename": "t1lte",
+      "model": "LG-V930"
+    },
+    {
       "market_name": "LG Gx",
       "codename": "omega",
       "model": "LG-F310L"
@@ -2072,7 +2097,7 @@
       "model": "LG-F670S"
     },
     {
-      "market_name": "LG K9",
+      "market_name": "LG K10",
       "codename": "m23g",
       "model": "LG-K410"
     },
@@ -2195,6 +2220,21 @@
       "market_name": "LG Lucid 3",
       "codename": "x5",
       "model": "VS876"
+    },
+    {
+      "market_name": "LG M1",
+      "codename": "m1",
+      "model": "LG-K330"
+    },
+    {
+      "market_name": "LG M1",
+      "codename": "m1",
+      "model": "LGLS675"
+    },
+    {
+      "market_name": "LG M1",
+      "codename": "m1",
+      "model": "LGMS330"
     },
     {
       "market_name": "LG Mach\\xe2\\x84\\xa2",
@@ -3085,6 +3125,11 @@
       "market_name": "LG Volt LTE",
       "codename": "c70w",
       "model": "LG-F540S"
+    },
+    {
+      "market_name": "LG Volt S",
+      "codename": "c90",
+      "model": "LG-F640S"
     },
     {
       "market_name": "LG Watch Urbane",

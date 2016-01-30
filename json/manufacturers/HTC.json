@@ -537,6 +537,11 @@
       "model": "HTC_B810x"
     },
     {
+      "market_name": "HTC Butterfly 3",
+      "codename": "htc_b3tuhl",
+      "model": "HTC_B830x"
+    },
+    {
       "market_name": "HTC Butterfly s 9060",
       "codename": "dlpdug",
       "model": "HTC 9060"
@@ -1070,6 +1075,11 @@
       "market_name": "HTC Desire 626s",
       "codename": "htc_a32ewhl",
       "model": "HTC 0PM92"
+    },
+    {
+      "market_name": "HTC Desire 626s",
+      "codename": "htc_a32ewhl",
+      "model": "HTC Desire 626s"
     },
     {
       "market_name": "HTC Desire 700 dual sim",
@@ -1685,6 +1695,11 @@
       "market_name": "HTC One (E8) dual sim",
       "codename": "htc_mecdwg",
       "model": "HTC 0PAJ4"
+    },
+    {
+      "market_name": "HTC One (E8) dual sim",
+      "codename": "htc_mecdwg",
+      "model": "HTC M8Sd"
     },
     {
       "market_name": "HTC One (E8) dual sim",
@@ -2440,6 +2455,11 @@
       "market_name": "HTC_M9e",
       "codename": "htc_himaruhl",
       "model": "HTC M9e"
+    },
+    {
+      "market_name": "HTC_M9e",
+      "codename": "htc_himaruhl",
+      "model": "HTC One M9s"
     },
     {
       "market_name": "HTC_M9e",

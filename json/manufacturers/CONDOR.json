@@ -37,6 +37,16 @@
       "model": "PGN404"
     },
     {
+      "market_name": "PGN409",
+      "codename": "PGN409",
+      "model": "PGN409"
+    },
+    {
+      "market_name": "PGN410",
+      "codename": "PGN410",
+      "model": "PGN410"
+    },
+    {
       "market_name": "PGN509",
       "codename": "PGN509",
       "model": "PGN509"
@@ -45,6 +55,26 @@
       "market_name": "PGN511",
       "codename": "PGN511",
       "model": "PGN511"
+    },
+    {
+      "market_name": "PGN514",
+      "codename": "PGN514",
+      "model": "PGN514"
+    },
+    {
+      "market_name": "PGN516",
+      "codename": "PGN516",
+      "model": "PGN516"
+    },
+    {
+      "market_name": "PGN606",
+      "codename": "PGN606",
+      "model": "PGN606"
+    },
+    {
+      "market_name": "PGN607",
+      "codename": "PGN607",
+      "model": "PGN607"
     }
   ]
 }
