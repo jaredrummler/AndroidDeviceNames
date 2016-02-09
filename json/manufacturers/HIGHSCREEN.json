@@ -17,9 +17,19 @@
       "model": "PowerFour"
     },
     {
+      "market_name": "Power Ice",
+      "codename": "BBL7353RV",
+      "model": "Power Ice"
+    },
+    {
       "market_name": "Power Rage",
       "codename": "PowerRage",
       "model": "Power Rage"
+    },
+    {
+      "market_name": "Prime L",
+      "codename": "PrimeL",
+      "model": "Prime L"
     }
   ]
 }

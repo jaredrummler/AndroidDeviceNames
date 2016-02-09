@@ -7,7 +7,25 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "C1AE",
+    "codename": "HS8929QC",
+    "model": "Hisense C1"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "C1AE-1",
+    "codename": "HS8929QC",
+    "model": "Hisense C1"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "C1AE-2",
+    "codename": "HS8929QC",
+    "model": "Hisense C1"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "C1BE",
     "codename": "HS8929QC",
     "model": "Hisense C1"
   },
@@ -61,6 +79,18 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "E75M",
+    "codename": "HS8929QC",
+    "model": "Hisense E75M"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "E75T",
+    "codename": "HS8929QC",
+    "model": "Hisense E75T"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "H910",
     "codename": "HS8929QC",
     "model": "Hisense H910"
@@ -97,6 +127,18 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "L676BE-1",
+    "codename": "HS8929QC",
+    "model": "Hisense L676"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "L676BE-2",
+    "codename": "HS8929QC",
+    "model": "Hisense L676"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "L695",
     "codename": "HS8929QC",
     "model": "HS-L695"
@@ -122,6 +164,12 @@
   {
     "manufacturer": "Hisense",
     "market_name": "c20",
+    "codename": "HS8929QC",
+    "model": "Hisense C20"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "c20fe-3",
     "codename": "HS8929QC",
     "model": "Hisense C20"
   }

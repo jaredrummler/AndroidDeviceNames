@@ -1462,11 +1462,6 @@
       "model": "Autana LTE"
     },
     {
-      "market_name": "ATH-AL00",
-      "codename": "HWATH",
-      "model": "ATH-AL00"
-    },
-    {
       "market_name": "ATH-CL00",
       "codename": "HWATH",
       "model": "ATH-CL00"
@@ -2565,6 +2560,11 @@
       "market_name": "Honor 5X",
       "codename": "HNKIW-Q",
       "model": "KIW-TL00H"
+    },
+    {
+      "market_name": "Honor 7i",
+      "codename": "HWATH",
+      "model": "ATH-AL00"
     },
     {
       "market_name": "Honor Box",

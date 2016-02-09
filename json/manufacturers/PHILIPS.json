@@ -157,6 +157,11 @@
       "model": "Philips S308"
     },
     {
+      "market_name": "Philips S337",
+      "codename": "S337_BG",
+      "model": "Philips S337"
+    },
+    {
       "market_name": "Philips V387",
       "codename": "V387",
       "model": "Philips V387"
@@ -165,6 +170,11 @@
       "market_name": "Philips W8510",
       "codename": "Topaz",
       "model": "Philips W8510"
+    },
+    {
+      "market_name": "Philips Xenium V377",
+      "codename": "Philips_V377",
+      "model": "Philips V377"
     },
     {
       "market_name": "Philips_W3500",

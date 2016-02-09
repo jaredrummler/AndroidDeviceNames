@@ -872,6 +872,11 @@
       "model": "Lenovo A880"
     },
     {
+      "market_name": "Lenovo",
+      "codename": "PB1-770P",
+      "model": "Lenovo PB1-770P"
+    },
+    {
       "market_name": "Lenovo  TAB 2 A7-30HC",
       "codename": "A7-30HC",
       "model": "Lenovo 2 A7-30HC"
@@ -887,9 +892,24 @@
       "model": "Lenovo X2-AP"
     },
     {
+      "market_name": "Lenovo A1000",
+      "codename": "A1000",
+      "model": "Lenovo A1000"
+    },
+    {
       "market_name": "Lenovo A1900",
       "codename": "A1900",
       "model": "Lenovo A1900"
+    },
+    {
+      "market_name": "Lenovo A2010-a",
+      "codename": "A2010-a",
+      "model": "Lenovo A2010-a"
+    },
+    {
+      "market_name": "Lenovo A2010l36",
+      "codename": "A2010l36",
+      "model": "Lenovo A2010l36"
     },
     {
       "market_name": "Lenovo A2105",
@@ -940,6 +960,11 @@
       "market_name": "Lenovo A319",
       "codename": "A319",
       "model": "Lenovo A319"
+    },
+    {
+      "market_name": "Lenovo A31910t30",
+      "codename": "angus3T3",
+      "model": "Lenovo A3910t30"
     },
     {
       "market_name": "Lenovo A320t",
@@ -1080,6 +1105,11 @@
       "market_name": "Lenovo A385e",
       "codename": "A385e",
       "model": "LNV-Lenovo A385e"
+    },
+    {
+      "market_name": "Lenovo A3860",
+      "codename": "A3580",
+      "model": "Lenovo A3580"
     },
     {
       "market_name": "Lenovo A388t",
@@ -1264,6 +1294,11 @@
     {
       "market_name": "Lenovo A7000",
       "codename": "A7000-a",
+      "model": "Lenovo A7000-a"
+    },
+    {
+      "market_name": "Lenovo A7000 Plus",
+      "codename": "A7000plus",
       "model": "Lenovo A7000-a"
     },
     {
@@ -1457,6 +1492,11 @@
       "model": "Lenovo K30-W"
     },
     {
+      "market_name": "Lenovo K32",
+      "codename": "K32c36",
+      "model": "Lenovo K32c36"
+    },
+    {
       "market_name": "Lenovo K50",
       "codename": "K50-t5",
       "model": "Lenovo K50-t5"
@@ -1480,6 +1520,21 @@
       "market_name": "Lenovo K50",
       "codename": "aio_otfp",
       "model": "Lenovo K50-t5"
+    },
+    {
+      "market_name": "Lenovo K50-T5",
+      "codename": "aio_otfp",
+      "model": "Lenovo K50-t5"
+    },
+    {
+      "market_name": "Lenovo K52t38",
+      "codename": "k52_t38",
+      "model": "Lenovo K52t38"
+    },
+    {
+      "market_name": "Lenovo K52t38",
+      "codename": "k52_t38",
+      "model": "Lenovo k52t38"
     },
     {
       "market_name": "Lenovo K80M",
@@ -1537,6 +1592,21 @@
       "model": "Lenovo N308"
     },
     {
+      "market_name": "Lenovo P1",
+      "codename": "P1a42",
+      "model": "Lenovo P1a42"
+    },
+    {
+      "market_name": "Lenovo P1",
+      "codename": "passion",
+      "model": "Lenovo P1c72"
+    },
+    {
+      "market_name": "Lenovo P1",
+      "codename": "passionc5",
+      "model": "Lenovo P1c58"
+    },
+    {
       "market_name": "Lenovo P70",
       "codename": "P70-A",
       "model": "Lenovo P70-A"
@@ -1562,6 +1632,16 @@
       "model": "Lenovo PB1-750M"
     },
     {
+      "market_name": "Lenovo PB1-770M/Lenovo PHAB Plus",
+      "codename": "PB1-770M",
+      "model": "EveryPad3"
+    },
+    {
+      "market_name": "Lenovo PB1-770M/Lenovo PHAB Plus",
+      "codename": "PB1-770M",
+      "model": "Lenovo PB1-770M"
+    },
+    {
       "market_name": "Lenovo PB1-770N",
       "codename": "PB1-770N",
       "model": "Lenovo PB1-770N"
@@ -1570,6 +1650,11 @@
       "market_name": "Lenovo S1",
       "codename": "S1a40",
       "model": "Lenovo S1a40"
+    },
+    {
+      "market_name": "Lenovo S1La40",
+      "codename": "S1La40",
+      "model": "Lenovo S1La40"
     },
     {
       "market_name": "Lenovo S580",
@@ -1820,6 +1905,21 @@
       "market_name": "Lenovo TAB S8-50LC",
       "codename": "S8-50LC",
       "model": "Lenovo TAB S8-50LC"
+    },
+    {
+      "market_name": "Lenovo TB2-X30F",
+      "codename": "TB2-X30F",
+      "model": "Lenovo TB2-X30F"
+    },
+    {
+      "market_name": "Lenovo TB2-X30L",
+      "codename": "TB2-X30L",
+      "model": "Lenovo TB2-X30L"
+    },
+    {
+      "market_name": "Lenovo TB3-710F",
+      "codename": "TB3-710F",
+      "model": "Lenovo TB3-710F"
     },
     {
       "market_name": "Lenovo VIBE X3 Lite",
@@ -2140,6 +2240,11 @@
       "market_name": "S960",
       "codename": "S960",
       "model": "Lenovo S960"
+    },
+    {
+      "market_name": "Softbank 501LV",
+      "codename": "501LV",
+      "model": "501LV"
     },
     {
       "market_name": "ThinkVision28",

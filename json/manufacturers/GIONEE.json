@@ -47,6 +47,31 @@
       "model": "GN152"
     },
     {
+      "market_name": "GN5001",
+      "codename": "GiONEE_BBL7332",
+      "model": "GN5001"
+    },
+    {
+      "market_name": "GN5001L",
+      "codename": "GiONEE_BBL7332",
+      "model": "GN5001L"
+    },
+    {
+      "market_name": "GN5001S",
+      "codename": "GiONEE_BBL7332",
+      "model": "GN5001S"
+    },
+    {
+      "market_name": "GN5002",
+      "codename": "GiONEE_GBL7333",
+      "model": "GN5002"
+    },
+    {
+      "market_name": "GN8001",
+      "codename": "GiONEE_BBL7505",
+      "model": "GN8001"
+    },
+    {
       "market_name": "GN9000",
       "codename": "S5_5",
       "model": "GN9000"
@@ -65,6 +90,11 @@
       "market_name": "GN9007",
       "codename": "GiONEE_CBL7503",
       "model": "GN9007"
+    },
+    {
+      "market_name": "GN9010L",
+      "codename": "GiONEE_CBL7513",
+      "model": "GN9010L"
     },
     {
       "market_name": "M2",
@@ -97,14 +127,29 @@
       "model": "M3mini"
     },
     {
+      "market_name": "M4",
+      "codename": "GiONEE_M3",
+      "model": "M4"
+    },
+    {
       "market_name": "M5",
       "codename": "M5",
       "model": "M5"
     },
     {
+      "market_name": "M5 Lite",
+      "codename": "GiONEE_BBL7332",
+      "model": "M5_lite"
+    },
+    {
       "market_name": "M5 mini",
       "codename": "GiONEE_WBW5616",
       "model": "M5 mini"
+    },
+    {
+      "market_name": "M5L",
+      "codename": "M5",
+      "model": "M5L"
     },
     {
       "market_name": "P2M",
@@ -165,6 +210,16 @@
       "market_name": "S5.5",
       "codename": "S5_5",
       "model": "S5.5"
+    },
+    {
+      "market_name": "S6",
+      "codename": "GiONEE_CBL7513",
+      "model": "GN9010"
+    },
+    {
+      "market_name": "S6",
+      "codename": "GiONEE_CBL7513",
+      "model": "S6"
     },
     {
       "market_name": "V4S",

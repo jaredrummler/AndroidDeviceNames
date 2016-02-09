@@ -102,6 +102,11 @@
       "model": "OPPO A33m"
     },
     {
+      "market_name": "A33t",
+      "codename": "A33t",
+      "model": "A33t"
+    },
+    {
       "market_name": "A33w",
       "codename": "A33w",
       "model": "A33w"
@@ -135,6 +140,56 @@
       "market_name": "A51w",
       "codename": "A51",
       "model": "A51w"
+    },
+    {
+      "market_name": "A53",
+      "codename": "A53",
+      "model": "OPPO A53"
+    },
+    {
+      "market_name": "A53f",
+      "codename": "A53",
+      "model": "A53f"
+    },
+    {
+      "market_name": "A53fw",
+      "codename": "A53",
+      "model": "A53fw"
+    },
+    {
+      "market_name": "A53m",
+      "codename": "A53",
+      "model": "OPPO A53m"
+    },
+    {
+      "market_name": "A53w",
+      "codename": "A53",
+      "model": "A53w"
+    },
+    {
+      "market_name": "F1f",
+      "codename": "F1f",
+      "model": "F1f"
+    },
+    {
+      "market_name": "F1fw",
+      "codename": "F1f",
+      "model": "F1f"
+    },
+    {
+      "market_name": "F1fw",
+      "codename": "F1f",
+      "model": "F1fw"
+    },
+    {
+      "market_name": "F1w",
+      "codename": "F1f",
+      "model": "F1f"
+    },
+    {
+      "market_name": "F1w",
+      "codename": "F1f",
+      "model": "F1w"
     },
     {
       "market_name": "Find 5",
@@ -265,6 +320,16 @@
       "market_name": "R7 Plus",
       "codename": "R7Plus",
       "model": "R7Plus"
+    },
+    {
+      "market_name": "R7 Plusf",
+      "codename": "R7Plusm",
+      "model": "R7plusf"
+    },
+    {
+      "market_name": "R7 Plusm",
+      "codename": "R7Plusm",
+      "model": "R7Plusm"
     },
     {
       "market_name": "R7005",

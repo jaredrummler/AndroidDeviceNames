@@ -2,14 +2,64 @@
   "manufacturer": "Lava",
   "devices": [
     {
+      "market_name": "Flair P3",
+      "codename": "P3",
+      "model": "P3"
+    },
+    {
+      "market_name": "Flair S1",
+      "codename": "S1",
+      "model": "S1"
+    },
+    {
+      "market_name": "P7",
+      "codename": "P7",
+      "model": "P7"
+    },
+    {
+      "market_name": "Pixel V1",
+      "codename": "PixelV1G_sprout",
+      "model": "PixelV1"
+    },
+    {
       "market_name": "Pixel V1",
       "codename": "PixelV1_sprout",
       "model": "PixelV1"
     },
     {
+      "market_name": "V5",
+      "codename": "V5",
+      "model": "LAVA V5"
+    },
+    {
+      "market_name": "V5",
+      "codename": "V5",
+      "model": "V5"
+    },
+    {
+      "market_name": "X10",
+      "codename": "X10",
+      "model": "X10"
+    },
+    {
       "market_name": "XOLO LT900",
       "codename": "LT900",
       "model": "LT900"
+    },
+    {
+      "market_name": "XOLO One HD",
+      "codename": "XOLO_One_HD",
+      "model": "XOLO One HD"
+    },
+    {
+      "market_name": "iris atom",
+      "codename": "A1",
+      "model": "A1"
+    },
+    {
+      "market_name": "iris atom 3",
+      "codename": "A3",
+      "model": "A3"
     }
   ]
 }

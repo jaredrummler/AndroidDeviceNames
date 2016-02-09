@@ -649,6 +649,11 @@
     {
       "market_name": "Android TV",
       "codename": "eden",
+      "model": "LG Google TV G3"
+    },
+    {
+      "market_name": "Android TV",
+      "codename": "eden",
       "model": "LG Google TV G3 KR"
     },
     {
@@ -755,6 +760,11 @@
       "market_name": "G Pad 10.1",
       "codename": "e9wifi",
       "model": "LG-V700"
+    },
+    {
+      "market_name": "G Pad 10.1",
+      "codename": "e9wifin",
+      "model": "LG-V700WJ"
     },
     {
       "market_name": "G Pad 10.1",
@@ -1125,6 +1135,11 @@
       "market_name": "Intuition",
       "codename": "batman_vzw",
       "model": "VS950 4G"
+    },
+    {
+      "market_name": "K4",
+      "codename": "e1q",
+      "model": "LG-K121"
     },
     {
       "market_name": "L Bello",
@@ -2098,8 +2113,38 @@
     },
     {
       "market_name": "LG K10",
+      "codename": "m216n",
+      "model": "LG-K420"
+    },
+    {
+      "market_name": "LG K10",
       "codename": "m23g",
       "model": "LG-K410"
+    },
+    {
+      "market_name": "LG K10 LTE",
+      "codename": "m253",
+      "model": "LG-K430"
+    },
+    {
+      "market_name": "LG K10 LTE",
+      "codename": "m253n",
+      "model": "LG-K430"
+    },
+    {
+      "market_name": "LG K4 LTE",
+      "codename": "me1",
+      "model": "LG-K120"
+    },
+    {
+      "market_name": "LG K4 LTE",
+      "codename": "me1ds",
+      "model": "LG-K130"
+    },
+    {
+      "market_name": "LG K6",
+      "codename": "m13g",
+      "model": "LG-X210"
     },
     {
       "market_name": "LG L39C",

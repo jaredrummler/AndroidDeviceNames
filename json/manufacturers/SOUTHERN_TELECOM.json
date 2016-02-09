@@ -7,9 +7,24 @@
       "model": "A5"
     },
     {
+      "market_name": "Emerson EM756",
+      "codename": "EM756",
+      "model": "EM756"
+    },
+    {
+      "market_name": "Polaroid L10/P1000",
+      "codename": "L10",
+      "model": "L10"
+    },
+    {
       "market_name": "Polaroid P700/A700",
       "codename": "P700",
       "model": "P700/A700"
+    },
+    {
+      "market_name": "Polaroid P902/A900",
+      "codename": "P902",
+      "model": "P902/A900"
     },
     {
       "market_name": "Polaroid Snap S55",
