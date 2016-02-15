@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Fujitsu",
+    "market_name": "M02",
+    "codename": "M02",
+    "model": "M02"
+  },
+  {
+    "manufacturer": "Fujitsu",
     "market_name": "RM02",
     "codename": "M02",
     "model": "RM02"

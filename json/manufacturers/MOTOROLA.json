@@ -787,26 +787,6 @@
       "model": "XT1078"
     },
     {
-      "market_name": "MOTO G",
-      "codename": "titan_umts",
-      "model": "XT1063"
-    },
-    {
-      "market_name": "MOTO G",
-      "codename": "titan_umts",
-      "model": "XT1064"
-    },
-    {
-      "market_name": "MOTO G",
-      "codename": "titan_umtsds",
-      "model": "XT1068"
-    },
-    {
-      "market_name": "MOTO G",
-      "codename": "titan_umtsds",
-      "model": "titan_niibr_ds"
-    },
-    {
       "market_name": "MOTO G LTE",
       "codename": "peregrine",
       "model": "XT1039"
@@ -840,36 +820,6 @@
       "market_name": "MOTO X",
       "codename": "ghost",
       "model": "XT1058"
-    },
-    {
-      "market_name": "MOTO X",
-      "codename": "victara",
-      "model": "XT1092"
-    },
-    {
-      "market_name": "MOTO X",
-      "codename": "victara",
-      "model": "XT1093"
-    },
-    {
-      "market_name": "MOTO X",
-      "codename": "victara",
-      "model": "XT1094"
-    },
-    {
-      "market_name": "MOTO X",
-      "codename": "victara",
-      "model": "XT1095"
-    },
-    {
-      "market_name": "MOTO X",
-      "codename": "victara",
-      "model": "XT1096"
-    },
-    {
-      "market_name": "MOTO X",
-      "codename": "victara",
-      "model": "XT1097"
     },
     {
       "market_name": "MOTOROLA ELECTRIFY 2",
@@ -1092,19 +1042,39 @@
       "model": "titan_retbr_dstv"
     },
     {
-      "market_name": "Moto G",
+      "market_name": "Moto G (2014)",
+      "codename": "titan_umts",
+      "model": "XT1063"
+    },
+    {
+      "market_name": "Moto G (2014)",
       "codename": "titan_umts",
       "model": "XT1064"
     },
     {
-      "market_name": "Moto G",
+      "market_name": "Moto G (2014)",
       "codename": "titan_umtsds",
       "model": "XT1068"
+    },
+    {
+      "market_name": "Moto G (2014)",
+      "codename": "titan_umtsds",
+      "model": "titan_niibr_ds"
     },
     {
       "market_name": "Moto G Google Play edition",
       "codename": "falcon_umts",
       "model": "XT1032"
+    },
+    {
+      "market_name": "Moto G Turbo Edition",
+      "codename": "merlin",
+      "model": "MotoG3"
+    },
+    {
+      "market_name": "Moto G Turbo Edition",
+      "codename": "merlin",
+      "model": "MotoG3-TE"
     },
     {
       "market_name": "Moto G w/ 4G LTE",
@@ -1167,17 +1137,42 @@
       "model": "XT1060"
     },
     {
-      "market_name": "Moto X",
+      "market_name": "Moto X (2014)",
       "codename": "victara",
       "model": "XT1085"
     },
     {
-      "market_name": "Moto X",
+      "market_name": "Moto X (2014)",
+      "codename": "victara",
+      "model": "XT1092"
+    },
+    {
+      "market_name": "Moto X (2014)",
+      "codename": "victara",
+      "model": "XT1093"
+    },
+    {
+      "market_name": "Moto X (2014)",
+      "codename": "victara",
+      "model": "XT1094"
+    },
+    {
+      "market_name": "Moto X (2014)",
+      "codename": "victara",
+      "model": "XT1095"
+    },
+    {
+      "market_name": "Moto X (2014)",
+      "codename": "victara",
+      "model": "XT1096"
+    },
+    {
+      "market_name": "Moto X (2014)",
       "codename": "victara",
       "model": "XT1097"
     },
     {
-      "market_name": "Moto X",
+      "market_name": "Moto X (2014)",
       "codename": "victara",
       "model": "XT1098"
     },
@@ -1202,12 +1197,27 @@
       "model": "XT1563"
     },
     {
+      "market_name": "Moto X Play",
+      "codename": "lux_uds",
+      "model": "XT1021"
+    },
+    {
+      "market_name": "Moto X Play",
+      "codename": "lux_uds",
+      "model": "XT1563"
+    },
+    {
       "market_name": "Moto X Style",
+      "codename": "clark_ds",
+      "model": "XT1572"
+    },
+    {
+      "market_name": "Moto X Style (2015)",
       "codename": "clark",
       "model": "XT1572"
     },
     {
-      "market_name": "Moto X Style",
+      "market_name": "Moto X Style (2015)",
       "codename": "clark",
       "model": "XT1575"
     },

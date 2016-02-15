@@ -6378,6 +6378,12 @@
     "model": "ODYSSEY"
   },
   {
+    "manufacturer": "Cspire",
+    "market_name": "FT7",
+    "codename": "FT7_tw",
+    "model": "Android Tablet FT7"
+  },
+  {
     "manufacturer": "DEA Factory",
     "market_name": "KTAB",
     "codename": "KTAB",
@@ -6775,6 +6781,12 @@
   },
   {
     "manufacturer": "Doro",
+    "market_name": "Doro Liberto 825",
+    "codename": "825A",
+    "model": "825_T-Mobile"
+  },
+  {
+    "manufacturer": "Doro",
     "market_name": "Liberto 810",
     "codename": "Liberto810",
     "model": "Doro Liberto 810"
@@ -6802,6 +6814,12 @@
     "market_name": "Liberto 820 Mini",
     "codename": "820Mini",
     "model": "Doro Liberto 820 Mini"
+  },
+  {
+    "manufacturer": "Doro",
+    "market_name": "Liberto 822 / 8030",
+    "codename": "DSB0010",
+    "model": "Doro 8030"
   },
   {
     "manufacturer": "Doro",
@@ -8686,6 +8704,12 @@
     "market_name": "FHMD001",
     "codename": "FHMD001",
     "model": "FHMD001"
+  },
+  {
+    "manufacturer": "Fujitsu",
+    "market_name": "M02",
+    "codename": "M02",
+    "model": "M02"
   },
   {
     "manufacturer": "Fujitsu",
@@ -28567,6 +28591,12 @@
   },
   {
     "manufacturer": "Lanix",
+    "market_name": "X100",
+    "codename": "ILIUM_X100",
+    "model": "ILIUM_X100"
+  },
+  {
+    "manufacturer": "Lanix",
     "market_name": "X400",
     "codename": "Ilium_X400",
     "model": "ILIUM X400"
@@ -28642,6 +28672,18 @@
     "market_name": "XOLO One HD",
     "codename": "XOLO_One_HD",
     "model": "XOLO One HD"
+  },
+  {
+    "manufacturer": "Lava",
+    "market_name": "XOLO era 4K",
+    "codename": "XOLO_era_4K",
+    "model": "era 4K"
+  },
+  {
+    "manufacturer": "Lava",
+    "market_name": "iris Fuel F2",
+    "codename": "IFF2",
+    "model": "Fuel F2"
   },
   {
     "manufacturer": "Lava",
@@ -34123,30 +34165,6 @@
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "titan_umts",
-    "model": "XT1063"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "titan_umts",
-    "model": "XT1064"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "titan_umtsds",
-    "model": "XT1068"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "titan_umtsds",
-    "model": "titan_niibr_ds"
-  },
-  {
-    "manufacturer": "Motorola",
     "market_name": "MOTO G LTE",
     "codename": "peregrine",
     "model": "XT1039"
@@ -34186,42 +34204,6 @@
     "market_name": "MOTO X",
     "codename": "ghost",
     "model": "XT1058"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO X",
-    "codename": "victara",
-    "model": "XT1092"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO X",
-    "codename": "victara",
-    "model": "XT1093"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO X",
-    "codename": "victara",
-    "model": "XT1094"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO X",
-    "codename": "victara",
-    "model": "XT1095"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO X",
-    "codename": "victara",
-    "model": "XT1096"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO X",
-    "codename": "victara",
-    "model": "XT1097"
   },
   {
     "manufacturer": "Motorola",
@@ -34489,21 +34471,45 @@
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (2014)",
+    "codename": "titan_umts",
+    "model": "XT1063"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (2014)",
     "codename": "titan_umts",
     "model": "XT1064"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (2014)",
     "codename": "titan_umtsds",
     "model": "XT1068"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (2014)",
+    "codename": "titan_umtsds",
+    "model": "titan_niibr_ds"
   },
   {
     "manufacturer": "Motorola",
     "market_name": "Moto G Google Play edition",
     "codename": "falcon_umts",
     "model": "XT1032"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G Turbo Edition",
+    "codename": "merlin",
+    "model": "MotoG3"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G Turbo Edition",
+    "codename": "merlin",
+    "model": "MotoG3-TE"
   },
   {
     "manufacturer": "Motorola",
@@ -34579,19 +34585,49 @@
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X",
+    "market_name": "Moto X (2014)",
     "codename": "victara",
     "model": "XT1085"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X",
+    "market_name": "Moto X (2014)",
+    "codename": "victara",
+    "model": "XT1092"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X (2014)",
+    "codename": "victara",
+    "model": "XT1093"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X (2014)",
+    "codename": "victara",
+    "model": "XT1094"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X (2014)",
+    "codename": "victara",
+    "model": "XT1095"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X (2014)",
+    "codename": "victara",
+    "model": "XT1096"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X (2014)",
     "codename": "victara",
     "model": "XT1097"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X",
+    "market_name": "Moto X (2014)",
     "codename": "victara",
     "model": "XT1098"
   },
@@ -34621,13 +34657,31 @@
   },
   {
     "manufacturer": "Motorola",
+    "market_name": "Moto X Play",
+    "codename": "lux_uds",
+    "model": "XT1021"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X Play",
+    "codename": "lux_uds",
+    "model": "XT1563"
+  },
+  {
+    "manufacturer": "Motorola",
     "market_name": "Moto X Style",
+    "codename": "clark_ds",
+    "model": "XT1572"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X Style (2015)",
     "codename": "clark",
     "model": "XT1572"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X Style",
+    "market_name": "Moto X Style (2015)",
     "codename": "clark",
     "model": "XT1575"
   },
@@ -35536,6 +35590,12 @@
     "market_name": "Dynamic Racing 3",
     "codename": "NGM_Dynamic_Racing_3",
     "model": "Dynamic Racing 3"
+  },
+  {
+    "manufacturer": "NGM Italia SRL",
+    "market_name": "E505 Plus",
+    "codename": "E505plus",
+    "model": "E505plus"
   },
   {
     "manufacturer": "NGM Italia SRL",
@@ -42883,6 +42943,24 @@
   },
   {
     "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Mini",
+    "codename": "j1mini3g",
+    "model": "SM-J105H"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Mini",
+    "codename": "j1mini3gxw",
+    "model": "SM-J105H"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Mini",
+    "codename": "j1minilte",
+    "model": "SM-J105F"
+  },
+  {
+    "manufacturer": "Samsung",
     "market_name": "Galaxy J1(2016)",
     "codename": "j1x3g",
     "model": "SM-J120H"
@@ -47354,8 +47432,26 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy Tab E 8.0",
+    "codename": "gtesltelgt",
+    "model": "SM-T375L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 8.0",
+    "codename": "gteslteskt",
+    "model": "SM-T375S"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 8.0",
     "codename": "gtesltetw",
     "model": "SM-T3777"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 8.0",
+    "codename": "gtesltevzw",
+    "model": "SM-T377V"
   },
   {
     "manufacturer": "Samsung",
