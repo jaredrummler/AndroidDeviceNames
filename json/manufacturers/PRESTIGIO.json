@@ -22,6 +22,41 @@
       "model": "PSP7505DUO"
     },
     {
+      "market_name": "MULTIPAD WIZE 3108 3G",
+      "codename": "PN80A03G",
+      "model": "PMT3108_3G"
+    },
+    {
+      "market_name": "MULTIPAD WIZE 3111",
+      "codename": "NS70A03W",
+      "model": "PMT3111_Wi"
+    },
+    {
+      "market_name": "MULTIPAD WIZE 3121",
+      "codename": "NS70A03W",
+      "model": "PMT3121_Wi"
+    },
+    {
+      "market_name": "MULTIPAD WIZE 3308 3G",
+      "codename": "PN80A03G",
+      "model": "PMT3308_3G"
+    },
+    {
+      "market_name": "MULTIPAD WIZE 3331 3G",
+      "codename": "PN10A01G",
+      "model": "PMT3331_3G"
+    },
+    {
+      "market_name": "MULTIPAD WIZE 3341 3G",
+      "codename": "PN10A01G",
+      "model": "PMT3341_3G"
+    },
+    {
+      "market_name": "MULTIPAD WIZE 3787 3G",
+      "codename": "PMT3777_3G",
+      "model": "PMT3787_3G"
+    },
+    {
       "market_name": "MultiPad Thunder 7.0i",
       "codename": "g01p",
       "model": "PMT3377_Wi"
@@ -60,6 +95,11 @@
       "market_name": "MultiPhone 5517 DUO",
       "codename": "PSP5517DUO",
       "model": "PSP5517DUO"
+    },
+    {
+      "market_name": "Multipad Wize 3757 3G",
+      "codename": "PMT3777_3G",
+      "model": "PMT3757_3G"
     },
     {
       "market_name": "Multiphone 5508 DUO",
@@ -130,6 +170,16 @@
       "market_name": "PMT3677_Wi",
       "codename": "PMT3677",
       "model": "PMT3677_Wi"
+    },
+    {
+      "market_name": "PMT3767_3G",
+      "codename": "PMT3777_3G",
+      "model": "PMT3767_3G"
+    },
+    {
+      "market_name": "PMT3777_3G",
+      "codename": "PMT3777_3G",
+      "model": "PMT3777_3G"
     },
     {
       "market_name": "PMT5001_3G",

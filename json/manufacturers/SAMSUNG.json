@@ -2369,7 +2369,17 @@
     {
       "market_name": "Galaxy J1 Mini",
       "codename": "j1mini3g",
+      "model": "SM-J105B"
+    },
+    {
+      "market_name": "Galaxy J1 Mini",
+      "codename": "j1mini3g",
       "model": "SM-J105H"
+    },
+    {
+      "market_name": "Galaxy J1 Mini",
+      "codename": "j1mini3gdx",
+      "model": "SM-J105B"
     },
     {
       "market_name": "Galaxy J1 Mini",
@@ -2440,6 +2450,11 @@
       "market_name": "Galaxy J3",
       "codename": "j3xlte",
       "model": "SM-J320F"
+    },
+    {
+      "market_name": "Galaxy J3",
+      "codename": "j3xlte",
+      "model": "SM-J320M"
     },
     {
       "market_name": "Galaxy J5",
@@ -5560,6 +5575,86 @@
       "market_name": "Galaxy S6 Edge+",
       "codename": "zenltevzw",
       "model": "SM-G928V"
+    },
+    {
+      "market_name": "Galaxy S7",
+      "codename": "herolte",
+      "model": "SM-G930F"
+    },
+    {
+      "market_name": "Galaxy S7",
+      "codename": "heroltebmc",
+      "model": "SM-G930W8"
+    },
+    {
+      "market_name": "Galaxy S7",
+      "codename": "heroltektt",
+      "model": "SM-G930K"
+    },
+    {
+      "market_name": "Galaxy S7",
+      "codename": "heroltelgt",
+      "model": "SM-G930L"
+    },
+    {
+      "market_name": "Galaxy S7",
+      "codename": "herolteskt",
+      "model": "SM-G930S"
+    },
+    {
+      "market_name": "Galaxy S7",
+      "codename": "heroqlteatt",
+      "model": "SAMSUNG-SM-G930A"
+    },
+    {
+      "market_name": "Galaxy S7",
+      "codename": "heroqltespr",
+      "model": "SM-G930P"
+    },
+    {
+      "market_name": "Galaxy S7",
+      "codename": "heroqltetmo",
+      "model": "SM-G930T"
+    },
+    {
+      "market_name": "Galaxy S7 Edge",
+      "codename": "hero2lte",
+      "model": "SM-G935F"
+    },
+    {
+      "market_name": "Galaxy S7 Edge",
+      "codename": "hero2ltebmc",
+      "model": "SM-G935W8"
+    },
+    {
+      "market_name": "Galaxy S7 Edge",
+      "codename": "hero2ltektt",
+      "model": "SM-G935K"
+    },
+    {
+      "market_name": "Galaxy S7 Edge",
+      "codename": "hero2ltelgt",
+      "model": "SM-G935L"
+    },
+    {
+      "market_name": "Galaxy S7 Edge",
+      "codename": "hero2lteskt",
+      "model": "SM-G935S"
+    },
+    {
+      "market_name": "Galaxy S7 Edge",
+      "codename": "hero2qlteatt",
+      "model": "SAMSUNG-SM-G935A"
+    },
+    {
+      "market_name": "Galaxy S7 Edge",
+      "codename": "hero2qltespr",
+      "model": "SM-G935P"
+    },
+    {
+      "market_name": "Galaxy S7 Edge",
+      "codename": "hero2qltetmo",
+      "model": "SM-G935T"
     },
     {
       "market_name": "Galaxy Spica",

@@ -9,12 +9,6 @@
     "manufacturer": "Motorola",
     "market_name": "Droid Maxx 2",
     "codename": "lux",
-    "model": "XT1564"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Droid Maxx 2",
-    "codename": "lux",
     "model": "XT1565"
   },
   {
@@ -28,5 +22,11 @@
     "market_name": "Moto X Play",
     "codename": "lux",
     "model": "XT1563"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X Play",
+    "codename": "lux",
+    "model": "XT1564"
   }
 ]

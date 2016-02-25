@@ -1141,6 +1141,12 @@
   },
   {
     "manufacturer": "AllView",
+    "market_name": "P4 eMagic",
+    "codename": "P4_eMagic",
+    "model": "P4_eMagic"
+  },
+  {
+    "manufacturer": "AllView",
     "market_name": "P5 Energy",
     "codename": "P5_Energy",
     "model": "P5_Energy"
@@ -1150,6 +1156,12 @@
     "market_name": "P5 Life",
     "codename": "P5Life",
     "model": "P5Life_TM"
+  },
+  {
+    "manufacturer": "AllView",
+    "market_name": "P5 eMagic",
+    "codename": "P5_eMagic",
+    "model": "P5_eMagic"
   },
   {
     "manufacturer": "AllView",
@@ -3883,6 +3895,18 @@
   },
   {
     "manufacturer": "Asus",
+    "market_name": "Zenfone GO",
+    "codename": "ASUS_X013D_1",
+    "model": "ASUS_X013DA"
+  },
+  {
+    "manufacturer": "Asus",
+    "market_name": "Zenfone GO",
+    "codename": "ASUS_X013D_2",
+    "model": "ASUS_X013DA"
+  },
+  {
+    "manufacturer": "Asus",
     "market_name": "Zenfone Go (ASUS_Z00SD)",
     "codename": "ASUS_Z00SD",
     "model": "ASUS_Z00SD"
@@ -4288,6 +4312,12 @@
     "market_name": "Beeline Pro 2",
     "codename": "Beeline_Pro_2",
     "model": "Beeline Pro 2"
+  },
+  {
+    "manufacturer": "Beeline",
+    "market_name": "Beeline Smart 6",
+    "codename": "Beeline_Smart_6",
+    "model": "Beeline Smart 6"
   },
   {
     "manufacturer": "Beeline",
@@ -4738,6 +4768,12 @@
     "market_name": "SUTDIO ENERGY 2",
     "codename": "BLU_STUDIO_ENERGY_2",
     "model": "STUDIO ENERGY 2"
+  },
+  {
+    "manufacturer": "Blu",
+    "market_name": "Studio C HD",
+    "codename": "BLU_STUDIO_C_HD",
+    "model": "BLU STUDIO C HD"
   },
   {
     "manufacturer": "Bluebird",
@@ -5569,6 +5605,12 @@
   },
   {
     "manufacturer": "Condor",
+    "market_name": "PGN518",
+    "codename": "PGN518",
+    "model": "PGN518"
+  },
+  {
+    "manufacturer": "Condor",
     "market_name": "PGN605",
     "codename": "PGN605",
     "model": "PGN605"
@@ -5584,6 +5626,12 @@
     "market_name": "PGN607",
     "codename": "PGN607",
     "model": "PGN607"
+  },
+  {
+    "manufacturer": "Condor",
+    "market_name": "PGN608",
+    "codename": "PGN608",
+    "model": "PGN608"
   },
   {
     "manufacturer": "Coolpad",
@@ -6886,6 +6934,12 @@
     "market_name": "TP10RA1",
     "codename": "TP10RA1_1",
     "model": "TP10RA1"
+  },
+  {
+    "manufacturer": "ECS",
+    "market_name": "TR10CS1",
+    "codename": "TR10CS1_12",
+    "model": "TR10CS1"
   },
   {
     "manufacturer": "ECS",
@@ -9472,6 +9526,18 @@
     "market_name": "F103S",
     "codename": "GiONEE_F103S",
     "model": "F103S"
+  },
+  {
+    "manufacturer": "Gionee",
+    "market_name": "F105",
+    "codename": "GiONEE_GBL7335",
+    "model": "F105"
+  },
+  {
+    "manufacturer": "Gionee",
+    "market_name": "F105L",
+    "codename": "GiONEE_GBL7335",
+    "model": "F105L"
   },
   {
     "manufacturer": "Gionee",
@@ -21793,6 +21859,12 @@
   },
   {
     "manufacturer": "Infocus",
+    "market_name": "InFocus M415",
+    "codename": "ZL3",
+    "model": "InFocus M415"
+  },
+  {
+    "manufacturer": "Infocus",
     "market_name": "InFocus M425",
     "codename": "HGO",
     "model": "InFocus M425"
@@ -24877,6 +24949,12 @@
   },
   {
     "manufacturer": "LGE",
+    "market_name": "LG Classic",
+    "codename": "y30t",
+    "model": "LGL17AG"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "LG Connect 4G",
     "codename": "cayman",
     "model": "LG-MS840"
@@ -25640,6 +25718,12 @@
   {
     "manufacturer": "LGE",
     "market_name": "LG K10",
+    "codename": "m216",
+    "model": "LG-K420"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG K10",
     "codename": "m216n",
     "model": "LG-F670K"
   },
@@ -25693,7 +25777,7 @@
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG K6",
+    "market_name": "LG K7",
     "codename": "m13g",
     "model": "LG-X210"
   },
@@ -25858,6 +25942,12 @@
     "market_name": "LG M1",
     "codename": "m1",
     "model": "LGMS330"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG M1",
+    "codename": "m1ds",
+    "model": "LG-K332"
   },
   {
     "manufacturer": "LGE",
@@ -28534,6 +28624,12 @@
     "market_name": "ILIUM X110",
     "codename": "ILIUM_X110",
     "model": "ILIUM X110"
+  },
+  {
+    "manufacturer": "Lanix",
+    "market_name": "Ilium L1050",
+    "codename": "Ilium_L1050",
+    "model": "Ilium L1050"
   },
   {
     "manufacturer": "Lanix",
@@ -31734,6 +31830,12 @@
     "model": "LS-5004"
   },
   {
+    "manufacturer": "Lyf",
+    "market_name": "LS-5503",
+    "codename": "P839F50",
+    "model": "LS-5503"
+  },
+  {
     "manufacturer": "MAD CATZ",
     "market_name": "Mad Catz M.O.J.O.",
     "codename": "mojo",
@@ -32402,8 +32504,20 @@
   {
     "manufacturer": "Micromax",
     "market_name": "Bolt",
+    "codename": "D200",
+    "model": "Micromax_D200"
+  },
+  {
+    "manufacturer": "Micromax",
+    "market_name": "Bolt",
     "codename": "D303",
     "model": "Micromax D303"
+  },
+  {
+    "manufacturer": "Micromax",
+    "market_name": "Bolt",
+    "codename": "D320",
+    "model": "Micromax D320"
   },
   {
     "manufacturer": "Micromax",
@@ -33697,18 +33811,6 @@
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "DROID Turbo",
-    "codename": "quark",
-    "model": "XT1250"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "DROID Turbo",
-    "codename": "quark",
-    "model": "XT1254"
-  },
-  {
-    "manufacturer": "Motorola",
     "market_name": "DROID4",
     "codename": "cdma_maserati",
     "model": "DROID4"
@@ -33885,12 +33987,6 @@
     "manufacturer": "Motorola",
     "market_name": "Droid Maxx 2",
     "codename": "lux",
-    "model": "XT1564"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Droid Maxx 2",
-    "codename": "lux",
     "model": "XT1565"
   },
   {
@@ -33934,6 +34030,18 @@
     "market_name": "Droid Razr M",
     "codename": "scorpion_mini_t",
     "model": "201M"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Droid Turbo",
+    "codename": "quark",
+    "model": "XT1250"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Droid Turbo",
+    "codename": "quark",
+    "model": "XT1254"
   },
   {
     "manufacturer": "Motorola",
@@ -34036,162 +34144,6 @@
     "market_name": "MOTO E",
     "codename": "condor_cdma",
     "model": "XT830C"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "condor_umts",
-    "model": "XT1021"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "condor_umts",
-    "model": "XT1023"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "condor_umtsds",
-    "model": "XT1022"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "otus",
-    "model": "MotoE2"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "otus",
-    "model": "XT0000"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "otus_ds",
-    "model": "MotoE2"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "otus_ds",
-    "model": "XT1021"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "surnia_cdma",
-    "model": "XT1526"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "surnia_uds",
-    "model": "MotoE2(4G-LTE)"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "surnia_udstv",
-    "model": "MotoE2(4G-LTE)"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "surnia_umts",
-    "model": "MotoE2(4G-LTE)"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "falcon_umts",
-    "model": "XT1002"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "falcon_umts",
-    "model": "XT1003"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "falcon_umts",
-    "model": "XT1032"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "osprey_udstv",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "peregrine",
-    "model": "XT1039"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "peregrine",
-    "model": "XT1042"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "peregrine",
-    "model": "XT1045"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "thea",
-    "model": "XT1072"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "thea_umtsds",
-    "model": "XT1063"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "thea_umtsds",
-    "model": "XT1078"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G LTE",
-    "codename": "peregrine",
-    "model": "XT1039"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G LTE",
-    "codename": "peregrine",
-    "model": "XT1040"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G LTE",
-    "codename": "peregrine",
-    "model": "XT1045"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G w/4G LTE",
-    "codename": "peregrine",
-    "model": "XT1039"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G w/4G LTE",
-    "codename": "peregrine",
-    "model": "XT1040"
   },
   {
     "manufacturer": "Motorola",
@@ -34309,189 +34261,273 @@
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto E",
+    "market_name": "Moto E (gen1)",
     "codename": "condor_udstv",
     "model": "XT1025"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto E",
+    "market_name": "Moto E (gen1)",
     "codename": "condor_umts",
     "model": "XT1021"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto E",
+    "market_name": "Moto E (gen1)",
     "codename": "condor_umts",
     "model": "XT1023"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto E",
+    "market_name": "Moto E (gen1)",
     "codename": "condor_umtsds",
     "model": "XT1022"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto E",
+    "market_name": "Moto E (gen2)",
     "codename": "otus",
     "model": "MotoE2"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto E",
+    "market_name": "Moto E (gen2)",
+    "codename": "otus",
+    "model": "XT0000"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto E (gen2)",
+    "codename": "otus_ds",
+    "model": "MotoE2"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto E (gen2)",
+    "codename": "otus_ds",
+    "model": "XT1021"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto E 4G LTE",
     "codename": "surnia_cdma",
     "model": "MotoE2(4G-LTE)"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto E",
+    "market_name": "Moto E 4G LTE",
     "codename": "surnia_cdma",
     "model": "XT1526"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto E",
+    "market_name": "Moto E 4G LTE",
     "codename": "surnia_cdma",
     "model": "XT1528"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto E",
+    "market_name": "Moto E 4G LTE",
     "codename": "surnia_cdma",
     "model": "XT1528O"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto E",
+    "market_name": "Moto E 4G LTE",
     "codename": "surnia_uds",
     "model": "MotoE2(4G-LTE)"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto E",
+    "market_name": "Moto E 4G LTE",
+    "codename": "surnia_udstv",
+    "model": "MotoE2(4G-LTE)"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto E 4G LTE",
     "codename": "surnia_umts",
     "model": "MotoE2(4G-LTE)"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (gen1)",
     "codename": "falcon_cdma",
     "model": "XT1028"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (gen1)",
     "codename": "falcon_cdma",
     "model": "XT1031"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (gen1)",
     "codename": "falcon_cdma",
     "model": "XT937C"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (gen1)",
+    "codename": "falcon_umts",
+    "model": "XT1002"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (gen1)",
+    "codename": "falcon_umts",
+    "model": "XT1003"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (gen1)",
     "codename": "falcon_umts",
     "model": "XT1008"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (gen1)",
     "codename": "falcon_umts",
     "model": "XT1032"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (gen1)",
     "codename": "falcon_umts",
     "model": "XT1034"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (gen1)",
     "codename": "falcon_umts",
     "model": "XT939G"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (gen1)",
     "codename": "falcon_umtsds",
     "model": "XT1033"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "osprey_cdma",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "osprey_u2",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "osprey_ud2",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "osprey_uds",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "osprey_umts",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "thea_ds",
-    "model": "XT1079"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (gen2)",
     "codename": "titan_udstv",
     "model": "XT1069"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G",
+    "market_name": "Moto G (gen2)",
     "codename": "titan_udstv",
     "model": "titan_retbr_dstv"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G (2014)",
+    "market_name": "Moto G (gen2)",
     "codename": "titan_umts",
     "model": "XT1063"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G (2014)",
+    "market_name": "Moto G (gen2)",
     "codename": "titan_umts",
     "model": "XT1064"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G (2014)",
+    "market_name": "Moto G (gen2)",
     "codename": "titan_umtsds",
     "model": "XT1068"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G (2014)",
+    "market_name": "Moto G (gen2)",
     "codename": "titan_umtsds",
     "model": "titan_niibr_ds"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (gen3)",
+    "codename": "osprey_cdma",
+    "model": "MotoG3"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (gen3)",
+    "codename": "osprey_u2",
+    "model": "MotoG3"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (gen3)",
+    "codename": "osprey_ud2",
+    "model": "MotoG3"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (gen3)",
+    "codename": "osprey_uds",
+    "model": "MotoG3"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (gen3)",
+    "codename": "osprey_udstv",
+    "model": "MotoG3"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (gen3)",
+    "codename": "osprey_umts",
+    "model": "MotoG3"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G 4G LTE (gen1)",
+    "codename": "peregrine",
+    "model": "XT1039"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G 4G LTE (gen1)",
+    "codename": "peregrine",
+    "model": "XT1040"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G 4G LTE (gen1)",
+    "codename": "peregrine",
+    "model": "XT1042"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G 4G LTE (gen1)",
+    "codename": "peregrine",
+    "model": "XT1045"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G 4G LTE (gen2)",
+    "codename": "thea",
+    "model": "XT1072"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G 4G LTE (gen2)",
+    "codename": "thea_ds",
+    "model": "XT1079"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G 4G LTE (gen2)",
+    "codename": "thea_umtsds",
+    "model": "XT1063"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G 4G LTE (gen2)",
+    "codename": "thea_umtsds",
+    "model": "XT1078"
   },
   {
     "manufacturer": "Motorola",
@@ -34510,18 +34546,6 @@
     "market_name": "Moto G Turbo Edition",
     "codename": "merlin",
     "model": "MotoG3-TE"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G w/ 4G LTE",
-    "codename": "peregrine",
-    "model": "XT1045"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G w/4G LTE",
-    "codename": "peregrine",
-    "model": "XT1040"
   },
   {
     "manufacturer": "Motorola",
@@ -34585,49 +34609,49 @@
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X (2014)",
+    "market_name": "Moto X (gen2)",
     "codename": "victara",
     "model": "XT1085"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X (2014)",
+    "market_name": "Moto X (gen2)",
     "codename": "victara",
     "model": "XT1092"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X (2014)",
+    "market_name": "Moto X (gen2)",
     "codename": "victara",
     "model": "XT1093"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X (2014)",
+    "market_name": "Moto X (gen2)",
     "codename": "victara",
     "model": "XT1094"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X (2014)",
+    "market_name": "Moto X (gen2)",
     "codename": "victara",
     "model": "XT1095"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X (2014)",
+    "market_name": "Moto X (gen2)",
     "codename": "victara",
     "model": "XT1096"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X (2014)",
+    "market_name": "Moto X (gen2)",
     "codename": "victara",
     "model": "XT1097"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X (2014)",
+    "market_name": "Moto X (gen2)",
     "codename": "victara",
     "model": "XT1098"
   },
@@ -34658,6 +34682,12 @@
   {
     "manufacturer": "Motorola",
     "market_name": "Moto X Play",
+    "codename": "lux",
+    "model": "XT1564"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X Play",
     "codename": "lux_uds",
     "model": "XT1021"
   },
@@ -34670,20 +34700,20 @@
   {
     "manufacturer": "Motorola",
     "market_name": "Moto X Style",
-    "codename": "clark_ds",
-    "model": "XT1572"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X Style (2015)",
     "codename": "clark",
     "model": "XT1572"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto X Style (2015)",
+    "market_name": "Moto X Style",
     "codename": "clark",
     "model": "XT1575"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X Style (gen3)",
+    "codename": "clark_ds",
+    "model": "XT1572"
   },
   {
     "manufacturer": "Motorola",
@@ -34999,7 +35029,7 @@
   },
   {
     "manufacturer": "Motorola Solutions",
-    "market_name": "Moto E",
+    "market_name": "Moto E 4G LTE",
     "codename": "surnia_umts",
     "model": "MotoE2(4G-LTE)"
   },
@@ -35814,6 +35844,12 @@
     "model": "N3"
   },
   {
+    "manufacturer": "Nextbit",
+    "market_name": "Robin",
+    "codename": "ether",
+    "model": "Robin"
+  },
+  {
     "manufacturer": "Nextbook",
     "market_name": "M-MP7NB3G",
     "codename": "7_Plus_HD3G",
@@ -35980,6 +36016,12 @@
     "market_name": "TM101A530L",
     "codename": "TM101A530L",
     "model": "TM101A530L"
+  },
+  {
+    "manufacturer": "Nuvision",
+    "market_name": "TM106A510L",
+    "codename": "TM106A510L",
+    "model": "TM106A510L"
   },
   {
     "manufacturer": "Nuvision",
@@ -38209,6 +38251,12 @@
   },
   {
     "manufacturer": "Philips",
+    "market_name": "Philips S337",
+    "codename": "scx35_sp7731gea_hd",
+    "model": "Philips S337"
+  },
+  {
+    "manufacturer": "Philips",
     "market_name": "Philips V387",
     "codename": "V387",
     "model": "Philips V387"
@@ -39085,6 +39133,48 @@
   },
   {
     "manufacturer": "Prestigio",
+    "market_name": "MULTIPAD WIZE 3108 3G",
+    "codename": "PN80A03G",
+    "model": "PMT3108_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "MULTIPAD WIZE 3111",
+    "codename": "NS70A03W",
+    "model": "PMT3111_Wi"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "MULTIPAD WIZE 3121",
+    "codename": "NS70A03W",
+    "model": "PMT3121_Wi"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "MULTIPAD WIZE 3308 3G",
+    "codename": "PN80A03G",
+    "model": "PMT3308_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "MULTIPAD WIZE 3331 3G",
+    "codename": "PN10A01G",
+    "model": "PMT3331_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "MULTIPAD WIZE 3341 3G",
+    "codename": "PN10A01G",
+    "model": "PMT3341_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "MULTIPAD WIZE 3787 3G",
+    "codename": "PMT3777_3G",
+    "model": "PMT3787_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
     "market_name": "MultiPad Thunder 7.0i",
     "codename": "g01p",
     "model": "PMT3377_Wi"
@@ -39130,6 +39220,12 @@
     "market_name": "MultiPhone 5517 DUO",
     "codename": "PSP5517DUO",
     "model": "PSP5517DUO"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "Multipad Wize 3757 3G",
+    "codename": "PMT3777_3G",
+    "model": "PMT3757_3G"
   },
   {
     "manufacturer": "Prestigio",
@@ -39214,6 +39310,18 @@
     "market_name": "PMT3677_Wi",
     "codename": "PMT3677",
     "model": "PMT3677_Wi"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "PMT3767_3G",
+    "codename": "PMT3777_3G",
+    "model": "PMT3767_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "PMT3777_3G",
+    "codename": "PMT3777_3G",
+    "model": "PMT3777_3G"
   },
   {
     "manufacturer": "Prestigio",
@@ -39826,6 +39934,12 @@
     "market_name": "RCT6672W23",
     "codename": "RCT6672W23",
     "model": "RCT6672W23"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCT6673W-V1",
+    "codename": "RCT6673W-V1",
+    "model": "RCT6673W-V1"
   },
   {
     "manufacturer": "RCA",
@@ -42945,7 +43059,19 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy J1 Mini",
     "codename": "j1mini3g",
+    "model": "SM-J105B"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Mini",
+    "codename": "j1mini3g",
     "model": "SM-J105H"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Mini",
+    "codename": "j1mini3gdx",
+    "model": "SM-J105B"
   },
   {
     "manufacturer": "Samsung",
@@ -43030,6 +43156,12 @@
     "market_name": "Galaxy J3",
     "codename": "j3xlte",
     "model": "SM-J320F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J3",
+    "codename": "j3xlte",
+    "model": "SM-J320M"
   },
   {
     "manufacturer": "Samsung",
@@ -46774,6 +46906,102 @@
     "market_name": "Galaxy S6 Edge+",
     "codename": "zenltevzw",
     "model": "SM-G928V"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "herolte",
+    "model": "SM-G930F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroltebmc",
+    "model": "SM-G930W8"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroltektt",
+    "model": "SM-G930K"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroltelgt",
+    "model": "SM-G930L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "herolteskt",
+    "model": "SM-G930S"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroqlteatt",
+    "model": "SAMSUNG-SM-G930A"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroqltespr",
+    "model": "SM-G930P"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroqltetmo",
+    "model": "SM-G930T"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2lte",
+    "model": "SM-G935F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2ltebmc",
+    "model": "SM-G935W8"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2ltektt",
+    "model": "SM-G935K"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2ltelgt",
+    "model": "SM-G935L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2lteskt",
+    "model": "SM-G935S"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2qlteatt",
+    "model": "SAMSUNG-SM-G935A"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2qltespr",
+    "model": "SM-G935P"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2qltetmo",
+    "model": "SM-G935T"
   },
   {
     "manufacturer": "Samsung",
@@ -52735,9 +52963,21 @@
   },
   {
     "manufacturer": "Symphony",
+    "market_name": "P6 PRO",
+    "codename": "P6_PRO",
+    "model": "P6 PRO"
+  },
+  {
+    "manufacturer": "Symphony",
     "market_name": "Roar A50",
     "codename": "Roar_A50_sprout",
     "model": "Roar_A50"
+  },
+  {
+    "manufacturer": "Symphony",
+    "market_name": "V85",
+    "codename": "V85",
+    "model": "V85"
   },
   {
     "manufacturer": "TAG Heuer",
@@ -58447,6 +58687,12 @@
   },
   {
     "manufacturer": "Vestel",
+    "market_name": "Venus V3 5070",
+    "codename": "Venus_V3_5070",
+    "model": "Venus_V3_5070"
+  },
+  {
+    "manufacturer": "Vestel",
     "market_name": "Venus V3 5570",
     "codename": "Venus_V3_5570",
     "model": "Venus_V3_5570"
@@ -58702,6 +58948,12 @@
     "market_name": "vivo X6Plus D",
     "codename": "PD1501D",
     "model": "vivo PD1501D"
+  },
+  {
+    "manufacturer": "Vivo",
+    "market_name": "vivo X6SPlusA",
+    "codename": "PD1515BA",
+    "model": "vivo PD1515BA"
   },
   {
     "manufacturer": "Vivo",
@@ -62389,6 +62641,24 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "Turk Telekom TT175",
+    "codename": "ZTE_Blade_V580",
+    "model": "Blade V580"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Turk Telekom TT175",
+    "codename": "ZTE_Blade_V580",
+    "model": "Turk Telekom TT175"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Turk Telekom TT175",
+    "codename": "ZTE_Blade_V580",
+    "model": "ZTE Blade V580"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "Turkcell Maxi Plus 5",
     "codename": "nice",
     "model": "Turkcell Maxi Plus 5"
@@ -63814,6 +64084,24 @@
     "market_name": "ZTE N919D",
     "codename": "ZTE-N919D",
     "model": "ZTE N919D"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE N939Sc",
+    "codename": "zx55q05_64",
+    "model": "LS-5504"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE N939Sc",
+    "codename": "zx55q05_64",
+    "model": "ZTE Blade X9"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE N939Sc",
+    "codename": "zx55q05_64",
+    "model": "ZTE N939Sc"
   },
   {
     "manufacturer": "ZTE",
@@ -65812,6 +66100,12 @@
     "market_name": "Wow(Window of the world)",
     "codename": "itq700",
     "model": "YBMK01"
+  },
+  {
+    "manufacturer": "iRulu",
+    "market_name": "Irulu",
+    "codename": "octopus-masu",
+    "model": "X10"
   },
   {
     "manufacturer": "iView",

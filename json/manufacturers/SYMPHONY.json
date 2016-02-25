@@ -2,9 +2,19 @@
   "manufacturer": "Symphony",
   "devices": [
     {
+      "market_name": "P6 PRO",
+      "codename": "P6_PRO",
+      "model": "P6 PRO"
+    },
+    {
       "market_name": "Roar A50",
       "codename": "Roar_A50_sprout",
       "model": "Roar_A50"
+    },
+    {
+      "market_name": "V85",
+      "codename": "V85",
+      "model": "V85"
     }
   ]
 }

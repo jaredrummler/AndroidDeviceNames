@@ -77,6 +77,11 @@
       "model": "PGN517"
     },
     {
+      "market_name": "PGN518",
+      "codename": "PGN518",
+      "model": "PGN518"
+    },
+    {
       "market_name": "PGN605",
       "codename": "PGN605",
       "model": "PGN605"
@@ -90,6 +95,11 @@
       "market_name": "PGN607",
       "codename": "PGN607",
       "model": "PGN607"
+    },
+    {
+      "market_name": "PGN608",
+      "codename": "PGN608",
+      "model": "PGN608"
     }
   ]
 }

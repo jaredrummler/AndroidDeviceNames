@@ -1462,6 +1462,11 @@
       "model": "LG-F620S"
     },
     {
+      "market_name": "LG Classic",
+      "codename": "y30t",
+      "model": "LGL17AG"
+    },
+    {
       "market_name": "LG Connect 4G",
       "codename": "cayman",
       "model": "LG-MS840"
@@ -2098,6 +2103,11 @@
     },
     {
       "market_name": "LG K10",
+      "codename": "m216",
+      "model": "LG-K420"
+    },
+    {
+      "market_name": "LG K10",
       "codename": "m216n",
       "model": "LG-F670K"
     },
@@ -2142,7 +2152,7 @@
       "model": "LG-K130"
     },
     {
-      "market_name": "LG K6",
+      "market_name": "LG K7",
       "codename": "m13g",
       "model": "LG-X210"
     },
@@ -2280,6 +2290,11 @@
       "market_name": "LG M1",
       "codename": "m1",
       "model": "LGMS330"
+    },
+    {
+      "market_name": "LG M1",
+      "codename": "m1ds",
+      "model": "LG-K332"
     },
     {
       "market_name": "LG Mach\\xe2\\x84\\xa2",

@@ -82,6 +82,11 @@
       "model": "E4_Lite"
     },
     {
+      "market_name": "P4 eMagic",
+      "codename": "P4_eMagic",
+      "model": "P4_eMagic"
+    },
+    {
       "market_name": "P5 Energy",
       "codename": "P5_Energy",
       "model": "P5_Energy"
@@ -90,6 +95,11 @@
       "market_name": "P5 Life",
       "codename": "P5Life",
       "model": "P5Life_TM"
+    },
+    {
+      "market_name": "P5 eMagic",
+      "codename": "P5_eMagic",
+      "model": "P5_eMagic"
     },
     {
       "market_name": "P5Life",

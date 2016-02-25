@@ -1711,13 +1711,13 @@
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "DROID Turbo",
+    "market_name": "Droid Turbo",
     "codename": "quark",
     "model": "XT1250"
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "DROID Turbo",
+    "market_name": "Droid Turbo",
     "codename": "quark",
     "model": "XT1254"
   },
@@ -1735,303 +1735,9 @@
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "condor_umts",
-    "model": "XT1021"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "condor_umts",
-    "model": "XT1023"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "condor_umtsds",
-    "model": "XT1022"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "otus",
-    "model": "MotoE2"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "otus",
-    "model": "XT0000"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "otus_ds",
-    "model": "MotoE2"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "otus_ds",
-    "model": "XT1021"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "surnia_cdma",
-    "model": "XT1526"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "surnia_uds",
-    "model": "MotoE2(4G-LTE)"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "surnia_udstv",
-    "model": "MotoE2(4G-LTE)"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "surnia_umts",
-    "model": "MotoE2(4G-LTE)"
-  },
-  {
-    "manufacturer": "Motorola",
     "market_name": "Moto E",
     "codename": "condor_cdma",
     "model": "XT1019"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "condor_udstv",
-    "model": "XT1025"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "condor_umts",
-    "model": "XT1021"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "condor_umts",
-    "model": "XT1023"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "condor_umtsds",
-    "model": "XT1022"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "otus",
-    "model": "MotoE2"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "surnia_cdma",
-    "model": "MotoE2(4G-LTE)"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "surnia_cdma",
-    "model": "XT1526"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "surnia_cdma",
-    "model": "XT1528"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "surnia_cdma",
-    "model": "XT1528O"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "surnia_uds",
-    "model": "MotoE2(4G-LTE)"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "surnia_umts",
-    "model": "MotoE2(4G-LTE)"
-  },
-  {
-    "manufacturer": "Motorola Solutions",
-    "market_name": "Moto E",
-    "codename": "surnia_umts",
-    "model": "MotoE2(4G-LTE)"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "falcon_umts",
-    "model": "XT1002"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "falcon_umts",
-    "model": "XT1003"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "falcon_umts",
-    "model": "XT1032"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "osprey_udstv",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "peregrine",
-    "model": "XT1039"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "peregrine",
-    "model": "XT1042"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "peregrine",
-    "model": "XT1045"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "thea",
-    "model": "XT1072"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "thea_umtsds",
-    "model": "XT1063"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO G",
-    "codename": "thea_umtsds",
-    "model": "XT1078"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "falcon_cdma",
-    "model": "XT1028"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "falcon_cdma",
-    "model": "XT1031"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "falcon_cdma",
-    "model": "XT937C"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "falcon_umts",
-    "model": "XT1008"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "falcon_umts",
-    "model": "XT1032"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "falcon_umts",
-    "model": "XT1034"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "falcon_umts",
-    "model": "XT939G"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "falcon_umtsds",
-    "model": "XT1033"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "osprey_cdma",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "osprey_u2",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "osprey_ud2",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "osprey_uds",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "osprey_umts",
-    "model": "MotoG3"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "thea_ds",
-    "model": "XT1079"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "titan_udstv",
-    "model": "XT1069"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G",
-    "codename": "titan_udstv",
-    "model": "titan_retbr_dstv"
   },
   {
     "manufacturer": "Motorola",
@@ -2096,8 +1802,14 @@
   {
     "manufacturer": "Motorola",
     "market_name": "Moto X Style",
-    "codename": "clark_ds",
+    "codename": "clark",
     "model": "XT1572"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X Style",
+    "codename": "clark",
+    "model": "XT1575"
   },
   {
     "manufacturer": "Motorola",
