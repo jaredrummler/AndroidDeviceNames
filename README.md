@@ -1,10 +1,10 @@
 # Android Device Names
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names) [![License](http://img.shields.io/:license-apache-blue.svg)](LICENSE.txt) [![API](https://img.shields.io/badge/API-7%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=7) <a href="http://www.methodscount.com/?lib=com.jaredrummler%3Aandroid-device-names%3A1.0.7" target="_blank"><img src="https://img.shields.io/badge/method count-86-e91e63.svg"></img></a> <a href="http://www.methodscount.com/?lib=com.jaredrummler%3Aandroid-device-names%3A1.0.7" target="_blank"><img src="https://img.shields.io/badge/size-34 KB-e91e63.svg"></img></a>
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names) [![License](http://img.shields.io/:license-apache-blue.svg)](LICENSE.txt) [![API](https://img.shields.io/badge/API-7%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=7) <a href="http://www.methodscount.com/?lib=com.jaredrummler%3Aandroid-device-names%3A1.0.8" target="_blank"><img src="https://img.shields.io/badge/method count-86-e91e63.svg"></img></a> <a href="http://www.methodscount.com/?lib=com.jaredrummler%3Aandroid-device-names%3A1.0.8" target="_blank"><img src="https://img.shields.io/badge/size-34 KB-e91e63.svg"></img></a>
 
 A small Android library to get the market name of an Android device.
 
-On many popular devices the market name of the device is not available. For example, on the Samsung Galaxy S6 the value of [`Build.MODEL`](http://developer.android.com/reference/android/os/Build.html#MODEL) could be `"SM-G920F"`, `"SM-G920I"`, or `"SM-G920W8"`.
+On many popular devices the market name of the device is not available. For example, on the Samsung Galaxy S7 the value of [`Build.MODEL`](http://developer.android.com/reference/android/os/Build.html#MODEL) could be `"SAMSUNG-SM-G930A"`, `"SM-G930F"`, `"SM-G930K"`, `"SM-G930L"`, etc.
 
 This small library gets the market (consumer friendly) name of a device.
 
@@ -33,10 +33,10 @@ DeviceName.with(context).request(new DeviceName.Callback() {
 
   @Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
     String manufacturer = info.manufacturer;  // "Samsung"
-    String name = info.marketName;            // "Galaxy S6 Edge"
-    String model = info.model;                // "SM-G925I"
-    String codename = info.codename;          // "zerolte"
-    String deviceName = info.getName();       // "Galaxy S6 Edge"
+    String name = info.marketName;            // "Galaxy S7 Edge"
+    String model = info.model;                // "SAMSUNG-SM-G935A"
+    String codename = info.codename;          // "hero2lte"
+    String deviceName = info.getName();       // "Galaxy S7 Edge"
     // FYI: We are on the UI thread.
   }
 });
@@ -49,10 +49,10 @@ This will only make a network call once. The value is saved to SharedPreferences
 Download
 --------
 
-Download [the latest AAR](https://repo1.maven.org/maven2/com/jaredrummler/android-device-names/1.0.7/android-device-names-1.0.7.aar) or grab via Gradle:
+Download [the latest AAR](https://repo1.maven.org/maven2/com/jaredrummler/android-device-names/1.0.8/android-device-names-1.0.8.aar) or grab via Gradle:
 
 ```groovy
-compile 'com.jaredrummler:android-device-names:1.0.7'
+compile 'com.jaredrummler:android-device-names:1.0.8'
 ```
 
 Or simply copy the [DeviceName](https://raw.githubusercontent.com/jaredrummler/AndroidDeviceNames/master/library/src/main/java/com/jaredrummler/android/device/DeviceName.java) class intro your project, update the package declaration, and you are good to go.
