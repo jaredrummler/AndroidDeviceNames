@@ -1,7 +1,13 @@
 [
   {
     "manufacturer": "Motorola",
-    "market_name": "Moto G 4G LTE (gen2)",
+    "market_name": "Moto G with 4G LTE (2nd Gen)",
+    "codename": "thea_ds",
+    "model": "XT1077"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G with 4G LTE (2nd Gen)",
     "codename": "thea_ds",
     "model": "XT1079"
   }

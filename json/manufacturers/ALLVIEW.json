@@ -112,6 +112,11 @@
       "model": "P6_Energy_TM"
     },
     {
+      "market_name": "P6 Lite",
+      "codename": "P6_lite",
+      "model": "P6_lite_TM"
+    },
+    {
       "market_name": "P6 Pro",
       "codename": "P6_Pro",
       "model": "P6_Pro"
@@ -182,6 +187,11 @@
       "model": "V2_Viper"
     },
     {
+      "market_name": "V2 Viper E",
+      "codename": "V2_Viper_E",
+      "model": "V2_Viper_E"
+    },
+    {
       "market_name": "V2 Viper I",
       "codename": "V2_Viper_I",
       "model": "V2_Viper_I"
@@ -190,6 +200,11 @@
       "market_name": "V2 Viper I",
       "codename": "V2_Viper_I",
       "model": "V2_Viper_I_TM"
+    },
+    {
+      "market_name": "V2 Viper I4G",
+      "codename": "V2_Viper_I4G",
+      "model": "V2_Viper_I4G"
     },
     {
       "market_name": "V2 Viper X",
@@ -225,6 +240,11 @@
       "market_name": "Viva H8 Life",
       "codename": "H8_Life",
       "model": "H8_Life"
+    },
+    {
+      "market_name": "Viva H801",
+      "codename": "Viva_H801",
+      "model": "Viva_H801"
     },
     {
       "market_name": "Viva i10HD",

@@ -22,9 +22,29 @@
       "model": "BLU DASH X"
     },
     {
+      "market_name": "Energy X 2",
+      "codename": "BLU_Energy_X_2",
+      "model": "Energy X 2"
+    },
+    {
+      "market_name": "Energy X LTE",
+      "codename": "BLU_Energy_X_LTE",
+      "model": "Energy X LTE"
+    },
+    {
       "market_name": "LIFE ONE X",
       "codename": "BLU_LIFE_ONE_X",
       "model": "BLU LIFE ONE X"
+    },
+    {
+      "market_name": "Life Mark",
+      "codename": "BLU_LIFE_MARK",
+      "model": "BLU LIFE MARK"
+    },
+    {
+      "market_name": "NEO X PLUS",
+      "codename": "BLU_NEO_X_PLUS",
+      "model": "BLU NEO X PLUS"
     },
     {
       "market_name": "PURE XL",
@@ -47,6 +67,11 @@
       "model": "BLU STUDIO G PLUS"
     },
     {
+      "market_name": "STUDIO M HD",
+      "codename": "BLU_STUDIO_M_HD",
+      "model": "STUDIO M HD"
+    },
+    {
       "market_name": "STUDIO ONE PLUS",
       "codename": "BLU_STUDIO_ONE_PLUS",
       "model": "BLU STUDIO ONE PLUS"
@@ -57,9 +82,29 @@
       "model": "STUDIO ENERGY 2"
     },
     {
+      "market_name": "Studio 5.5 HD",
+      "codename": "S150",
+      "model": "STUDIO 5.5 HD"
+    },
+    {
       "market_name": "Studio C HD",
       "codename": "BLU_STUDIO_C_HD",
       "model": "BLU STUDIO C HD"
+    },
+    {
+      "market_name": "Studio One",
+      "codename": "BLU_STUDIO_ONE",
+      "model": "BLU STUDIO ONE"
+    },
+    {
+      "market_name": "VIVO 5",
+      "codename": "BLU_VIVO_5",
+      "model": "VIVO 5"
+    },
+    {
+      "market_name": "VIVO XL",
+      "codename": "BLU_VIVO_XL",
+      "model": "VIVO XL"
     }
   ]
 }

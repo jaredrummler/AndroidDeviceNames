@@ -1462,11 +1462,6 @@
       "model": "Autana LTE"
     },
     {
-      "market_name": "ATH-CL00",
-      "codename": "HWATH",
-      "model": "ATH-CL00"
-    },
-    {
       "market_name": "ATH-TL00",
       "codename": "HWATH",
       "model": "ATH-TL00"
@@ -2222,6 +2217,11 @@
       "model": "HUAWEI C199s"
     },
     {
+      "market_name": "HUAWEI ECO",
+      "codename": "HWLUA-U6582",
+      "model": "HUAWEI LUA-U23"
+    },
+    {
       "market_name": "HUAWEI G630",
       "codename": "hwG630-T00",
       "model": "HUAWEI G630-T00"
@@ -2597,6 +2597,11 @@
       "model": "HUAWEI HN3-U01"
     },
     {
+      "market_name": "Honor7i",
+      "codename": "HWATH",
+      "model": "ATH-CL00"
+    },
+    {
       "market_name": "Huawei G620-A2",
       "codename": "hwG620-A2",
       "model": "HUAWEI G620-A2"
@@ -2955,6 +2960,16 @@
       "market_name": "P7-L12",
       "codename": "hwp7",
       "model": "HUAWEI P7-L12"
+    },
+    {
+      "market_name": "P8 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "codename": "hwALE-H",
+      "model": "ALE-TL00"
+    },
+    {
+      "market_name": "P8 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "codename": "hwALE-H",
+      "model": "ALE-UL00"
     },
     {
       "market_name": "PE-CL00",

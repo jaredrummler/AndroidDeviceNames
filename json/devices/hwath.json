@@ -1,12 +1,6 @@
 [
   {
     "manufacturer": "Huawei",
-    "market_name": "ATH-CL00",
-    "codename": "HWATH",
-    "model": "ATH-CL00"
-  },
-  {
-    "manufacturer": "Huawei",
     "market_name": "ATH-TL00",
     "codename": "HWATH",
     "model": "ATH-TL00"
@@ -40,5 +34,11 @@
     "market_name": "Honor 7i",
     "codename": "HWATH",
     "model": "ATH-AL00"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Honor7i",
+    "codename": "HWATH",
+    "model": "ATH-CL00"
   }
 ]

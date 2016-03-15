@@ -1723,84 +1723,6 @@
   },
   {
     "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "condor_cdma",
-    "model": "XT1019"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO E",
-    "codename": "condor_cdma",
-    "model": "XT830C"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto E",
-    "codename": "condor_cdma",
-    "model": "XT1019"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO X",
-    "codename": "ghost",
-    "model": "XT1053"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "MOTO X",
-    "codename": "ghost",
-    "model": "XT1058"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X",
-    "codename": "ghost",
-    "model": "XT1049"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X",
-    "codename": "ghost",
-    "model": "XT1050"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X",
-    "codename": "ghost",
-    "model": "XT1052"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X",
-    "codename": "ghost",
-    "model": "XT1053"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X",
-    "codename": "ghost",
-    "model": "XT1055"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X",
-    "codename": "ghost",
-    "model": "XT1056"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X",
-    "codename": "ghost",
-    "model": "XT1058"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X",
-    "codename": "ghost",
-    "model": "XT1060"
-  },
-  {
-    "manufacturer": "Motorola",
     "market_name": "Moto X Style",
     "codename": "clark",
     "model": "XT1572"
@@ -1808,8 +1730,14 @@
   {
     "manufacturer": "Motorola",
     "market_name": "Moto X Style",
-    "codename": "clark",
-    "model": "XT1575"
+    "codename": "clark_ds",
+    "model": "XT1570"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X Style",
+    "codename": "clark_ds",
+    "model": "XT1572"
   },
   {
     "manufacturer": "Motorola",
@@ -5264,6 +5192,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S7",
+    "codename": "herolte",
+    "model": "SM-G930X"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
     "codename": "heroltebmc",
     "model": "SM-G930W8"
   },
@@ -5288,8 +5222,38 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S7",
+    "codename": "heroqlteaio",
+    "model": "SAMSUNG-SM-G930AZ"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
     "codename": "heroqlteatt",
     "model": "SAMSUNG-SM-G930A"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroqltechn",
+    "model": "SM-G9300"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroqltechn",
+    "model": "SM-G9308"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroqltelra",
+    "model": "SM-G930R6"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroqltemtr",
+    "model": "SM-G930T1"
   },
   {
     "manufacturer": "Samsung",
@@ -5305,9 +5269,27 @@
   },
   {
     "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroqlteusc",
+    "model": "SM-G930R4"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroqltevzw",
+    "model": "SM-G930V"
+  },
+  {
+    "manufacturer": "Samsung",
     "market_name": "Galaxy S7 Edge",
     "codename": "hero2lte",
     "model": "SM-G935F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2lte",
+    "model": "SM-G935X"
   },
   {
     "manufacturer": "Samsung",
@@ -5342,6 +5324,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S7 Edge",
+    "codename": "hero2qltechn",
+    "model": "SM-G9350"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
     "codename": "hero2qltespr",
     "model": "SM-G935P"
   },
@@ -5350,6 +5338,18 @@
     "market_name": "Galaxy S7 Edge",
     "codename": "hero2qltetmo",
     "model": "SM-G935T"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2qlteusc",
+    "model": "SM-G935R4"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2qltevzw",
+    "model": "SM-G935V"
   },
   {
     "manufacturer": "Samsung",
@@ -5668,6 +5668,12 @@
     "market_name": "Galaxy View",
     "codename": "gvlteatt",
     "model": "SAMSUNG-SM-T677A"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy View",
+    "codename": "gvltevzw",
+    "model": "SM-T677V"
   },
   {
     "manufacturer": "Samsung",

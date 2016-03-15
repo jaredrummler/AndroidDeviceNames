@@ -372,6 +372,16 @@
       "model": "ME501"
     },
     {
+      "market_name": "DROID MAXX 2",
+      "codename": "lux",
+      "model": "XT1021"
+    },
+    {
+      "market_name": "DROID MAXX 2",
+      "codename": "lux",
+      "model": "XT1565"
+    },
+    {
       "market_name": "DROID RAZR HD",
       "codename": "vanquish",
       "model": "DROID RAZR HD"
@@ -395,6 +405,11 @@
       "market_name": "DROID RAZR i",
       "codename": "smi",
       "model": "XT890"
+    },
+    {
+      "market_name": "DROID Turbo 2",
+      "codename": "kinzie",
+      "model": "XT1585"
     },
     {
       "market_name": "DROID4",
@@ -537,16 +552,6 @@
       "model": "XT1080"
     },
     {
-      "market_name": "Droid Maxx 2",
-      "codename": "lux",
-      "model": "XT1021"
-    },
-    {
-      "market_name": "Droid Maxx 2",
-      "codename": "lux",
-      "model": "XT1565"
-    },
-    {
       "market_name": "Droid Mini",
       "codename": "obakem",
       "model": "XT1030"
@@ -590,11 +595,6 @@
       "market_name": "Droid Turbo",
       "codename": "quark",
       "model": "XT1254"
-    },
-    {
-      "market_name": "Droid Turbo 2",
-      "codename": "kinzie",
-      "model": "XT1585"
     },
     {
       "market_name": "Droid Ultra",
@@ -665,26 +665,6 @@
       "market_name": "Iron Rock",
       "codename": "umts_irock",
       "model": "XT627"
-    },
-    {
-      "market_name": "MOTO E",
-      "codename": "condor_cdma",
-      "model": "XT1019"
-    },
-    {
-      "market_name": "MOTO E",
-      "codename": "condor_cdma",
-      "model": "XT830C"
-    },
-    {
-      "market_name": "MOTO X",
-      "codename": "ghost",
-      "model": "XT1053"
-    },
-    {
-      "market_name": "MOTO X",
-      "codename": "ghost",
-      "model": "XT1058"
     },
     {
       "market_name": "MOTOROLA ELECTRIFY 2",
@@ -767,168 +747,193 @@
       "model": "XT535"
     },
     {
-      "market_name": "Moto E",
+      "market_name": "Moto E (1st Gen)",
       "codename": "condor_cdma",
       "model": "XT1019"
     },
     {
-      "market_name": "Moto E (gen1)",
+      "market_name": "Moto E (1st Gen)",
+      "codename": "condor_cdma",
+      "model": "XT830C"
+    },
+    {
+      "market_name": "Moto E (1st Gen)",
       "codename": "condor_udstv",
       "model": "XT1025"
     },
     {
-      "market_name": "Moto E (gen1)",
+      "market_name": "Moto E (1st Gen)",
       "codename": "condor_umts",
       "model": "XT1021"
     },
     {
-      "market_name": "Moto E (gen1)",
+      "market_name": "Moto E (1st Gen)",
       "codename": "condor_umts",
       "model": "XT1023"
     },
     {
-      "market_name": "Moto E (gen1)",
+      "market_name": "Moto E (1st Gen)",
       "codename": "condor_umtsds",
       "model": "XT1022"
     },
     {
-      "market_name": "Moto E (gen2)",
+      "market_name": "Moto E (2nd Gen)",
       "codename": "otus",
       "model": "MotoE2"
     },
     {
-      "market_name": "Moto E (gen2)",
+      "market_name": "Moto E (2nd Gen)",
       "codename": "otus",
       "model": "XT0000"
     },
     {
-      "market_name": "Moto E (gen2)",
+      "market_name": "Moto E (2nd Gen)",
       "codename": "otus_ds",
       "model": "MotoE2"
     },
     {
-      "market_name": "Moto E (gen2)",
+      "market_name": "Moto E (2nd Gen)",
       "codename": "otus_ds",
       "model": "XT1021"
     },
     {
-      "market_name": "Moto E 4G LTE",
+      "market_name": "Moto E with 4G LTE (2nd Gen)",
+      "codename": "surnia_cdma",
+      "model": "MotoE2"
+    },
+    {
+      "market_name": "Moto E with 4G LTE (2nd Gen)",
       "codename": "surnia_cdma",
       "model": "MotoE2(4G-LTE)"
     },
     {
-      "market_name": "Moto E 4G LTE",
+      "market_name": "Moto E with 4G LTE (2nd Gen)",
       "codename": "surnia_cdma",
       "model": "XT1526"
     },
     {
-      "market_name": "Moto E 4G LTE",
+      "market_name": "Moto E with 4G LTE (2nd Gen)",
       "codename": "surnia_cdma",
       "model": "XT1528"
     },
     {
-      "market_name": "Moto E 4G LTE",
+      "market_name": "Moto E with 4G LTE (2nd Gen)",
       "codename": "surnia_cdma",
       "model": "XT1528O"
     },
     {
-      "market_name": "Moto E 4G LTE",
+      "market_name": "Moto E with 4G LTE (2nd Gen)",
       "codename": "surnia_uds",
       "model": "MotoE2(4G-LTE)"
     },
     {
-      "market_name": "Moto E 4G LTE",
+      "market_name": "Moto E with 4G LTE (2nd Gen)",
       "codename": "surnia_udstv",
       "model": "MotoE2(4G-LTE)"
     },
     {
-      "market_name": "Moto E 4G LTE",
+      "market_name": "Moto E with 4G LTE (2nd Gen)",
       "codename": "surnia_umts",
       "model": "MotoE2(4G-LTE)"
     },
     {
-      "market_name": "Moto G (gen1)",
+      "market_name": "Moto G (1st Gen)",
       "codename": "falcon_cdma",
       "model": "XT1028"
     },
     {
-      "market_name": "Moto G (gen1)",
+      "market_name": "Moto G (1st Gen)",
       "codename": "falcon_cdma",
       "model": "XT1031"
     },
     {
-      "market_name": "Moto G (gen1)",
+      "market_name": "Moto G (1st Gen)",
       "codename": "falcon_cdma",
       "model": "XT937C"
     },
     {
-      "market_name": "Moto G (gen1)",
+      "market_name": "Moto G (1st Gen)",
       "codename": "falcon_umts",
       "model": "XT1002"
     },
     {
-      "market_name": "Moto G (gen1)",
+      "market_name": "Moto G (1st Gen)",
       "codename": "falcon_umts",
       "model": "XT1003"
     },
     {
-      "market_name": "Moto G (gen1)",
+      "market_name": "Moto G (1st Gen)",
       "codename": "falcon_umts",
       "model": "XT1008"
     },
     {
-      "market_name": "Moto G (gen1)",
+      "market_name": "Moto G (1st Gen)",
       "codename": "falcon_umts",
       "model": "XT1032"
     },
     {
-      "market_name": "Moto G (gen1)",
+      "market_name": "Moto G (1st Gen)",
       "codename": "falcon_umts",
       "model": "XT1034"
     },
     {
-      "market_name": "Moto G (gen1)",
+      "market_name": "Moto G (1st Gen)",
       "codename": "falcon_umts",
       "model": "XT939G"
     },
     {
-      "market_name": "Moto G (gen1)",
+      "market_name": "Moto G (1st Gen)",
       "codename": "falcon_umtsds",
       "model": "XT1033"
     },
     {
-      "market_name": "Moto G (gen2)",
+      "market_name": "Moto G (2nd Gen)",
       "codename": "titan_udstv",
       "model": "XT1069"
     },
     {
-      "market_name": "Moto G (gen2)",
+      "market_name": "Moto G (2nd Gen)",
       "codename": "titan_udstv",
       "model": "titan_retbr_dstv"
     },
     {
-      "market_name": "Moto G (gen2)",
+      "market_name": "Moto G (2nd Gen)",
       "codename": "titan_umts",
       "model": "XT1063"
     },
     {
-      "market_name": "Moto G (gen2)",
+      "market_name": "Moto G (2nd Gen)",
       "codename": "titan_umts",
       "model": "XT1064"
     },
     {
-      "market_name": "Moto G (gen2)",
+      "market_name": "Moto G (2nd Gen)",
       "codename": "titan_umtsds",
       "model": "XT1068"
     },
     {
-      "market_name": "Moto G (gen2)",
+      "market_name": "Moto G (2nd Gen)",
       "codename": "titan_umtsds",
       "model": "titan_niibr_ds"
     },
     {
-      "market_name": "Moto G (gen3)",
+      "market_name": "Moto G (3rd Gen)",
       "codename": "osprey_cdma",
+      "model": "MotoG3"
+    },
+    {
+      "market_name": "Moto G (3rd Gen)",
+      "codename": "osprey_uds",
+      "model": "MotoG3"
+    },
+    {
+      "market_name": "Moto G (3rd Gen)",
+      "codename": "osprey_udstv",
+      "model": "MotoG3"
+    },
+    {
+      "market_name": "Moto G (3rd Gen)",
+      "codename": "osprey_umts",
       "model": "MotoG3"
     },
     {
@@ -943,58 +948,8 @@
     },
     {
       "market_name": "Moto G (gen3)",
-      "codename": "osprey_uds",
-      "model": "MotoG3"
-    },
-    {
-      "market_name": "Moto G (gen3)",
-      "codename": "osprey_udstv",
-      "model": "MotoG3"
-    },
-    {
-      "market_name": "Moto G (gen3)",
       "codename": "osprey_umts",
       "model": "MotoG3"
-    },
-    {
-      "market_name": "Moto G 4G LTE (gen1)",
-      "codename": "peregrine",
-      "model": "XT1039"
-    },
-    {
-      "market_name": "Moto G 4G LTE (gen1)",
-      "codename": "peregrine",
-      "model": "XT1040"
-    },
-    {
-      "market_name": "Moto G 4G LTE (gen1)",
-      "codename": "peregrine",
-      "model": "XT1042"
-    },
-    {
-      "market_name": "Moto G 4G LTE (gen1)",
-      "codename": "peregrine",
-      "model": "XT1045"
-    },
-    {
-      "market_name": "Moto G 4G LTE (gen2)",
-      "codename": "thea",
-      "model": "XT1072"
-    },
-    {
-      "market_name": "Moto G 4G LTE (gen2)",
-      "codename": "thea_ds",
-      "model": "XT1079"
-    },
-    {
-      "market_name": "Moto G 4G LTE (gen2)",
-      "codename": "thea_umtsds",
-      "model": "XT1063"
-    },
-    {
-      "market_name": "Moto G 4G LTE (gen2)",
-      "codename": "thea_umtsds",
-      "model": "XT1078"
     },
     {
       "market_name": "Moto G Google Play edition",
@@ -1012,6 +967,51 @@
       "model": "MotoG3-TE"
     },
     {
+      "market_name": "Moto G with 4G LTE (1st Gen)",
+      "codename": "peregrine",
+      "model": "XT1039"
+    },
+    {
+      "market_name": "Moto G with 4G LTE (1st Gen)",
+      "codename": "peregrine",
+      "model": "XT1040"
+    },
+    {
+      "market_name": "Moto G with 4G LTE (1st Gen)",
+      "codename": "peregrine",
+      "model": "XT1042"
+    },
+    {
+      "market_name": "Moto G with 4G LTE (1st Gen)",
+      "codename": "peregrine",
+      "model": "XT1045"
+    },
+    {
+      "market_name": "Moto G with 4G LTE (2nd Gen)",
+      "codename": "thea",
+      "model": "XT1072"
+    },
+    {
+      "market_name": "Moto G with 4G LTE (2nd Gen)",
+      "codename": "thea_ds",
+      "model": "XT1077"
+    },
+    {
+      "market_name": "Moto G with 4G LTE (2nd Gen)",
+      "codename": "thea_ds",
+      "model": "XT1079"
+    },
+    {
+      "market_name": "Moto G with 4G LTE (2nd Gen)",
+      "codename": "thea_umtsds",
+      "model": "XT1063"
+    },
+    {
+      "market_name": "Moto G with 4G LTE (2nd Gen)",
+      "codename": "thea_umtsds",
+      "model": "XT1078"
+    },
+    {
       "market_name": "Moto MAXX",
       "codename": "quark_umts",
       "model": "XT1225"
@@ -1022,82 +1022,82 @@
       "model": "XT1225"
     },
     {
-      "market_name": "Moto X",
+      "market_name": "Moto X (1st Gen)",
       "codename": "ghost",
       "model": "XT1049"
     },
     {
-      "market_name": "Moto X",
+      "market_name": "Moto X (1st Gen)",
       "codename": "ghost",
       "model": "XT1050"
     },
     {
-      "market_name": "Moto X",
+      "market_name": "Moto X (1st Gen)",
       "codename": "ghost",
       "model": "XT1052"
     },
     {
-      "market_name": "Moto X",
+      "market_name": "Moto X (1st Gen)",
       "codename": "ghost",
       "model": "XT1053"
     },
     {
-      "market_name": "Moto X",
+      "market_name": "Moto X (1st Gen)",
       "codename": "ghost",
       "model": "XT1055"
     },
     {
-      "market_name": "Moto X",
+      "market_name": "Moto X (1st Gen)",
       "codename": "ghost",
       "model": "XT1056"
     },
     {
-      "market_name": "Moto X",
+      "market_name": "Moto X (1st Gen)",
       "codename": "ghost",
       "model": "XT1058"
     },
     {
-      "market_name": "Moto X",
+      "market_name": "Moto X (1st Gen)",
       "codename": "ghost",
       "model": "XT1060"
     },
     {
-      "market_name": "Moto X (gen2)",
+      "market_name": "Moto X (2nd Gen)",
       "codename": "victara",
       "model": "XT1085"
     },
     {
-      "market_name": "Moto X (gen2)",
+      "market_name": "Moto X (2nd Gen)",
       "codename": "victara",
       "model": "XT1092"
     },
     {
-      "market_name": "Moto X (gen2)",
+      "market_name": "Moto X (2nd Gen)",
       "codename": "victara",
       "model": "XT1093"
     },
     {
-      "market_name": "Moto X (gen2)",
+      "market_name": "Moto X (2nd Gen)",
       "codename": "victara",
       "model": "XT1094"
     },
     {
-      "market_name": "Moto X (gen2)",
+      "market_name": "Moto X (2nd Gen)",
       "codename": "victara",
       "model": "XT1095"
     },
     {
-      "market_name": "Moto X (gen2)",
+      "market_name": "Moto X (2nd Gen)",
       "codename": "victara",
       "model": "XT1096"
     },
     {
-      "market_name": "Moto X (gen2)",
+      "market_name": "Moto X (2nd Gen)",
       "codename": "victara",
       "model": "XT1097"
     },
     {
-      "market_name": "Moto X (gen2)",
+      "market_name": "Moto X (2nd Gen)",
       "codename": "victara",
       "model": "XT1098"
     },
@@ -1112,9 +1112,19 @@
       "model": "XT1580"
     },
     {
+      "market_name": "Moto X Force",
+      "codename": "kinzie_uds",
+      "model": "XT1581"
+    },
+    {
       "market_name": "Moto X Play",
       "codename": "lux",
       "model": "XT1021"
+    },
+    {
+      "market_name": "Moto X Play",
+      "codename": "lux",
+      "model": "XT1562"
     },
     {
       "market_name": "Moto X Play",
@@ -1134,7 +1144,17 @@
     {
       "market_name": "Moto X Play",
       "codename": "lux_uds",
+      "model": "XT1562"
+    },
+    {
+      "market_name": "Moto X Play",
+      "codename": "lux_uds",
       "model": "XT1563"
+    },
+    {
+      "market_name": "Moto X Pure Edition",
+      "codename": "clark",
+      "model": "XT1575"
     },
     {
       "market_name": "Moto X Style",
@@ -1143,11 +1163,11 @@
     },
     {
       "market_name": "Moto X Style",
-      "codename": "clark",
-      "model": "XT1575"
+      "codename": "clark_ds",
+      "model": "XT1570"
     },
     {
-      "market_name": "Moto X Style (gen3)",
+      "market_name": "Moto X Style",
       "codename": "clark_ds",
       "model": "XT1572"
     },

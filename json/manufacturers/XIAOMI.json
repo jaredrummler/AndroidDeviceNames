@@ -122,6 +122,11 @@
       "model": "HM NOTE 1W"
     },
     {
+      "market_name": "HM Note 2",
+      "codename": "hermes",
+      "model": "Redmi Note 2"
+    },
+    {
       "market_name": "Hong Mi",
       "codename": "HM2013022",
       "model": "2013022"
@@ -162,6 +167,11 @@
       "model": "MI 4LTE"
     },
     {
+      "market_name": "MI 4s",
+      "codename": "aqua",
+      "model": "MI 4S"
+    },
+    {
       "market_name": "MI NOTE LTE",
       "codename": "virgo",
       "model": "MI NOTE LTE"
@@ -177,14 +187,34 @@
       "model": "MI PAD"
     },
     {
+      "market_name": "MIPAD2",
+      "codename": "latte",
+      "model": "MI PAD 2"
+    },
+    {
       "market_name": "Mi 3",
       "codename": "pisces",
       "model": "MI 3"
     },
     {
+      "market_name": "Mi 4c",
+      "codename": "libra",
+      "model": "Mi-4c"
+    },
+    {
       "market_name": "Mi 4i",
       "codename": "ferrari",
       "model": "Mi 4i"
+    },
+    {
+      "market_name": "Mi 5",
+      "codename": "gemini",
+      "model": "MI 5"
+    },
+    {
+      "market_name": "Mi Note",
+      "codename": "virgo",
+      "model": "MI NOTE LTE"
     },
     {
       "market_name": "MiBOX2",
@@ -200,6 +230,26 @@
       "market_name": "MiTV2",
       "codename": "entrapment",
       "model": "MiTV2"
+    },
+    {
+      "market_name": "Redmi 3",
+      "codename": "ido",
+      "model": "Redmi 3"
+    },
+    {
+      "market_name": "Redmi 3",
+      "codename": "ido",
+      "model": "ido"
+    },
+    {
+      "market_name": "Redmi Note 3",
+      "codename": "hennessy",
+      "model": "Redmi Note 3"
+    },
+    {
+      "market_name": "Redmi Note 3",
+      "codename": "kenzo",
+      "model": "Redmi Note 3"
     }
   ]
 }

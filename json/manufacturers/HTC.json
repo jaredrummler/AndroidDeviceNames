@@ -27,6 +27,11 @@
       "model": "HTC Incredible E S715e"
     },
     {
+      "market_name": "\\t HTC One X9 dual sim",
+      "codename": "htc_e56ml_dtul",
+      "model": "HTC One X9 dual sim"
+    },
+    {
       "market_name": "\\tADR6325",
       "codename": "lexikon",
       "model": "ADR6325"
@@ -1245,6 +1250,16 @@
       "market_name": "HTC Desire 826 dual sim",
       "codename": "htc_a52dwgl",
       "model": "HTC Desire 826 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 828",
+      "codename": "htc_a51bml_tuhl",
+      "model": "HTC 2PRE4"
+    },
+    {
+      "market_name": "HTC Desire 828",
+      "codename": "htc_a51bml_tuhl",
+      "model": "HTC Desire 828"
     },
     {
       "market_name": "HTC Desire 828 dual sim",

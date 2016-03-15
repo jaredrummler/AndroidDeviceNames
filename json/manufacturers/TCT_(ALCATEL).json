@@ -727,6 +727,31 @@
       "model": "8030Y"
     },
     {
+      "market_name": "8050D",
+      "codename": "Pixi4-6_3G",
+      "model": "8050D"
+    },
+    {
+      "market_name": "8050E",
+      "codename": "Pixi4-6_3G",
+      "model": "8050E"
+    },
+    {
+      "market_name": "8050G",
+      "codename": "Pixi4-6_3G",
+      "model": "8050G"
+    },
+    {
+      "market_name": "8050X",
+      "codename": "Pixi4-6_3G",
+      "model": "8050X"
+    },
+    {
+      "market_name": "8053",
+      "codename": "Pixi3-7",
+      "model": "8053"
+    },
+    {
       "market_name": "8054",
       "codename": "Pixi3-7",
       "model": "8054"
@@ -777,6 +802,11 @@
       "model": "ALCATEL ONE TOUCH 9002A"
     },
     {
+      "market_name": "9002W",
+      "codename": "Pixi3-7_3G",
+      "model": "9002W"
+    },
+    {
       "market_name": "9002X",
       "codename": "Pixi3-7_3G",
       "model": "9002X"
@@ -795,6 +825,11 @@
       "market_name": "9007X",
       "codename": "Pixi3-7_4G_EE",
       "model": "9007X"
+    },
+    {
+      "market_name": "9010X",
+      "codename": "Pixi3-10_3G",
+      "model": "9010X"
     },
     {
       "market_name": "9020A",
@@ -1787,6 +1822,11 @@
       "model": "5017E"
     },
     {
+      "market_name": "ALCATEL ONETOUCH PIXI 4 (4)",
+      "codename": "Pixi4-4",
+      "model": "4034G"
+    },
+    {
       "market_name": "ALCATEL ONETOUCH PIXI\\xe2\\x84\\xa2 3 (4.5)",
       "codename": "PIXI3_45_4G",
       "model": "5017O"
@@ -1995,6 +2035,11 @@
       "market_name": "Alcatel one touch 985",
       "codename": "one_touch_985A_gsm",
       "model": "ALCATEL_one_touch_985"
+    },
+    {
+      "market_name": "Alcatel9007T",
+      "codename": "Pixi3_7_4G",
+      "model": "Alcatel9007T"
     },
     {
       "market_name": "Alcatel_5054O",

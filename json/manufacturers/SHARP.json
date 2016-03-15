@@ -62,11 +62,6 @@
       "model": "SH-02H"
     },
     {
-      "market_name": "AQUOS Compact SHV33",
-      "codename": "SHV33",
-      "model": "SHV33"
-    },
-    {
       "market_name": "AQUOS EVER SH-04G",
       "codename": "SH-04G",
       "model": "SH-04G"
@@ -337,6 +332,11 @@
       "model": "SHV31"
     },
     {
+      "market_name": "AQUOS SERIE mini SHV33",
+      "codename": "SHV33",
+      "model": "SHV33"
+    },
+    {
       "market_name": "AQUOS SH-M01",
       "codename": "SH-M01",
       "model": "SH-M01"
@@ -517,6 +517,11 @@
       "model": "LC-42LE860M"
     },
     {
+      "market_name": "LC-50LE570X",
+      "codename": "LC-xxLE570X",
+      "model": "LC-xxLE570X"
+    },
+    {
       "market_name": "LC-50LE860H",
       "codename": "LC-50LE860H",
       "model": "LC-50LE860H"
@@ -670,6 +675,11 @@
       "market_name": "SH-03F",
       "codename": "SH03F",
       "model": "SH-03F"
+    },
+    {
+      "market_name": "SH-03H",
+      "codename": "SH-03H",
+      "model": "SH-03H"
     },
     {
       "market_name": "SH-05E",

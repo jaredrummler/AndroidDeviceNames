@@ -17,9 +17,19 @@
       "model": "TP601C"
     },
     {
+      "market_name": "C5L",
+      "codename": "QC601",
+      "model": "TP601E"
+    },
+    {
       "market_name": "Neffos C5",
       "codename": "C5",
       "model": "Neffos C5"
+    },
+    {
+      "market_name": "Neffos C5 Max",
+      "codename": "C5_Max",
+      "model": "Neffos C5 Max"
     }
   ]
 }
