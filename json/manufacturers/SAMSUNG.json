@@ -737,6 +737,11 @@
       "model": "SM-A800X"
     },
     {
+      "market_name": "Galaxy A9 Pro",
+      "codename": "a9xproltechn",
+      "model": "SM-A9100"
+    },
+    {
       "market_name": "Galaxy A9(2016)",
       "codename": "a9xltechn",
       "model": "SM-A9000"
@@ -2347,6 +2352,11 @@
       "model": "SM-J120M"
     },
     {
+      "market_name": "Galaxy J1",
+      "codename": "j1xlteatt",
+      "model": "SAMSUNG-SM-J120A"
+    },
+    {
       "market_name": "Galaxy J1 Ace",
       "codename": "j1acelte",
       "model": "SM-J110F"
@@ -2365,6 +2375,11 @@
       "market_name": "Galaxy J1 Ace",
       "codename": "j1acevelte",
       "model": "SM-J111F"
+    },
+    {
+      "market_name": "Galaxy J1 Ace",
+      "codename": "j1acevelte",
+      "model": "SM-J111M"
     },
     {
       "market_name": "Galaxy J1 Ace",
@@ -2462,19 +2477,44 @@
       "model": "SM-J320H"
     },
     {
-      "market_name": "Galaxy J3",
-      "codename": "j3xlte",
-      "model": "SM-J320F"
-    },
-    {
-      "market_name": "Galaxy J3",
-      "codename": "j3xlte",
-      "model": "SM-J320M"
+      "market_name": "Galaxy J3(2016)",
+      "codename": "j3ltetw",
+      "model": "SM-J320Y"
     },
     {
       "market_name": "Galaxy J3(2016)",
       "codename": "j3ltetw",
       "model": "SM-J320YZ"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
+      "codename": "j3xlte",
+      "model": "SM-J320F"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
+      "codename": "j3xlte",
+      "model": "SM-J320G"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
+      "codename": "j3xlte",
+      "model": "SM-J320M"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
+      "codename": "j3xlteaio",
+      "model": "SAMSUNG-SM-J320AZ"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
+      "codename": "j3xlteaio",
+      "model": "SAMSUNG-SM-J321AZ"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
+      "codename": "j3xlteatt",
+      "model": "SAMSUNG-SM-J320A"
     },
     {
       "market_name": "Galaxy J3(2016)",
@@ -2527,6 +2567,11 @@
       "model": "SM-J500Y"
     },
     {
+      "market_name": "Galaxy J5(2016)",
+      "codename": "j5xltecmcc",
+      "model": "SM-J5108"
+    },
+    {
       "market_name": "Galaxy J7",
       "codename": "j75ltektt",
       "model": "SM-J700K"
@@ -2550,6 +2595,21 @@
       "market_name": "Galaxy J7",
       "codename": "j7ltechn",
       "model": "SM-J7008"
+    },
+    {
+      "market_name": "Galaxy J7(2016)",
+      "codename": "j7ltespr",
+      "model": "SM-J700P"
+    },
+    {
+      "market_name": "Galaxy J7(2016)",
+      "codename": "j7xeltecmcc",
+      "model": "SM-J7108"
+    },
+    {
+      "market_name": "Galaxy J7(2016)",
+      "codename": "j7xltectc",
+      "model": "SM-J7109"
     },
     {
       "market_name": "Galaxy K",
@@ -5633,6 +5693,11 @@
     },
     {
       "market_name": "Galaxy S7",
+      "codename": "heroqlteacg",
+      "model": "SM-G930R7"
+    },
+    {
+      "market_name": "Galaxy S7",
       "codename": "heroqlteaio",
       "model": "SAMSUNG-SM-G930AZ"
     },
@@ -6285,6 +6350,11 @@
       "market_name": "Galaxy Tab A S 8.0",
       "codename": "gt58ltebmc",
       "model": "SM-T357W"
+    },
+    {
+      "market_name": "Galaxy Tab E 7.0",
+      "codename": "gtexslte",
+      "model": "SM-T285"
     },
     {
       "market_name": "Galaxy Tab E 7.0",

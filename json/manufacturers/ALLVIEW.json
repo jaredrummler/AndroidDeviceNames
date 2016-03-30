@@ -97,6 +97,11 @@
       "model": "P5Life_TM"
     },
     {
+      "market_name": "P5 Pro",
+      "codename": "P5_Pro",
+      "model": "P5_Pro"
+    },
+    {
       "market_name": "P5 eMagic",
       "codename": "P5_eMagic",
       "model": "P5_eMagic"
@@ -114,6 +119,11 @@
     {
       "market_name": "P6 Lite",
       "codename": "P6_lite",
+      "model": "P6_lite"
+    },
+    {
+      "market_name": "P6 Lite",
+      "codename": "P6_lite",
       "model": "P6_lite_TM"
     },
     {
@@ -125,6 +135,11 @@
       "market_name": "P6 Qmax",
       "codename": "P6_Qmax",
       "model": "P6_Qmax"
+    },
+    {
+      "market_name": "P6 eMagic",
+      "codename": "P6_eMagic",
+      "model": "P6_eMagic"
     },
     {
       "market_name": "P6_Energy",
@@ -225,6 +240,11 @@
       "market_name": "Viva H10 LTE",
       "codename": "Allview_VivaH10LTE_KK",
       "model": "VivaH10LTE"
+    },
+    {
+      "market_name": "Viva H1001 LTE",
+      "codename": "Viva_H1001_LTE",
+      "model": "Viva_H1001_LTE"
     },
     {
       "market_name": "Viva H7 LTE",

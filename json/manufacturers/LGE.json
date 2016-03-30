@@ -597,6 +597,11 @@
       "model": "LG-P880"
     },
     {
+      "market_name": "\\t LG X screen",
+      "codename": "k5",
+      "model": "LG-F650K"
+    },
+    {
       "market_name": "070 touch",
       "codename": "w3voip",
       "model": "LG-FL40L"
@@ -1255,6 +1260,11 @@
       "market_name": "L50 Sporty",
       "codename": "luv50ssn",
       "model": "LG-D213"
+    },
+    {
+      "market_name": "L5000",
+      "codename": "l5000",
+      "model": "LG-F590"
     },
     {
       "market_name": "L60",
@@ -2087,6 +2097,61 @@
       "model": "LG-H734"
     },
     {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "LG-F700L"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "LG-F700S"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "LG-H820"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "LG-H830"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "LG-H831"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "LG-H850"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "LG-H860"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "LG-H868"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "LGLS992"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "LGUS992"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "VS987"
+    },
+    {
       "market_name": "LG Gpad X 10.1",
       "codename": "t1lte",
       "model": "LG-V930"
@@ -2180,6 +2245,11 @@
       "market_name": "LG K4 LTE",
       "codename": "me1ds",
       "model": "LG-K130"
+    },
+    {
+      "market_name": "LG K5",
+      "codename": "d3",
+      "model": "LG-X220"
     },
     {
       "market_name": "LG K7",
@@ -3177,6 +3247,21 @@
       "model": "LG-H440AR"
     },
     {
+      "market_name": "LG Stylus 2",
+      "codename": "ph1",
+      "model": "LG-F720K"
+    },
+    {
+      "market_name": "LG Stylus 2",
+      "codename": "ph1",
+      "model": "LG-F720L"
+    },
+    {
+      "market_name": "LG Stylus 2",
+      "codename": "ph1",
+      "model": "LG-F720S"
+    },
+    {
       "market_name": "LG Thrill 4G",
       "codename": "cosmopolitan",
       "model": "LG-P925"
@@ -3255,6 +3340,16 @@
       "market_name": "LG Wine Smart Jazz",
       "codename": "cf",
       "model": "LG-F610S"
+    },
+    {
+      "market_name": "LG X screen",
+      "codename": "k5",
+      "model": "LG-F650L"
+    },
+    {
+      "market_name": "LG X screen",
+      "codename": "k5",
+      "model": "LG-F650S"
     },
     {
       "market_name": "LG ZONE",

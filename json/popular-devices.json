@@ -2959,6 +2959,12 @@
   },
   {
     "manufacturer": "Samsung",
+    "market_name": "Galaxy J1",
+    "codename": "j1xlteatt",
+    "model": "SAMSUNG-SM-J120A"
+  },
+  {
+    "manufacturer": "Samsung",
     "market_name": "Galaxy J7",
     "codename": "j75ltektt",
     "model": "SM-J700K"
@@ -5218,6 +5224,12 @@
     "market_name": "Galaxy S7",
     "codename": "herolteskt",
     "model": "SM-G930S"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
+    "codename": "heroqlteacg",
+    "model": "SM-G930R7"
   },
   {
     "manufacturer": "Samsung",

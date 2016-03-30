@@ -1824,6 +1824,11 @@
     {
       "market_name": "ALCATEL ONETOUCH PIXI 4 (4)",
       "codename": "Pixi4-4",
+      "model": "4034D"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 4 (4)",
+      "codename": "Pixi4-4",
       "model": "4034G"
     },
     {
@@ -2315,6 +2320,11 @@
       "market_name": "Moov2",
       "codename": "move_2_gsm",
       "model": "move 2"
+    },
+    {
+      "market_name": "Nitro",
+      "codename": "idol3",
+      "model": "6045O"
     },
     {
       "market_name": "ONE TOUCH 4007X",

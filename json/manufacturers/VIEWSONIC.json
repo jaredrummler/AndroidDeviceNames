@@ -27,6 +27,11 @@
       "model": "ViewPad7x"
     },
     {
+      "market_name": "Q5",
+      "codename": "Q5",
+      "model": "Viewphone Q5"
+    },
+    {
       "market_name": "VSD221",
       "codename": "VSD221",
       "model": "VSD221"
@@ -65,6 +70,11 @@
       "market_name": "ViewPadi8Q",
       "codename": "vsi8q_1_coho",
       "model": "vsi8q_1_coho"
+    },
+    {
+      "market_name": "Viewsonic",
+      "codename": "ViewPad_IR10Q",
+      "model": "IR10Q"
     }
   ]
 }
