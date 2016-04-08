@@ -2,6 +2,11 @@
   "manufacturer": "Lyf",
   "devices": [
     {
+      "market_name": "LS-4503",
+      "codename": "LS-4503",
+      "model": "LS-4503"
+    },
+    {
       "market_name": "LS-4505",
       "codename": "LS-4505",
       "model": "LS-4505"
@@ -15,6 +20,11 @@
       "market_name": "LS-5008",
       "codename": "P839F30",
       "model": "LS-5008"
+    },
+    {
+      "market_name": "LS-5009",
+      "codename": "LS-5009",
+      "model": "LS-5009"
     },
     {
       "market_name": "LS-5016",

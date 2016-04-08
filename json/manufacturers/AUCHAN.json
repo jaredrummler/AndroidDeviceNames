@@ -2,6 +2,11 @@
   "manufacturer": "Auchan",
   "devices": [
     {
+      "market_name": "LI902T9IN",
+      "codename": "LI902T9IN",
+      "model": "LI902T9IN"
+    },
+    {
       "market_name": "Q.4514",
       "codename": "Q4514",
       "model": "Q4514"
@@ -85,6 +90,11 @@
       "market_name": "S4S6IN3G",
       "codename": "S4S6IN3G",
       "model": "S4S6IN3G"
+    },
+    {
+      "market_name": "S4T7IN",
+      "codename": "S4T7IN",
+      "model": "S4T7IN"
     },
     {
       "market_name": "Selecline X35T",

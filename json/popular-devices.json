@@ -2955,13 +2955,31 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy J1",
     "codename": "j1xlte",
+    "model": "SM-J120FN"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1",
+    "codename": "j1xlte",
     "model": "SM-J120M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1",
+    "codename": "j1xlteaio",
+    "model": "SAMSUNG-SM-J120AZ"
   },
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy J1",
     "codename": "j1xlteatt",
     "model": "SAMSUNG-SM-J120A"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1",
+    "codename": "j1xltecan",
+    "model": "SM-J120W"
   },
   {
     "manufacturer": "Samsung",
@@ -5492,6 +5510,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy Tab E 8.0",
+    "codename": "gtesltetmo",
+    "model": "SM-T377T"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 8.0",
     "codename": "gtesltetw",
     "model": "SM-T3777"
   },
@@ -5692,6 +5716,12 @@
     "market_name": "Galaxy View",
     "codename": "gvltexsp",
     "model": "SM-T677"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy View",
+    "codename": "gvwifijpn",
+    "model": "SM-T670"
   },
   {
     "manufacturer": "Samsung",

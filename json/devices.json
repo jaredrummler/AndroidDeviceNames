@@ -937,6 +937,12 @@
   },
   {
     "manufacturer": "Acer",
+    "market_name": "Liquid Zest",
+    "codename": "acer_t06",
+    "model": "T06"
+  },
+  {
+    "manufacturer": "Acer",
     "market_name": "LiquidMT",
     "codename": "a4",
     "model": "Acer Liquid Metal"
@@ -1153,6 +1159,12 @@
   },
   {
     "manufacturer": "AllView",
+    "market_name": "P4 eMagic",
+    "codename": "P4_eMagic",
+    "model": "P4_eMagic_TM"
+  },
+  {
+    "manufacturer": "AllView",
     "market_name": "P5 Energy",
     "codename": "P5_Energy",
     "model": "P5_Energy"
@@ -1177,9 +1189,21 @@
   },
   {
     "manufacturer": "AllView",
+    "market_name": "P5 eMagic",
+    "codename": "P5_eMagic",
+    "model": "P5_eMagic_TM"
+  },
+  {
+    "manufacturer": "AllView",
     "market_name": "P5Life",
     "codename": "P5Life",
     "model": "P5Life"
+  },
+  {
+    "manufacturer": "AllView",
+    "market_name": "P5_Pro",
+    "codename": "P5_Pro",
+    "model": "P5_Pro_TM"
   },
   {
     "manufacturer": "AllView",
@@ -1228,6 +1252,12 @@
     "market_name": "P8 Energy",
     "codename": "P8_Energy",
     "model": "P8_Energy"
+  },
+  {
+    "manufacturer": "AllView",
+    "market_name": "P8 Energy Pro",
+    "codename": "P8_Energy_PRO",
+    "model": "P8_Energy_PRO"
   },
   {
     "manufacturer": "AllView",
@@ -1378,6 +1408,12 @@
     "market_name": "Viva i701G",
     "codename": "Viva_H701_LTE",
     "model": "Viva_H701_LTE_CZ"
+  },
+  {
+    "manufacturer": "AllView",
+    "market_name": "Viva i701G",
+    "codename": "Viva_i701G",
+    "model": "Viva_i701G"
   },
   {
     "manufacturer": "AllView",
@@ -4063,6 +4099,12 @@
   },
   {
     "manufacturer": "Auchan",
+    "market_name": "LI902T9IN",
+    "codename": "LI902T9IN",
+    "model": "LI902T9IN"
+  },
+  {
+    "manufacturer": "Auchan",
     "market_name": "Q.4514",
     "codename": "Q4514",
     "model": "Q4514"
@@ -4162,6 +4204,12 @@
     "market_name": "S4S6IN3G",
     "codename": "S4S6IN3G",
     "model": "S4S6IN3G"
+  },
+  {
+    "manufacturer": "Auchan",
+    "market_name": "S4T7IN",
+    "codename": "S4T7IN",
+    "model": "S4T7IN"
   },
   {
     "manufacturer": "Auchan",
@@ -4930,6 +4978,12 @@
     "market_name": "BM180",
     "codename": "BM180",
     "model": "BM180"
+  },
+  {
+    "manufacturer": "Bluebird",
+    "market_name": "EF400",
+    "codename": "EF400",
+    "model": "EF400"
   },
   {
     "manufacturer": "Bluebird",
@@ -9679,6 +9733,12 @@
   },
   {
     "manufacturer": "Gini",
+    "market_name": "e6_plus",
+    "codename": "e6_plus",
+    "model": "e6_plus"
+  },
+  {
+    "manufacturer": "Gini",
     "market_name": "s4",
     "codename": "s4",
     "model": "s4"
@@ -14362,6 +14422,12 @@
     "market_name": "Phantom",
     "codename": "Phantom",
     "model": "10DTB10"
+  },
+  {
+    "manufacturer": "Hipstreet",
+    "market_name": "Phantom2",
+    "codename": "10DTB44",
+    "model": "10DTB44"
   },
   {
     "manufacturer": "Hipstreet",
@@ -22141,6 +22207,12 @@
   },
   {
     "manufacturer": "Infocus",
+    "market_name": "InFocus M460",
+    "codename": "G3T",
+    "model": "InFocus M460"
+  },
+  {
+    "manufacturer": "Infocus",
     "market_name": "InFocus M510t",
     "codename": "TID",
     "model": "InFocus M510t"
@@ -26007,6 +26079,12 @@
     "manufacturer": "LGE",
     "market_name": "LG G5",
     "codename": "h1",
+    "model": "LG-F700K"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG G5",
+    "codename": "h1",
     "model": "LG-F700L"
   },
   {
@@ -26050,6 +26128,12 @@
     "market_name": "LG G5",
     "codename": "h1",
     "model": "LG-H868"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LGAS992"
   },
   {
     "manufacturer": "LGE",
@@ -27511,6 +27595,12 @@
   },
   {
     "manufacturer": "LGE",
+    "market_name": "LG X screen",
+    "codename": "k5",
+    "model": "LG-K500"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "LG ZONE",
     "codename": "d2",
     "model": "LG-X180g"
@@ -28846,6 +28936,12 @@
     "market_name": "V10",
     "codename": "pplus",
     "model": "LG-H900"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "V10",
+    "codename": "pplus",
+    "model": "LG-H900PR"
   },
   {
     "manufacturer": "LGE",
@@ -31627,6 +31723,12 @@
   },
   {
     "manufacturer": "Lenovo",
+    "market_name": "Lenovo TAB 3 850F",
+    "codename": "TB3-850F",
+    "model": "Lenovo TB3-850F"
+  },
+  {
+    "manufacturer": "Lenovo",
     "market_name": "Lenovo TAB A10-80HC",
     "codename": "A10_80HC",
     "model": "TAB A10-80HC"
@@ -32137,6 +32239,12 @@
   },
   {
     "manufacturer": "Logicom",
+    "market_name": "Connect503",
+    "codename": "L-ite502",
+    "model": "Connect503"
+  },
+  {
+    "manufacturer": "Logicom",
     "market_name": "E350",
     "codename": "E350",
     "model": "E350"
@@ -32185,15 +32293,39 @@
   },
   {
     "manufacturer": "Logicom",
+    "market_name": "L-EMENT501",
+    "codename": "L-EMENT501",
+    "model": "L-EMENT501"
+  },
+  {
+    "manufacturer": "Logicom",
     "market_name": "L-EMENT550",
     "codename": "L-EMENT550",
     "model": "L-EMENT550"
   },
   {
     "manufacturer": "Logicom",
+    "market_name": "L-EMENT551",
+    "codename": "L-EMENT551",
+    "model": "L-EMENT551"
+  },
+  {
+    "manufacturer": "Logicom",
+    "market_name": "L-EMENTTAB1042",
+    "codename": "LEMENTTAB1042BTK",
+    "model": "L-EMENT_TAB1042BTK"
+  },
+  {
+    "manufacturer": "Logicom",
     "market_name": "L-EMENT_TAB1040_BT",
     "codename": "generic",
     "model": "L-EMENT_TAB1040_BT"
+  },
+  {
+    "manufacturer": "Logicom",
+    "market_name": "L-ITE 502 PLUS",
+    "codename": "L-ITE502PLUS",
+    "model": "L-ITE 502 PLUS"
   },
   {
     "manufacturer": "Logicom",
@@ -32230,6 +32362,12 @@
     "market_name": "LEMENT TAB 740",
     "codename": "LEMENTTAB740",
     "model": "L-EMENT 740"
+  },
+  {
+    "manufacturer": "Logicom",
+    "market_name": "LEMENTTAB1042",
+    "codename": "LEMENTTAB1042",
+    "model": "L-EMENT_TAB1042"
   },
   {
     "manufacturer": "Logicom",
@@ -32311,6 +32449,12 @@
   },
   {
     "manufacturer": "Lyf",
+    "market_name": "LS-4503",
+    "codename": "LS-4503",
+    "model": "LS-4503"
+  },
+  {
+    "manufacturer": "Lyf",
     "market_name": "LS-4505",
     "codename": "LS-4505",
     "model": "LS-4505"
@@ -32326,6 +32470,12 @@
     "market_name": "LS-5008",
     "codename": "P839F30",
     "model": "LS-5008"
+  },
+  {
+    "manufacturer": "Lyf",
+    "market_name": "LS-5009",
+    "codename": "LS-5009",
+    "model": "LS-5009"
   },
   {
     "manufacturer": "Lyf",
@@ -34958,6 +35108,12 @@
   {
     "manufacturer": "Motorola",
     "market_name": "Moto G (3rd Gen)",
+    "codename": "osprey_u2",
+    "model": "MotoG3"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (3rd Gen)",
     "codename": "osprey_uds",
     "model": "MotoG3"
   },
@@ -37051,6 +37207,12 @@
   },
   {
     "manufacturer": "Oppo",
+    "market_name": "A37t",
+    "codename": "A37",
+    "model": "OPPO A37t"
+  },
+  {
+    "manufacturer": "Oppo",
     "market_name": "A51",
     "codename": "A51",
     "model": "A51"
@@ -37867,6 +38029,18 @@
   },
   {
     "manufacturer": "Panasonic",
+    "market_name": "Eluga I2",
+    "codename": "ELUGA_I2",
+    "model": "ELUGA_I2"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "Eluga I3",
+    "codename": "Eluga_I3",
+    "model": "Panasonic_Eluga_I3"
+  },
+  {
+    "manufacturer": "Panasonic",
     "market_name": "Eluga Icon 2",
     "codename": "ELUGA_Icon2",
     "model": "Panasonic ELUGA Icon 2"
@@ -38146,6 +38320,12 @@
     "market_name": "TAB-A01",
     "codename": "TAB-A01",
     "model": "TAB-A01-SD"
+  },
+  {
+    "manufacturer": "Panasonic",
+    "market_name": "TH-49DX400C",
+    "codename": "DX00C",
+    "model": "DX00C"
   },
   {
     "manufacturer": "Panasonic",
@@ -38683,6 +38863,18 @@
   },
   {
     "manufacturer": "Philips",
+    "market_name": "4K Ultra Slim LED TV powered by Android",
+    "codename": "QM16XE_U",
+    "model": "QM163E"
+  },
+  {
+    "manufacturer": "Philips",
+    "market_name": "FHD Ultra Slim LED TV Powered by Android",
+    "codename": "QM16XE_F",
+    "model": "QM164E"
+  },
+  {
+    "manufacturer": "Philips",
     "market_name": "HMP8100/93",
     "codename": "HMP8100_ATV_93",
     "model": "HMP8100_ATV_93"
@@ -38839,6 +39031,12 @@
   },
   {
     "manufacturer": "Philips",
+    "market_name": "Philips S309",
+    "codename": "Philips",
+    "model": "Philips S309"
+  },
+  {
+    "manufacturer": "Philips",
     "market_name": "Philips S337",
     "codename": "S337_AG",
     "model": "Philips S337"
@@ -38980,6 +39178,12 @@
     "market_name": "Rubik-II",
     "codename": "RubikII7",
     "model": "RubikII7"
+  },
+  {
+    "manufacturer": "Plaisio",
+    "market_name": "\"Rubik10.1\"\"II\"",
+    "codename": "H1021H4C1_I",
+    "model": "Rubik 10.1 II"
   },
   {
     "manufacturer": "Plaisio",
@@ -39172,6 +39376,12 @@
     "market_name": "Polaroid MID1028",
     "codename": "MID1028",
     "model": "MID1028"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "Polaroid P1000",
+    "codename": "P1000",
+    "model": "P1000"
   },
   {
     "manufacturer": "Polaroid",
@@ -39865,6 +40075,12 @@
   },
   {
     "manufacturer": "Prestigio",
+    "market_name": "PGPS7795",
+    "codename": "PMT3057_3G",
+    "model": "PGPS7795"
+  },
+  {
+    "manufacturer": "Prestigio",
     "market_name": "PMT3008_Wi",
     "codename": "PMT3008_Wi_C",
     "model": "PMT3008_Wi_C"
@@ -40057,6 +40273,12 @@
   },
   {
     "manufacturer": "Prestigio",
+    "market_name": "PSP3457DUO",
+    "codename": "KT45B01G",
+    "model": "PSP3457DUO"
+  },
+  {
+    "manufacturer": "Prestigio",
     "market_name": "PSP3502DUO",
     "codename": "PSP3502DUO",
     "model": "PSP3502DUO"
@@ -40111,6 +40333,12 @@
   },
   {
     "manufacturer": "Prestigio",
+    "market_name": "PSP5506DUO",
+    "codename": "DW50A03G",
+    "model": "PSP5506DUO"
+  },
+  {
+    "manufacturer": "Prestigio",
     "market_name": "PSP5507DUO",
     "codename": "PSP5507DUO",
     "model": "PSP5507DUO"
@@ -40120,6 +40348,12 @@
     "market_name": "PSP5550DUO",
     "codename": "PSP5550DUO",
     "model": "PSP5550DUO"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "PSP5551DUO",
+    "codename": "DW55B02L",
+    "model": "PSP5551DUO"
   },
   {
     "manufacturer": "Prestigio",
@@ -43671,13 +43905,31 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy J1",
     "codename": "j1xlte",
+    "model": "SM-J120FN"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1",
+    "codename": "j1xlte",
     "model": "SM-J120M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1",
+    "codename": "j1xlteaio",
+    "model": "SAMSUNG-SM-J120AZ"
   },
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy J1",
     "codename": "j1xlteatt",
     "model": "SAMSUNG-SM-J120A"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1",
+    "codename": "j1xltecan",
+    "model": "SM-J120W"
   },
   {
     "manufacturer": "Samsung",
@@ -48482,6 +48734,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy Tab E 7.0",
+    "codename": "gtexslte",
+    "model": "SM-T285M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 7.0",
     "codename": "gtexswifi",
     "model": "SM-T280"
   },
@@ -48496,6 +48754,12 @@
     "market_name": "Galaxy Tab E 8.0",
     "codename": "gteslteskt",
     "model": "SM-T375S"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 8.0",
+    "codename": "gtesltetmo",
+    "model": "SM-T377T"
   },
   {
     "manufacturer": "Samsung",
@@ -49702,6 +49966,12 @@
     "market_name": "Galaxy View",
     "codename": "gvltexsp",
     "model": "SM-T677"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy View",
+    "codename": "gvwifijpn",
+    "model": "SM-T670"
   },
   {
     "manufacturer": "Samsung",
@@ -58536,6 +58806,12 @@
     "model": "MID107"
   },
   {
+    "manufacturer": "Takara",
+    "market_name": "MID210",
+    "codename": "MID210",
+    "model": "MID210"
+  },
+  {
     "manufacturer": "Technicolor",
     "market_name": "",
     "codename": "omap4_WT3",
@@ -58552,6 +58828,12 @@
     "market_name": "P5",
     "codename": "up08_tecno_p5s",
     "model": "TECNO P5S"
+  },
+  {
+    "manufacturer": "Tecno",
+    "market_name": "DroiPad 7C Pro",
+    "codename": "DP7CPRO",
+    "model": "DP7CPRO"
   },
   {
     "manufacturer": "Tecno",
@@ -59449,6 +59731,12 @@
   },
   {
     "manufacturer": "Vestel",
+    "market_name": "V Tab 7010",
+    "codename": "VTab7010",
+    "model": "V Tab 7010"
+  },
+  {
+    "manufacturer": "Vestel",
     "market_name": "VP100+",
     "codename": "ephesus",
     "model": "10.1Myros"
@@ -59614,6 +59902,12 @@
     "market_name": "VT785P2",
     "codename": "VT785P2",
     "model": "VT785P2-Vestel"
+  },
+  {
+    "manufacturer": "Vestel",
+    "market_name": "Venus V3 5020",
+    "codename": "Arya",
+    "model": "Venus_V3_5020"
   },
   {
     "manufacturer": "Vestel",
@@ -60067,6 +60361,12 @@
   },
   {
     "manufacturer": "Vonino",
+    "market_name": "Xavy_L8",
+    "codename": "Xavy_L8",
+    "model": "Xavy_L8"
+  },
+  {
+    "manufacturer": "Vonino",
     "market_name": "Xavy_T7",
     "codename": "Xavy_T7",
     "model": "Xavy_T7"
@@ -60214,6 +60514,12 @@
     "market_name": "Primo ZX2",
     "codename": "GBL5805WA",
     "model": "Primo_ZX2"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "Primo ZX2 mini",
+    "codename": "Primo_ZX2_mini",
+    "model": "Primo ZX2 mini"
   },
   {
     "manufacturer": "WeTek",
@@ -67066,6 +67372,12 @@
     "market_name": "CMP793",
     "codename": "CMP793",
     "model": "CMP793"
+  },
+  {
+    "manufacturer": "iCraig",
+    "market_name": "CMP798",
+    "codename": "CMP798",
+    "model": "CMP798"
   },
   {
     "manufacturer": "iCraig",

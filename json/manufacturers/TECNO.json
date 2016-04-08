@@ -2,6 +2,11 @@
   "manufacturer": "Tecno",
   "devices": [
     {
+      "market_name": "DroiPad 7C Pro",
+      "codename": "DP7CPRO",
+      "model": "DP7CPRO"
+    },
+    {
       "market_name": "H5S",
       "codename": "up09_tecno_h5s",
       "model": "TECNO H5S"

@@ -2,6 +2,11 @@
   "manufacturer": "Logicom",
   "devices": [
     {
+      "market_name": "Connect503",
+      "codename": "L-ite502",
+      "model": "Connect503"
+    },
+    {
       "market_name": "E350",
       "codename": "E350",
       "model": "E350"
@@ -42,14 +47,34 @@
       "model": "L-EMENT500L"
     },
     {
+      "market_name": "L-EMENT501",
+      "codename": "L-EMENT501",
+      "model": "L-EMENT501"
+    },
+    {
       "market_name": "L-EMENT550",
       "codename": "L-EMENT550",
       "model": "L-EMENT550"
     },
     {
+      "market_name": "L-EMENT551",
+      "codename": "L-EMENT551",
+      "model": "L-EMENT551"
+    },
+    {
+      "market_name": "L-EMENTTAB1042",
+      "codename": "LEMENTTAB1042BTK",
+      "model": "L-EMENT_TAB1042BTK"
+    },
+    {
       "market_name": "L-EMENT_TAB1040_BT",
       "codename": "generic",
       "model": "L-EMENT_TAB1040_BT"
+    },
+    {
+      "market_name": "L-ITE 502 PLUS",
+      "codename": "L-ITE502PLUS",
+      "model": "L-ITE 502 PLUS"
     },
     {
       "market_name": "L-ITE402",
@@ -80,6 +105,11 @@
       "market_name": "LEMENT TAB 740",
       "codename": "LEMENTTAB740",
       "model": "L-EMENT 740"
+    },
+    {
+      "market_name": "LEMENTTAB1042",
+      "codename": "LEMENTTAB1042",
+      "model": "L-EMENT_TAB1042"
     },
     {
       "market_name": "LEMENTTAB901",

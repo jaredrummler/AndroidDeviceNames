@@ -162,6 +162,16 @@
       "model": "Panasonic ELUGA Arc"
     },
     {
+      "market_name": "Eluga I2",
+      "codename": "ELUGA_I2",
+      "model": "ELUGA_I2"
+    },
+    {
+      "market_name": "Eluga I3",
+      "codename": "Eluga_I3",
+      "model": "Panasonic_Eluga_I3"
+    },
+    {
       "market_name": "Eluga Icon 2",
       "codename": "ELUGA_Icon2",
       "model": "Panasonic ELUGA Icon 2"
@@ -395,6 +405,11 @@
       "market_name": "TAB-A01",
       "codename": "TAB-A01",
       "model": "TAB-A01-SD"
+    },
+    {
+      "market_name": "TH-49DX400C",
+      "codename": "DX00C",
+      "model": "DX00C"
     },
     {
       "market_name": "UN-MT300",

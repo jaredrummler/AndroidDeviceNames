@@ -37,6 +37,16 @@
       "model": "QV151E"
     },
     {
+      "market_name": "4K Ultra Slim LED TV powered by Android",
+      "codename": "QM16XE_U",
+      "model": "QM163E"
+    },
+    {
+      "market_name": "FHD Ultra Slim LED TV Powered by Android",
+      "codename": "QM16XE_F",
+      "model": "QM164E"
+    },
+    {
       "market_name": "HMP8100/93",
       "codename": "HMP8100_ATV_93",
       "model": "HMP8100_ATV_93"
@@ -165,6 +175,11 @@
       "market_name": "Philips S308",
       "codename": "Philips_S308",
       "model": "Philips S308"
+    },
+    {
+      "market_name": "Philips S309",
+      "codename": "Philips",
+      "model": "Philips S309"
     },
     {
       "market_name": "Philips S337",

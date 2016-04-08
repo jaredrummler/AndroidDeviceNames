@@ -2099,6 +2099,11 @@
     {
       "market_name": "LG G5",
       "codename": "h1",
+      "model": "LG-F700K"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
       "model": "LG-F700L"
     },
     {
@@ -2135,6 +2140,11 @@
       "market_name": "LG G5",
       "codename": "h1",
       "model": "LG-H868"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "LGAS992"
     },
     {
       "market_name": "LG G5",
@@ -3352,6 +3362,11 @@
       "model": "LG-F650S"
     },
     {
+      "market_name": "LG X screen",
+      "codename": "k5",
+      "model": "LG-K500"
+    },
+    {
       "market_name": "LG ZONE",
       "codename": "d2",
       "model": "LG-X180g"
@@ -4465,6 +4480,11 @@
       "market_name": "V10",
       "codename": "pplus",
       "model": "LG-H900"
+    },
+    {
+      "market_name": "V10",
+      "codename": "pplus",
+      "model": "LG-H900PR"
     },
     {
       "market_name": "V10",
