@@ -1472,6 +1472,21 @@
       "model": "Lenovo B8080-HV"
     },
     {
+      "market_name": "Lenovo K3 Note",
+      "codename": "K50a40",
+      "model": "Lenovo K50a40"
+    },
+    {
+      "market_name": "Lenovo K3 Note",
+      "codename": "aio_otfp",
+      "model": "Lenovo K50-T5"
+    },
+    {
+      "market_name": "Lenovo K3 Note",
+      "codename": "aio_otfp",
+      "model": "Lenovo K50-t5"
+    },
+    {
       "market_name": "Lenovo K30-E",
       "codename": "Kraft-E",
       "model": "Lenovo K30-E"
@@ -1503,28 +1518,8 @@
     },
     {
       "market_name": "Lenovo K50",
-      "codename": "K50a40",
-      "model": "Lenovo K50a40"
-    },
-    {
-      "market_name": "Lenovo K50",
       "codename": "aio_3m_otfp",
       "model": "Lenovo K50-t3s"
-    },
-    {
-      "market_name": "Lenovo K50",
-      "codename": "aio_otfp",
-      "model": "Lenovo K50-T5"
-    },
-    {
-      "market_name": "Lenovo K50",
-      "codename": "aio_otfp",
-      "model": "Lenovo K50-t5"
-    },
-    {
-      "market_name": "Lenovo K50-T5",
-      "codename": "aio_otfp",
-      "model": "Lenovo K50-t5"
     },
     {
       "market_name": "Lenovo K52t38",

@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Itel",
+  "devices": [
+    {
+      "market_name": "it1505",
+      "codename": "itel_it1505",
+      "model": "itel_it1505"
+    },
+    {
+      "market_name": "it1550",
+      "codename": "itel_it1550",
+      "model": "itel_it1550"
+    },
+    {
+      "market_name": "it1702",
+      "codename": "itel_it1702",
+      "model": "itel it1702"
+    }
+  ]
+}

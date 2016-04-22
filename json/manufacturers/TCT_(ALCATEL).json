@@ -737,6 +737,11 @@
       "model": "8050E"
     },
     {
+      "market_name": "8050E",
+      "codename": "Pixi4-6_3G",
+      "model": "T600M"
+    },
+    {
       "market_name": "8050G",
       "codename": "Pixi4-6_3G",
       "model": "8050G"
@@ -1822,6 +1827,11 @@
       "model": "5017E"
     },
     {
+      "market_name": "ALCATEL ONETOUCH PIXI 3 (4.5)",
+      "codename": "PIXI3_45_4G",
+      "model": "5019D"
+    },
+    {
       "market_name": "ALCATEL ONETOUCH PIXI 4 (4)",
       "codename": "Pixi4-4",
       "model": "4034D"
@@ -2900,6 +2910,21 @@
       "market_name": "PIXI3(4.5)",
       "codename": "Pixi3-45",
       "model": "4028S"
+    },
+    {
+      "market_name": "PIXI4 (3.5)",
+      "codename": "PIXI4-35",
+      "model": "4017A"
+    },
+    {
+      "market_name": "PIXI4 (3.5)",
+      "codename": "PIXI4-35",
+      "model": "4017F"
+    },
+    {
+      "market_name": "PIXI4 (3.5)",
+      "codename": "PIXI4-35",
+      "model": "4017X"
     },
     {
       "market_name": "PLAY_P1",

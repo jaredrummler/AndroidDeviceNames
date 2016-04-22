@@ -1,6 +1,24 @@
 [
   {
     "manufacturer": "LGE",
+    "market_name": "LG Stylo 2",
+    "codename": "ph1",
+    "model": "LGL81AL"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Stylo 2",
+    "codename": "ph1",
+    "model": "LGL82VL"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Stylo 2",
+    "codename": "ph1",
+    "model": "LGLS775"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "LG Stylus 2",
     "codename": "ph1",
     "model": "LG-F720K"
@@ -16,5 +34,11 @@
     "market_name": "LG Stylus 2",
     "codename": "ph1",
     "model": "LG-F720S"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Stylus 2",
+    "codename": "ph1",
+    "model": "LG-K520"
   }
 ]

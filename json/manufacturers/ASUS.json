@@ -792,6 +792,16 @@
       "model": "ASUS_Z007"
     },
     {
+      "market_name": "ZenFone Go",
+      "codename": "ASUS_X013D_1",
+      "model": "ASUS_X013DB"
+    },
+    {
+      "market_name": "ZenFone Go",
+      "codename": "ASUS_X013D_2",
+      "model": "ASUS_X013DB"
+    },
+    {
       "market_name": "ZenFone Selfie (ZD551KL)",
       "codename": "ASUS_Z00U_1",
       "model": "ASUS_Z00UD"
@@ -857,6 +867,11 @@
       "model": "P01T_1"
     },
     {
+      "market_name": "ZenPad 10 (Z300M)",
+      "codename": "P00C_2",
+      "model": "P00C"
+    },
+    {
       "market_name": "ZenPad 7.0 (Z370C)",
       "codename": "P01W",
       "model": "P01W"
@@ -880,6 +895,11 @@
       "market_name": "ZenPad 7.0(Z370KL)",
       "codename": "P002_1",
       "model": "P002"
+    },
+    {
+      "market_name": "ZenPad 8.0 (Z380M)",
+      "codename": "P00A_2",
+      "model": "P00A"
     },
     {
       "market_name": "ZenPad C 7.0",

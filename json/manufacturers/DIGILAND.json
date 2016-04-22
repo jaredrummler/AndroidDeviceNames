@@ -2,6 +2,11 @@
   "manufacturer": "DigiLand",
   "devices": [
     {
+      "market_name": "DL1008M",
+      "codename": "mid1008l_emmc",
+      "model": "DL1008M"
+    },
+    {
       "market_name": "DL1010Q",
       "codename": "DL1010Q",
       "model": "DL1010Q"

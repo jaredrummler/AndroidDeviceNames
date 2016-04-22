@@ -2437,9 +2437,24 @@
       "model": "SM-J105M"
     },
     {
+      "market_name": "Galaxy J1 Mini",
+      "codename": "j1minilte",
+      "model": "SM-J105Y"
+    },
+    {
       "market_name": "Galaxy J1(2016)",
       "codename": "j1x3g",
       "model": "SM-J120H"
+    },
+    {
+      "market_name": "Galaxy J1(2016)",
+      "codename": "j1xlte",
+      "model": "SM-J120G"
+    },
+    {
+      "market_name": "Galaxy J1(2016)",
+      "codename": "j1xlte",
+      "model": "SM-J120ZN"
     },
     {
       "market_name": "Galaxy J2",
@@ -2583,8 +2598,38 @@
     },
     {
       "market_name": "Galaxy J5(2016)",
+      "codename": "j5x3g",
+      "model": "SM-J510H"
+    },
+    {
+      "market_name": "Galaxy J5(2016)",
       "codename": "j5xltecmcc",
       "model": "SM-J5108"
+    },
+    {
+      "market_name": "Galaxy J5(2016)",
+      "codename": "j5xnlte",
+      "model": "SM-J510F"
+    },
+    {
+      "market_name": "Galaxy J5(2016)",
+      "codename": "j5xnlte",
+      "model": "SM-J510FN"
+    },
+    {
+      "market_name": "Galaxy J5(2016)",
+      "codename": "j5xnlte",
+      "model": "SM-J510GN"
+    },
+    {
+      "market_name": "Galaxy J5(2016)",
+      "codename": "j5xnlte",
+      "model": "SM-J510MN"
+    },
+    {
+      "market_name": "Galaxy J5(2016)",
+      "codename": "j5xnlte",
+      "model": "SM-J510UN"
     },
     {
       "market_name": "Galaxy J7",
@@ -2615,6 +2660,11 @@
       "market_name": "Galaxy J7(2016)",
       "codename": "j7ltespr",
       "model": "SM-J700P"
+    },
+    {
+      "market_name": "Galaxy J7(2016)",
+      "codename": "j7xelte",
+      "model": "SM-J710F"
     },
     {
       "market_name": "Galaxy J7(2016)",
@@ -5748,6 +5798,11 @@
     },
     {
       "market_name": "Galaxy S7",
+      "codename": "heroqltetfnvzw",
+      "model": "SM-G930VL"
+    },
+    {
+      "market_name": "Galaxy S7",
       "codename": "heroqltetmo",
       "model": "SM-G930T"
     },
@@ -6928,6 +6983,11 @@
     },
     {
       "market_name": "Galaxy Tab4 10.1",
+      "codename": "matisse10wifikx",
+      "model": "SM-T536"
+    },
+    {
+      "market_name": "Galaxy Tab4 10.1",
       "codename": "matissevewifi",
       "model": "SM-T533"
     },
@@ -7535,6 +7595,11 @@
       "market_name": "Galaxy Xcover3",
       "codename": "xcover3lte",
       "model": "SM-G388F"
+    },
+    {
+      "market_name": "Galaxy Xcover3",
+      "codename": "xcover3velte",
+      "model": "SM-G389F"
     },
     {
       "market_name": "Galaxy Y",

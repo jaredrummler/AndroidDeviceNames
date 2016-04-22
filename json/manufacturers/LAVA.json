@@ -2,6 +2,11 @@
   "manufacturer": "Lava",
   "devices": [
     {
+      "market_name": "A71",
+      "codename": "A71",
+      "model": "A71"
+    },
+    {
       "market_name": "Flair P3",
       "codename": "P3",
       "model": "P3"
@@ -10,6 +15,11 @@
       "market_name": "Flair S1",
       "codename": "S1",
       "model": "S1"
+    },
+    {
+      "market_name": "Lava V2 3GB",
+      "codename": "V23GB",
+      "model": "V23GB"
     },
     {
       "market_name": "P7",
@@ -27,6 +37,11 @@
       "model": "PixelV1"
     },
     {
+      "market_name": "V2s",
+      "codename": "V2s",
+      "model": "V2s"
+    },
+    {
       "market_name": "V5",
       "codename": "V5",
       "model": "LAVA V5"
@@ -42,6 +57,16 @@
       "model": "X10"
     },
     {
+      "market_name": "X11",
+      "codename": "X11",
+      "model": "X11"
+    },
+    {
+      "market_name": "X3",
+      "codename": "X3",
+      "model": "X3"
+    },
+    {
       "market_name": "XOLO LT900",
       "codename": "LT900",
       "model": "LT900"
@@ -55,6 +80,11 @@
       "market_name": "XOLO era 4K",
       "codename": "XOLO_era_4K",
       "model": "era 4K"
+    },
+    {
+      "market_name": "Xolo Era X",
+      "codename": "era_X",
+      "model": "era_X"
     },
     {
       "market_name": "iris Fuel F2",

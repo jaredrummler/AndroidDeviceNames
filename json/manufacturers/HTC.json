@@ -892,6 +892,16 @@
       "model": "HTC Desire 526G"
     },
     {
+      "market_name": "HTC Desire 530",
+      "codename": "htc_a16ul",
+      "model": "HTC Desire 530"
+    },
+    {
+      "market_name": "HTC Desire 530",
+      "codename": "htc_a16ul",
+      "model": "HTC_D530u"
+    },
+    {
       "market_name": "HTC Desire 600",
       "codename": "cp3dug",
       "model": "HTC Desire 600"
@@ -1422,6 +1432,11 @@
       "model": "HTC Desire 816G"
     },
     {
+      "market_name": "HTC Desrie D530",
+      "codename": "htc_a16ul",
+      "model": "HTC Desire 530"
+    },
+    {
       "market_name": "HTC E9pt",
       "codename": "htc_a55ml_dtul",
       "model": "HTC E9pt"
@@ -1520,6 +1535,11 @@
       "market_name": "HTC J Z321e",
       "codename": "valentewxc9",
       "model": "HTC J Z321e"
+    },
+    {
+      "market_name": "HTC M10",
+      "codename": "htc_pmeuhl",
+      "model": "HTC 10"
     },
     {
       "market_name": "HTC M8si",
@@ -2127,9 +2147,19 @@
       "model": "HTC One X+"
     },
     {
+      "market_name": "HTC One X9",
+      "codename": "htc_e56ml_tuhl",
+      "model": "HTC 2PS5200"
+    },
+    {
       "market_name": "HTC One X9 dual sim",
       "codename": "htc_e56ml_dtul",
       "model": "HTC X9u"
+    },
+    {
+      "market_name": "HTC One X9 dual sim",
+      "codename": "htc_e56ml_dtul",
+      "model": "HTC_X9u"
     },
     {
       "market_name": "HTC One XL",

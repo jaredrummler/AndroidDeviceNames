@@ -12,6 +12,11 @@
       "model": "Ilium_L1000"
     },
     {
+      "market_name": "ILIUM L200",
+      "codename": "ILIUM_L200",
+      "model": "ILIUM L200"
+    },
+    {
       "market_name": "ILIUM L820",
       "codename": "Ilium_L820",
       "model": "Ilium L820"
@@ -105,6 +110,21 @@
       "market_name": "X400",
       "codename": "Ilium_X400",
       "model": "ILIUM X400"
+    },
+    {
+      "market_name": "ilium PAD E9",
+      "codename": "ilium_PAD_E9",
+      "model": "ilium Pad E9"
+    },
+    {
+      "market_name": "ilium PAD i7",
+      "codename": "Ilium_PAD_i7",
+      "model": "Ilium_PAD_i7"
+    },
+    {
+      "market_name": "ilium Pad E7",
+      "codename": "ilium_Pad_E7",
+      "model": "ilium_Pad_E7"
     },
     {
       "market_name": "ilium_S106",

@@ -2,6 +2,16 @@
   "manufacturer": "Positivo",
   "devices": [
     {
+      "market_name": "8MA-A",
+      "codename": "ochoMA_A_3G",
+      "model": "8MA-A 3G"
+    },
+    {
+      "market_name": "First",
+      "codename": "S410",
+      "model": "First"
+    },
+    {
       "market_name": "Positivo AB7",
       "codename": "YPY_AB7D",
       "model": "YPY_AB7D"
@@ -10,6 +20,11 @@
       "market_name": "Positivo AB7D",
       "codename": "YPY_AB7DC",
       "model": "YPY_AB7DC"
+    },
+    {
+      "market_name": "Positivo BGH 7Di-A",
+      "codename": "Y210",
+      "model": "Positivo BGH 7Di-A"
     },
     {
       "market_name": "Positivo BGH Y200",
@@ -27,6 +42,11 @@
       "model": "Positivo BGH Y210"
     },
     {
+      "market_name": "Positivo BGH Y230",
+      "codename": "T760",
+      "model": "Y230"
+    },
+    {
       "market_name": "Positivo BGH Y400",
       "codename": "Y400",
       "model": "Y400"
@@ -42,9 +62,24 @@
       "model": "Positivo Mini TE"
     },
     {
+      "market_name": "Positivo Next",
+      "codename": "X500",
+      "model": "Positivo Next"
+    },
+    {
       "market_name": "Positivo OCTA",
       "codename": "OCTA",
       "model": "OCTA"
+    },
+    {
+      "market_name": "Positivo One",
+      "codename": "S420",
+      "model": "Positivo One"
+    },
+    {
+      "market_name": "Positivo One",
+      "codename": "S420",
+      "model": "S420"
     },
     {
       "market_name": "Positivo S380",
@@ -65,6 +100,11 @@
       "market_name": "Positivo SX1000",
       "codename": "SX1000",
       "model": "Positivo SX1000"
+    },
+    {
+      "market_name": "Positivo Selfie",
+      "codename": "S455",
+      "model": "S455"
     },
     {
       "market_name": "Positivo T1060",
@@ -107,9 +147,19 @@
       "model": "Positivo T710"
     },
     {
+      "market_name": "Positivo T715",
+      "codename": "T715",
+      "model": "Stilo T715"
+    },
+    {
       "market_name": "Positivo T750",
       "codename": "t750",
       "model": "Positivo T750"
+    },
+    {
+      "market_name": "Positivo Union US2070",
+      "codename": "US2070",
+      "model": "Positivo US2070"
     },
     {
       "market_name": "Positivo X400",
@@ -297,6 +347,11 @@
       "model": "S480"
     },
     {
+      "market_name": "Y1000",
+      "codename": "Y1000",
+      "model": "Y1000"
+    },
+    {
       "market_name": "YPY 10 3G",
       "codename": "YPY_10FTA",
       "model": "YPY_10FTA"
@@ -395,6 +450,11 @@
       "market_name": "Ypy S500",
       "codename": "YPY_S500",
       "model": "YPY_S500"
+    },
+    {
+      "market_name": "quattro",
+      "codename": "X435",
+      "model": "quattro"
     }
   ]
 }

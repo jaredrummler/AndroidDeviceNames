@@ -2,6 +2,11 @@
   "manufacturer": "MobileTeleSystem",
   "devices": [
     {
+      "market_name": "MTC SMART Surf 4G",
+      "codename": "MTC_SMART_Surf_4G",
+      "model": "MTC_SMART_Surf_4G"
+    },
+    {
       "market_name": "SMART Start 2",
       "codename": "MTC_SMART_Start_2",
       "model": "MTC_SMART_Start_2"

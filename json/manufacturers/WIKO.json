@@ -2,6 +2,11 @@
   "manufacturer": "Wiko",
   "devices": [
     {
+      "market_name": "B-KOOL",
+      "codename": "V2502AN01D",
+      "model": "B-KOOL"
+    },
+    {
       "market_name": "BIRDY",
       "codename": "BIRDY",
       "model": "BIRDY"
@@ -57,9 +62,19 @@
       "model": "HIGHWAY STAR"
     },
     {
+      "market_name": "JERRY",
+      "codename": "V2802AN",
+      "model": "JERRY"
+    },
+    {
       "market_name": "JIMMY",
       "codename": "s4300ae",
       "model": "JIMMY"
+    },
+    {
+      "market_name": "K-KOOL",
+      "codename": "V2800AN",
+      "model": "K-KOOL"
     },
     {
       "market_name": "KITE",
@@ -80,6 +95,11 @@
       "market_name": "LENNY2",
       "codename": "s5030",
       "model": "LENNY2"
+    },
+    {
+      "market_name": "LENNY3",
+      "codename": "V3702AN",
+      "model": "LENNY3"
     },
     {
       "market_name": "MACARON",
@@ -192,6 +212,11 @@
       "model": "RIDGE FAB 4G"
     },
     {
+      "market_name": "ROBBY",
+      "codename": "V3750AN",
+      "model": "ROBBY"
+    },
+    {
       "market_name": "SELFY",
       "codename": "SELFY",
       "model": "SELFY"
@@ -207,6 +232,11 @@
       "model": "SLIDE"
     },
     {
+      "market_name": "SUNNY",
+      "codename": "V2502AN",
+      "model": "SUNNY"
+    },
+    {
       "market_name": "SUNSET",
       "codename": "s4011",
       "model": "SUNSET"
@@ -215,6 +245,11 @@
       "market_name": "SUNSET2",
       "codename": "s4050ap",
       "model": "SUNSET2"
+    },
+    {
+      "market_name": "U FEEL LITE",
+      "codename": "P4601AN",
+      "model": "U FEEL LITE"
     },
     {
       "market_name": "WAX",

@@ -72,6 +72,11 @@
       "model": "A31t"
     },
     {
+      "market_name": "A1603",
+      "codename": "A1603",
+      "model": "A1603"
+    },
+    {
       "market_name": "A31",
       "codename": "A31t",
       "model": "A31"
@@ -115,6 +120,16 @@
       "market_name": "A35",
       "codename": "A35",
       "model": "OPPO A35"
+    },
+    {
+      "market_name": "A37f",
+      "codename": "A37f",
+      "model": "A37f"
+    },
+    {
+      "market_name": "A37fw",
+      "codename": "A37f",
+      "model": "A37fw"
     },
     {
       "market_name": "A37t",
@@ -275,6 +290,16 @@
       "market_name": "OPPO Find5",
       "codename": "FIND5",
       "model": "X909T"
+    },
+    {
+      "market_name": "OPPO R9",
+      "codename": "R9",
+      "model": "OPPO R9"
+    },
+    {
+      "market_name": "OPPO R9 Plus A",
+      "codename": "R9PlusA",
+      "model": "OPPO R9 Plus A"
     },
     {
       "market_name": "OPPO Ulike2",
@@ -532,6 +557,36 @@
       "model": "R833T"
     },
     {
+      "market_name": "R9PlusmA",
+      "codename": "R9PlusA",
+      "model": "OPPO R9 Plusm A"
+    },
+    {
+      "market_name": "R9PlustA",
+      "codename": "R9PlusA",
+      "model": "OPPO R9 Plust A"
+    },
+    {
+      "market_name": "R9PlustmA",
+      "codename": "R9PlusA",
+      "model": "OPPO R9 Plustm A"
+    },
+    {
+      "market_name": "R9m",
+      "codename": "R9",
+      "model": "OPPO R9m"
+    },
+    {
+      "market_name": "R9t",
+      "codename": "R9",
+      "model": "OPPO R9t"
+    },
+    {
+      "market_name": "R9tm",
+      "codename": "R9",
+      "model": "OPPO R9tm"
+    },
+    {
       "market_name": "U3",
       "codename": "U3",
       "model": "U3"
@@ -557,9 +612,24 @@
       "model": "X9000"
     },
     {
+      "market_name": "X9009",
+      "codename": "X9009",
+      "model": "X9009"
+    },
+    {
+      "market_name": "X9009fw",
+      "codename": "X9009",
+      "model": "X9009fw"
+    },
+    {
       "market_name": "X9077",
       "codename": "FIND7",
       "model": "X9077"
+    },
+    {
+      "market_name": "X9079",
+      "codename": "X9079",
+      "model": "X9079"
     },
     {
       "market_name": "X909",

@@ -2,6 +2,26 @@
   "manufacturer": "Plusone",
   "devices": [
     {
+      "market_name": "FTJ152C",
+      "codename": "FTJ152C",
+      "model": "FTJ152C"
+    },
+    {
+      "market_name": "FTJ161A",
+      "codename": "FTJ161A",
+      "model": "FTJ161A"
+    },
+    {
+      "market_name": "Kiwami",
+      "codename": "FTJ152D",
+      "model": "FTJ152D"
+    },
+    {
+      "market_name": "Priori 3",
+      "codename": "FTJ152A",
+      "model": "FTJ152A"
+    },
+    {
       "market_name": "Priori3S",
       "codename": "FTJ152B",
       "model": "FTJ152B"
