@@ -597,11 +597,6 @@
       "model": "LG-P880"
     },
     {
-      "market_name": "\\t LG X screen",
-      "codename": "k5",
-      "model": "LG-F650K"
-    },
-    {
       "market_name": "070 touch",
       "codename": "w3voip",
       "model": "LG-FL40L"
@@ -3400,6 +3395,11 @@
       "market_name": "LG X cam",
       "codename": "k7",
       "model": "LG-F690S"
+    },
+    {
+      "market_name": "LG X screen",
+      "codename": "k5",
+      "model": "LG-F650K"
     },
     {
       "market_name": "LG X screen",

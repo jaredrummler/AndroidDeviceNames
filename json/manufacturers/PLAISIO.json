@@ -2,6 +2,11 @@
   "manufacturer": "Plaisio",
   "devices": [
     {
+      "market_name": "Coral II",
+      "codename": "CoralII",
+      "model": "Turbo-X Coral II"
+    },
+    {
       "market_name": "G320",
       "codename": "G320",
       "model": "G320"

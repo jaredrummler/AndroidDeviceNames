@@ -2,6 +2,11 @@
   "manufacturer": "Lava",
   "devices": [
     {
+      "market_name": "A67",
+      "codename": "A67",
+      "model": "A67"
+    },
+    {
       "market_name": "A71",
       "codename": "A71",
       "model": "A71"

@@ -2508,6 +2508,11 @@
     },
     {
       "market_name": "Galaxy J3(2016)",
+      "codename": "j3ltekx",
+      "model": "SM-J320N0"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
       "codename": "j3ltetw",
       "model": "SM-J320Y"
     },
@@ -2515,6 +2520,16 @@
       "market_name": "Galaxy J3(2016)",
       "codename": "j3ltetw",
       "model": "SM-J320YZ"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
+      "codename": "j3ltevzw",
+      "model": "SM-J320VPP"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
+      "codename": "j3ltexsa",
+      "model": "SM-J320ZN"
     },
     {
       "market_name": "Galaxy J3(2016)",
@@ -2632,6 +2647,21 @@
       "model": "SM-J510UN"
     },
     {
+      "market_name": "Galaxy J5(2016)",
+      "codename": "j5xnltektt",
+      "model": "SM-J510K"
+    },
+    {
+      "market_name": "Galaxy J5(2016)",
+      "codename": "j5xnltelgt",
+      "model": "SM-J510L"
+    },
+    {
+      "market_name": "Galaxy J5(2016)",
+      "codename": "j5xnlteskt",
+      "model": "SM-J510S"
+    },
+    {
       "market_name": "Galaxy J7",
       "codename": "j75ltektt",
       "model": "SM-J700K"
@@ -2655,6 +2685,16 @@
       "market_name": "Galaxy J7",
       "codename": "j7ltechn",
       "model": "SM-J7008"
+    },
+    {
+      "market_name": "Galaxy J7(2016)",
+      "codename": "j7eltemtr",
+      "model": "SM-J700T1"
+    },
+    {
+      "market_name": "Galaxy J7(2016)",
+      "codename": "j7eltetmo",
+      "model": "SM-J700T"
     },
     {
       "market_name": "Galaxy J7(2016)",
@@ -5877,6 +5917,11 @@
       "model": "SM-G935V"
     },
     {
+      "market_name": "Galaxy S7 edge",
+      "codename": "SCV33",
+      "model": "SCV33"
+    },
+    {
       "market_name": "Galaxy Spica",
       "codename": "GT-I5700",
       "model": "GT-I5700"
@@ -6433,6 +6478,11 @@
     },
     {
       "market_name": "Galaxy Tab E 7.0",
+      "codename": "gtexslte",
+      "model": "SM-T287"
+    },
+    {
+      "market_name": "Galaxy Tab E 7.0",
       "codename": "gtexswifi",
       "model": "SM-T280"
     },
@@ -6705,6 +6755,11 @@
       "market_name": "Galaxy Tab S2 9.7",
       "codename": "gts210ltevzw",
       "model": "SM-T817V"
+    },
+    {
+      "market_name": "Galaxy Tab S2 9.7",
+      "codename": "gts210velte",
+      "model": "SM-T819"
     },
     {
       "market_name": "Galaxy Tab S2 9.7",
@@ -7930,6 +7985,11 @@
       "market_name": "SC-02G",
       "codename": "SC-02G",
       "model": "SC-02G"
+    },
+    {
+      "market_name": "SC-02H",
+      "codename": "SC-02H",
+      "model": "SC-02H"
     },
     {
       "market_name": "SC-04F",
