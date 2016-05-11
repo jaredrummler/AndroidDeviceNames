@@ -2523,6 +2523,11 @@
     },
     {
       "market_name": "Galaxy J3(2016)",
+      "codename": "j3lteusc",
+      "model": "SM-J320R4"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
       "codename": "j3ltevzw",
       "model": "SM-J320VPP"
     },
@@ -2708,8 +2713,23 @@
     },
     {
       "market_name": "Galaxy J7(2016)",
+      "codename": "j7xelte",
+      "model": "SM-J710GN"
+    },
+    {
+      "market_name": "Galaxy J7(2016)",
+      "codename": "j7xelte",
+      "model": "SM-J710MN"
+    },
+    {
+      "market_name": "Galaxy J7(2016)",
       "codename": "j7xeltecmcc",
       "model": "SM-J7108"
+    },
+    {
+      "market_name": "Galaxy J7(2016)",
+      "codename": "j7xeltektt",
+      "model": "SM-J710K"
     },
     {
       "market_name": "Galaxy J7(2016)",
@@ -6690,6 +6710,11 @@
       "market_name": "Galaxy Tab S2 8.0",
       "codename": "gts28ltekx",
       "model": "SM-T715N0"
+    },
+    {
+      "market_name": "Galaxy Tab S2 8.0",
+      "codename": "gts28velte",
+      "model": "SM-T719"
     },
     {
       "market_name": "Galaxy Tab S2 8.0",

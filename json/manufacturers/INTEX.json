@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Intex",
+  "devices": [
+    {
+      "market_name": "Intex Aqua Pride",
+      "codename": "AquaPride",
+      "model": "Aqua Pride"
+    },
+    {
+      "market_name": "Intex Aqua View",
+      "codename": "AquaView",
+      "model": "Aqua View"
+    }
+  ]
+}

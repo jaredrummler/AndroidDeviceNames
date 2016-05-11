@@ -707,6 +707,11 @@
       "model": "ASUS_Z00LD"
     },
     {
+      "market_name": "ZenFone 2 Laser (ZE550KLA)",
+      "codename": "ASUS_Z00L_63C",
+      "model": "ASUS_Z00LD"
+    },
+    {
       "market_name": "ZenFone 2 Laser (ZE551KL)",
       "codename": "ASUS_Z00T",
       "model": "ASUS_Z00TD"
@@ -720,6 +725,11 @@
       "market_name": "ZenFone 2 Laser (ZE601KL)",
       "codename": "ASUS_Z011",
       "model": "ASUS_Z011D"
+    },
+    {
+      "market_name": "ZenFone 2(ZE551ML)",
+      "codename": "Z00A_3",
+      "model": "ASUS_Z00AD"
     },
     {
       "market_name": "ZenFone 4 (A400CG)",
@@ -990,6 +1000,16 @@
       "market_name": "Zenfone MAX",
       "codename": "ASUS_Z010",
       "model": "ASUS_Z010DA"
+    },
+    {
+      "market_name": "Zenfone MAX",
+      "codename": "ASUS_Z010",
+      "model": "ASUS_Z010DB"
+    },
+    {
+      "market_name": "Zenfone MAX",
+      "codename": "ASUS_Z010_CD",
+      "model": "ASUS_Z010D"
     },
     {
       "market_name": "Zenfone MAX (ZC550KL)",

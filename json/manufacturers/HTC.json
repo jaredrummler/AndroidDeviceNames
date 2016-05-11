@@ -192,6 +192,16 @@
       "model": "HTC Desire 820"
     },
     {
+      "market_name": "Desire 825",
+      "codename": "htc_a56uhl",
+      "model": "HTC 2PUK2"
+    },
+    {
+      "market_name": "Desire 825",
+      "codename": "htc_a56uhl",
+      "model": "HTC Desire 825"
+    },
+    {
       "market_name": "Desire 826",
       "codename": "htc_a52dwgl",
       "model": "HTC D826d"
@@ -400,6 +410,11 @@
       "market_name": "HTC 10",
       "codename": "htc_pmeuhl",
       "model": "HTC_M10h"
+    },
+    {
+      "market_name": "HTC 10",
+      "codename": "htc_pmewl",
+      "model": "HTC 10"
     },
     {
       "market_name": "HTC 5060 dual sim",
@@ -1245,6 +1260,16 @@
       "market_name": "HTC Desire 820s dual sim",
       "codename": "htc_a50ml",
       "model": "HTC Desire 820s dual sim"
+    },
+    {
+      "market_name": "HTC Desire 825",
+      "codename": "htc_a56uhl",
+      "model": "HTC Desire 825"
+    },
+    {
+      "market_name": "HTC Desire 825",
+      "codename": "htc_a56uhl",
+      "model": "HTC_D825u"
     },
     {
       "market_name": "HTC Desire 826",

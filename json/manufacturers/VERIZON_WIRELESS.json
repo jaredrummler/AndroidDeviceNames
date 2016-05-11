@@ -2,6 +2,11 @@
   "manufacturer": "Verizon Wireless",
   "devices": [
     {
+      "market_name": "ASUS ZenPad Z8",
+      "codename": "P008",
+      "model": "P008"
+    },
+    {
       "market_name": "Ellipsis 10",
       "codename": "QTAIR7",
       "model": "QTAIR7"

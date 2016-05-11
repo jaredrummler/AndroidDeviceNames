@@ -597,6 +597,16 @@
       "model": "5070D"
     },
     {
+      "market_name": "5098O",
+      "codename": "Pixi4-6_4G_CKT",
+      "model": "alcatel_5098O"
+    },
+    {
+      "market_name": "5098S",
+      "codename": "Pixi4-6_4G",
+      "model": "5098S"
+    },
+    {
       "market_name": "6010A",
       "codename": "Miata_3G",
       "model": "6016A"
@@ -787,6 +797,11 @@
       "model": "KR076"
     },
     {
+      "market_name": "8063",
+      "codename": "Pixi4-7_WIFI",
+      "model": "8063"
+    },
+    {
       "market_name": "8070",
       "codename": "Pixi3-8_WIFI",
       "model": "8070"
@@ -800,6 +815,16 @@
       "market_name": "8080",
       "codename": "Pixi3-10_WiFi",
       "model": "8080"
+    },
+    {
+      "market_name": "9001D",
+      "codename": "Pixi4-6_4G",
+      "model": "9001D"
+    },
+    {
+      "market_name": "9001X",
+      "codename": "Pixi4-6_4G",
+      "model": "9001X"
     },
     {
       "market_name": "9002A",
@@ -822,6 +847,16 @@
       "model": "9002X"
     },
     {
+      "market_name": "9003A",
+      "codename": "Pixi4-7_3G",
+      "model": "9003A"
+    },
+    {
+      "market_name": "9003X",
+      "codename": "Pixi4-7_3G",
+      "model": "9003X"
+    },
+    {
       "market_name": "9005X",
       "codename": "PIXO8_3G",
       "model": "9005X"
@@ -840,6 +875,16 @@
       "market_name": "9010X",
       "codename": "Pixi3-10_3G",
       "model": "9010X"
+    },
+    {
+      "market_name": "9015W",
+      "codename": "Pixi4-7_4G_TMO",
+      "model": "9015W"
+    },
+    {
+      "market_name": "9015W",
+      "codename": "Pixi4-7_4G_TMO",
+      "model": "ALCATEL ONETOUCH POP 7 LTE"
     },
     {
       "market_name": "9020A",
@@ -3707,6 +3752,11 @@
       "model": "TCL_U980"
     },
     {
+      "market_name": "TCL_Xess_P17AA",
+      "codename": "Xess",
+      "model": "TCL Xess P17AA"
+    },
+    {
       "market_name": "Telekom_Puls",
       "codename": "T-Tab",
       "model": "Telekom Puls"
@@ -3755,6 +3805,11 @@
       "market_name": "VF695",
       "codename": "VF695",
       "model": "VF695"
+    },
+    {
+      "market_name": "VFD1100",
+      "codename": "Tab7",
+      "model": "VFD 1100"
     },
     {
       "market_name": "Vodafone 785",

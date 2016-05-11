@@ -1742,6 +1742,11 @@
       "model": "LG-P815L"
     },
     {
+      "market_name": "LG G Pad X 8.0",
+      "codename": "b3",
+      "model": "LG-V521"
+    },
+    {
       "market_name": "LG G Pad X 8.3",
       "codename": "altev2",
       "model": "VK815"
@@ -1750,6 +1755,11 @@
       "market_name": "LG G Stylo",
       "codename": "g4stylusc",
       "model": "LGLS770"
+    },
+    {
+      "market_name": "LG G Stylo",
+      "codename": "g4stylusds",
+      "model": "LG-H630D"
     },
     {
       "market_name": "LG G Stylo",
@@ -2160,6 +2170,21 @@
       "market_name": "LG G5",
       "codename": "h1",
       "model": "VS987"
+    },
+    {
+      "market_name": "LG G5 SE",
+      "codename": "alicee",
+      "model": "LG-H840"
+    },
+    {
+      "market_name": "LG G5 SE",
+      "codename": "alicee",
+      "model": "LG-H845"
+    },
+    {
+      "market_name": "LG G5 SE",
+      "codename": "alicee",
+      "model": "LG-H848"
     },
     {
       "market_name": "LG Gpad X 10.1",
@@ -3209,6 +3234,11 @@
     {
       "market_name": "LG Phoenix 2",
       "codename": "m1v",
+      "model": "LGAS375"
+    },
+    {
+      "market_name": "LG Phoenix 2",
+      "codename": "m1v",
       "model": "LGUS375"
     },
     {
@@ -3305,6 +3335,16 @@
       "market_name": "LG Stylus 2",
       "codename": "ph1",
       "model": "LG-K520"
+    },
+    {
+      "market_name": "LG Stylus2 4G",
+      "codename": "ph2",
+      "model": "LG-K530"
+    },
+    {
+      "market_name": "LG Stylus2 4G",
+      "codename": "ph2",
+      "model": "LG-K535"
     },
     {
       "market_name": "LG Thrill 4G",

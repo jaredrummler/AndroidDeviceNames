@@ -27,6 +27,11 @@
       "model": "FS402"
     },
     {
+      "market_name": "Fly Cirrus 3",
+      "codename": "Cirrus_3",
+      "model": "FS506"
+    },
+    {
       "market_name": "Fly ERA Nano 7",
       "codename": "Fly_IQ4407",
       "model": "IQ4407"
@@ -310,6 +315,11 @@
       "market_name": "Stratus 3",
       "codename": "Stratus_3",
       "model": "FS404"
+    },
+    {
+      "market_name": "Stratus 4",
+      "codename": "Stratus_4",
+      "model": "FS405"
     },
     {
       "market_name": "Tornado One",

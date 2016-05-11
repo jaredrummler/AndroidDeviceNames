@@ -1387,6 +1387,11 @@
       "model": "Blade L3 Plus"
     },
     {
+      "market_name": "Blade L5",
+      "codename": "P172A40",
+      "model": "Blade L5"
+    },
+    {
       "market_name": "Blade Q Lux",
       "codename": "P816A12",
       "model": "Blade Q Lux"
@@ -2742,6 +2747,16 @@
       "model": "Z826"
     },
     {
+      "market_name": "Z828",
+      "codename": "achill",
+      "model": "Z828"
+    },
+    {
+      "market_name": "Z828",
+      "codename": "achill",
+      "model": "Z828TL"
+    },
+    {
       "market_name": "Z830",
       "codename": "gruis",
       "model": "Z830"
@@ -3085,6 +3100,11 @@
       "market_name": "ZTE Blade L370",
       "codename": "ZTE_Blade_C370",
       "model": "ZTE Blade L370"
+    },
+    {
+      "market_name": "ZTE Blade L5",
+      "codename": "P172A40",
+      "model": "ZTE Blade L5"
     },
     {
       "market_name": "ZTE Blade Q Lux",
@@ -3915,6 +3935,11 @@
       "market_name": "ZTE T28",
       "codename": "bluetick",
       "model": "ZTE T28 Prepaid"
+    },
+    {
+      "market_name": "ZTE T520",
+      "codename": "P172A40",
+      "model": "ZTE T520"
     },
     {
       "market_name": "ZTE T60",
