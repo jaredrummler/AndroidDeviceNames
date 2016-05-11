@@ -1069,6 +1069,36 @@
   },
   {
     "manufacturer": "LGE",
+    "market_name": "LG M1",
+    "codename": "m1",
+    "model": "LG-AS330"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG M1",
+    "codename": "m1",
+    "model": "LG-K330"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG M1",
+    "codename": "m1",
+    "model": "LGLS675"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG M1",
+    "codename": "m1",
+    "model": "LGMS330"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG M1",
+    "codename": "m1ds",
+    "model": "LG-K332"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "LG Optimus 3D",
     "codename": "cosmopolitan",
     "model": "LG-P920"
@@ -1753,6 +1783,102 @@
   },
   {
     "manufacturer": "Motorola",
+    "market_name": "Moto G (1st Gen)",
+    "codename": "falcon_cdma",
+    "model": "XT1028"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (1st Gen)",
+    "codename": "falcon_cdma",
+    "model": "XT1031"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (1st Gen)",
+    "codename": "falcon_cdma",
+    "model": "XT937C"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (1st Gen)",
+    "codename": "falcon_umts",
+    "model": "XT1002"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (1st Gen)",
+    "codename": "falcon_umts",
+    "model": "XT1003"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (1st Gen)",
+    "codename": "falcon_umts",
+    "model": "XT1008"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (1st Gen)",
+    "codename": "falcon_umts",
+    "model": "XT1032"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (1st Gen)",
+    "codename": "falcon_umts",
+    "model": "XT1034"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (1st Gen)",
+    "codename": "falcon_umts",
+    "model": "XT939G"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (1st Gen)",
+    "codename": "falcon_umtsds",
+    "model": "XT1033"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (2nd Gen)",
+    "codename": "titan_udstv",
+    "model": "XT1069"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (2nd Gen)",
+    "codename": "titan_udstv",
+    "model": "titan_retbr_dstv"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (2nd Gen)",
+    "codename": "titan_umts",
+    "model": "XT1063"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (2nd Gen)",
+    "codename": "titan_umts",
+    "model": "XT1064"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (2nd Gen)",
+    "codename": "titan_umtsds",
+    "model": "XT1068"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto G (2nd Gen)",
+    "codename": "titan_umtsds",
+    "model": "titan_niibr_ds"
+  },
+  {
+    "manufacturer": "Motorola",
     "market_name": "Moto X Style",
     "codename": "clark",
     "model": "XT1572"
@@ -1774,48 +1900,6 @@
     "market_name": "Nexus 6",
     "codename": "shamu",
     "model": "Nexus 6"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "XOOM",
-    "codename": "stingray",
-    "model": "Xoom"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "XOOM",
-    "codename": "umts_everest",
-    "model": "MZ601"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "XOOM",
-    "codename": "umts_hubble",
-    "model": "MZ601"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "XOOM",
-    "codename": "umts_hubble",
-    "model": "MZ605"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "XOOM",
-    "codename": "wifi_hubble",
-    "model": "MZ604"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "XOOM",
-    "codename": "wifi_hubble",
-    "model": "MZ606"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "XOOM",
-    "codename": "wingray",
-    "model": "Xoom"
   },
   {
     "manufacturer": "OnePlus",
@@ -3010,6 +3094,102 @@
     "market_name": "Galaxy J1",
     "codename": "j1xltecan",
     "model": "SM-J120W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Ace",
+    "codename": "j1acelte",
+    "model": "SM-J110F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Ace",
+    "codename": "j1acelte",
+    "model": "SM-J110G"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Ace",
+    "codename": "j1acelteltn",
+    "model": "SM-J110M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Ace",
+    "codename": "j1acevelte",
+    "model": "SM-J111F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Ace",
+    "codename": "j1acevelte",
+    "model": "SM-J111M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Ace",
+    "codename": "j1pop3g",
+    "model": "SM-J110H"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J1 Ace",
+    "codename": "j1pop3g",
+    "model": "SM-J110L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j53g",
+    "model": "SM-J500H"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5lte",
+    "model": "SM-J5007"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5lte",
+    "model": "SM-J500F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5lte",
+    "model": "SM-J500G"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5lte",
+    "model": "SM-J500M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5ltechn",
+    "model": "SM-J5008"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5ltekx",
+    "model": "SM-J500N0"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5nlte",
+    "model": "SM-J500FN"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5ylte",
+    "model": "SM-J500Y"
   },
   {
     "manufacturer": "Samsung",
