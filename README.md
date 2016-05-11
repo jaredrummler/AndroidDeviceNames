@@ -60,7 +60,7 @@ Or simply copy the [DeviceName](https://raw.githubusercontent.com/jaredrummler/A
 Apps using this library
 -----------------------
 
-[**Root Check**](http://rootcheck.jrummyapps.com/)
+[**Root Check**](http://rootcheck.jrummyapps.com/) <small>1,000,000 - 5,000,000 downloads</small>
 
 <a href='https://play.google.com/store/apps/details?id=com.jrummyapps.rootchecker'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="186" height="72"/></a>
 
