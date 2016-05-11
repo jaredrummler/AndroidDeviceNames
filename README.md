@@ -60,7 +60,13 @@ Or simply copy the [DeviceName](https://raw.githubusercontent.com/jaredrummler/A
 Apps using this library
 -----------------------
 
-* [Root Check](https://play.google.com/store/apps/details?id=com.jrummyapps.rootchecker)
+**Root Check**
+
+<a href='https://play.google.com/store/apps/details?id=com.jrummyapps.rootchecker'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="186" height="72"/></a>
+
+and [more](https://github.com/search?q=com.jaredrummler%3Aandroid-device-names+in%3Afile+extension%3Agradle&ref=searchresults&type=Code&utf8=%E2%9C%93)
+
+
 
 License
 --------
