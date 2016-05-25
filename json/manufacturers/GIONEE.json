@@ -17,6 +17,11 @@
       "model": "F103"
     },
     {
+      "market_name": "F103 Pro",
+      "codename": "GIONEE_GBL7360",
+      "model": "F103 Pro"
+    },
+    {
       "market_name": "F103L",
       "codename": "GiONEE_GBL7319",
       "model": "F103L"
@@ -245,6 +250,11 @@
       "market_name": "W900S",
       "codename": "GiONEE_BFL7506A",
       "model": "W900S"
+    },
+    {
+      "market_name": "W909",
+      "codename": "GiONEE_BFL7512B",
+      "model": "W909"
     }
   ]
 }

@@ -2,6 +2,16 @@
   "manufacturer": "Zuk",
   "devices": [
     {
+      "market_name": "ZTE B2015",
+      "codename": "msm8916_64",
+      "model": "ZTE B2015"
+    },
+    {
+      "market_name": "ZTE BLADE A5 PRO",
+      "codename": "P731A20",
+      "model": "ZTE BLADE A5 PRO"
+    },
+    {
       "market_name": "ZUK Z1",
       "codename": "Z1",
       "model": "Z1"

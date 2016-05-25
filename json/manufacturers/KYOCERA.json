@@ -97,6 +97,11 @@
       "model": "KYOCERA-E6790"
     },
     {
+      "market_name": "DuraForce XD",
+      "codename": "E6790TM",
+      "model": "E6790TM"
+    },
+    {
       "market_name": "DuraScout",
       "codename": "E6782L",
       "model": "E6782L"
@@ -175,6 +180,11 @@
       "market_name": "Hydro PLUS",
       "codename": "C5171R",
       "model": "Hydro_PLUS"
+    },
+    {
+      "market_name": "Hydro REACH",
+      "codename": "C6743",
+      "model": "C6743"
     },
     {
       "market_name": "Hydro VIBE",
@@ -265,6 +275,11 @@
       "market_name": "S301",
       "codename": "KC-S301AE",
       "model": "KC-S301AE"
+    },
+    {
+      "market_name": "SZJ201",
+      "codename": "SZJ201",
+      "model": "SZJ-JS201"
     },
     {
       "market_name": "TORQUE",

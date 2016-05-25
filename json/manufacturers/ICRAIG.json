@@ -2,6 +2,11 @@
   "manufacturer": "iCraig",
   "devices": [
     {
+      "market_name": "CLP293",
+      "codename": "CLP293",
+      "model": "CLP293"
+    },
+    {
       "market_name": "CMP791",
       "codename": "CMP791",
       "model": "CMP791"

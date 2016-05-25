@@ -157,6 +157,11 @@
       "model": "P01T"
     },
     {
+      "market_name": "ASUS_ Zenfone Max",
+      "codename": "ASUS_Z010_2",
+      "model": "ASUS_Z010DD"
+    },
+    {
       "market_name": "Cube",
       "codename": "asus_google_cube",
       "model": "asus_google_cube"
@@ -878,6 +883,11 @@
     },
     {
       "market_name": "ZenPad 10 (Z300M)",
+      "codename": "P00C_1",
+      "model": "P00C"
+    },
+    {
+      "market_name": "ZenPad 10 (Z300M)",
       "codename": "P00C_2",
       "model": "P00C"
     },
@@ -905,6 +915,11 @@
       "market_name": "ZenPad 7.0(Z370KL)",
       "codename": "P002_1",
       "model": "P002"
+    },
+    {
+      "market_name": "ZenPad 8.0 (Z380M)",
+      "codename": "P00A_1",
+      "model": "P00A"
     },
     {
       "market_name": "ZenPad 8.0 (Z380M)",
@@ -1010,6 +1025,11 @@
       "market_name": "Zenfone MAX",
       "codename": "ASUS_Z010_CD",
       "model": "ASUS_Z010D"
+    },
+    {
+      "market_name": "Zenfone MAX",
+      "codename": "ASUS_Z010_CD",
+      "model": "ASUS_Z010DA"
     },
     {
       "market_name": "Zenfone MAX (ZC550KL)",

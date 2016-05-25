@@ -47,6 +47,11 @@
       "model": "AX4Nano_plus"
     },
     {
+      "market_name": "AX501Q",
+      "codename": "AX501Q",
+      "model": "AX501Q"
+    },
+    {
       "market_name": "C6 Duo",
       "codename": "C6_Duo",
       "model": "C6_Duo"
@@ -360,6 +365,11 @@
       "market_name": "X2 Soul Xtreme",
       "codename": "X2_Soul_Xtreme",
       "model": "X2_Soul_Xtreme"
+    },
+    {
+      "market_name": "X3 Soul Pro",
+      "codename": "X3_Soul_PRO",
+      "model": "X3_Soul_PRO"
     },
     {
       "market_name": "X3 Soul mini",

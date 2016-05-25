@@ -2,6 +2,11 @@
   "manufacturer": "Obi",
   "devices": [
     {
+      "market_name": "OBJ SJ1.5",
+      "codename": "SJ1-5",
+      "model": "SJ1-5"
+    },
+    {
       "market_name": "Obi MV1",
       "codename": "yam",
       "model": "Obi MV1"

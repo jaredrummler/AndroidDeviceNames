@@ -1512,6 +1512,11 @@
       "model": "LG-VS700PP"
     },
     {
+      "market_name": "LG Escape 3",
+      "codename": "m1v",
+      "model": "LG-K373"
+    },
+    {
       "market_name": "LG Escape2",
       "codename": "c70n",
       "model": "LG-H443"
@@ -1724,6 +1729,11 @@
     {
       "market_name": "LG G Pad F\\xe2\\x84\\xa2 8.0 2nd Gen",
       "codename": "t8lte",
+      "model": "LG-AK495"
+    },
+    {
+      "market_name": "LG G Pad F\\xe2\\x84\\xa2 8.0 2nd Gen",
+      "codename": "t8lte",
       "model": "LG-UK495"
     },
     {
@@ -1740,6 +1750,11 @@
       "market_name": "LG G Pad II 8.3",
       "codename": "altev2",
       "model": "LG-P815L"
+    },
+    {
+      "market_name": "LG G Pad III 8.0 FHD",
+      "codename": "b3",
+      "model": "LG-V525"
     },
     {
       "market_name": "LG G Pad X 8.0",
@@ -2129,6 +2144,11 @@
     {
       "market_name": "LG G5",
       "codename": "h1",
+      "model": "LG-H820PR"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
       "model": "LG-H830"
     },
     {
@@ -2165,6 +2185,11 @@
       "market_name": "LG G5",
       "codename": "h1",
       "model": "LGUS992"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
+      "model": "RS988"
     },
     {
       "market_name": "LG G5",
@@ -2292,7 +2317,17 @@
       "model": "LG-X210"
     },
     {
-      "market_name": "LG K8 LTE",
+      "market_name": "LG K8",
+      "codename": "m1v",
+      "model": "LGAS375"
+    },
+    {
+      "market_name": "LG K8",
+      "codename": "m1v",
+      "model": "LGUS375"
+    },
+    {
+      "market_name": "LG K8",
       "codename": "mm1v",
       "model": "LG-K350"
     },
@@ -2300,6 +2335,11 @@
       "market_name": "LG K8 LTE",
       "codename": "mm1vn",
       "model": "LG-K350"
+    },
+    {
+      "market_name": "LG K8 V",
+      "codename": "m1v",
+      "model": "VS500"
     },
     {
       "market_name": "LG L39C",
@@ -3227,21 +3267,6 @@
       "model": "LG-K371"
     },
     {
-      "market_name": "LG Phoenix 2",
-      "codename": "m1v",
-      "model": "LG-K373"
-    },
-    {
-      "market_name": "LG Phoenix 2",
-      "codename": "m1v",
-      "model": "LGAS375"
-    },
-    {
-      "market_name": "LG Phoenix 2",
-      "codename": "m1v",
-      "model": "LGUS375"
-    },
-    {
       "market_name": "LG Power",
       "codename": "y50c",
       "model": "LGL22C"
@@ -3265,6 +3290,16 @@
       "market_name": "LG RAY",
       "codename": "d2",
       "model": "LG-X190"
+    },
+    {
+      "market_name": "LG Rebel",
+      "codename": "e1q",
+      "model": "LGL43AL"
+    },
+    {
+      "market_name": "LG Rebel",
+      "codename": "e1q",
+      "model": "LGL44VL"
     },
     {
       "market_name": "LG Revolution",
@@ -3344,6 +3379,11 @@
     {
       "market_name": "LG Stylus2 4G",
       "codename": "ph2",
+      "model": "LG-K535"
+    },
+    {
+      "market_name": "LG Stylus2 Plus",
+      "codename": "ph2n",
       "model": "LG-K535"
     },
     {

@@ -912,6 +912,11 @@
       "model": "Lenovo A2010l36"
     },
     {
+      "market_name": "Lenovo A2020a40",
+      "codename": "angus3A4",
+      "model": "Lenovo A2020a40"
+    },
+    {
       "market_name": "Lenovo A2105",
       "codename": "Lenovo_A2105",
       "model": "Lenovo_A2105"
@@ -1510,6 +1515,21 @@
       "market_name": "Lenovo K32",
       "codename": "K32c36",
       "model": "Lenovo K32c36"
+    },
+    {
+      "market_name": "Lenovo K5",
+      "codename": "A6020a40",
+      "model": "Lenovo A6020a40"
+    },
+    {
+      "market_name": "Lenovo K5",
+      "codename": "A6020a41",
+      "model": "Lenovo A6020a41"
+    },
+    {
+      "market_name": "Lenovo K5 Plus",
+      "codename": "A6020a46",
+      "model": "Lenovo A6020a46"
     },
     {
       "market_name": "Lenovo K50",

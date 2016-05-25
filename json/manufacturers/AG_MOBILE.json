@@ -2,6 +2,11 @@
   "manufacturer": "AG Mobile",
   "devices": [
     {
+      "market_name": "AG Ultra2",
+      "codename": "AG_Ultra2",
+      "model": "Ultra 2"
+    },
+    {
       "market_name": "AG_Go-Tab_Access",
       "codename": "md789hwag",
       "model": "AG Go-Tab Access"
@@ -22,9 +27,19 @@
       "model": "Chacer"
     },
     {
+      "market_name": "Freedom Plus LTE",
+      "codename": "Freedom_Plus_LTE",
+      "model": "Freedom Plus LTE"
+    },
+    {
       "market_name": "Ghost",
       "codename": "Ghost",
       "model": "Ghost"
+    },
+    {
+      "market_name": "Glow",
+      "codename": "Glow",
+      "model": "Glow"
     },
     {
       "market_name": "HASHTAG",

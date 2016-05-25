@@ -202,6 +202,11 @@
       "model": "HTC Desire 825"
     },
     {
+      "market_name": "Desire 825 Dual Sim",
+      "codename": "htc_a56dugl",
+      "model": "HTC Desire 825 dual sim"
+    },
+    {
       "market_name": "Desire 826",
       "codename": "htc_a52dwgl",
       "model": "HTC D826d"
@@ -403,6 +408,11 @@
     },
     {
       "market_name": "HTC 10",
+      "codename": "htc_pmec2tuhl",
+      "model": "HTC M10u"
+    },
+    {
+      "market_name": "HTC 10",
       "codename": "htc_pmeuhl",
       "model": "HTC 10"
     },
@@ -415,6 +425,11 @@
       "market_name": "HTC 10",
       "codename": "htc_pmewl",
       "model": "HTC 10"
+    },
+    {
+      "market_name": "HTC 10",
+      "codename": "htc_pmewl",
+      "model": "HTC6545LVW"
     },
     {
       "market_name": "HTC 5060 dual sim",
@@ -909,6 +924,11 @@
     {
       "market_name": "HTC Desire 530",
       "codename": "htc_a16ul",
+      "model": "HTC 2PST1"
+    },
+    {
+      "market_name": "HTC Desire 530",
+      "codename": "htc_a16ul",
       "model": "HTC Desire 530"
     },
     {
@@ -1122,6 +1142,16 @@
       "model": "HTC Desire 626s"
     },
     {
+      "market_name": "HTC Desire 630 dual sim",
+      "codename": "htc_a16dwgl",
+      "model": "HTC 2PST5"
+    },
+    {
+      "market_name": "HTC Desire 630 dual sim",
+      "codename": "htc_a16dwgl",
+      "model": "HTC Desire 630 dual sim"
+    },
+    {
       "market_name": "HTC Desire 700 dual sim",
       "codename": "cp5dug",
       "model": "HTC Desire 700 dual sim"
@@ -1270,6 +1300,16 @@
       "market_name": "HTC Desire 825",
       "codename": "htc_a56uhl",
       "model": "HTC_D825u"
+    },
+    {
+      "market_name": "HTC Desire 825 dual sim",
+      "codename": "htc_a56dugl",
+      "model": "HTC 2PUK1"
+    },
+    {
+      "market_name": "HTC Desire 825 dual sim",
+      "codename": "htc_a56dugl",
+      "model": "HTC Desire 825 dual sim"
     },
     {
       "market_name": "HTC Desire 826",
@@ -1455,6 +1495,11 @@
       "market_name": "HTC Desire815G",
       "codename": "htc_a5mgp_u",
       "model": "HTC Desire 816G"
+    },
+    {
+      "market_name": "HTC Desrie D530",
+      "codename": "htc_a16ul",
+      "model": "HTC 2PST1"
     },
     {
       "market_name": "HTC Desrie D530",
@@ -2087,6 +2132,16 @@
       "model": "HTC One S Special Edition"
     },
     {
+      "market_name": "HTC One S9",
+      "codename": "htc_himar2uhl",
+      "model": "HTC 2PRG100"
+    },
+    {
+      "market_name": "HTC One S9",
+      "codename": "htc_himar2uhl",
+      "model": "HTC One S9"
+    },
+    {
       "market_name": "HTC One SC",
       "codename": "cp2dcg",
       "model": "HTC One SC"
@@ -2539,6 +2594,11 @@
     {
       "market_name": "HTC_M9e",
       "codename": "htc_himaruhl",
+      "model": "HTC One M9_Prime Camera Edition"
+    },
+    {
+      "market_name": "HTC_M9e",
+      "codename": "htc_himaruhl",
       "model": "HTC One M9s"
     },
     {
@@ -2675,6 +2735,11 @@
       "market_name": "Sensation 4G",
       "codename": "pyramid",
       "model": "HTC-Z710a"
+    },
+    {
+      "market_name": "Telstra Signature\\xe2\\x84\\xa2 Premium",
+      "codename": "htc_hiaeuhl",
+      "model": "HTC 2PQ910"
     },
     {
       "market_name": "Thunderbolt",

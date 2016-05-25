@@ -122,6 +122,11 @@
       "model": "A3-A30"
     },
     {
+      "market_name": "A3-A40",
+      "codename": "acer_jetfirefhd",
+      "model": "A3-A40"
+    },
+    {
       "market_name": "AK330s",
       "codename": "C8n",
       "model": "AK330S"
@@ -595,6 +600,11 @@
       "market_name": "Liquid Zest",
       "codename": "acer_t06",
       "model": "T06"
+    },
+    {
+      "market_name": "Liquid Zest 4G",
+      "codename": "acer_t07",
+      "model": "T07"
     },
     {
       "market_name": "LiquidMT",

@@ -267,6 +267,11 @@
       "model": "SKY IM-A600S"
     },
     {
+      "market_name": "V955",
+      "codename": "HS8929QC",
+      "model": "Pantech V955"
+    },
+    {
       "market_name": "VEGA RACER",
       "codename": "ef34k",
       "model": "IM-A770K"
@@ -345,6 +350,11 @@
       "market_name": "ef14lv",
       "codename": "ef14lv",
       "model": "IM-A725L"
+    },
+    {
+      "market_name": "v955",
+      "codename": "HS8929QC",
+      "model": "Pantech V955"
     }
   ]
 }

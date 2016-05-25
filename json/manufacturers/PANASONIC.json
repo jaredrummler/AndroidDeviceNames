@@ -47,6 +47,11 @@
       "model": "55AX600C"
     },
     {
+      "market_name": "55DX600C",
+      "codename": "DX600C",
+      "model": "TH-55DX600C"
+    },
+    {
       "market_name": "AS650C",
       "codename": "AS650C",
       "model": "AS650C"
@@ -192,6 +197,11 @@
       "model": "FZ-B2B"
     },
     {
+      "market_name": "FZ-B2D",
+      "codename": "fz_b2d",
+      "model": "FZ-B2D"
+    },
+    {
       "market_name": "FZ-N1",
       "codename": "FZ-N1",
       "model": "FZ-N1"
@@ -203,6 +213,11 @@
     },
     {
       "market_name": "FZ-N1",
+      "codename": "FZ-N1VUC",
+      "model": "FZ-N1"
+    },
+    {
+      "market_name": "FZ-X1",
       "codename": "FZ-N1VUC",
       "model": "FZ-N1"
     },
@@ -410,6 +425,16 @@
       "market_name": "SmartTVBox",
       "codename": "C01AS",
       "model": "SMARTTVBOX"
+    },
+    {
+      "market_name": "T30",
+      "codename": "T30",
+      "model": "Panasonic T30"
+    },
+    {
+      "market_name": "T44 Lite",
+      "codename": "T44-Lite",
+      "model": "Panasonic T44 Lite"
     },
     {
       "market_name": "TAB-A01",

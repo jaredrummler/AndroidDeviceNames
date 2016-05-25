@@ -13,12 +13,6 @@
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "ALE-L21",
-    "codename": "hwALE-H",
-    "model": "ALE-L21"
-  },
-  {
-    "manufacturer": "Huawei",
     "market_name": "ALE-L23",
     "codename": "hwALE-H",
     "model": "ALE-L23"
@@ -28,6 +22,12 @@
     "market_name": "ALE-L23",
     "codename": "hwALE-H",
     "model": "Autana LTE"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Mate 8 Lite",
+    "codename": "hwALE-H",
+    "model": "ALE-L21"
   },
   {
     "manufacturer": "Huawei",

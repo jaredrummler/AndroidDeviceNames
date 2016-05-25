@@ -42,6 +42,16 @@
       "model": "BLU LIFE MARK"
     },
     {
+      "market_name": "NEO ENERGY MINI",
+      "codename": "BLU_NEO_ENERGY_MINI",
+      "model": "BLU NEO ENERGY MINI"
+    },
+    {
+      "market_name": "NEO X",
+      "codename": "BLU_NEO_X",
+      "model": "BLU NEO X"
+    },
+    {
       "market_name": "NEO X PLUS",
       "codename": "BLU_NEO_X_PLUS",
       "model": "BLU NEO X PLUS"
@@ -75,6 +85,11 @@
       "market_name": "STUDIO ONE PLUS",
       "codename": "BLU_STUDIO_ONE_PLUS",
       "model": "BLU STUDIO ONE PLUS"
+    },
+    {
+      "market_name": "STUDIO SELFIE 2",
+      "codename": "BLU_STUDIO_SELFIE_2",
+      "model": "BLU STUDIO SELFIE 2"
     },
     {
       "market_name": "SUTDIO ENERGY 2",

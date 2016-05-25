@@ -6508,6 +6508,11 @@
     },
     {
       "market_name": "Galaxy Tab E 8.0",
+      "codename": "gtesltebmc",
+      "model": "SM-T377W"
+    },
+    {
+      "market_name": "Galaxy Tab E 8.0",
       "codename": "gtesltelgt",
       "model": "SM-T375L"
     },
@@ -6718,6 +6723,16 @@
     },
     {
       "market_name": "Galaxy Tab S2 8.0",
+      "codename": "gts28vewifi",
+      "model": "SM-T713"
+    },
+    {
+      "market_name": "Galaxy Tab S2 8.0",
+      "codename": "gts28vewifichn",
+      "model": "SM-T713"
+    },
+    {
+      "market_name": "Galaxy Tab S2 8.0",
       "codename": "gts28wifi",
       "model": "SM-T710"
     },
@@ -6785,6 +6800,16 @@
       "market_name": "Galaxy Tab S2 9.7",
       "codename": "gts210velte",
       "model": "SM-T819"
+    },
+    {
+      "market_name": "Galaxy Tab S2 9.7",
+      "codename": "gts210vewifi",
+      "model": "SM-T813"
+    },
+    {
+      "market_name": "Galaxy Tab S2 9.7",
+      "codename": "gts210vewifichn",
+      "model": "SM-T813"
     },
     {
       "market_name": "Galaxy Tab S2 9.7",

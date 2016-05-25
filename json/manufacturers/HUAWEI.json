@@ -1427,11 +1427,6 @@
       "model": "HUAWEI A199"
     },
     {
-      "market_name": "ALE-CL00",
-      "codename": "hwALE-Q",
-      "model": "HUAWEI ALE-CL00"
-    },
-    {
       "market_name": "ALE-L02",
       "codename": "hwALE-H",
       "model": "503HW"
@@ -1445,11 +1440,6 @@
       "market_name": "ALE-L04",
       "codename": "hwALE-Q",
       "model": "HUAWEI ALE-L04"
-    },
-    {
-      "market_name": "ALE-L21",
-      "codename": "hwALE-H",
-      "model": "ALE-L21"
     },
     {
       "market_name": "ALE-L23",
@@ -2537,6 +2527,36 @@
       "model": "KIW-TL00H"
     },
     {
+      "market_name": "Honor 7",
+      "codename": "HWPLK",
+      "model": "PLK-AL10"
+    },
+    {
+      "market_name": "Honor 7",
+      "codename": "HWPLK",
+      "model": "PLK-CL00"
+    },
+    {
+      "market_name": "Honor 7",
+      "codename": "HWPLK",
+      "model": "PLK-L01"
+    },
+    {
+      "market_name": "Honor 7",
+      "codename": "HWPLK",
+      "model": "PLK-TL00"
+    },
+    {
+      "market_name": "Honor 7",
+      "codename": "HWPLK",
+      "model": "PLK-TL01H"
+    },
+    {
+      "market_name": "Honor 7",
+      "codename": "HWPLK",
+      "model": "PLK-UL00"
+    },
+    {
       "market_name": "Honor 7i",
       "codename": "HWATH",
       "model": "ATH-AL00"
@@ -2780,6 +2800,16 @@
       "market_name": "Mate 8",
       "codename": "HWNXT",
       "model": "HUAWEI NXT-TL00"
+    },
+    {
+      "market_name": "Mate 8 Lite",
+      "codename": "hwALE-H",
+      "model": "ALE-L21"
+    },
+    {
+      "market_name": "Mate 8 Lite",
+      "codename": "hwALE-Q",
+      "model": "HUAWEI ALE-CL00"
     },
     {
       "market_name": "Mate S",
@@ -3065,36 +3095,6 @@
       "market_name": "PE-UL00",
       "codename": "hwPE",
       "model": "PE-UL00"
-    },
-    {
-      "market_name": "PLK-AL10",
-      "codename": "HWPLK",
-      "model": "PLK-AL10"
-    },
-    {
-      "market_name": "PLK-CL00",
-      "codename": "HWPLK",
-      "model": "PLK-CL00"
-    },
-    {
-      "market_name": "PLK-L01",
-      "codename": "HWPLK",
-      "model": "PLK-L01"
-    },
-    {
-      "market_name": "PLK-TL00",
-      "codename": "HWPLK",
-      "model": "PLK-TL00"
-    },
-    {
-      "market_name": "PLK-TL01H",
-      "codename": "HWPLK",
-      "model": "PLK-TL01H"
-    },
-    {
-      "market_name": "PLK-UL00",
-      "codename": "HWPLK",
-      "model": "PLK-UL00"
     },
     {
       "market_name": "Prism II",

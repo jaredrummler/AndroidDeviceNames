@@ -2,6 +2,11 @@
   "manufacturer": "Karbonn",
   "devices": [
     {
+      "market_name": "Aura Power",
+      "codename": "Aura_Power",
+      "model": "Aura_Power"
+    },
+    {
       "market_name": "Sparkle V",
       "codename": "Sparkle_V_sprout",
       "model": "Sparkle V"
