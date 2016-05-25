@@ -1,1 +1,1 @@
-include ':library', ':android-devices', ':example'
+include ':library', ':android-devices', ':demo'
