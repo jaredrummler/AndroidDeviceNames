@@ -2,6 +2,11 @@
   "manufacturer": "Njoy",
   "devices": [
     {
+      "market_name": "Chronos_10",
+      "codename": "Chronos_10",
+      "model": "Chronos_10"
+    },
+    {
       "market_name": "nJoy Kali 8",
       "codename": "Kali_8",
       "model": "Kali_8"

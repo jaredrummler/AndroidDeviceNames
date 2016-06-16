@@ -22,6 +22,11 @@
       "model": "MusicPAD"
     },
     {
+      "market_name": "Navo QS",
+      "codename": "Navo_QS",
+      "model": "Navo_QS"
+    },
+    {
       "market_name": "Pluri M7",
       "codename": "Pluri_M7",
       "model": "Pluri_M7"
@@ -50,6 +55,11 @@
       "market_name": "ZUN XO",
       "codename": "ZUN_XO",
       "model": "ZUN XO"
+    },
+    {
+      "market_name": "Zun X",
+      "codename": "Zun_X",
+      "model": "Zun X"
     }
   ]
 }

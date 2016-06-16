@@ -7,6 +7,11 @@
       "model": "BLU LIFE XL"
     },
     {
+      "market_name": "BLU TOUCHBOOK M7",
+      "codename": "BLU_TOUCHBOOK_M7",
+      "model": "BLU TOUCHBOOK M7"
+    },
+    {
       "market_name": "DASH X LTE",
       "codename": "DASH_X_LTE",
       "model": "BLU DASH X LTE"
@@ -17,9 +22,24 @@
       "model": "DASH X PLUS LTE"
     },
     {
+      "market_name": "Dash 4.5",
+      "codename": "D730",
+      "model": "Dash 4.5"
+    },
+    {
       "market_name": "Dash X",
       "codename": "BLU_DASH_X",
       "model": "BLU DASH X"
+    },
+    {
+      "market_name": "ENERGY  XL",
+      "codename": "BLU_ENERGY_XL",
+      "model": "ENERGY XL"
+    },
+    {
+      "market_name": "ENERGY_DIAMOND_MINI",
+      "codename": "ENERGY_DIAMOND_MINI",
+      "model": "ENERGY_DIAMOND_MINI"
     },
     {
       "market_name": "Energy X 2",
@@ -105,6 +125,11 @@
       "market_name": "Studio C HD",
       "codename": "BLU_STUDIO_C_HD",
       "model": "BLU STUDIO C HD"
+    },
+    {
+      "market_name": "Studio G HD",
+      "codename": "STUDIO_G_HD",
+      "model": "STUDIO_G_HD"
     },
     {
       "market_name": "Studio One",

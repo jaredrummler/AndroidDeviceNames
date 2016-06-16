@@ -2,6 +2,11 @@
   "manufacturer": "Zuk",
   "devices": [
     {
+      "market_name": "Z2",
+      "codename": "z2_plus",
+      "model": "ZUK Z2131"
+    },
+    {
       "market_name": "ZTE B2015",
       "codename": "msm8916_64",
       "model": "ZTE B2015"
@@ -15,6 +20,11 @@
       "market_name": "ZUK Z1",
       "codename": "Z1",
       "model": "Z1"
+    },
+    {
+      "market_name": "ZUK Z1",
+      "codename": "Z1",
+      "model": "ZUK Z1"
     },
     {
       "market_name": "ZUK Z1",

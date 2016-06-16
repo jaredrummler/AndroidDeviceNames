@@ -932,6 +932,11 @@
       "model": "P01Y"
     },
     {
+      "market_name": "ZenPad C 7.0",
+      "codename": "P01Y_S",
+      "model": "P01Y_S"
+    },
+    {
       "market_name": "ZenPad C 7.0 (Z170C)",
       "codename": "P01Z",
       "model": "P01Z"
@@ -1000,6 +1005,16 @@
       "market_name": "Zenfone GO",
       "codename": "ASUS_X014D_2",
       "model": "ASUS_X014D"
+    },
+    {
+      "market_name": "Zenfone Go",
+      "codename": "ASUS_L001_1",
+      "model": "ASUS_L001"
+    },
+    {
+      "market_name": "Zenfone Go",
+      "codename": "ASUS_L001_2",
+      "model": "ASUS_L001"
     },
     {
       "market_name": "Zenfone Go (ASUS_Z00SD)",

@@ -1,8 +1,26 @@
 [
   {
     "manufacturer": "LGE",
+    "market_name": "LG Stylo 2 Plus",
+    "codename": "ph2n",
+    "model": "LG-K550"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "LG Stylus2 Plus",
     "codename": "ph2n",
     "model": "LG-K535"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Stylus2 Plus",
+    "codename": "ph2n",
+    "model": "LG-K535n"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Stylus2 Plus",
+    "codename": "ph2n",
+    "model": "LGMS550"
   }
 ]

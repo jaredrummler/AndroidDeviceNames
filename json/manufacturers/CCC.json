@@ -1,0 +1,15 @@
+{
+  "manufacturer": "CCC",
+  "devices": [
+    {
+      "market_name": "LifeStick",
+      "codename": "ts201",
+      "model": "LifeStick"
+    },
+    {
+      "market_name": "TSUTAYA Stick",
+      "codename": "ts201",
+      "model": "TStick"
+    }
+  ]
+}

@@ -185,6 +185,16 @@
       "market_name": "Venus_V3_5040",
       "codename": "Venus_V3_5045",
       "model": "Venus_V3_5040_2GB"
+    },
+    {
+      "market_name": "venus_v3_5010",
+      "codename": "DynoLight",
+      "model": "Venus_V3_5010"
+    },
+    {
+      "market_name": "venus_v3_5030",
+      "codename": "Dyno",
+      "model": "Venus_V3_5030"
     }
   ]
 }

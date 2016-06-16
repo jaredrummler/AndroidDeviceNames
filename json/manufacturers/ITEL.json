@@ -2,14 +2,49 @@
   "manufacturer": "Itel",
   "devices": [
     {
+      "market_name": "it1355",
+      "codename": "itel_it1355",
+      "model": "itel it1355"
+    },
+    {
+      "market_name": "it1407",
+      "codename": "itel_it1407",
+      "model": "itel it1407"
+    },
+    {
       "market_name": "it1505",
       "codename": "itel_it1505",
       "model": "itel_it1505"
     },
     {
+      "market_name": "it1506",
+      "codename": "itel_it1506",
+      "model": "itel it1506"
+    },
+    {
+      "market_name": "it1507",
+      "codename": "itel_it1507",
+      "model": "itel it1507"
+    },
+    {
+      "market_name": "it1508",
+      "codename": "itel_it1508",
+      "model": "itel it1508"
+    },
+    {
       "market_name": "it1550",
       "codename": "itel_it1550",
       "model": "itel_it1550"
+    },
+    {
+      "market_name": "it1551",
+      "codename": "itel_it1551",
+      "model": "itel it1551"
+    },
+    {
+      "market_name": "it1556",
+      "codename": "itel_it1556",
+      "model": "itel it1556"
     },
     {
       "market_name": "it1702",

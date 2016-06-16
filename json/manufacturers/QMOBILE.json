@@ -12,6 +12,11 @@
       "model": "LT650"
     },
     {
+      "market_name": "LT680",
+      "codename": "QMobile_LT680",
+      "model": "LT680"
+    },
+    {
       "market_name": "LT700",
       "codename": "GBL7325QM",
       "model": "LT700"
@@ -45,6 +50,11 @@
       "market_name": "Qmobile i6 Metal ONE",
       "codename": "i6_Metal_ONE",
       "model": "QMobile i6 Metal ONE"
+    },
+    {
+      "market_name": "S2 Plus",
+      "codename": "S2_Plus",
+      "model": "QMobile S2 Plus"
     },
     {
       "market_name": "W70",

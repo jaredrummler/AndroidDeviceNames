@@ -467,6 +467,11 @@
       "model": "S55"
     },
     {
+      "market_name": "Liquid Jade 2",
+      "codename": "acer_s58a",
+      "model": "S58A"
+    },
+    {
       "market_name": "Liquid Jade S",
       "codename": "acer_S56",
       "model": "S56"
@@ -605,6 +610,11 @@
       "market_name": "Liquid Zest 4G",
       "codename": "acer_t07",
       "model": "T07"
+    },
+    {
+      "market_name": "Liquid Zest Plus",
+      "codename": "acer_t08",
+      "model": "T08"
     },
     {
       "market_name": "LiquidMT",

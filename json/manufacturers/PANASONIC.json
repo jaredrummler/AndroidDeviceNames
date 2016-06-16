@@ -172,6 +172,11 @@
       "model": "Panasonic ELUGA Arc"
     },
     {
+      "market_name": "Eluga Arc 2",
+      "codename": "Eluga_Arc_2",
+      "model": "Eluga_Arc_2"
+    },
+    {
       "market_name": "Eluga I2",
       "codename": "ELUGA_I2",
       "model": "ELUGA_I2"
@@ -187,9 +192,19 @@
       "model": "Panasonic ELUGA Icon 2"
     },
     {
+      "market_name": "Eluga_Note",
+      "codename": "ELUGA_Note",
+      "model": "ELUGA Note"
+    },
+    {
       "market_name": "FZ-A1",
       "codename": "toughpad",
       "model": "FZ-A1B"
+    },
+    {
+      "market_name": "FZ-A2A",
+      "codename": "fz_a2a",
+      "model": "FZ-A2A"
     },
     {
       "market_name": "FZ-B2",
@@ -290,6 +305,11 @@
       "market_name": "P75",
       "codename": "P75",
       "model": "Panasonic P75"
+    },
+    {
+      "market_name": "P77",
+      "codename": "P77",
+      "model": "Panasonic P77"
     },
     {
       "market_name": "Panasonic ELUGA A",

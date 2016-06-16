@@ -52,6 +52,11 @@
       "model": "BRAVIA 4K 2015"
     },
     {
+      "market_name": "BRAVIA 4K GB",
+      "codename": "BRAVIA_ATV2",
+      "model": "BRAVIA 4K GB"
+    },
+    {
       "market_name": "BRAVIA Smart Stick",
       "codename": "NSZGU1",
       "model": "NSZ-GU1"
@@ -285,6 +290,16 @@
       "market_name": "Xperia E4g Dual",
       "codename": "E2043",
       "model": "E2043"
+    },
+    {
+      "market_name": "Xperia E5",
+      "codename": "F3311",
+      "model": "F3311"
+    },
+    {
+      "market_name": "Xperia E5",
+      "codename": "F3313",
+      "model": "F3313"
     },
     {
       "market_name": "Xperia Go",
@@ -585,6 +600,71 @@
       "market_name": "Xperia X",
       "codename": "F5122",
       "model": "F5122"
+    },
+    {
+      "market_name": "Xperia X Performance",
+      "codename": "502SO",
+      "model": "502SO"
+    },
+    {
+      "market_name": "Xperia X Performance",
+      "codename": "F8131",
+      "model": "F8131"
+    },
+    {
+      "market_name": "Xperia X Performance",
+      "codename": "F8132",
+      "model": "F8132"
+    },
+    {
+      "market_name": "Xperia XA",
+      "codename": "F3111",
+      "model": "F3111"
+    },
+    {
+      "market_name": "Xperia XA",
+      "codename": "F3112",
+      "model": "F3112"
+    },
+    {
+      "market_name": "Xperia XA",
+      "codename": "F3113",
+      "model": "F3113"
+    },
+    {
+      "market_name": "Xperia XA",
+      "codename": "F3115",
+      "model": "F3115"
+    },
+    {
+      "market_name": "Xperia XA",
+      "codename": "F3116",
+      "model": "F3116"
+    },
+    {
+      "market_name": "Xperia XA Ultra",
+      "codename": "F3211",
+      "model": "F3211"
+    },
+    {
+      "market_name": "Xperia XA Ultra",
+      "codename": "F3212",
+      "model": "F3212"
+    },
+    {
+      "market_name": "Xperia XA Ultra",
+      "codename": "F3213",
+      "model": "F3213"
+    },
+    {
+      "market_name": "Xperia XA Ultra",
+      "codename": "F3215",
+      "model": "F3215"
+    },
+    {
+      "market_name": "Xperia XA Ultra",
+      "codename": "F3216",
+      "model": "F3216"
     },
     {
       "market_name": "Xperia Z",

@@ -73,6 +73,11 @@
     },
     {
       "market_name": "K-KOOL",
+      "codename": "T2800AN",
+      "model": "K-KOOL"
+    },
+    {
+      "market_name": "K-KOOL",
       "codename": "V2800AN",
       "model": "K-KOOL"
     },
@@ -217,6 +222,11 @@
       "model": "ROBBY"
     },
     {
+      "market_name": "ROBBY",
+      "codename": "V3750AN24K",
+      "model": "ROBBY"
+    },
+    {
       "market_name": "SELFY",
       "codename": "SELFY",
       "model": "SELFY"
@@ -245,6 +255,16 @@
       "market_name": "SUNSET2",
       "codename": "s4050ap",
       "model": "SUNSET2"
+    },
+    {
+      "market_name": "TOMMY",
+      "codename": "P4901AC",
+      "model": "TOMMY"
+    },
+    {
+      "market_name": "U FEEL",
+      "codename": "P6601AE",
+      "model": "U FEEL"
     },
     {
       "market_name": "U FEEL LITE",

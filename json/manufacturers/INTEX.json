@@ -2,6 +2,11 @@
   "manufacturer": "Intex",
   "devices": [
     {
+      "market_name": "Intex Aqua Power 4G",
+      "codename": "Intex_Aqua_Power_4G",
+      "model": "Aqua Power 4G"
+    },
+    {
       "market_name": "Intex Aqua Pride",
       "codename": "AquaPride",
       "model": "Aqua Pride"

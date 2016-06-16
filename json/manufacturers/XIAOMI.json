@@ -154,6 +154,11 @@
     {
       "market_name": "MI 4LTE",
       "codename": "cancro",
+      "model": "MI 4C"
+    },
+    {
+      "market_name": "MI 4LTE",
+      "codename": "cancro",
       "model": "MI 4LTE"
     },
     {
@@ -170,6 +175,11 @@
       "market_name": "MI 4s",
       "codename": "aqua",
       "model": "MI 4S"
+    },
+    {
+      "market_name": "MI MAX",
+      "codename": "hydrogen",
+      "model": "MI MAX"
     },
     {
       "market_name": "MI NOTE LTE",

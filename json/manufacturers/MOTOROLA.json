@@ -928,6 +928,11 @@
     },
     {
       "market_name": "Moto G (3rd Gen)",
+      "codename": "osprey_ud2",
+      "model": "MotoG3"
+    },
+    {
+      "market_name": "Moto G (3rd Gen)",
       "codename": "osprey_uds",
       "model": "MotoG3"
     },
@@ -938,21 +943,6 @@
     },
     {
       "market_name": "Moto G (3rd Gen)",
-      "codename": "osprey_umts",
-      "model": "MotoG3"
-    },
-    {
-      "market_name": "Moto G (gen3)",
-      "codename": "osprey_u2",
-      "model": "MotoG3"
-    },
-    {
-      "market_name": "Moto G (gen3)",
-      "codename": "osprey_ud2",
-      "model": "MotoG3"
-    },
-    {
-      "market_name": "Moto G (gen3)",
       "codename": "osprey_umts",
       "model": "MotoG3"
     },
@@ -1015,6 +1005,11 @@
       "market_name": "Moto G with 4G LTE (2nd Gen)",
       "codename": "thea_umtsds",
       "model": "XT1078"
+    },
+    {
+      "market_name": "Moto G4 Plus",
+      "codename": "athene_f",
+      "model": "Moto G (4)"
     },
     {
       "market_name": "Moto MAXX",

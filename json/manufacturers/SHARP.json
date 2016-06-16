@@ -47,6 +47,11 @@
       "model": "SHARP-ADS1"
     },
     {
+      "market_name": "AN-NP40",
+      "codename": "an_np40",
+      "model": "AN-NP40"
+    },
+    {
       "market_name": "AQUOS CRYSTAL 2",
       "codename": "SG403SH",
       "model": "403SH"
@@ -327,6 +332,11 @@
       "model": "SHV32"
     },
     {
+      "market_name": "AQUOS SERIE SHV34",
+      "codename": "SHV34",
+      "model": "SHV34"
+    },
+    {
       "market_name": "AQUOS SERIE mini SHV31",
       "codename": "SHV31",
       "model": "SHV31"
@@ -362,6 +372,11 @@
       "model": "404SH"
     },
     {
+      "market_name": "AQUOS Xx 3",
+      "codename": "SG506SH",
+      "model": "506SH"
+    },
+    {
       "market_name": "AQUOS Xx 304SH",
       "codename": "SG304SH",
       "model": "304SH"
@@ -395,6 +410,11 @@
       "market_name": "AQUOS ZETA SH-04F",
       "codename": "SH-04F",
       "model": "SH-04F"
+    },
+    {
+      "market_name": "AQUOS ZETA SH-04H",
+      "codename": "SH-04H",
+      "model": "SH-04H"
     },
     {
       "market_name": "AQUOS \\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\xa4 SH-06G",
@@ -740,6 +760,11 @@
       "market_name": "Yahoo! Phone SoftBank 009SH Y",
       "codename": "SBM009SHY",
       "model": "SBM009SHY"
+    },
+    {
+      "market_name": "\\xe3\\x83\\xad\\xe3\\x83\\x9c\\xe3\\x83\\x9b\\xe3\\x83\\xb3",
+      "codename": "SR01MW",
+      "model": "SR01MW"
     }
   ]
 }

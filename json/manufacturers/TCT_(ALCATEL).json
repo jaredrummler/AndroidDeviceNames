@@ -582,6 +582,11 @@
       "model": "5065D"
     },
     {
+      "market_name": "5065N",
+      "codename": "Pop35",
+      "model": "5065N"
+    },
+    {
       "market_name": "5065W",
       "codename": "Pop35",
       "model": "5065W"
@@ -595,6 +600,11 @@
       "market_name": "5070D",
       "codename": "P3-5_4G",
       "model": "5070D"
+    },
+    {
+      "market_name": "5098O",
+      "codename": "Pixi4-6_4G_CKT",
+      "model": "Alcatel_5098O"
     },
     {
       "market_name": "5098O",
@@ -695,6 +705,11 @@
       "market_name": "6044D",
       "codename": "I1-5_4G",
       "model": "6044D"
+    },
+    {
+      "market_name": "6055B",
+      "codename": "idol4",
+      "model": "6055B"
     },
     {
       "market_name": "6055K",
@@ -1889,6 +1904,11 @@
     {
       "market_name": "ALCATEL ONETOUCH PIXI 4 (4)",
       "codename": "Pixi4-4",
+      "model": "4034F"
+    },
+    {
+      "market_name": "ALCATEL ONETOUCH PIXI 4 (4)",
+      "codename": "Pixi4-4",
       "model": "4034G"
     },
     {
@@ -2910,6 +2930,31 @@
       "market_name": "P688L",
       "codename": "Rio5C",
       "model": "TOM007"
+    },
+    {
+      "market_name": "PIXI 4 (5)",
+      "codename": "Pixi4-5",
+      "model": "5010D"
+    },
+    {
+      "market_name": "PIXI 4 (5)",
+      "codename": "Pixi4-5",
+      "model": "5010E"
+    },
+    {
+      "market_name": "PIXI 4 (5)",
+      "codename": "Pixi4-5",
+      "model": "5010G"
+    },
+    {
+      "market_name": "PIXI 4 (5)",
+      "codename": "Pixi4-5",
+      "model": "5010S"
+    },
+    {
+      "market_name": "PIXI 4 (5)",
+      "codename": "Pixi4-5",
+      "model": "5010U"
     },
     {
       "market_name": "PIXI3(4)",

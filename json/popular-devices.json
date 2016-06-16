@@ -4123,6 +4123,18 @@
   },
   {
     "manufacturer": "Samsung",
+    "market_name": "Galaxy On5",
+    "codename": "on5ltemtr",
+    "model": "SM-G550T1"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On5",
+    "codename": "on5ltetmo",
+    "model": "SM-G550T"
+  },
+  {
+    "manufacturer": "Samsung",
     "market_name": "Galaxy On7",
     "codename": "o7lte",
     "model": "SM-G600FY"
@@ -5516,6 +5528,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S7",
+    "codename": "heroqlteue",
+    "model": "SM-G930U"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
     "codename": "heroqlteusc",
     "model": "SM-G930R4"
   },
@@ -5524,6 +5542,12 @@
     "market_name": "Galaxy S7",
     "codename": "heroqltevzw",
     "model": "SM-G930V"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "SCV33",
+    "model": "SCV33"
   },
   {
     "manufacturer": "Samsung",
@@ -5588,6 +5612,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S7 Edge",
+    "codename": "hero2qlteue",
+    "model": "SM-G935U"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
     "codename": "hero2qlteusc",
     "model": "SM-G935R4"
   },
@@ -5596,12 +5626,6 @@
     "market_name": "Galaxy S7 Edge",
     "codename": "hero2qltevzw",
     "model": "SM-G935V"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S7 edge",
-    "codename": "SCV33",
-    "model": "SCV33"
   },
   {
     "manufacturer": "Samsung",
@@ -5716,6 +5740,12 @@
     "market_name": "Galaxy Tab 7.0 Plus",
     "codename": "SHW-M430W",
     "model": "SHW-M430W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab E 8.0",
+    "codename": "gteslteatt",
+    "model": "SAMSUNG-SM-T377A"
   },
   {
     "manufacturer": "Samsung",

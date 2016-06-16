@@ -1659,7 +1659,17 @@
     {
       "market_name": "K83",
       "codename": "K83",
+      "model": "Amazing_P8"
+    },
+    {
+      "market_name": "K83",
+      "codename": "K83",
       "model": "K83"
+    },
+    {
+      "market_name": "K85",
+      "codename": "K85",
+      "model": "K85"
     },
     {
       "market_name": "K97",
@@ -2682,11 +2692,6 @@
       "model": "myPadP4"
     },
     {
-      "market_name": "VFD 200",
-      "codename": "P731V35",
-      "model": "VFD 200"
-    },
-    {
       "market_name": "Vip Racer III",
       "codename": "atlas40",
       "model": "Vip Racer III"
@@ -3080,6 +3085,11 @@
       "market_name": "ZTE Blade A470",
       "codename": "P809A40",
       "model": "ZTE Blade A470"
+    },
+    {
+      "market_name": "ZTE Blade A476",
+      "codename": "ZTE_Blade_A476",
+      "model": "BLADE E01"
     },
     {
       "market_name": "ZTE Blade A476",
@@ -3855,6 +3865,11 @@
       "market_name": "ZTE N939Sc",
       "codename": "zx55q05_64",
       "model": "ZTE N939Sc"
+    },
+    {
+      "market_name": "ZTE N939Sc",
+      "codename": "zx55q05_64",
+      "model": "ZTE N939St"
     },
     {
       "market_name": "ZTE N983",
