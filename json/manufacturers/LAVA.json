@@ -17,6 +17,16 @@
       "model": "A71"
     },
     {
+      "market_name": "A79",
+      "codename": "LA79",
+      "model": "A79"
+    },
+    {
+      "market_name": "A82",
+      "codename": "LA82",
+      "model": "A82"
+    },
+    {
       "market_name": "Era 4G",
       "codename": "era_4G",
       "model": "era_4G"
@@ -32,9 +42,44 @@
       "model": "S1"
     },
     {
+      "market_name": "Iris 505",
+      "codename": "iris505",
+      "model": "iris505"
+    },
+    {
+      "market_name": "Lava A72",
+      "codename": "A72",
+      "model": "A72"
+    },
+    {
+      "market_name": "Lava A89",
+      "codename": "A89",
+      "model": "Lava A89"
+    },
+    {
       "market_name": "Lava V2 3GB",
       "codename": "V23GB",
       "model": "V23GB"
+    },
+    {
+      "market_name": "Lava X12",
+      "codename": "X12",
+      "model": "X12"
+    },
+    {
+      "market_name": "Lava X38",
+      "codename": "X38",
+      "model": "X38"
+    },
+    {
+      "market_name": "Lava X38 2GB",
+      "codename": "X382GB",
+      "model": "X38 2GB"
+    },
+    {
+      "market_name": "Lava X81",
+      "codename": "X81",
+      "model": "X81"
     },
     {
       "market_name": "P7",
@@ -69,6 +114,11 @@
     {
       "market_name": "X10",
       "codename": "X10",
+      "model": "LavaX10"
+    },
+    {
+      "market_name": "X10",
+      "codename": "X10",
       "model": "X10"
     },
     {
@@ -80,6 +130,11 @@
       "market_name": "X3",
       "codename": "X3",
       "model": "X3"
+    },
+    {
+      "market_name": "X46",
+      "codename": "LX46",
+      "model": "X46"
     },
     {
       "market_name": "XOLO LT900",

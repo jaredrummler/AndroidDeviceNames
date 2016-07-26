@@ -2,6 +2,16 @@
   "manufacturer": "Wileyfox",
   "devices": [
     {
+      "market_name": "Spark",
+      "codename": "porridge",
+      "model": "Wileyfox Spark"
+    },
+    {
+      "market_name": "Spark",
+      "codename": "porridge",
+      "model": "Wileyfox Spark +"
+    },
+    {
       "market_name": "Storm",
       "codename": "kipper",
       "model": "Wileyfox Storm"

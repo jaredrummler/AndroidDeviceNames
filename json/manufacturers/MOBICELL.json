@@ -27,6 +27,11 @@
       "model": "HERO_X"
     },
     {
+      "market_name": "Icon",
+      "codename": "Mobicel_Icon",
+      "model": "Icon"
+    },
+    {
       "market_name": "METRO2",
       "codename": "METRO2",
       "model": "MOBICEL METRO2"
@@ -45,6 +50,11 @@
       "market_name": "Mobicel",
       "codename": "Venus",
       "model": "Venus"
+    },
+    {
+      "market_name": "Mobicel ICE",
+      "codename": "ICE",
+      "model": "ICE"
     },
     {
       "market_name": "ONYX",

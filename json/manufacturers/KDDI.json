@@ -2,9 +2,19 @@
   "manufacturer": "KDDI",
   "devices": [
     {
+      "market_name": "HTV32",
+      "codename": "htc_pmeuhljapan",
+      "model": "HTV32"
+    },
+    {
       "market_name": "Power Up Unit",
       "codename": "C02BB1",
       "model": "C02BB1"
+    },
+    {
+      "market_name": "STW2000",
+      "codename": "H02ST1",
+      "model": "STW2000"
     }
   ]
 }

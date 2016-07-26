@@ -212,6 +212,11 @@
       "model": "F-04G"
     },
     {
+      "market_name": "F-04H",
+      "codename": "F04H",
+      "model": "F-04H"
+    },
+    {
       "market_name": "F-05F",
       "codename": "F05F",
       "model": "F-05F"
@@ -362,6 +367,11 @@
       "model": "SZJ-JS101"
     },
     {
+      "market_name": "TM20",
+      "codename": "STF",
+      "model": "TM20"
+    },
+    {
       "market_name": "arrows M02",
       "codename": "M02",
       "model": "M02"
@@ -370,6 +380,11 @@
       "market_name": "arrows Tab M01T",
       "codename": "M01T",
       "model": "M01T"
+    },
+    {
+      "market_name": "arrowsM03",
+      "codename": "M03",
+      "model": "arrowsM03"
     }
   ]
 }

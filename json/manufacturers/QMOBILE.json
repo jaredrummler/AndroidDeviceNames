@@ -57,6 +57,16 @@
       "model": "QMobile S2 Plus"
     },
     {
+      "market_name": "S2 Pro",
+      "codename": "S2_Pro",
+      "model": "S2 Pro"
+    },
+    {
+      "market_name": "S4",
+      "codename": "QMobile_S4",
+      "model": "S4"
+    },
+    {
       "market_name": "W70",
       "codename": "W70",
       "model": "W70"
@@ -80,6 +90,11 @@
       "market_name": "Z12",
       "codename": "CBL7521QM",
       "model": "Z12"
+    },
+    {
+      "market_name": "Z12 PRO",
+      "codename": "Z12_PRO",
+      "model": "Z12 PRO"
     },
     {
       "market_name": "Z9 Plus",

@@ -47,6 +47,11 @@
       "model": "PLT7650G"
     },
     {
+      "market_name": "PLT7770G",
+      "codename": "PLT7770G",
+      "model": "PLT7770G"
+    },
+    {
       "market_name": "PLT7803G",
       "codename": "PLT7803G",
       "model": "PLT7803G"
@@ -85,6 +90,11 @@
       "market_name": "PLT9650G",
       "codename": "PLT9650G",
       "model": "PLT9650G"
+    },
+    {
+      "market_name": "PLT9999G",
+      "codename": "PLT9999G",
+      "model": "PLT9999G"
     },
     {
       "market_name": "PROSCAN PLT8235G Tablet",

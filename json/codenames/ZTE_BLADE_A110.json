@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "BLADE A110",
+    "codename": "ZTE_BLADE_A110",
+    "model": "BLADE A110"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "ZTE BLADE A110",
     "codename": "ZTE_BLADE_A110",
     "model": "ZTE BLADE A110"

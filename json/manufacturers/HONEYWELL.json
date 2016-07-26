@@ -7,6 +7,16 @@
       "model": "Dolphin 70e Black"
     },
     {
+      "market_name": "70eLGN",
+      "codename": "dblack_gn",
+      "model": "Dolphin 70e Black"
+    },
+    {
+      "market_name": "70eLGN",
+      "codename": "dblack_go",
+      "model": "Dolphin 70e Black"
+    },
+    {
       "market_name": "70eLW0",
       "codename": "dblack_wo",
       "model": "Dolphin 70e Black"
@@ -55,6 +65,11 @@
       "market_name": "Dolphin CT50",
       "codename": "CT50LUN-CS13S",
       "model": "CT50"
+    },
+    {
+      "market_name": "EDA50",
+      "codename": "eda50-111",
+      "model": "Glory50"
     },
     {
       "market_name": "Honeywell CN51",

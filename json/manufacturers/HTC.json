@@ -409,12 +409,37 @@
     {
       "market_name": "HTC 10",
       "codename": "htc_pmec2tuhl",
+      "model": "HTC 10"
+    },
+    {
+      "market_name": "HTC 10",
+      "codename": "htc_pmec2tuhl",
+      "model": "HTC 10 Lifestyle"
+    },
+    {
+      "market_name": "HTC 10",
+      "codename": "htc_pmec2tuhl",
+      "model": "HTC 2PS63"
+    },
+    {
+      "market_name": "HTC 10",
+      "codename": "htc_pmec2tuhl",
       "model": "HTC M10u"
     },
     {
       "market_name": "HTC 10",
       "codename": "htc_pmeuhl",
       "model": "HTC 10"
+    },
+    {
+      "market_name": "HTC 10",
+      "codename": "htc_pmeuhl",
+      "model": "HTC 2PS6200"
+    },
+    {
+      "market_name": "HTC 10",
+      "codename": "htc_pmeuhl",
+      "model": "HTC M10h"
     },
     {
       "market_name": "HTC 10",
@@ -934,6 +959,11 @@
     {
       "market_name": "HTC Desire 530",
       "codename": "htc_a16ul",
+      "model": "HTC 2PST2"
+    },
+    {
+      "market_name": "HTC Desire 530",
+      "codename": "htc_a16ul",
       "model": "HTC Desire 530"
     },
     {
@@ -1147,6 +1177,21 @@
       "model": "HTC Desire 626s"
     },
     {
+      "market_name": "HTC Desire 628",
+      "codename": "htc_v36bml_uhl",
+      "model": "HTC Desire 628"
+    },
+    {
+      "market_name": "HTC Desire 628 dual sim",
+      "codename": "htc_v36bml_dugl",
+      "model": "HTC 2PVG2"
+    },
+    {
+      "market_name": "HTC Desire 628 dual sim",
+      "codename": "htc_v36bml_dugl",
+      "model": "HTC Desire 628 dual sim"
+    },
+    {
       "market_name": "HTC Desire 630 dual sim",
       "codename": "htc_a16dwgl",
       "model": "HTC 2PST5"
@@ -1185,6 +1230,16 @@
       "market_name": "HTC Desire 709d",
       "codename": "cp5dwg",
       "model": "HTC 709d"
+    },
+    {
+      "market_name": "HTC Desire 728",
+      "codename": "htc_a50cml_tuhl",
+      "model": "HTC 2PQ84"
+    },
+    {
+      "market_name": "HTC Desire 728",
+      "codename": "htc_a50cml_tuhl",
+      "model": "HTC Desire 728"
     },
     {
       "market_name": "HTC Desire 728G dual sim",
@@ -1353,6 +1408,11 @@
     },
     {
       "market_name": "HTC Desire 828 dual sim",
+      "codename": "htc_a51bml_dtul",
+      "model": "HTC Desire 828 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 828 dual sim",
       "codename": "htc_a51bml_dwgl",
       "model": "HTC 2PRE2"
     },
@@ -1360,6 +1420,31 @@
       "market_name": "HTC Desire 828 dual sim",
       "codename": "htc_a51bml_dwgl",
       "model": "HTC Desire 828 dual sim"
+    },
+    {
+      "market_name": "HTC Desire 830",
+      "codename": "htc_a51cml_tuhl",
+      "model": "HTC Desire 830"
+    },
+    {
+      "market_name": "HTC Desire 830",
+      "codename": "htc_a51cml_tuhl",
+      "model": "HTC_D830x"
+    },
+    {
+      "market_name": "HTC Desire 830 dual sim",
+      "codename": "htc_a51cml_dtul",
+      "model": "HTC 2PVD1"
+    },
+    {
+      "market_name": "HTC Desire 830 dual sim",
+      "codename": "htc_a51cml_dtul",
+      "model": "HTC D830u"
+    },
+    {
+      "market_name": "HTC Desire 830 dual sim",
+      "codename": "htc_a51cml_dtul",
+      "model": "HTC Desire 830 dual sim"
     },
     {
       "market_name": "HTC Desire C",
@@ -2147,6 +2232,11 @@
       "model": "HTC One S9"
     },
     {
+      "market_name": "HTC One S9",
+      "codename": "htc_himar2uhl",
+      "model": "HTC_S9u"
+    },
+    {
       "market_name": "HTC One SC",
       "codename": "cp2dcg",
       "model": "HTC One SC"
@@ -2235,6 +2325,11 @@
       "market_name": "HTC One X9",
       "codename": "htc_e56ml_tuhl",
       "model": "HTC 2PS5200"
+    },
+    {
+      "market_name": "HTC One X9 dual sim",
+      "codename": "htc_e56ml_dtul",
+      "model": "HTC One X9 dual sim"
     },
     {
       "market_name": "HTC One X9 dual sim",
@@ -2545,6 +2640,11 @@
       "market_name": "HTC_D626q",
       "codename": "htc_a32ml_dtul",
       "model": "HTC_D626q"
+    },
+    {
+      "market_name": "HTC_D628u",
+      "codename": "htc_v36bml_uhl",
+      "model": "HTC_D628u"
     },
     {
       "market_name": "HTC_D728x",

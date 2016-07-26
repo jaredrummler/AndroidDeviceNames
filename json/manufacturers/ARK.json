@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Ark",
+  "devices": [
+    {
+      "market_name": "ARK Benefit M503",
+      "codename": "Benefit_M503",
+      "model": "Benefit_M503"
+    },
+    {
+      "market_name": "ARK Benefit_M8",
+      "codename": "Benefit_M8",
+      "model": "Benefit_M8"
+    },
+    {
+      "market_name": "ARK Impulse P2",
+      "codename": "Impulse_P2",
+      "model": "Impulse_P2"
+    }
+  ]
+}

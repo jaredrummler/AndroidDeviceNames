@@ -2,6 +2,11 @@
   "manufacturer": "Plaisio",
   "devices": [
     {
+      "market_name": "CalltabII 10.1",
+      "codename": "E1031H2C",
+      "model": "Calltab10.1"
+    },
+    {
       "market_name": "Coral II",
       "codename": "CoralII",
       "model": "Turbo-X Coral II"
@@ -22,9 +27,19 @@
       "model": "Hive V 3G"
     },
     {
+      "market_name": "I4G",
+      "codename": "I4G",
+      "model": "TURBOX_I4G"
+    },
+    {
       "market_name": "\"Rainbow II 3G 8\"\"\"",
       "codename": "mr801",
       "model": "RainbowII 3G"
+    },
+    {
+      "market_name": "RainbowIII3G",
+      "codename": "RainbowIII3G",
+      "model": "RainbowIII3G"
     },
     {
       "market_name": "Rubik-II",

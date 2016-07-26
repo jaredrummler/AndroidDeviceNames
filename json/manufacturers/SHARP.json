@@ -37,6 +37,11 @@
       "model": "401SH"
     },
     {
+      "market_name": "507SH",
+      "codename": "eve_sprout",
+      "model": "507SH"
+    },
+    {
       "market_name": "A01SH",
       "codename": "A01SH",
       "model": "A01SH"
@@ -80,6 +85,16 @@
       "market_name": "AQUOS K SHF32",
       "codename": "SHF32",
       "model": "SHF32"
+    },
+    {
+      "market_name": "AQUOS K SHF33",
+      "codename": "SHF33",
+      "model": "SHF33"
+    },
+    {
+      "market_name": "AQUOS P1",
+      "codename": "P1X",
+      "model": "P1X"
     },
     {
       "market_name": "AQUOS PAD  SHT22",
@@ -367,6 +382,11 @@
       "model": "SH-RM02"
     },
     {
+      "market_name": "AQUOS U SHV35",
+      "codename": "SHV35",
+      "model": "SHV35"
+    },
+    {
       "market_name": "AQUOS Xx",
       "codename": "SG404SH",
       "model": "404SH"
@@ -415,6 +435,11 @@
       "market_name": "AQUOS ZETA SH-04H",
       "codename": "SH-04H",
       "model": "SH-04H"
+    },
+    {
+      "market_name": "AQUOS mini SH-M03",
+      "codename": "SH-M03",
+      "model": "SH-M03"
     },
     {
       "market_name": "AQUOS \\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\xa4 SH-06G",

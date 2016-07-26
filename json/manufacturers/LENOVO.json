@@ -897,6 +897,16 @@
       "model": "Lenovo A1000"
     },
     {
+      "market_name": "Lenovo A1000m",
+      "codename": "scx35_sp7731gea_taichi",
+      "model": "Lenovo A1000m"
+    },
+    {
+      "market_name": "Lenovo A1010",
+      "codename": "A1010a20",
+      "model": "Lenovo A1010a20"
+    },
+    {
       "market_name": "Lenovo A1900",
       "codename": "A1900",
       "model": "Lenovo A1900"
@@ -912,8 +922,18 @@
       "model": "Lenovo A2010l36"
     },
     {
+      "market_name": "Lenovo A2016a40",
+      "codename": "A2016a40",
+      "model": "Lenovo A2016a40"
+    },
+    {
       "market_name": "Lenovo A2020a40",
       "codename": "angus3A4",
+      "model": "Lenovo A2020a40"
+    },
+    {
+      "market_name": "Lenovo A2020a40",
+      "codename": "angus3A41",
       "model": "Lenovo A2020a40"
     },
     {
@@ -1237,6 +1257,11 @@
       "model": "Lenovo A6000-l"
     },
     {
+      "market_name": "Lenovo A6010",
+      "codename": "A6010",
+      "model": "Lenovo A6010"
+    },
+    {
       "market_name": "Lenovo A606",
       "codename": "A606",
       "model": "Lenovo A606"
@@ -1483,6 +1508,11 @@
     },
     {
       "market_name": "Lenovo K3 Note",
+      "codename": "aio_3m_otfp_m",
+      "model": "Lenovo K50-t3s"
+    },
+    {
+      "market_name": "Lenovo K3 Note",
       "codename": "aio_otfp",
       "model": "Lenovo K50-T5"
     },
@@ -1517,6 +1547,11 @@
       "model": "Lenovo K32c36"
     },
     {
+      "market_name": "Lenovo K32c30",
+      "codename": "K32c30",
+      "model": "Lenovo K32c30"
+    },
+    {
       "market_name": "Lenovo K5",
       "codename": "A6020a40",
       "model": "Lenovo A6020a40"
@@ -1527,9 +1562,34 @@
       "model": "Lenovo A6020a41"
     },
     {
+      "market_name": "Lenovo K5",
+      "codename": "A6020l36",
+      "model": "Lenovo A6020l36"
+    },
+    {
+      "market_name": "Lenovo K5",
+      "codename": "A6020l37",
+      "model": "Lenovo A6020l37"
+    },
+    {
+      "market_name": "Lenovo K5 Note",
+      "codename": "A7020a40",
+      "model": "Lenovo A7020a40"
+    },
+    {
       "market_name": "Lenovo K5 Note",
       "codename": "A7020a48",
       "model": "Lenovo A7020a48"
+    },
+    {
+      "market_name": "Lenovo K5 Note",
+      "codename": "k52_e78",
+      "model": "Lenovo K52e78"
+    },
+    {
+      "market_name": "Lenovo K5 Note",
+      "codename": "k52_t58",
+      "model": "Lenovo K52t58"
     },
     {
       "market_name": "Lenovo K5 Plus",
@@ -1545,6 +1605,11 @@
       "market_name": "Lenovo K50",
       "codename": "aio_3m_otfp",
       "model": "Lenovo K50-t3s"
+    },
+    {
+      "market_name": "Lenovo K50-T5",
+      "codename": "aio_otfp_m",
+      "model": "Lenovo K50-t5"
     },
     {
       "market_name": "Lenovo K52t38",
@@ -1942,6 +2007,31 @@
       "model": "Lenovo TAB S8-50LC"
     },
     {
+      "market_name": "Lenovo TAB3 730F",
+      "codename": "TB3-730F",
+      "model": "Lenovo TB3-730F"
+    },
+    {
+      "market_name": "Lenovo TAB3 730M",
+      "codename": "TB3-730M",
+      "model": "Lenovo TB3-730M"
+    },
+    {
+      "market_name": "Lenovo TAB3 730X",
+      "codename": "TB3-730X",
+      "model": "Lenovo TB3-730X"
+    },
+    {
+      "market_name": "Lenovo TAB3 X70L",
+      "codename": "TB3-X70L",
+      "model": "Lenovo TB3-X70L"
+    },
+    {
+      "market_name": "Lenovo TAB3 X70N",
+      "codename": "TB3-X70N",
+      "model": "Lenovo TB3-X70N"
+    },
+    {
       "market_name": "Lenovo TB2-X30F",
       "codename": "TB2-X30F",
       "model": "Lenovo TB2-X30F"
@@ -1952,9 +2042,29 @@
       "model": "Lenovo TB2-X30L"
     },
     {
+      "market_name": "Lenovo TB2-X30M",
+      "codename": "TB2-X30M",
+      "model": "Lenovo TB2-X30M"
+    },
+    {
       "market_name": "Lenovo TB3-710F",
       "codename": "TB3-710F",
       "model": "Lenovo TB3-710F"
+    },
+    {
+      "market_name": "Lenovo TB3-710I",
+      "codename": "TB3-710I",
+      "model": "Lenovo TB3-710I"
+    },
+    {
+      "market_name": "Lenovo TB3-X70F",
+      "codename": "TB3-X70F",
+      "model": "Lenovo TB3-X70F"
+    },
+    {
+      "market_name": "Lenovo VIBE K10",
+      "codename": "K10a40",
+      "model": "Lenovo K10a40"
     },
     {
       "market_name": "Lenovo VIBE X3 Lite",
@@ -1964,6 +2074,11 @@
     {
       "market_name": "Lenovo VIBE X3 Lite",
       "codename": "k5fp",
+      "model": "Lenovo K51c78"
+    },
+    {
+      "market_name": "Lenovo VIBE X3 Lite",
+      "codename": "k5fp_m",
       "model": "Lenovo K51c78"
     },
     {
@@ -2160,6 +2275,11 @@
       "market_name": "Lenvo S960",
       "codename": "S960_ROW",
       "model": "Lenovo S960"
+    },
+    {
+      "market_name": "Moto E3 Power",
+      "codename": "taido_row",
+      "model": "XT1706"
     },
     {
       "market_name": "P780",

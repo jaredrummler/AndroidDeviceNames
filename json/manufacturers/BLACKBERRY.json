@@ -2,9 +2,24 @@
   "manufacturer": "BlackBerry",
   "devices": [
     {
+      "market_name": "DTEK50 by BlackBerry",
+      "codename": "hamburg",
+      "model": "STH100-1"
+    },
+    {
+      "market_name": "DTEK50 by BlackBerry",
+      "codename": "hamburg",
+      "model": "STH100-2"
+    },
+    {
       "market_name": "PRIV by BlackBerry",
       "codename": "venice",
       "model": "STV100-1"
+    },
+    {
+      "market_name": "PRIV by BlackBerry",
+      "codename": "venice",
+      "model": "STV100-2"
     },
     {
       "market_name": "PRIV by BlackBerry",

@@ -1007,6 +1007,16 @@
       "model": "XT1078"
     },
     {
+      "market_name": "Moto G4",
+      "codename": "athene",
+      "model": "Moto G (4)"
+    },
+    {
+      "market_name": "Moto G4",
+      "codename": "athene_t",
+      "model": "Moto G (4)"
+    },
+    {
       "market_name": "Moto G4 Plus",
       "codename": "athene_f",
       "model": "Moto G (4)"
@@ -1235,6 +1245,11 @@
       "market_name": "Motorola Atrix HD",
       "codename": "qinara",
       "model": "MB886"
+    },
+    {
+      "market_name": "Motorola HS1",
+      "codename": "Motorola_HS1",
+      "model": "Motorola_HS1"
     },
     {
       "market_name": "Motorola Master Touch",

@@ -107,6 +107,11 @@
       "model": "G31s"
     },
     {
+      "market_name": "G40",
+      "codename": "G40",
+      "model": "G40"
+    },
+    {
       "market_name": "G700",
       "codename": "G700",
       "model": "G700"
@@ -267,6 +272,11 @@
       "model": "M7808"
     },
     {
+      "market_name": "MD-01P",
+      "codename": "MD-01P",
+      "model": "MD-01P"
+    },
+    {
       "market_name": "MD210",
       "codename": "MD210",
       "model": "MD210"
@@ -280,6 +290,16 @@
       "market_name": "MT-700",
       "codename": "MT-700",
       "model": "MT-700"
+    },
+    {
+      "market_name": "MXG308",
+      "codename": "MXG308",
+      "model": "MXG308"
+    },
+    {
+      "market_name": "MXG408",
+      "codename": "MXG408",
+      "model": "MXG408"
     },
     {
       "market_name": "NEO10-1",

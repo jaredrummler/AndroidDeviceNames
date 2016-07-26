@@ -3097,6 +3097,12 @@
   },
   {
     "manufacturer": "Samsung",
+    "market_name": "Galaxy J1",
+    "codename": "j1xqltespr",
+    "model": "SM-J120P"
+  },
+  {
+    "manufacturer": "Samsung",
     "market_name": "Galaxy J1 Ace",
     "codename": "j1acelte",
     "model": "SM-J110F"
@@ -4124,6 +4130,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy On5",
+    "codename": "o5prolte",
+    "model": "SM-G550FY"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On5",
     "codename": "on5ltemtr",
     "model": "SM-G550T1"
   },
@@ -4132,6 +4144,12 @@
     "market_name": "Galaxy On5",
     "codename": "on5ltetmo",
     "model": "SM-G550T"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On5",
+    "codename": "on5ltetmo",
+    "model": "SM-G550T2"
   },
   {
     "manufacturer": "Samsung",
@@ -4144,6 +4162,24 @@
     "market_name": "Galaxy On7",
     "codename": "o7ltechn",
     "model": "SM-G6000"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On7",
+    "codename": "o7prolte",
+    "model": "SM-G600FY"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On7",
+    "codename": "on7elte",
+    "model": "SM-G600F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On7",
+    "codename": "on7nlteskt",
+    "model": "SM-G600S"
   },
   {
     "manufacturer": "Samsung",
@@ -5486,6 +5522,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S7",
+    "codename": "heroqltecctvzw",
+    "model": "SM-G930VC"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7",
     "codename": "heroqltechn",
     "model": "SM-G9300"
   },
@@ -5546,6 +5588,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S7 Edge",
+    "codename": "SC-02H",
+    "model": "SC-02H"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
     "codename": "SCV33",
     "model": "SCV33"
   },
@@ -5590,6 +5638,12 @@
     "market_name": "Galaxy S7 Edge",
     "codename": "hero2qlteatt",
     "model": "SAMSUNG-SM-G935A"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 Edge",
+    "codename": "hero2qltecctvzw",
+    "model": "SM-G935VC"
   },
   {
     "manufacturer": "Samsung",

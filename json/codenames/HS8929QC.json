@@ -103,6 +103,18 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "L671",
+    "codename": "HS8929QC",
+    "model": "HS-L671"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "L671",
+    "codename": "HS8929QC",
+    "model": "Hisense L671"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "L671W",
     "codename": "HS8929QC",
     "model": "HS-L671"
@@ -180,10 +192,22 @@
     "model": "Hisense C20"
   },
   {
+    "manufacturer": "Hisense",
+    "market_name": "l676be",
+    "codename": "HS8929QC",
+    "model": "Hisense L676"
+  },
+  {
     "manufacturer": "Pantech",
     "market_name": "V955",
     "codename": "HS8929QC",
     "model": "Pantech V955"
+  },
+  {
+    "manufacturer": "Pantech",
+    "market_name": "v950",
+    "codename": "HS8929QC",
+    "model": "Pantech V950"
   },
   {
     "manufacturer": "Pantech",

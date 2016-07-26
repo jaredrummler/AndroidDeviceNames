@@ -2,6 +2,21 @@
   "manufacturer": "Medion",
   "devices": [
     {
+      "market_name": "E4506",
+      "codename": "E4506",
+      "model": "MEDION E4506"
+    },
+    {
+      "market_name": "E5005",
+      "codename": "B5060",
+      "model": "B5060"
+    },
+    {
+      "market_name": "E5504",
+      "codename": "B5530",
+      "model": "MEDION B5530"
+    },
+    {
       "market_name": "LIFETAB E10316",
       "codename": "LIFETAB_E10316",
       "model": "BOSCH_E10316"
@@ -82,9 +97,44 @@
       "model": "MEDION E4502"
     },
     {
+      "market_name": "MEDION E5004",
+      "codename": "E5004",
+      "model": "MEDION E5004"
+    },
+    {
       "market_name": "P4501",
       "codename": "P4501",
       "model": "P4501"
+    },
+    {
+      "market_name": "P5004",
+      "codename": "P5004",
+      "model": "MEDION P5004"
+    },
+    {
+      "market_name": "P5005",
+      "codename": "P5005",
+      "model": "MEDION P5005"
+    },
+    {
+      "market_name": "P5015",
+      "codename": "P5015",
+      "model": "MEDION P5015"
+    },
+    {
+      "market_name": "S5004",
+      "codename": "S5004",
+      "model": "MEDION S5004"
+    },
+    {
+      "market_name": "S5504",
+      "codename": "B5531",
+      "model": "B5531"
+    },
+    {
+      "market_name": "X6001",
+      "codename": "X6001",
+      "model": "MEDION X6001"
     },
     {
       "market_name": "microstar E10319",

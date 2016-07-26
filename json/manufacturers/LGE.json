@@ -667,6 +667,11 @@
       "model": "DM-01G"
     },
     {
+      "market_name": "DM-02H",
+      "codename": "DM-02H",
+      "model": "DM-02H"
+    },
+    {
       "market_name": "Enact",
       "codename": "fx3q",
       "model": "VS890 4G"
@@ -1772,6 +1777,11 @@
       "model": "VK815"
     },
     {
+      "market_name": "LG G Pad\\xe2\\x84\\xa2 X 8.0",
+      "codename": "b3",
+      "model": "LG-V520"
+    },
+    {
       "market_name": "LG G Stylo",
       "codename": "g4stylusc",
       "model": "LGLS770"
@@ -2169,6 +2179,11 @@
     {
       "market_name": "LG G5",
       "codename": "h1",
+      "model": "LG-H858"
+    },
+    {
+      "market_name": "LG G5",
+      "codename": "h1",
       "model": "LG-H860"
     },
     {
@@ -2254,6 +2269,11 @@
     {
       "market_name": "LG K10",
       "codename": "m209n",
+      "model": "LG-K425"
+    },
+    {
+      "market_name": "LG K10",
+      "codename": "m209n",
       "model": "LG-K428"
     },
     {
@@ -2302,6 +2322,11 @@
       "model": "LG-K430"
     },
     {
+      "market_name": "LG K3 LTE",
+      "codename": "mme0n",
+      "model": "LG-K100"
+    },
+    {
       "market_name": "LG K4",
       "codename": "e1q",
       "model": "LG-K120GT"
@@ -2345,6 +2370,11 @@
       "market_name": "LG K8",
       "codename": "m1v",
       "model": "LGUS375"
+    },
+    {
+      "market_name": "LG K8",
+      "codename": "m1v",
+      "model": "RS500"
     },
     {
       "market_name": "LG K8",
@@ -3382,6 +3412,11 @@
       "model": "LG-K550"
     },
     {
+      "market_name": "LG Stylo 2 Plus",
+      "codename": "ph2n",
+      "model": "LG-K557"
+    },
+    {
       "market_name": "LG Stylus 2",
       "codename": "ph1",
       "model": "LG-F720K"
@@ -3512,6 +3547,26 @@
       "model": "LG-F610S"
     },
     {
+      "market_name": "LG X Skin",
+      "codename": "k6b",
+      "model": "LG-F740L"
+    },
+    {
+      "market_name": "LG X Style",
+      "codename": "k6b",
+      "model": "LG-K200"
+    },
+    {
+      "market_name": "LG X Style",
+      "codename": "k6b",
+      "model": "LGL53BL"
+    },
+    {
+      "market_name": "LG X Style",
+      "codename": "k6b",
+      "model": "LGL56VL"
+    },
+    {
       "market_name": "LG X cam",
       "codename": "k7",
       "model": "LG-F690L"
@@ -3520,6 +3575,36 @@
       "market_name": "LG X cam",
       "codename": "k7",
       "model": "LG-F690S"
+    },
+    {
+      "market_name": "LG X cam",
+      "codename": "k7",
+      "model": "LG-K580"
+    },
+    {
+      "market_name": "LG X cam",
+      "codename": "k7n",
+      "model": "LG-K580"
+    },
+    {
+      "market_name": "LG X cam",
+      "codename": "k7n",
+      "model": "LG-K580Y"
+    },
+    {
+      "market_name": "LG X max",
+      "codename": "mk6m",
+      "model": "LG-K240"
+    },
+    {
+      "market_name": "LG X power",
+      "codename": "k6p",
+      "model": "LG-K450"
+    },
+    {
+      "market_name": "LG X power",
+      "codename": "mk6p",
+      "model": "LG-K220"
     },
     {
       "market_name": "LG X screen",
@@ -3543,6 +3628,11 @@
     },
     {
       "market_name": "LG X screen",
+      "codename": "k5",
+      "model": "LGS02"
+    },
+    {
+      "market_name": "LG X screen",
       "codename": "k5n",
       "model": "LG-K500"
     },
@@ -3550,6 +3640,11 @@
       "market_name": "LG X screen",
       "codename": "k5n",
       "model": "LG-K500n"
+    },
+    {
+      "market_name": "LG X5",
+      "codename": "mk6m",
+      "model": "LG-F770S"
     },
     {
       "market_name": "LG ZONE",
@@ -4572,6 +4667,16 @@
       "model": "LG-P355"
     },
     {
+      "market_name": "Qua phone PX",
+      "codename": "JSG",
+      "model": "LGV33"
+    },
+    {
+      "market_name": "Qua tab PX",
+      "codename": "b3",
+      "model": "LGT31"
+    },
+    {
       "market_name": "Shine Plus with Google",
       "codename": "alohag",
       "model": "LG-C710h"
@@ -4750,6 +4855,11 @@
       "market_name": "Wine Smart",
       "codename": "vfp",
       "model": "LG-F480S"
+    },
+    {
+      "market_name": "X power",
+      "codename": "k6p",
+      "model": "LG-K210"
     },
     {
       "market_name": "Y25",

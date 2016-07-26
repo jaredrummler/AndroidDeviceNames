@@ -1,0 +1,15 @@
+{
+  "manufacturer": "iGet",
+  "devices": [
+    {
+      "market_name": "iGET_S100",
+      "codename": "iGET_S100",
+      "model": "S100"
+    },
+    {
+      "market_name": "iGET_SMART",
+      "codename": "iGET_SMART",
+      "model": "SMART"
+    }
+  ]
+}

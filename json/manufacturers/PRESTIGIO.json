@@ -22,6 +22,11 @@
       "model": "PSP7505DUO"
     },
     {
+      "market_name": "MT3237_3G",
+      "codename": "JP70A1W",
+      "model": "PMT3237_3G"
+    },
+    {
       "market_name": "MULTIPAD WIZE 3027",
       "codename": "HF80A01W",
       "model": "PMT3027_Wi"
@@ -102,6 +107,16 @@
       "model": "PSP5517DUO"
     },
     {
+      "market_name": "Multipad Wize 3408 4G",
+      "codename": "LS80A1L",
+      "model": "PMT3408_4G"
+    },
+    {
+      "market_name": "Multipad Wize 3508 4G",
+      "codename": "LS80A1L",
+      "model": "PMT3508_4G"
+    },
+    {
       "market_name": "Multipad Wize 3757 3G",
       "codename": "PMT3777_3G",
       "model": "PMT3757_3G"
@@ -157,14 +172,29 @@
       "model": "PMT3067_3G"
     },
     {
+      "market_name": "PMT3077_Wi",
+      "codename": "HF80A01W",
+      "model": "PMT3077_Wi"
+    },
+    {
       "market_name": "PMT3087_3G",
       "codename": "PMT3057_3G",
       "model": "PMT3087_3G"
     },
     {
+      "market_name": "PMT3137_3G",
+      "codename": "JP70A1W",
+      "model": "PMT3137_3G"
+    },
+    {
       "market_name": "PMT3177_3G",
       "codename": "PMT3177_3G",
       "model": "PMT3177_3G"
+    },
+    {
+      "market_name": "PMT3208_3G",
+      "codename": "PN80A03G",
+      "model": "PMT3208_3G"
     },
     {
       "market_name": "PMT3277_3G",
@@ -175,6 +205,21 @@
       "market_name": "PMT3287_3G",
       "codename": "PMT3287_3G",
       "model": "PMT3287_3G"
+    },
+    {
+      "market_name": "PMT3351_3G",
+      "codename": "PN10A01G",
+      "model": "PMT3351_3G"
+    },
+    {
+      "market_name": "PMT3437_3G",
+      "codename": "JP70A1W",
+      "model": "PMT3437_3G"
+    },
+    {
+      "market_name": "PMT3608_4G",
+      "codename": "LS80A1L",
+      "model": "PMT3608_4G"
     },
     {
       "market_name": "PMT3677_Wi",
@@ -190,6 +235,11 @@
       "market_name": "PMT3777_3G",
       "codename": "PMT3777_3G",
       "model": "PMT3777_3G"
+    },
+    {
+      "market_name": "PMT3797_3G",
+      "codename": "JU70A1G",
+      "model": "PMT3797_3G"
     },
     {
       "market_name": "PMT5001_3G",
@@ -262,6 +312,11 @@
       "model": "PMT7787_3G"
     },
     {
+      "market_name": "PSP3403DUO",
+      "codename": "GF40B1G",
+      "model": "PSP3403DUO"
+    },
+    {
       "market_name": "PSP3404DUO",
       "codename": "PSP3404DUO",
       "model": "PSP3404DUO"
@@ -270,6 +325,16 @@
       "market_name": "PSP3405DUO",
       "codename": "PSP3405DUO",
       "model": "PSP3405DUO"
+    },
+    {
+      "market_name": "PSP3413DUO",
+      "codename": "GF40B1G",
+      "model": "PSP3413DUO"
+    },
+    {
+      "market_name": "PSP3423DUO",
+      "codename": "GF40B1G",
+      "model": "PSP3423DUO"
     },
     {
       "market_name": "PSP3450DUO",
@@ -285,6 +350,16 @@
       "market_name": "PSP3457DUO",
       "codename": "KT45B01G",
       "model": "PSP3457DUO"
+    },
+    {
+      "market_name": "PSP3458DUO",
+      "codename": "TE45B3G",
+      "model": "PSP3458DUO"
+    },
+    {
+      "market_name": "PSP3459DUO",
+      "codename": "TE45B3G",
+      "model": "PSP3459DUO"
     },
     {
       "market_name": "PSP3502DUO",
@@ -305,6 +380,36 @@
       "market_name": "PSP3505DUO",
       "codename": "PSP3503DUO",
       "model": "PSP3505DUO"
+    },
+    {
+      "market_name": "PSP3506DUO",
+      "codename": "TE50B2G",
+      "model": "PSP3506DUO"
+    },
+    {
+      "market_name": "PSP3507DUO",
+      "codename": "TE50B2G",
+      "model": "PSP3507DUO"
+    },
+    {
+      "market_name": "PSP3508DUO",
+      "codename": "TE50B4G",
+      "model": "PSP3508DUO"
+    },
+    {
+      "market_name": "PSP3516DUO",
+      "codename": "TE50B2G",
+      "model": "PSP3516DUO"
+    },
+    {
+      "market_name": "PSP3517DUO",
+      "codename": "TE50B2G",
+      "model": "PSP3517DUO"
+    },
+    {
+      "market_name": "PSP3518DUO",
+      "codename": "TE50B4G",
+      "model": "PSP3518DUO"
     },
     {
       "market_name": "PSP3530DUO",
@@ -332,6 +437,11 @@
       "model": "PSP5457DUO"
     },
     {
+      "market_name": "PSP5502DUO",
+      "codename": "TE50B3G",
+      "model": "PSP5502DUO"
+    },
+    {
       "market_name": "PSP5506DUO",
       "codename": "DW50A03G",
       "model": "PSP5506DUO"
@@ -342,6 +452,16 @@
       "model": "PSP5507DUO"
     },
     {
+      "market_name": "PSP5512DUO",
+      "codename": "TE50B3G",
+      "model": "PSP5512DUO"
+    },
+    {
+      "market_name": "PSP5516DUO",
+      "codename": "DW50A03G",
+      "model": "PSP5516DUO"
+    },
+    {
       "market_name": "PSP5550DUO",
       "codename": "PSP5550DUO",
       "model": "PSP5550DUO"
@@ -350,6 +470,11 @@
       "market_name": "PSP5551DUO",
       "codename": "DW55B02L",
       "model": "PSP5551DUO"
+    },
+    {
+      "market_name": "PSP7530DUO",
+      "codename": "DW53B3G",
+      "model": "PSP7530DUO"
     },
     {
       "market_name": "Prestigio Grace",

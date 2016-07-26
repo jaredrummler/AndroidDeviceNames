@@ -2,9 +2,19 @@
   "manufacturer": "Vestel",
   "devices": [
     {
+      "market_name": "55UA8990",
+      "codename": "MB300",
+      "model": "SmartTV"
+    },
+    {
       "market_name": "Farabi",
       "codename": "frb3g",
       "model": "Farabi"
+    },
+    {
+      "market_name": "\"V TAB 7\"\" LITE II\"",
+      "codename": "V_TAB_7_LITE_II",
+      "model": "VTAB7LITEII"
     },
     {
       "market_name": "V TAB 7\\\u0027\\\u0027 LITE II",

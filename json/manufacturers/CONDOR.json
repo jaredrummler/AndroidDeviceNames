@@ -27,6 +27,16 @@
       "model": "PGN-508"
     },
     {
+      "market_name": "Condor T705",
+      "codename": "TGW710G",
+      "model": "TGW710G"
+    },
+    {
+      "market_name": "Condor TGW102L",
+      "codename": "TGW102L",
+      "model": "TGW102L"
+    },
+    {
       "market_name": "Condor TGW801G",
       "codename": "TGW801G",
       "model": "TGW801G"
@@ -65,6 +75,11 @@
       "market_name": "PGN410",
       "codename": "PGN410",
       "model": "PGN410"
+    },
+    {
+      "market_name": "PGN507",
+      "codename": "PGN507",
+      "model": "PGN-507"
     },
     {
       "market_name": "PGN509",
@@ -107,6 +122,11 @@
       "model": "PGN518"
     },
     {
+      "market_name": "PGN521",
+      "codename": "PGN521",
+      "model": "PGN521"
+    },
+    {
       "market_name": "PGN605",
       "codename": "PGN605",
       "model": "PGN605"
@@ -125,6 +145,11 @@
       "market_name": "PGN608",
       "codename": "PGN608",
       "model": "PGN608"
+    },
+    {
+      "market_name": "PGN609",
+      "codename": "PGN609",
+      "model": "PGN609"
     }
   ]
 }

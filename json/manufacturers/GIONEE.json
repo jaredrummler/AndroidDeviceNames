@@ -12,6 +12,16 @@
       "model": "GN9008"
     },
     {
+      "market_name": "F100",
+      "codename": "GIONEE_GBL7358",
+      "model": "F100"
+    },
+    {
+      "market_name": "F100A",
+      "codename": "GIONEE_GBL7358",
+      "model": "F100A"
+    },
+    {
       "market_name": "F103",
       "codename": "GiONEE_GBL7319",
       "model": "F103"
@@ -62,6 +72,31 @@
       "model": "GN152"
     },
     {
+      "market_name": "GN3001",
+      "codename": "GiONEE_GBL7523",
+      "model": "GN3001"
+    },
+    {
+      "market_name": "GN3002",
+      "codename": "GIONEE_GBL7356",
+      "model": "GN3002"
+    },
+    {
+      "market_name": "GN3002L",
+      "codename": "GIONEE_GBL7356L",
+      "model": "GN3002L"
+    },
+    {
+      "market_name": "GN3003",
+      "codename": "GIONEE_GBL7359",
+      "model": "GN3003"
+    },
+    {
+      "market_name": "GN3003L",
+      "codename": "GIONEE_GBL7359L",
+      "model": "GN3003L"
+    },
+    {
       "market_name": "GN5001",
       "codename": "GiONEE_BBL7332",
       "model": "GN5001"
@@ -85,6 +120,11 @@
       "market_name": "GN8001",
       "codename": "GiONEE_BBL7505",
       "model": "GN8001"
+    },
+    {
+      "market_name": "GN8001L",
+      "codename": "GiONEE_BBL7505",
+      "model": "GN8001L"
     },
     {
       "market_name": "GN9000",
@@ -157,6 +197,11 @@
       "model": "M5_lite"
     },
     {
+      "market_name": "M5 Plus",
+      "codename": "GiONEE_BBL7505",
+      "model": "M5 Plus"
+    },
+    {
       "market_name": "M5 mini",
       "codename": "GiONEE_WBW5616",
       "model": "M5 mini"
@@ -207,6 +252,11 @@
       "model": "P6"
     },
     {
+      "market_name": "P7 Max",
+      "codename": "GIONEE_WBL5708",
+      "model": "P7 Max"
+    },
+    {
       "market_name": "S plus",
       "codename": "GiONEE_WBL7511",
       "model": "S_plus"
@@ -237,9 +287,19 @@
       "model": "S6"
     },
     {
+      "market_name": "S6 Pro",
+      "codename": "GIONEE_GBL7529",
+      "model": "GN9012"
+    },
+    {
       "market_name": "S6s",
       "codename": "GIONEE_WBL7519",
       "model": "S6s"
+    },
+    {
+      "market_name": "S8",
+      "codename": "GIONEE_WBL7517",
+      "model": "GN9011"
     },
     {
       "market_name": "V4S",

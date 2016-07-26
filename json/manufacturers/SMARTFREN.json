@@ -2,6 +2,11 @@
   "manufacturer": "Smartfren",
   "devices": [
     {
+      "market_name": "A16C3H",
+      "codename": "A16C3H",
+      "model": "Andromax A16C3H"
+    },
+    {
       "market_name": "AD688G",
       "codename": "AD688G",
       "model": "Smartfren Andromax AD688G"

@@ -2,6 +2,11 @@
   "manufacturer": "Orange",
   "devices": [
     {
+      "market_name": "Dive 50 Dual",
+      "codename": "pixi3_45_4g_orange",
+      "model": "Dive 50 Dual"
+    },
+    {
       "market_name": "Luno",
       "codename": "Luno",
       "model": "Luno"
@@ -15,6 +20,16 @@
       "market_name": "Nura2",
       "codename": "m823_orange",
       "model": "Nura 2"
+    },
+    {
+      "market_name": "Orange Dive 50",
+      "codename": "pixi3_45_4g_orange",
+      "model": "Orange Dive 50"
+    },
+    {
+      "market_name": "Orange Dive 71",
+      "codename": "Orange_Dive_71",
+      "model": "Orange Dive 71"
     },
     {
       "market_name": "Orange Nura",
@@ -35,6 +50,21 @@
       "market_name": "Orange Zilo",
       "codename": "Orange_Zilo",
       "model": "Zilo"
+    },
+    {
+      "market_name": "Orange- Rise31",
+      "codename": "Pixi4-4",
+      "model": "Orange-Rise31"
+    },
+    {
+      "market_name": "Orange- Rise51",
+      "codename": "PIXI4_5_4G",
+      "model": "Orange-Rise51"
+    },
+    {
+      "market_name": "Orange_Sego",
+      "codename": "Orange_Sego",
+      "model": "Orange Sego"
     },
     {
       "market_name": "idol S",

@@ -13,8 +13,20 @@
   },
   {
     "manufacturer": "TCT (Alcatel)",
+    "market_name": "9001I",
+    "codename": "Pixi4-6_4G",
+    "model": "9001I"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
     "market_name": "9001X",
     "codename": "Pixi4-6_4G",
     "model": "9001X"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel_9001X",
+    "codename": "Pixi4-6_4G",
+    "model": "Alcatel_9001X"
   }
 ]

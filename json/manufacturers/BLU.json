@@ -2,14 +2,34 @@
   "manufacturer": "Blu",
   "devices": [
     {
+      "market_name": "ADVANCE 4.0 L2",
+      "codename": "BLU_ADVANCE_4_0_L2",
+      "model": "BLU ADVANCE 4.0 L2"
+    },
+    {
       "market_name": "BLU LIFE XL",
       "codename": "BLU_LIFE_XL",
       "model": "BLU LIFE XL"
     },
     {
+      "market_name": "BLU STUDIO G",
+      "codename": "BLU_STUDIO_G",
+      "model": "BLU STUDIO G"
+    },
+    {
       "market_name": "BLU TOUCHBOOK M7",
       "codename": "BLU_TOUCHBOOK_M7",
       "model": "BLU TOUCHBOOK M7"
+    },
+    {
+      "market_name": "DASH L2",
+      "codename": "BLU_DASH_L2",
+      "model": "BLU DASH L2"
+    },
+    {
+      "market_name": "DASH M2",
+      "codename": "BLU_DASH_M2",
+      "model": "BLU DASH M2"
     },
     {
       "market_name": "DASH X LTE",
@@ -32,9 +52,19 @@
       "model": "BLU DASH X"
     },
     {
+      "market_name": "Diamond M",
+      "codename": "BLU_DIAMOND_M",
+      "model": "DIAMOND M"
+    },
+    {
       "market_name": "ENERGY  XL",
       "codename": "BLU_ENERGY_XL",
       "model": "ENERGY XL"
+    },
+    {
+      "market_name": "ENERGY DIAMOND",
+      "codename": "BLU_ENERGY_DIAMOND",
+      "model": "BLU ENERGY DIAMOND"
     },
     {
       "market_name": "ENERGY_DIAMOND_MINI",
@@ -72,14 +102,29 @@
       "model": "BLU NEO X"
     },
     {
+      "market_name": "NEO X MINI",
+      "codename": "BLU_NEO_X_MINI",
+      "model": "BLU NEO X MINI"
+    },
+    {
       "market_name": "NEO X PLUS",
       "codename": "BLU_NEO_X_PLUS",
       "model": "BLU NEO X PLUS"
     },
     {
+      "market_name": "NEO XL",
+      "codename": "BLU_NEO_XL",
+      "model": "BLU NEO XL"
+    },
+    {
       "market_name": "PURE XL",
       "codename": "BLU_PURE_XL",
       "model": "PURE XL"
+    },
+    {
+      "market_name": "R1 HD",
+      "codename": "R1_HD",
+      "model": "R1 HD"
     },
     {
       "market_name": "STUDIO 7.0 LTE",
@@ -90,6 +135,11 @@
       "market_name": "STUDIO 7.0 LTE",
       "codename": "blu_s0010uu",
       "model": "BLU STUDIO 7.0 LTE"
+    },
+    {
+      "market_name": "STUDIO C 8+8 LTE",
+      "codename": "BLU_STUDIO_C_8_8_LTE",
+      "model": "BLU STUDIO C 8+8 LTE"
     },
     {
       "market_name": "STUDIO G PLUS",
@@ -108,6 +158,26 @@
     },
     {
       "market_name": "STUDIO SELFIE 2",
+      "codename": "BLU_STUDIO_SELFIE_2",
+      "model": "BLU STUDIO SELFIE 2"
+    },
+    {
+      "market_name": "STUDIO TOUCH",
+      "codename": "BLU_Studio_Touch",
+      "model": "BLU Studio Touch"
+    },
+    {
+      "market_name": "STUDIO XL LTE",
+      "codename": "BLU_STUDIO_XL_LTE",
+      "model": "BLU STUDIO XL LTE"
+    },
+    {
+      "market_name": "STUIDIO C 8+8",
+      "codename": "BLU_STUDIO_C_8_8",
+      "model": "BLU STUDIO C 8+8"
+    },
+    {
+      "market_name": "STUIDIO SELFIE 2",
       "codename": "BLU_STUDIO_SELFIE_2",
       "model": "BLU STUDIO SELFIE 2"
     },
@@ -135,6 +205,11 @@
       "market_name": "Studio One",
       "codename": "BLU_STUDIO_ONE",
       "model": "BLU STUDIO ONE"
+    },
+    {
+      "market_name": "Studio Selfie LTE",
+      "codename": "BLU_STUDIO_SELFIE_LTE",
+      "model": "BLU STUDIO SELFIE LTE"
     },
     {
       "market_name": "Studio X Mini",

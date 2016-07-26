@@ -97,6 +97,11 @@
       "model": "RCT6573W23"
     },
     {
+      "market_name": "RCT6603W47",
+      "codename": "RCT6603W47DK",
+      "model": "RCT6603W47DK"
+    },
+    {
       "market_name": "RCT6672W23",
       "codename": "RCT6672W23",
       "model": "RCT6672W23"
@@ -115,6 +120,11 @@
       "market_name": "RCT6773W42B",
       "codename": "RCT6773W42B",
       "model": "RCT6773W42B"
+    },
+    {
+      "market_name": "XLD Series",
+      "codename": "XLDRCAV1",
+      "model": "XLDRCAV1"
     }
   ]
 }

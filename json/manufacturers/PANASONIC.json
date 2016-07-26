@@ -302,6 +302,11 @@
       "model": "P-07C"
     },
     {
+      "market_name": "P55 Novo",
+      "codename": "P55_Novo_4G",
+      "model": "P55 Novo 4G"
+    },
+    {
       "market_name": "P75",
       "codename": "P75",
       "model": "Panasonic P75"
@@ -452,6 +457,11 @@
       "model": "Panasonic T30"
     },
     {
+      "market_name": "T44",
+      "codename": "T44",
+      "model": "Panasonic T44"
+    },
+    {
       "market_name": "T44 Lite",
       "codename": "T44-Lite",
       "model": "Panasonic T44 Lite"
@@ -460,6 +470,11 @@
       "market_name": "TAB-A01",
       "codename": "TAB-A01",
       "model": "TAB-A01-SD"
+    },
+    {
+      "market_name": "TAB-A02",
+      "codename": "TAB-A02",
+      "model": "TAB-A02-SD"
     },
     {
       "market_name": "TH-49DX400C",
@@ -472,9 +487,19 @@
       "model": "TH55DR600C"
     },
     {
+      "market_name": "TH-55DX700C",
+      "codename": "TH_55DX700C",
+      "model": "TH_55DX700C"
+    },
+    {
       "market_name": "TH-65DR800C",
       "codename": "TH-65DR800C",
       "model": "TH-65DR800C"
+    },
+    {
+      "market_name": "TH-65DX400C",
+      "codename": "TH_65DX400C",
+      "model": "TH_65DX400C"
     },
     {
       "market_name": "UN-MT300",

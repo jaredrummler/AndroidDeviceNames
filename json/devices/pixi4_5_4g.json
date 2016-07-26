@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Orange",
+    "market_name": "Orange- Rise51",
+    "codename": "PIXI4_5_4G",
+    "model": "Orange-Rise51"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "ALCATEL PIXI 4 (5)",
+    "codename": "PIXI4_5_4G",
+    "model": "5045A"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
     "market_name": "ALCATEL PIXI 4 (5)",
     "codename": "PIXI4_5_4G",
@@ -21,6 +33,24 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "ALCATEL PIXI 4 (5)",
     "codename": "PIXI4_5_4G",
+    "model": "5045J"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "ALCATEL PIXI 4 (5)",
+    "codename": "PIXI4_5_4G",
+    "model": "5045T"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "ALCATEL PIXI 4 (5)",
+    "codename": "PIXI4_5_4G",
     "model": "5045X"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "ALCATEL PIXI 4 (5)",
+    "codename": "PIXI4_5_4G",
+    "model": "DIGICELDL1"
   }
 ]

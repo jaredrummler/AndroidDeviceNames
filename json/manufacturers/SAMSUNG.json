@@ -1132,6 +1132,11 @@
       "model": "SM-G316ML"
     },
     {
+      "market_name": "Galaxy Active neo",
+      "codename": "SC-01H",
+      "model": "SC-01H"
+    },
+    {
       "market_name": "Galaxy Admire",
       "codename": "SCH-R820",
       "model": "SCH-R820"
@@ -1250,6 +1255,31 @@
       "market_name": "Galaxy Beam",
       "codename": "GT-I8530",
       "model": "GT-I8530"
+    },
+    {
+      "market_name": "Galaxy C5",
+      "codename": "c5ltechn",
+      "model": "SM-C5000"
+    },
+    {
+      "market_name": "Galaxy C5",
+      "codename": "c5ltechn",
+      "model": "SM-C500X"
+    },
+    {
+      "market_name": "Galaxy C5",
+      "codename": "c5pltechn",
+      "model": "SM-C5000"
+    },
+    {
+      "market_name": "Galaxy C7",
+      "codename": "c7ltechn",
+      "model": "SM-C7000"
+    },
+    {
+      "market_name": "Galaxy C7",
+      "codename": "c7ltechn",
+      "model": "SM-C700X"
     },
     {
       "market_name": "Galaxy Camera",
@@ -2377,6 +2407,11 @@
       "model": "SM-J120W"
     },
     {
+      "market_name": "Galaxy J1",
+      "codename": "j1xqltespr",
+      "model": "SM-J120P"
+    },
+    {
       "market_name": "Galaxy J1 Ace",
       "codename": "j1acelte",
       "model": "SM-J110F"
@@ -2497,6 +2532,16 @@
       "model": "SM-J200BT"
     },
     {
+      "market_name": "Galaxy J2(2016)",
+      "codename": "j2xlte",
+      "model": "SM-J210F"
+    },
+    {
+      "market_name": "Galaxy J2(2016)",
+      "codename": "j2xlteins",
+      "model": "SM-J210F"
+    },
+    {
       "market_name": "Galaxy J3",
       "codename": "j3ltectc",
       "model": "SM-J3109"
@@ -2588,6 +2633,11 @@
     },
     {
       "market_name": "Galaxy J3(2016)",
+      "codename": "j3xltebmc",
+      "model": "SM-J320W8"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
       "codename": "j3xnlte",
       "model": "SM-J320FN"
     },
@@ -2655,6 +2705,11 @@
       "market_name": "Galaxy J5(2016)",
       "codename": "j5xnlte",
       "model": "SM-J510FN"
+    },
+    {
+      "market_name": "Galaxy J5(2016)",
+      "codename": "j5xnlte",
+      "model": "SM-J510FQ"
     },
     {
       "market_name": "Galaxy J5(2016)",
@@ -2730,6 +2785,11 @@
       "market_name": "Galaxy J7(2016)",
       "codename": "j7xelte",
       "model": "SM-J710F"
+    },
+    {
+      "market_name": "Galaxy J7(2016)",
+      "codename": "j7xelte",
+      "model": "SM-J710FQ"
     },
     {
       "market_name": "Galaxy J7(2016)",
@@ -3953,6 +4013,11 @@
     },
     {
       "market_name": "Galaxy On5",
+      "codename": "o5prolte",
+      "model": "SM-G550FY"
+    },
+    {
+      "market_name": "Galaxy On5",
       "codename": "on5ltemtr",
       "model": "SM-G550T1"
     },
@@ -3960,6 +4025,11 @@
       "market_name": "Galaxy On5",
       "codename": "on5ltetmo",
       "model": "SM-G550T"
+    },
+    {
+      "market_name": "Galaxy On5",
+      "codename": "on5ltetmo",
+      "model": "SM-G550T2"
     },
     {
       "market_name": "Galaxy On7",
@@ -3970,6 +4040,21 @@
       "market_name": "Galaxy On7",
       "codename": "o7ltechn",
       "model": "SM-G6000"
+    },
+    {
+      "market_name": "Galaxy On7",
+      "codename": "o7prolte",
+      "model": "SM-G600FY"
+    },
+    {
+      "market_name": "Galaxy On7",
+      "codename": "on7elte",
+      "model": "SM-G600F"
+    },
+    {
+      "market_name": "Galaxy On7",
+      "codename": "on7nlteskt",
+      "model": "SM-G600S"
     },
     {
       "market_name": "Galaxy Player",
@@ -5868,6 +5953,11 @@
     },
     {
       "market_name": "Galaxy S7",
+      "codename": "heroqltecctvzw",
+      "model": "SM-G930VC"
+    },
+    {
+      "market_name": "Galaxy S7",
       "codename": "heroqltechn",
       "model": "SM-G9300"
     },
@@ -5923,6 +6013,11 @@
     },
     {
       "market_name": "Galaxy S7 Edge",
+      "codename": "SC-02H",
+      "model": "SC-02H"
+    },
+    {
+      "market_name": "Galaxy S7 Edge",
       "codename": "SCV33",
       "model": "SCV33"
     },
@@ -5960,6 +6055,11 @@
       "market_name": "Galaxy S7 Edge",
       "codename": "hero2qlteatt",
       "model": "SAMSUNG-SM-G935A"
+    },
+    {
+      "market_name": "Galaxy S7 Edge",
+      "codename": "hero2qltecctvzw",
+      "model": "SM-G935VC"
     },
     {
       "market_name": "Galaxy S7 Edge",
@@ -6404,6 +6504,11 @@
     {
       "market_name": "Galaxy Tab A 10.1",
       "codename": "gtaxllte",
+      "model": "SM-T585M"
+    },
+    {
+      "market_name": "Galaxy Tab A 10.1",
+      "codename": "gtaxllte",
       "model": "SM-T587"
     },
     {
@@ -6427,6 +6532,11 @@
       "model": "SM-T580"
     },
     {
+      "market_name": "Galaxy Tab A 10.1",
+      "codename": "gtaxlwifichn",
+      "model": "SM-T580X"
+    },
+    {
       "market_name": "Galaxy Tab A 7.0",
       "codename": "gtexslte",
       "model": "SM-T285"
@@ -6440,6 +6550,11 @@
       "market_name": "Galaxy Tab A 7.0",
       "codename": "gtexslte",
       "model": "SM-T287"
+    },
+    {
+      "market_name": "Galaxy Tab A 7.0",
+      "codename": "gtexslteswa",
+      "model": "SM-T285YD"
     },
     {
       "market_name": "Galaxy Tab A 7.0",
@@ -6823,6 +6938,11 @@
     },
     {
       "market_name": "Galaxy Tab S2 8.0",
+      "codename": "gts28veltechn",
+      "model": "SM-T719C"
+    },
+    {
+      "market_name": "Galaxy Tab S2 8.0",
       "codename": "gts28vewifi",
       "model": "SM-T713"
     },
@@ -6895,6 +7015,11 @@
       "market_name": "Galaxy Tab S2 9.7",
       "codename": "gts210ltevzw",
       "model": "SM-T817V"
+    },
+    {
+      "market_name": "Galaxy Tab S2 9.7",
+      "codename": "gts210velte",
+      "model": "SM-T818"
     },
     {
       "market_name": "Galaxy Tab S2 9.7",
@@ -8137,19 +8262,9 @@
       "model": "SC-01G"
     },
     {
-      "market_name": "SC-01H",
-      "codename": "SC-01H",
-      "model": "SC-01H"
-    },
-    {
       "market_name": "SC-02G",
       "codename": "SC-02G",
       "model": "SC-02G"
-    },
-    {
-      "market_name": "SC-02H",
-      "codename": "SC-02H",
-      "model": "SC-02H"
     },
     {
       "market_name": "SC-04F",

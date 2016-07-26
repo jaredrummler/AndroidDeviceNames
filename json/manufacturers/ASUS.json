@@ -127,6 +127,11 @@
       "model": "ASUS Transformer Pad TF600T"
     },
     {
+      "market_name": "ASUS ZenPad 3S 10",
+      "codename": "P027",
+      "model": "P027"
+    },
+    {
       "market_name": "ASUS ZenWatch",
       "codename": "anthias",
       "model": "ASUS ZenWatch"
@@ -160,6 +165,11 @@
       "market_name": "ASUS_ Zenfone Max",
       "codename": "ASUS_Z010_2",
       "model": "ASUS_Z010DD"
+    },
+    {
+      "market_name": "Asus Zenfone3 Ultra",
+      "codename": "ASUS_A001",
+      "model": "ASUS_A001"
     },
     {
       "market_name": "Cube",
@@ -857,6 +867,11 @@
       "model": "ASUS_Z00XSA"
     },
     {
+      "market_name": "ZenFone3",
+      "codename": "ASUS_Z017D_1",
+      "model": "ASUS_Z017D"
+    },
+    {
       "market_name": "ZenPad 10 (Z300C)",
       "codename": "P023_1",
       "model": "P023"
@@ -890,6 +905,11 @@
       "market_name": "ZenPad 10 (Z300M)",
       "codename": "P00C_2",
       "model": "P00C"
+    },
+    {
+      "market_name": "ZenPad 3 8.0",
+      "codename": "P008_1",
+      "model": "P008"
     },
     {
       "market_name": "ZenPad 7.0 (Z370C)",
@@ -972,6 +992,11 @@
       "model": "P01M"
     },
     {
+      "market_name": "ZenPad S 8.0 (Z580C)",
+      "codename": "P01M_4",
+      "model": "P01M"
+    },
+    {
       "market_name": "ZenPad S 8.0 (Z580CA)",
       "codename": "P01M_1",
       "model": "P01MA"
@@ -982,9 +1007,19 @@
       "model": "P01MA"
     },
     {
+      "market_name": "ZenPad S 8.0 (Z580CA)",
+      "codename": "P01M_5",
+      "model": "P01MA"
+    },
+    {
       "market_name": "ZenPadC 7.0 (Z170MG)",
       "codename": "P001_2",
       "model": "P001_2"
+    },
+    {
+      "market_name": "Zenfone 3",
+      "codename": "ASUS_Z012D",
+      "model": "ASUS_Z012D"
     },
     {
       "market_name": "Zenfone GO",

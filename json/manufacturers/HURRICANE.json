@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Hurricane",
+  "devices": [
+    {
+      "market_name": "Bolt",
+      "codename": "Bolt",
+      "model": "Hurricane_Bolt"
+    },
+    {
+      "market_name": "Rush",
+      "codename": "Hurricane",
+      "model": "Rush"
+    },
+    {
+      "market_name": "Volt",
+      "codename": "Hurricane",
+      "model": "Volt"
+    },
+    {
+      "market_name": "Wave",
+      "codename": "Hurricane",
+      "model": "Wave"
+    }
+  ]
+}

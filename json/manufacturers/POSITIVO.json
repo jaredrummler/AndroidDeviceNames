@@ -107,6 +107,11 @@
       "model": "S455"
     },
     {
+      "market_name": "Positivo Stilo T725",
+      "codename": "T725",
+      "model": "Stilo T725"
+    },
+    {
       "market_name": "Positivo T1060",
       "codename": "t1060",
       "model": "T1060"
@@ -155,6 +160,16 @@
       "market_name": "Positivo T750",
       "codename": "t750",
       "model": "Positivo T750"
+    },
+    {
+      "market_name": "Positivo Twist",
+      "codename": "S520",
+      "model": "Positivo Twist M"
+    },
+    {
+      "market_name": "Positivo Twist",
+      "codename": "S520",
+      "model": "Positivo Twist S"
     },
     {
       "market_name": "Positivo Union US2070",
@@ -335,6 +350,16 @@
       "market_name": "Quantum Go",
       "codename": "Q2",
       "model": "Quantum Go"
+    },
+    {
+      "market_name": "Quantum Muv",
+      "codename": "Q3",
+      "model": "MUV"
+    },
+    {
+      "market_name": "Quantum Muv",
+      "codename": "Q3",
+      "model": "Quantum MUV"
     },
     {
       "market_name": "S440",

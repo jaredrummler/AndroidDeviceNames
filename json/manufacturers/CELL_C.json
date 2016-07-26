@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Cell_C",
+  "devices": [
+    {
+      "market_name": "Fantasy",
+      "codename": "Cell_C",
+      "model": "Fantasy"
+    },
+    {
+      "market_name": "Summit",
+      "codename": "Cell_C",
+      "model": "Summit"
+    },
+    {
+      "market_name": "deluxe",
+      "codename": "Cell_C",
+      "model": "Deluxe"
+    }
+  ]
+}

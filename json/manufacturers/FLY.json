@@ -32,6 +32,11 @@
       "model": "FS506"
     },
     {
+      "market_name": "Fly Cirrus 4",
+      "codename": "Cirrus_4",
+      "model": "FS507"
+    },
+    {
       "market_name": "Fly ERA Nano 7",
       "codename": "Fly_IQ4407",
       "model": "IQ4407"
@@ -220,6 +225,11 @@
       "market_name": "Fly Nimbus 4",
       "codename": "Nimbus_4",
       "model": "FS551"
+    },
+    {
+      "market_name": "Fly Nimbus 8",
+      "codename": "Nimbus_8",
+      "model": "FS454"
     },
     {
       "market_name": "Fly Nimbus3",

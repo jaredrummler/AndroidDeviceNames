@@ -1,6 +1,24 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "MF97B",
+    "codename": "msm8974",
+    "model": "MF97B"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "MF97B",
+    "codename": "msm8974",
+    "model": "MF97B_ROGERS"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "MF97B_T",
+    "codename": "msm8974",
+    "model": "MF97B_T"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "MF97E",
     "codename": "msm8974",
     "model": "MF97E"
@@ -46,6 +64,12 @@
     "market_name": "Spro 2",
     "codename": "msm8974",
     "model": "ZKB2A"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Spro2",
+    "codename": "msm8974",
+    "model": "Spro2"
   },
   {
     "manufacturer": "ZTE",
