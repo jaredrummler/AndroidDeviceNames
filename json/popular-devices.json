@@ -1927,96 +1927,6 @@
   },
   {
     "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a33g",
-    "model": "SM-A300H"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3lte",
-    "model": "SM-A300F"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3lte",
-    "model": "SM-A300M"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3lte",
-    "model": "SM-A300XZ"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3lte",
-    "model": "SM-A300YZ"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3ltechn",
-    "model": "SM-A3000"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3ltechn",
-    "model": "SM-A300X"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3ltectc",
-    "model": "SM-A3009"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3ltedd",
-    "model": "SM-A300G"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3lteslk",
-    "model": "SM-A300F"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3ltezh",
-    "model": "SM-A3000"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3ltezt",
-    "model": "SM-A300YZ"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3ulte",
-    "model": "SM-A300FU"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3ulte",
-    "model": "SM-A300XU"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A3",
-    "codename": "a3ulte",
-    "model": "SM-A300Y"
-  },
-  {
-    "manufacturer": "Samsung",
     "market_name": "Galaxy A5",
     "codename": "a53g",
     "model": "SM-A500H"
@@ -2338,72 +2248,6 @@
     "market_name": "Galaxy Ace4",
     "codename": "vivaltonfc3g",
     "model": "SM-G313HN"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Alpha",
-    "codename": "slte",
-    "model": "SM-G850F"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Alpha",
-    "codename": "slte",
-    "model": "SM-G850FQ"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Alpha",
-    "codename": "slte",
-    "model": "SM-G850M"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Alpha",
-    "codename": "slte",
-    "model": "SM-G850X"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Alpha",
-    "codename": "slte",
-    "model": "SM-G850Y"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Alpha",
-    "codename": "slteatt",
-    "model": "SAMSUNG-SM-G850A"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Alpha",
-    "codename": "sltecan",
-    "model": "SM-G850W"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Alpha",
-    "codename": "sltechn",
-    "model": "SM-G8508S"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Alpha",
-    "codename": "sltektt",
-    "model": "SM-G850K"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Alpha",
-    "codename": "sltelgt",
-    "model": "SM-G850L"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Alpha",
-    "codename": "slteskt",
-    "model": "SM-G850S"
   },
   {
     "manufacturer": "Samsung",
@@ -3535,330 +3379,6 @@
   },
   {
     "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "SC-02E",
-    "model": "SC-02E"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t03g",
-    "model": "GT-N7100"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t03g",
-    "model": "GT-N7100T"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t03gchn",
-    "model": "GT-N7100"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t03gchnduos",
-    "model": "GT-N7102"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t03gchnduos",
-    "model": "GT-N7102i"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t03gcmcc",
-    "model": "GT-N7108"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t03gctc",
-    "model": "SCH-N719"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t03gcuduos",
-    "model": "GT-N7102"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t03gcuduos",
-    "model": "GT-N7102i"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0lte",
-    "model": "GT-N7105"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0lte",
-    "model": "GT-N7105T"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0lteatt",
-    "model": "SAMSUNG-SGH-I317"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0ltecan",
-    "model": "SGH-I317M"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0ltecan",
-    "model": "SGH-T889V"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0ltecmcc",
-    "model": "GT-N7108D"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0ltedcm",
-    "model": "SC-02E"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0ltektt",
-    "model": "SHV-E250K"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0ltelgt",
-    "model": "SHV-E250L"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0lteskt",
-    "model": "SHV-E250S"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0ltespr",
-    "model": "SPH-L900"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0ltetmo",
-    "model": "SGH-T889"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0lteusc",
-    "model": "SCH-R950"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note2",
-    "codename": "t0ltevzw",
-    "model": "SCH-I605"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "SC-01F",
-    "model": "SC-01F"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "SC-02F",
-    "model": "SC-02F"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "SCL22",
-    "model": "SCL22"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "ha3g",
-    "model": "SM-N900"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "ha3g",
-    "model": "SM-N9000Q"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hlte",
-    "model": "SM-N9005"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hlte",
-    "model": "SM-N9006"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hlte",
-    "model": "SM-N9007"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hlte",
-    "model": "SM-N9008V"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hlte",
-    "model": "SM-N9009"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hlte",
-    "model": "SM-N900U"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hlteatt",
-    "model": "SAMSUNG-SM-N900A"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hltecan",
-    "model": "SM-N900W8"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hltektt",
-    "model": "SM-N900K"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hltelgt",
-    "model": "SM-N900L"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hlteskt",
-    "model": "SM-N900S"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hltespr",
-    "model": "SM-N900P"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hltetmo",
-    "model": "SM-N900T"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hlteusc",
-    "model": "SM-N900R4"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "hltevzw",
-    "model": "SM-N900V"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3",
-    "codename": "htdlte",
-    "model": "SM-N9007"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3 Neo",
-    "codename": "frescoltektt",
-    "model": "SM-N750K"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3 Neo",
-    "codename": "frescoltelgt",
-    "model": "SM-N750L"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3 Neo",
-    "codename": "frescolteskt",
-    "model": "SM-N750S"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3 Neo",
-    "codename": "hl3g",
-    "model": "SM-N750"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3 Neo",
-    "codename": "hl3g",
-    "model": "SM-N7500Q"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3 Neo",
-    "codename": "hl3gds",
-    "model": "SM-N7502"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3 Neo",
-    "codename": "hllte",
-    "model": "SM-N7505"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3 Neo",
-    "codename": "hllte",
-    "model": "SM-N7505L"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Note3 Neo",
-    "codename": "hllte",
-    "model": "SM-N7507"
-  },
-  {
-    "manufacturer": "Samsung",
     "market_name": "Galaxy Note4",
     "codename": "tre3caltektt",
     "model": "SM-N916K"
@@ -4135,6 +3655,96 @@
   },
   {
     "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "gracelte",
+    "model": "SM-N930F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "gracelte",
+    "model": "SM-N930X"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceltektt",
+    "model": "SM-N930K"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceltelgt",
+    "model": "SM-N930L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "gracelteskt",
+    "model": "SM-N930S"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceqlteacg",
+    "model": "SM-N930R7"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceqlteatt",
+    "model": "SAMSUNG-SM-N930A"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceqltebmc",
+    "model": "SM-N930W8"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceqltechn",
+    "model": "SM-N9300"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceqltelra",
+    "model": "SM-N930R6"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceqltespr",
+    "model": "SM-N930P"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceqltetfnvzw",
+    "model": "SM-N930VL"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceqltetmo",
+    "model": "SM-N930T"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceqlteusc",
+    "model": "SM-N930R4"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceqltevzw",
+    "model": "SM-N930V"
+  },
+  {
+    "manufacturer": "Samsung",
     "market_name": "Galaxy On5",
     "codename": "o5lte",
     "model": "SM-G550FY"
@@ -4258,108 +3868,6 @@
     "market_name": "Galaxy S Duos3",
     "codename": "vivalto3gvn",
     "model": "SM-G313HZ"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "GT-I9100",
-    "model": "GT-I9100"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "GT-I9100M",
-    "model": "GT-I9100M"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "GT-I9100P",
-    "model": "GT-I9100P"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "GT-I9100T",
-    "model": "GT-I9100T"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "GT-I9103",
-    "model": "GT-I9103"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "GT-I9108",
-    "model": "GT-I9108"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "GT-I9210T",
-    "model": "GT-I9210T"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "SC-02C",
-    "model": "SC-02C"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "SCH-R760X",
-    "model": "SCH-R760X"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "SGH-I777",
-    "model": "SAMSUNG-SGH-I777"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "SGH-S959G",
-    "model": "SGH-S959G"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "SGH-T989",
-    "model": "SGH-T989"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "SHV-E110S",
-    "model": "SHV-E110S"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "SHW-M250K",
-    "model": "SHW-M250K"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "SHW-M250L",
-    "model": "SHW-M250L"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "SHW-M250S",
-    "model": "SHW-M250S"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S2",
-    "codename": "t1cmcc",
-    "model": "GT-I9108"
   },
   {
     "manufacturer": "Samsung",
