@@ -17,6 +17,11 @@
       "model": "LS-4505"
     },
     {
+      "market_name": "LS-5002",
+      "codename": "LS-5002",
+      "model": "LS-5002"
+    },
+    {
       "market_name": "LS-5004",
       "codename": "LS-5004",
       "model": "LS-5004"
@@ -50,6 +55,11 @@
       "market_name": "LS-5021",
       "codename": "ZTE_T920",
       "model": "LS-5021"
+    },
+    {
+      "market_name": "LS-5201",
+      "codename": "panda01a_msm8952_64",
+      "model": "LS-5201"
     },
     {
       "market_name": "LS-5503",

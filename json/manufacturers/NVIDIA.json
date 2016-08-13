@@ -2,16 +2,6 @@
   "manufacturer": "NVidia",
   "devices": [
     {
-      "market_name": "SHIELD Android TV",
-      "codename": "foster",
-      "model": "SHIELD Android TV"
-    },
-    {
-      "market_name": "SHIELD Android TV",
-      "codename": "foster",
-      "model": "SHIELD Console"
-    },
-    {
       "market_name": "SHIELD Tablet",
       "codename": "shieldtablet",
       "model": "SHIELD Tablet"

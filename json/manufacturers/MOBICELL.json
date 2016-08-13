@@ -52,6 +52,11 @@
       "model": "Venus"
     },
     {
+      "market_name": "Mobicel GEM",
+      "codename": "GEM",
+      "model": "GEM"
+    },
+    {
       "market_name": "Mobicel ICE",
       "codename": "ICE",
       "model": "ICE"
@@ -60,6 +65,16 @@
       "market_name": "ONYX",
       "codename": "ONYX",
       "model": "ONYX"
+    },
+    {
+      "market_name": "PLAY",
+      "codename": "PLAY",
+      "model": "PLAY"
+    },
+    {
+      "market_name": "SHIFT",
+      "codename": "SHIFT",
+      "model": "SHIFT"
     },
     {
       "market_name": "Samba",

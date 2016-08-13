@@ -2,8 +2,18 @@
   "manufacturer": "BMobile",
   "devices": [
     {
+      "market_name": "AX1010",
+      "codename": "Bmobile_AX1010",
+      "model": "Bmobile AX1010"
+    },
+    {
       "market_name": "AX1020",
       "codename": "Bmobile",
+      "model": "AX1020"
+    },
+    {
+      "market_name": "AX1020",
+      "codename": "Bmobile_AX1020",
       "model": "AX1020"
     },
     {
@@ -12,8 +22,18 @@
       "model": "AX1030"
     },
     {
+      "market_name": "AX1035",
+      "codename": "Bmobile_AX1035",
+      "model": "AX1035"
+    },
+    {
       "market_name": "AX1055",
       "codename": "Bmobile",
+      "model": "AX1055"
+    },
+    {
+      "market_name": "AX1055",
+      "codename": "Bmobile_AX1055",
       "model": "AX1055"
     },
     {
@@ -22,9 +42,19 @@
       "model": "AX1060"
     },
     {
+      "market_name": "AX1065",
+      "codename": "Bmobile_AX1065",
+      "model": "AX1065"
+    },
+    {
       "market_name": "AX660",
       "codename": "Bmobile",
       "model": "AX660"
+    },
+    {
+      "market_name": "AX685",
+      "codename": "Bmobile_AX685",
+      "model": "AX685"
     },
     {
       "market_name": "AX700",

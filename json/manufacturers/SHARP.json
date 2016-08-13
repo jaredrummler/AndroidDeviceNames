@@ -92,6 +92,11 @@
       "model": "SHF33"
     },
     {
+      "market_name": "AQUOS M1",
+      "codename": "MS1",
+      "model": "FS8001"
+    },
+    {
       "market_name": "AQUOS P1",
       "codename": "P1X",
       "model": "P1X"
@@ -447,6 +452,11 @@
       "model": "SH-06G"
     },
     {
+      "market_name": "BASIO2 SHV36",
+      "codename": "SHV36",
+      "model": "SHV36"
+    },
+    {
       "market_name": "DM009SH",
       "codename": "DM009SH",
       "model": "DM009SH"
@@ -627,6 +637,26 @@
       "model": "LC-S3H-01"
     },
     {
+      "market_name": "LC-U35T",
+      "codename": "lc_u35t",
+      "model": "LC-U35T"
+    },
+    {
+      "market_name": "LC-XU35T",
+      "codename": "lc_xu35t",
+      "model": "LC-XU35T"
+    },
+    {
+      "market_name": "LC-XU930X_830X",
+      "codename": "lc_xu930x_830x",
+      "model": "LC-XU930X_830X"
+    },
+    {
+      "market_name": "LC-xxUE630X",
+      "codename": "lc_ue630x",
+      "model": "LC-UE630X"
+    },
+    {
       "market_name": "LCD-LX460A",
       "codename": "lx460a",
       "model": "LCD-LX460A"
@@ -660,6 +690,21 @@
       "market_name": "LCD-V3A",
       "codename": "v3a",
       "model": "LCD-V3A"
+    },
+    {
+      "market_name": "LCD-xxBEL6A",
+      "codename": "lcd_xxbel6a",
+      "model": "LCD-xxBEL6A"
+    },
+    {
+      "market_name": "LCD-xxBEL8A",
+      "codename": "lcd_xxbel8a",
+      "model": "LCD-xxBEL8A"
+    },
+    {
+      "market_name": "LCD-xxCAE5A",
+      "codename": "lcd_xxcae5a",
+      "model": "LCD-xxCAE5A"
     },
     {
       "market_name": "LYNX 3D SH-03C",

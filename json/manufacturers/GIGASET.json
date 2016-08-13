@@ -2,6 +2,11 @@
   "manufacturer": "Gigaset",
   "devices": [
     {
+      "market_name": "Gigaset ME",
+      "codename": "ME",
+      "model": "GS55-6"
+    },
+    {
       "market_name": "Gigaset QV1030",
       "codename": "FG6Q",
       "model": "Gigaset QV1030"
@@ -15,6 +20,16 @@
       "market_name": "Gigaset QV831",
       "codename": "UY8",
       "model": "Gigaset QV831"
+    },
+    {
+      "market_name": "ME Pro",
+      "codename": "MEpro",
+      "model": "GS57-6"
+    },
+    {
+      "market_name": "ME Pure",
+      "codename": "MEpure",
+      "model": "GS53-6"
     },
     {
       "market_name": "Maxwell 10",

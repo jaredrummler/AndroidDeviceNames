@@ -42,6 +42,11 @@
       "model": "DASH X PLUS LTE"
     },
     {
+      "market_name": "DASH X2",
+      "codename": "BLU_DASH_X2",
+      "model": "BLU DASH X2"
+    },
+    {
       "market_name": "Dash 4.5",
       "codename": "D730",
       "model": "Dash 4.5"
@@ -67,6 +72,11 @@
       "model": "BLU ENERGY DIAMOND"
     },
     {
+      "market_name": "ENERGY M",
+      "codename": "BLU_ENERGY_M",
+      "model": "BLU ENERGY M"
+    },
+    {
       "market_name": "ENERGY_DIAMOND_MINI",
       "codename": "ENERGY_DIAMOND_MINI",
       "model": "ENERGY_DIAMOND_MINI"
@@ -80,6 +90,11 @@
       "market_name": "Energy X LTE",
       "codename": "BLU_Energy_X_LTE",
       "model": "Energy X LTE"
+    },
+    {
+      "market_name": "GRAND 5.5 HD",
+      "codename": "BLU_GRAND_5_5_HD",
+      "model": "BLU GRAND 5.5 HD"
     },
     {
       "market_name": "LIFE ONE X",
@@ -102,6 +117,11 @@
       "model": "BLU NEO X"
     },
     {
+      "market_name": "NEO X LTE",
+      "codename": "BLU_NEO_X_LTE",
+      "model": "BLU NEO X LTE"
+    },
+    {
       "market_name": "NEO X MINI",
       "codename": "BLU_NEO_X_MINI",
       "model": "BLU NEO X MINI"
@@ -120,6 +140,16 @@
       "market_name": "PURE XL",
       "codename": "BLU_PURE_XL",
       "model": "PURE XL"
+    },
+    {
+      "market_name": "PURE XR",
+      "codename": "BLU_Pure_XR",
+      "model": "Pure XR"
+    },
+    {
+      "market_name": "R1 HD",
+      "codename": "BLU_R1_HD",
+      "model": "BLU R1 HD"
     },
     {
       "market_name": "R1 HD",
@@ -220,6 +250,11 @@
       "market_name": "VIVO 5",
       "codename": "BLU_VIVO_5",
       "model": "VIVO 5"
+    },
+    {
+      "market_name": "VIVO 5R",
+      "codename": "BLU_Vivo_5R",
+      "model": "Vivo 5R"
     },
     {
       "market_name": "VIVO XL",

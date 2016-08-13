@@ -2,6 +2,16 @@
   "manufacturer": "Intex",
   "devices": [
     {
+      "market_name": "Aqua Aura 2GB",
+      "codename": "Aqua_Aura_2GB",
+      "model": "Aqua Aura 2GB"
+    },
+    {
+      "market_name": "Aqua Ring",
+      "codename": "Aqua_Ring",
+      "model": "Aqua_Ring"
+    },
+    {
       "market_name": "Intex Aqua Power 4G",
       "codename": "Intex_Aqua_Power_4G",
       "model": "Aqua Power 4G"

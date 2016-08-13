@@ -2,6 +2,26 @@
   "manufacturer": "Zebra",
   "devices": [
     {
+      "market_name": "ET5X",
+      "codename": "ET50E",
+      "model": "ET5X"
+    },
+    {
+      "market_name": "ET5X",
+      "codename": "ET50T",
+      "model": "ET5X"
+    },
+    {
+      "market_name": "ET5X",
+      "codename": "ET55E",
+      "model": "ET5X"
+    },
+    {
+      "market_name": "ET5X",
+      "codename": "ET55T",
+      "model": "ET5X"
+    },
+    {
       "market_name": "MC36",
       "codename": "cardhu",
       "model": "MC36"

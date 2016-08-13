@@ -2,9 +2,19 @@
   "manufacturer": "Orange",
   "devices": [
     {
+      "market_name": "ALCATEL PIXI 4 (5)",
+      "codename": "PIXI4_5_4G",
+      "model": "Orange-Rise51"
+    },
+    {
       "market_name": "Dive 50 Dual",
       "codename": "pixi3_45_4g_orange",
       "model": "Dive 50 Dual"
+    },
+    {
+      "market_name": "Dive_70",
+      "codename": "Dive_70",
+      "model": "SCL-L01"
     },
     {
       "market_name": "Luno",

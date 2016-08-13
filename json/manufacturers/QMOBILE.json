@@ -22,6 +22,11 @@
       "model": "LT700"
     },
     {
+      "market_name": "LT700 PRO",
+      "codename": "LT700_PRO",
+      "model": "LT700 PRO"
+    },
+    {
       "market_name": "NOIR A3",
       "codename": "A3",
       "model": "QMobile A3"
@@ -52,6 +57,16 @@
       "model": "QMobile i6 Metal ONE"
     },
     {
+      "market_name": "S1 Lite",
+      "codename": "S1_Lite",
+      "model": "QMobile S1 Lite"
+    },
+    {
+      "market_name": "S1 PRO",
+      "codename": "S1_PRO",
+      "model": "QMobile S1 PRO"
+    },
+    {
       "market_name": "S2 Plus",
       "codename": "S2_Plus",
       "model": "QMobile S2 Plus"
@@ -75,6 +90,16 @@
       "market_name": "W80",
       "codename": "WBW5615QM",
       "model": "W80"
+    },
+    {
+      "market_name": "X32",
+      "codename": "X32",
+      "model": "QMobile X32"
+    },
+    {
+      "market_name": "X700 PRO",
+      "codename": "X700_PRO",
+      "model": "QMobile X700 PRO"
     },
     {
       "market_name": "X75",

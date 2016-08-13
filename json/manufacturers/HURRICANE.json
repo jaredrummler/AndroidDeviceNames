@@ -7,6 +7,16 @@
       "model": "Hurricane_Bolt"
     },
     {
+      "market_name": "Hurricane Blast",
+      "codename": "Blast",
+      "model": "Blast"
+    },
+    {
+      "market_name": "Hurricane Charge",
+      "codename": "Charge",
+      "model": "Charge"
+    },
+    {
       "market_name": "Rush",
       "codename": "Hurricane",
       "model": "Rush"

@@ -3103,6 +3103,12 @@
   },
   {
     "manufacturer": "Samsung",
+    "market_name": "Galaxy J1",
+    "codename": "j1xqltetfnvzw",
+    "model": "SM-S120VL"
+  },
+  {
+    "manufacturer": "Samsung",
     "market_name": "Galaxy J1 Ace",
     "codename": "j1acelte",
     "model": "SM-J110F"
@@ -3370,6 +3376,12 @@
     "market_name": "Galaxy Note 10.1",
     "codename": "p4notewifiww",
     "model": "GT-N8010"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note Edge",
+    "codename": "SC-01G",
+    "model": "SC-01G"
   },
   {
     "manufacturer": "Samsung",
@@ -3664,6 +3676,12 @@
     "market_name": "Galaxy Note2",
     "codename": "t0ltevzw",
     "model": "SCH-I605"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note3",
+    "codename": "SC-01F",
+    "model": "SC-01F"
   },
   {
     "manufacturer": "Samsung",
@@ -4138,6 +4156,12 @@
     "market_name": "Galaxy On5",
     "codename": "on5ltemtr",
     "model": "SM-G550T1"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On5",
+    "codename": "on5ltetfntmo",
+    "model": "SM-S550TL"
   },
   {
     "manufacturer": "Samsung",
@@ -4952,6 +4976,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S5",
+    "codename": "SC-04F",
+    "model": "SC-04F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S5",
     "codename": "SCL23",
     "model": "SCL23"
   },
@@ -5144,6 +5174,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S6",
+    "codename": "SC-05G",
+    "model": "SC-05G"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S6",
     "codename": "zeroflte",
     "model": "SM-G920F"
   },
@@ -5266,6 +5302,12 @@
     "market_name": "Galaxy S6 Edge",
     "codename": "404SC",
     "model": "404SC"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S6 Edge",
+    "codename": "SC-04G",
+    "model": "SC-04G"
   },
   {
     "manufacturer": "Samsung",

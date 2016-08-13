@@ -147,6 +147,11 @@
       "model": "A37fw"
     },
     {
+      "market_name": "A37fw-International",
+      "codename": "A37fs",
+      "model": "A37f"
+    },
+    {
       "market_name": "A37t",
       "codename": "A37",
       "model": "OPPO A37t"
@@ -200,6 +205,16 @@
       "market_name": "A53w",
       "codename": "A53",
       "model": "A53w"
+    },
+    {
+      "market_name": "CPH1605",
+      "codename": "CPH1605",
+      "model": "OPPO CPH1605"
+    },
+    {
+      "market_name": "CPH1605fw",
+      "codename": "CPH1605",
+      "model": "CPH1605fw"
     },
     {
       "market_name": "F1f",
@@ -287,6 +302,16 @@
       "model": "A11w"
     },
     {
+      "market_name": "OPPO A37",
+      "codename": "A37",
+      "model": "OPPO A37"
+    },
+    {
+      "market_name": "OPPO A37fw",
+      "codename": "A37fs",
+      "model": "A37fw"
+    },
+    {
       "market_name": "OPPO A37m",
       "codename": "A37",
       "model": "OPPO A37m"
@@ -295,6 +320,26 @@
       "market_name": "OPPO A37tm",
       "codename": "A37",
       "model": "OPPO A37tm"
+    },
+    {
+      "market_name": "OPPO A39",
+      "codename": "A39",
+      "model": "OPPO A39"
+    },
+    {
+      "market_name": "OPPO A39m",
+      "codename": "A39",
+      "model": "OPPO A39m"
+    },
+    {
+      "market_name": "OPPO A39t",
+      "codename": "A39",
+      "model": "OPPO A39t"
+    },
+    {
+      "market_name": "OPPO A39tm",
+      "codename": "A39",
+      "model": "OPPO A39tm"
     },
     {
       "market_name": "OPPO A59",
@@ -335,6 +380,11 @@
       "market_name": "OPPO R9 Plus A",
       "codename": "R9PlusA",
       "model": "OPPO R9 Plus A"
+    },
+    {
+      "market_name": "OPPO R9k",
+      "codename": "R9",
+      "model": "OPPO R9k"
     },
     {
       "market_name": "OPPO Ulike2",
@@ -380,6 +430,11 @@
       "market_name": "R6006",
       "codename": "R3",
       "model": "R6006"
+    },
+    {
+      "market_name": "R7",
+      "codename": "R7",
+      "model": "OPPO R7"
     },
     {
       "market_name": "R7",
@@ -445,6 +500,11 @@
       "market_name": "R7kt",
       "codename": "R7",
       "model": "R7kt"
+    },
+    {
+      "market_name": "R7s",
+      "codename": "R7s",
+      "model": "OPPO R7s"
     },
     {
       "market_name": "R7s",

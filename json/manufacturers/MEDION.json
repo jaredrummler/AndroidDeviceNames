@@ -17,6 +17,11 @@
       "model": "MEDION B5530"
     },
     {
+      "market_name": "E731x",
+      "codename": "LIFETAB_E731X",
+      "model": "LIFETAB_E731X"
+    },
+    {
       "market_name": "LIFETAB E10316",
       "codename": "LIFETAB_E10316",
       "model": "BOSCH_E10316"
@@ -35,6 +40,11 @@
       "market_name": "LIFETAB E10320",
       "codename": "LIFETAB_E10320",
       "model": "MICROSTAR_E10319"
+    },
+    {
+      "market_name": "LIFETAB E723X",
+      "codename": "LIFETAB_E723X",
+      "model": "LIFETAB_E723X"
     },
     {
       "market_name": "LIFETAB E7313",
@@ -57,14 +67,44 @@
       "model": "LIFETAB_E732X"
     },
     {
+      "market_name": "LIFETAB E732X",
+      "codename": "LIFETAB_E733X",
+      "model": "LIFETAB_E733X"
+    },
+    {
+      "market_name": "LIFETAB E732X",
+      "codename": "LIFETAB_E733X",
+      "model": "LIFETAB_S733X"
+    },
+    {
+      "market_name": "LIFETAB P1034X",
+      "codename": "lifetab_p1034x",
+      "model": "LIFETAB_P1034X"
+    },
+    {
       "market_name": "LIFETAB P733x",
       "codename": "lifetab_p733x",
       "model": "LIFETAB_P733X"
     },
     {
+      "market_name": "LIFETAB P831X",
+      "codename": "lifetab_p831x",
+      "model": "LIFETAB_P831X"
+    },
+    {
+      "market_name": "LIFETAB P831X",
+      "codename": "lifetab_p831x",
+      "model": "LIFETAB_P831X.2"
+    },
+    {
       "market_name": "LIFETAB P891X",
       "codename": "lifetab_p891x",
       "model": "LIFETAB_P891X"
+    },
+    {
+      "market_name": "LIFETAB S1032X",
+      "codename": "S1032X",
+      "model": "S1032X"
     },
     {
       "market_name": "LIFETAB S1033X",
@@ -82,9 +122,19 @@
       "model": "LIFETAB_S785X"
     },
     {
+      "market_name": "LIFETAB S786x",
+      "codename": "LIFETAB_S786X",
+      "model": "LIFETAB_S786X"
+    },
+    {
       "market_name": "LIFETAB S831X",
       "codename": "LIFETAB_S831X",
       "model": "LIFETAB_S831X"
+    },
+    {
+      "market_name": "LIFETAB_S1036X",
+      "codename": "lifetab_s1036x",
+      "model": "LIFETAB_S1036X"
     },
     {
       "market_name": "Lifetab P9514",
@@ -100,6 +150,31 @@
       "market_name": "MEDION E5004",
       "codename": "E5004",
       "model": "MEDION E5004"
+    },
+    {
+      "market_name": "Media Base P740X",
+      "codename": "P740X",
+      "model": "P740X"
+    },
+    {
+      "market_name": "P1032X",
+      "codename": "P1032X",
+      "model": "P1032X"
+    },
+    {
+      "market_name": "P1035X",
+      "codename": "P1035X",
+      "model": "P1035X"
+    },
+    {
+      "market_name": "P1050X",
+      "codename": "P1050X",
+      "model": "P1040X"
+    },
+    {
+      "market_name": "P1050X",
+      "codename": "P1050X",
+      "model": "P1050X"
     },
     {
       "market_name": "P4501",
@@ -122,6 +197,16 @@
       "model": "MEDION P5015"
     },
     {
+      "market_name": "P850X",
+      "codename": "P850X",
+      "model": "P850X"
+    },
+    {
+      "market_name": "S1035X",
+      "codename": "S1035X",
+      "model": "S1035X"
+    },
+    {
       "market_name": "S5004",
       "codename": "S5004",
       "model": "MEDION S5004"
@@ -130,6 +215,11 @@
       "market_name": "S5504",
       "codename": "B5531",
       "model": "B5531"
+    },
+    {
+      "market_name": "S7322",
+      "codename": "LIFETAB_S732X",
+      "model": "LIFETAB_S732X"
     },
     {
       "market_name": "X6001",

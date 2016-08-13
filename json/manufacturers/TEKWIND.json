@@ -2,6 +2,11 @@
   "manufacturer": "Tekwind",
   "devices": [
     {
+      "market_name": "A10A",
+      "codename": "A10A",
+      "model": "A10A"
+    },
+    {
       "market_name": "TC97RA1",
       "codename": "TC97RA1_1",
       "model": "TC97RA1"

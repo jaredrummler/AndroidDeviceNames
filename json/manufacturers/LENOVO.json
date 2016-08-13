@@ -1137,6 +1137,11 @@
       "model": "Lenovo A3580"
     },
     {
+      "market_name": "Lenovo A3860",
+      "codename": "A3860",
+      "model": "Lenovo A3860"
+    },
+    {
       "market_name": "Lenovo A388t",
       "codename": "A388t",
       "model": "Lenovo A388t"
@@ -1275,6 +1280,16 @@
       "market_name": "Lenovo A628t",
       "codename": "A628t",
       "model": "Lenovo A628t"
+    },
+    {
+      "market_name": "Lenovo A6600",
+      "codename": "A6600d40",
+      "model": "Lenovo A6600d40"
+    },
+    {
+      "market_name": "Lenovo A6600 Plus",
+      "codename": "A6600a40",
+      "model": "Lenovo A6600a40"
     },
     {
       "market_name": "Lenovo A680",
@@ -1500,6 +1515,11 @@
       "market_name": "Lenovo B8080-HV",
       "codename": "B8080",
       "model": "Lenovo B8080-HV"
+    },
+    {
+      "market_name": "Lenovo K10e70",
+      "codename": "K10e70",
+      "model": "Lenovo K10e70"
     },
     {
       "market_name": "Lenovo K3 Note",
@@ -1737,6 +1757,11 @@
       "model": "Lenovo PB1-770N"
     },
     {
+      "market_name": "Lenovo PB2",
+      "codename": "PB2",
+      "model": "Lenovo PB2-650M"
+    },
+    {
       "market_name": "Lenovo S1",
       "codename": "S1a40",
       "model": "Lenovo S1a40"
@@ -1917,6 +1942,11 @@
       "model": "Lenovo S968t"
     },
     {
+      "market_name": "Lenovo TAB 10",
+      "codename": "TB-X103F",
+      "model": "Lenovo TB-X103F"
+    },
+    {
       "market_name": "Lenovo TAB 2 A10",
       "codename": "A10-70F",
       "model": "Lenovo TAB 2 A10-70F"
@@ -2007,6 +2037,11 @@
       "model": "Lenovo TAB S8-50LC"
     },
     {
+      "market_name": "Lenovo TAB3 7 Plus",
+      "codename": "TB-7703F",
+      "model": "Lenovo TB-7703F"
+    },
+    {
       "market_name": "Lenovo TAB3 730F",
       "codename": "TB3-730F",
       "model": "Lenovo TB3-730F"
@@ -2035,6 +2070,11 @@
       "market_name": "Lenovo TB2-X30F",
       "codename": "TB2-X30F",
       "model": "Lenovo TB2-X30F"
+    },
+    {
+      "market_name": "Lenovo TB2-X30F",
+      "codename": "TB2-X30F",
+      "model": "Lenovo TB2-X30F_UK"
     },
     {
       "market_name": "Lenovo TB2-X30L",
@@ -2275,6 +2315,11 @@
       "market_name": "Lenvo S960",
       "codename": "S960_ROW",
       "model": "Lenovo S960"
+    },
+    {
+      "market_name": "Moto E3",
+      "codename": "taidos_row",
+      "model": "XT1700"
     },
     {
       "market_name": "Moto E3 Power",

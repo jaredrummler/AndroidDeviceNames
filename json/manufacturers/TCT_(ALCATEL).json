@@ -537,6 +537,11 @@
       "model": "4024X"
     },
     {
+      "market_name": "5023F",
+      "codename": "Pixi4PlusPower",
+      "model": "5023F"
+    },
+    {
       "market_name": "5038D",
       "codename": "SOUL45_GSM",
       "model": "5038D"
@@ -545,6 +550,41 @@
       "market_name": "5042T",
       "codename": "ALTO45TMO",
       "model": "5042T"
+    },
+    {
+      "market_name": "5051",
+      "codename": "POP45",
+      "model": "5051"
+    },
+    {
+      "market_name": "5051A",
+      "codename": "POP45",
+      "model": "5051A"
+    },
+    {
+      "market_name": "5051D",
+      "codename": "POP45",
+      "model": "5051D"
+    },
+    {
+      "market_name": "5051J",
+      "codename": "POP45",
+      "model": "5051J"
+    },
+    {
+      "market_name": "5051M",
+      "codename": "POP45",
+      "model": "5051M"
+    },
+    {
+      "market_name": "5051T",
+      "codename": "POP45",
+      "model": "5051T"
+    },
+    {
+      "market_name": "5051X",
+      "codename": "POP45",
+      "model": "5051X"
     },
     {
       "market_name": "5054A",
@@ -575,6 +615,41 @@
       "market_name": "5054X",
       "codename": "Pop355",
       "model": "5054X"
+    },
+    {
+      "market_name": "5056",
+      "codename": "POP455C",
+      "model": "5056"
+    },
+    {
+      "market_name": "5056A",
+      "codename": "POP455C",
+      "model": "5056A"
+    },
+    {
+      "market_name": "5056D",
+      "codename": "POP455C",
+      "model": "5056D"
+    },
+    {
+      "market_name": "5056E",
+      "codename": "POP455C",
+      "model": "5056E"
+    },
+    {
+      "market_name": "5056E",
+      "codename": "POP455C",
+      "model": "5056M"
+    },
+    {
+      "market_name": "5056N",
+      "codename": "POP455C",
+      "model": "5056N"
+    },
+    {
+      "market_name": "5056X",
+      "codename": "POP455C",
+      "model": "5056X"
     },
     {
       "market_name": "5065A",
@@ -915,6 +990,21 @@
       "market_name": "9010X",
       "codename": "Pixi3-10_3G",
       "model": "9010X"
+    },
+    {
+      "market_name": "9015B",
+      "codename": "Pixi4-7_4G_Bell",
+      "model": "9015B"
+    },
+    {
+      "market_name": "9015B",
+      "codename": "Pixi4-7_4G_Bell",
+      "model": "ALCATEL ONETOUCH POP 7 LTE"
+    },
+    {
+      "market_name": "9015Q",
+      "codename": "PIXI4-7_4G",
+      "model": "9015Q"
     },
     {
       "market_name": "9015W",
@@ -2099,6 +2189,11 @@
     {
       "market_name": "ALCATEL PIXI 4 (5)",
       "codename": "PIXI4_5_4G",
+      "model": "5045Y"
+    },
+    {
+      "market_name": "ALCATEL PIXI 4 (5)",
+      "codename": "PIXI4_5_4G",
       "model": "DIGICELDL1"
     },
     {
@@ -2312,6 +2407,11 @@
       "model": "DL900"
     },
     {
+      "market_name": "DLGICELDL1 plus",
+      "codename": "POP455C",
+      "model": "DIGICELDL1plus"
+    },
+    {
       "market_name": "E500",
       "codename": "X50D",
       "model": "E500"
@@ -2330,6 +2430,11 @@
       "market_name": "EVO7",
       "codename": "EVO7",
       "model": "starTIM tab 7"
+    },
+    {
+      "market_name": "FL03",
+      "codename": "FLASH3",
+      "model": "FL03"
     },
     {
       "market_name": "Flash Plus 2",
@@ -3390,6 +3495,11 @@
       "market_name": "SMART 4G 5.5 Enterprise",
       "codename": "M812",
       "model": "SMART 4G 5.5 Enterprise"
+    },
+    {
+      "market_name": "SOLO Aspire M",
+      "codename": "PIXI3-5",
+      "model": "SOLO Aspire M"
     },
     {
       "market_name": "SOUL 4.5",

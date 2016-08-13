@@ -162,6 +162,11 @@
       "model": "HTC V2"
     },
     {
+      "market_name": "Desire 530",
+      "codename": "htc_a16ul",
+      "model": "HTC 2PST2"
+    },
+    {
       "market_name": "Desire 620 dual sim",
       "codename": "htc_a31dtul",
       "model": "HTC_D620u"
@@ -2890,6 +2895,16 @@
       "market_name": "Wildfire S",
       "codename": "marvel",
       "model": "HTC-A510a"
+    },
+    {
+      "market_name": "hTC Desire 530",
+      "codename": "htc_a16wl",
+      "model": "HTCD160LVW"
+    },
+    {
+      "market_name": "hTC Desire 530",
+      "codename": "htc_a16wl",
+      "model": "HTCD160LVWPP"
     },
     {
       "market_name": "hTC Desire 601",

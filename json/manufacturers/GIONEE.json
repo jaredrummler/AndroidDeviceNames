@@ -77,6 +77,11 @@
       "model": "GN3001"
     },
     {
+      "market_name": "GN3001L",
+      "codename": "GiONEE_GBL7523",
+      "model": "GN3001L"
+    },
+    {
       "market_name": "GN3002",
       "codename": "GIONEE_GBL7356",
       "model": "GN3002"
@@ -290,6 +295,11 @@
       "market_name": "S6 Pro",
       "codename": "GIONEE_GBL7529",
       "model": "GN9012"
+    },
+    {
+      "market_name": "S6 Pro",
+      "codename": "GIONEE_GBL7529",
+      "model": "S6 Pro"
     },
     {
       "market_name": "S6s",

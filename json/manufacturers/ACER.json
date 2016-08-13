@@ -67,6 +67,11 @@
       "model": "A1-713"
     },
     {
+      "market_name": "A1-734",
+      "codename": "acer_barricade",
+      "model": "A1-734"
+    },
+    {
       "market_name": "A1-810",
       "codename": "mango",
       "model": "A1-810"
@@ -275,6 +280,16 @@
       "market_name": "Icona One 7",
       "codename": "vespa",
       "model": "B1-730HD"
+    },
+    {
+      "market_name": "Iconia One 10",
+      "codename": "corona",
+      "model": "B3-A20"
+    },
+    {
+      "market_name": "Iconia One 10",
+      "codename": "corona",
+      "model": "B3-A20B"
     },
     {
       "market_name": "Iconia One 7",

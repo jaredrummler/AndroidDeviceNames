@@ -622,6 +622,11 @@
       "model": "Transformer TF101G"
     },
     {
+      "market_name": "X00AD_2",
+      "codename": "ASUS_X00AD_2",
+      "model": "ASUS_X00AD"
+    },
+    {
       "market_name": "ZenFone 2 (ZE500CL)",
       "codename": "ASUS_Z00D",
       "model": "ASUS ZenFone 2"
@@ -1012,14 +1017,34 @@
       "model": "P01MA"
     },
     {
+      "market_name": "ZenPad Z10",
+      "codename": "P00I",
+      "model": "P00I"
+    },
+    {
       "market_name": "ZenPadC 7.0 (Z170MG)",
       "codename": "P001_2",
       "model": "P001_2"
     },
     {
+      "market_name": "Zenfone",
+      "codename": "ASUS_X007D",
+      "model": "ASUS_X007D"
+    },
+    {
       "market_name": "Zenfone 3",
       "codename": "ASUS_Z012D",
       "model": "ASUS_Z012D"
+    },
+    {
+      "market_name": "Zenfone 3",
+      "codename": "ASUS_Z012D",
+      "model": "ASUS_Z012DA"
+    },
+    {
+      "market_name": "Zenfone 3",
+      "codename": "ASUS_Z012D",
+      "model": "ASUS_Z012DE"
     },
     {
       "market_name": "Zenfone GO",
@@ -1050,6 +1075,16 @@
       "market_name": "Zenfone Go",
       "codename": "ASUS_L001_2",
       "model": "ASUS_L001"
+    },
+    {
+      "market_name": "Zenfone Go",
+      "codename": "ASUS_X009D_2",
+      "model": "ASUS_X009DB"
+    },
+    {
+      "market_name": "Zenfone Go (ASUS_X00BD)",
+      "codename": "ASUS_X00BD_1",
+      "model": "ASUS_X00BD"
     },
     {
       "market_name": "Zenfone Go (ASUS_Z00SD)",

@@ -2,6 +2,21 @@
   "manufacturer": "Cell_C",
   "devices": [
     {
+      "market_name": "Cell C Evolve",
+      "codename": "CELLC_Evolve",
+      "model": "CELLC_Evolve"
+    },
+    {
+      "market_name": "Cell C Nitro",
+      "codename": "CELLC_Nitro",
+      "model": "CELLC_Nitro"
+    },
+    {
+      "market_name": "CellC_Extreme",
+      "codename": "CELLC_Extreme",
+      "model": "CELLC_Extreme"
+    },
+    {
       "market_name": "Fantasy",
       "codename": "Cell_C",
       "model": "Fantasy"

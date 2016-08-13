@@ -12,6 +12,11 @@
       "model": "A67"
     },
     {
+      "market_name": "A68",
+      "codename": "A68",
+      "model": "A68"
+    },
+    {
       "market_name": "A71",
       "codename": "A71",
       "model": "A71"
@@ -67,6 +72,11 @@
       "model": "X12"
     },
     {
+      "market_name": "Lava X17",
+      "codename": "X17",
+      "model": "X17"
+    },
+    {
       "market_name": "Lava X38",
       "codename": "X38",
       "model": "X38"
@@ -75,6 +85,11 @@
       "market_name": "Lava X38 2GB",
       "codename": "X382GB",
       "model": "X38 2GB"
+    },
+    {
+      "market_name": "Lava X50",
+      "codename": "X50",
+      "model": "X50"
     },
     {
       "market_name": "Lava X81",
@@ -100,6 +115,11 @@
       "market_name": "V2s",
       "codename": "V2s",
       "model": "V2s"
+    },
+    {
+      "market_name": "V2s",
+      "codename": "V2s",
+      "model": "V2s M"
     },
     {
       "market_name": "V5",

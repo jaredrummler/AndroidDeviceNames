@@ -2412,6 +2412,11 @@
       "model": "SM-J120P"
     },
     {
+      "market_name": "Galaxy J1",
+      "codename": "j1xqltetfnvzw",
+      "model": "SM-S120VL"
+    },
+    {
       "market_name": "Galaxy J1 Ace",
       "codename": "j1acelte",
       "model": "SM-J110F"
@@ -2570,6 +2575,11 @@
       "market_name": "Galaxy J3(2016)",
       "codename": "j3ltekx",
       "model": "SM-J320N0"
+    },
+    {
+      "market_name": "Galaxy J3(2016)",
+      "codename": "j3ltetfnvzw",
+      "model": "SM-S320VL"
     },
     {
       "market_name": "Galaxy J3(2016)",
@@ -3368,6 +3378,11 @@
     },
     {
       "market_name": "Galaxy Note Edge",
+      "codename": "SC-01G",
+      "model": "SC-01G"
+    },
+    {
+      "market_name": "Galaxy Note Edge",
       "codename": "SCL24",
       "model": "SCL24"
     },
@@ -3615,6 +3630,11 @@
       "market_name": "Galaxy Note2",
       "codename": "t0ltevzw",
       "model": "SCH-I605"
+    },
+    {
+      "market_name": "Galaxy Note3",
+      "codename": "SC-01F",
+      "model": "SC-01F"
     },
     {
       "market_name": "Galaxy Note3",
@@ -4002,6 +4022,81 @@
       "model": "SM-N920V"
     },
     {
+      "market_name": "Galaxy Note7",
+      "codename": "gracelte",
+      "model": "SM-N930F"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "gracelte",
+      "model": "SM-N930X"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceltektt",
+      "model": "SM-N930K"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceltelgt",
+      "model": "SM-N930L"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "gracelteskt",
+      "model": "SM-N930S"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceqlteacg",
+      "model": "SM-N930R7"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceqlteatt",
+      "model": "SAMSUNG-SM-N930A"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceqltebmc",
+      "model": "SM-N930W8"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceqltechn",
+      "model": "SM-N9300"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceqltelra",
+      "model": "SM-N930R6"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceqltespr",
+      "model": "SM-N930P"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceqltetfnvzw",
+      "model": "SM-N930VL"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceqltetmo",
+      "model": "SM-N930T"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceqlteusc",
+      "model": "SM-N930R4"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceqltevzw",
+      "model": "SM-N930V"
+    },
+    {
       "market_name": "Galaxy On5",
       "codename": "o5lte",
       "model": "SM-G550FY"
@@ -4020,6 +4115,11 @@
       "market_name": "Galaxy On5",
       "codename": "on5ltemtr",
       "model": "SM-G550T1"
+    },
+    {
+      "market_name": "Galaxy On5",
+      "codename": "on5ltetfntmo",
+      "model": "SM-S550TL"
     },
     {
       "market_name": "Galaxy On5",
@@ -5388,6 +5488,11 @@
     },
     {
       "market_name": "Galaxy S5",
+      "codename": "SC-04F",
+      "model": "SC-04F"
+    },
+    {
+      "market_name": "Galaxy S5",
       "codename": "SCL23",
       "model": "SCL23"
     },
@@ -5533,6 +5638,11 @@
     },
     {
       "market_name": "Galaxy S5 Active",
+      "codename": "SC-02G",
+      "model": "SC-02G"
+    },
+    {
+      "market_name": "Galaxy S5 Active",
       "codename": "kactiveltekx",
       "model": "SM-G870F0"
     },
@@ -5630,6 +5740,11 @@
       "market_name": "Galaxy S5 mini LTE",
       "codename": "kminilte",
       "model": "SM-G800Y"
+    },
+    {
+      "market_name": "Galaxy S6",
+      "codename": "SC-05G",
+      "model": "SC-05G"
     },
     {
       "market_name": "Galaxy S6",
@@ -5740,6 +5855,11 @@
       "market_name": "Galaxy S6 Edge",
       "codename": "404SC",
       "model": "404SC"
+    },
+    {
+      "market_name": "Galaxy S6 Edge",
+      "codename": "SC-04G",
+      "model": "SC-04G"
     },
     {
       "market_name": "Galaxy S6 Edge",
@@ -8250,36 +8370,6 @@
       "market_name": "Rugby Smart",
       "codename": "SGH-I847",
       "model": "SAMSUNG-SGH-I847"
-    },
-    {
-      "market_name": "SC-01F",
-      "codename": "SC-01F",
-      "model": "SC-01F"
-    },
-    {
-      "market_name": "SC-01G",
-      "codename": "SC-01G",
-      "model": "SC-01G"
-    },
-    {
-      "market_name": "SC-02G",
-      "codename": "SC-02G",
-      "model": "SC-02G"
-    },
-    {
-      "market_name": "SC-04F",
-      "codename": "SC-04F",
-      "model": "SC-04F"
-    },
-    {
-      "market_name": "SC-04G",
-      "codename": "SC-04G",
-      "model": "SC-04G"
-    },
-    {
-      "market_name": "SC-05G",
-      "codename": "SC-05G",
-      "model": "SC-05G"
     },
     {
       "market_name": "SM-G9198",

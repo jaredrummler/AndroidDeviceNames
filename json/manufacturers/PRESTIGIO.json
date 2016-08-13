@@ -107,6 +107,11 @@
       "model": "PSP5517DUO"
     },
     {
+      "market_name": "Multipad Wize 3407 4G",
+      "codename": "WT70A1L",
+      "model": "PMT3407_4G"
+    },
+    {
       "market_name": "Multipad Wize 3408 4G",
       "codename": "LS80A1L",
       "model": "PMT3408_4G"
@@ -215,6 +220,16 @@
       "market_name": "PMT3437_3G",
       "codename": "JP70A1W",
       "model": "PMT3437_3G"
+    },
+    {
+      "market_name": "PMT3507_4G",
+      "codename": "WT70A1L",
+      "model": "PMT3507_4G"
+    },
+    {
+      "market_name": "PMT3607_4G",
+      "codename": "WT70A1L",
+      "model": "PMT3607_4G"
     },
     {
       "market_name": "PMT3608_4G",
@@ -452,6 +467,11 @@
       "model": "PSP5507DUO"
     },
     {
+      "market_name": "PSP5509DUO",
+      "codename": "TE50B4L",
+      "model": "PSP5509DUO"
+    },
+    {
       "market_name": "PSP5512DUO",
       "codename": "TE50B3G",
       "model": "PSP5512DUO"
@@ -460,6 +480,11 @@
       "market_name": "PSP5516DUO",
       "codename": "DW50A03G",
       "model": "PSP5516DUO"
+    },
+    {
+      "market_name": "PSP5519DUO",
+      "codename": "TE50B4L",
+      "model": "PSP5519DUO"
     },
     {
       "market_name": "PSP5550DUO",
