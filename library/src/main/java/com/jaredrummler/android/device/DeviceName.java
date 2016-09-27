@@ -118,15 +118,7 @@ public class DeviceName {
    * @see #getDeviceName(String, String)
    */
   public static String getDeviceName() {
-    String manufacturer = Build.MANUFACTURER;
-    String model = Build.MODEL;
-    String fallback;
-    if (model.startsWith(manufacturer)) {
-      fallback = capitalize(model);
-    } else {
-      fallback = capitalize(manufacturer) + " " + model;
-    }
-    return getDeviceName(Build.DEVICE, model, fallback);
+    return getDeviceName(Build.DEVICE, Build.MODEL, capitalize(Build.MODEL));
   }
 
   /**
