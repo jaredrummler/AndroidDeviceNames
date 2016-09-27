@@ -2001,7 +2001,7 @@ public class DeviceName {
   }
 
   /** Get the device name from the generated JSON files created from Google's device list. */
-  private static DeviceInfo getDeviceInfo(Context context, String codename, String model) {
+  static DeviceInfo getDeviceInfo(Context context, String codename, String model) {
     SharedPreferences prefs = context.getSharedPreferences(SHARED_PREF_NAME, Context.MODE_PRIVATE);
     String key = String.format("%s:%s", codename, model);
     String savedJson = prefs.getString(key, null);
@@ -2071,7 +2071,7 @@ public class DeviceName {
    *     the String to capitalize
    * @return capitalized The capitalized String
    */
-  private static String capitalize(String str) {
+  static String capitalize(String str) {
     if (TextUtils.isEmpty(str)) {
       return str;
     }
@@ -2120,10 +2120,10 @@ public class DeviceName {
 
   public static final class Request {
 
-    private final Context context;
-    private final Handler handler;
-    private String codename;
-    private String model;
+    final Context context;
+    final Handler handler;
+    String codename;
+    String model;
 
     private Request(Context ctx) {
       context = ctx;
@@ -2178,9 +2178,9 @@ public class DeviceName {
 
     private final class GetDeviceRunnable implements Runnable {
 
-      private final Callback callback;
-      private DeviceInfo deviceInfo;
-      private Exception error;
+      final Callback callback;
+      DeviceInfo deviceInfo;
+      Exception error;
 
       public GetDeviceRunnable(Callback callback) {
         this.callback = callback;
