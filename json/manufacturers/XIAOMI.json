@@ -202,6 +202,11 @@
       "model": "MI PAD"
     },
     {
+      "market_name": "MIBOX3",
+      "codename": "once",
+      "model": "MIBOX3"
+    },
+    {
       "market_name": "MIBOXPRO",
       "codename": "kungfupanda",
       "model": "MiBOX_PRO"
@@ -280,6 +285,16 @@
       "market_name": "Redmi Note 3",
       "codename": "kenzo",
       "model": "Redmi Note 3"
+    },
+    {
+      "market_name": "Redmi Note 4",
+      "codename": "nikel",
+      "model": "Redmi Note 4"
+    },
+    {
+      "market_name": "Redmi Pro",
+      "codename": "omega",
+      "model": "Redmi Pro"
     }
   ]
 }

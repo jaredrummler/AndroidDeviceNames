@@ -107,6 +107,11 @@
       "model": "P4_eMagic_TM"
     },
     {
+      "market_name": "P41 eMagic",
+      "codename": "P41_eMagic",
+      "model": "P41_eMagic"
+    },
+    {
       "market_name": "P5 Energy",
       "codename": "P5_Energy",
       "model": "P5_Energy"
@@ -115,6 +120,11 @@
       "market_name": "P5 Life",
       "codename": "P5Life",
       "model": "P5Life_TM"
+    },
+    {
+      "market_name": "P5 Lite",
+      "codename": "P5_Lite",
+      "model": "P5_Lite"
     },
     {
       "market_name": "P5 Pro",
@@ -145,6 +155,11 @@
       "market_name": "P6 Energy",
       "codename": "P6_Energy",
       "model": "P6_Energy_TM"
+    },
+    {
+      "market_name": "P6 Energy Lite",
+      "codename": "P6_Energy_Lite",
+      "model": "P6_Energy_Lite"
     },
     {
       "market_name": "P6 Lite",
@@ -205,6 +220,11 @@
       "market_name": "P8 eMagic",
       "codename": "P8_eMagic",
       "model": "P8_eMagic"
+    },
+    {
+      "market_name": "P8 eMagic",
+      "codename": "P8_eMagic",
+      "model": "P8_eMagic_TM"
     },
     {
       "market_name": "V1 Viper E",
@@ -277,6 +297,11 @@
       "model": "V2_Viper_X_plus"
     },
     {
+      "market_name": "Viva 1001G",
+      "codename": "Viva_1001G",
+      "model": "Viva_1001G"
+    },
+    {
       "market_name": "Viva C701",
       "codename": "Viva_C701",
       "model": "Viva_C701"
@@ -310,6 +335,11 @@
       "market_name": "Viva H801",
       "codename": "Viva_H801",
       "model": "Viva_H801"
+    },
+    {
+      "market_name": "Viva H801 LTE",
+      "codename": "Viva_H801_LTE",
+      "model": "Viva_H801_LTE"
     },
     {
       "market_name": "Viva i10HD",
@@ -385,6 +415,16 @@
       "market_name": "X3 Soul Lite",
       "codename": "X3_Soul_Lite",
       "model": "X3_Soul_Lite"
+    },
+    {
+      "market_name": "X3 Soul Lite",
+      "codename": "X3_Soul_Lite",
+      "model": "X3_Soul_Lite_TM"
+    },
+    {
+      "market_name": "X3 Soul Plus",
+      "codename": "X3_Soul_PLUS",
+      "model": "X3_Soul_PLUS"
     },
     {
       "market_name": "X3 Soul Pro",

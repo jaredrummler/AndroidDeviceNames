@@ -7,6 +7,11 @@
       "model": "W900 LTE"
     },
     {
+      "market_name": "Flare J3",
+      "codename": "H680",
+      "model": "Flare_J3"
+    },
+    {
       "market_name": "Flare X",
       "codename": "Flare_X",
       "model": "Flare_X_V2"
@@ -15,6 +20,11 @@
       "market_name": "H220",
       "codename": "ctih220_sprout",
       "model": "H220"
+    },
+    {
+      "market_name": "Omega HD 3S",
+      "codename": "H115",
+      "model": "OMEGA HD 3S"
     },
     {
       "market_name": "Omega HD3",

@@ -12,6 +12,11 @@
       "model": "Wileyfox Spark +"
     },
     {
+      "market_name": "Spark X",
+      "codename": "porridgek3",
+      "model": "Wileyfox Spark X"
+    },
+    {
       "market_name": "Storm",
       "codename": "kipper",
       "model": "Wileyfox Storm"
@@ -20,6 +25,16 @@
       "market_name": "Swift",
       "codename": "crackling",
       "model": "Wileyfox Swift"
+    },
+    {
+      "market_name": "Swift 2 Plus",
+      "codename": "marmite",
+      "model": "Swift 2"
+    },
+    {
+      "market_name": "Swift 2 Plus",
+      "codename": "marmite",
+      "model": "Wileyfox Swift 2 Plus"
     }
   ]
 }

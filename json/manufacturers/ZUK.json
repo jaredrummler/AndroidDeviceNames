@@ -2,6 +2,11 @@
   "manufacturer": "Zuk",
   "devices": [
     {
+      "market_name": "Lenovo Z2 Plus",
+      "codename": "z2_plus_hw",
+      "model": "ZUK Z2132"
+    },
+    {
       "market_name": "Z2",
       "codename": "z2_plus",
       "model": "ZUK Z2131"

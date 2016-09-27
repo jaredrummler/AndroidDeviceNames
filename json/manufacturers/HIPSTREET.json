@@ -27,12 +27,12 @@
       "model": "9DTB39"
     },
     {
-      "market_name": "Beeline smart 4",
+      "market_name": "Beeline Smart 4",
       "codename": "Beeline_Smart_4",
       "model": "Beeline Smart 4"
     },
     {
-      "market_name": "Beeline_Smart_5",
+      "market_name": "Beeline Smart 5",
       "codename": "Beeline_Smart_5",
       "model": "Beeline Smart 5"
     },
@@ -137,6 +137,11 @@
       "model": "LS-5017"
     },
     {
+      "market_name": "LS-5507",
+      "codename": "LYF_LS_5507",
+      "model": "LS-5507"
+    },
+    {
       "market_name": "LS-6001",
       "codename": "LS-6001",
       "model": "LS-6001"
@@ -147,7 +152,7 @@
       "model": "7DTB41"
     },
     {
-      "market_name": "Nanho_T775",
+      "market_name": "Nanho T775",
       "codename": "Nanho_T775",
       "model": "Nanho_T775"
     },

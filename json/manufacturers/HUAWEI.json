@@ -268,11 +268,6 @@
     },
     {
       "market_name": "",
-      "codename": "hwc8826D",
-      "model": "HUAWEI C8826D"
-    },
-    {
-      "market_name": "",
       "codename": "hwc8850",
       "model": "HUAWEI-C8850"
     },
@@ -923,11 +918,6 @@
     },
     {
       "market_name": "",
-      "codename": "hwu8812D",
-      "model": "U8812D"
-    },
-    {
-      "market_name": "",
       "codename": "hwu8815",
       "model": "HUAWEI Ascend G 300"
     },
@@ -1010,16 +1000,6 @@
       "market_name": "",
       "codename": "hwu8825D",
       "model": "HUAWEI U8825D"
-    },
-    {
-      "market_name": "",
-      "codename": "hwu8832D",
-      "model": "U8832D"
-    },
-    {
-      "market_name": "",
-      "codename": "hwu8836D",
-      "model": "U8836D"
     },
     {
       "market_name": "",
@@ -1223,11 +1203,6 @@
     },
     {
       "market_name": "",
-      "codename": "hwy220t",
-      "model": "HUAWEI Y 220T"
-    },
-    {
-      "market_name": "",
       "codename": "msm7201a",
       "model": "Pulse"
     },
@@ -1412,31 +1387,6 @@
       "model": "HUAWEI A199"
     },
     {
-      "market_name": "ALE-L02",
-      "codename": "hwALE-H",
-      "model": "503HW"
-    },
-    {
-      "market_name": "ALE-L02",
-      "codename": "hwALE-H",
-      "model": "ALE-L02"
-    },
-    {
-      "market_name": "ALE-L04",
-      "codename": "hwALE-Q",
-      "model": "HUAWEI ALE-L04"
-    },
-    {
-      "market_name": "ALE-L23",
-      "codename": "hwALE-H",
-      "model": "ALE-L23"
-    },
-    {
-      "market_name": "ALE-L23",
-      "codename": "hwALE-H",
-      "model": "Autana LTE"
-    },
-    {
       "market_name": "ATH-TL00",
       "codename": "HWATH",
       "model": "ATH-TL00"
@@ -1465,6 +1415,11 @@
       "market_name": "C8812",
       "codename": "hwc8812",
       "model": "HUAWEI C8812"
+    },
+    {
+      "market_name": "C8813D",
+      "codename": "hwc8813",
+      "model": "HUAWEI C8813D"
     },
     {
       "market_name": "C8813DQ",
@@ -1505,6 +1460,11 @@
       "market_name": "C8818",
       "codename": "hwC8818",
       "model": "HUAWEI C8818"
+    },
+    {
+      "market_name": "C8826D",
+      "codename": "hwc8826D",
+      "model": "HUAWEI C8826D"
     },
     {
       "market_name": "CHC-U01",
@@ -2072,6 +2032,11 @@
       "model": "HUAWEI G7500"
     },
     {
+      "market_name": "GR5W",
+      "codename": "HWH1621-Q",
+      "model": "H1621"
+    },
+    {
       "market_name": "Gran_Roraima",
       "codename": "hws7721u",
       "model": "Orinoquia Gran Roraima + S7-722u"
@@ -2202,6 +2167,21 @@
       "model": "HUAWEI LUA-U23"
     },
     {
+      "market_name": "HUAWEI FRD-L02",
+      "codename": "HWFRD",
+      "model": "FRD-L02"
+    },
+    {
+      "market_name": "HUAWEI FRD-L09",
+      "codename": "HWFRD",
+      "model": "FRD-L09"
+    },
+    {
+      "market_name": "HUAWEI FRD-L19",
+      "codename": "HWFRD",
+      "model": "FRD-L19"
+    },
+    {
       "market_name": "HUAWEI G630",
       "codename": "hwG630-T00",
       "model": "HUAWEI G630-T00"
@@ -2267,6 +2247,16 @@
       "model": "HUAWEI RIO-L03"
     },
     {
+      "market_name": "HUAWEI G9 Plus",
+      "codename": "HWMLA",
+      "model": "HUAWEI MLA-TL00"
+    },
+    {
+      "market_name": "HUAWEI G9 Plus",
+      "codename": "HWMLA",
+      "model": "HUAWEI MLA-UL00"
+    },
+    {
       "market_name": "HUAWEI G9\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
       "codename": "HWVNS-Q",
       "model": "HUAWEI VNS-AL00"
@@ -2300,6 +2290,46 @@
       "market_name": "HUAWEI GR3 Smart touch",
       "codename": "HWTAG-L6753",
       "model": "HUAWEI TAG-L32"
+    },
+    {
+      "market_name": "HUAWEI GR5",
+      "codename": "HWKII-Q",
+      "model": "HUAWEI KII-L03"
+    },
+    {
+      "market_name": "HUAWEI GR5",
+      "codename": "HWKII-Q",
+      "model": "HUAWEI KII-L05"
+    },
+    {
+      "market_name": "HUAWEI GR5",
+      "codename": "HWKII-Q",
+      "model": "HUAWEI KII-L21"
+    },
+    {
+      "market_name": "HUAWEI GR5",
+      "codename": "HWKII-Q",
+      "model": "HUAWEI KII-L22"
+    },
+    {
+      "market_name": "HUAWEI GR5",
+      "codename": "HWKII-Q",
+      "model": "HUAWEI KII-L23"
+    },
+    {
+      "market_name": "HUAWEI GR5",
+      "codename": "HWKII-Q",
+      "model": "HUAWEI KII-L33"
+    },
+    {
+      "market_name": "HUAWEI GR5",
+      "codename": "HWKII-Q",
+      "model": "KII-L21"
+    },
+    {
+      "market_name": "HUAWEI GT3",
+      "codename": "HWNMO-H",
+      "model": "HUAWEI NMO-L21"
     },
     {
       "market_name": "HUAWEI GT3",
@@ -2422,6 +2452,16 @@
       "model": "FDR-A03L"
     },
     {
+      "market_name": "HUAWEI MediaPad T2 7.0",
+      "codename": "hwbgo",
+      "model": "BGO-DL09"
+    },
+    {
+      "market_name": "HUAWEI MediaPad T2 7.0",
+      "codename": "hwbgo",
+      "model": "BGO-L03"
+    },
+    {
       "market_name": "HUAWEI MediaPad X1 7.0",
       "codename": "hw7d501l",
       "model": "7D-501u"
@@ -2457,11 +2497,6 @@
       "model": "HUAWEI P6-U06-orange"
     },
     {
-      "market_name": "HUAWEI P7-L11",
-      "codename": "hwp7",
-      "model": "HUAWEI P7-L11"
-    },
-    {
       "market_name": "HUAWEI P9 lite",
       "codename": "HWVNS-H",
       "model": "HUAWEI VNS-L21"
@@ -2485,6 +2520,11 @@
       "market_name": "HUAWEI P9 lite",
       "codename": "HWVNS-H",
       "model": "HUAWEI VNS-L53"
+    },
+    {
+      "market_name": "HUAWEI P9 lite",
+      "codename": "HWVNS-Q",
+      "model": "HUAWEI VNS-L62"
     },
     {
       "market_name": "HUAWEI RIO-CL00",
@@ -2579,6 +2619,11 @@
     {
       "market_name": "HUAWEI Y5II",
       "codename": "HWCUN-L6735",
+      "model": "HUAWEI CUN-L03"
+    },
+    {
+      "market_name": "HUAWEI Y5II",
+      "codename": "HWCUN-L6735",
       "model": "HUAWEI CUN-L21"
     },
     {
@@ -2647,16 +2692,6 @@
       "model": "HUAWEI LYO-L01"
     },
     {
-      "market_name": "HUAWEI Y6 \\xe2\\x85\\xa1 Compact",
-      "codename": "HWLYO-L6735",
-      "model": "HUAWEI LYO-L21"
-    },
-    {
-      "market_name": "HUAWEI Y6 \\xe2\\x85\\xa1 Compact",
-      "codename": "HWLYO-L6735",
-      "model": "LYO-L21"
-    },
-    {
       "market_name": "HUAWEI Y610",
       "codename": "HWY610-U",
       "model": "HUAWEI Y610-U00"
@@ -2675,6 +2710,11 @@
       "market_name": "HUAWEI Y6II",
       "codename": "HWCAM-H",
       "model": "CAM-L21"
+    },
+    {
+      "market_name": "HUAWEI Y6II",
+      "codename": "HWCAM-H",
+      "model": "CAM-L23"
     },
     {
       "market_name": "HUAWEI Y6II",
@@ -2710,6 +2750,46 @@
       "market_name": "HUAWEI Y6\\xe2\\x85\\xa1Compact",
       "codename": "HWLYO-L6735",
       "model": "HUAWEI LYO-L03"
+    },
+    {
+      "market_name": "HUAWEI nova",
+      "codename": "HWCAZ",
+      "model": "HUAWEI CAZ-AL00"
+    },
+    {
+      "market_name": "HUAWEI nova",
+      "codename": "HWCAZ",
+      "model": "HUAWEI CAZ-AL10"
+    },
+    {
+      "market_name": "HUAWEI nova plus",
+      "codename": "HWMLA",
+      "model": "HUAWEI MLA-L01"
+    },
+    {
+      "market_name": "HUAWEI nova plus",
+      "codename": "HWMLA",
+      "model": "HUAWEI MLA-L02"
+    },
+    {
+      "market_name": "HUAWEI nova plus",
+      "codename": "HWMLA",
+      "model": "HUAWEI MLA-L03"
+    },
+    {
+      "market_name": "HUAWEI nova plus",
+      "codename": "HWMLA",
+      "model": "HUAWEI MLA-L11"
+    },
+    {
+      "market_name": "HUAWEI nova plus",
+      "codename": "HWMLA",
+      "model": "HUAWEI MLA-L12"
+    },
+    {
+      "market_name": "HUAWEI nova plus",
+      "codename": "HWMLA",
+      "model": "HUAWEI MLA-L13"
     },
     {
       "market_name": "HW-03E",
@@ -2755,6 +2835,16 @@
       "market_name": "Honor 4A",
       "codename": "hnSCL-Q",
       "model": "SCL-TL00H"
+    },
+    {
+      "market_name": "Honor 5A",
+      "codename": "HWLYO-L6735",
+      "model": "HUAWEI LYO-L21"
+    },
+    {
+      "market_name": "Honor 5A",
+      "codename": "HWLYO-L6735",
+      "model": "LYO-L21"
     },
     {
       "market_name": "Honor 5C",
@@ -2812,6 +2902,31 @@
       "model": "ATH-AL00"
     },
     {
+      "market_name": "Honor 8",
+      "codename": "HWFRD",
+      "model": "FRD-AL00"
+    },
+    {
+      "market_name": "Honor 8",
+      "codename": "HWFRD",
+      "model": "FRD-AL10"
+    },
+    {
+      "market_name": "Honor 8",
+      "codename": "HWFRD",
+      "model": "FRD-DL00"
+    },
+    {
+      "market_name": "Honor 8",
+      "codename": "HWFRD",
+      "model": "FRD-L04"
+    },
+    {
+      "market_name": "Honor 8",
+      "codename": "HWFRD",
+      "model": "FRD-TL00"
+    },
+    {
       "market_name": "Honor Box",
       "codename": "m321",
       "model": "M321"
@@ -2825,6 +2940,26 @@
       "market_name": "Honor Box voice",
       "codename": "HWM311",
       "model": "M311"
+    },
+    {
+      "market_name": "Honor V8",
+      "codename": "HWKNT",
+      "model": "KNT-AL10"
+    },
+    {
+      "market_name": "Honor V8",
+      "codename": "HWKNT",
+      "model": "KNT-AL20"
+    },
+    {
+      "market_name": "Honor V8",
+      "codename": "HWKNT",
+      "model": "KNT-TL10"
+    },
+    {
+      "market_name": "Honor V8",
+      "codename": "HWKNT",
+      "model": "KNT-UL10"
     },
     {
       "market_name": "Honor3",
@@ -2875,6 +3010,11 @@
       "market_name": "Ice-Twist",
       "codename": "Ice-Twist",
       "model": "Ice-Twist"
+    },
+    {
+      "market_name": "Kiwi-2",
+      "codename": "HWH710VL-Q",
+      "model": "H1622"
     },
     {
       "market_name": "LISZT",
@@ -3072,16 +3212,6 @@
       "model": "NXT-L29"
     },
     {
-      "market_name": "Mate 8 Lite",
-      "codename": "hwALE-H",
-      "model": "ALE-L21"
-    },
-    {
-      "market_name": "Mate 8 Lite",
-      "codename": "hwALE-Q",
-      "model": "HUAWEI ALE-CL00"
-    },
-    {
       "market_name": "Mate S",
       "codename": "HWCRR",
       "model": "HUAWEI CRR-CL00"
@@ -3212,39 +3342,44 @@
       "model": "HUAWEI P6 S-U06"
     },
     {
+      "market_name": "P7",
+      "codename": "hwp7",
+      "model": "HUAWEI P7-L00"
+    },
+    {
+      "market_name": "P7",
+      "codename": "hwp7",
+      "model": "HUAWEI P7-L05"
+    },
+    {
+      "market_name": "P7",
+      "codename": "hwp7",
+      "model": "HUAWEI P7-L07"
+    },
+    {
+      "market_name": "P7",
+      "codename": "hwp7",
+      "model": "HUAWEI P7-L10"
+    },
+    {
+      "market_name": "P7",
+      "codename": "hwp7",
+      "model": "HUAWEI P7-L11"
+    },
+    {
+      "market_name": "P7",
+      "codename": "hwp7",
+      "model": "HUAWEI P7-L12"
+    },
+    {
       "market_name": "P7 mini",
       "codename": "hwP7Mini",
       "model": "HUAWEI P7 mini"
     },
     {
-      "market_name": "P7-L00",
-      "codename": "hwp7",
-      "model": "HUAWEI P7-L00"
-    },
-    {
-      "market_name": "P7-L05",
-      "codename": "hwp7",
-      "model": "HUAWEI P7-L05"
-    },
-    {
-      "market_name": "P7-L07",
-      "codename": "hwp7",
-      "model": "HUAWEI P7-L07"
-    },
-    {
       "market_name": "P7-L09",
       "codename": "hwp7",
       "model": "HUAWEI P7-L09"
-    },
-    {
-      "market_name": "P7-L10",
-      "codename": "hwp7",
-      "model": "HUAWEI P7-L10"
-    },
-    {
-      "market_name": "P7-L12",
-      "codename": "hwp7",
-      "model": "HUAWEI P7-L12"
     },
     {
       "market_name": "P8",
@@ -3277,6 +3412,41 @@
       "model": "HUAWEI GRA-UL10"
     },
     {
+      "market_name": "P8 Lite",
+      "codename": "hwALE-H",
+      "model": "503HW"
+    },
+    {
+      "market_name": "P8 Lite",
+      "codename": "hwALE-H",
+      "model": "ALE-L02"
+    },
+    {
+      "market_name": "P8 Lite",
+      "codename": "hwALE-H",
+      "model": "ALE-L21"
+    },
+    {
+      "market_name": "P8 Lite",
+      "codename": "hwALE-H",
+      "model": "ALE-L23"
+    },
+    {
+      "market_name": "P8 Lite",
+      "codename": "hwALE-H",
+      "model": "Autana LTE"
+    },
+    {
+      "market_name": "P8 Lite",
+      "codename": "hwALE-Q",
+      "model": "HUAWEI ALE-CL00"
+    },
+    {
+      "market_name": "P8 Lite",
+      "codename": "hwALE-Q",
+      "model": "HUAWEI ALE-L04"
+    },
+    {
       "market_name": "P8 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
       "codename": "hwALE-H",
       "model": "ALE-TL00"
@@ -3285,6 +3455,11 @@
       "market_name": "P8 \\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
       "codename": "hwALE-H",
       "model": "ALE-UL00"
+    },
+    {
+      "market_name": "P8max",
+      "codename": "HWP8max",
+      "model": "HUAWEI P8max"
     },
     {
       "market_name": "P9",
@@ -3432,6 +3607,16 @@
       "model": "HUAWEI SC-UL10"
     },
     {
+      "market_name": "Sensa LTE",
+      "codename": "HWH710VL-Q",
+      "model": "H710VL"
+    },
+    {
+      "market_name": "Sensa LTE",
+      "codename": "HWH715BL-Q",
+      "model": "H715BL"
+    },
+    {
       "market_name": "T-Mobile Pulse",
       "codename": "U8100",
       "model": "Huawei_8100-9"
@@ -3577,6 +3762,21 @@
       "model": "Huawei-U8687"
     },
     {
+      "market_name": "U8812D",
+      "codename": "hwu8812D",
+      "model": "U8812D"
+    },
+    {
+      "market_name": "U8832D",
+      "codename": "hwu8832D",
+      "model": "U8832D"
+    },
+    {
+      "market_name": "U8836D",
+      "codename": "hwu8836D",
+      "model": "U8836D"
+    },
+    {
       "market_name": "UNION",
       "codename": "hwY538",
       "model": "Y538"
@@ -3667,6 +3867,11 @@
       "model": "Y220-U10"
     },
     {
+      "market_name": "Y220T",
+      "codename": "hwy220t",
+      "model": "HUAWEI Y 220T"
+    },
+    {
       "market_name": "Y221-U03",
       "codename": "HWY221-U",
       "model": "HUAWEI Y221-U03"
@@ -3735,6 +3940,16 @@
       "market_name": "Y301A2",
       "codename": "hwY301A2",
       "model": "Huawei Y301A2"
+    },
+    {
+      "market_name": "Y310-5000",
+      "codename": "hwy310-5000",
+      "model": "HUAWEI Y310-5000"
+    },
+    {
+      "market_name": "Y310-T10",
+      "codename": "hwy310-t10",
+      "model": "HUAWEI Y310-T10"
     },
     {
       "market_name": "Y320",
@@ -3925,6 +4140,11 @@
       "market_name": "Y360-U93",
       "codename": "HWY360-U6572",
       "model": "HUAWEI Y360-U93"
+    },
+    {
+      "market_name": "Y500-T00",
+      "codename": "HWY500-T00",
+      "model": "HUAWEI Y500-T00"
     },
     {
       "market_name": "Y511-T00",
@@ -4247,6 +4467,16 @@
       "model": "Y635-L21"
     },
     {
+      "market_name": "Y635-TL00",
+      "codename": "hwY635",
+      "model": "HUAWEI Y635-TL00"
+    },
+    {
+      "market_name": "Y635-TL00",
+      "codename": "hwY635",
+      "model": "Y635-TL00"
+    },
+    {
       "market_name": "Youth",
       "codename": "hws7701u",
       "model": "Orinoquia Gran Roraima S7-702u"
@@ -4270,6 +4500,26 @@
       "market_name": "eH811",
       "codename": "hweH811",
       "model": "eH811"
+    },
+    {
+      "market_name": "honor 5X",
+      "codename": "HNKIW-Q",
+      "model": "KIW-L21"
+    },
+    {
+      "market_name": "honor 5X",
+      "codename": "HNKIW-Q",
+      "model": "KIW-L22"
+    },
+    {
+      "market_name": "honor 5X",
+      "codename": "HNKIW-Q",
+      "model": "KIW-L23"
+    },
+    {
+      "market_name": "honor 5X",
+      "codename": "HNKIW-Q",
+      "model": "KIW-L24"
     },
     {
       "market_name": "hw204HW",
@@ -4337,9 +4587,39 @@
       "model": "HUAWEI VNS-TL00"
     },
     {
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe6\\x8f\\xbd\\xe9\\x98\\x85M2\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x887.0",
+      "codename": "hwple703l",
+      "model": "PLE-701L"
+    },
+    {
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe6\\x8f\\xbd\\xe9\\x98\\x85M2\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x887.0",
+      "codename": "hwple703l",
+      "model": "PLE-703L"
+    },
+    {
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6",
+      "codename": "HWNCE-L6750",
+      "model": "NCE-AL00"
+    },
+    {
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6",
+      "codename": "HWNCE-L6750",
+      "model": "NCE-AL10"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x804A",
+      "codename": "hwSCL-Q",
+      "model": "SCL-AL00"
+    },
+    {
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
       "codename": "HNKIW-Q",
       "model": "KIW-AL10"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
+      "codename": "HNKIW-Q",
+      "model": "KIW-AL20"
     },
     {
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
@@ -4355,6 +4635,41 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x805X",
       "codename": "HNKIW-Q",
       "model": "KIW-UL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
+      "codename": "hwedison",
+      "model": "EDI-AL10"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
+      "codename": "hwedison",
+      "model": "EDI-DL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94C",
+      "codename": "hwCHM-H",
+      "model": "CHM-TL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94C",
+      "codename": "hwCHM-H",
+      "model": "CHM-TL00H"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94C",
+      "codename": "hwCHM-H",
+      "model": "CHM-UL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94X",
+      "codename": "hnCHE-H",
+      "model": "CHE-TL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94X",
+      "codename": "hnCHE-H",
+      "model": "CHE-TL00H"
     },
     {
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa95A",

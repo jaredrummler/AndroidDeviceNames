@@ -27,6 +27,16 @@
       "model": "V_TAB_7_LITE_II"
     },
     {
+      "market_name": "V TAB 7025",
+      "codename": "V_TAB_7025",
+      "model": "V_TAB_7025"
+    },
+    {
+      "market_name": "V TAB 8029",
+      "codename": "V_TAB_8029",
+      "model": "V TAB 8029"
+    },
+    {
       "market_name": "V TAB 9.7\\\u0027\\\u0027 PRO",
       "codename": "VT97PRO",
       "model": "VT97PRO"
@@ -177,14 +187,29 @@
       "model": "VT785P2-Vestel"
     },
     {
+      "market_name": "Venus V3 5010",
+      "codename": "DynoLight",
+      "model": "Venus_V3_5010"
+    },
+    {
       "market_name": "Venus V3 5020",
       "codename": "Arya",
       "model": "Venus_V3_5020"
     },
     {
+      "market_name": "Venus V3 5030",
+      "codename": "Dyno",
+      "model": "Venus_V3_5030"
+    },
+    {
       "market_name": "Venus V3 5040",
       "codename": "Venus_V3_5040",
       "model": "Venus_V3_5040"
+    },
+    {
+      "market_name": "Venus V3 5040",
+      "codename": "Venus_V3_5045",
+      "model": "Venus_V3_5040_2GB"
     },
     {
       "market_name": "Venus V3 5070",
@@ -195,21 +220,6 @@
       "market_name": "Venus V3 5570",
       "codename": "Venus_V3_5570",
       "model": "Venus_V3_5570"
-    },
-    {
-      "market_name": "Venus_V3_5040",
-      "codename": "Venus_V3_5045",
-      "model": "Venus_V3_5040_2GB"
-    },
-    {
-      "market_name": "venus_v3_5010",
-      "codename": "DynoLight",
-      "model": "Venus_V3_5010"
-    },
-    {
-      "market_name": "venus_v3_5030",
-      "codename": "Dyno",
-      "model": "Venus_V3_5030"
     }
   ]
 }

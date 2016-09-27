@@ -722,6 +722,11 @@
       "model": "Moto 360"
     },
     {
+      "market_name": "Moto 360 Sport",
+      "codename": "carp",
+      "model": "Moto 360"
+    },
+    {
       "market_name": "Moto Defy XT",
       "codename": "XT535",
       "model": "XT535"
@@ -947,6 +952,11 @@
       "model": "MotoG3"
     },
     {
+      "market_name": "Moto G (4) Play",
+      "codename": "harpia_n",
+      "model": "Moto G Play"
+    },
+    {
       "market_name": "Moto G Google Play edition",
       "codename": "falcon_umts",
       "model": "XT1032"
@@ -1007,19 +1017,34 @@
       "model": "XT1078"
     },
     {
-      "market_name": "Moto G4",
+      "market_name": "Moto G(4)",
       "codename": "athene",
       "model": "Moto G (4)"
     },
     {
-      "market_name": "Moto G4",
+      "market_name": "Moto G(4)",
       "codename": "athene_t",
       "model": "Moto G (4)"
     },
     {
-      "market_name": "Moto G4 Plus",
+      "market_name": "Moto G(4) Plus",
       "codename": "athene_f",
       "model": "Moto G (4)"
+    },
+    {
+      "market_name": "Moto G4 Play",
+      "codename": "harpia",
+      "model": "Moto G Play"
+    },
+    {
+      "market_name": "Moto G4 Play",
+      "codename": "harpia",
+      "model": "XT1609"
+    },
+    {
+      "market_name": "Moto G4 Play",
+      "codename": "harpia_t",
+      "model": "Moto G Play"
     },
     {
       "market_name": "Moto MAXX",
@@ -1162,6 +1187,11 @@
       "model": "XT1563"
     },
     {
+      "market_name": "Moto X Pro (China)",
+      "codename": "shamu_t",
+      "model": "Moto X Pro"
+    },
+    {
       "market_name": "Moto X Pure Edition",
       "codename": "clark",
       "model": "XT1575"
@@ -1182,9 +1212,39 @@
       "model": "XT1572"
     },
     {
+      "market_name": "Moto Z",
+      "codename": "griffin",
+      "model": "XT1650"
+    },
+    {
+      "market_name": "Moto Z",
+      "codename": "griffin",
+      "model": "XT1650-05"
+    },
+    {
       "market_name": "Moto Z Droid",
       "codename": "griffin",
       "model": "XT1650"
+    },
+    {
+      "market_name": "Moto Z Play",
+      "codename": "addison",
+      "model": "XT1563"
+    },
+    {
+      "market_name": "Moto Z Play",
+      "codename": "addison",
+      "model": "XT1635-02"
+    },
+    {
+      "market_name": "Moto Z Play",
+      "codename": "addison",
+      "model": "XT1635-03"
+    },
+    {
+      "market_name": "Moto Z Play Droid",
+      "codename": "addison",
+      "model": "XT1635-01"
     },
     {
       "market_name": "Motoluxe",

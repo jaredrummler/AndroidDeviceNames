@@ -892,6 +892,11 @@
       "model": "Lenovo X2-AP"
     },
     {
+      "market_name": "Lenovo A10-70LC",
+      "codename": "A10-70LC",
+      "model": "Lenovo TAB 2 A10-70LC"
+    },
+    {
       "market_name": "Lenovo A1000",
       "codename": "A1000",
       "model": "Lenovo A1000"
@@ -925,6 +930,16 @@
       "market_name": "Lenovo A2016a40",
       "codename": "A2016a40",
       "model": "Lenovo A2016a40"
+    },
+    {
+      "market_name": "Lenovo A2016b30",
+      "codename": "A2016b30",
+      "model": "Lenovo A2016b30"
+    },
+    {
+      "market_name": "Lenovo A2016b31",
+      "codename": "A2016b31",
+      "model": "Lenovo A2016b31"
     },
     {
       "market_name": "Lenovo A2020a40",
@@ -1382,6 +1397,16 @@
       "model": "Lenovo A768t"
     },
     {
+      "market_name": "Lenovo A7700",
+      "codename": "A7700",
+      "model": "A7700"
+    },
+    {
+      "market_name": "Lenovo A7700",
+      "codename": "A7700",
+      "model": "Lenovo A7700"
+    },
+    {
       "market_name": "Lenovo A780e",
       "codename": "A780e",
       "model": "LNV-Lenovo A780e"
@@ -1762,6 +1787,26 @@
       "model": "Lenovo PB2-650M"
     },
     {
+      "market_name": "Lenovo PB2 plus",
+      "codename": "PB2-670M",
+      "model": "Lenovo PB2-670M"
+    },
+    {
+      "market_name": "Lenovo PB2-650Y",
+      "codename": "PB2",
+      "model": "Lenovo PB2-650Y"
+    },
+    {
+      "market_name": "Lenovo PHAB 2 Plus",
+      "codename": "PB2-670N",
+      "model": "Lenovo PB2-670N"
+    },
+    {
+      "market_name": "Lenovo PHAB 2 Plus",
+      "codename": "PB2-670Y",
+      "model": "Lenovo PB2-670Y"
+    },
+    {
       "market_name": "Lenovo S1",
       "codename": "S1a40",
       "model": "Lenovo S1a40"
@@ -2042,6 +2087,16 @@
       "model": "Lenovo TB-7703F"
     },
     {
+      "market_name": "Lenovo TAB3 7 Plus",
+      "codename": "TB-7703N",
+      "model": "Lenovo TB-7703N"
+    },
+    {
+      "market_name": "Lenovo TAB3 7 Plus",
+      "codename": "TB-7703X",
+      "model": "Lenovo TB-7703X"
+    },
+    {
       "market_name": "Lenovo TAB3 730F",
       "codename": "TB3-730F",
       "model": "Lenovo TB3-730F"
@@ -2087,6 +2142,16 @@
       "model": "Lenovo TB2-X30M"
     },
     {
+      "market_name": "Lenovo TB3-601LV",
+      "codename": "601LV",
+      "model": "601LV"
+    },
+    {
+      "market_name": "Lenovo TB3-602LV",
+      "codename": "602LV",
+      "model": "602LV"
+    },
+    {
       "market_name": "Lenovo TB3-710F",
       "codename": "TB3-710F",
       "model": "Lenovo TB3-710F"
@@ -2105,6 +2170,26 @@
       "market_name": "Lenovo VIBE K10",
       "codename": "K10a40",
       "model": "Lenovo K10a40"
+    },
+    {
+      "market_name": "Lenovo VIBE K6",
+      "codename": "K33a48",
+      "model": "Lenovo K33a48"
+    },
+    {
+      "market_name": "Lenovo VIBE K6",
+      "codename": "K33b36",
+      "model": "Lenovo K33b36"
+    },
+    {
+      "market_name": "Lenovo VIBE K6",
+      "codename": "K33b37",
+      "model": "Lenovo K33b37"
+    },
+    {
+      "market_name": "Lenovo VIBE K6 Power",
+      "codename": "K33a42",
+      "model": "Lenovo K33a42"
     },
     {
       "market_name": "Lenovo VIBE X3 Lite",
@@ -2167,6 +2252,16 @@
       "model": "Lenovo X3c70"
     },
     {
+      "market_name": "Lenovo YOGA BOOK",
+      "codename": "yeti",
+      "model": "Lenovo YB1-X90F"
+    },
+    {
+      "market_name": "Lenovo YOGA BOOK",
+      "codename": "yeti",
+      "model": "Lenovo YB1-X90L"
+    },
+    {
       "market_name": "Lenovo YOGA Tablet Pro-1050L/Yoga Tablet 2",
       "codename": "YT2",
       "model": "YOGA Tablet 2-1050L"
@@ -2225,6 +2320,16 @@
       "market_name": "Lenovo YT3-X50M/Yoga3 Tablet",
       "codename": "YT3-X50M",
       "model": "Lenovo YT3-X50M"
+    },
+    {
+      "market_name": "Lenovo YT3-X90F/YOGA3 Tablet Pro",
+      "codename": "YT3",
+      "model": "Lenovo YT3-X90F"
+    },
+    {
+      "market_name": "Lenovo Yoga TAB3 Plus",
+      "codename": "YT-X703F",
+      "model": "Lenovo YT-X703F"
     },
     {
       "market_name": "Lenovo YogaTablet2 -1050F",
@@ -2315,6 +2420,11 @@
       "market_name": "Lenvo S960",
       "codename": "S960_ROW",
       "model": "Lenovo S960"
+    },
+    {
+      "market_name": "Leovo VIBE K6 Note",
+      "codename": "K53a48",
+      "model": "Lenovo K53a48"
     },
     {
       "market_name": "Moto E3",

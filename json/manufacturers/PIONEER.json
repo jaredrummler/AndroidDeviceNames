@@ -3,6 +3,11 @@
   "devices": [
     {
       "market_name": "CyberNavi",
+      "codename": "AVIC_CE900",
+      "model": "jupiter"
+    },
+    {
+      "market_name": "CyberNavi",
       "codename": "AVIC_CL900",
       "model": "jupiter"
     },

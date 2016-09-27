@@ -97,9 +97,19 @@
       "model": "WALKMAN"
     },
     {
+      "market_name": "NW-ZX2",
+      "codename": "icx1265",
+      "model": "WALKMAN"
+    },
+    {
       "market_name": "NWZ-Z1000",
       "codename": "icx1216",
       "model": "NWZ-Z1000Series"
+    },
+    {
+      "market_name": "NWZ-ZX1",
+      "codename": "icx1240",
+      "model": "WALKMAN"
     },
     {
       "market_name": "SmartWatch 3",
@@ -140,6 +150,11 @@
       "market_name": "Xperia  E1 dual",
       "codename": "D2114",
       "model": "D2114"
+    },
+    {
+      "market_name": "Xperia  M",
+      "codename": "C1905",
+      "model": "C1905"
     },
     {
       "market_name": "Xperia A",
@@ -345,6 +360,11 @@
       "market_name": "Xperia M",
       "codename": "C1905",
       "model": "C1905"
+    },
+    {
+      "market_name": "Xperia M Dual",
+      "codename": "C2005",
+      "model": "C2005"
     },
     {
       "market_name": "Xperia M dual",
@@ -602,6 +622,16 @@
       "model": "F5122"
     },
     {
+      "market_name": "Xperia X",
+      "codename": "suzu",
+      "model": "F5121"
+    },
+    {
+      "market_name": "Xperia X Compact",
+      "codename": "F5321",
+      "model": "F5321"
+    },
+    {
       "market_name": "Xperia X Performance",
       "codename": "502SO",
       "model": "502SO"
@@ -675,6 +705,16 @@
       "market_name": "Xperia XA Ultra",
       "codename": "F3216",
       "model": "F3216"
+    },
+    {
+      "market_name": "Xperia XZ",
+      "codename": "F8331",
+      "model": "F8331"
+    },
+    {
+      "market_name": "Xperia XZ",
+      "codename": "F8332",
+      "model": "F8332"
     },
     {
       "market_name": "Xperia Z",
@@ -927,6 +967,11 @@
       "model": "SO-02G"
     },
     {
+      "market_name": "Xperia Z3 Compact",
+      "codename": "aries",
+      "model": "D5803"
+    },
+    {
       "market_name": "Xperia Z3 Dual",
       "codename": "D6633",
       "model": "D6633"
@@ -988,6 +1033,11 @@
     },
     {
       "market_name": "Xperia Z4 Tablet",
+      "codename": "SGP712",
+      "model": "SGP712"
+    },
+    {
+      "market_name": "Xperia Z4 Tablet",
       "codename": "SGP771",
       "model": "SGP771"
     },
@@ -1000,11 +1050,6 @@
       "market_name": "Xperia Z4 Tablet",
       "codename": "SOT31",
       "model": "SOT31"
-    },
-    {
-      "market_name": "Xperia Z4 tablet",
-      "codename": "SGP712",
-      "model": "SGP712"
     },
     {
       "market_name": "Xperia Z4v",

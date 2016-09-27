@@ -7,6 +7,26 @@
       "model": "E8"
     },
     {
+      "market_name": "J5",
+      "codename": "J5",
+      "model": "J5"
+    },
+    {
+      "market_name": "J7",
+      "codename": "J7",
+      "model": "J7"
+    },
+    {
+      "market_name": "JS10",
+      "codename": "JAZZX_JS10",
+      "model": "JAZZX JS10"
+    },
+    {
+      "market_name": "JazzX JS7 PRO",
+      "codename": "JS7_PRO",
+      "model": "JazzX JS7 PRO"
+    },
+    {
       "market_name": "LT650",
       "codename": "LT650",
       "model": "LT650"
@@ -82,6 +102,16 @@
       "model": "S4"
     },
     {
+      "market_name": "S6",
+      "codename": "QMobileS6",
+      "model": "QMobile S6"
+    },
+    {
+      "market_name": "S6 PLUS",
+      "codename": "QMobile_S6_PLUS",
+      "model": "QMobile S6 PLUS"
+    },
+    {
       "market_name": "W70",
       "codename": "W70",
       "model": "W70"
@@ -120,6 +150,11 @@
       "market_name": "Z12 PRO",
       "codename": "Z12_PRO",
       "model": "Z12 PRO"
+    },
+    {
+      "market_name": "Z14",
+      "codename": "Z14",
+      "model": "Z14"
     },
     {
       "market_name": "Z9 Plus",

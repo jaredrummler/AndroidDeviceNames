@@ -12,6 +12,11 @@
       "model": "CHERRY"
     },
     {
+      "market_name": "COSMO",
+      "codename": "COSMO",
+      "model": "COSMO"
+    },
+    {
       "market_name": "Candy",
       "codename": "Candy",
       "model": "Candy"
@@ -62,6 +67,11 @@
       "model": "ICE"
     },
     {
+      "market_name": "NEO",
+      "codename": "NEO",
+      "model": "NEO"
+    },
+    {
       "market_name": "ONYX",
       "codename": "ONYX",
       "model": "ONYX"
@@ -70,6 +80,11 @@
       "market_name": "PLAY",
       "codename": "PLAY",
       "model": "PLAY"
+    },
+    {
+      "market_name": "PLUM",
+      "codename": "PLUM",
+      "model": "PLUM"
     },
     {
       "market_name": "SHIFT",

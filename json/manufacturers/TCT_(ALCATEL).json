@@ -537,9 +537,24 @@
       "model": "4024X"
     },
     {
+      "market_name": "4060W",
+      "codename": "Pixi445",
+      "model": "4060W"
+    },
+    {
+      "market_name": "5023E",
+      "codename": "Pixi4PlusPower",
+      "model": "5023E"
+    },
+    {
       "market_name": "5023F",
       "codename": "Pixi4PlusPower",
       "model": "5023F"
+    },
+    {
+      "market_name": "5027B",
+      "codename": "Pixi445SPR",
+      "model": "5027B"
     },
     {
       "market_name": "5038D",
@@ -645,6 +660,11 @@
       "market_name": "5056N",
       "codename": "POP455C",
       "model": "5056N"
+    },
+    {
+      "market_name": "5056U",
+      "codename": "POP455C",
+      "model": "5056U"
     },
     {
       "market_name": "5056X",
@@ -792,9 +812,19 @@
       "model": "6044D"
     },
     {
+      "market_name": "6055A",
+      "codename": "idol4",
+      "model": "6055A"
+    },
+    {
       "market_name": "6055B",
       "codename": "idol4",
       "model": "6055B"
+    },
+    {
+      "market_name": "6055D",
+      "codename": "idol4",
+      "model": "6055D"
     },
     {
       "market_name": "6055K",
@@ -1002,6 +1032,11 @@
       "model": "ALCATEL ONETOUCH POP 7 LTE"
     },
     {
+      "market_name": "9015B",
+      "codename": "Pixi4-7_4G_NA",
+      "model": "9015B"
+    },
+    {
       "market_name": "9015Q",
       "codename": "PIXI4-7_4G",
       "model": "9015Q"
@@ -1020,6 +1055,11 @@
       "market_name": "9021A",
       "codename": "Pop2-8_4G_Telus",
       "model": "9021A"
+    },
+    {
+      "market_name": "9025Q",
+      "codename": "POP4-7_4G",
+      "model": "9025Q"
     },
     {
       "market_name": "9030G",
@@ -1085,6 +1125,11 @@
       "market_name": "ALCATEL 4015T",
       "codename": "Yaris35_GSM",
       "model": "ALCATEL 4015T"
+    },
+    {
+      "market_name": "ALCATEL A466BG",
+      "codename": "PIXI4_4TF",
+      "model": "A466BG"
     },
     {
       "market_name": "ALCATEL A564C",
@@ -2194,6 +2239,11 @@
     {
       "market_name": "ALCATEL PIXI 4 (5)",
       "codename": "PIXI4_5_4G",
+      "model": "5145A"
+    },
+    {
+      "market_name": "ALCATEL PIXI 4 (5)",
+      "codename": "PIXI4_5_4G",
       "model": "DIGICELDL1"
     },
     {
@@ -2210,6 +2260,11 @@
       "market_name": "ALCATEL one touch J320",
       "codename": "Iris",
       "model": "ALCATEL one touch J320"
+    },
+    {
+      "market_name": "ALCATEL_ 4034A",
+      "codename": "Pixi4-4",
+      "model": "ALCATEL_4034A"
     },
     {
       "market_name": "ALCATEL_ONETOUCH_7053D",
@@ -2360,6 +2415,11 @@
       "market_name": "Alcatel_5056O",
       "codename": "Pop355",
       "model": "Alcatel_5056O"
+    },
+    {
+      "market_name": "Alcatel_5098O",
+      "codename": "Pixi4-64GMEX",
+      "model": "Alcatel_5098O"
     },
     {
       "market_name": "Alcatel_6055U",
@@ -2660,6 +2720,11 @@
       "market_name": "Megafon Login",
       "codename": "OT-930",
       "model": "MegaFon_SP-AI"
+    },
+    {
+      "market_name": "Mirage",
+      "codename": "feijao",
+      "model": "5057M"
     },
     {
       "market_name": "Moov2",
@@ -2999,7 +3064,22 @@
     {
       "market_name": "ONETOUCH PIXI 3 (8)",
       "codename": "pixi384g",
+      "model": "9022S"
+    },
+    {
+      "market_name": "ONETOUCH PIXI 3 (8)",
+      "codename": "pixi384g",
       "model": "9022X"
+    },
+    {
+      "market_name": "ONETOUCH PIXI 3 (8)",
+      "codename": "pixi384g",
+      "model": "Alcatel9022S"
+    },
+    {
+      "market_name": "ONETOUCH PIXI 3 (8)",
+      "codename": "pixi384g",
+      "model": "Alcatel_9022S"
     },
     {
       "market_name": "ONETOUCH PIXI3(7)",
@@ -3294,7 +3374,17 @@
     {
       "market_name": "PIXI4 (3.5)",
       "codename": "PIXI4-35",
+      "model": "4017S"
+    },
+    {
+      "market_name": "PIXI4 (3.5)",
+      "codename": "PIXI4-35",
       "model": "4017X"
+    },
+    {
+      "market_name": "PIXI\\xe2\\x84\\xa24",
+      "codename": "Pixi445CAN",
+      "model": "4060S"
     },
     {
       "market_name": "PLAY_P1",
@@ -3472,6 +3562,11 @@
       "model": "A460G"
     },
     {
+      "market_name": "Pixi4-4 3G Telus",
+      "codename": "PIXI4_4TF",
+      "model": "A466T"
+    },
+    {
       "market_name": "Pixo 7",
       "codename": "PIXO7",
       "model": "I211"
@@ -3487,14 +3582,29 @@
       "model": "I213"
     },
     {
+      "market_name": "Pop4",
+      "codename": "POP455C",
+      "model": "Pop4"
+    },
+    {
       "market_name": "S4035_4G",
       "codename": "Pop355",
       "model": "S4035_4G"
     },
     {
+      "market_name": "SHINE LITE",
+      "codename": "shine_lite",
+      "model": "5080X"
+    },
+    {
       "market_name": "SMART 4G 5.5 Enterprise",
       "codename": "M812",
       "model": "SMART 4G 5.5 Enterprise"
+    },
+    {
+      "market_name": "SMART_ PLUS",
+      "codename": "PIXI4_55_3G",
+      "model": "SMART_PLUS"
     },
     {
       "market_name": "SOLO Aspire M",
@@ -3627,9 +3737,19 @@
       "model": "TCL 302U"
     },
     {
+      "market_name": "TCL 520",
+      "codename": "shine_lite",
+      "model": "TCL 520"
+    },
+    {
       "market_name": "TCL 562",
       "codename": "shine_plus",
       "model": "562"
+    },
+    {
+      "market_name": "TCL 580",
+      "codename": "idol4_mini",
+      "model": "TCL 580"
     },
     {
       "market_name": "TCL 736L",
@@ -3645,6 +3765,11 @@
       "market_name": "TCL 750",
       "codename": "x1_plus",
       "model": "TCL 750"
+    },
+    {
+      "market_name": "TCL 950",
+      "codename": "idol4s_cn",
+      "model": "TCL 950"
     },
     {
       "market_name": "TCL A506",
@@ -4165,6 +4290,16 @@
       "market_name": "alcatel PIXI 4 (5.5)",
       "codename": "PIXI4_55_3G",
       "model": "5012D"
+    },
+    {
+      "market_name": "alcatel PIXI 4 (5.5)",
+      "codename": "PIXI4_55_3G",
+      "model": "5012F"
+    },
+    {
+      "market_name": "alcatel PIXI 4 (5.5)",
+      "codename": "PIXI4_55_3G",
+      "model": "5012G"
     },
     {
       "market_name": "freebit PandA_m14",

@@ -17,9 +17,29 @@
       "model": "MS45"
     },
     {
+      "market_name": "MS45S",
+      "codename": "MS45S",
+      "model": "MS45S"
+    },
+    {
       "market_name": "MS50",
       "codename": "MS50",
       "model": "MS50"
+    },
+    {
+      "market_name": "MS50M",
+      "codename": "MS50M",
+      "model": "MS50M"
+    },
+    {
+      "market_name": "MS50_4G",
+      "codename": "MS50_4G",
+      "model": "MS50_4G"
+    },
+    {
+      "market_name": "MS55",
+      "codename": "MS55",
+      "model": "MS55"
     },
     {
       "market_name": "MS60",

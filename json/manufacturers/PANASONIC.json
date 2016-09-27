@@ -97,6 +97,16 @@
       "model": "P-07D"
     },
     {
+      "market_name": "ELUGA Prim",
+      "codename": "ELUGA_Prim",
+      "model": "ELUGA Prim"
+    },
+    {
+      "market_name": "ELUGA Turbo",
+      "codename": "ELUGA_Turbo",
+      "model": "ELUGA Turbo"
+    },
+    {
       "market_name": "ELUGA U",
       "codename": "ELUGA_U",
       "model": "Panasonic ELUGA U"
@@ -190,6 +200,11 @@
       "market_name": "Eluga Icon 2",
       "codename": "ELUGA_Icon2",
       "model": "Panasonic ELUGA Icon 2"
+    },
+    {
+      "market_name": "Eluga Tapp",
+      "codename": "Eluga_TAPP",
+      "model": "Panasonic ELUGA Tapp"
     },
     {
       "market_name": "Eluga_Note",
@@ -308,8 +323,23 @@
     },
     {
       "market_name": "P55 Novo",
+      "codename": "P55_Novo",
+      "model": "Panasonic P55 Novo"
+    },
+    {
+      "market_name": "P55 Novo",
       "codename": "P55_Novo_4G",
       "model": "P55 Novo 4G"
+    },
+    {
+      "market_name": "P66",
+      "codename": "P66",
+      "model": "P66"
+    },
+    {
+      "market_name": "P71",
+      "codename": "P71",
+      "model": "P71"
     },
     {
       "market_name": "P75",
@@ -320,6 +350,11 @@
       "market_name": "P77",
       "codename": "P77",
       "model": "Panasonic P77"
+    },
+    {
+      "market_name": "P88",
+      "codename": "P88",
+      "model": "P88"
     },
     {
       "market_name": "Panasonic ELUGA A",

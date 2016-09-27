@@ -127,6 +127,16 @@
       "model": "PGN521"
     },
     {
+      "market_name": "PGN522",
+      "codename": "PGN522",
+      "model": "PGN522"
+    },
+    {
+      "market_name": "PGN523",
+      "codename": "PGN523",
+      "model": "PGN523"
+    },
+    {
       "market_name": "PGN605",
       "codename": "PGN605",
       "model": "PGN605"
@@ -150,6 +160,21 @@
       "market_name": "PGN609",
       "codename": "PGN609",
       "model": "PGN609"
+    },
+    {
+      "market_name": "PGN611",
+      "codename": "PGN611",
+      "model": "PGN611"
+    },
+    {
+      "market_name": "TFX711G",
+      "codename": "TFX711G",
+      "model": "TFX711G"
+    },
+    {
+      "market_name": "TFX712G",
+      "codename": "TFX712G",
+      "model": "TFX712G"
     }
   ]
 }

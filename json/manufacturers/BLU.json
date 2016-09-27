@@ -12,11 +12,6 @@
       "model": "BLU LIFE XL"
     },
     {
-      "market_name": "BLU STUDIO G",
-      "codename": "BLU_STUDIO_G",
-      "model": "BLU STUDIO G"
-    },
-    {
       "market_name": "BLU TOUCHBOOK M7",
       "codename": "BLU_TOUCHBOOK_M7",
       "model": "BLU TOUCHBOOK M7"
@@ -47,6 +42,11 @@
       "model": "BLU DASH X2"
     },
     {
+      "market_name": "DIAMOND M",
+      "codename": "BLU_DIAMOND_M",
+      "model": "DIAMOND M"
+    },
+    {
       "market_name": "Dash 4.5",
       "codename": "D730",
       "model": "Dash 4.5"
@@ -55,11 +55,6 @@
       "market_name": "Dash X",
       "codename": "BLU_DASH_X",
       "model": "BLU DASH X"
-    },
-    {
-      "market_name": "Diamond M",
-      "codename": "BLU_DIAMOND_M",
-      "model": "DIAMOND M"
     },
     {
       "market_name": "ENERGY  XL",
@@ -72,9 +67,19 @@
       "model": "BLU ENERGY DIAMOND"
     },
     {
+      "market_name": "ENERGY DIAMOND MINI",
+      "codename": "ENERGY_DIAMOND_MINI",
+      "model": "ENERGY_DIAMOND_MINI"
+    },
+    {
       "market_name": "ENERGY M",
       "codename": "BLU_ENERGY_M",
       "model": "BLU ENERGY M"
+    },
+    {
+      "market_name": "ENERGY X PLUS 2",
+      "codename": "BLU_ENERGY_X_PLUS_2",
+      "model": "BLU ENERGY X PLUS 2"
     },
     {
       "market_name": "ENERGY_DIAMOND_MINI",
@@ -100,6 +105,11 @@
       "market_name": "LIFE ONE X",
       "codename": "BLU_LIFE_ONE_X",
       "model": "BLU LIFE ONE X"
+    },
+    {
+      "market_name": "LIFE ONE X2",
+      "codename": "Life_One_X2",
+      "model": "Life One X2"
     },
     {
       "market_name": "Life Mark",
@@ -172,14 +182,44 @@
       "model": "BLU STUDIO C 8+8 LTE"
     },
     {
+      "market_name": "STUDIO G",
+      "codename": "BLU_STUDIO_G",
+      "model": "BLU STUDIO G"
+    },
+    {
+      "market_name": "STUDIO G HD",
+      "codename": "Studio_G_HD",
+      "model": "BLU Studio G HD"
+    },
+    {
+      "market_name": "STUDIO G HD LTE",
+      "codename": "Studio_G_HD_LTE",
+      "model": "Studio G HD LTE"
+    },
+    {
       "market_name": "STUDIO G PLUS",
       "codename": "Studio_G_Plus",
       "model": "BLU STUDIO G PLUS"
     },
     {
+      "market_name": "STUDIO G PLUS HD",
+      "codename": "Studio_G_Plus_HD",
+      "model": "Studio G Plus HD"
+    },
+    {
+      "market_name": "STUDIO G2",
+      "codename": "BLU_STUDIO_G2",
+      "model": "BLU STUDIO G2"
+    },
+    {
       "market_name": "STUDIO M HD",
       "codename": "BLU_STUDIO_M_HD",
       "model": "STUDIO M HD"
+    },
+    {
+      "market_name": "STUDIO M LTE",
+      "codename": "BLU_STUDIO_M_LTE",
+      "model": "STUDIO M LTE"
     },
     {
       "market_name": "STUDIO ONE PLUS",

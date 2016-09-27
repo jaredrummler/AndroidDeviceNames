@@ -357,6 +357,11 @@
       "model": "Archos 90 Copper"
     },
     {
+      "market_name": "Alba 4",
+      "codename": "ac40ne",
+      "model": "ALBA 4"
+    },
+    {
       "market_name": "\"Alba 4\"\" Android\"",
       "codename": "ac40dti",
       "model": "\"Alba 4\"\" Android\""
@@ -410,6 +415,11 @@
       "market_name": "Archos 40 Helium",
       "codename": "ac40he",
       "model": "Archos 40 Helium"
+    },
+    {
+      "market_name": "Archos 40 Neon",
+      "codename": "ac40ne",
+      "model": "Archos 40 Neon"
     },
     {
       "market_name": "Archos 40c Titanium",

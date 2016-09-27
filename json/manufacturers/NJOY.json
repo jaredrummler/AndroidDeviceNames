@@ -2,7 +2,12 @@
   "manufacturer": "Njoy",
   "devices": [
     {
-      "market_name": "Chronos_10",
+      "market_name": "nJoy Arcas 7",
+      "codename": "Arcas_7",
+      "model": "nJoy_Arcas_7"
+    },
+    {
+      "market_name": "nJoy Chronos 10",
       "codename": "Chronos_10",
       "model": "Chronos_10"
     },

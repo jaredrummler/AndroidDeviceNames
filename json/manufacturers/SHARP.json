@@ -627,6 +627,11 @@
       "model": "LC-A1H"
     },
     {
+      "market_name": "LC-LE580X",
+      "codename": "lc_le580x",
+      "model": "LC-LE580X"
+    },
+    {
       "market_name": "LC-LX565H",
       "codename": "lx565h",
       "model": "LC-LX565H"
@@ -807,6 +812,21 @@
       "model": "SH825Wi"
     },
     {
+      "market_name": "SHARP A1",
+      "codename": "TSL",
+      "model": "FS8002"
+    },
+    {
+      "market_name": "SHARP C1",
+      "codename": "MS1",
+      "model": "FS8001"
+    },
+    {
+      "market_name": "SHARP Z2",
+      "codename": "TSP",
+      "model": "FS8002"
+    },
+    {
       "market_name": "SoftBank 007SH KT",
       "codename": "SBM007SHK",
       "model": "SBM007SHK"
@@ -830,6 +850,11 @@
       "market_name": "Yahoo! Phone SoftBank 009SH Y",
       "codename": "SBM009SHY",
       "model": "SBM009SHY"
+    },
+    {
+      "market_name": "\\xe3\\x82\\xb7\\xe3\\x83\\xb3\\xe3\\x83\\x97\\xe3\\x83\\xab\\xe3\\x82\\xb9\\xe3\\x83\\x9e\\xe3\\x83\\x9b\\xef\\xbc\\x93",
+      "codename": "SG509SH",
+      "model": "509SH"
     },
     {
       "market_name": "\\xe3\\x83\\xad\\xe3\\x83\\x9c\\xe3\\x83\\x9b\\xe3\\x83\\xb3",

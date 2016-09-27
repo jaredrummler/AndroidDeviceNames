@@ -33,6 +33,11 @@
     },
     {
       "market_name": "FREDDY",
+      "codename": "T3903BN",
+      "model": "FREDDY"
+    },
+    {
+      "market_name": "FREDDY",
       "codename": "V3903BN",
       "model": "FREDDY"
     },
@@ -248,6 +253,11 @@
     },
     {
       "market_name": "SUNNY",
+      "codename": "T2504AN",
+      "model": "SUNNY"
+    },
+    {
+      "market_name": "SUNNY",
       "codename": "V2502AN",
       "model": "SUNNY"
     },
@@ -292,9 +302,19 @@
       "model": "U FEEL FAB"
     },
     {
+      "market_name": "U FEEL GO",
+      "codename": "P4661AN",
+      "model": "U FEEL GO"
+    },
+    {
       "market_name": "U FEEL LITE",
       "codename": "P4601AN",
       "model": "U FEEL LITE"
+    },
+    {
+      "market_name": "U FEEL PRIME",
+      "codename": "p7201",
+      "model": "U FEEL PRIME"
     },
     {
       "market_name": "WAX",

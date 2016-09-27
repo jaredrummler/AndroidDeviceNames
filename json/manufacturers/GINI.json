@@ -17,14 +17,29 @@
       "model": "e6_plus"
     },
     {
+      "market_name": "n7",
+      "codename": "n7",
+      "model": "n7"
+    },
+    {
       "market_name": "s4",
       "codename": "s4",
       "model": "s4"
     },
     {
+      "market_name": "s4_pro",
+      "codename": "s4_pro",
+      "model": "s4_pro"
+    },
+    {
       "market_name": "w5",
       "codename": "w5",
       "model": "w5"
+    },
+    {
+      "market_name": "w6",
+      "codename": "w6",
+      "model": "w6"
     }
   ]
 }

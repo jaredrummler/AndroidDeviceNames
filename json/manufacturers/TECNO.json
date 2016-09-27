@@ -87,6 +87,11 @@
       "model": "TECNO-C9"
     },
     {
+      "market_name": "TECNO-C9S",
+      "codename": "TECNO-C9",
+      "model": "TECNO-C9S"
+    },
+    {
       "market_name": "TECNO-J5",
       "codename": "TECNO-J5",
       "model": "TECNO-J5"
@@ -130,6 +135,11 @@
       "market_name": "TECNO-N2S",
       "codename": "TECNO_N2S",
       "model": "TECNO-N2S"
+    },
+    {
+      "market_name": "TECNO-N6",
+      "codename": "TECNO-N6",
+      "model": "TECNO-N6"
     },
     {
       "market_name": "TECNO-N6S",

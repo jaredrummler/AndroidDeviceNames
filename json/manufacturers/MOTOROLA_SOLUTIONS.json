@@ -2,6 +2,16 @@
   "manufacturer": "Motorola Solutions",
   "devices": [
     {
+      "market_name": "LEX L10g",
+      "codename": "lexl10g",
+      "model": "LEX L10g"
+    },
+    {
+      "market_name": "LEX L10ig",
+      "codename": "lexl10ig",
+      "model": "LEX L10ig"
+    },
+    {
       "market_name": "Moto E with 4G LTE (2nd Gen)",
       "codename": "surnia_umts",
       "model": "MotoE2(4G-LTE)"

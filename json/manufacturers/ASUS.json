@@ -137,11 +137,6 @@
       "model": "ASUS ZenWatch"
     },
     {
-      "market_name": "ASUS ZenWatch 2",
-      "codename": "sparrow",
-      "model": "ASUS ZenWatch 2"
-    },
-    {
       "market_name": "ASUSPRO Tablet (M1000C)",
       "codename": "P023_M",
       "model": "P023"
@@ -165,6 +160,11 @@
       "market_name": "ASUS_ Zenfone Max",
       "codename": "ASUS_Z010_2",
       "model": "ASUS_Z010DD"
+    },
+    {
+      "market_name": "Asus Chromebook Flip C100PA",
+      "codename": "minnie_cheets",
+      "model": "ASUS Chromebook Flip C100PA"
     },
     {
       "market_name": "Asus Zenfone3 Ultra",
@@ -622,6 +622,26 @@
       "model": "Transformer TF101G"
     },
     {
+      "market_name": "X008D",
+      "codename": "ASUS_X008",
+      "model": "ASUS_X008D"
+    },
+    {
+      "market_name": "X008D",
+      "codename": "ASUS_X008_1",
+      "model": "ASUS_X008D"
+    },
+    {
+      "market_name": "X008DA",
+      "codename": "ASUS_X008",
+      "model": "ASUS_X008DA"
+    },
+    {
+      "market_name": "X008DB",
+      "codename": "ASUS_X008",
+      "model": "ASUS_X008DB"
+    },
+    {
       "market_name": "X00AD_2",
       "codename": "ASUS_X00AD_2",
       "model": "ASUS_X00AD"
@@ -752,6 +772,11 @@
       "model": "ASUS_Z00AD"
     },
     {
+      "market_name": "ZenFone 3 Deluxe",
+      "codename": "ASUS_Z01F_1",
+      "model": "ASUS_Z01FD"
+    },
+    {
       "market_name": "ZenFone 4 (A400CG)",
       "codename": "ASUS_T00I",
       "model": "ASUS_T00I"
@@ -872,6 +897,11 @@
       "model": "ASUS_Z00XSA"
     },
     {
+      "market_name": "ZenFone Zoom (ZX551ML)",
+      "codename": "Z00X_2",
+      "model": "ASUS_Z00XS"
+    },
+    {
       "market_name": "ZenFone3",
       "codename": "ASUS_Z017D_1",
       "model": "ASUS_Z017D"
@@ -914,6 +944,11 @@
     {
       "market_name": "ZenPad 3 8.0",
       "codename": "P008_1",
+      "model": "P008"
+    },
+    {
+      "market_name": "ZenPad 3 8.0",
+      "codename": "P008_2",
       "model": "P008"
     },
     {
@@ -1002,6 +1037,11 @@
       "model": "P01M"
     },
     {
+      "market_name": "ZenPad S 8.0 (Z580C)",
+      "codename": "P01M_5",
+      "model": "P01MA"
+    },
+    {
       "market_name": "ZenPad S 8.0 (Z580CA)",
       "codename": "P01M_1",
       "model": "P01MA"
@@ -1027,6 +1067,11 @@
       "model": "P001_2"
     },
     {
+      "market_name": "ZenWatch 2",
+      "codename": "sparrow",
+      "model": "ASUS ZenWatch 2"
+    },
+    {
       "market_name": "Zenfone",
       "codename": "ASUS_X007D",
       "model": "ASUS_X007D"
@@ -1045,6 +1090,31 @@
       "market_name": "Zenfone 3",
       "codename": "ASUS_Z012D",
       "model": "ASUS_Z012DE"
+    },
+    {
+      "market_name": "Zenfone 3 Deluxe (ZS570KL)",
+      "codename": "Z016",
+      "model": "ASUS_Z016D"
+    },
+    {
+      "market_name": "Zenfone 3 Deluxe (ZS570KL)",
+      "codename": "Z016",
+      "model": "ASUS_Z016DA"
+    },
+    {
+      "market_name": "Zenfone 3 Deluxe (ZS570KL)",
+      "codename": "Z016",
+      "model": "ASUS_Z016S"
+    },
+    {
+      "market_name": "Zenfone 3 Deluxe (ZS570KL)",
+      "codename": "Z016_1",
+      "model": "ASUS_Z016D"
+    },
+    {
+      "market_name": "Zenfone 3 Laser",
+      "codename": "Z01B_1",
+      "model": "ASUS_Z01BD"
     },
     {
       "market_name": "Zenfone GO",
@@ -1080,6 +1150,11 @@
       "market_name": "Zenfone Go",
       "codename": "ASUS_X009D_2",
       "model": "ASUS_X009DB"
+    },
+    {
+      "market_name": "Zenfone Go (ASUS_X005)",
+      "codename": "ASUS_X005",
+      "model": "ASUS_X005"
     },
     {
       "market_name": "Zenfone Go (ASUS_X00BD)",

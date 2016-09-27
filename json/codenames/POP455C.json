@@ -37,6 +37,12 @@
   },
   {
     "manufacturer": "TCT (Alcatel)",
+    "market_name": "5056U",
+    "codename": "POP455C",
+    "model": "5056U"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
     "market_name": "5056X",
     "codename": "POP455C",
     "model": "5056X"
@@ -46,5 +52,11 @@
     "market_name": "DLGICELDL1 plus",
     "codename": "POP455C",
     "model": "DIGICELDL1plus"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Pop4",
+    "codename": "POP455C",
+    "model": "Pop4"
   }
 ]

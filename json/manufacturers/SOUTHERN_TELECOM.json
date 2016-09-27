@@ -2,6 +2,11 @@
   "manufacturer": "Southern Telecom",
   "devices": [
     {
+      "market_name": "A1000/P1003/P1010",
+      "codename": "A1000",
+      "model": "A1000/P1003/P1010"
+    },
+    {
       "market_name": "A5",
       "codename": "A5",
       "model": "A5"
@@ -10,6 +15,21 @@
       "market_name": "Emerson EM756",
       "codename": "EM756",
       "model": "EM756"
+    },
+    {
+      "market_name": "M10",
+      "codename": "ST1009",
+      "model": "M10"
+    },
+    {
+      "market_name": "M10",
+      "codename": "ST1009",
+      "model": "M10/Q1010"
+    },
+    {
+      "market_name": "P709/P716",
+      "codename": "P709",
+      "model": "P709/P716"
     },
     {
       "market_name": "Polaroid L10/P1000",
@@ -52,9 +72,19 @@
       "model": "S60"
     },
     {
+      "market_name": "ST1009",
+      "codename": "ST1009",
+      "model": "ST1009"
+    },
+    {
       "market_name": "ST13",
       "codename": "ST13",
       "model": "ST13"
+    },
+    {
+      "market_name": "ST706",
+      "codename": "P709",
+      "model": "ST706"
     },
     {
       "market_name": "Smartab ST10",
@@ -65,6 +95,11 @@
       "market_name": "Smartab ST7",
       "codename": "ST7",
       "model": "ST7/ST7x"
+    },
+    {
+      "market_name": "Streamachine",
+      "codename": "X13",
+      "model": "X13"
     },
     {
       "market_name": "a4",

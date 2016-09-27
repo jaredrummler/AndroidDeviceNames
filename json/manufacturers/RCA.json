@@ -2,9 +2,29 @@
   "manufacturer": "RCA",
   "devices": [
     {
+      "market_name": "10 Viking II",
+      "codename": "RCT6603W47M7",
+      "model": "RCT6603W47M7"
+    },
+    {
+      "market_name": "10 Viking II Pro",
+      "codename": "RCT6603W87M7",
+      "model": "RCT6603W87M7"
+    },
+    {
       "market_name": "10 Viking Pro",
       "codename": "RCT6303W87DK",
       "model": "RCT6303W87DK"
+    },
+    {
+      "market_name": "10 Viking Pro",
+      "codename": "RCT6303W87M",
+      "model": "RCT6303W87M"
+    },
+    {
+      "market_name": "10 Viking Pro",
+      "codename": "RCT6303W87M7",
+      "model": "RCT6303W87M7"
     },
     {
       "market_name": "11 Maven Pro",
@@ -12,9 +32,24 @@
       "model": "RCT6213W87DK"
     },
     {
+      "market_name": "7 Mercury",
+      "codename": "RCT6673W23M",
+      "model": "RCT6673W23M"
+    },
+    {
+      "market_name": "7 Mercury",
+      "codename": "RCT6673W43M",
+      "model": "RCT6673W43M"
+    },
+    {
       "market_name": "7 Voyager II",
       "codename": "RCT6773W22B",
       "model": "RCT6773W22B"
+    },
+    {
+      "market_name": "7 Voyager II",
+      "codename": "RCT6773W22BM",
+      "model": "RCT6773W22BM"
     },
     {
       "market_name": "BNT-710",
@@ -82,9 +117,19 @@
       "model": "RCT6203W46"
     },
     {
+      "market_name": "RCT6223W97",
+      "codename": "RCT6223W97",
+      "model": "RCT6223W97"
+    },
+    {
       "market_name": "RCT6273W26",
       "codename": "RCT6273W26",
       "model": "RCT6273W26"
+    },
+    {
+      "market_name": "RCT6283W27",
+      "codename": "RCT6283W27",
+      "model": "RCT6283W27"
     },
     {
       "market_name": "RCT6293W23",

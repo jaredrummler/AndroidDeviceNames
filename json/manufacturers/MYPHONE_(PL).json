@@ -1,0 +1,20 @@
+{
+  "manufacturer": "MyPhone (PL)",
+  "devices": [
+    {
+      "market_name": "Cube LTE",
+      "codename": "CUBE_LTE_PLAY",
+      "model": "CUBE_LTE"
+    },
+    {
+      "market_name": "myPhone C-Smart IIIS",
+      "codename": "C_Smart_IIIS",
+      "model": "C-Smart IIIS"
+    },
+    {
+      "market_name": "myPhone Luna II",
+      "codename": "LUNA_II_OPM",
+      "model": "LUNA_II"
+    }
+  ]
+}

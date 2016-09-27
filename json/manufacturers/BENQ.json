@@ -142,17 +142,17 @@
       "model": "F52_05"
     },
     {
+      "market_name": "Harrier",
+      "codename": "Harrier",
+      "model": "Harrier from EE"
+    },
+    {
       "market_name": "Harrier Mini",
       "codename": "harrier_mini",
       "model": "Harrier Mini from EE"
     },
     {
-      "market_name": "Harrier from EE",
-      "codename": "Harrier",
-      "model": "Harrier from EE"
-    },
-    {
-      "market_name": "Harrier_Tab",
+      "market_name": "Harrier Tab",
       "codename": "harrier_tab",
       "model": "Harrier Tab from EE"
     },

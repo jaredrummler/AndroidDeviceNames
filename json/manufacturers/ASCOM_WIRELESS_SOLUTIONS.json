@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Ascom Wireless Solutions",
+  "devices": [
+    {
+      "market_name": "Ascom Myco Cellular",
+      "codename": "ACBA",
+      "model": "SH1"
+    },
+    {
+      "market_name": "Ascom Myco Cellular",
+      "codename": "myco_gms",
+      "model": "SH1"
+    },
+    {
+      "market_name": "Ascom Myco Wi-Fi",
+      "codename": "ABBA",
+      "model": "SH1"
+    }
+  ]
+}

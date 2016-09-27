@@ -1892,6 +1892,11 @@
       "model": "SM-G150NS"
     },
     {
+      "market_name": "Galaxy Folder2",
+      "codename": "eliteltechn",
+      "model": "SM-G1600"
+    },
+    {
       "market_name": "Galaxy Fresh",
       "codename": "kylevess",
       "model": "GT-S7390"
@@ -4157,6 +4162,16 @@
       "model": "SM-G600S"
     },
     {
+      "market_name": "Galaxy On7(2016)",
+      "codename": "on7xelte",
+      "model": "SM-G610F"
+    },
+    {
+      "market_name": "Galaxy On7(2016)",
+      "codename": "on7xltechn",
+      "model": "SM-G6100"
+    },
+    {
       "market_name": "Galaxy Player",
       "codename": "YP-GB70",
       "model": "YP-GB70"
@@ -5833,6 +5848,11 @@
     },
     {
       "market_name": "Galaxy S6",
+      "codename": "zerofltetfnvzw",
+      "model": "SM-S907VL"
+    },
+    {
+      "market_name": "Galaxy S6",
       "codename": "zerofltetmo",
       "model": "SM-G920T"
     },
@@ -6618,6 +6638,11 @@
     },
     {
       "market_name": "Galaxy Tab A 10.1",
+      "codename": "gtanotexlwifikx",
+      "model": "SM-P580"
+    },
+    {
+      "market_name": "Galaxy Tab A 10.1",
       "codename": "gtaxllte",
       "model": "SM-T585"
     },
@@ -6648,6 +6673,11 @@
     },
     {
       "market_name": "Galaxy Tab A 10.1",
+      "codename": "gtaxlwifi",
+      "model": "SM-T580X"
+    },
+    {
+      "market_name": "Galaxy Tab A 10.1",
       "codename": "gtaxlwifichn",
       "model": "SM-T580"
     },
@@ -6655,6 +6685,16 @@
       "market_name": "Galaxy Tab A 10.1",
       "codename": "gtaxlwifichn",
       "model": "SM-T580X"
+    },
+    {
+      "market_name": "Galaxy Tab A 10.1(2016)",
+      "codename": "gtanotexllte",
+      "model": "SM-P585"
+    },
+    {
+      "market_name": "Galaxy Tab A 10.1(2016)",
+      "codename": "gtanotexllte",
+      "model": "SM-P585Y"
     },
     {
       "market_name": "Galaxy Tab A 7.0",
@@ -7158,6 +7198,11 @@
     },
     {
       "market_name": "Galaxy Tab S2 9.7",
+      "codename": "gts210veltetmo",
+      "model": "SM-T818T"
+    },
+    {
+      "market_name": "Galaxy Tab S2 9.7",
       "codename": "gts210vewifi",
       "model": "SM-T813"
     },
@@ -7478,6 +7523,16 @@
     },
     {
       "market_name": "Galaxy Tab4 7.0",
+      "codename": "degas2wifi",
+      "model": "SM-T230NW"
+    },
+    {
+      "market_name": "Galaxy Tab4 7.0",
+      "codename": "degas2wifibmwchn",
+      "model": "SM-T230NW"
+    },
+    {
+      "market_name": "Galaxy Tab4 7.0",
       "codename": "degas3g",
       "model": "SM-T231"
     },
@@ -7635,6 +7690,11 @@
       "market_name": "Galaxy Tab4 Nook 10.1",
       "codename": "matissewifiopenbnn",
       "model": "SM-T530NU"
+    },
+    {
+      "market_name": "Galaxy TabA Plus 10.1",
+      "codename": "gtanotexlltekx",
+      "model": "SM-P585N0"
     },
     {
       "market_name": "Galaxy TabS 10.5",

@@ -348,11 +348,6 @@
     },
     {
       "market_name": "",
-      "codename": "l1e",
-      "model": "LG-P875"
-    },
-    {
-      "market_name": "",
       "codename": "l95g",
       "model": "LG-L95G"
     },
@@ -937,6 +932,11 @@
       "model": "VS880"
     },
     {
+      "market_name": "G Vista",
+      "codename": "x10",
+      "model": "VS880PP"
+    },
+    {
       "market_name": "G Watch",
       "codename": "dory",
       "model": "G Watch"
@@ -1147,9 +1147,9 @@
       "model": "VS950 4G"
     },
     {
-      "market_name": "K4",
-      "codename": "e1q",
-      "model": "LG-K121"
+      "market_name": "K10 LTE",
+      "codename": "m209",
+      "model": "LG-K420PR"
     },
     {
       "market_name": "L Bello",
@@ -1492,6 +1492,11 @@
       "model": "LGL17AG"
     },
     {
+      "market_name": "LG Classic",
+      "codename": "y30tc",
+      "model": "LGL18VC"
+    },
+    {
       "market_name": "LG Connect 4G",
       "codename": "cayman",
       "model": "LG-MS840"
@@ -1677,6 +1682,11 @@
       "model": "LGUS995"
     },
     {
+      "market_name": "LG G Pad 8.0 L Edition",
+      "codename": "e8lte",
+      "model": "LGT01"
+    },
+    {
       "market_name": "LG G Pad 8.0 LTE",
       "codename": "e8lte",
       "model": "LG-P490L"
@@ -1747,6 +1757,11 @@
       "model": "LG-V940"
     },
     {
+      "market_name": "LG G Pad II 10.1 FHD",
+      "codename": "t1wifin",
+      "model": "LG-V940n"
+    },
+    {
       "market_name": "LG G Pad II 8.0LTE",
       "codename": "t8lte",
       "model": "LG-V497"
@@ -1777,9 +1792,19 @@
       "model": "VK815"
     },
     {
+      "market_name": "LG G Pad X\\xc2\\xae II 10.1",
+      "codename": "b5",
+      "model": "LGUK750"
+    },
+    {
       "market_name": "LG G Pad\\xe2\\x84\\xa2 X 8.0",
       "codename": "b3",
       "model": "LG-V520"
+    },
+    {
+      "market_name": "LG G Stylo",
+      "codename": "g4stylus",
+      "model": "LG-H634"
     },
     {
       "market_name": "LG G Stylo",
@@ -2232,6 +2257,11 @@
       "model": "LG-H848"
     },
     {
+      "market_name": "LG Gentle",
+      "codename": "cfm",
+      "model": "LG-F660L"
+    },
+    {
       "market_name": "LG Gpad X 10.1",
       "codename": "t1lte",
       "model": "LG-V930"
@@ -2320,6 +2350,16 @@
       "market_name": "LG K10 LTE",
       "codename": "m253n",
       "model": "LG-K430"
+    },
+    {
+      "market_name": "LG K3",
+      "codename": "me0",
+      "model": "LGLS450"
+    },
+    {
+      "market_name": "LG K3 LTE",
+      "codename": "mme0",
+      "model": "LG-K100"
     },
     {
       "market_name": "LG K3 LTE",
@@ -2430,6 +2470,11 @@
       "market_name": "LG LEON\\xe2\\x84\\xa2 LTE",
       "codename": "c50",
       "model": "LG-H345"
+    },
+    {
+      "market_name": "LG Lancet",
+      "codename": "c50",
+      "model": "VS820"
     },
     {
       "market_name": "LG Leon",
@@ -3472,6 +3517,16 @@
       "model": "LG-P925"
     },
     {
+      "market_name": "LG Treasure",
+      "codename": "m1",
+      "model": "LGL51AL"
+    },
+    {
+      "market_name": "LG Treasure",
+      "codename": "m1",
+      "model": "LGL52VL"
+    },
+    {
       "market_name": "LG Tribute 2\\xe2\\x84\\xa2",
       "codename": "c50",
       "model": "LGLS665"
@@ -3544,7 +3599,17 @@
     {
       "market_name": "LG Wine Smart Jazz",
       "codename": "cf",
+      "model": "LG-F610K"
+    },
+    {
+      "market_name": "LG Wine Smart Jazz",
+      "codename": "cf",
       "model": "LG-F610S"
+    },
+    {
+      "market_name": "LG X Screen",
+      "codename": "k5",
+      "model": "LGK500J"
     },
     {
       "market_name": "LG X Skin",
@@ -3565,6 +3630,11 @@
       "market_name": "LG X Style",
       "codename": "k6b",
       "model": "LGL56VL"
+    },
+    {
+      "market_name": "LG X Style",
+      "codename": "k6b",
+      "model": "LGLS676"
     },
     {
       "market_name": "LG X cam",
@@ -3599,7 +3669,17 @@
     {
       "market_name": "LG X power",
       "codename": "k6p",
+      "model": "LG-K212"
+    },
+    {
+      "market_name": "LG X power",
+      "codename": "k6p",
       "model": "LG-K450"
+    },
+    {
+      "market_name": "LG X power",
+      "codename": "k6p",
+      "model": "LGUS610"
     },
     {
       "market_name": "LG X power",
@@ -3610,6 +3690,11 @@
       "market_name": "LG X power",
       "codename": "mk6p",
       "model": "LG-K220"
+    },
+    {
+      "market_name": "LG X power",
+      "codename": "mk6p55",
+      "model": "LGLS755"
     },
     {
       "market_name": "LG X power",
@@ -4677,6 +4762,16 @@
       "model": "LG-P355"
     },
     {
+      "market_name": "Premier",
+      "codename": "m209",
+      "model": "LGL61AL"
+    },
+    {
+      "market_name": "Premier",
+      "codename": "m209",
+      "model": "LGL62VL"
+    },
+    {
       "market_name": "Qua phone PX",
       "codename": "JSG",
       "model": "LGV33"
@@ -4824,6 +4919,11 @@
     {
       "market_name": "V10",
       "codename": "pplus",
+      "model": "RS987"
+    },
+    {
+      "market_name": "V10",
+      "codename": "pplus",
       "model": "VS990"
     },
     {
@@ -4865,6 +4965,21 @@
       "market_name": "Wine Smart",
       "codename": "vfp",
       "model": "LG-F480S"
+    },
+    {
+      "market_name": "Wine Smart 3G",
+      "codename": "vfp3g",
+      "model": "LG-T480K"
+    },
+    {
+      "market_name": "Wine Smart 3G",
+      "codename": "vfp3g",
+      "model": "LG-T480S"
+    },
+    {
+      "market_name": "X Mach",
+      "codename": "sjr",
+      "model": "LG-K600"
     },
     {
       "market_name": "X power",

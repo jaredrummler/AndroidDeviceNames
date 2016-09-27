@@ -1,0 +1,45 @@
+{
+  "manufacturer": "DL",
+  "devices": [
+    {
+      "market_name": "DL 3406",
+      "codename": "G02DL",
+      "model": "Tablet DL 3406"
+    },
+    {
+      "market_name": "DL3920",
+      "codename": "Tablet_DL_3920",
+      "model": "Tablet_DL_3920"
+    },
+    {
+      "market_name": "DL_3420",
+      "codename": "Tablet_DL_3420",
+      "model": "Tablet DL 3420"
+    },
+    {
+      "market_name": "DL_3420",
+      "codename": "Tablet_DL_3420",
+      "model": "Tablet_DL_3420"
+    },
+    {
+      "market_name": "DL_3903",
+      "codename": "Tablet_DL_3903",
+      "model": "Tablet_DL_3903"
+    },
+    {
+      "market_name": "TabKids Plus",
+      "codename": "TabKids_Plus",
+      "model": "Tablet DL 3411"
+    },
+    {
+      "market_name": "X_Quad_Pro",
+      "codename": "X_Quad_Pro",
+      "model": "Tablet DL 3410"
+    },
+    {
+      "market_name": "i-Player_KIDS",
+      "codename": "Tablet_DL_3910",
+      "model": "Tablet_DL_3910"
+    }
+  ]
+}
