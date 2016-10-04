@@ -1,10 +1,47 @@
-.gradle
-/local.properties
-.idea
-.DS_Store
-/build
-/captures
-com-jaredrummler-android-device.iml
-.hidden
-secring.gpg
+########### Specifies intentionally untracked files to ignore ###########
+
+### Gradle
+.gradle/
+build/
+
+### IntelliJ IDEA
+/.idea
 *.iml
+*.iws
+captures/
+.navigation/
+local.properties
+bin/
+gen/
+out/
+*.apk
+*.ap_
+
+### Android
+*.jks
+*.dex
+
+### Java
+*.class
+hs_err_pid*
+
+### Windows
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+
+### OSX
+.DS_Store
+
+### Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+### Logs
+*.log
+
+### Crashlytics
+crashlytics.properties
+fabric.properties
