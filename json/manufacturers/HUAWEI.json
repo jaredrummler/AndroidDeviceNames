@@ -2172,16 +2172,6 @@
       "model": "FRD-L02"
     },
     {
-      "market_name": "HUAWEI FRD-L09",
-      "codename": "HWFRD",
-      "model": "FRD-L09"
-    },
-    {
-      "market_name": "HUAWEI FRD-L19",
-      "codename": "HWFRD",
-      "model": "FRD-L19"
-    },
-    {
       "market_name": "HUAWEI G630",
       "codename": "hwG630-T00",
       "model": "HUAWEI G630-T00"
@@ -2924,6 +2914,16 @@
     {
       "market_name": "Honor 8",
       "codename": "HWFRD",
+      "model": "FRD-L09"
+    },
+    {
+      "market_name": "Honor 8",
+      "codename": "HWFRD",
+      "model": "FRD-L19"
+    },
+    {
+      "market_name": "Honor 8",
+      "codename": "HWFRD",
       "model": "FRD-TL00"
     },
     {
@@ -3265,6 +3265,11 @@
       "market_name": "MediaPad",
       "codename": "hwt1701",
       "model": "T1-701ua"
+    },
+    {
+      "market_name": "MediaPad",
+      "codename": "hwt1701",
+      "model": "T1-701us"
     },
     {
       "market_name": "MediaPad",
@@ -3670,6 +3675,11 @@
       "market_name": "T1 10",
       "codename": "hwt1a21l",
       "model": "T1-A21L"
+    },
+    {
+      "market_name": "T1 10",
+      "codename": "hwt1a21l",
+      "model": "T1-A21W"
     },
     {
       "market_name": "T1 10",

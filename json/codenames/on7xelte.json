@@ -1,7 +1,13 @@
 [
   {
     "manufacturer": "Samsung",
-    "market_name": "Galaxy On7(2016)",
+    "market_name": "Galaxy J7 Prime",
+    "codename": "on7xelte",
+    "model": "SM-G610F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy On Nxt",
     "codename": "on7xelte",
     "model": "SM-G610F"
   }

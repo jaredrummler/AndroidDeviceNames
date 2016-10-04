@@ -737,6 +737,11 @@
       "model": "SM-A800X"
     },
     {
+      "market_name": "Galaxy A8(2016)",
+      "codename": "a8xelteskt",
+      "model": "SM-A810S"
+    },
+    {
       "market_name": "Galaxy A9 Pro",
       "codename": "a9xproltechn",
       "model": "SM-A9100"
@@ -2702,6 +2707,11 @@
       "model": "SM-J500Y"
     },
     {
+      "market_name": "Galaxy J5 Prime",
+      "codename": "on5xelte",
+      "model": "SM-G570F"
+    },
+    {
       "market_name": "Galaxy J5(2016)",
       "codename": "j5x3g",
       "model": "SM-J510H"
@@ -2780,6 +2790,11 @@
       "market_name": "Galaxy J7",
       "codename": "j7ltechn",
       "model": "SM-J7008"
+    },
+    {
+      "market_name": "Galaxy J7 Prime",
+      "codename": "on7xelte",
+      "model": "SM-G610F"
     },
     {
       "market_name": "Galaxy J7(2016)",
@@ -4102,6 +4117,11 @@
       "model": "SM-N930V"
     },
     {
+      "market_name": "Galaxy On Nxt",
+      "codename": "on7xelte",
+      "model": "SM-G610F"
+    },
+    {
       "market_name": "Galaxy On5",
       "codename": "o5lte",
       "model": "SM-G550FY"
@@ -4137,6 +4157,11 @@
       "model": "SM-G550T2"
     },
     {
+      "market_name": "Galaxy On5(2016)",
+      "codename": "on5xelteins",
+      "model": "SM-G570F"
+    },
+    {
       "market_name": "Galaxy On7",
       "codename": "o7lte",
       "model": "SM-G600FY"
@@ -4145,11 +4170,6 @@
       "market_name": "Galaxy On7",
       "codename": "o7ltechn",
       "model": "SM-G6000"
-    },
-    {
-      "market_name": "Galaxy On7",
-      "codename": "o7prolte",
-      "model": "SM-G600FY"
     },
     {
       "market_name": "Galaxy On7",
@@ -4162,14 +4182,19 @@
       "model": "SM-G600S"
     },
     {
-      "market_name": "Galaxy On7(2016)",
-      "codename": "on7xelte",
-      "model": "SM-G610F"
+      "market_name": "Galaxy On7 Pro",
+      "codename": "o7prolte",
+      "model": "SM-G600FY"
     },
     {
       "market_name": "Galaxy On7(2016)",
       "codename": "on7xltechn",
       "model": "SM-G6100"
+    },
+    {
+      "market_name": "Galaxy On8",
+      "codename": "j7xlte",
+      "model": "SM-J710FN"
     },
     {
       "market_name": "Galaxy Player",
@@ -5610,6 +5635,11 @@
       "market_name": "Galaxy S5",
       "codename": "kltespr",
       "model": "SM-G900P"
+    },
+    {
+      "market_name": "Galaxy S5",
+      "codename": "kltetfnvzw",
+      "model": "SM-S903VL"
     },
     {
       "market_name": "Galaxy S5",

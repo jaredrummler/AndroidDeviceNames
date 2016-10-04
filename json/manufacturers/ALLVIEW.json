@@ -197,6 +197,11 @@
       "model": "P6_Energy"
     },
     {
+      "market_name": "P7 PRO",
+      "codename": "P7_PRO",
+      "model": "P7_PRO"
+    },
+    {
       "market_name": "P8 Energy",
       "codename": "P8_Energy",
       "model": "P8_Energy"
@@ -225,6 +230,11 @@
       "market_name": "P8 eMagic",
       "codename": "P8_eMagic",
       "model": "P8_eMagic_TM"
+    },
+    {
+      "market_name": "P9 Energy mini",
+      "codename": "P9_Energy_mini",
+      "model": "P9_Energy_mini"
     },
     {
       "market_name": "V1 Viper E",

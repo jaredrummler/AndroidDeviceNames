@@ -2,6 +2,11 @@
   "manufacturer": "Evolio",
   "devices": [
     {
+      "market_name": "M5Pro",
+      "codename": "Evolio_M5Pro",
+      "model": "Evolio_M5Pro"
+    },
+    {
       "market_name": "M6",
       "codename": "Evolio_M6",
       "model": "Evolio_M6"

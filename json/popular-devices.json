@@ -3800,12 +3800,6 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy On7",
-    "codename": "o7prolte",
-    "model": "SM-G600FY"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy On7",
     "codename": "on7elte",
     "model": "SM-G600F"
   },
@@ -4612,6 +4606,12 @@
     "market_name": "Galaxy S5",
     "codename": "kltespr",
     "model": "SM-G900P"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S5",
+    "codename": "kltetfnvzw",
+    "model": "SM-S903VL"
   },
   {
     "manufacturer": "Samsung",

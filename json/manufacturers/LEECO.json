@@ -2,11 +2,6 @@
   "manufacturer": "Leeco",
   "devices": [
     {
-      "market_name": "Le 2",
-      "codename": "le_s2_na",
-      "model": "Le X522"
-    },
-    {
       "market_name": "Le Max2",
       "codename": "le_x2",
       "model": "Le X820"
@@ -20,6 +15,11 @@
       "market_name": "Le Max2",
       "codename": "le_x2_na",
       "model": "Le X829"
+    },
+    {
+      "market_name": "Le S3",
+      "codename": "le_s2_na",
+      "model": "Le X522"
     },
     {
       "market_name": "Le s2",

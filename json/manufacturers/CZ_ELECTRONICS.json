@@ -2,6 +2,11 @@
   "manufacturer": "CZ Electronics",
   "devices": [
     {
+      "market_name": "M3CR",
+      "codename": "Mint_Fox",
+      "model": "M3CR"
+    },
+    {
       "market_name": "M3s",
       "codename": "M3s",
       "model": "M3s"

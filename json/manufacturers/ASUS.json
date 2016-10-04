@@ -172,6 +172,11 @@
       "model": "ASUS_A001"
     },
     {
+      "market_name": "Commercial tablet 10\\xe2\\x80\\x9d (R1000M)",
+      "codename": "P00C_M",
+      "model": "P00C"
+    },
+    {
       "market_name": "Cube",
       "codename": "asus_google_cube",
       "model": "asus_google_cube"
@@ -900,6 +905,11 @@
       "market_name": "ZenFone Zoom (ZX551ML)",
       "codename": "Z00X_2",
       "model": "ASUS_Z00XS"
+    },
+    {
+      "market_name": "ZenFone3",
+      "codename": "ASUS_Z012D",
+      "model": "ASUS_Z012D"
     },
     {
       "market_name": "ZenFone3",

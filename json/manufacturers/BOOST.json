@@ -12,6 +12,11 @@
       "model": "Moova-Soul"
     },
     {
+      "market_name": "Shaker-Slim",
+      "codename": "Shaker-Slim",
+      "model": "Shaker-Slim"
+    },
+    {
       "market_name": "ShakerBeat",
       "codename": "ShakerBeat",
       "model": "ShakerBeat"
@@ -25,11 +30,6 @@
       "market_name": "X4503",
       "codename": "X4503",
       "model": "X4503"
-    },
-    {
-      "market_name": "skaker slim",
-      "codename": "Shaker-Slim",
-      "model": "Shaker-Slim"
     }
   ]
 }
