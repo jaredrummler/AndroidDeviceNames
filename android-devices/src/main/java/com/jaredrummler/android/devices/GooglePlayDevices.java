@@ -48,10 +48,10 @@ public class GooglePlayDevices {
   private static final File DEVICES_JSON = new File(JSON_DIR, "devices.json");
   private static final File POPULAR_JSON = new File(JSON_DIR, "popular-devices.json");
   private static final File DEVICES_DIR = new File(JSON_DIR, "devices");
-  private static final File CODENAMES_DIR = new File(JSON_DIR, "codenames");
   private static final File MANUFACTURERS_DIR = new File(JSON_DIR, "manufacturers");
 
   public static final String[] POPULAR_DEVICES = {
+      ////////////////////////////////////////////
       // Acer
       "Iconia Tab 10",
       "Iconia Tab 7",
@@ -62,14 +62,17 @@ public class GooglePlayDevices {
       "Liquid Jade S",
       "Liquid S3",
       "Liquid Z5",
+      ////////////////////////////////////////////
       // Asus
       "MeMO Pad 7",
       "Nexus 7 (2012)",
       "Nexus 7 (2013)",
       "ZenFone 5",
+      ////////////////////////////////////////////
       // Dell
       "Venue 7",
       "Venue 8",
+      ////////////////////////////////////////////
       // HTC
       "HTC One",
       "HTC One (E8)",
@@ -78,10 +81,12 @@ public class GooglePlayDevices {
       "HTC One M9",
       "HTC One S",
       "Nexus 9",
+      ////////////////////////////////////////////
       // Huawei
       "Honor3",
       "Mate S",
       "Nexus 6P",
+      ////////////////////////////////////////////
       // LGE
       "LG G Flex",
       "LG G Flex2",
@@ -105,8 +110,10 @@ public class GooglePlayDevices {
       "Optimus LTE",
       "Optimus One",
       "Optimus Pad",
+      ////////////////////////////////////////////
       // Lenovo
       "Lenovo A7-30GC",
+      ////////////////////////////////////////////
       // Motorola
       "DROID Turbo",
       "MOTO E",
@@ -116,12 +123,13 @@ public class GooglePlayDevices {
       "MOTO X",
       "Moto X Style",
       "Nexus 6",
+      ////////////////////////////////////////////
       // OnePlus
       "OnePlus",
       "OnePlus One",
       "OnePlus2",
+      ////////////////////////////////////////////
       // Samsung
-//      "Galaxy A3",
       "Galaxy A5",
       "Galaxy A8",
       "Galaxy Ace 4",
@@ -129,7 +137,6 @@ public class GooglePlayDevices {
       "Galaxy Ace Plus",
       "Galaxy Ace Style",
       "Galaxy Ace4",
-//      "Galaxy Alpha",
       "Galaxy Core Prime",
       "Galaxy Core2",
       "Galaxy E5",
@@ -147,9 +154,6 @@ public class GooglePlayDevices {
       "Galaxy Note 10.1",
       "Galaxy Note Edge",
       "Galaxy Note Pro 12.2",
-//      "Galaxy Note2",
-//      "Galaxy Note3",
-//      "Galaxy Note3 Neo",
       "Galaxy Note4",
       "Galaxy Note5",
       "Galaxy Note6",
@@ -159,7 +163,6 @@ public class GooglePlayDevices {
       "Galaxy S Duos",
       "Galaxy S Duos2",
       "Galaxy S Duos3",
-//      "Galaxy S2",
       "Galaxy S3",
       "Galaxy S3 Mini",
       "Galaxy S3 Neo",
@@ -180,6 +183,7 @@ public class GooglePlayDevices {
       "Galaxy View",
       "Galaxy Y",
       "Nexus 10",
+      ////////////////////////////////////////////
       // Sony
       "Xperia E1 dual",
       "Xperia E3",
@@ -193,6 +197,7 @@ public class GooglePlayDevices {
       "Xperia Z3",
       "Xperia Z4",
       "Xperia Z5 Compact",
+      ////////////////////////////////////////////
       // Sony Ericsson
       "Xperia S",
       "Xperia Tablet Z",
@@ -274,23 +279,6 @@ public class GooglePlayDevices {
     for (Manufacturer manufacturer : manufacturers) {
       File file = new File(MANUFACTURERS_DIR, manufacturer.getJsonFilename());
       String json = gson.toJson(manufacturer);
-      write(file, json);
-    }
-
-    ///////////////////////////////////////////////////////////////////////////////////////////////
-    // legacy (1.0.0 - 1.0.4)
-    codenames.clear();
-    for (Device device : devices) {
-      List<Device> deviceList = codenames.get(device.codename);
-      if (deviceList == null) {
-        deviceList = new ArrayList<>();
-      }
-      deviceList.add(device);
-      codenames.put(device.codename, deviceList);
-    }
-    for (Map.Entry<String, List<Device>> entry : codenames.entrySet()) {
-      File file = new File(CODENAMES_DIR, entry.getKey() + ".json");
-      String json = gson.toJson(entry.getValue());
       write(file, json);
     }
   }
