@@ -244,6 +244,17 @@ public class DeviceName {
       return "Venue 8";
     }
     // ----------------------------------------------------------------------------
+    // Google
+    if ((codename != null && codename.equals("sailfish"))) {
+      return "Pixel";
+    }
+    if ((codename != null && codename.equals("dragon"))) {
+      return "Pixel C";
+    }
+    if ((codename != null && codename.equals("marlin"))) {
+      return "Pixel XL";
+    }
+    // ----------------------------------------------------------------------------
     // HTC
     if ((codename != null && (codename.equals("m7")
         || codename.equals("m7cdtu")
@@ -1263,7 +1274,6 @@ public class DeviceName {
     }
     if ((codename != null && (codename.equals("o7lte")
         || codename.equals("o7ltechn")
-        || codename.equals("o7prolte")
         || codename.equals("on7elte")
         || codename.equals("on7nlteskt")))
         || (model != null && (model.equals("SM-G6000")
@@ -1489,6 +1499,7 @@ public class DeviceName {
         || codename.equals("kltelra")
         || codename.equals("klteskt")
         || codename.equals("kltespr")
+        || codename.equals("kltetfnvzw")
         || codename.equals("kltetmo")
         || codename.equals("klteusc")
         || codename.equals("kltevzw")
@@ -1525,7 +1536,8 @@ public class DeviceName {
         || model.equals("SM-G900X")
         || model.equals("SM-G906K")
         || model.equals("SM-G906L")
-        || model.equals("SM-G906S")))) {
+        || model.equals("SM-G906S")
+        || model.equals("SM-S903VL")))) {
       return "Galaxy S5";
     }
     if ((codename != null && (codename.equals("s5neolte")
@@ -1573,7 +1585,8 @@ public class DeviceName {
         || model.equals("SM-G920V")
         || model.equals("SM-G920W8")
         || model.equals("SM-G920X")
-        || model.equals("SM-S906L")))) {
+        || model.equals("SM-S906L")
+        || model.equals("SM-S907VL")))) {
       return "Galaxy S6";
     }
     if ((codename != null && (codename.equals("404SC")
@@ -1792,6 +1805,8 @@ public class DeviceName {
       return "Galaxy Tab E 9.6";
     }
     if ((codename != null && (codename.equals("403SC")
+        || codename.equals("degas2wifi")
+        || codename.equals("degas2wifibmwchn")
         || codename.equals("degas3g")
         || codename.equals("degaslte")
         || codename.equals("degasltespr")
@@ -1807,6 +1822,7 @@ public class DeviceName {
         || model.equals("SM-T230")
         || model.equals("SM-T230NT")
         || model.equals("SM-T230NU")
+        || model.equals("SM-T230NW")
         || model.equals("SM-T230NY")
         || model.equals("SM-T230X")
         || model.equals("SM-T231")

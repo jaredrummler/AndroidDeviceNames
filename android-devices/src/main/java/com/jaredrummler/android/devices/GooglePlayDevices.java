@@ -73,6 +73,11 @@ public class GooglePlayDevices {
       "Venue 7",
       "Venue 8",
       ////////////////////////////////////////////
+      // Google
+      "Pixel",
+      "Pixel XL",
+      "Pixel C",
+      ////////////////////////////////////////////
       // HTC
       "HTC One",
       "HTC One (E8)",

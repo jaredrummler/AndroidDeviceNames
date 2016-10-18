@@ -216,6 +216,24 @@
     "model": "Venue 8 HSPA+"
   },
   {
+    "manufacturer": "Google",
+    "market_name": "Pixel",
+    "codename": "sailfish",
+    "model": "Pixel"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "Pixel XL",
+    "codename": "marlin",
+    "model": "Pixel XL"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "Pixel C",
+    "codename": "dragon",
+    "model": "Pixel C"
+  },
+  {
     "manufacturer": "HTC",
     "market_name": "HTC ONE",
     "codename": "m7cdug",
