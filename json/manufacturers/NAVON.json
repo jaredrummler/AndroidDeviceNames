@@ -2,9 +2,24 @@
   "manufacturer": "Navon",
   "devices": [
     {
+      "market_name": "D455",
+      "codename": "D455",
+      "model": "D455"
+    },
+    {
       "market_name": "D504",
       "codename": "D504",
       "model": "D504"
+    },
+    {
+      "market_name": "T452",
+      "codename": "T452",
+      "model": "T452"
+    },
+    {
+      "market_name": "T503",
+      "codename": "T503",
+      "model": "T503"
     }
   ]
 }

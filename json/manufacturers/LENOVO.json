@@ -1742,6 +1742,16 @@
       "model": "Lenovo P1c58"
     },
     {
+      "market_name": "Lenovo P2",
+      "codename": "P2a42",
+      "model": "Lenovo P2a42"
+    },
+    {
+      "market_name": "Lenovo P2",
+      "codename": "kuntao",
+      "model": "Lenovo P2c72"
+    },
+    {
       "market_name": "Lenovo P70",
       "codename": "P70-A",
       "model": "Lenovo P70-A"
@@ -2112,6 +2122,11 @@
       "model": "Lenovo TB3-730X"
     },
     {
+      "market_name": "Lenovo TAB3 8 Plus",
+      "codename": "TB-8703R",
+      "model": "Lenovo TB-8703R"
+    },
+    {
       "market_name": "Lenovo TAB3 X70L",
       "codename": "TB3-X70L",
       "model": "Lenovo TB3-X70L"
@@ -2140,6 +2155,16 @@
       "market_name": "Lenovo TB2-X30M",
       "codename": "TB2-X30M",
       "model": "Lenovo TB2-X30M"
+    },
+    {
+      "market_name": "Lenovo TB3 8 Plus",
+      "codename": "TB-8703F",
+      "model": "Lenovo TB-8703F"
+    },
+    {
+      "market_name": "Lenovo TB3 8 Plus",
+      "codename": "TB-8703N",
+      "model": "Lenovo TB-8703N"
     },
     {
       "market_name": "Lenovo TB3-601LV",
@@ -2332,9 +2357,39 @@
       "model": "Lenovo YT3-X90F"
     },
     {
+      "market_name": "Lenovo YT3-X90L/YOGA3 Tablet Pro",
+      "codename": "YT3",
+      "model": "Lenovo YT3-X90L"
+    },
+    {
+      "market_name": "Lenovo YT3-X90X/YOGA3 Tablet Pro",
+      "codename": "YT3",
+      "model": "Lenovo YT3-X90X"
+    },
+    {
+      "market_name": "Lenovo YT3-X90Y/YOGA3 Tablet Pro",
+      "codename": "YT3",
+      "model": "Lenovo YT3-X90Y"
+    },
+    {
+      "market_name": "Lenovo YT3-X90Z/YOGA3 Tablet Pro",
+      "codename": "YT3",
+      "model": "Lenovo YT3-X90Z"
+    },
+    {
       "market_name": "Lenovo Yoga TAB3 Plus",
       "codename": "YT-X703F",
       "model": "Lenovo YT-X703F"
+    },
+    {
+      "market_name": "Lenovo Yoga TAB3 Plus",
+      "codename": "YT-X703L",
+      "model": "Lenovo YT-X703L"
+    },
+    {
+      "market_name": "Lenovo Yoga TAB3 Plus",
+      "codename": "YT-X703X",
+      "model": "Lenovo YT-X703X"
     },
     {
       "market_name": "Lenovo YogaTablet2 -1050F",
@@ -2440,6 +2495,16 @@
       "market_name": "Moto E3 Power",
       "codename": "taido_row",
       "model": "XT1706"
+    },
+    {
+      "market_name": "Motorola M",
+      "codename": "XT1663",
+      "model": "XT1663"
+    },
+    {
+      "market_name": "Motorola Moto M",
+      "codename": "kungfu_m",
+      "model": "XT1662"
     },
     {
       "market_name": "P780",

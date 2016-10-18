@@ -7,8 +7,32 @@
   },
   {
     "manufacturer": "Huawei",
+    "market_name": "HUAWEI ECO",
+    "codename": "HWLUA-L6735",
+    "model": "HUAWEI LUA-L03"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI ECO",
+    "codename": "HWLUA-L6735",
+    "model": "HUAWEI LUA-L13"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI ECO",
+    "codename": "HWLUA-L6735",
+    "model": "HUAWEI LUA-L23"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "HUAWEI Y3II",
     "codename": "HWLUA-L6735",
     "model": "HUAWEI LUA-L01"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI Y3II",
+    "codename": "HWLUA-L6735",
+    "model": "HUAWEI LUA-L21"
   }
 ]

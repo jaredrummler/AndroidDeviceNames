@@ -17,9 +17,24 @@
       "model": "Storm 2e Plus"
     },
     {
+      "market_name": "Storm 2e Pluz",
+      "codename": "Storm_2e_Pluz",
+      "model": "Storm 2e Pluz"
+    },
+    {
       "market_name": "Storm 3",
       "codename": "W230",
       "model": "STK Storm 3"
+    },
+    {
+      "market_name": "Sync 5e",
+      "codename": "STK_Sync_5e",
+      "model": "STK_Sync_5e"
+    },
+    {
+      "market_name": "Sync 5z",
+      "codename": "STK_Sync_5z",
+      "model": "STK Sync 5z"
     }
   ]
 }

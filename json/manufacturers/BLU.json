@@ -117,6 +117,11 @@
       "model": "BLU LIFE MARK"
     },
     {
+      "market_name": "Life Max",
+      "codename": "Life_Max",
+      "model": "Life Max"
+    },
+    {
       "market_name": "NEO ENERGY MINI",
       "codename": "BLU_NEO_ENERGY_MINI",
       "model": "BLU NEO ENERGY MINI"
@@ -267,6 +272,11 @@
       "model": "BLU STUDIO C HD"
     },
     {
+      "market_name": "Studio C HD",
+      "codename": "Studio_C_HD",
+      "model": "Studio C HD"
+    },
+    {
       "market_name": "Studio G HD",
       "codename": "STUDIO_G_HD",
       "model": "STUDIO_G_HD"
@@ -285,6 +295,11 @@
       "market_name": "Studio X Mini",
       "codename": "BLU_STUDIO_X_MINI",
       "model": "BLU STUDIO X MINI"
+    },
+    {
+      "market_name": "Studio XL 2",
+      "codename": "Studio_XL_2",
+      "model": "Studio XL 2"
     },
     {
       "market_name": "VIVO 5",

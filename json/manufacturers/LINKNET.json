@@ -2,6 +2,11 @@
   "manufacturer": "LinkNet",
   "devices": [
     {
+      "market_name": "SH960C-LN",
+      "codename": "SH960C-LN",
+      "model": "SH960C-LN"
+    },
+    {
       "market_name": "ST950I-LN",
       "codename": "ST950I-LN",
       "model": "ST950I-LN"

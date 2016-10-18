@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Visiontouch",
+  "devices": [
+    {
+      "market_name": "Inspire",
+      "codename": "VisionTouchInspire",
+      "model": "Vision Touch Inspire"
+    },
+    {
+      "market_name": "Life",
+      "codename": "VisionTouchLife",
+      "model": "VisionTouchLife"
+    }
+  ]
+}

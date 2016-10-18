@@ -137,6 +137,11 @@
       "model": "ASUS ZenWatch"
     },
     {
+      "market_name": "ASUS ZenWatch 2",
+      "codename": "wren",
+      "model": "ASUS ZenWatch 2"
+    },
+    {
       "market_name": "ASUSPRO Tablet (M1000C)",
       "codename": "P023_M",
       "model": "P023"
@@ -175,6 +180,11 @@
       "market_name": "Commercial tablet 10\\xe2\\x80\\x9d (R1000M)",
       "codename": "P00C_M",
       "model": "P00C"
+    },
+    {
+      "market_name": "Commercial tablet 8\\xe2\\x80\\x9d (R800M)",
+      "codename": "P00A_M",
+      "model": "P00A"
     },
     {
       "market_name": "Cube",
@@ -642,14 +652,29 @@
       "model": "ASUS_X008DA"
     },
     {
+      "market_name": "X008DA",
+      "codename": "ASUS_X008_1",
+      "model": "ASUS_X008DA"
+    },
+    {
       "market_name": "X008DB",
       "codename": "ASUS_X008",
+      "model": "ASUS_X008DB"
+    },
+    {
+      "market_name": "X008DB",
+      "codename": "ASUS_X008_1",
       "model": "ASUS_X008DB"
     },
     {
       "market_name": "X00AD_2",
       "codename": "ASUS_X00AD_2",
       "model": "ASUS_X00AD"
+    },
+    {
+      "market_name": "X00DD",
+      "codename": "ASUS_X00DD",
+      "model": "ASUS_X00DD"
     },
     {
       "market_name": "ZenFone 2 (ZE500CL)",
@@ -780,6 +805,11 @@
       "market_name": "ZenFone 3 Deluxe",
       "codename": "ASUS_Z01F_1",
       "model": "ASUS_Z01FD"
+    },
+    {
+      "market_name": "ZenFone 3 Deluxe",
+      "codename": "Z016",
+      "model": "ASUS_Z016S"
     },
     {
       "market_name": "ZenFone 4 (A400CG)",
@@ -917,6 +947,11 @@
       "model": "ASUS_Z017D"
     },
     {
+      "market_name": "ZenFone3",
+      "codename": "ASUS_Z017D_1",
+      "model": "ASUS_Z017DA"
+    },
+    {
       "market_name": "ZenPad 10 (Z300C)",
       "codename": "P023_1",
       "model": "P023"
@@ -960,6 +995,11 @@
       "market_name": "ZenPad 3 8.0",
       "codename": "P008_2",
       "model": "P008"
+    },
+    {
+      "market_name": "ZenPad 3S 10 LTE (Z500KL)",
+      "codename": "ASUS_P00I",
+      "model": "ASUS_P00I"
     },
     {
       "market_name": "ZenPad 7.0 (Z370C)",
@@ -1125,6 +1165,16 @@
       "market_name": "Zenfone 3 Laser",
       "codename": "Z01B_1",
       "model": "ASUS_Z01BD"
+    },
+    {
+      "market_name": "Zenfone 3 Laser",
+      "codename": "Z01B_1",
+      "model": "ASUS_Z01BDC"
+    },
+    {
+      "market_name": "Zenfone 3 Laser",
+      "codename": "Z01B_1",
+      "model": "ASUS_Z01BS"
     },
     {
       "market_name": "Zenfone GO",

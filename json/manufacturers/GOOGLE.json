@@ -7,9 +7,19 @@
       "model": "GT-I9505G"
     },
     {
+      "market_name": "Pixel",
+      "codename": "sailfish",
+      "model": "Pixel"
+    },
+    {
       "market_name": "Pixel C",
       "codename": "dragon",
       "model": "Pixel C"
+    },
+    {
+      "market_name": "Pixel XL",
+      "codename": "marlin",
+      "model": "Pixel XL"
     },
     {
       "market_name": "Project Tango Tablet Development Kit",

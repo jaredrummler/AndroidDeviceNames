@@ -738,6 +738,11 @@
     },
     {
       "market_name": "Galaxy A8(2016)",
+      "codename": "a8xelte",
+      "model": "SM-A810YZ"
+    },
+    {
+      "market_name": "Galaxy A8(2016)",
       "codename": "a8xelteskt",
       "model": "SM-A810S"
     },
@@ -2497,6 +2502,11 @@
       "model": "SM-J105Y"
     },
     {
+      "market_name": "Galaxy J1 Mini Prime",
+      "codename": "j1minive3g",
+      "model": "SM-J106H"
+    },
+    {
       "market_name": "Galaxy J1(2016)",
       "codename": "j1x3g",
       "model": "SM-J120H"
@@ -2545,6 +2555,11 @@
       "market_name": "Galaxy J2",
       "codename": "j2ltedtv",
       "model": "SM-J200BT"
+    },
+    {
+      "market_name": "Galaxy J2 Prime",
+      "codename": "grandpplte",
+      "model": "SM-G532G"
     },
     {
       "market_name": "Galaxy J2(2016)",
@@ -2712,6 +2727,26 @@
       "model": "SM-G570F"
     },
     {
+      "market_name": "Galaxy J5 Prime",
+      "codename": "on5xelte",
+      "model": "SM-G570M"
+    },
+    {
+      "market_name": "Galaxy J5 Prime",
+      "codename": "on5xelte",
+      "model": "SM-G570Y"
+    },
+    {
+      "market_name": "Galaxy J5 Prime",
+      "codename": "on5xelteins",
+      "model": "SM-G570F"
+    },
+    {
+      "market_name": "Galaxy J5 Prime",
+      "codename": "on5xltechn",
+      "model": "SM-G5700"
+    },
+    {
       "market_name": "Galaxy J5(2016)",
       "codename": "j5x3g",
       "model": "SM-J510H"
@@ -2795,6 +2830,21 @@
       "market_name": "Galaxy J7 Prime",
       "codename": "on7xelte",
       "model": "SM-G610F"
+    },
+    {
+      "market_name": "Galaxy J7 Prime",
+      "codename": "on7xelte",
+      "model": "SM-G610M"
+    },
+    {
+      "market_name": "Galaxy J7 Prime",
+      "codename": "on7xelte",
+      "model": "SM-G610Y"
+    },
+    {
+      "market_name": "Galaxy J7 Prime",
+      "codename": "on7xltechn",
+      "model": "SM-G6100"
     },
     {
       "market_name": "Galaxy J7(2016)",
@@ -4158,8 +4208,8 @@
     },
     {
       "market_name": "Galaxy On5(2016)",
-      "codename": "on5xelteins",
-      "model": "SM-G570F"
+      "codename": "on5xlltechn",
+      "model": "SM-G5510"
     },
     {
       "market_name": "Galaxy On7",
@@ -6342,6 +6392,11 @@
       "model": "SCH-I829"
     },
     {
+      "market_name": "Galaxy TAB A PLUS 10.1",
+      "codename": "gtaxlqltespr",
+      "model": "SM-T587P"
+    },
+    {
       "market_name": "Galaxy TAB3 Lite",
       "codename": "goyairis3g",
       "model": "SM-T116IR"
@@ -8400,6 +8455,11 @@
       "market_name": "Infuse",
       "codename": "SGH-I997R",
       "model": "SAMSUNG-SGH-I997R"
+    },
+    {
+      "market_name": "J1 Mini Prime",
+      "codename": "j1minivelte",
+      "model": "SM-J106F"
     },
     {
       "market_name": "Moment",

@@ -287,6 +287,16 @@
       "model": "Coolpad T1"
     },
     {
+      "market_name": "Cool C1",
+      "codename": "cool_c1",
+      "model": "C106"
+    },
+    {
+      "market_name": "Cool C1",
+      "codename": "cool_c1",
+      "model": "C106-9"
+    },
+    {
       "market_name": "Coolmini",
       "codename": "Coolmini",
       "model": "Coolmini"
@@ -300,6 +310,16 @@
       "market_name": "Coolpad 3320A",
       "codename": "cp3320a",
       "model": "Coolpad 3320A"
+    },
+    {
+      "market_name": "Coolpad 3503I",
+      "codename": "CP3503I",
+      "model": "Coolpad 3503I"
+    },
+    {
+      "market_name": "Coolpad 3503I",
+      "codename": "CP3503I",
+      "model": "Coolpad CP3503I"
     },
     {
       "market_name": "Coolpad 3600i",
@@ -512,6 +532,11 @@
       "model": "Coolpad 8722V"
     },
     {
+      "market_name": "Coolpad 8722_S00",
+      "codename": "CP8722_S00",
+      "model": "Coolpad E570"
+    },
+    {
       "market_name": "Coolpad 8729",
       "codename": "Coolpad8729",
       "model": "Coolpad 8729"
@@ -592,9 +617,19 @@
       "model": "Coolpad B770S"
     },
     {
+      "market_name": "Coolpad C103",
+      "codename": "C103",
+      "model": "C103"
+    },
+    {
       "market_name": "Coolpad CK2-01",
       "codename": "CK2-01",
       "model": "CK2-01"
+    },
+    {
+      "market_name": "Coolpad CK3-01",
+      "codename": "CK3-01",
+      "model": "CK3-01"
     },
     {
       "market_name": "Coolpad E561",
@@ -605,6 +640,16 @@
       "market_name": "Coolpad Flo",
       "codename": "7560T",
       "model": "Coolpad Flo"
+    },
+    {
+      "market_name": "Coolpad K2L_S00",
+      "codename": "K2L_S00",
+      "model": "Coolpad E580"
+    },
+    {
+      "market_name": "Coolpad R106",
+      "codename": "cpy90_g00",
+      "model": "Coolpad R106"
     },
     {
       "market_name": "Coolpad R108",
@@ -890,6 +935,11 @@
       "market_name": "ivvi i3-01",
       "codename": "i3-01",
       "model": "ivvi i3-01"
+    },
+    {
+      "market_name": "ivvi i3P-02",
+      "codename": "i3P-02",
+      "model": "ivvi i3P-02"
     }
   ]
 }

@@ -13,6 +13,11 @@
     },
     {
       "market_name": "CyberNavi",
+      "codename": "AVIC_CZ700",
+      "model": "jupiter"
+    },
+    {
+      "market_name": "CyberNavi",
       "codename": "AVIC_CZ900",
       "model": "jupiter"
     },
@@ -25,6 +30,11 @@
       "market_name": "XDP-100R",
       "codename": "Fu_Zin_32",
       "model": "XDP-100R"
+    },
+    {
+      "market_name": "XDP-300R",
+      "codename": "Fu_Zin2R_32",
+      "model": "XDP-300R"
     }
   ]
 }

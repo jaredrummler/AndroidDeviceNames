@@ -1552,6 +1552,16 @@
       "model": "M330"
     },
     {
+      "market_name": "Copper Plus",
+      "codename": "HWH1611-Q",
+      "model": "H1611"
+    },
+    {
+      "market_name": "Copper Plus",
+      "codename": "HWH1611-Q",
+      "model": "HUAWEI H1611"
+    },
+    {
       "market_name": "D2",
       "codename": "hwD2-6070",
       "model": "HUAWEI D2-6070"
@@ -2152,9 +2162,34 @@
       "model": "HUAWEI C199s"
     },
     {
+      "market_name": "HUAWEI CAN-L01",
+      "codename": "HWCAN",
+      "model": "HUAWEI CAN-L01"
+    },
+    {
+      "market_name": "HUAWEI CAN-L11",
+      "codename": "HWCAN",
+      "model": "HUAWEI CAN-L11"
+    },
+    {
       "market_name": "HUAWEI CUN-AL00",
       "codename": "HWCUN-L6735",
       "model": "CUN-AL00"
+    },
+    {
+      "market_name": "HUAWEI ECO",
+      "codename": "HWLUA-L6735",
+      "model": "HUAWEI LUA-L03"
+    },
+    {
+      "market_name": "HUAWEI ECO",
+      "codename": "HWLUA-L6735",
+      "model": "HUAWEI LUA-L13"
+    },
+    {
+      "market_name": "HUAWEI ECO",
+      "codename": "HWLUA-L6735",
+      "model": "HUAWEI LUA-L23"
     },
     {
       "market_name": "HUAWEI ECO",
@@ -2255,6 +2290,11 @@
       "market_name": "HUAWEI GR3",
       "codename": "HWTAG-L6753",
       "model": "HUAWEI TAG-L01"
+    },
+    {
+      "market_name": "HUAWEI GR3",
+      "codename": "HWTAG-L6753",
+      "model": "HUAWEI TAG-L03"
     },
     {
       "market_name": "HUAWEI GR3",
@@ -2563,6 +2603,11 @@
     },
     {
       "market_name": "HUAWEI Y3II",
+      "codename": "HWLUA-L6735",
+      "model": "HUAWEI LUA-L21"
+    },
+    {
+      "market_name": "HUAWEI Y3II",
       "codename": "HWLUA-U6582",
       "model": "HUAWEI LUA-U02"
     },
@@ -2632,6 +2677,11 @@
       "model": "HUAWEI CUN-L33"
     },
     {
+      "market_name": "HUAWEI Y5II",
+      "codename": "HWCUN-U6582",
+      "model": "HUAWEI CUN-U29"
+    },
+    {
       "market_name": "HUAWEI Y6 Elite",
       "codename": "HWLYO-L6735",
       "model": "HUAWEI LYO-L02"
@@ -2675,6 +2725,11 @@
       "market_name": "HUAWEI Y6 Pro",
       "codename": "HWTIT-L8916",
       "model": "HUAWEI TIT-CL00"
+    },
+    {
+      "market_name": "HUAWEI Y6 Pro",
+      "codename": "HWTIT-U6582",
+      "model": "HUAWEI TIT-U02"
     },
     {
       "market_name": "HUAWEI Y6 \\xe2\\x85\\xa1 Compact",
@@ -2735,6 +2790,11 @@
       "market_name": "HUAWEI Y6II",
       "codename": "HWCAM-H",
       "model": "HUAWEI CAM-U22"
+    },
+    {
+      "market_name": "HUAWEI Y6II",
+      "codename": "HWCAM-Q",
+      "model": "CAM-L32"
     },
     {
       "market_name": "HUAWEI Y6\\xe2\\x85\\xa1Compact",
