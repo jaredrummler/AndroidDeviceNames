@@ -2398,6 +2398,21 @@
     },
     {
       "market_name": "LG K7",
+      "codename": "m1",
+      "model": "LG-AS330"
+    },
+    {
+      "market_name": "LG K7",
+      "codename": "m1",
+      "model": "LG-K330"
+    },
+    {
+      "market_name": "LG K7",
+      "codename": "m1",
+      "model": "LGMS330"
+    },
+    {
+      "market_name": "LG K7",
       "codename": "m13g",
       "model": "LG-X210"
     },
@@ -2555,26 +2570,6 @@
       "market_name": "LG Lucid 3",
       "codename": "x5",
       "model": "VS876"
-    },
-    {
-      "market_name": "LG M1",
-      "codename": "m1",
-      "model": "LG-AS330"
-    },
-    {
-      "market_name": "LG M1",
-      "codename": "m1",
-      "model": "LG-K330"
-    },
-    {
-      "market_name": "LG M1",
-      "codename": "m1",
-      "model": "LGLS675"
-    },
-    {
-      "market_name": "LG M1",
-      "codename": "m1",
-      "model": "LGMS330"
     },
     {
       "market_name": "LG M1",
@@ -3530,6 +3525,11 @@
       "market_name": "LG Tribute 2\\xe2\\x84\\xa2",
       "codename": "c50",
       "model": "LGLS665"
+    },
+    {
+      "market_name": "LG Tribute 5",
+      "codename": "m1",
+      "model": "LGLS675"
     },
     {
       "market_name": "LG Venice",
@@ -4822,6 +4822,11 @@
       "model": "LG-K120"
     },
     {
+      "market_name": "Stylo 2 V",
+      "codename": "mph1",
+      "model": "VS835"
+    },
+    {
       "market_name": "Swift",
       "codename": "swift",
       "model": "GT540"
@@ -4940,6 +4945,46 @@
       "market_name": "V20",
       "codename": "elsa",
       "model": "LG-F800S"
+    },
+    {
+      "market_name": "V20",
+      "codename": "elsa",
+      "model": "LG-H910"
+    },
+    {
+      "market_name": "V20",
+      "codename": "elsa",
+      "model": "LG-H910PR"
+    },
+    {
+      "market_name": "V20",
+      "codename": "elsa",
+      "model": "LG-H915"
+    },
+    {
+      "market_name": "V20",
+      "codename": "elsa",
+      "model": "LG-H918"
+    },
+    {
+      "market_name": "V20",
+      "codename": "elsa",
+      "model": "LG-H990"
+    },
+    {
+      "market_name": "V20",
+      "codename": "elsa",
+      "model": "LG-LS997"
+    },
+    {
+      "market_name": "V20",
+      "codename": "elsa",
+      "model": "LG-US996"
+    },
+    {
+      "market_name": "V20",
+      "codename": "elsa",
+      "model": "VS995"
     },
     {
       "market_name": "VU3",

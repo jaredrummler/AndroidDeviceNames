@@ -2152,6 +2152,11 @@
       "model": "HUAWEI LUA-L02"
     },
     {
+      "market_name": "HONOR 4X",
+      "codename": "hwChe2",
+      "model": "Che2-L12"
+    },
+    {
       "market_name": "HUAWEI C199",
       "codename": "hwC199",
       "model": "HUAWEI C199"
@@ -2390,6 +2395,21 @@
       "market_name": "HUAWEI H871G",
       "codename": "hwh871g",
       "model": "HUAWEI H871G"
+    },
+    {
+      "market_name": "HUAWEI MediaPad 10 FHD",
+      "codename": "hws10101l",
+      "model": "MediaPad 10 FHD"
+    },
+    {
+      "market_name": "HUAWEI MediaPad 10 Link",
+      "codename": "hws10201w",
+      "model": "MediaPad 10 LINK"
+    },
+    {
+      "market_name": "HUAWEI MediaPad 10 Link",
+      "codename": "hws10201w",
+      "model": "dtab 01"
     },
     {
       "market_name": "HUAWEI MediaPad 10 Link+",
@@ -3122,6 +3142,16 @@
       "model": "dTV01"
     },
     {
+      "market_name": "M3",
+      "codename": "hwbeethoven",
+      "model": "BTV-DL09"
+    },
+    {
+      "market_name": "M3",
+      "codename": "hwbeethoven",
+      "model": "BTV-W09"
+    },
+    {
       "market_name": "M310",
       "codename": "hwsingleboxm310w",
       "model": "M310"
@@ -3160,6 +3190,16 @@
       "market_name": "M868",
       "codename": "hwm868",
       "model": "HUAWEI M868"
+    },
+    {
+      "market_name": "MATE 9",
+      "codename": "HWMHA",
+      "model": "MHA-L09"
+    },
+    {
+      "market_name": "MATE 9",
+      "codename": "HWMHA",
+      "model": "MHA-L29"
     },
     {
       "market_name": "MS4C",
@@ -3610,6 +3650,11 @@
       "market_name": "Prism II",
       "codename": "hwu8686",
       "model": "Prism II"
+    },
+    {
+      "market_name": "Q22",
+      "codename": "HWQ22",
+      "model": "Q22"
     },
     {
       "market_name": "S10",
@@ -4442,6 +4487,21 @@
       "model": "SCL-L01"
     },
     {
+      "market_name": "Y6",
+      "codename": "hwSCLU-Q",
+      "model": "HUAWEI SCL-U23"
+    },
+    {
+      "market_name": "Y6",
+      "codename": "hwSCLU-Q",
+      "model": "HUAWEI SCL-U31"
+    },
+    {
+      "market_name": "Y6",
+      "codename": "hwSCLU-Q",
+      "model": "SCL-U23"
+    },
+    {
       "market_name": "Y600",
       "codename": "HWY600-U",
       "model": "HUAWEI Y600-U00"
@@ -4715,6 +4775,11 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
       "codename": "hwedison",
       "model": "EDI-DL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+      "codename": "HWBLN-H",
+      "model": "BLN-AL10"
     },
     {
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa94C",

@@ -202,6 +202,11 @@
       "model": "Studio G HD LTE"
     },
     {
+      "market_name": "STUDIO G MAX",
+      "codename": "Studio_G_Max",
+      "model": "Studio G Max"
+    },
+    {
       "market_name": "STUDIO G PLUS",
       "codename": "Studio_G_Plus",
       "model": "BLU STUDIO G PLUS"
@@ -310,6 +315,11 @@
       "market_name": "VIVO 5R",
       "codename": "BLU_Vivo_5R",
       "model": "Vivo 5R"
+    },
+    {
+      "market_name": "VIVO 6",
+      "codename": "BLU_Vivo_6",
+      "model": "Vivo 6"
     },
     {
       "market_name": "VIVO XL",

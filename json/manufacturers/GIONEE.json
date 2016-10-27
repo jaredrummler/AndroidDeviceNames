@@ -227,6 +227,11 @@
       "model": "GN8002"
     },
     {
+      "market_name": "M6 mirror",
+      "codename": "GIONEE_WBL7372",
+      "model": "M6 mirror"
+    },
+    {
       "market_name": "P2M",
       "codename": "GiONEE_WBW5612",
       "model": "P2M"
@@ -275,6 +280,16 @@
       "market_name": "P7 Max",
       "codename": "GIONEE_WBL5708",
       "model": "P7 Max"
+    },
+    {
+      "market_name": "P8 Max",
+      "codename": "GIONEE_WBL7372",
+      "model": "P8 Max"
+    },
+    {
+      "market_name": "P8W",
+      "codename": "GIONEE_WBW5620",
+      "model": "P8W"
     },
     {
       "market_name": "S plus",

@@ -1,25 +1,19 @@
 [
   {
     "manufacturer": "LGE",
-    "market_name": "LG M1",
+    "market_name": "LG K7",
     "codename": "m1",
     "model": "LG-AS330"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG M1",
+    "market_name": "LG K7",
     "codename": "m1",
     "model": "LG-K330"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG M1",
-    "codename": "m1",
-    "model": "LGLS675"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG M1",
+    "market_name": "LG K7",
     "codename": "m1",
     "model": "LGMS330"
   },
@@ -34,5 +28,11 @@
     "market_name": "LG Treasure",
     "codename": "m1",
     "model": "LGL52VL"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Tribute 5",
+    "codename": "m1",
+    "model": "LGLS675"
   }
 ]

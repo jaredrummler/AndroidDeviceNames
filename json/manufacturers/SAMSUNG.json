@@ -327,6 +327,11 @@
       "model": "SGH-T759"
     },
     {
+      "market_name": "G TAB A PLUS 10.1",
+      "codename": "gtanotexllte",
+      "model": "SM-P587"
+    },
+    {
       "market_name": "GALAXY Camera",
       "codename": "gd1",
       "model": "EK-GC100"
@@ -2504,7 +2509,22 @@
     {
       "market_name": "Galaxy J1 Mini Prime",
       "codename": "j1minive3g",
+      "model": "SM-J106B"
+    },
+    {
+      "market_name": "Galaxy J1 Mini Prime",
+      "codename": "j1minive3g",
       "model": "SM-J106H"
+    },
+    {
+      "market_name": "Galaxy J1 Mini Prime",
+      "codename": "j1minive3gxtc",
+      "model": "SM-J106B"
+    },
+    {
+      "market_name": "Galaxy J1 Mini Prime",
+      "codename": "j1minivelte",
+      "model": "SM-J106M"
     },
     {
       "market_name": "Galaxy J1(2016)",
@@ -4210,6 +4230,11 @@
       "market_name": "Galaxy On5(2016)",
       "codename": "on5xlltechn",
       "model": "SM-G5510"
+    },
+    {
+      "market_name": "Galaxy On5(2016)",
+      "codename": "on5xltechn",
+      "model": "SM-G5700"
     },
     {
       "market_name": "Galaxy On7",
@@ -6392,11 +6417,6 @@
       "model": "SCH-I829"
     },
     {
-      "market_name": "Galaxy TAB A PLUS 10.1",
-      "codename": "gtaxlqltespr",
-      "model": "SM-T587P"
-    },
-    {
       "market_name": "Galaxy TAB3 Lite",
       "codename": "goyairis3g",
       "model": "SM-T116IR"
@@ -7778,8 +7798,28 @@
     },
     {
       "market_name": "Galaxy TabA Plus 10.1",
+      "codename": "gtanotexllte",
+      "model": "SM-P585M"
+    },
+    {
+      "market_name": "Galaxy TabA Plus 10.1",
+      "codename": "gtanotexlltechn",
+      "model": "SM-P588C"
+    },
+    {
+      "market_name": "Galaxy TabA Plus 10.1",
       "codename": "gtanotexlltekx",
       "model": "SM-P585N0"
+    },
+    {
+      "market_name": "Galaxy TabA Plus 10.1",
+      "codename": "gtaxlqltespr",
+      "model": "SM-T587P"
+    },
+    {
+      "market_name": "Galaxy TabA Plus10.1",
+      "codename": "gtanotexlwifikx",
+      "model": "SM-P580X"
     },
     {
       "market_name": "Galaxy TabS 10.5",
@@ -8425,6 +8465,16 @@
       "market_name": "Gem",
       "codename": "SCH-I100",
       "model": "SCH-I100"
+    },
+    {
+      "market_name": "Grand Prime Plus",
+      "codename": "grandpplte",
+      "model": "SM-G532F"
+    },
+    {
+      "market_name": "Grand Prime Plus",
+      "codename": "grandpplte",
+      "model": "SM-G532M"
     },
     {
       "market_name": "Hennessy",

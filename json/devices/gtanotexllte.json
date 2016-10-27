@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Samsung",
+    "market_name": "G TAB A PLUS 10.1",
+    "codename": "gtanotexllte",
+    "model": "SM-P587"
+  },
+  {
+    "manufacturer": "Samsung",
     "market_name": "Galaxy Tab A 10.1(2016)",
     "codename": "gtanotexllte",
     "model": "SM-P585"
@@ -10,5 +16,11 @@
     "market_name": "Galaxy Tab A 10.1(2016)",
     "codename": "gtanotexllte",
     "model": "SM-P585Y"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy TabA Plus 10.1",
+    "codename": "gtanotexllte",
+    "model": "SM-P585M"
   }
 ]

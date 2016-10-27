@@ -117,9 +117,19 @@
       "model": "LENNY3"
     },
     {
+      "market_name": "LENNY3 MAX",
+      "codename": "V3802AN",
+      "model": "LENNY3 MAX"
+    },
+    {
       "market_name": "MACARON",
       "codename": "l8401_international",
       "model": "MACARON"
+    },
+    {
+      "market_name": "P4903JP",
+      "codename": "P4903JP",
+      "model": "P4903JP"
     },
     {
       "market_name": "PULP",
@@ -252,6 +262,11 @@
       "model": "SLIDE"
     },
     {
+      "market_name": "SUGAR F7 mini",
+      "codename": "p7203",
+      "model": "SUGAR F7 mini"
+    },
+    {
       "market_name": "SUNNY",
       "codename": "T2504AN",
       "model": "SUNNY"
@@ -264,6 +279,11 @@
     {
       "market_name": "SUNNY",
       "codename": "V2504AN",
+      "model": "SUNNY"
+    },
+    {
+      "market_name": "SUNNY",
+      "codename": "v2508",
       "model": "SUNNY"
     },
     {

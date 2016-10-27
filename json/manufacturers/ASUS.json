@@ -182,6 +182,11 @@
       "model": "P00C"
     },
     {
+      "market_name": "Commercial tablet 8\\xe2\\x80\\x9d (M800M)",
+      "codename": "P00A_M",
+      "model": "P00A"
+    },
+    {
       "market_name": "Commercial tablet 8\\xe2\\x80\\x9d (R800M)",
       "codename": "P00A_M",
       "model": "P00A"
@@ -665,6 +670,11 @@
       "market_name": "X008DB",
       "codename": "ASUS_X008_1",
       "model": "ASUS_X008DB"
+    },
+    {
+      "market_name": "X008DC",
+      "codename": "ASUS_X008_1",
+      "model": "ASUS_X008DC"
     },
     {
       "market_name": "X00AD_2",
