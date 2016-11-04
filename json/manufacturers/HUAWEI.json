@@ -1467,11 +1467,6 @@
       "model": "HUAWEI C8826D"
     },
     {
-      "market_name": "CHC-U01",
-      "codename": "hwCHC-H",
-      "model": "CHC-U01"
-    },
-    {
       "market_name": "CHC-U03",
       "codename": "hwCHC-H",
       "model": "CHC-U03"
@@ -1545,6 +1540,11 @@
       "market_name": "Che2-UL00",
       "codename": "hwChe2",
       "model": "Che2-UL00"
+    },
+    {
+      "market_name": "Cherry Mini",
+      "codename": "hwCHC-H",
+      "model": "CHC-U01"
     },
     {
       "market_name": "China",
@@ -3304,12 +3304,32 @@
     {
       "market_name": "Mate 8",
       "codename": "HWNXT",
+      "model": "NXT-AL10"
+    },
+    {
+      "market_name": "Mate 8",
+      "codename": "HWNXT",
+      "model": "NXT-CL00"
+    },
+    {
+      "market_name": "Mate 8",
+      "codename": "HWNXT",
+      "model": "NXT-DL00"
+    },
+    {
+      "market_name": "Mate 8",
+      "codename": "HWNXT",
       "model": "NXT-L09"
     },
     {
       "market_name": "Mate 8",
       "codename": "HWNXT",
       "model": "NXT-L29"
+    },
+    {
+      "market_name": "Mate 8",
+      "codename": "HWNXT",
+      "model": "NXT-TL00"
     },
     {
       "market_name": "Mate S",

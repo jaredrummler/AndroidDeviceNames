@@ -22,6 +22,16 @@
       "model": "Clempad_HR_XL"
     },
     {
+      "market_name": "Clempad 6.0",
+      "codename": "Clempad_6",
+      "model": "Clempad_6"
+    },
+    {
+      "market_name": "Clempad 6.0 XL",
+      "codename": "Clempad_6_XL",
+      "model": "Clempad_6_XL"
+    },
+    {
       "market_name": "Clempad Call",
       "codename": "CLEMPADCALL",
       "model": "CLEMPADCALL"
@@ -35,6 +45,21 @@
       "market_name": "Clempad HR Plus",
       "codename": "Clempad_HR_Plus",
       "model": "Clempad_HR_Plus"
+    },
+    {
+      "market_name": "Clempad_6_S",
+      "codename": "Clempad_6_S",
+      "model": "Clempad_6_S"
+    },
+    {
+      "market_name": "Clemphone",
+      "codename": "ClemPhone",
+      "model": "ClemPhone"
+    },
+    {
+      "market_name": "My First Clempad 6.0",
+      "codename": "MFC_6",
+      "model": "MFC_6"
     },
     {
       "market_name": "My First Clempad HR",

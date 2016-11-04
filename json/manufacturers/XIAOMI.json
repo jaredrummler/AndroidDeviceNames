@@ -212,6 +212,16 @@
       "model": "MI PAD 2"
     },
     {
+      "market_name": "MIX",
+      "codename": "lithium",
+      "model": "MIX"
+    },
+    {
+      "market_name": "MIX",
+      "codename": "lithium",
+      "model": "lithium"
+    },
+    {
       "market_name": "Mi 3",
       "codename": "pisces",
       "model": "MI 3"
@@ -245,6 +255,11 @@
       "market_name": "Mi Note",
       "codename": "virgo",
       "model": "MI NOTE LTE"
+    },
+    {
+      "market_name": "Mi Note2",
+      "codename": "scorpio",
+      "model": "Mi Note 2"
     },
     {
       "market_name": "MiBOX2",

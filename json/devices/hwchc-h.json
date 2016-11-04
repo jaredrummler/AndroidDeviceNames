@@ -1,12 +1,6 @@
 [
   {
     "manufacturer": "Huawei",
-    "market_name": "CHC-U01",
-    "codename": "hwCHC-H",
-    "model": "CHC-U01"
-  },
-  {
-    "manufacturer": "Huawei",
     "market_name": "CHC-U03",
     "codename": "hwCHC-H",
     "model": "CHC-U03"
@@ -16,5 +10,11 @@
     "market_name": "CHC-U23",
     "codename": "hwCHC-H",
     "model": "CHC-U23"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Cherry Mini",
+    "codename": "hwCHC-H",
+    "model": "CHC-U01"
   }
 ]

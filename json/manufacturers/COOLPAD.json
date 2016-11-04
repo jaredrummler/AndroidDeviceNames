@@ -299,6 +299,11 @@
     {
       "market_name": "Cool C1",
       "codename": "cool_c1",
+      "model": "C106-7"
+    },
+    {
+      "market_name": "Cool C1",
+      "codename": "cool_c1",
       "model": "C106-9"
     },
     {
@@ -625,6 +630,11 @@
       "market_name": "Coolpad C103",
       "codename": "C103",
       "model": "C103"
+    },
+    {
+      "market_name": "Coolpad C106-8",
+      "codename": "cool_c1",
+      "model": "C106-8"
     },
     {
       "market_name": "Coolpad CK2-01",

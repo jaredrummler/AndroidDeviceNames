@@ -37,6 +37,11 @@
       "model": "i10"
     },
     {
+      "market_name": "Symphony_P7",
+      "codename": "Symphony_P7",
+      "model": "P7"
+    },
+    {
       "market_name": "V100",
       "codename": "V100",
       "model": "V100"
@@ -55,6 +60,11 @@
       "market_name": "i20",
       "codename": "i20",
       "model": "i20"
+    },
+    {
+      "market_name": "i50",
+      "codename": "i50",
+      "model": "i50"
     }
   ]
 }

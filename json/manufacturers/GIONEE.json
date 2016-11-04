@@ -22,6 +22,21 @@
       "model": "F100A"
     },
     {
+      "market_name": "F100B",
+      "codename": "GIONEE_GBL7370",
+      "model": "F100B"
+    },
+    {
+      "market_name": "F100L",
+      "codename": "GIONEE_GBL7370",
+      "model": "F100L"
+    },
+    {
+      "market_name": "F100S",
+      "codename": "GIONEE_GBL7370",
+      "model": "F100S"
+    },
+    {
       "market_name": "F103",
       "codename": "GiONEE_GBL7319",
       "model": "F103"
@@ -215,6 +230,16 @@
       "market_name": "M5L",
       "codename": "M5",
       "model": "M5L"
+    },
+    {
+      "market_name": "M6",
+      "codename": "GiONEE_BBL7515A",
+      "model": "GN8003"
+    },
+    {
+      "market_name": "M6",
+      "codename": "GiONEE_BBL7515A",
+      "model": "M6"
     },
     {
       "market_name": "M6 Lite",

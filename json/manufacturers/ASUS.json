@@ -177,6 +177,11 @@
       "model": "ASUS_A001"
     },
     {
+      "market_name": "Commercial tablet 10\\xe2\\x80\\x9d (M1000M)",
+      "codename": "P00C_M",
+      "model": "P00C"
+    },
+    {
       "market_name": "Commercial tablet 10\\xe2\\x80\\x9d (R1000M)",
       "codename": "P00C_M",
       "model": "P00C"
@@ -817,7 +822,12 @@
       "model": "ASUS_Z01FD"
     },
     {
-      "market_name": "ZenFone 3 Deluxe",
+      "market_name": "ZenFone 3 Deluxe (ZS570KL)",
+      "codename": "Z016",
+      "model": "ASUS_Z016DA"
+    },
+    {
+      "market_name": "ZenFone 3 Deluxe (ZS570KL)",
       "codename": "Z016",
       "model": "ASUS_Z016S"
     },
@@ -900,6 +910,11 @@
       "market_name": "ZenFone Go",
       "codename": "ASUS_X013D_2",
       "model": "ASUS_X013DB"
+    },
+    {
+      "market_name": "ZenFone Go (ZB552KL)",
+      "codename": "ASUS_X007D",
+      "model": "ASUS_X007D"
     },
     {
       "market_name": "ZenFone Selfie (ZD551KL)",
@@ -1132,11 +1147,6 @@
       "model": "ASUS ZenWatch 2"
     },
     {
-      "market_name": "Zenfone",
-      "codename": "ASUS_X007D",
-      "model": "ASUS_X007D"
-    },
-    {
       "market_name": "Zenfone 3",
       "codename": "ASUS_Z012D",
       "model": "ASUS_Z012D"
@@ -1155,11 +1165,6 @@
       "market_name": "Zenfone 3 Deluxe (ZS570KL)",
       "codename": "Z016",
       "model": "ASUS_Z016D"
-    },
-    {
-      "market_name": "Zenfone 3 Deluxe (ZS570KL)",
-      "codename": "Z016",
-      "model": "ASUS_Z016DA"
     },
     {
       "market_name": "Zenfone 3 Deluxe (ZS570KL)",
@@ -1220,6 +1225,11 @@
       "market_name": "Zenfone Go",
       "codename": "ASUS_X009D_2",
       "model": "ASUS_X009DB"
+    },
+    {
+      "market_name": "Zenfone Go (ASUS_X003)",
+      "codename": "ASUS_X003",
+      "model": "ASUS_X003"
     },
     {
       "market_name": "Zenfone Go (ASUS_X005)",
@@ -1295,6 +1305,11 @@
       "market_name": "Zenpad 8.0 (Z380KL)",
       "codename": "P024_1",
       "model": "P024"
+    },
+    {
+      "market_name": "\\xe9\\xa3\\x9b\\xe9\\xa6\\xac (T500KLC)",
+      "codename": "ASUS_X003",
+      "model": "ASUS_X003"
     },
     {
       "market_name": "\\xe9\\xa3\\x9b\\xe9\\xa6\\xac (T500TLT)",

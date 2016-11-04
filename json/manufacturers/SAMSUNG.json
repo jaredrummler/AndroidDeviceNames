@@ -744,6 +744,11 @@
     {
       "market_name": "Galaxy A8(2016)",
       "codename": "a8xelte",
+      "model": "SM-A810F"
+    },
+    {
+      "market_name": "Galaxy A8(2016)",
+      "codename": "a8xelte",
       "model": "SM-A810YZ"
     },
     {
@@ -2582,6 +2587,11 @@
       "model": "SM-G532G"
     },
     {
+      "market_name": "Galaxy J2 Prime",
+      "codename": "grandpplte",
+      "model": "SM-G532M"
+    },
+    {
       "market_name": "Galaxy J2(2016)",
       "codename": "j2xlte",
       "model": "SM-J210F"
@@ -4225,6 +4235,11 @@
       "market_name": "Galaxy On5",
       "codename": "on5ltetmo",
       "model": "SM-G550T2"
+    },
+    {
+      "market_name": "Galaxy On5(2016)",
+      "codename": "on5xfltechn",
+      "model": "SM-G5520"
     },
     {
       "market_name": "Galaxy On5(2016)",
@@ -7298,6 +7313,11 @@
     },
     {
       "market_name": "Galaxy Tab S2 9.7",
+      "codename": "gts210veltecan",
+      "model": "SM-T818W"
+    },
+    {
+      "market_name": "Galaxy Tab S2 9.7",
       "codename": "gts210veltechn",
       "model": "SM-T819C"
     },
@@ -7810,6 +7830,11 @@
       "market_name": "Galaxy TabA Plus 10.1",
       "codename": "gtanotexlltekx",
       "model": "SM-P585N0"
+    },
+    {
+      "market_name": "Galaxy TabA Plus 10.1",
+      "codename": "gtanotexlwifichn",
+      "model": "SM-P583"
     },
     {
       "market_name": "Galaxy TabA Plus 10.1",
@@ -8470,11 +8495,6 @@
       "market_name": "Grand Prime Plus",
       "codename": "grandpplte",
       "model": "SM-G532F"
-    },
-    {
-      "market_name": "Grand Prime Plus",
-      "codename": "grandpplte",
-      "model": "SM-G532M"
     },
     {
       "market_name": "Hennessy",
