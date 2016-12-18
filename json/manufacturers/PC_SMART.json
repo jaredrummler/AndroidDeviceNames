@@ -2,6 +2,11 @@
   "manufacturer": "PC Smart",
   "devices": [
     {
+      "market_name": "PC Smart PCSGOB10MVA-A",
+      "codename": "PCSGOB10MVA-A",
+      "model": "PCSGOB10MVA-A"
+    },
+    {
       "market_name": "PCSGOB10SF-A",
       "codename": "PCSGOB10SF-A",
       "model": "PCSGOB10SF-A"

@@ -427,6 +427,11 @@
       "model": "PSP3518DUO"
     },
     {
+      "market_name": "PSP3527DUO",
+      "codename": "TE50B6G",
+      "model": "PSP3527DUO"
+    },
+    {
       "market_name": "PSP3530DUO",
       "codename": "DW53B01G",
       "model": "PSP3530DUO"
@@ -487,6 +492,16 @@
       "model": "PSP5519DUO"
     },
     {
+      "market_name": "PSP5530DUO",
+      "codename": "DW53B4G",
+      "model": "PSP5530DUO"
+    },
+    {
+      "market_name": "PSP5531",
+      "codename": "DW53B4G",
+      "model": "PSP5531DUO"
+    },
+    {
       "market_name": "PSP5550DUO",
       "codename": "PSP5550DUO",
       "model": "PSP5550DUO"
@@ -497,6 +512,16 @@
       "model": "PSP5551DUO"
     },
     {
+      "market_name": "PSP7501DUO",
+      "codename": "DW50B5G",
+      "model": "PSP7501DUO"
+    },
+    {
+      "market_name": "PSP7511DUO",
+      "codename": "DW50B5G",
+      "model": "PSP7511DUO"
+    },
+    {
       "market_name": "PSP7530DUO",
       "codename": "DW53B3G",
       "model": "PSP7530DUO"
@@ -505,6 +530,11 @@
       "market_name": "Prestigio Grace",
       "codename": "PSP7557",
       "model": "PSP7557"
+    },
+    {
+      "market_name": "Prestigio Grace 3118 3G",
+      "codename": "JU80A2G",
+      "model": "PMT3118_3G"
     },
     {
       "market_name": "Prestigio MultiPad Wize 3009",
@@ -550,6 +580,11 @@
       "market_name": "Prestigio WIZE A3",
       "codename": "PSP3453DUO",
       "model": "PSP3453DUO"
+    },
+    {
+      "market_name": "Prestigio Wize 3147 3G",
+      "codename": "LS70A2G",
+      "model": "PMT3147_3G"
     }
   ]
 }

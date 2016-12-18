@@ -7,6 +7,21 @@
       "model": "W900 LTE"
     },
     {
+      "market_name": "FB100",
+      "codename": "FB100",
+      "model": "FB100"
+    },
+    {
+      "market_name": "Flare 5",
+      "codename": "X630",
+      "model": "Flare_5"
+    },
+    {
+      "market_name": "Flare A1",
+      "codename": "FlareA1",
+      "model": "FlareA1"
+    },
+    {
       "market_name": "Flare J3",
       "codename": "H680",
       "model": "Flare_J3"
@@ -15,6 +30,16 @@
       "market_name": "Flare J3 Plus",
       "codename": "H620",
       "model": "Flare_J3_Plus"
+    },
+    {
+      "market_name": "Flare J7",
+      "codename": "Flare_J7",
+      "model": "Flare J7"
+    },
+    {
+      "market_name": "Flare S5 Lite DTV",
+      "codename": "FlareS5LiteDTV",
+      "model": "FlareS5LiteDTV"
     },
     {
       "market_name": "Flare X",

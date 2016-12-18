@@ -162,6 +162,11 @@
       "model": "A51"
     },
     {
+      "market_name": "A51",
+      "codename": "A51",
+      "model": "Lava A51"
+    },
+    {
       "market_name": "A51f",
       "codename": "A51",
       "model": "A51f"
@@ -390,6 +395,16 @@
       "market_name": "OPPO R9k",
       "codename": "R9",
       "model": "OPPO R9km"
+    },
+    {
+      "market_name": "OPPO R9s Plus",
+      "codename": "R9sPlus",
+      "model": "OPPO R9s Plust"
+    },
+    {
+      "market_name": "OPPO R9s Plus",
+      "codename": "R9sPlus",
+      "model": "OPPO R9sPlus"
     },
     {
       "market_name": "OPPO Ulike2",

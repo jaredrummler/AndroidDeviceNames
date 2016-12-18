@@ -22,6 +22,11 @@
       "model": "A71"
     },
     {
+      "market_name": "A76Plus",
+      "codename": "A76Plus",
+      "model": "A76Plus"
+    },
+    {
       "market_name": "A79",
       "codename": "LA79",
       "model": "A79"
@@ -60,6 +65,11 @@
       "market_name": "Lava A89",
       "codename": "A89",
       "model": "Lava A89"
+    },
+    {
+      "market_name": "Lava A97",
+      "codename": "A97",
+      "model": "A97"
     },
     {
       "market_name": "Lava V2 3GB",

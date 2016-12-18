@@ -1,14 +1,38 @@
 [
   {
     "manufacturer": "Huawei",
-    "market_name": "HUAWEI CAN-L01",
+    "market_name": "HUAWEI nova",
     "codename": "HWCAN",
     "model": "HUAWEI CAN-L01"
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "HUAWEI CAN-L11",
+    "market_name": "HUAWEI nova",
+    "codename": "HWCAN",
+    "model": "HUAWEI CAN-L02"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI nova",
+    "codename": "HWCAN",
+    "model": "HUAWEI CAN-L03"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI nova",
     "codename": "HWCAN",
     "model": "HUAWEI CAN-L11"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI nova",
+    "codename": "HWCAN",
+    "model": "HUAWEI CAN-L12"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI nova",
+    "codename": "HWCAN",
+    "model": "HUAWEI CAN-L13"
   }
 ]

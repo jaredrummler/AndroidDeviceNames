@@ -17,6 +17,11 @@
       "model": "Jax X"
     },
     {
+      "market_name": "Jax X A6",
+      "codename": "Jax_X",
+      "model": "Jax X"
+    },
+    {
       "market_name": "MusicPAD",
       "codename": "MusicPAD",
       "model": "MusicPAD"
@@ -32,9 +37,24 @@
       "model": "Pluri_M7"
     },
     {
+      "market_name": "Pluri M7 A6",
+      "codename": "Pluri_M7",
+      "model": "Pluri_M7"
+    },
+    {
       "market_name": "Pluri Q8",
       "codename": "Pluri_Q8",
       "model": "Pluri_Q8"
+    },
+    {
+      "market_name": "Pluri Q8 A6",
+      "codename": "Pluri_Q8",
+      "model": "Pluri_Q8"
+    },
+    {
+      "market_name": "Xavy T7 A6",
+      "codename": "Xavy_T7",
+      "model": "Xavy_T7"
     },
     {
       "market_name": "Xavy_L8",
@@ -52,14 +72,39 @@
       "model": "Xylo X"
     },
     {
+      "market_name": "Xylo X A6",
+      "codename": "Xylo_X",
+      "model": "Xylo X"
+    },
+    {
       "market_name": "ZUN XO",
       "codename": "ZUN_XO",
+      "model": "ZUN XO"
+    },
+    {
+      "market_name": "ZUN XO A6",
+      "codename": "Zun_XO",
       "model": "ZUN XO"
     },
     {
       "market_name": "Zun X",
       "codename": "Zun_X",
       "model": "Zun X"
+    },
+    {
+      "market_name": "Zun X A6",
+      "codename": "Zun_X",
+      "model": "Zun X"
+    },
+    {
+      "market_name": "Zun XS",
+      "codename": "Zun_XS",
+      "model": "Zun XS"
+    },
+    {
+      "market_name": "jax_S",
+      "codename": "Jax_S",
+      "model": "Jax_S"
     }
   ]
 }

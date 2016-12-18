@@ -187,6 +187,11 @@
       "model": "HTC_D630x"
     },
     {
+      "market_name": "Desire 626",
+      "codename": "htc_a32ul_emea",
+      "model": "HTC Desire 626"
+    },
+    {
       "market_name": "Desire 820",
       "codename": "htc_a51ul",
       "model": "HTC 0PFJ4"
@@ -467,6 +472,16 @@
       "model": "HTC6545LVW"
     },
     {
+      "market_name": "HTC 10 evo",
+      "codename": "htc_acauhl",
+      "model": "HTC 10 evo"
+    },
+    {
+      "market_name": "HTC 10 evo",
+      "codename": "htc_acauhl",
+      "model": "HTC_M10f"
+    },
+    {
       "market_name": "HTC 5060 dual sim",
       "codename": "z4dug",
       "model": "HTC Desire 500 dual sim"
@@ -627,6 +642,11 @@
       "model": "HTC 9060"
     },
     {
+      "market_name": "HTC D10i",
+      "codename": "htc_a56dj_pro_dugl",
+      "model": "HTC_D10i"
+    },
+    {
       "market_name": "HTC D316d",
       "codename": "htc_v2_c",
       "model": "HTC D316d"
@@ -722,6 +742,11 @@
       "model": "ADR6410OM"
     },
     {
+      "market_name": "HTC Desire 10",
+      "codename": "htc_a56dj_pro_dugl",
+      "model": "HTC Desire 10 pro"
+    },
+    {
       "market_name": "HTC Desire 10 lifestyle",
       "codename": "htc_a56djdugl",
       "model": "HTC Desire 10 lifestyle"
@@ -740,6 +765,11 @@
       "market_name": "HTC Desire 10 lifestyle",
       "codename": "htc_a56djul",
       "model": "HTC Desire 10 lifestyle"
+    },
+    {
+      "market_name": "HTC Desire 10 pro",
+      "codename": "htc_a56dj_pro_dugl",
+      "model": "HTC Desire 10 pro"
     },
     {
       "market_name": "HTC Desire 200",
@@ -1227,6 +1257,11 @@
       "model": "HTC Desire 630 dual sim"
     },
     {
+      "market_name": "HTC Desire 650",
+      "codename": "htc_a17uhl",
+      "model": "HTC_D650h"
+    },
+    {
       "market_name": "HTC Desire 700 dual sim",
       "codename": "cp5dug",
       "model": "HTC Desire 700 dual sim"
@@ -1430,6 +1465,11 @@
       "market_name": "HTC Desire 828",
       "codename": "htc_a51bml_tuhl",
       "model": "HTC Desire 828"
+    },
+    {
+      "market_name": "HTC Desire 828",
+      "codename": "htc_a51bml_tuhl",
+      "model": "HTC_D828g"
     },
     {
       "market_name": "HTC Desire 828 dual sim",
@@ -2060,6 +2100,26 @@
       "market_name": "HTC One A9",
       "codename": "htc_hiaewhl",
       "model": "2PQ93"
+    },
+    {
+      "market_name": "HTC One A9s",
+      "codename": "htc_e36_ml_uhl",
+      "model": "HTC 2PWD1"
+    },
+    {
+      "market_name": "HTC One A9s",
+      "codename": "htc_e36_ml_uhl",
+      "model": "HTC One A9s"
+    },
+    {
+      "market_name": "HTC One A9s",
+      "codename": "htc_e36_ml_ul",
+      "model": "HTC 2PWD2"
+    },
+    {
+      "market_name": "HTC One A9s",
+      "codename": "htc_e36_ml_ul",
+      "model": "HTC One A9s"
     },
     {
       "market_name": "HTC One Dual 802d",
@@ -2755,6 +2815,11 @@
       "market_name": "HTV31",
       "codename": "htc_b3uhl",
       "model": "HTV31"
+    },
+    {
+      "market_name": "HTV32",
+      "codename": "htc_pmeuhljapan",
+      "model": "HTV32"
     },
     {
       "market_name": "Hero",

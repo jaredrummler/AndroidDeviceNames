@@ -657,6 +657,11 @@
       "model": "5056M"
     },
     {
+      "market_name": "5056G",
+      "codename": "POP455C",
+      "model": "5056G"
+    },
+    {
       "market_name": "5056N",
       "codename": "POP455C",
       "model": "5056N"
@@ -665,6 +670,11 @@
       "market_name": "5056U",
       "codename": "POP455C",
       "model": "5056U"
+    },
+    {
+      "market_name": "5056W",
+      "codename": "POP455C",
+      "model": "5056W"
     },
     {
       "market_name": "5056X",
@@ -700,6 +710,31 @@
       "market_name": "5070D",
       "codename": "P3-5_4G",
       "model": "5070D"
+    },
+    {
+      "market_name": "5080A",
+      "codename": "shine_lite",
+      "model": "5080A"
+    },
+    {
+      "market_name": "5080F",
+      "codename": "shine_lite",
+      "model": "5080F"
+    },
+    {
+      "market_name": "5080Q",
+      "codename": "shine_lite",
+      "model": "5080Q"
+    },
+    {
+      "market_name": "5080U",
+      "codename": "shine_lite",
+      "model": "5080U"
+    },
+    {
+      "market_name": "5080U",
+      "codename": "shine_lite",
+      "model": "ALCATEL_5080U"
     },
     {
       "market_name": "5098O",
@@ -855,6 +890,11 @@
       "market_name": "7045Y",
       "codename": "RIO5",
       "model": "7045Y"
+    },
+    {
+      "market_name": "7070Q",
+      "codename": "POP4-6_4G",
+      "model": "7070Q"
     },
     {
       "market_name": "730U",
@@ -1077,6 +1117,16 @@
       "model": "A450TL"
     },
     {
+      "market_name": "A460T",
+      "codename": "PIXI3_4TF",
+      "model": "A460T"
+    },
+    {
+      "market_name": "A464BG",
+      "codename": "Pixi3-35TF",
+      "model": "A464BG"
+    },
+    {
       "market_name": "A520L",
       "codename": "Alto4EVDO",
       "model": "A520L"
@@ -1105,6 +1155,11 @@
       "market_name": "A621R",
       "codename": "Pop355",
       "model": "A621R"
+    },
+    {
+      "market_name": "A622GL",
+      "codename": "Pixi3554GEVDO",
+      "model": "A622GL"
     },
     {
       "market_name": "A846L",
@@ -2617,7 +2672,7 @@
       "model": "6070K"
     },
     {
-      "market_name": "IODL 4S",
+      "market_name": "IDOL 4S",
       "codename": "idol4s",
       "model": "6070O"
     },
@@ -4232,6 +4287,11 @@
       "model": "TCL Xess P17AA"
     },
     {
+      "market_name": "TCL_Xess_P17AA_OS",
+      "codename": "Xess",
+      "model": "TCL Xess P17AA"
+    },
+    {
       "market_name": "Telenor_Smart",
       "codename": "one_touch_985_gsm",
       "model": "Telenor_Smart"
@@ -4285,6 +4345,16 @@
       "market_name": "X50D",
       "codename": "X50D",
       "model": "X50D"
+    },
+    {
+      "market_name": "Xess mini",
+      "codename": "Xess-mini",
+      "model": "TCL Xess miniC15BA"
+    },
+    {
+      "market_name": "Xess-mini",
+      "codename": "Xess-mini",
+      "model": "TCL Xess C15BA"
     },
     {
       "market_name": "alcatel PIXI 4 (5.5)",

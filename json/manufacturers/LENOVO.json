@@ -1817,6 +1817,21 @@
       "model": "Lenovo PB2-670Y"
     },
     {
+      "market_name": "Lenovo PHAB2 Pro",
+      "codename": "PB2PRO",
+      "model": "Lenovo PB2-690M"
+    },
+    {
+      "market_name": "Lenovo PHAB2 Pro",
+      "codename": "PB2PRO",
+      "model": "Lenovo PB2-690N"
+    },
+    {
+      "market_name": "Lenovo PHAB2 Pro",
+      "codename": "PB2PRO",
+      "model": "Lenovo PB2-690Y"
+    },
+    {
       "market_name": "Lenovo S1",
       "codename": "S1a40",
       "model": "Lenovo S1a40"
@@ -2144,6 +2159,16 @@
     {
       "market_name": "Lenovo TB2-X30F",
       "codename": "TB2-X30F",
+      "model": "Lenovo TB2-X30F_JLC"
+    },
+    {
+      "market_name": "Lenovo TB2-X30F",
+      "codename": "TB2-X30F",
+      "model": "Lenovo TB2-X30F_SCP"
+    },
+    {
+      "market_name": "Lenovo TB2-X30F",
+      "codename": "TB2-X30F",
       "model": "Lenovo TB2-X30F_UK"
     },
     {
@@ -2162,6 +2187,11 @@
       "model": "Lenovo TB2-X30M"
     },
     {
+      "market_name": "Lenovo TB2-X30M",
+      "codename": "TB2-X30M",
+      "model": "Lenovo TB2-X30M_PRC_YZ_A"
+    },
+    {
       "market_name": "Lenovo TB3 8 Plus",
       "codename": "TB-8703F",
       "model": "Lenovo TB-8703F"
@@ -2170,6 +2200,11 @@
       "market_name": "Lenovo TB3 8 Plus",
       "codename": "TB-8703N",
       "model": "Lenovo TB-8703N"
+    },
+    {
+      "market_name": "Lenovo TB3 8 Plus",
+      "codename": "TB-8703X",
+      "model": "Lenovo TB-8703X"
     },
     {
       "market_name": "Lenovo TB3-601LV",
@@ -2285,6 +2320,21 @@
       "market_name": "Lenovo X3c70",
       "codename": "X3c70",
       "model": "Lenovo X3c70"
+    },
+    {
+      "market_name": "Lenovo YB1-X90L/YOGA BOOK",
+      "codename": "yeti",
+      "model": "Lenovo YB1-X90L"
+    },
+    {
+      "market_name": "Lenovo YOGA A12",
+      "codename": "YOGA-A12",
+      "model": "Lenovo YB-Q501F"
+    },
+    {
+      "market_name": "Lenovo YOGA A12",
+      "codename": "YOGA-A12",
+      "model": "Lenovo YB-Q501L"
     },
     {
       "market_name": "Lenovo YOGA BOOK",
@@ -2512,6 +2562,16 @@
       "model": "XT1662"
     },
     {
+      "market_name": "NEC  PC-TE507FAW",
+      "codename": "TE507FAW",
+      "model": "PC-TE507FAW"
+    },
+    {
+      "market_name": "NEC PC-TS508FAM",
+      "codename": "PC-TS508FAM",
+      "model": "NEC PC-TS508FAM"
+    },
+    {
       "market_name": "P780",
       "codename": "P780",
       "model": "Lenovo P780"
@@ -2635,6 +2695,11 @@
       "market_name": "ThinkVision28",
       "codename": "ThinkVision28",
       "model": "ThinkVision28"
+    },
+    {
+      "market_name": "Thinkpad Stack projector",
+      "codename": "pj_stack_acc",
+      "model": "M123"
     },
     {
       "market_name": "ideatv S52",

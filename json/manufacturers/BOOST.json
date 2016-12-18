@@ -2,6 +2,16 @@
   "manufacturer": "Boost",
   "devices": [
     {
+      "market_name": "Boost Pulse Jive",
+      "codename": "Jive",
+      "model": "Jive"
+    },
+    {
+      "market_name": "Boost Pulse Power",
+      "codename": "Power",
+      "model": "Power"
+    },
+    {
       "market_name": "Moova Shuffle",
       "codename": "MoovaShuffle",
       "model": "MoovaShuffle"

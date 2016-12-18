@@ -82,6 +82,16 @@
       "model": "Aquaris M5.5"
     },
     {
+      "market_name": "Aquaris U",
+      "codename": "chaozu",
+      "model": "Aquaris U"
+    },
+    {
+      "market_name": "Aquaris U Plus",
+      "codename": "tenshi",
+      "model": "Aquaris U Plus"
+    },
+    {
       "market_name": "Aquaris X5",
       "codename": "Aquaris_X5",
       "model": "Aquaris X5"
@@ -100,6 +110,11 @@
       "market_name": "Edison_3_mini",
       "codename": "Edison_3_mini",
       "model": "Edison 3 mini"
+    },
+    {
+      "market_name": "M8",
+      "codename": "Aquaris_M8",
+      "model": "Aquaris M8"
     },
     {
       "market_name": "bq Edison 3 3G",

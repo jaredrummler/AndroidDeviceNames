@@ -31,6 +31,12 @@
   },
   {
     "manufacturer": "TCT (Alcatel)",
+    "market_name": "5056G",
+    "codename": "POP455C",
+    "model": "5056G"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
     "market_name": "5056N",
     "codename": "POP455C",
     "model": "5056N"
@@ -40,6 +46,12 @@
     "market_name": "5056U",
     "codename": "POP455C",
     "model": "5056U"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "5056W",
+    "codename": "POP455C",
+    "model": "5056W"
   },
   {
     "manufacturer": "TCT (Alcatel)",

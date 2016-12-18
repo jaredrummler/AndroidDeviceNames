@@ -1772,6 +1772,16 @@
       "model": "LG-P815L"
     },
     {
+      "market_name": "LG G Pad III 10.1 FHD LTE",
+      "codename": "b5",
+      "model": "LG-P755L"
+    },
+    {
+      "market_name": "LG G Pad III 10.1 FHD LTE",
+      "codename": "b5",
+      "model": "LG-V755"
+    },
+    {
       "market_name": "LG G Pad III 8.0",
       "codename": "b3",
       "model": "LG-V522"
@@ -3532,6 +3542,11 @@
       "model": "LGLS675"
     },
     {
+      "market_name": "LG U",
+      "codename": "bbg",
+      "model": "LG-F820L"
+    },
+    {
       "market_name": "LG Venice",
       "codename": "u0_cdma",
       "model": "LG-LG730"
@@ -4777,6 +4792,11 @@
       "model": "LGV33"
     },
     {
+      "market_name": "Qua phone PZ",
+      "codename": "b5",
+      "model": "LGT32"
+    },
+    {
       "market_name": "Qua tab PX",
       "codename": "b3",
       "model": "LGT31"
@@ -4980,6 +5000,11 @@
       "market_name": "V20",
       "codename": "elsa",
       "model": "LG-US996"
+    },
+    {
+      "market_name": "V20",
+      "codename": "elsa",
+      "model": "LGV34"
     },
     {
       "market_name": "V20",

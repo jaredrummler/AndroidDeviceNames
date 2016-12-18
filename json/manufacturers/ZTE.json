@@ -1089,12 +1089,22 @@
     {
       "market_name": "A1R",
       "codename": "billy",
+      "model": "A1"
+    },
+    {
+      "market_name": "A1R",
+      "codename": "billy",
       "model": "A1R"
     },
     {
       "market_name": "A2",
       "codename": "A2",
       "model": "A2"
+    },
+    {
+      "market_name": "AV-ATB100",
+      "codename": "B800S2_V1",
+      "model": "AV-ATB100"
     },
     {
       "market_name": "AXON WATCH",
@@ -1147,6 +1157,11 @@
       "model": "Amazing_X3s"
     },
     {
+      "market_name": "Amazing_X3s_16G",
+      "codename": "Amazing_X3s",
+      "model": "Amazing_X3s_16G"
+    },
+    {
       "market_name": "Android edition by sfr STARADDICT",
       "codename": "skate",
       "model": "Android edition by sfr STARADDICT"
@@ -1180,6 +1195,21 @@
       "market_name": "B760E",
       "codename": "ztemt85_bx_kk",
       "model": "B760H"
+    },
+    {
+      "market_name": "B860AV2",
+      "codename": "p200_2G",
+      "model": "B860AV2"
+    },
+    {
+      "market_name": "B860H",
+      "codename": "B860H_V1",
+      "model": "B860H"
+    },
+    {
+      "market_name": "B860H",
+      "codename": "B860H_V1",
+      "model": "B860H V1.0"
     },
     {
       "market_name": "BASE Lutea 2",
@@ -2577,6 +2607,11 @@
       "model": "Telenor Touch Plus"
     },
     {
+      "market_name": "Tempo",
+      "codename": "xray45",
+      "model": "N9131"
+    },
+    {
       "market_name": "Turk Telekom TT175",
       "codename": "ZTE_Blade_V580",
       "model": "Blade V580"
@@ -3152,6 +3187,11 @@
       "model": "ZTE B2016"
     },
     {
+      "market_name": "ZTE B2017G",
+      "codename": "msm8952_64",
+      "model": "ZTE B2017G"
+    },
+    {
       "market_name": "ZTE B790",
       "codename": "roamer2",
       "model": "ZTE B790"
@@ -3245,6 +3285,11 @@
       "market_name": "ZTE BLADE A910",
       "codename": "P635A31",
       "model": "ZTE BLADE A910"
+    },
+    {
+      "market_name": "ZTE BLADE B112",
+      "codename": "P635A60",
+      "model": "ZTE BLADE B112"
     },
     {
       "market_name": "ZTE BLADE III",

@@ -1,0 +1,15 @@
+{
+  "manufacturer": "ImageMobile",
+  "devices": [
+    {
+      "market_name": "Ipanema",
+      "codename": "C001",
+      "model": "C001"
+    },
+    {
+      "market_name": "Rio",
+      "codename": "Rio",
+      "model": "B001"
+    }
+  ]
+}

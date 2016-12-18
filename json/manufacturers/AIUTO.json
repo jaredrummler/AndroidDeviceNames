@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Aiuto",
+  "devices": [
+    {
+      "market_name": "AT1001",
+      "codename": "AT1001",
+      "model": "AT1001"
+    },
+    {
+      "market_name": "AT701",
+      "codename": "AT701",
+      "model": "AT701"
+    }
+  ]
+}

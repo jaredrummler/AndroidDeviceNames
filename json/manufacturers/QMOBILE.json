@@ -17,6 +17,11 @@
       "model": "J7"
     },
     {
+      "market_name": "J7 PRO",
+      "codename": "J7_PRO",
+      "model": "J7 PRO"
+    },
+    {
       "market_name": "JS10",
       "codename": "JAZZX_JS10",
       "model": "JAZZX JS10"
@@ -60,6 +65,16 @@
       "market_name": "Pakistan",
       "codename": "A1_sprout",
       "model": "QMobile A1"
+    },
+    {
+      "market_name": "Qmobile E1",
+      "codename": "QMobile_E1",
+      "model": "E1"
+    },
+    {
+      "market_name": "Qmobile E1",
+      "codename": "QMobile_E1",
+      "model": "QMobile E1"
     },
     {
       "market_name": "Qmobile L20",
@@ -117,6 +132,11 @@
       "model": "QMobile S6S"
     },
     {
+      "market_name": "V100",
+      "codename": "QTab_V100",
+      "model": "V100"
+    },
+    {
       "market_name": "W70",
       "codename": "W70",
       "model": "W70"
@@ -132,9 +152,24 @@
       "model": "QMobile X32"
     },
     {
+      "market_name": "X32",
+      "codename": "X32_new",
+      "model": "QMobile X32"
+    },
+    {
       "market_name": "X700 PRO",
       "codename": "X700_PRO",
       "model": "QMobile X700 PRO"
+    },
+    {
+      "market_name": "X700 PRO II",
+      "codename": "X700_PRO_II",
+      "model": "QMobile X700 PRO II"
+    },
+    {
+      "market_name": "X700 PRO Lite",
+      "codename": "X700_PRO_Lite",
+      "model": "QMobile X700 PRO Lite"
     },
     {
       "market_name": "X75",
@@ -165,6 +200,21 @@
       "market_name": "Z9 Plus",
       "codename": "WBL7511QM",
       "model": "Z9 Plus"
+    },
+    {
+      "market_name": "i2 POWER",
+      "codename": "i2_POWER",
+      "model": "QMobile i2 POWER"
+    },
+    {
+      "market_name": "i2 PRO",
+      "codename": "i2_PRO",
+      "model": "QMobile i2 PRO"
+    },
+    {
+      "market_name": "i7i PRO",
+      "codename": "i7i_PRO",
+      "model": "QMobile i7i PRO"
     }
   ]
 }

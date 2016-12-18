@@ -29,7 +29,17 @@
     {
       "market_name": "LePro3",
       "codename": "le_zl1",
+      "model": "LEX725"
+    },
+    {
+      "market_name": "LePro3",
+      "codename": "le_zl1",
       "model": "LEX727"
+    },
+    {
+      "market_name": "LeoPro3",
+      "codename": "le_zl1",
+      "model": "LEX725"
     }
   ]
 }

@@ -7,6 +7,11 @@
       "model": "Hurricane_Bolt"
     },
     {
+      "market_name": "Flex",
+      "codename": "Flex",
+      "model": "Flex"
+    },
+    {
       "market_name": "Hurricane Blast",
       "codename": "Blast",
       "model": "Blast"
@@ -25,6 +30,11 @@
       "market_name": "Sprint",
       "codename": "Sprint",
       "model": "Sprint"
+    },
+    {
+      "market_name": "Vegas",
+      "codename": "Vegas",
+      "model": "Vegas"
     },
     {
       "market_name": "Volt",

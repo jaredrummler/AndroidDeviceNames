@@ -172,6 +172,11 @@
       "model": "F-01H"
     },
     {
+      "market_name": "F-01J",
+      "codename": "F01J",
+      "model": "F-01J"
+    },
+    {
       "market_name": "F-02F",
       "codename": "F02F",
       "model": "F-02F"
@@ -380,6 +385,16 @@
       "market_name": "arrows M02",
       "codename": "M02",
       "model": "M02"
+    },
+    {
+      "market_name": "arrows M03",
+      "codename": "M03",
+      "model": "arrowsM03"
+    },
+    {
+      "market_name": "arrows M357",
+      "codename": "M357",
+      "model": "M357"
     },
     {
       "market_name": "arrows Tab M01T",

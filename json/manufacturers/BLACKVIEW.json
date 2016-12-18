@@ -2,6 +2,11 @@
   "manufacturer": "Blackview",
   "devices": [
     {
+      "market_name": "Blackview A5",
+      "codename": "A5",
+      "model": "A5"
+    },
+    {
       "market_name": "Blackview A8 MAX",
       "codename": "A8_MAX",
       "model": "A8 MAX"

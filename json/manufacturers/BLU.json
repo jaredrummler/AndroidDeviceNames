@@ -7,9 +7,24 @@
       "model": "BLU ADVANCE 4.0 L2"
     },
     {
+      "market_name": "ADVANCE 5.0 HD",
+      "codename": "Advance_5_0_HD",
+      "model": "Advance 5.0 HD"
+    },
+    {
       "market_name": "Advance 4.0M",
       "codename": "Advance_4_0M",
       "model": "Advance 4.0M"
+    },
+    {
+      "market_name": "BLU Dash G",
+      "codename": "Dash_G",
+      "model": "Dash G"
+    },
+    {
+      "market_name": "BLU Dash XL",
+      "codename": "Dash_XL",
+      "model": "Dash XL"
     },
     {
       "market_name": "BLU LIFE XL",
@@ -17,9 +32,29 @@
       "model": "BLU LIFE XL"
     },
     {
+      "market_name": "BLU R1 HD",
+      "codename": "BLU_R1_HD",
+      "model": "BLU R1 HD"
+    },
+    {
+      "market_name": "BLU R1 HD",
+      "codename": "R1_HD",
+      "model": "R1 HD"
+    },
+    {
+      "market_name": "BLU Studio J5",
+      "codename": "Studio_J5",
+      "model": "Studio J5"
+    },
+    {
       "market_name": "BLU TOUCHBOOK M7",
       "codename": "BLU_TOUCHBOOK_M7",
       "model": "BLU TOUCHBOOK M7"
+    },
+    {
+      "market_name": "BLU VIVO XL2",
+      "codename": "BLU_Vivo_XL2",
+      "model": "Vivo XL2"
     },
     {
       "market_name": "DASH L2",
@@ -157,6 +192,11 @@
       "model": "BLU NEO XL"
     },
     {
+      "market_name": "Neo X2",
+      "codename": "Neo_X2",
+      "model": "Neo X2"
+    },
+    {
       "market_name": "PURE XL",
       "codename": "BLU_PURE_XL",
       "model": "PURE XL"
@@ -237,6 +277,11 @@
       "model": "STUDIO M LTE"
     },
     {
+      "market_name": "STUDIO MAX",
+      "codename": "Studio_Max",
+      "model": "Studio Max"
+    },
+    {
       "market_name": "STUDIO ONE PLUS",
       "codename": "BLU_STUDIO_ONE_PLUS",
       "model": "BLU STUDIO ONE PLUS"
@@ -290,6 +335,11 @@
       "market_name": "Studio G HD",
       "codename": "STUDIO_G_HD",
       "model": "STUDIO_G_HD"
+    },
+    {
+      "market_name": "Studio G2 HD",
+      "codename": "Studio_G2_HD",
+      "model": "Studio G2 HD"
     },
     {
       "market_name": "Studio One",

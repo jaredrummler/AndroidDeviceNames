@@ -22,6 +22,21 @@
       "model": "vivo X7"
     },
     {
+      "market_name": "vivo 1601",
+      "codename": "1601",
+      "model": "vivo 1601"
+    },
+    {
+      "market_name": "vivo PD1612",
+      "codename": "PD1612",
+      "model": "vivo PD1612"
+    },
+    {
+      "market_name": "vivo PD1612",
+      "codename": "PD1612",
+      "model": "vivo Y67"
+    },
+    {
       "market_name": "vivo V1",
       "codename": "V1",
       "model": "vivo V1"
@@ -140,6 +155,11 @@
       "market_name": "vivo X7Plus",
       "codename": "PD1603",
       "model": "vivo X7Plus"
+    },
+    {
+      "market_name": "vivo X9",
+      "codename": "PD1616",
+      "model": "vivo X9"
     },
     {
       "market_name": "vivo Xplay5A",

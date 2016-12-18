@@ -62,6 +62,11 @@
       "model": "PHQ520"
     },
     {
+      "market_name": "Griffe G5 Plus",
+      "codename": "PAM524",
+      "model": "PAM524"
+    },
+    {
       "market_name": "HS-U939",
       "codename": "u939e_6",
       "model": "HS-U939"
@@ -167,9 +172,24 @@
       "model": "PGN609"
     },
     {
+      "market_name": "PGN610",
+      "codename": "PGN610",
+      "model": "PGN610"
+    },
+    {
       "market_name": "PGN611",
       "codename": "PGN611",
       "model": "PGN611"
+    },
+    {
+      "market_name": "PGN612",
+      "codename": "PGN612",
+      "model": "PGN612"
+    },
+    {
+      "market_name": "Plume P6 Pro LTE",
+      "codename": "PGN528",
+      "model": "PGN528"
     },
     {
       "market_name": "TFX711G",
@@ -180,6 +200,16 @@
       "market_name": "TFX712G",
       "codename": "TFX712G",
       "model": "TFX712G"
+    },
+    {
+      "market_name": "TFX713L",
+      "codename": "TFX713L",
+      "model": "TFX713L"
+    },
+    {
+      "market_name": "TFX714L",
+      "codename": "TFX714L",
+      "model": "TFX714L"
     }
   ]
 }

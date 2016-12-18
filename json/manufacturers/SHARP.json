@@ -97,6 +97,11 @@
       "model": "SHF33"
     },
     {
+      "market_name": "AQUOS L SHV37",
+      "codename": "FSP_u",
+      "model": "SHV37_u"
+    },
+    {
       "market_name": "AQUOS M1",
       "codename": "MS1",
       "model": "FS8001"
@@ -395,6 +400,11 @@
       "market_name": "AQUOS U SHV35",
       "codename": "SHV35",
       "model": "SHV35"
+    },
+    {
+      "market_name": "AQUOS U SHV37",
+      "codename": "FSP",
+      "model": "SHV37"
     },
     {
       "market_name": "AQUOS Xx",
@@ -722,6 +732,11 @@
       "model": "LCD-xxCAE5A"
     },
     {
+      "market_name": "LCD-xxFOC36A",
+      "codename": "Lcd_foc36a",
+      "model": "LCD_FOC36A"
+    },
+    {
       "market_name": "LYNX 3D SH-03C",
       "codename": "SH03C",
       "model": "SH-03C"
@@ -797,6 +812,11 @@
       "model": "SH-06DNERV"
     },
     {
+      "market_name": "SH-M04",
+      "codename": "SH-M04",
+      "model": "SH-M04"
+    },
+    {
       "market_name": "SH80F",
       "codename": "SH80F",
       "model": "SH80F"
@@ -855,6 +875,11 @@
       "market_name": "SoftBank AQUOS PHONE Xx 203SH",
       "codename": "SBM203SH",
       "model": "SBM203SH"
+    },
+    {
+      "market_name": "Star Wars mobile",
+      "codename": "SW001SH",
+      "model": "SW001SH"
     },
     {
       "market_name": "Yahoo! Phone SoftBank 009SH Y",

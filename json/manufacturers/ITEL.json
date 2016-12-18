@@ -57,6 +57,11 @@
       "model": "itel it1508 Plus"
     },
     {
+      "market_name": "it1512",
+      "codename": "it1512",
+      "model": "it1512"
+    },
+    {
       "market_name": "it1516 Plus",
       "codename": "itel_it1516Plus",
       "model": "itel it1516 Plus"
@@ -120,6 +125,11 @@
       "market_name": "itel it1703",
       "codename": "itel_it1703",
       "model": "itel it1703"
+    },
+    {
+      "market_name": "itel-it1520",
+      "codename": "itel-it1520",
+      "model": "itel-it1520"
     },
     {
       "market_name": "itel-it1553",

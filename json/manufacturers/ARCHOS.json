@@ -167,6 +167,11 @@
       "model": "Archos 50 Platinum"
     },
     {
+      "market_name": "50 Saphir",
+      "codename": "ac50sa",
+      "model": "Archos 50 Saphir"
+    },
+    {
       "market_name": "50 Titanium",
       "codename": "a50ti",
       "model": "Archos 50 Titanium"
@@ -642,6 +647,11 @@
       "model": "Archos 50e Neon"
     },
     {
+      "market_name": "Archos 50f Helium",
+      "codename": "ac50fhe",
+      "model": "Archos 50f Helium"
+    },
+    {
       "market_name": "Archos 55 Diamond Selfie",
       "codename": "ac55diselfie",
       "model": "Archos 55 diamond Selfie"
@@ -700,6 +710,11 @@
       "market_name": "Archos 70 Platinum",
       "codename": "ac70pl",
       "model": "Archos 70 Platinum"
+    },
+    {
+      "market_name": "Archos 70 Platinum 3G",
+      "codename": "ac70pl3g",
+      "model": "Archos 70 Platinum 3G"
     },
     {
       "market_name": "Archos 70 Platinum v2",
@@ -985,6 +1000,11 @@
       "market_name": "Bush Mytablet 2",
       "codename": "a80bu",
       "model": "Bush Mytablet 2"
+    },
+    {
+      "market_name": "Bush Spira B1 10.1",
+      "codename": "ac101dplv3a6",
+      "model": "\"Bush Spira B1 10.1\"\"\""
     },
     {
       "market_name": "Bush Spira B1 10.1\\\u0027\\\u0027",

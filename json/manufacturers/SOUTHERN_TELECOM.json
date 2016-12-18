@@ -12,6 +12,11 @@
       "model": "A5"
     },
     {
+      "market_name": "A500",
+      "codename": "Polaroid_Phone",
+      "model": "a500"
+    },
+    {
       "market_name": "Emerson EM756",
       "codename": "EM756",
       "model": "EM756"
@@ -25,6 +30,16 @@
       "market_name": "M10",
       "codename": "ST1009",
       "model": "M10/Q1010"
+    },
+    {
+      "market_name": "M11H/Q1100",
+      "codename": "M11H",
+      "model": "M11H/Q1100"
+    },
+    {
+      "market_name": "Nook Tablet 7\\xe2\\x80\\x9d",
+      "codename": "st16c7bnn",
+      "model": "BNTV450"
     },
     {
       "market_name": "P709/P716",

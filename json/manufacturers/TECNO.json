@@ -52,6 +52,21 @@
       "model": "PTM-Z-mini"
     },
     {
+      "market_name": "Phantom6",
+      "codename": "Phantom6",
+      "model": "Phantom6"
+    },
+    {
+      "market_name": "Phantom6 plus",
+      "codename": "Phantom6-Plus",
+      "model": "Phantom6-Plus"
+    },
+    {
+      "market_name": "Phantom6S",
+      "codename": "Phantom6",
+      "model": "Phantom6S"
+    },
+    {
       "market_name": "PhonePad 7 II",
       "codename": "PP7E-DLA1",
       "model": "TECNO PP7E-DLA1"
@@ -70,6 +85,11 @@
       "market_name": "TECNO W5",
       "codename": "TECNO-W5",
       "model": "TECNO-W5"
+    },
+    {
+      "market_name": "TECNO W5 Lite",
+      "codename": "W5Lite",
+      "model": "TECNO W5 Lite"
     },
     {
       "market_name": "TECNO-A7S",
@@ -195,6 +215,16 @@
       "market_name": "TECNO-Y3",
       "codename": "TECNO-Y3",
       "model": "TECNO-Y3"
+    },
+    {
+      "market_name": "TECNO-Y3+",
+      "codename": "TECNO-Y2",
+      "model": "TECNO-Y2"
+    },
+    {
+      "market_name": "TECNO-Y3+",
+      "codename": "TECNO-Y2",
+      "model": "TECNO-Y3+"
     },
     {
       "market_name": "TECNO-Y3S",

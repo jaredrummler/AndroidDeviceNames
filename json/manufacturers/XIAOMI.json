@@ -3,18 +3,8 @@
   "devices": [
     {
       "market_name": "China",
-      "codename": "HM2013023",
-      "model": "2013023"
-    },
-    {
-      "market_name": "China",
       "codename": "braveheart",
       "model": "MiTV"
-    },
-    {
-      "market_name": "China",
-      "codename": "casablanca",
-      "model": "MiBOX1S"
     },
     {
       "market_name": "HM 1SC",
@@ -177,6 +167,11 @@
       "model": "MI 4S"
     },
     {
+      "market_name": "MI 5s Plus",
+      "codename": "natrium",
+      "model": "MI 5s Plus"
+    },
+    {
       "market_name": "MI MAX",
       "codename": "helium",
       "model": "MI MAX"
@@ -262,6 +257,11 @@
       "model": "Mi Note 2"
     },
     {
+      "market_name": "MiBOX1S",
+      "codename": "casablanca",
+      "model": "MiBOX1S"
+    },
+    {
       "market_name": "MiBOX2",
       "codename": "dredd",
       "model": "MiBOX2"
@@ -277,6 +277,11 @@
       "model": "MiTV2"
     },
     {
+      "market_name": "Redmi",
+      "codename": "HM2013023",
+      "model": "2013023"
+    },
+    {
       "market_name": "Redmi 3",
       "codename": "ido",
       "model": "Redmi 3"
@@ -290,6 +295,21 @@
       "market_name": "Redmi 3S",
       "codename": "land",
       "model": "Redmi 3S"
+    },
+    {
+      "market_name": "Redmi 4",
+      "codename": "prada",
+      "model": "Redmi 4"
+    },
+    {
+      "market_name": "Redmi 4 Pro",
+      "codename": "markw",
+      "model": "Redmi 4"
+    },
+    {
+      "market_name": "Redmi 4A",
+      "codename": "rolex",
+      "model": "Redmi 4A"
     },
     {
       "market_name": "Redmi Note 3",

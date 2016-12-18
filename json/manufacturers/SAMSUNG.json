@@ -327,11 +327,6 @@
       "model": "SGH-T759"
     },
     {
-      "market_name": "G TAB A PLUS 10.1",
-      "codename": "gtanotexllte",
-      "model": "SM-P587"
-    },
-    {
       "market_name": "GALAXY Camera",
       "codename": "gd1",
       "model": "EK-GC100"
@@ -1300,6 +1295,11 @@
       "market_name": "Galaxy C7",
       "codename": "c7ltechn",
       "model": "SM-C700X"
+    },
+    {
+      "market_name": "Galaxy C9 Pro",
+      "codename": "c9ltechn",
+      "model": "SM-C9000"
     },
     {
       "market_name": "Galaxy Camera",
@@ -4275,6 +4275,21 @@
       "market_name": "Galaxy On7 Pro",
       "codename": "o7prolte",
       "model": "SM-G600FY"
+    },
+    {
+      "market_name": "Galaxy On7(2016)",
+      "codename": "on7xeltektt",
+      "model": "SM-G610K"
+    },
+    {
+      "market_name": "Galaxy On7(2016)",
+      "codename": "on7xeltelgt",
+      "model": "SM-G610L"
+    },
+    {
+      "market_name": "Galaxy On7(2016)",
+      "codename": "on7xelteskt",
+      "model": "SM-G610S"
     },
     {
       "market_name": "Galaxy On7(2016)",
@@ -7313,6 +7328,11 @@
     },
     {
       "market_name": "Galaxy Tab S2 9.7",
+      "codename": "gts210velteatt",
+      "model": "SAMSUNG-SM-T818A"
+    },
+    {
+      "market_name": "Galaxy Tab S2 9.7",
       "codename": "gts210veltecan",
       "model": "SM-T818W"
     },
@@ -7823,6 +7843,11 @@
     },
     {
       "market_name": "Galaxy TabA Plus 10.1",
+      "codename": "gtanotexllte",
+      "model": "SM-P587"
+    },
+    {
+      "market_name": "Galaxy TabA Plus 10.1",
       "codename": "gtanotexlltechn",
       "model": "SM-P588C"
     },
@@ -7960,6 +7985,11 @@
       "market_name": "Galaxy TabS 8.4",
       "codename": "klimtwifikx",
       "model": "SM-T700"
+    },
+    {
+      "market_name": "Galaxy TabS2 9.7",
+      "codename": "gts210veltevzw",
+      "model": "SM-T818V"
     },
     {
       "market_name": "Galaxy Tap Pro 10.1",
@@ -8497,6 +8527,16 @@
       "model": "SM-G532F"
     },
     {
+      "market_name": "Grand Prime Plus",
+      "codename": "grandpplte",
+      "model": "SM-G532G"
+    },
+    {
+      "market_name": "Grand Prime Plus",
+      "codename": "grandppltedtv",
+      "model": "SM-G532MT"
+    },
+    {
       "market_name": "Hennessy",
       "codename": "hennessy3gduosctc",
       "model": "SCH-W789"
@@ -8665,6 +8705,11 @@
       "market_name": "W2016",
       "codename": "royceltectc",
       "model": "SM-W2016"
+    },
+    {
+      "market_name": "W2017",
+      "codename": "veyronltectc",
+      "model": "SM-W2017"
     },
     {
       "market_name": "olleh",

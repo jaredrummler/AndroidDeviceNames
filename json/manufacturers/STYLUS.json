@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Stylus",
+  "devices": [
+    {
+      "market_name": "AT703",
+      "codename": "AT703",
+      "model": "AT703"
+    },
+    {
+      "market_name": "FUNDA",
+      "codename": "ETAB_I1041G",
+      "model": "ETAB I1041G"
+    },
+    {
+      "market_name": "FUNDA",
+      "codename": "ETAB_I7041G",
+      "model": "ETAB_I7041G"
+    },
+    {
+      "market_name": "Stylus IFS100",
+      "codename": "IFS100",
+      "model": "IFS100"
+    }
+  ]
+}

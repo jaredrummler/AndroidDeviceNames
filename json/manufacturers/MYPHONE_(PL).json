@@ -17,9 +17,19 @@
       "model": "C-Smart IIIS"
     },
     {
+      "market_name": "myPhone Fun 5",
+      "codename": "FUN5_OPM",
+      "model": "FUN5"
+    },
+    {
       "market_name": "myPhone Luna II",
       "codename": "LUNA_II_OPM",
       "model": "LUNA_II"
+    },
+    {
+      "market_name": "myPhone Q-Smart Elite",
+      "codename": "Q-Smart_Elite_JMP",
+      "model": "Q-Smart_Elite"
     }
   ]
 }

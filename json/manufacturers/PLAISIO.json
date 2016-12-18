@@ -2,6 +2,11 @@
   "manufacturer": "Plaisio",
   "devices": [
     {
+      "market_name": "Calltab 7\\xe2\\x80\\x9d",
+      "codename": "Calltab7inch",
+      "model": "Calltab7inch"
+    },
+    {
       "market_name": "CalltabII 10.1",
       "codename": "E1031H2C",
       "model": "Calltab10.1"
@@ -32,6 +37,11 @@
       "model": "TURBOX_I4G"
     },
     {
+      "market_name": "Lithium Ion",
+      "codename": "Turbo-X_e3",
+      "model": "Turbo-X_e3"
+    },
+    {
       "market_name": "\"Rainbow II 3G 8\"\"\"",
       "codename": "mr801",
       "model": "RainbowII 3G"
@@ -55,6 +65,11 @@
       "market_name": "\"RubikII 10\"\"\"",
       "codename": "q102",
       "model": "Rubik 10.1 II"
+    },
+    {
+      "market_name": "Turbo-X s2",
+      "codename": "s2",
+      "model": "s2"
     },
     {
       "market_name": "Turbo-X_epsilon",

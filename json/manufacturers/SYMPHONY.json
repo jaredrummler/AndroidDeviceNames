@@ -7,6 +7,11 @@
       "model": "H300"
     },
     {
+      "market_name": "H400",
+      "codename": "H400",
+      "model": "H400"
+    },
+    {
       "market_name": "H58",
       "codename": "H58",
       "model": "H58"
@@ -25,6 +30,11 @@
       "market_name": "SYMPHONY R100",
       "codename": "R100",
       "model": "Symphony R100"
+    },
+    {
+      "market_name": "SYMPHONY R20",
+      "codename": "R20",
+      "model": "R20"
     },
     {
       "market_name": "SYMPHONY V75",

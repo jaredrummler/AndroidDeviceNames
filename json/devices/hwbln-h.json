@@ -1,8 +1,68 @@
 [
   {
     "manufacturer": "Huawei",
+    "market_name": "HUAWEI GR5",
+    "codename": "HWBLN-H",
+    "model": "BLL-L21"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI GR5",
+    "codename": "HWBLN-H",
+    "model": "BLL-L22"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI GR5",
+    "codename": "HWBLN-H",
+    "model": "HUAWEI BLL-L21"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI GR5",
+    "codename": "HWBLN-H",
+    "model": "HUAWEI BLL-L22"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI Mat",
+    "codename": "HWBLN-H",
+    "model": "BLL-L23"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI Mat",
+    "codename": "HWBLN-H",
+    "model": "HUAWEI BLL-L23"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "honor 6x",
+    "codename": "HWBLN-H",
+    "model": "BLN-L21"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "honor 6x",
+    "codename": "HWBLN-H",
+    "model": "BLN-L22"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
     "codename": "HWBLN-H",
     "model": "BLN-AL10"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+    "codename": "HWBLN-H",
+    "model": "BLN-TL00"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
+    "codename": "HWBLN-H",
+    "model": "BLN-TL10"
   }
 ]

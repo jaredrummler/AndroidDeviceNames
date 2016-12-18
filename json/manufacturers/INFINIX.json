@@ -12,6 +12,16 @@
       "model": "Infinix HOT 4"
     },
     {
+      "market_name": "HOT 4 PRO",
+      "codename": "X556",
+      "model": "Infinix HOT 4 Pro"
+    },
+    {
+      "market_name": "HOT 4 PRO",
+      "codename": "X556",
+      "model": "Infinix_X556_LTE"
+    },
+    {
       "market_name": "HOT NOTE",
       "codename": "Infinix-X551",
       "model": "Infinix-X551"
@@ -23,6 +33,11 @@
     },
     {
       "market_name": "INFINIX-X521",
+      "codename": "Infinix-X521",
+      "model": "Infinix-X521-LTE"
+    },
+    {
+      "market_name": "INFINIX-X521",
       "codename": "Infinix-X521-3G",
       "model": "Infinix-X521"
     },
@@ -30,6 +45,11 @@
       "market_name": "INFINIX-X521",
       "codename": "Infinix-X521-Pro",
       "model": "Infinix-X521"
+    },
+    {
+      "market_name": "INFINIX-X521",
+      "codename": "Infinix-X521-Pro",
+      "model": "Infinix_X521_LTE"
     },
     {
       "market_name": "INFINIX-X551",
@@ -92,6 +112,11 @@
       "model": "Infinix HOT 4 Lite"
     },
     {
+      "market_name": "Infinix HOT 4 Pro",
+      "codename": "X556",
+      "model": "Infinix HOT 4 Pro"
+    },
+    {
       "market_name": "Infinix NOTE 3",
       "codename": "X601",
       "model": "Infinix NOTE 3"
@@ -107,6 +132,11 @@
       "model": "Infinix NOTE 3 Pro"
     },
     {
+      "market_name": "Infinix NOTE 3 Pro",
+      "codename": "X601-LTE",
+      "model": "Infinix_X601_LTE"
+    },
+    {
       "market_name": "Infinix X505",
       "codename": "X505",
       "model": "Infinix X505"
@@ -120,6 +150,31 @@
       "market_name": "Infinix-X521",
       "codename": "Infinix-X521-Pro",
       "model": "Infinix-X521"
+    },
+    {
+      "market_name": "Infinix-X521",
+      "codename": "Infinix-X521-Pro",
+      "model": "Infinix_X521"
+    },
+    {
+      "market_name": "Infinix-X521-H1",
+      "codename": "Infinix-X521-Pro",
+      "model": "Infinix-X521"
+    },
+    {
+      "market_name": "Infinix-X521-H1",
+      "codename": "Infinix-X521-Pro",
+      "model": "Infinix_X521"
+    },
+    {
+      "market_name": "Infinix-X521G1",
+      "codename": "Infinix-X521-Pro",
+      "model": "Infinix-X521"
+    },
+    {
+      "market_name": "Infinix-X521G1",
+      "codename": "Infinix-X521-Pro",
+      "model": "Infinix_X521"
     },
     {
       "market_name": "Infinix-X521S",
