@@ -182,6 +182,11 @@
       "model": "B1-730HD"
     },
     {
+      "market_name": "B1-733",
+      "codename": "acer_barricade_3G",
+      "model": "B1-733"
+    },
+    {
       "market_name": "B1-780",
       "codename": "acer_barricadewifi",
       "model": "B1-780"
@@ -640,6 +645,11 @@
       "market_name": "Liquid Z630S",
       "codename": "acer_t04",
       "model": "T04"
+    },
+    {
+      "market_name": "Liquid Z6E",
+      "codename": "acer_t10",
+      "model": "T10"
     },
     {
       "market_name": "Liquid Zest",

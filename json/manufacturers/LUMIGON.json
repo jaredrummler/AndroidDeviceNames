@@ -2,6 +2,11 @@
   "manufacturer": "Lumigon",
   "devices": [
     {
+      "market_name": "Lumigon_T3",
+      "codename": "Lumigon_T3",
+      "model": "Lumigon_T3"
+    },
+    {
       "market_name": "T2",
       "codename": "msm7630_fw8911",
       "model": "T2"

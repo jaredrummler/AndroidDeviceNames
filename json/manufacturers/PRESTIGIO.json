@@ -217,6 +217,11 @@
       "model": "PMT3351_3G"
     },
     {
+      "market_name": "PMT3418_4G",
+      "codename": "LS80A4L",
+      "model": "PMT3418_4G"
+    },
+    {
       "market_name": "PMT3437_3G",
       "codename": "JP70A1W",
       "model": "PMT3437_3G"
@@ -377,6 +382,11 @@
       "model": "PSP3459DUO"
     },
     {
+      "market_name": "PSP3468DUO",
+      "codename": "TE45B7G",
+      "model": "PSP3468DUO"
+    },
+    {
       "market_name": "PSP3502DUO",
       "codename": "PSP3502DUO",
       "model": "PSP3502DUO"
@@ -412,6 +422,21 @@
       "model": "PSP3508DUO"
     },
     {
+      "market_name": "PSP3510DUO",
+      "codename": "DTE50B8L",
+      "model": "PSP3510DUO"
+    },
+    {
+      "market_name": "PSP3511DUO",
+      "codename": "DTE50B8L",
+      "model": "PSP3511DUO"
+    },
+    {
+      "market_name": "PSP3512",
+      "codename": "DTE50B8L",
+      "model": "PSP3512DUO"
+    },
+    {
       "market_name": "PSP3516DUO",
       "codename": "TE50B2G",
       "model": "PSP3516DUO"
@@ -432,6 +457,11 @@
       "model": "PSP3527DUO"
     },
     {
+      "market_name": "PSP3528DUO",
+      "codename": "IM50B1G",
+      "model": "PSP3528DUO"
+    },
+    {
       "market_name": "PSP3530DUO",
       "codename": "DW53B01G",
       "model": "PSP3530DUO"
@@ -440,6 +470,21 @@
       "market_name": "PSP3531DUO",
       "codename": "DW53B01G",
       "model": "PSP3531DUO"
+    },
+    {
+      "market_name": "PSP3533DUO",
+      "codename": "DW53B6G",
+      "model": "PSP3533DUO"
+    },
+    {
+      "market_name": "PSP3537DUO",
+      "codename": "GF50B2G",
+      "model": "PSP3537DUO"
+    },
+    {
+      "market_name": "PSP3551",
+      "codename": "DTE50B8L",
+      "model": "PSP3551DUO"
     },
     {
       "market_name": "PSP5047DUO",
@@ -582,9 +627,19 @@
       "model": "PSP3453DUO"
     },
     {
+      "market_name": "Prestigio Wize 3131 3G",
+      "codename": "LS10A3G",
+      "model": "PMT3131_3G"
+    },
+    {
       "market_name": "Prestigio Wize 3147 3G",
       "codename": "LS70A2G",
       "model": "PMT3147_3G"
+    },
+    {
+      "market_name": "Prestigio Wize 3401 3G",
+      "codename": "JU10A3G",
+      "model": "PMT3401_3G"
     }
   ]
 }

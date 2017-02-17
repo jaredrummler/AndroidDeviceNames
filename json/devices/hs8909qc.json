@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Crosscall",
+    "market_name": "TREKKER-M1 CORE",
+    "codename": "HS8909QC",
+    "model": "TREKKER-M1 CORE"
+  },
+  {
     "manufacturer": "Hisense",
     "market_name": "E10",
     "codename": "HS8909QC",
@@ -70,5 +76,11 @@
     "market_name": "Hisense M30",
     "codename": "HS8909QC",
     "model": "Hisense M30"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense M30T",
+    "codename": "HS8909QC",
+    "model": "Hisense M30T"
   }
 ]

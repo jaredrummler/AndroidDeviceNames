@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Freetel",
+  "devices": [
+    {
+      "market_name": "Priori4",
+      "codename": "Priori4",
+      "model": "FTJ162D"
+    },
+    {
+      "market_name": "RAIJIN",
+      "codename": "RAIJIN",
+      "model": "FTJ162E"
+    }
+  ]
+}

@@ -47,6 +47,11 @@
       "model": "M305"
     },
     {
+      "market_name": "ARROWS M357",
+      "codename": "M357",
+      "model": "M357"
+    },
+    {
       "market_name": "ARROWS M555",
       "codename": "M555",
       "model": "M555"
@@ -222,6 +227,11 @@
       "model": "F-04H"
     },
     {
+      "market_name": "F-04J",
+      "codename": "F04J",
+      "model": "F-04J"
+    },
+    {
       "market_name": "F-05F",
       "codename": "F05F",
       "model": "F-05F"
@@ -392,19 +402,9 @@
       "model": "arrowsM03"
     },
     {
-      "market_name": "arrows M357",
-      "codename": "M357",
-      "model": "M357"
-    },
-    {
       "market_name": "arrows Tab M01T",
       "codename": "M01T",
       "model": "M01T"
-    },
-    {
-      "market_name": "arrowsM03",
-      "codename": "M03",
-      "model": "arrowsM03"
     }
   ]
 }

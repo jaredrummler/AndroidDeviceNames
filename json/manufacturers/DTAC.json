@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Dtac",
+  "devices": [
+    {
+      "market_name": "dtac Phone M2",
+      "codename": "dtacPhoneM2",
+      "model": "dtacPhoneM2"
+    },
+    {
+      "market_name": "dtac Phone S2",
+      "codename": "dtacPhoneS2",
+      "model": "dtac_Phone_S2"
+    },
+    {
+      "market_name": "dtac Phone T2",
+      "codename": "dtacPhoneT2",
+      "model": "dtacPhoneT2"
+    }
+  ]
+}

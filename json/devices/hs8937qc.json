@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "Hisense",
+    "market_name": "C30",
+    "codename": "HS8937QC",
+    "model": "Hisense C30"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "C30",
+    "codename": "HS8937QC",
+    "model": "Hisense C30_02"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "E76",
     "codename": "HS8937QC",
     "model": "Hisense E76"
@@ -10,6 +22,12 @@
     "market_name": "E76E_11",
     "codename": "HS8937QC",
     "model": "Hisense E76"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "E9",
+    "codename": "HS8937QC",
+    "model": "Hisense E9"
   },
   {
     "manufacturer": "Hisense",
@@ -31,8 +49,38 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "Hisense A2",
+    "codename": "HS8937QC",
+    "model": "Hisense A2"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "L730",
+    "codename": "HS8937QC",
+    "model": "STARADDICT 6"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "S1",
     "codename": "HS8937QC",
     "model": "S1"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "e76mini",
+    "codename": "HS8937QC",
+    "model": "Hisense E76mini"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "l830",
+    "codename": "HS8937QC",
+    "model": "STARXTREM 6"
+  },
+  {
+    "manufacturer": "Stream",
+    "market_name": "FIXION",
+    "codename": "HS8937QC",
+    "model": "FIXION"
   }
 ]

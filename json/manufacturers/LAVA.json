@@ -2,9 +2,19 @@
   "manufacturer": "Lava",
   "devices": [
     {
+      "market_name": "A3",
+      "codename": "LAVA_A3",
+      "model": "LAVA_A3"
+    },
+    {
       "market_name": "A52",
       "codename": "A52",
       "model": "A52"
+    },
+    {
+      "market_name": "A55",
+      "codename": "A55",
+      "model": "A55"
     },
     {
       "market_name": "A67",
@@ -22,7 +32,17 @@
       "model": "A71"
     },
     {
+      "market_name": "A73",
+      "codename": "A73",
+      "model": "A73"
+    },
+    {
       "market_name": "A76Plus",
+      "codename": "A76Plus",
+      "model": "A76Plus"
+    },
+    {
+      "market_name": "A76plus",
       "codename": "A76Plus",
       "model": "A76Plus"
     },
@@ -35,6 +55,11 @@
       "market_name": "A82",
       "codename": "LA82",
       "model": "A82"
+    },
+    {
+      "market_name": "ERA 1X",
+      "codename": "era1X",
+      "model": "era1X"
     },
     {
       "market_name": "Era 4G",
@@ -57,6 +82,11 @@
       "model": "iris505"
     },
     {
+      "market_name": "Lava A50",
+      "codename": "A50",
+      "model": "A50"
+    },
+    {
       "market_name": "Lava A72",
       "codename": "A72",
       "model": "A72"
@@ -70,6 +100,11 @@
       "market_name": "Lava A97",
       "codename": "A97",
       "model": "A97"
+    },
+    {
+      "market_name": "Lava P7 Plus",
+      "codename": "P7plus",
+      "model": "P7plus"
     },
     {
       "market_name": "Lava V2 3GB",
@@ -87,6 +122,16 @@
       "model": "X17"
     },
     {
+      "market_name": "Lava X28",
+      "codename": "X28",
+      "model": "X28"
+    },
+    {
+      "market_name": "Lava X28 Plus",
+      "codename": "X28_plus",
+      "model": "X28 Plus"
+    },
+    {
       "market_name": "Lava X38",
       "codename": "X38",
       "model": "X38"
@@ -97,6 +142,11 @@
       "model": "X38 2GB"
     },
     {
+      "market_name": "Lava X41",
+      "codename": "X41",
+      "model": "X41"
+    },
+    {
       "market_name": "Lava X50",
       "codename": "X50",
       "model": "X50"
@@ -105,6 +155,11 @@
       "market_name": "Lava X81",
       "codename": "X81",
       "model": "X81"
+    },
+    {
+      "market_name": "Lava iris 880",
+      "codename": "iris880",
+      "model": "iris880"
     },
     {
       "market_name": "P7",
@@ -157,14 +212,29 @@
       "model": "X11"
     },
     {
+      "market_name": "X19",
+      "codename": "X19",
+      "model": "X19"
+    },
+    {
       "market_name": "X3",
       "codename": "X3",
       "model": "X3"
     },
     {
+      "market_name": "X41Plus",
+      "codename": "X41_Plus",
+      "model": "X41 Plus"
+    },
+    {
       "market_name": "X46",
       "codename": "LX46",
       "model": "X46"
+    },
+    {
+      "market_name": "X50 Plus",
+      "codename": "X50_Plus",
+      "model": "X50 Plus"
     },
     {
       "market_name": "XOLO LT900",
@@ -185,6 +255,21 @@
       "market_name": "Xolo Era X",
       "codename": "era_X",
       "model": "era_X"
+    },
+    {
+      "market_name": "Xolo era 2",
+      "codename": "era_2",
+      "model": "era 2"
+    },
+    {
+      "market_name": "Z10",
+      "codename": "LAVA_Z10",
+      "model": "Z10"
+    },
+    {
+      "market_name": "Z25",
+      "codename": "Z25",
+      "model": "Z25"
     },
     {
       "market_name": "iris Fuel F2",

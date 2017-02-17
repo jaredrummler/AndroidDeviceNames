@@ -2,6 +2,16 @@
   "manufacturer": "Fly",
   "devices": [
     {
+      "market_name": "Cirrus 11",
+      "codename": "Cirrus_11",
+      "model": "FS517"
+    },
+    {
+      "market_name": "Cirrus 12",
+      "codename": "Cirrus_12",
+      "model": "FS516"
+    },
+    {
       "market_name": "Cirrus 2",
       "codename": "Cirrus_2",
       "model": "FS504"
@@ -12,9 +22,24 @@
       "model": "Cirrus 6"
     },
     {
+      "market_name": "Cirrus 6",
+      "codename": "Cirrus_6",
+      "model": "FS508"
+    },
+    {
+      "market_name": "Cirrus 7",
+      "codename": "Cirrus_7",
+      "model": "FS511"
+    },
+    {
       "market_name": "Cirrus 8",
       "codename": "Cirrus_8",
       "model": "FS514"
+    },
+    {
+      "market_name": "Cirrus 9",
+      "codename": "Cirrus_9",
+      "model": "FS553"
     },
     {
       "market_name": "Dune 3",
@@ -342,9 +367,19 @@
       "model": "FS512"
     },
     {
+      "market_name": "Nimbus 11",
+      "codename": "Nimbus_11",
+      "model": "FS455"
+    },
+    {
       "market_name": "Nimbus 12",
       "codename": "Nimbus_12",
       "model": "FS510"
+    },
+    {
+      "market_name": "Nimbus 14",
+      "codename": "Nimbus_14",
+      "model": "FS456"
     },
     {
       "market_name": "Nimbus 7",

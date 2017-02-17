@@ -2,9 +2,19 @@
   "manufacturer": "Plaisio",
   "devices": [
     {
+      "market_name": "A2",
+      "codename": "Turbo-X_A2",
+      "model": "Turbo-X_A2"
+    },
+    {
       "market_name": "Calltab 7\\xe2\\x80\\x9d",
       "codename": "Calltab7inch",
       "model": "Calltab7inch"
+    },
+    {
+      "market_name": "\"Calltab2GB10.1\"\"\"",
+      "codename": "Calltab2GB10",
+      "model": "Calltab2GB10"
     },
     {
       "market_name": "CalltabII 10.1",
@@ -67,6 +77,11 @@
       "model": "Rubik 10.1 II"
     },
     {
+      "market_name": "Rubik_10_III",
+      "codename": "Rubik_10_III",
+      "model": "Rubik_10_III"
+    },
+    {
       "market_name": "Turbo-X s2",
       "codename": "s2",
       "model": "s2"
@@ -80,6 +95,11 @@
       "market_name": "Turbo-X_pi_4G",
       "codename": "Turbo-X_pi_4G",
       "model": "Turbo-X_pi_4G"
+    },
+    {
+      "market_name": "Turbo-X_z",
+      "codename": "Turbo-X_z",
+      "model": "Turbo-X_z"
     },
     {
       "market_name": "lamda",

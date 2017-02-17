@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Asus",
+    "market_name": "ZenFone 3(ZC551KL)",
+    "codename": "Z01B_1",
+    "model": "ASUS_Z01BDA"
+  },
+  {
+    "manufacturer": "Asus",
     "market_name": "Zenfone 3 Laser",
     "codename": "Z01B_1",
     "model": "ASUS_Z01BD"

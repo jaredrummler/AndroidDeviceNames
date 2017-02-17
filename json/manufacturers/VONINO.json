@@ -22,6 +22,16 @@
       "model": "Jax X"
     },
     {
+      "market_name": "Jax_X_TM",
+      "codename": "JAX",
+      "model": "Jax X"
+    },
+    {
+      "market_name": "Magnet_M1",
+      "codename": "Magnet_M1",
+      "model": "Magnet M1"
+    },
+    {
       "market_name": "MusicPAD",
       "codename": "MusicPAD",
       "model": "MusicPAD"
@@ -52,6 +62,31 @@
       "model": "Pluri_Q8"
     },
     {
+      "market_name": "Pluri Q8 TM",
+      "codename": "Pluri_Q8",
+      "model": "Pluri_Q8"
+    },
+    {
+      "market_name": "Pluri_G7",
+      "codename": "Pluri_G7",
+      "model": "Pluri G7"
+    },
+    {
+      "market_name": "Volt S",
+      "codename": "Volt_S",
+      "model": "Volt S"
+    },
+    {
+      "market_name": "Volt_X",
+      "codename": "Volt_X",
+      "model": "Volt_X"
+    },
+    {
+      "market_name": "Xavy L8 A6",
+      "codename": "Xavy_L8",
+      "model": "Xavy_L8"
+    },
+    {
       "market_name": "Xavy T7 A6",
       "codename": "Xavy_T7",
       "model": "Xavy_T7"
@@ -67,13 +102,13 @@
       "model": "Xavy_T7"
     },
     {
-      "market_name": "Xylo X",
-      "codename": "Xylo",
+      "market_name": "Xylo X A6",
+      "codename": "Xylo_X",
       "model": "Xylo X"
     },
     {
-      "market_name": "Xylo X A6",
-      "codename": "Xylo_X",
+      "market_name": "Xylo_X_TM",
+      "codename": "Xylo",
       "model": "Xylo X"
     },
     {

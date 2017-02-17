@@ -177,6 +177,16 @@
       "model": "P6_Energy_Lite"
     },
     {
+      "market_name": "P6 Energy Lite",
+      "codename": "P6_Energy_Lite",
+      "model": "P6_Energy_Lite_TM"
+    },
+    {
+      "market_name": "P6 Energy mini",
+      "codename": "P6_Energy_mini",
+      "model": "P6_Energy_mini"
+    },
+    {
       "market_name": "P6 Lite",
       "codename": "P6_lite",
       "model": "P6_lite"
@@ -242,6 +252,11 @@
       "model": "P8_Energy_mini_TM"
     },
     {
+      "market_name": "P8 Life",
+      "codename": "P8_Life",
+      "model": "P8_Life"
+    },
+    {
       "market_name": "P8 eMagic",
       "codename": "P8_eMagic",
       "model": "P8_eMagic"
@@ -260,6 +275,11 @@
       "market_name": "P9 Energy Lite",
       "codename": "P9_Energy_Lite",
       "model": "P9_Energy_Lite"
+    },
+    {
+      "market_name": "P9 Energy Mini",
+      "codename": "P9_Energy_mini",
+      "model": "P9_Energy_mini_TM"
     },
     {
       "market_name": "P9 Energy mini",
@@ -500,6 +520,11 @@
       "market_name": "X3Soul",
       "codename": "X3_Soul",
       "model": "X3_Soul"
+    },
+    {
+      "market_name": "X4 Soul",
+      "codename": "X4_Soul",
+      "model": "X4_Soul"
     }
   ]
 }

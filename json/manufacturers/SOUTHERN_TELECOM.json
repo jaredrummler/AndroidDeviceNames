@@ -7,6 +7,11 @@
       "model": "A1000/P1003/P1010"
     },
     {
+      "market_name": "A400",
+      "codename": "A400",
+      "model": "A400"
+    },
+    {
       "market_name": "A5",
       "codename": "A5",
       "model": "A5"
@@ -15,6 +20,11 @@
       "market_name": "A500",
       "codename": "Polaroid_Phone",
       "model": "a500"
+    },
+    {
+      "market_name": "A600",
+      "codename": "A600",
+      "model": "A600"
     },
     {
       "market_name": "Emerson EM756",

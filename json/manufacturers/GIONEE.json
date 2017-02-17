@@ -67,6 +67,11 @@
       "model": "F105L"
     },
     {
+      "market_name": "F106",
+      "codename": "GIONEE_SWG1613",
+      "model": "F106"
+    },
+    {
       "market_name": "F301",
       "codename": "F301",
       "model": "F301"
@@ -75,6 +80,16 @@
       "market_name": "F303",
       "codename": "F303",
       "model": "F303"
+    },
+    {
+      "market_name": "F5",
+      "codename": "GIONEE_SWG1608",
+      "model": "F5"
+    },
+    {
+      "market_name": "F5L",
+      "codename": "GIONEE_SWG1608",
+      "model": "F5L"
     },
     {
       "market_name": "ForwardZero",
@@ -142,6 +157,16 @@
       "model": "GN5003"
     },
     {
+      "market_name": "GN5005",
+      "codename": "GIONEE_G1605A",
+      "model": "GN5005"
+    },
+    {
+      "market_name": "GN5005",
+      "codename": "GIONEE_G1605A",
+      "model": "GN5005L"
+    },
+    {
       "market_name": "GN8001",
       "codename": "GiONEE_BBL7505",
       "model": "GN8001"
@@ -150,6 +175,11 @@
       "market_name": "GN8001L",
       "codename": "GiONEE_BBL7505",
       "model": "GN8001L"
+    },
+    {
+      "market_name": "GN8003L",
+      "codename": "GiONEE_BBL7515A",
+      "model": "GN8003L"
     },
     {
       "market_name": "GN9000",
@@ -370,6 +400,16 @@
       "market_name": "S8",
       "codename": "GIONEE_WBL7517",
       "model": "GN9011"
+    },
+    {
+      "market_name": "S9",
+      "codename": "GIONEE_GBL7553",
+      "model": "S9"
+    },
+    {
+      "market_name": "S9",
+      "codename": "GIONEE_GBL7558",
+      "model": "S9"
     },
     {
       "market_name": "V4S",

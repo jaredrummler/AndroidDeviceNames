@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Avaya",
+  "devices": [
+    {
+      "market_name": "Vantage",
+      "codename": "K175",
+      "model": "K175"
+    },
+    {
+      "market_name": "Vantage",
+      "codename": "Vantage",
+      "model": "K165"
+    }
+  ]
+}

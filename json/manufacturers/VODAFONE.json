@@ -42,11 +42,6 @@
       "model": "VFD 200"
     },
     {
-      "market_name": "VFD 600",
-      "codename": "P809V50",
-      "model": "VFD 600"
-    },
-    {
       "market_name": "VFD1100",
       "codename": "Tab7",
       "model": "VFD 1100"
@@ -67,9 +62,19 @@
       "model": "VF-895N"
     },
     {
+      "market_name": "Vodafone Smart N8",
+      "codename": "VFD610",
+      "model": "VFD 610"
+    },
+    {
       "market_name": "Vodafone Smart Tab 4",
       "codename": "Vodafone_Smart_Tab_4",
       "model": "Vodafone Smart Tab 4"
+    },
+    {
+      "market_name": "Vodafone Smart first 7",
+      "codename": "P731V35",
+      "model": "VFD 200"
     },
     {
       "market_name": "Vodafone Smart mini 7",
@@ -77,9 +82,19 @@
       "model": "VFD 300"
     },
     {
+      "market_name": "Vodafone Smart mini 7 dual",
+      "codename": "VFD301",
+      "model": "VFD 301"
+    },
+    {
       "market_name": "Vodafone Smart platinum 7",
       "codename": "VFD900",
       "model": "VFD 900"
+    },
+    {
+      "market_name": "Vodafone Smart prime 7",
+      "codename": "P809V50",
+      "model": "VFD 600"
     },
     {
       "market_name": "Vodafone Smart turbo 7",
@@ -90,6 +105,21 @@
       "market_name": "Vodafone Smart turbo 7",
       "codename": "VFD501",
       "model": "VFD 501"
+    },
+    {
+      "market_name": "Vodafone Smart turbo 7 dual",
+      "codename": "VFD502",
+      "model": "VFD 502"
+    },
+    {
+      "market_name": "Vodafone Smart ultra 6",
+      "codename": "P839V55",
+      "model": "Vodafone Smart ultra 6"
+    },
+    {
+      "market_name": "Vodafone Smart ultra 7",
+      "codename": "VFD700",
+      "model": "Maxis VFD700"
     },
     {
       "market_name": "Vodafone Smart ultra 7",

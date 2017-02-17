@@ -12,9 +12,19 @@
       "model": "CUBOT ECHO"
     },
     {
+      "market_name": "MANITO",
+      "codename": "CUBOT_MANITO",
+      "model": "CUBOT_MANITO"
+    },
+    {
       "market_name": "MAX",
       "codename": "x6069_cubot_5365u",
       "model": "CUBOT MAX"
+    },
+    {
+      "market_name": "NOTE S",
+      "codename": "CUBOT_CHEETAH_2",
+      "model": "CUBOT CHEETAH 2"
     },
     {
       "market_name": "NOTE S",

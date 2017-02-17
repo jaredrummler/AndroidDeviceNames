@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Coppernic",
+  "devices": [
+    {
+      "market_name": "C-eight",
+      "codename": "C-eight",
+      "model": "C-eight"
+    },
+    {
+      "market_name": "C-five",
+      "codename": "C-five",
+      "model": "C-five"
+    }
+  ]
+}

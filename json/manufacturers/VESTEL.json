@@ -2,11 +2,6 @@
   "manufacturer": "Vestel",
   "devices": [
     {
-      "market_name": "55UA8990",
-      "codename": "MB300",
-      "model": "SmartTV"
-    },
-    {
       "market_name": "Farabi",
       "codename": "frb3g",
       "model": "Farabi"
@@ -25,6 +20,16 @@
       "market_name": "V TAB 7\\\u0027\\\u0027 LITE II",
       "codename": "V_TAB_7_LITE_II",
       "model": "V_TAB_7_LITE_II"
+    },
+    {
+      "market_name": "V TAB 7015",
+      "codename": "V_TAB_7015",
+      "model": "V_TAB_7015"
+    },
+    {
+      "market_name": "V TAB 7020",
+      "codename": "V_TAB_7020",
+      "model": "V_TAB_7020"
     },
     {
       "market_name": "V TAB 7025",
@@ -50,6 +55,11 @@
       "market_name": "V Tab 7010",
       "codename": "VTab7010",
       "model": "V Tab 7010"
+    },
+    {
+      "market_name": "V3 5580 Dual",
+      "codename": "Orsa",
+      "model": "V3_5580_Dual"
     },
     {
       "market_name": "VP100+",
@@ -230,6 +240,31 @@
       "market_name": "Venus V3 5580",
       "codename": "Orsa",
       "model": "Venus_V3_5580"
+    },
+    {
+      "market_name": "Vestel 5000",
+      "codename": "Leo",
+      "model": "Vestel_5000"
+    },
+    {
+      "market_name": "Vestel 5000",
+      "codename": "Leo",
+      "model": "Vestel_5000_Dual"
+    },
+    {
+      "market_name": "Vestel 5530",
+      "codename": "Pars",
+      "model": "Vestel_5530"
+    },
+    {
+      "market_name": "Vestel 5530",
+      "codename": "Pars",
+      "model": "Vestel_5530_Dual"
+    },
+    {
+      "market_name": "Vestel_5000_2gb",
+      "codename": "Leo_2GB",
+      "model": "Vestel_5000_2gb"
     }
   ]
 }

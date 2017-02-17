@@ -7,6 +7,11 @@
       "model": "Hurricane_Bolt"
     },
     {
+      "market_name": "Flame",
+      "codename": "Flame",
+      "model": "Flame"
+    },
+    {
       "market_name": "Flex",
       "codename": "Flex",
       "model": "Flex"
@@ -27,6 +32,11 @@
       "model": "Rush"
     },
     {
+      "market_name": "SWIRL",
+      "codename": "Swirl",
+      "model": "Swirl"
+    },
+    {
       "market_name": "Sprint",
       "codename": "Sprint",
       "model": "Sprint"
@@ -35,6 +45,11 @@
       "market_name": "Vegas",
       "codename": "Vegas",
       "model": "Vegas"
+    },
+    {
+      "market_name": "Vibe",
+      "codename": "Vibe",
+      "model": "VIBE"
     },
     {
       "market_name": "Volt",

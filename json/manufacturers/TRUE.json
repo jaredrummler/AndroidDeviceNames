@@ -1,0 +1,25 @@
+{
+  "manufacturer": "True",
+  "devices": [
+    {
+      "market_name": "SMART 4G Octa 5.5",
+      "codename": "M636T",
+      "model": "SMART 4G Octa 5.5"
+    },
+    {
+      "market_name": "SMART TAB 4G M1",
+      "codename": "SMART_TAB_4G_M1",
+      "model": "SMART TAB 4G M1"
+    },
+    {
+      "market_name": "TRUE SMART 4G M1",
+      "codename": "SMART_4G_M1",
+      "model": "SMART 4G M1"
+    },
+    {
+      "market_name": "TRUE SMART 4G M1 Plus",
+      "codename": "SMART_4G_M1_Plus",
+      "model": "SMART 4G M1 Plus"
+    }
+  ]
+}

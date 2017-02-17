@@ -7,6 +7,16 @@
       "model": "E8"
     },
     {
+      "market_name": "ENERGY X1",
+      "codename": "ENERGY_X1",
+      "model": "QMobile ENERGY X1"
+    },
+    {
+      "market_name": "ENERGY X2",
+      "codename": "ENERGY_X2",
+      "model": "QMobile ENERGY X2"
+    },
+    {
       "market_name": "J5",
       "codename": "J5",
       "model": "J5"
@@ -32,6 +42,11 @@
       "model": "JazzX JS7 PRO"
     },
     {
+      "market_name": "KING KONG MAX",
+      "codename": "KING_KONG_MAX",
+      "model": "KING KONG MAX"
+    },
+    {
       "market_name": "LT650",
       "codename": "LT650",
       "model": "LT650"
@@ -50,6 +65,21 @@
       "market_name": "LT700 PRO",
       "codename": "LT700_PRO",
       "model": "LT700 PRO"
+    },
+    {
+      "market_name": "M350 Pro",
+      "codename": "M350_Pro",
+      "model": "M350 Pro"
+    },
+    {
+      "market_name": "M6",
+      "codename": "BBL7551QM",
+      "model": "M6"
+    },
+    {
+      "market_name": "M6 Lite",
+      "codename": "M6_Lite",
+      "model": "M6 Lite"
     },
     {
       "market_name": "NOIR A3",
@@ -132,6 +162,11 @@
       "model": "QMobile S6S"
     },
     {
+      "market_name": "S9",
+      "codename": "S9",
+      "model": "S9"
+    },
+    {
       "market_name": "V100",
       "codename": "QTab_V100",
       "model": "V100"
@@ -155,6 +190,11 @@
       "market_name": "X32",
       "codename": "X32_new",
       "model": "QMobile X32"
+    },
+    {
+      "market_name": "X32 Power",
+      "codename": "X32_Power",
+      "model": "QMobile X32 Power"
     },
     {
       "market_name": "X700 PRO",
@@ -210,6 +250,16 @@
       "market_name": "i2 PRO",
       "codename": "i2_PRO",
       "model": "QMobile i2 PRO"
+    },
+    {
+      "market_name": "i5.5",
+      "codename": "i5_5",
+      "model": "QMobile i5.5"
+    },
+    {
+      "market_name": "i6 Metal One",
+      "codename": "i6_Metal_ONE_new",
+      "model": "QMobile i6 Metal ONE"
     },
     {
       "market_name": "i7i PRO",

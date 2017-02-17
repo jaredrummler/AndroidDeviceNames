@@ -2,6 +2,11 @@
   "manufacturer": "Verykool",
   "devices": [
     {
+      "market_name": "verykool S5019",
+      "codename": "verykoolS5019",
+      "model": "verykoolS5019"
+    },
+    {
       "market_name": "verykool SL5050",
       "codename": "verykoolSL5050",
       "model": "verykoolSL5050"
@@ -10,6 +15,41 @@
       "market_name": "verykool SL5200",
       "codename": "verykoolSL5200",
       "model": "verykoolSL5200"
+    },
+    {
+      "market_name": "verykool s4513",
+      "codename": "verykoolS4513",
+      "model": "verykool Luna II S4513"
+    },
+    {
+      "market_name": "verykool s5007",
+      "codename": "verykoolS5007",
+      "model": "verykoolS5007"
+    },
+    {
+      "market_name": "verykool s5021",
+      "codename": "verykoolS5021",
+      "model": "verykoolS5021"
+    },
+    {
+      "market_name": "verykoolS5027",
+      "codename": "verykoolS5027",
+      "model": "verykoolS5027"
+    },
+    {
+      "market_name": "verykoolS5028",
+      "codename": "verykoolS5028",
+      "model": "verykoolS5028"
+    },
+    {
+      "market_name": "verykoolSL5560",
+      "codename": "verykoolSL5560",
+      "model": "verykoolSL5560"
+    },
+    {
+      "market_name": "verykools5035",
+      "codename": "verykools5035",
+      "model": "verykools5035"
     }
   ]
 }

@@ -2,6 +2,11 @@
   "manufacturer": "Diginnos",
   "devices": [
     {
+      "market_name": "DG-A97QT",
+      "codename": "DG_A97QT",
+      "model": "DG-A97QT"
+    },
+    {
       "market_name": "DG-Q08M",
       "codename": "DG-Q08M",
       "model": "DG-Q08M"

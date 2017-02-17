@@ -1,0 +1,45 @@
+{
+  "manufacturer": "Doogee",
+  "devices": [
+    {
+      "market_name": "T5S",
+      "codename": "T5S",
+      "model": "T5S"
+    },
+    {
+      "market_name": "X5  MAX",
+      "codename": "X5max",
+      "model": "X5max"
+    },
+    {
+      "market_name": "X5 max pro",
+      "codename": "X5max_PRO",
+      "model": "X5max_PRO"
+    },
+    {
+      "market_name": "X7",
+      "codename": "s6061_dg_a50_m",
+      "model": "X7"
+    },
+    {
+      "market_name": "X7Pro",
+      "codename": "x6069_dg_a50_37m65",
+      "model": "X7pro"
+    },
+    {
+      "market_name": "X9 Mini",
+      "codename": "t530_dg_a54",
+      "model": "X9 Mini"
+    },
+    {
+      "market_name": "X9 Pro",
+      "codename": "X9pro",
+      "model": "X9pro"
+    },
+    {
+      "market_name": "Y6",
+      "codename": "Y6",
+      "model": "Y6"
+    }
+  ]
+}

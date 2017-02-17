@@ -2,14 +2,29 @@
   "manufacturer": "Dragontouch",
   "devices": [
     {
+      "market_name": "K8",
+      "codename": "K8",
+      "model": "K8"
+    },
+    {
       "market_name": "X10",
       "codename": "X10A",
       "model": "X10"
     },
     {
+      "market_name": "X80",
+      "codename": "X80",
+      "model": "X80"
+    },
+    {
       "market_name": "Y88X Plus",
       "codename": "Y88X_PLUS",
       "model": "Y88X Plus"
+    },
+    {
+      "market_name": "Y88X Plus",
+      "codename": "Y88X_PLUS",
+      "model": "Y88X_PLUS"
     }
   ]
 }

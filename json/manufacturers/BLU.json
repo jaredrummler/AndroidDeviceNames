@@ -17,6 +17,11 @@
       "model": "Advance 4.0M"
     },
     {
+      "market_name": "BLU ADVANCE 4.0 L3",
+      "codename": "Advance_4_0_L3",
+      "model": "Advance 4.0 L3"
+    },
+    {
       "market_name": "BLU Dash G",
       "codename": "Dash_G",
       "model": "Dash G"
@@ -27,14 +32,19 @@
       "model": "Dash XL"
     },
     {
+      "market_name": "BLU Grand Energy",
+      "codename": "Grand_Energy",
+      "model": "Grand Energy"
+    },
+    {
+      "market_name": "BLU Grand M",
+      "codename": "Grand_M",
+      "model": "Grand M"
+    },
+    {
       "market_name": "BLU LIFE XL",
       "codename": "BLU_LIFE_XL",
       "model": "BLU LIFE XL"
-    },
-    {
-      "market_name": "BLU R1 HD",
-      "codename": "BLU_R1_HD",
-      "model": "BLU R1 HD"
     },
     {
       "market_name": "BLU R1 HD",
@@ -52,9 +62,24 @@
       "model": "BLU TOUCHBOOK M7"
     },
     {
+      "market_name": "BLU VIVO 5",
+      "codename": "BLU_VIVO_5",
+      "model": "VIVO 5"
+    },
+    {
+      "market_name": "BLU VIVO XL",
+      "codename": "BLU_VIVO_XL",
+      "model": "VIVO XL"
+    },
+    {
       "market_name": "BLU VIVO XL2",
       "codename": "BLU_Vivo_XL2",
       "model": "Vivo XL2"
+    },
+    {
+      "market_name": "BLU Vivo 5 Mini",
+      "codename": "Vivo_5_Mini",
+      "model": "Vivo 5 Mini"
     },
     {
       "market_name": "DASH L2",
@@ -95,6 +120,11 @@
       "market_name": "Dash X",
       "codename": "BLU_DASH_X",
       "model": "BLU DASH X"
+    },
+    {
+      "market_name": "Dash_L3",
+      "codename": "Dash_L3",
+      "model": "Dash L3"
     },
     {
       "market_name": "ENERGY  XL",
@@ -142,6 +172,16 @@
       "model": "BLU GRAND 5.5 HD"
     },
     {
+      "market_name": "Grand MAX",
+      "codename": "Grand_Max",
+      "model": "Grand Max"
+    },
+    {
+      "market_name": "Grand X",
+      "codename": "Grand_X",
+      "model": "Grand X"
+    },
+    {
       "market_name": "LIFE ONE X",
       "codename": "BLU_LIFE_ONE_X",
       "model": "BLU LIFE ONE X"
@@ -150,6 +190,11 @@
       "market_name": "LIFE ONE X2",
       "codename": "Life_One_X2",
       "model": "Life One X2"
+    },
+    {
+      "market_name": "LIFE ONE X2 MINI",
+      "codename": "Life_One_X2_Mini",
+      "model": "Life One X2 Mini"
     },
     {
       "market_name": "Life Mark",
@@ -215,6 +260,16 @@
       "market_name": "R1 HD",
       "codename": "R1_HD",
       "model": "R1 HD"
+    },
+    {
+      "market_name": "R1 PLUS",
+      "codename": "R1_PLUS",
+      "model": "R1 PLUS"
+    },
+    {
+      "market_name": "R1 Plus",
+      "codename": "R1_PLUS",
+      "model": "R1 PLUS"
     },
     {
       "market_name": "STUDIO 7.0 LTE",
@@ -360,6 +415,16 @@
       "market_name": "Studio XL 2",
       "codename": "Studio_XL_2",
       "model": "Studio XL 2"
+    },
+    {
+      "market_name": "Tank Xtreme 4.0",
+      "codename": "Tank_Xtreme_4_0",
+      "model": "Tank Xtreme 4.0"
+    },
+    {
+      "market_name": "Tank Xtreme 5.0",
+      "codename": "Tank_Xtreme_5_0",
+      "model": "Tank Xtreme 5.0"
     },
     {
       "market_name": "VIVO 5",

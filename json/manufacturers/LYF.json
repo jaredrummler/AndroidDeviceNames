@@ -22,6 +22,26 @@
       "model": "LS-4505"
     },
     {
+      "market_name": "LS-4508",
+      "codename": "C-451",
+      "model": "LS-4508"
+    },
+    {
+      "market_name": "LS-4510",
+      "codename": "LS-4510",
+      "model": "LS-4510"
+    },
+    {
+      "market_name": "LS-4511",
+      "codename": "LS-4511",
+      "model": "LS-4511"
+    },
+    {
+      "market_name": "LS-4512",
+      "codename": "LS-4512",
+      "model": "LS-4512"
+    },
+    {
       "market_name": "LS-5002",
       "codename": "LS-5002",
       "model": "LS-5002"
@@ -67,6 +87,11 @@
       "model": "LS-5021"
     },
     {
+      "market_name": "LS-5027",
+      "codename": "LS-5027",
+      "model": "LS-5027"
+    },
+    {
       "market_name": "LS-5201",
       "codename": "panda01a_msm8952_64",
       "model": "LS-5201"
@@ -77,6 +102,11 @@
       "model": "LS-5503"
     },
     {
+      "market_name": "LS-5504",
+      "codename": "zx55q05_64",
+      "model": "LS-5504"
+    },
+    {
       "market_name": "LS-6001",
       "codename": "LS-6001",
       "model": "LS-6001"
@@ -85,6 +115,16 @@
       "market_name": "LT-8001",
       "codename": "LT-8001",
       "model": "LT-8001"
+    },
+    {
+      "market_name": "LT-8001 IRIS",
+      "codename": "LT-8001-IRIS",
+      "model": "LT-8001 IRIS"
+    },
+    {
+      "market_name": "WATER F1",
+      "codename": "LS-5505",
+      "model": "LS-5505"
     }
   ]
 }

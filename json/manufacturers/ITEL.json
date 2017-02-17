@@ -2,6 +2,26 @@
   "manufacturer": "Itel",
   "devices": [
     {
+      "market_name": "P11",
+      "codename": "itel_P11",
+      "model": "itel P11"
+    },
+    {
+      "market_name": "S11",
+      "codename": "S11",
+      "model": "itel S11"
+    },
+    {
+      "market_name": "S11 Plus",
+      "codename": "S11Plus",
+      "model": "itel S11 Plus"
+    },
+    {
+      "market_name": "S31",
+      "codename": "S31",
+      "model": "itel S31"
+    },
+    {
       "market_name": "it1355",
       "codename": "itel_it1355",
       "model": "itel it1355"
@@ -25,6 +45,11 @@
       "market_name": "it1409",
       "codename": "itel_it1409",
       "model": "itel it1409"
+    },
+    {
+      "market_name": "it1460",
+      "codename": "itel-it1460-Pro",
+      "model": "itel it1460"
     },
     {
       "market_name": "it1505",
@@ -102,6 +127,21 @@
       "model": "itel it1702"
     },
     {
+      "market_name": "itel A21",
+      "codename": "itel_A21",
+      "model": "itel A21"
+    },
+    {
+      "market_name": "itel A41",
+      "codename": "itel_A41",
+      "model": "itel A41"
+    },
+    {
+      "market_name": "itel A51",
+      "codename": "itel_A51",
+      "model": "itel A51"
+    },
+    {
       "market_name": "itel it1355M",
       "codename": "itel_it1355M",
       "model": "itel it1355M"
@@ -110,6 +150,16 @@
       "market_name": "itel it1508",
       "codename": "itel_it1508C",
       "model": "itel it1508"
+    },
+    {
+      "market_name": "itel it1513",
+      "codename": "itel_it1513",
+      "model": "itel it1513"
+    },
+    {
+      "market_name": "itel it1518",
+      "codename": "itel_it1518",
+      "model": "itel it1518"
     },
     {
       "market_name": "itel it1655",

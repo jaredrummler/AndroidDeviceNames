@@ -19,18 +19,6 @@
   },
   {
     "manufacturer": "Positivo",
-    "market_name": "Ypy",
-    "codename": "YPY_L700",
-    "model": "Positivo BGH Ypy L700"
-  },
-  {
-    "manufacturer": "Positivo",
-    "market_name": "Ypy Kids",
-    "codename": "YPY_L700",
-    "model": "Positivo BGH Ypy L700 Kids"
-  },
-  {
-    "manufacturer": "Positivo",
     "market_name": "Ypy Kids",
     "codename": "YPY_L700",
     "model": "Positivo Ypy L700 Kids"
@@ -40,5 +28,17 @@
     "market_name": "Ypy Kids",
     "codename": "YPY_L700",
     "model": "Positivo Ypy L700+ Kids"
+  },
+  {
+    "manufacturer": "Positivo BGH",
+    "market_name": "Ypy",
+    "codename": "YPY_L700",
+    "model": "Positivo BGH Ypy L700"
+  },
+  {
+    "manufacturer": "Positivo BGH",
+    "market_name": "Ypy Kids",
+    "codename": "YPY_L700",
+    "model": "Positivo BGH Ypy L700 Kids"
   }
 ]

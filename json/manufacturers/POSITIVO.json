@@ -32,6 +32,11 @@
       "model": "Positivo BGH 7Di-A"
     },
     {
+      "market_name": "Positivo BGH Y100",
+      "codename": "Y700",
+      "model": "Positivo BGH Y100"
+    },
+    {
       "market_name": "Positivo BGH Y200",
       "codename": "T710",
       "model": "Positivo BGH Y200"
@@ -60,6 +65,16 @@
       "market_name": "Positivo BGH Y700",
       "codename": "Y700",
       "model": "Positivo BGH Y700"
+    },
+    {
+      "market_name": "Positivo BGH Y710 kids",
+      "codename": "Y700",
+      "model": "Positivo BGH Y710 KIDS"
+    },
+    {
+      "market_name": "Positivo Life",
+      "codename": "S421",
+      "model": "S421 Positivo Life"
     },
     {
       "market_name": "Positivo Mini",
@@ -165,6 +180,11 @@
       "market_name": "Positivo T715",
       "codename": "T715",
       "model": "Stilo T715"
+    },
+    {
+      "market_name": "Positivo T730",
+      "codename": "T730",
+      "model": "Positivo Stilo T730 Kids"
     },
     {
       "market_name": "Positivo T750",
@@ -357,34 +377,9 @@
       "model": "Positivo Mini I"
     },
     {
-      "market_name": "Quantum FLY",
-      "codename": "Q7",
-      "model": "Quantum Fly"
-    },
-    {
-      "market_name": "Quantum Go",
-      "codename": "Q1",
-      "model": "Quantum Go"
-    },
-    {
-      "market_name": "Quantum Go",
-      "codename": "Q2",
-      "model": "Quantum Go"
-    },
-    {
-      "market_name": "Quantum MUV PRO",
-      "codename": "Q5",
-      "model": "Quantum MUV PRO"
-    },
-    {
-      "market_name": "Quantum Muv",
-      "codename": "Q3",
-      "model": "MUV"
-    },
-    {
-      "market_name": "Quantum Muv",
-      "codename": "Q3",
-      "model": "Quantum MUV"
+      "market_name": "S430 Positivo Twist Mini",
+      "codename": "S430",
+      "model": "S430 Positivo Twist Mini"
     },
     {
       "market_name": "S440",
@@ -417,11 +412,6 @@
       "model": "L701 TV"
     },
     {
-      "market_name": "Ypy",
-      "codename": "YPY_L700",
-      "model": "Positivo BGH Ypy L700"
-    },
-    {
       "market_name": "Ypy AB10DP",
       "codename": "YPY_AB10DP",
       "model": "YPY_AB10DP"
@@ -435,11 +425,6 @@
       "market_name": "Ypy AB7K",
       "codename": "YPY_AB7K",
       "model": "YPY_AB7K"
-    },
-    {
-      "market_name": "Ypy Kids",
-      "codename": "YPY_L700",
-      "model": "Positivo BGH Ypy L700 Kids"
     },
     {
       "market_name": "Ypy Kids",

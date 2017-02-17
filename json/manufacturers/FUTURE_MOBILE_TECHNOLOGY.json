@@ -2,6 +2,11 @@
   "manufacturer": "Future Mobile Technology",
   "devices": [
     {
+      "market_name": "DRONE",
+      "codename": "FMT-NM7108-01",
+      "model": "FMT-NM7108-01"
+    },
+    {
       "market_name": "Dual 8",
       "codename": "FMT-NT8A42-01",
       "model": "FMT-NT8A42-01"
@@ -25,6 +30,11 @@
       "market_name": "Flash",
       "codename": "FMT-NM7058-02",
       "model": "FMT-NM7058-02"
+    },
+    {
+      "market_name": "Netsurfer STORM",
+      "codename": "16M4HI105024",
+      "model": "16M4HI105024"
     },
     {
       "market_name": "netsurferDUAL 7",

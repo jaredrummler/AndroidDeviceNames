@@ -1,8 +1,20 @@
 [
   {
     "manufacturer": "Positivo",
+    "market_name": "Positivo BGH Y100",
+    "codename": "Y700",
+    "model": "Positivo BGH Y100"
+  },
+  {
+    "manufacturer": "Positivo",
     "market_name": "Positivo BGH Y700",
     "codename": "Y700",
     "model": "Positivo BGH Y700"
+  },
+  {
+    "manufacturer": "Positivo",
+    "market_name": "Positivo BGH Y710 kids",
+    "codename": "Y700",
+    "model": "Positivo BGH Y710 KIDS"
   }
 ]

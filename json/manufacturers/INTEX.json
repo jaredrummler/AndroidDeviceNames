@@ -7,6 +7,11 @@
       "model": "INTEX AQUA 4.0 3G"
     },
     {
+      "market_name": "Aqua 5.5 VR",
+      "codename": "Aqua_5_5_VR",
+      "model": "Aqua 5.5 VR"
+    },
+    {
       "market_name": "Aqua Aura 2GB",
       "codename": "Aqua_Aura_2GB",
       "model": "Aqua Aura 2GB"
@@ -22,6 +27,31 @@
       "model": "Aqua Q8"
     },
     {
+      "market_name": "Cloud style 4G",
+      "codename": "Intex_Cloud_Style_4G",
+      "model": "Intex_Cloud_Style_4G"
+    },
+    {
+      "market_name": "Cloud_Q11_4G",
+      "codename": "Cloud_Q11_4G",
+      "model": "Cloud_Q11_4G"
+    },
+    {
+      "market_name": "INTEX AQUA AMAZE+",
+      "codename": "INTEX_AQUA_AMAZE_PLUS",
+      "model": "INTEX AQUA AMAZE+"
+    },
+    {
+      "market_name": "INTEX AQUA TREND LITE",
+      "codename": "INTEX_AQUA_TREND_LITE",
+      "model": "INTEX AQUA TREND LITE"
+    },
+    {
+      "market_name": "INTEX_AQUA_4.0_4G",
+      "codename": "INTEX_AQUA_4_4G",
+      "model": "INTEX_AQUA_4.0_4G"
+    },
+    {
       "market_name": "Intex Aqua Power 4G",
       "codename": "Intex_Aqua_Power_4G",
       "model": "Aqua Power 4G"
@@ -30,6 +60,11 @@
       "market_name": "Intex Aqua Pride",
       "codename": "AquaPride",
       "model": "Aqua Pride"
+    },
+    {
+      "market_name": "Intex Aqua Supreme+",
+      "codename": "Aqua_Supreme_Plus",
+      "model": "Intex Aqua Supreme+"
     },
     {
       "market_name": "Intex Aqua View",

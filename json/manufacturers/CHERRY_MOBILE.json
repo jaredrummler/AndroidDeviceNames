@@ -22,9 +22,24 @@
       "model": "FlareA1"
     },
     {
+      "market_name": "Flare J2S",
+      "codename": "Flare_J2S",
+      "model": "Flare J2S"
+    },
+    {
+      "market_name": "Flare J3",
+      "codename": "FlareJ3",
+      "model": "FlareJ3"
+    },
+    {
       "market_name": "Flare J3",
       "codename": "H680",
       "model": "Flare_J3"
+    },
+    {
+      "market_name": "Flare J3 Plus",
+      "codename": "FlareJ3Plus",
+      "model": "FlareJ3Plus"
     },
     {
       "market_name": "Flare J3 Plus",
@@ -37,9 +52,24 @@
       "model": "Flare J7"
     },
     {
+      "market_name": "Flare S5",
+      "codename": "Flare_S5",
+      "model": "Flare S5"
+    },
+    {
       "market_name": "Flare S5 Lite DTV",
       "codename": "FlareS5LiteDTV",
       "model": "FlareS5LiteDTV"
+    },
+    {
+      "market_name": "Flare S5 Max",
+      "codename": "FLARE_S5_MAX",
+      "model": "FLARE S5 MAX"
+    },
+    {
+      "market_name": "Flare S5 Plus",
+      "codename": "Flare_S5_Plus",
+      "model": "Flare S5 Plus"
     },
     {
       "market_name": "Flare X",
@@ -50,6 +80,11 @@
       "market_name": "H220",
       "codename": "ctih220_sprout",
       "model": "H220"
+    },
+    {
+      "market_name": "Iris",
+      "codename": "Iris",
+      "model": "iris"
     },
     {
       "market_name": "Omega HD 3S",

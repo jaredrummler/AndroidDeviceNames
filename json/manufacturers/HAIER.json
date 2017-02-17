@@ -37,6 +37,11 @@
       "model": "CDP7TAB4C8"
     },
     {
+      "market_name": "CDP8TAB16SD",
+      "codename": "CDP8TAB16SD",
+      "model": "CDP8TAB16SD"
+    },
+    {
       "market_name": "CEDTAB70616W8",
       "codename": "CEDTAB70616W8",
       "model": "CEDTAB70616W8"
@@ -102,6 +107,16 @@
       "model": "D2-961G"
     },
     {
+      "market_name": "Fast",
+      "codename": "HM-G551-FL",
+      "model": "Beeline Fast"
+    },
+    {
+      "market_name": "G21",
+      "codename": "HM-G303-W",
+      "model": "G21"
+    },
+    {
       "market_name": "G30",
       "codename": "G30",
       "model": "G30"
@@ -120,6 +135,11 @@
       "market_name": "G50",
       "codename": "HM-G551-FL",
       "model": "G50"
+    },
+    {
+      "market_name": "G55",
+      "codename": "G55",
+      "model": "G55"
     },
     {
       "market_name": "G700",
@@ -212,6 +232,11 @@
       "model": "Haier_AL40"
     },
     {
+      "market_name": "Haier T52P",
+      "codename": "T52P",
+      "model": "Haier T52P"
+    },
+    {
       "market_name": "HomeSurf742_AT7003",
       "codename": "HomeSurf742_AT7003",
       "model": "HomeSurf742_AT7003"
@@ -240,6 +265,11 @@
       "market_name": "Konnect_350",
       "codename": "Konnect_350",
       "model": "Konnect_350"
+    },
+    {
+      "market_name": "L11",
+      "codename": "HM-G152-FL",
+      "model": "HM-G152-FL"
     },
     {
       "market_name": "L50",
@@ -455,6 +485,11 @@
       "market_name": "V3",
       "codename": "V3",
       "model": "V3"
+    },
+    {
+      "market_name": "Voyage V6",
+      "codename": "HM-V6",
+      "model": "HM-V6"
     },
     {
       "market_name": "W717",

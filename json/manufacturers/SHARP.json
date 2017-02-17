@@ -377,6 +377,11 @@
       "model": "SHV33"
     },
     {
+      "market_name": "AQUOS SERIE mini SHV38",
+      "codename": "GTQ",
+      "model": "SHV38"
+    },
+    {
       "market_name": "AQUOS SH-M01",
       "codename": "SH-M01",
       "model": "SH-M01"
@@ -432,6 +437,11 @@
       "model": "503SH"
     },
     {
+      "market_name": "AQUOS Xx3 mini",
+      "codename": "SG603SH",
+      "model": "603SH"
+    },
+    {
       "market_name": "AQUOS ZETA SH-01G",
       "codename": "SH-01G",
       "model": "SH-01G"
@@ -465,6 +475,11 @@
       "market_name": "AQUOS \\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\xa4 SH-06G",
       "codename": "SH-06G",
       "model": "SH-06G"
+    },
+    {
+      "market_name": "Android One S1",
+      "codename": "kaleido_sprout",
+      "model": "S1"
     },
     {
       "market_name": "BASIO2 SHV36",
@@ -510,6 +525,11 @@
       "market_name": "Disney Mobile on docomo DM-01H",
       "codename": "DM-01H",
       "model": "DM-01H"
+    },
+    {
+      "market_name": "Disney Mobile on docomo DM-01J",
+      "codename": "DM-01J",
+      "model": "DM-01J"
     },
     {
       "market_name": "Disney Mobile on docomo SH-02G",
@@ -647,6 +667,11 @@
       "model": "LC-A1H"
     },
     {
+      "market_name": "LC-LE580T",
+      "codename": "lc_le580t",
+      "model": "LC-LE580T"
+    },
+    {
       "market_name": "LC-LE580X",
       "codename": "lc_le580x",
       "model": "LC-LE580X"
@@ -677,9 +702,19 @@
       "model": "LC-XU930X_830X"
     },
     {
+      "market_name": "LC-xxCAE5H",
+      "codename": "lc_xxcae5h",
+      "model": "LC-xxCAE5H"
+    },
+    {
       "market_name": "LC-xxUE630X",
       "codename": "lc_ue630x",
       "model": "LC-UE630X"
+    },
+    {
+      "market_name": "LCD-45FOC46A",
+      "codename": "Lcd_45foc46a",
+      "model": "LCD_45FOC46A"
     },
     {
       "market_name": "LCD-LX460A",
@@ -730,6 +765,11 @@
       "market_name": "LCD-xxCAE5A",
       "codename": "lcd_xxcae5a",
       "model": "LCD-xxCAE5A"
+    },
+    {
+      "market_name": "LCD-xxCAE5A-C",
+      "codename": "lcd_xxcae5a_c",
+      "model": "LCD-xxCAE5A-C"
     },
     {
       "market_name": "LCD-xxFOC36A",
@@ -885,6 +925,11 @@
       "market_name": "Yahoo! Phone SoftBank 009SH Y",
       "codename": "SBM009SHY",
       "model": "SBM009SHY"
+    },
+    {
+      "market_name": "lcd_xxbel7a_c",
+      "codename": "lcd_xxbel7a_c",
+      "model": "LCD-xxBEL7A-C"
     },
     {
       "market_name": "\\xe3\\x82\\xb7\\xe3\\x83\\xb3\\xe3\\x83\\x97\\xe3\\x83\\xab\\xe3\\x82\\xb9\\xe3\\x83\\x9e\\xe3\\x83\\x9b\\xef\\xbc\\x93",

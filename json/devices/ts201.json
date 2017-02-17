@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "CCC",
+    "market_name": "AirStick",
+    "codename": "ts201",
+    "model": "AirStick"
+  },
+  {
+    "manufacturer": "CCC",
     "market_name": "LifeStick",
     "codename": "ts201",
     "model": "LifeStick"

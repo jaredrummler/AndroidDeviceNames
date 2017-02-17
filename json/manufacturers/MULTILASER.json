@@ -12,6 +12,11 @@
       "model": "ML01-M7S-Quad-Core"
     },
     {
+      "market_name": "MS40s",
+      "codename": "MS40S",
+      "model": "MS40S"
+    },
+    {
       "market_name": "MS45",
       "codename": "MS45",
       "model": "MS45"
@@ -60,6 +65,36 @@
       "market_name": "Ms6",
       "codename": "MS6",
       "model": "MS6"
+    },
+    {
+      "market_name": "Multilaser M10A",
+      "codename": "M10A",
+      "model": "M10A"
+    },
+    {
+      "market_name": "Multilaser M7I-3G",
+      "codename": "M7I-3G",
+      "model": "M7I-3G"
+    },
+    {
+      "market_name": "Multilaser M9-3G",
+      "codename": "M9-3G",
+      "model": "M9-3G"
+    },
+    {
+      "market_name": "Multilaser M9-3G-2",
+      "codename": "M9-3G_2",
+      "model": "M9-3G_2"
+    },
+    {
+      "market_name": "Multilaser MS45S",
+      "codename": "MS45S_A6",
+      "model": "MS45S_A6"
+    },
+    {
+      "market_name": "multilaser MS50S",
+      "codename": "MS50S",
+      "model": "MS50S"
     }
   ]
 }

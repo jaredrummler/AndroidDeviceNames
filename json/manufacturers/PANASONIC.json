@@ -37,6 +37,11 @@
       "model": "102P"
     },
     {
+      "market_name": "43DX400C",
+      "codename": "DX01C",
+      "model": "DX01C"
+    },
+    {
       "market_name": "48AX600C",
       "codename": "mst918_4G",
       "model": "48AX600C"
@@ -95,6 +100,11 @@
       "market_name": "ELUGA P",
       "codename": "P-03E",
       "model": "P-03E"
+    },
+    {
+      "market_name": "ELUGA PURE",
+      "codename": "ELUGA_Pure",
+      "model": "Panasonic_ELUGA_Pure"
     },
     {
       "market_name": "ELUGA Power",
@@ -217,9 +227,24 @@
       "model": "Eluga_Mark_2"
     },
     {
+      "market_name": "Eluga Pulse",
+      "codename": "ELUGA_Pulse",
+      "model": "ELUGA_Pulse"
+    },
+    {
+      "market_name": "Eluga Pulse X",
+      "codename": "ELUGA_Pulse_X",
+      "model": "ELUGA_Pulse_X"
+    },
+    {
       "market_name": "Eluga Ray",
       "codename": "ELUGA_Ray",
       "model": "ELUGA Ray"
+    },
+    {
+      "market_name": "Eluga Ray Max",
+      "codename": "ELUGA_Ray_Max",
+      "model": "ELUGA Ray Max"
     },
     {
       "market_name": "Eluga Ray X",
@@ -268,6 +293,11 @@
     },
     {
       "market_name": "FZ-N1",
+      "codename": "FZ-N1CL",
+      "model": "FZ-N1"
+    },
+    {
+      "market_name": "FZ-N1",
       "codename": "FZ-N1F",
       "model": "FZ-N1"
     },
@@ -284,6 +314,11 @@
     {
       "market_name": "FZ-N1",
       "codename": "FZ-N1VUCCL",
+      "model": "FZ-N1"
+    },
+    {
+      "market_name": "FZ-N1",
+      "codename": "FZ-N1VUCF",
       "model": "FZ-N1"
     },
     {

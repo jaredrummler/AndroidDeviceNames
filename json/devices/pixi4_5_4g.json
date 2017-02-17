@@ -21,6 +21,12 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "ALCATEL PIXI 4 (5)",
     "codename": "PIXI4_5_4G",
+    "model": "5041D"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "ALCATEL PIXI 4 (5)",
+    "codename": "PIXI4_5_4G",
     "model": "5045A"
   },
   {
@@ -76,5 +82,11 @@
     "market_name": "ALCATEL PIXI 4 (5)",
     "codename": "PIXI4_5_4G",
     "model": "DIGICELDL1"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel_5045A",
+    "codename": "PIXI4_5_4G",
+    "model": "Alcatel_5045A"
   }
 ]

@@ -130,6 +130,21 @@
       "market_name": "Ruby",
       "codename": "ForwardRuby",
       "model": "ForwardRuby"
+    },
+    {
+      "market_name": "Smart5",
+      "codename": "Smart5",
+      "model": "Smart5"
+    },
+    {
+      "market_name": "Smart5.5",
+      "codename": "Smart55",
+      "model": "Smart5.5"
+    },
+    {
+      "market_name": "Smart5.5Plus",
+      "codename": "Smart55Plus",
+      "model": "Smart5.5Plus32GB"
     }
   ]
 }

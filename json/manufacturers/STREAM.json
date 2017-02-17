@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Stream",
+  "devices": [
+    {
+      "market_name": "B1",
+      "codename": "B1",
+      "model": "B1"
+    },
+    {
+      "market_name": "B2s",
+      "codename": "B2s",
+      "model": "B2s"
+    },
+    {
+      "market_name": "FIXION",
+      "codename": "HS8937QC",
+      "model": "FIXION"
+    },
+    {
+      "market_name": "Iron Pro",
+      "codename": "IRON_Pro",
+      "model": "IRON Pro"
+    },
+    {
+      "market_name": "PERLA",
+      "codename": "PERLA",
+      "model": "PERLA"
+    }
+  ]
+}

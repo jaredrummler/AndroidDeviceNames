@@ -32,6 +32,11 @@
       "model": "QM151E"
     },
     {
+      "market_name": "4K Razor Slim OLED TV powered by Android TV",
+      "codename": "QM16XE_UB",
+      "model": "QM161E"
+    },
+    {
       "market_name": "4K UHD Razor Slim LED TV powered by Android\\xe2\\x84\\xa2",
       "codename": "QV151E",
       "model": "QV151E"
@@ -212,6 +217,11 @@
       "model": "Philips V387"
     },
     {
+      "market_name": "Philips V526",
+      "codename": "Philips_V526",
+      "model": "Philips V526"
+    },
+    {
       "market_name": "Philips W8510",
       "codename": "Topaz",
       "model": "Philips W8510"
@@ -222,9 +232,29 @@
       "model": "Philips_X586"
     },
     {
+      "market_name": "Philips X586",
+      "codename": "Philips_X586_NEW",
+      "model": "Philips_X586"
+    },
+    {
+      "market_name": "Philips X588",
+      "codename": "X588_RU",
+      "model": "Philips X588"
+    },
+    {
+      "market_name": "Philips X818",
+      "codename": "X818_EE",
+      "model": "Philips X818"
+    },
+    {
       "market_name": "Philips X818",
       "codename": "X818_RU",
       "model": "Philips X818"
+    },
+    {
+      "market_name": "Philips Xenium S386",
+      "codename": "S386",
+      "model": "Philips S386"
     },
     {
       "market_name": "Philips Xenium V377",

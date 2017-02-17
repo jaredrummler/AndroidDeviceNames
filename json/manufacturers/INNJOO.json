@@ -2,6 +2,16 @@
   "manufacturer": "Innjoo",
   "devices": [
     {
+      "market_name": "Halo2 LTE",
+      "codename": "Halo2_LTE",
+      "model": "Halo2 LTE"
+    },
+    {
+      "market_name": "InnJoo 3",
+      "codename": "InnJoo_3",
+      "model": "InnJoo_3"
+    },
+    {
       "market_name": "Max3 LTE",
       "codename": "Max3_LTE",
       "model": "Max3_LTE"

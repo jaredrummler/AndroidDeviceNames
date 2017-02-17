@@ -82,6 +82,11 @@
       "model": "JERRY"
     },
     {
+      "market_name": "JERRY MAX",
+      "codename": "V3610AN",
+      "model": "JERRY MAX"
+    },
+    {
       "market_name": "JIMMY",
       "codename": "s4300ae",
       "model": "JIMMY"
@@ -288,8 +293,18 @@
     },
     {
       "market_name": "SUNNY",
+      "codename": "V2508AN01D",
+      "model": "SUNNY"
+    },
+    {
+      "market_name": "SUNNY",
       "codename": "v2508",
       "model": "SUNNY"
+    },
+    {
+      "market_name": "SUNNY MAX",
+      "codename": "v2520",
+      "model": "SUNNY MAX"
     },
     {
       "market_name": "SUNSET",
@@ -304,6 +319,11 @@
     {
       "market_name": "TOMMY",
       "codename": "P4901AC",
+      "model": "TOMMY"
+    },
+    {
+      "market_name": "TOMMY",
+      "codename": "P4903LA",
       "model": "TOMMY"
     },
     {
@@ -344,6 +364,11 @@
     {
       "market_name": "U FEEL LITE",
       "codename": "P4601AN",
+      "model": "U FEEL LITE"
+    },
+    {
+      "market_name": "U FEEL LITE",
+      "codename": "T4601AN",
       "model": "U FEEL LITE"
     },
     {

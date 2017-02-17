@@ -2,6 +2,11 @@
   "manufacturer": "Condor",
   "devices": [
     {
+      "market_name": "Allure A55 Plus",
+      "codename": "PGN613",
+      "model": "PGN613"
+    },
+    {
       "market_name": "C1+",
       "codename": "C1Plus",
       "model": "C1+"
@@ -50,6 +55,11 @@
       "market_name": "Condor TGW801L",
       "codename": "TGW801L",
       "model": "TGW801L"
+    },
+    {
+      "market_name": "G6 Pro",
+      "codename": "PHQ526",
+      "model": "PHQ526"
     },
     {
       "market_name": "Griffe G5",
@@ -187,6 +197,16 @@
       "model": "PGN612"
     },
     {
+      "market_name": "PHQ525",
+      "codename": "PHQ525",
+      "model": "PHQ525"
+    },
+    {
+      "market_name": "Plume P4 Plus",
+      "codename": "PGN527",
+      "model": "PGN527"
+    },
+    {
       "market_name": "Plume P6 Pro LTE",
       "codename": "PGN528",
       "model": "PGN528"
@@ -210,6 +230,11 @@
       "market_name": "TFX714L",
       "codename": "TFX714L",
       "model": "TFX714L"
+    },
+    {
+      "market_name": "TMK715L",
+      "codename": "TMK715L",
+      "model": "TMK715L"
     }
   ]
 }

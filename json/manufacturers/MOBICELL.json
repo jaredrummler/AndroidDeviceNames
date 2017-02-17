@@ -2,6 +2,11 @@
   "manufacturer": "Mobicell",
   "devices": [
     {
+      "market_name": "4U",
+      "codename": "4U",
+      "model": "4U"
+    },
+    {
       "market_name": "Air",
       "codename": "Mobicel_Air",
       "model": "Air"
@@ -120,6 +125,16 @@
       "market_name": "Trendy",
       "codename": "TRENDY",
       "model": "TRENDY"
+    },
+    {
+      "market_name": "U2",
+      "codename": "U2",
+      "model": "U2"
+    },
+    {
+      "market_name": "ZOOM",
+      "codename": "ZOOM",
+      "model": "ZOOM"
     }
   ]
 }

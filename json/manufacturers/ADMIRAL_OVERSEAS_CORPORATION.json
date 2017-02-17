@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Admiral Overseas Corporation",
+  "devices": [
+    {
+      "market_name": "A7",
+      "codename": "A7",
+      "model": "A7"
+    },
+    {
+      "market_name": "C7",
+      "codename": "C7",
+      "model": "C7"
+    },
+    {
+      "market_name": "O7",
+      "codename": "O7",
+      "model": "O7"
+    }
+  ]
+}

@@ -502,6 +502,11 @@
       "model": "K1"
     },
     {
+      "market_name": "\\t Lenovo YOGA Laptop with Android",
+      "codename": "YOGABOOK12",
+      "model": "Lenovo YB-Q501F"
+    },
+    {
       "market_name": "32A3   40A3   43A3   49A3",
       "codename": "uzi",
       "model": "LenovoTV 32A3"
@@ -1807,6 +1812,11 @@
       "model": "Lenovo PB2-650Y"
     },
     {
+      "market_name": "Lenovo PHAB 2",
+      "codename": "PB2",
+      "model": "Lenovo PB2-650N"
+    },
+    {
       "market_name": "Lenovo PHAB 2 Plus",
       "codename": "PB2-670N",
       "model": "Lenovo PB2-670N"
@@ -2159,6 +2169,11 @@
     {
       "market_name": "Lenovo TB2-X30F",
       "codename": "TB2-X30F",
+      "model": "Lenovo TB2-X30F_HFT"
+    },
+    {
+      "market_name": "Lenovo TB2-X30F",
+      "codename": "TB2-X30F",
       "model": "Lenovo TB2-X30F_JLC"
     },
     {
@@ -2250,6 +2265,11 @@
       "market_name": "Lenovo VIBE K6",
       "codename": "K33b37",
       "model": "Lenovo K33b37"
+    },
+    {
+      "market_name": "Lenovo VIBE K6 Note",
+      "codename": "K53b36",
+      "model": "Lenovo K53b36"
     },
     {
       "market_name": "Lenovo VIBE K6 Note",
@@ -2345,6 +2365,16 @@
       "market_name": "Lenovo YOGA BOOK",
       "codename": "yeti",
       "model": "Lenovo YB1-X90L"
+    },
+    {
+      "market_name": "Lenovo YOGA Laptop with Android",
+      "codename": "YOGABOOK12",
+      "model": "Lenovo YB-Q501F"
+    },
+    {
+      "market_name": "Lenovo YOGA Laptop with Android",
+      "codename": "YOGABOOK12",
+      "model": "Lenovo YB-Q501L"
     },
     {
       "market_name": "Lenovo YOGA Tablet Pro-1050L/Yoga Tablet 2",
@@ -2570,6 +2600,11 @@
       "market_name": "NEC PC-TS508FAM",
       "codename": "PC-TS508FAM",
       "model": "NEC PC-TS508FAM"
+    },
+    {
+      "market_name": "NEC PC-TS508FAM",
+      "codename": "PC-TS508FAM",
+      "model": "PC-TS508FAM"
     },
     {
       "market_name": "P780",

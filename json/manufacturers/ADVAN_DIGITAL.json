@@ -1,0 +1,70 @@
+{
+  "manufacturer": "Advan digital",
+  "devices": [
+    {
+      "market_name": "5059",
+      "codename": "ADVAN_5059",
+      "model": "5059"
+    },
+    {
+      "market_name": "E1C",
+      "codename": "ADVAN_E1C_3G",
+      "model": "E1C_3G"
+    },
+    {
+      "market_name": "I55A",
+      "codename": "I55A",
+      "model": "I55A"
+    },
+    {
+      "market_name": "I5E",
+      "codename": "ADVAN_I5E",
+      "model": "I5E"
+    },
+    {
+      "market_name": "I7D",
+      "codename": "ADVAN_I7D",
+      "model": "I7D"
+    },
+    {
+      "market_name": "S45E",
+      "codename": "ADVAN_S45E",
+      "model": "S45E"
+    },
+    {
+      "market_name": "S4Z",
+      "codename": "ADVAN_S4Z",
+      "model": "S4Z"
+    },
+    {
+      "market_name": "S5E_NXT",
+      "codename": "ADVAN_S5E_NXT",
+      "model": "S5E_NXT"
+    },
+    {
+      "market_name": "S7C",
+      "codename": "ADVAN_S7C",
+      "model": "S7C"
+    },
+    {
+      "market_name": "T2J",
+      "codename": "T2J",
+      "model": "T2J"
+    },
+    {
+      "market_name": "T2K",
+      "codename": "T2K",
+      "model": "T2K"
+    },
+    {
+      "market_name": "X7 Pro",
+      "codename": "ADVAN_7008",
+      "model": "7008"
+    },
+    {
+      "market_name": "i7A",
+      "codename": "ADVAN_i7A",
+      "model": "i7A"
+    }
+  ]
+}

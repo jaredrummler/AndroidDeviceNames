@@ -25,6 +25,21 @@
       "market_name": "PeopleNet ConnectedTablet",
       "codename": "MS5",
       "model": "MS5"
+    },
+    {
+      "market_name": "TDC500 Handheld",
+      "codename": "workhorse",
+      "model": "TDC500"
+    },
+    {
+      "market_name": "TDI 600",
+      "codename": "ulmo_pro",
+      "model": "TDI 600"
+    },
+    {
+      "market_name": "Trimble ConnectedTablet",
+      "codename": "MS5",
+      "model": "MS5"
     }
   ]
 }

@@ -22,9 +22,19 @@
       "model": "Fantasy"
     },
     {
+      "market_name": "JAZZ",
+      "codename": "Jazz",
+      "model": "Jazz"
+    },
+    {
       "market_name": "Summit",
       "codename": "Cell_C",
       "model": "Summit"
+    },
+    {
+      "market_name": "WIZ",
+      "codename": "Wiz",
+      "model": "Wiz"
     },
     {
       "market_name": "deluxe",

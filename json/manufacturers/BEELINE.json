@@ -2,6 +2,11 @@
   "manufacturer": "Beeline",
   "devices": [
     {
+      "market_name": "Beeline Fast HD",
+      "codename": "Beeline_Fast_HD",
+      "model": "Beeline Fast HD"
+    },
+    {
       "market_name": "Beeline Pro 2",
       "codename": "Beeline_Pro_2",
       "model": "Beeline Pro 2"
@@ -30,6 +35,11 @@
       "market_name": "Beeline_Smart_8",
       "codename": "Beeline_Smart_8",
       "model": "A221"
+    },
+    {
+      "market_name": "Beeline_Smart_8",
+      "codename": "Beeline_Smart_8",
+      "model": "A239"
     },
     {
       "market_name": "Beeline_Tab IS",

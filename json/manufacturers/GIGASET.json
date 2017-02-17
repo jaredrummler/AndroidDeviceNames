@@ -2,6 +2,11 @@
   "manufacturer": "Gigaset",
   "devices": [
     {
+      "market_name": "Gigaset GS160",
+      "codename": "GS160",
+      "model": "Gigaset GS160"
+    },
+    {
       "market_name": "Gigaset ME",
       "codename": "ME",
       "model": "GS55-6"

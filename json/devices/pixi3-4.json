@@ -31,6 +31,12 @@
   },
   {
     "manufacturer": "TCT (Alcatel)",
+    "market_name": "4114E",
+    "codename": "Pixi3-4",
+    "model": "4114E"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
     "market_name": "PIXI3(4)",
     "codename": "Pixi3-4",
     "model": "4003A"
@@ -76,6 +82,12 @@
     "market_name": "PIXI3(4)",
     "codename": "Pixi3-4",
     "model": "4014E"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "PIXI3(4)",
+    "codename": "Pixi3-4",
+    "model": "ONE_TOUCH_PIXI3"
   },
   {
     "manufacturer": "TCT (Alcatel)",

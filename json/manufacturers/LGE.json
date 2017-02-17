@@ -657,6 +657,11 @@
       "model": "LG Google TV G3"
     },
     {
+      "market_name": "B6",
+      "codename": "b6",
+      "model": "LGT02"
+    },
+    {
       "market_name": "DM-01G",
       "codename": "DM-01G",
       "model": "DM-01G"
@@ -757,6 +762,16 @@
       "model": "VS810PP"
     },
     {
+      "market_name": "G PAD\\xe2\\x85\\xa2 10.1",
+      "codename": "th10",
+      "model": "LG-X760"
+    },
+    {
+      "market_name": "G PAD\\xe2\\x85\\xa2 10.1",
+      "codename": "th10",
+      "model": "LG-X760W"
+    },
+    {
       "market_name": "G Pad 10.1",
       "codename": "e9wifi",
       "model": "LG-V700"
@@ -840,6 +855,11 @@
       "market_name": "G Pad II 8.0",
       "codename": "t8wifi",
       "model": "LG-V498S2"
+    },
+    {
+      "market_name": "G Pad III 8.0 Homeboy",
+      "codename": "b6",
+      "model": "LG-P451L"
     },
     {
       "market_name": "G Pad \\xe2\\x85\\xa1 10.1",
@@ -1152,6 +1172,16 @@
       "model": "LG-K420PR"
     },
     {
+      "market_name": "K4 (2017)",
+      "codename": "lv1",
+      "model": "LGL57BL"
+    },
+    {
+      "market_name": "K4 (2017)",
+      "codename": "lv1",
+      "model": "LGL58VL"
+    },
+    {
       "market_name": "L Bello",
       "codename": "luv80ds",
       "model": "LG-D335"
@@ -1450,6 +1480,11 @@
       "market_name": "LG AKA",
       "codename": "aka",
       "model": "LG-H788n"
+    },
+    {
+      "market_name": "LG Aristo",
+      "codename": "lv3",
+      "model": "LGMS210"
     },
     {
       "market_name": "LG Bello II",
@@ -1790,6 +1825,16 @@
       "market_name": "LG G Pad III 8.0 FHD",
       "codename": "b3",
       "model": "LG-V525"
+    },
+    {
+      "market_name": "LG G Pad III 8.0 FHD",
+      "codename": "b3",
+      "model": "LG-V525S1"
+    },
+    {
+      "market_name": "LG G Pad III 8.0 FHD",
+      "codename": "b3",
+      "model": "LG-V525S3"
     },
     {
       "market_name": "LG G Pad X 8.0",
@@ -2352,6 +2397,11 @@
       "model": "LG-K410"
     },
     {
+      "market_name": "LG K10 (2017)",
+      "codename": "mlv5",
+      "model": "LG-M250"
+    },
+    {
       "market_name": "LG K10 LTE",
       "codename": "m253",
       "model": "LG-K430"
@@ -2392,6 +2442,11 @@
       "model": "VS425"
     },
     {
+      "market_name": "LG K4",
+      "codename": "lv1",
+      "model": "LG-M160"
+    },
+    {
       "market_name": "LG K4 LTE",
       "codename": "me1",
       "model": "LG-K120"
@@ -2400,6 +2455,11 @@
       "market_name": "LG K4 LTE",
       "codename": "me1ds",
       "model": "LG-K130"
+    },
+    {
+      "market_name": "LG K4/K7 (2017)",
+      "codename": "mlv1",
+      "model": "LG-X230"
     },
     {
       "market_name": "LG K5",
@@ -2428,6 +2488,11 @@
     },
     {
       "market_name": "LG K8",
+      "codename": "lv3",
+      "model": "LG-M210"
+    },
+    {
+      "market_name": "LG K8",
       "codename": "m1v",
       "model": "LGAS375"
     },
@@ -2445,6 +2510,16 @@
       "market_name": "LG K8",
       "codename": "mm1v",
       "model": "LG-K350"
+    },
+    {
+      "market_name": "LG K8 (2017)",
+      "codename": "lv3",
+      "model": "LGUS215"
+    },
+    {
+      "market_name": "LG K8 (2017)",
+      "codename": "lv3n",
+      "model": "LG-M200"
     },
     {
       "market_name": "LG K8 LTE",
@@ -3467,6 +3542,11 @@
       "model": "LG-K557"
     },
     {
+      "market_name": "LG Stylo 2 Plus",
+      "codename": "ph2n",
+      "model": "LGMS550"
+    },
+    {
       "market_name": "LG Stylus 2",
       "codename": "ph1",
       "model": "LG-F720K"
@@ -3510,11 +3590,6 @@
       "market_name": "LG Stylus2 Plus",
       "codename": "ph2n",
       "model": "LG-K535n"
-    },
-    {
-      "market_name": "LG Stylus2 Plus",
-      "codename": "ph2n",
-      "model": "LGMS550"
     },
     {
       "market_name": "LG Thrill 4G",
@@ -3595,6 +3670,16 @@
       "market_name": "LG Volt S",
       "codename": "c90",
       "model": "LG-F640S"
+    },
+    {
+      "market_name": "LG Watch Sport",
+      "codename": "swordfish",
+      "model": "LG Watch Sport"
+    },
+    {
+      "market_name": "LG Watch Style",
+      "codename": "angelfish",
+      "model": "LG Watch Style"
     },
     {
       "market_name": "LG Watch Urbane",
@@ -3750,6 +3835,21 @@
       "market_name": "LG X screen",
       "codename": "k5n",
       "model": "LG-K500n"
+    },
+    {
+      "market_name": "LG X300",
+      "codename": "lv3n",
+      "model": "LGM-K120K"
+    },
+    {
+      "market_name": "LG X300",
+      "codename": "lv3n",
+      "model": "LGM-K120L"
+    },
+    {
+      "market_name": "LG X300",
+      "codename": "lv3n",
+      "model": "LGM-K120S"
     },
     {
       "market_name": "LG X5",
@@ -5010,6 +5110,11 @@
       "market_name": "V20",
       "codename": "elsa",
       "model": "VS995"
+    },
+    {
+      "market_name": "V20 PRO",
+      "codename": "L-01J",
+      "model": "L-01J"
     },
     {
       "market_name": "VU3",

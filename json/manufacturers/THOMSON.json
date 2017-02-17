@@ -2,6 +2,11 @@
   "manufacturer": "Thomson",
   "devices": [
     {
+      "market_name": "TCL  Percee TV",
+      "codename": "tcl_eu",
+      "model": "Percee TV"
+    },
+    {
       "market_name": "THOMSON PRIMO7 Tablet",
       "codename": "PRIMO7",
       "model": "PRIMO7"

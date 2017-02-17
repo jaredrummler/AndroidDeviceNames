@@ -1,0 +1,40 @@
+{
+  "manufacturer": "Quantum",
+  "devices": [
+    {
+      "market_name": "QSPT-1952",
+      "codename": "QF3A",
+      "model": "QT-195W-aa2"
+    },
+    {
+      "market_name": "Quantum FLY",
+      "codename": "Q7",
+      "model": "Quantum Fly"
+    },
+    {
+      "market_name": "Quantum Go",
+      "codename": "Q1",
+      "model": "Quantum Go"
+    },
+    {
+      "market_name": "Quantum Go",
+      "codename": "Q2",
+      "model": "Quantum Go"
+    },
+    {
+      "market_name": "Quantum MUV PRO",
+      "codename": "Q5",
+      "model": "Quantum MUV PRO"
+    },
+    {
+      "market_name": "Quantum Muv",
+      "codename": "Q3",
+      "model": "MUV"
+    },
+    {
+      "market_name": "Quantum Muv",
+      "codename": "Q3",
+      "model": "Quantum MUV"
+    }
+  ]
+}

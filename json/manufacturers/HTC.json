@@ -167,6 +167,11 @@
       "model": "HTC 2PST2"
     },
     {
+      "market_name": "Desire 530",
+      "codename": "htc_a16ul",
+      "model": "HTC Desire 530"
+    },
+    {
       "market_name": "Desire 620 dual sim",
       "codename": "htc_a31dtul",
       "model": "HTC_D620u"
@@ -200,21 +205,6 @@
       "market_name": "Desire 820",
       "codename": "htc_a51ul",
       "model": "HTC Desire 820"
-    },
-    {
-      "market_name": "Desire 825",
-      "codename": "htc_a56uhl",
-      "model": "HTC 2PUK2"
-    },
-    {
-      "market_name": "Desire 825",
-      "codename": "htc_a56uhl",
-      "model": "HTC Desire 825"
-    },
-    {
-      "market_name": "Desire 825 Dual Sim",
-      "codename": "htc_a56dugl",
-      "model": "HTC Desire 825 dual sim"
     },
     {
       "market_name": "Desire 826",
@@ -458,6 +448,11 @@
     },
     {
       "market_name": "HTC 10",
+      "codename": "htc_pmeuhljapan",
+      "model": "HTV32"
+    },
+    {
+      "market_name": "HTC 10",
       "codename": "htc_pmewhl",
       "model": "2PS64"
     },
@@ -647,6 +642,11 @@
       "model": "HTC_D10i"
     },
     {
+      "market_name": "HTC D10w",
+      "codename": "htc_a56dj_pro_dtwl",
+      "model": "HTC D10w"
+    },
+    {
       "market_name": "HTC D316d",
       "codename": "htc_v2_c",
       "model": "HTC D316d"
@@ -768,7 +768,22 @@
     },
     {
       "market_name": "HTC Desire 10 pro",
+      "codename": "htc_a56dj_pro_dtwl",
+      "model": "HTC Desire 10 pro"
+    },
+    {
+      "market_name": "HTC Desire 10 pro",
       "codename": "htc_a56dj_pro_dugl",
+      "model": "HTC Desire 10 pro"
+    },
+    {
+      "market_name": "HTC Desire 10 pro",
+      "codename": "htc_a56dj_pro_uhl",
+      "model": "HTC 2PYA3"
+    },
+    {
+      "market_name": "HTC Desire 10 pro",
+      "codename": "htc_a56dj_pro_uhl",
       "model": "HTC Desire 10 pro"
     },
     {
@@ -1259,6 +1274,11 @@
     {
       "market_name": "HTC Desire 650",
       "codename": "htc_a17uhl",
+      "model": "HTC Desire 650"
+    },
+    {
+      "market_name": "HTC Desire 650",
+      "codename": "htc_a17uhl",
       "model": "HTC_D650h"
     },
     {
@@ -1410,6 +1430,11 @@
       "market_name": "HTC Desire 820s dual sim",
       "codename": "htc_a50ml",
       "model": "HTC Desire 820s dual sim"
+    },
+    {
+      "market_name": "HTC Desire 825",
+      "codename": "htc_a56uhl",
+      "model": "HTC 2PUK2"
     },
     {
       "market_name": "HTC Desire 825",
@@ -2407,6 +2432,31 @@
       "model": "HTC One X+"
     },
     {
+      "market_name": "HTC One X10",
+      "codename": "htc_e66_dtwl",
+      "model": "HTC 2PXH1"
+    },
+    {
+      "market_name": "HTC One X10",
+      "codename": "htc_e66_dtwl",
+      "model": "HTC One X10"
+    },
+    {
+      "market_name": "HTC One X10",
+      "codename": "htc_e66_dugl",
+      "model": "HTC 2PXH2"
+    },
+    {
+      "market_name": "HTC One X10",
+      "codename": "htc_e66_dugl",
+      "model": "HTC One X10"
+    },
+    {
+      "market_name": "HTC One X10",
+      "codename": "htc_e66_dugl",
+      "model": "HTC_X10u"
+    },
+    {
       "market_name": "HTC One X9",
       "codename": "htc_e56ml_tuhl",
       "model": "HTC 2PS5200"
@@ -2570,6 +2620,21 @@
       "market_name": "HTC T528w",
       "codename": "cp2dug",
       "model": "HTC Desire L dual sim"
+    },
+    {
+      "market_name": "HTC U Play",
+      "codename": "htc_alpine_uhl",
+      "model": "HTC 2PZM3"
+    },
+    {
+      "market_name": "HTC U Play",
+      "codename": "htc_alpine_uhl",
+      "model": "HTC U Play"
+    },
+    {
+      "market_name": "HTC U Play",
+      "codename": "htc_e36_ml_uhl",
+      "model": "HTC 2PWD1"
     },
     {
       "market_name": "HTC Velocity 4G",
@@ -2807,6 +2872,16 @@
       "model": "HTC_M9px"
     },
     {
+      "market_name": "HTC_U-2u",
+      "codename": "htc_alpine_dugl",
+      "model": "HTC_U-2u"
+    },
+    {
+      "market_name": "HTC_X10u",
+      "codename": "htc_e66_uhl",
+      "model": "HTC 2PXH3"
+    },
+    {
       "market_name": "HTL23",
       "codename": "htc_b2wlj",
       "model": "HTL23"
@@ -2815,11 +2890,6 @@
       "market_name": "HTV31",
       "codename": "htc_b3uhl",
       "model": "HTV31"
-    },
-    {
-      "market_name": "HTV32",
-      "codename": "htc_pmeuhljapan",
-      "model": "HTV32"
     },
     {
       "market_name": "Hero",

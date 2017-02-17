@@ -2,6 +2,11 @@
   "manufacturer": "E-Boda",
   "devices": [
     {
+      "market_name": "Eclipse G400M",
+      "codename": "Eclipse_G400M",
+      "model": "Eclipse_G400M"
+    },
+    {
       "market_name": "Eclipse G500M",
       "codename": "Eclipse_G500M",
       "model": "Eclipse_G500M"

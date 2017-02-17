@@ -2678,6 +2678,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy Grand Prime",
+    "codename": "fortunave3g",
+    "model": "SM-G530H"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Grand Prime",
     "codename": "gprimelteacg",
     "model": "SM-G530R7"
   },
@@ -3650,6 +3656,18 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy Note7",
+    "codename": "SC-01J",
+    "model": "SC-01J"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "SCV34",
+    "model": "SCV34"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
     "codename": "gracelte",
     "model": "SM-N930F"
   },
@@ -3704,6 +3722,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy Note7",
+    "codename": "graceqltedcm",
+    "model": "SGH-N037"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
     "codename": "graceqltelra",
     "model": "SM-N930R6"
   },
@@ -3724,6 +3748,12 @@
     "market_name": "Galaxy Note7",
     "codename": "graceqltetmo",
     "model": "SM-N930T"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note7",
+    "codename": "graceqlteue",
+    "model": "SM-N930U"
   },
   {
     "manufacturer": "Samsung",

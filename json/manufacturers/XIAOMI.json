@@ -207,6 +207,16 @@
       "model": "MI PAD 2"
     },
     {
+      "market_name": "MITV3S",
+      "codename": "missionimpossible",
+      "model": "MiTV3S"
+    },
+    {
+      "market_name": "MITV3S-55/60",
+      "codename": "pulpfiction",
+      "model": "MiTV3S"
+    },
+    {
       "market_name": "MIX",
       "codename": "lithium",
       "model": "MIX"
@@ -267,6 +277,11 @@
       "model": "MiBOX2"
     },
     {
+      "market_name": "MiBOX3S",
+      "codename": "queenchristina",
+      "model": "MiBOX3S"
+    },
+    {
       "market_name": "MiBOX_mini",
       "codename": "forrestgump",
       "model": "MiBOX_mini"
@@ -325,6 +340,16 @@
       "market_name": "Redmi Note 3",
       "codename": "kenzo",
       "model": "Redmi Note 3"
+    },
+    {
+      "market_name": "Redmi Note 4",
+      "codename": "mido",
+      "model": "Redmi Note 4"
+    },
+    {
+      "market_name": "Redmi Note 4",
+      "codename": "mido",
+      "model": "Redmi Note 4X"
     },
     {
       "market_name": "Redmi Note 4",

@@ -2,6 +2,11 @@
   "manufacturer": "Ruggear",
   "devices": [
     {
+      "market_name": "CP250",
+      "codename": "cp250_gts",
+      "model": "cp250_gts"
+    },
+    {
       "market_name": "IMO S",
       "codename": "IMO_S",
       "model": "IMO_S"

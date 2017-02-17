@@ -17,9 +17,34 @@
       "model": "M3s"
     },
     {
+      "market_name": "M5CR",
+      "codename": "M5CR",
+      "model": "M5CR"
+    },
+    {
+      "market_name": "M5CRD",
+      "codename": "M5CR",
+      "model": "M5CRD"
+    },
+    {
       "market_name": "M7 Sapphire",
       "codename": "M7",
       "model": "M7"
+    },
+    {
+      "market_name": "MX16",
+      "codename": "Mint_Diamond",
+      "model": "MX16"
+    },
+    {
+      "market_name": "Mint_Iris",
+      "codename": "Mint_Iris",
+      "model": "M7L_Sapphire"
+    },
+    {
+      "market_name": "Mint_Jane",
+      "codename": "Mint_Jane",
+      "model": "M5E01"
     }
   ]
 }

@@ -427,6 +427,11 @@
       "model": "SM-A300Y"
     },
     {
+      "market_name": "Galaxy A3 (2017)",
+      "codename": "a3y17lte",
+      "model": "SM-A320Y"
+    },
+    {
       "market_name": "Galaxy A3(2016)",
       "codename": "a3xelte",
       "model": "SM-A310F"
@@ -450,6 +455,21 @@
       "market_name": "Galaxy A3(2016)",
       "codename": "a3xeltekx",
       "model": "SM-A310N0"
+    },
+    {
+      "market_name": "Galaxy A3(2017)",
+      "codename": "a3y17lte",
+      "model": "SM-A320F"
+    },
+    {
+      "market_name": "Galaxy A3(2017)",
+      "codename": "a3y17lte",
+      "model": "SM-A320FL"
+    },
+    {
+      "market_name": "Galaxy A3(2017)",
+      "codename": "a3y17lte",
+      "model": "SM-A320X"
     },
     {
       "market_name": "Galaxy A5",
@@ -597,6 +617,31 @@
       "model": "SM-A510XZ"
     },
     {
+      "market_name": "Galaxy A5(2017)",
+      "codename": "a5y17lte",
+      "model": "SM-A520F"
+    },
+    {
+      "market_name": "Galaxy A5(2017)",
+      "codename": "a5y17lte",
+      "model": "SM-A520X"
+    },
+    {
+      "market_name": "Galaxy A5(2017)",
+      "codename": "a5y17ltektt",
+      "model": "SM-A520K"
+    },
+    {
+      "market_name": "Galaxy A5(2017)",
+      "codename": "a5y17ltelgt",
+      "model": "SM-A520L"
+    },
+    {
+      "market_name": "Galaxy A5(2017)",
+      "codename": "a5y17lteskt",
+      "model": "SM-A520S"
+    },
+    {
       "market_name": "Galaxy A5x(2016)",
       "codename": "a5xeltextc",
       "model": "SM-A510Y"
@@ -695,6 +740,11 @@
       "market_name": "Galaxy A7(2016)",
       "codename": "a7xltechn",
       "model": "SM-A7100"
+    },
+    {
+      "market_name": "Galaxy A7(2017)",
+      "codename": "a7y17lte",
+      "model": "SM-A720F"
     },
     {
       "market_name": "Galaxy A8",
@@ -1297,9 +1347,29 @@
       "model": "SM-C700X"
     },
     {
+      "market_name": "Galaxy C7",
+      "codename": "c7proltechn",
+      "model": "SM-C701X"
+    },
+    {
+      "market_name": "Galaxy C7 Pro",
+      "codename": "c7proltechn",
+      "model": "SM-C7010"
+    },
+    {
+      "market_name": "Galaxy C9 Pro",
+      "codename": "c9lte",
+      "model": "SM-C900F"
+    },
+    {
       "market_name": "Galaxy C9 Pro",
       "codename": "c9ltechn",
       "model": "SM-C9000"
+    },
+    {
+      "market_name": "Galaxy C9 Pro",
+      "codename": "c9ltechn",
+      "model": "SM-C900X"
     },
     {
       "market_name": "Galaxy Camera",
@@ -2188,6 +2258,11 @@
     },
     {
       "market_name": "Galaxy Grand Prime",
+      "codename": "fortunave3g",
+      "model": "SM-G530H"
+    },
+    {
+      "market_name": "Galaxy Grand Prime",
       "codename": "gprimelteacg",
       "model": "SM-G530R7"
     },
@@ -2617,6 +2692,11 @@
       "model": "SM-J320H"
     },
     {
+      "market_name": "Galaxy J3 Pop",
+      "codename": "j3popltespr",
+      "model": "SM-J327P"
+    },
+    {
       "market_name": "Galaxy J3 Pro",
       "codename": "j3xproltechn",
       "model": "SM-J3110"
@@ -2877,6 +2957,11 @@
       "model": "SM-G6100"
     },
     {
+      "market_name": "Galaxy J7(2015)",
+      "codename": "j7ltespr",
+      "model": "SM-J700P"
+    },
+    {
       "market_name": "Galaxy J7(2016)",
       "codename": "j7eltemtr",
       "model": "SM-J700T1"
@@ -2885,11 +2970,6 @@
       "market_name": "Galaxy J7(2016)",
       "codename": "j7eltetmo",
       "model": "SM-J700T"
-    },
-    {
-      "market_name": "Galaxy J7(2016)",
-      "codename": "j7ltespr",
-      "model": "SM-J700P"
     },
     {
       "market_name": "Galaxy J7(2016)",
@@ -4123,6 +4203,16 @@
     },
     {
       "market_name": "Galaxy Note7",
+      "codename": "SC-01J",
+      "model": "SC-01J"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "SCV34",
+      "model": "SCV34"
+    },
+    {
+      "market_name": "Galaxy Note7",
       "codename": "gracelte",
       "model": "SM-N930F"
     },
@@ -4168,6 +4258,11 @@
     },
     {
       "market_name": "Galaxy Note7",
+      "codename": "graceqltedcm",
+      "model": "SGH-N037"
+    },
+    {
+      "market_name": "Galaxy Note7",
       "codename": "graceqltelra",
       "model": "SM-N930R6"
     },
@@ -4185,6 +4280,11 @@
       "market_name": "Galaxy Note7",
       "codename": "graceqltetmo",
       "model": "SM-N930T"
+    },
+    {
+      "market_name": "Galaxy Note7",
+      "codename": "graceqlteue",
+      "model": "SM-N930U"
     },
     {
       "market_name": "Galaxy Note7",
@@ -7570,11 +7670,6 @@
       "market_name": "Galaxy Tab3 Lite",
       "codename": "goyawifi",
       "model": "SM-T110"
-    },
-    {
-      "market_name": "Galaxy Tab3 Lite 7.0",
-      "codename": "fortunave3g",
-      "model": "SM-G530H"
     },
     {
       "market_name": "Galaxy Tab3 Lite 7.0",
