@@ -27,17 +27,15 @@ import android.os.Build;
 import android.os.Handler;
 import android.os.Looper;
 import android.text.TextUtils;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Locale;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
 
 // @formatter:off
 /**
@@ -317,6 +315,7 @@ public class DeviceName {
         || codename.equals("htc_himawhl")
         || codename.equals("htc_himawl")))
         || (model != null && (model.equals("0PJA10")
+        || model.equals("0PJA2")
         || model.equals("HTC 0PJA10")
         || model.equals("HTC6535LRA")
         || model.equals("HTC6535LVW")
@@ -456,13 +455,8 @@ public class DeviceName {
         || model.equals("LGMS345")))) {
       return "LG Leon 4G LTE";
     }
-    if ((codename != null && (codename.equals("m1")
-        || codename.equals("m1ds")))
-        || (model != null && (model.equals("LG-AS330")
-        || model.equals("LG-K330")
-        || model.equals("LG-K332")
-        || model.equals("LGLS675")
-        || model.equals("LGMS330")))) {
+    if ((codename != null && codename.equals("m1ds"))
+        || (model != null && model.equals("LG-K332"))) {
       return "LG M1";
     }
     if ((codename != null && (codename.equals("cosmopolitan")))
@@ -921,6 +915,7 @@ public class DeviceName {
         || codename.equals("fortunaltectc")
         || codename.equals("fortunaltezh")
         || codename.equals("fortunaltezt")
+        || codename.equals("fortunave3g")
         || codename.equals("gprimelteacg")
         || codename.equals("gprimeltecan")
         || codename.equals("gprimeltemtr")
@@ -1227,7 +1222,9 @@ public class DeviceName {
         || model.equals("SM-N920X")))) {
       return "Galaxy Note5";
     }
-    if ((codename != null && (codename.equals("gracelte")
+    if ((codename != null && (codename.equals("SC-01J")
+        || codename.equals("SCV34")
+        || codename.equals("gracelte")
         || codename.equals("graceltektt")
         || codename.equals("graceltelgt")
         || codename.equals("gracelteskt")
@@ -1235,13 +1232,18 @@ public class DeviceName {
         || codename.equals("graceqlteatt")
         || codename.equals("graceqltebmc")
         || codename.equals("graceqltechn")
+        || codename.equals("graceqltedcm")
         || codename.equals("graceqltelra")
         || codename.equals("graceqltespr")
         || codename.equals("graceqltetfnvzw")
         || codename.equals("graceqltetmo")
+        || codename.equals("graceqlteue")
         || codename.equals("graceqlteusc")
         || codename.equals("graceqltevzw")))
         || (model != null && (model.equals("SAMSUNG-SM-N930A")
+        || model.equals("SC-01J")
+        || model.equals("SCV34")
+        || model.equals("SGH-N037")
         || model.equals("SM-N9300")
         || model.equals("SM-N930F")
         || model.equals("SM-N930K")
@@ -1252,6 +1254,7 @@ public class DeviceName {
         || model.equals("SM-N930R7")
         || model.equals("SM-N930S")
         || model.equals("SM-N930T")
+        || model.equals("SM-N930U")
         || model.equals("SM-N930V")
         || model.equals("SM-N930VL")
         || model.equals("SM-N930W8")
@@ -1727,6 +1730,19 @@ public class DeviceName {
         || model.equals("SM-G935W8")
         || model.equals("SM-G935X")))) {
       return "Galaxy S7 Edge";
+    }
+    if ((codename != null && (codename.equals("dreamlte")
+        || codename.equals("dreamlteskt")
+        || codename.equals("dreamqltecan")
+        || codename.equals("dreamqltechn")
+        || codename.equals("dreamqltesq")))
+        || (model != null && (model.equals("SM-G9500")
+        || model.equals("SM-G950W")
+        || model.equals("SM-G950X")
+        || model.equals("SM-G950XC")
+        || model.equals("SM-G950XN")
+        || model.equals("SM-G950XU")))) {
+      return "Galaxy S8";
     }
     if ((codename != null && (codename.equals("GT-P7500")
         || codename.equals("GT-P7500D")
