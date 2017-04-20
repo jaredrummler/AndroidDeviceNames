@@ -447,6 +447,11 @@
       "model": "ALBA 5"
     },
     {
+      "market_name": "Alba 5",
+      "codename": "ac50fne",
+      "model": "ALBA 5"
+    },
+    {
       "market_name": "Alba 7\\\u0027\\\u0027",
       "codename": "ac70plv4",
       "model": "\"Alba 7\"\"\""
@@ -507,6 +512,11 @@
       "model": "Archos 101b Copper"
     },
     {
+      "market_name": "Archos 101b Helium",
+      "codename": "ac101bhe",
+      "model": "Archos 101b Helium"
+    },
+    {
       "market_name": "Archos 101b Neon",
       "codename": "ac101bne",
       "model": "Archos 101b Neon"
@@ -565,6 +575,11 @@
       "market_name": "Archos 121 Neon",
       "codename": "ac121ne",
       "model": "Archos 121 Neon"
+    },
+    {
+      "market_name": "Archos 133 Oxygen",
+      "codename": "ac133ox",
+      "model": "Archos 133 Oxygen"
     },
     {
       "market_name": "Archos 40 Helium",
@@ -637,6 +652,16 @@
       "model": "AC50DHE"
     },
     {
+      "market_name": "Archos 50B Cobalt",
+      "codename": "ac50bco",
+      "model": "Archos 50B Cobalt"
+    },
+    {
+      "market_name": "Archos 50F Neon",
+      "codename": "ac50fnev2",
+      "model": "Archos 50f Neon"
+    },
+    {
       "market_name": "Archos 50d Oxygen",
       "codename": "ac50dox",
       "model": "Archos 50d Oxygen"
@@ -655,6 +680,11 @@
       "market_name": "Archos 50f Helium",
       "codename": "ac50fhe",
       "model": "Archos 50f Helium"
+    },
+    {
+      "market_name": "Archos 50f Neon",
+      "codename": "ac50fne",
+      "model": "Archos 50F Neon"
     },
     {
       "market_name": "Archos 55 Diamond Selfie",
@@ -677,6 +707,11 @@
       "model": "Archos 55 Platinum"
     },
     {
+      "market_name": "Archos 55B Cobalt",
+      "codename": "ac55bco",
+      "model": "Archos 55B Cobalt"
+    },
+    {
       "market_name": "Archos 59 Titanium",
       "codename": "ac59ti",
       "model": "Archos 59 Titanium"
@@ -685,6 +720,11 @@
       "market_name": "Archos 59 Xenon",
       "codename": "ac59xe",
       "model": "Archos 59 Xenon"
+    },
+    {
+      "market_name": "Archos 60 Platinum",
+      "codename": "ac60pl",
+      "model": "Archos 60 Platinum"
     },
     {
       "market_name": "Archos 64 Xenon",
@@ -765,6 +805,11 @@
       "market_name": "Archos 70c Cobalt",
       "codename": "ac70cco",
       "model": "Archos 70c Cobalt"
+    },
+    {
+      "market_name": "Archos 70c Neon",
+      "codename": "ac70cne",
+      "model": "Archos 70c Neon"
     },
     {
       "market_name": "Archos 70c Titanium",

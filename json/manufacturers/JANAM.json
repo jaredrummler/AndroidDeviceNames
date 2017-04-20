@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Janam",
+  "devices": [
+    {
+      "market_name": "PM66",
+      "codename": "pm66",
+      "model": "PM66"
+    },
+    {
+      "market_name": "PM70",
+      "codename": "pm70",
+      "model": "PM70"
+    },
+    {
+      "market_name": "XM75",
+      "codename": "XM75",
+      "model": "XM75"
+    },
+    {
+      "market_name": "XT100",
+      "codename": "XT100",
+      "model": "XT100"
+    },
+    {
+      "market_name": "XT2",
+      "codename": "XT2",
+      "model": "XT2"
+    }
+  ]
+}

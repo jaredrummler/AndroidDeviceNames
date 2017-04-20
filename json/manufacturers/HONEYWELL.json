@@ -27,6 +27,21 @@
       "model": "Dolphin 70e Black"
     },
     {
+      "market_name": "CK75",
+      "codename": "CK75",
+      "model": "CX75 AN0"
+    },
+    {
+      "market_name": "CN75",
+      "codename": "CN75",
+      "model": "CX75 NC0"
+    },
+    {
+      "market_name": "CN75E",
+      "codename": "CN75E",
+      "model": "CX75 NCF"
+    },
+    {
       "market_name": "CT50",
       "codename": "CT50L0N-CS15S",
       "model": "CT50"
@@ -75,6 +90,11 @@
       "market_name": "EDA50",
       "codename": "eda50-111",
       "model": "Glory50"
+    },
+    {
+      "market_name": "EDA50K",
+      "codename": "eda50k-1",
+      "model": "Glory EDA50K"
     },
     {
       "market_name": "Honeywell CN51",

@@ -2,6 +2,11 @@
   "manufacturer": "Tecno",
   "devices": [
     {
+      "market_name": "Camon CX",
+      "codename": "TECNO-CX",
+      "model": "TECNO Camon CX"
+    },
+    {
       "market_name": "DP10APro-SLA1",
       "codename": "DP10APro",
       "model": "DP10APro"
@@ -20,6 +25,11 @@
       "market_name": "DroiPad 7C Pro",
       "codename": "DP7CPRO",
       "model": "DP7CPRO"
+    },
+    {
+      "market_name": "DroiPad 7D",
+      "codename": "TECNO-P701",
+      "model": "TECNO P701"
     },
     {
       "market_name": "DroiPad 8\\xe2\\x85\\xa1",
@@ -87,9 +97,19 @@
       "model": "TECNO S1 Pro"
     },
     {
+      "market_name": "TECNO Camon CXS",
+      "codename": "TECNO-CX",
+      "model": "TECNO Camon CXS"
+    },
+    {
       "market_name": "TECNO L8 Lite",
       "codename": "L8Lite",
       "model": "TECNO L8 Lite"
+    },
+    {
+      "market_name": "TECNO L9Plus",
+      "codename": "TECNO-L9Plus",
+      "model": "TECNO L9 Plus"
     },
     {
       "market_name": "TECNO N5S",
@@ -100,6 +120,21 @@
       "market_name": "TECNO N9S",
       "codename": "N9S",
       "model": "TECNO-N9S"
+    },
+    {
+      "market_name": "TECNO PhonePad 3",
+      "codename": "TECNO-PP7FPro",
+      "model": "TECNO PhonePad 3"
+    },
+    {
+      "market_name": "TECNO S1",
+      "codename": "TECNO-S1",
+      "model": "TECNO S1"
+    },
+    {
+      "market_name": "TECNO W1",
+      "codename": "TECNO_W1",
+      "model": "TECNO W1"
     },
     {
       "market_name": "TECNO W5",
@@ -199,6 +234,11 @@
     {
       "market_name": "TECNO-N8",
       "codename": "TECNO-N8",
+      "model": "TECNO N8"
+    },
+    {
+      "market_name": "TECNO-N8",
+      "codename": "TECNO-N8",
       "model": "TECNO-N8"
     },
     {
@@ -275,6 +315,21 @@
       "market_name": "TECNO-Y6",
       "codename": "TECNO-Y6",
       "model": "TECNO-Y6"
+    },
+    {
+      "market_name": "TECNO-i3",
+      "codename": "TECNO-i3",
+      "model": "TECNO i3"
+    },
+    {
+      "market_name": "TECNO-i3-Pro",
+      "codename": "TECNO-i3-Pro",
+      "model": "TECNO i3 Pro"
+    },
+    {
+      "market_name": "TECNO-i5-Pro",
+      "codename": "TECNO-i5-Pro",
+      "model": "TECNO i5 Pro"
     },
     {
       "market_name": "Techno L6",

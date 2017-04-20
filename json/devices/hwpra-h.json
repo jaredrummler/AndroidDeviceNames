@@ -1,8 +1,44 @@
 [
   {
     "manufacturer": "Huawei",
+    "market_name": "PRA-LA1",
+    "codename": "HWPRA-H",
+    "model": "PRA-LA1"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "PRA-LX1",
     "codename": "HWPRA-H",
     "model": "PRA-LX1"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "PRA-LX2",
+    "codename": "HWPRA-H",
+    "model": "PRA-LX2"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "PRA-LX3",
+    "codename": "HWPRA-H",
+    "model": "PRA-LX3"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+    "codename": "HWPRA-H",
+    "model": "PRA-AL00"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+    "codename": "HWPRA-H",
+    "model": "PRA-AL00X"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+    "codename": "HWPRA-H",
+    "model": "PRA-TL10"
   }
 ]

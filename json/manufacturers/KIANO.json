@@ -2,6 +2,11 @@
   "manufacturer": "Kiano",
   "devices": [
     {
+      "market_name": "Kiano Elegance 5.5 Pro",
+      "codename": "Elegance_5_5_Pro",
+      "model": "Elegance_5_5_Pro"
+    },
+    {
       "market_name": "Slim_Tab_8",
       "codename": "Slim_Tab_8",
       "model": "Slim_Tab_8"

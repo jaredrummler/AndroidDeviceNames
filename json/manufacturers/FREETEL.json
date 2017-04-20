@@ -2,6 +2,21 @@
   "manufacturer": "Freetel",
   "devices": [
     {
+      "market_name": "ICE2plus",
+      "codename": "ICE2plus",
+      "model": "FTE161G"
+    },
+    {
+      "market_name": "ICE3",
+      "codename": "ICE3",
+      "model": "FTE171A"
+    },
+    {
+      "market_name": "Priori4",
+      "codename": "Priori4",
+      "model": "FT162D"
+    },
+    {
       "market_name": "Priori4",
       "codename": "Priori4",
       "model": "FTJ162D"

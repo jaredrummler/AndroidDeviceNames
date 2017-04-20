@@ -2,6 +2,11 @@
   "manufacturer": "Meitu",
   "devices": [
     {
+      "market_name": "Maya",
+      "codename": "Maya",
+      "model": "MP1603"
+    },
+    {
       "market_name": "Meitu  M6",
       "codename": "M6",
       "model": "MP1503"
@@ -20,6 +25,11 @@
       "market_name": "Meitu V4s",
       "codename": "V4s",
       "model": "Meitu V4s"
+    },
+    {
+      "market_name": "Victoria",
+      "codename": "Victoria",
+      "model": "MP1602"
     }
   ]
 }

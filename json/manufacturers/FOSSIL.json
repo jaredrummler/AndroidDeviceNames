@@ -2,14 +2,24 @@
   "manufacturer": "Fossil",
   "devices": [
     {
-      "market_name": "Fossil Q Founder",
+      "market_name": "Q Founder",
       "codename": "grant",
       "model": "Q Founder"
     },
     {
-      "market_name": "Fossil Q Wander / Fossil Q Founder / Michael Kors Access",
+      "market_name": "Q Wander / Q Founder / Bradshaw / Dylan",
+      "codename": "gar",
+      "model": "Bradshaw"
+    },
+    {
+      "market_name": "Q Wander / Q Founder / Bradshaw / Dylan",
       "codename": "gar",
       "model": "Q Marshal"
+    },
+    {
+      "market_name": "Q Wander / Q Founder / Bradshaw / Dylan",
+      "codename": "gar",
+      "model": "Q Wander"
     }
   ]
 }

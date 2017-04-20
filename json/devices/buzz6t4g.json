@@ -7,6 +7,24 @@
   },
   {
     "manufacturer": "TCT (Alcatel)",
+    "market_name": "U5",
+    "codename": "BUZZ6T4G",
+    "model": "5044Y"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "alcatel U5",
+    "codename": "BUZZ6T4G",
+    "model": "5044D"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "alcatel U5",
+    "codename": "BUZZ6T4G",
+    "model": "5044I"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
     "market_name": "alcatel U5",
     "codename": "BUZZ6T4G",
     "model": "5044K"
@@ -16,5 +34,11 @@
     "market_name": "alcatel U5",
     "codename": "BUZZ6T4G",
     "model": "5044O"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "alcatel U5",
+    "codename": "BUZZ6T4G",
+    "model": "5044T"
   }
 ]

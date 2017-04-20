@@ -2,6 +2,16 @@
   "manufacturer": "Aikun",
   "devices": [
     {
+      "market_name": "EDSTAR LC-TS08A",
+      "codename": "LC-TS08A",
+      "model": "LC-TS08A"
+    },
+    {
+      "market_name": "EDSTAR LC-TS08S",
+      "codename": "LC-TS08S",
+      "model": "LC-TS08S"
+    },
+    {
       "market_name": "RX300",
       "codename": "X300",
       "model": "X300"

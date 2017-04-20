@@ -2,6 +2,11 @@
   "manufacturer": "Sts-tottori",
   "devices": [
     {
+      "market_name": "JR-P2000",
+      "codename": "JR-P2000",
+      "model": "JR-P2000"
+    },
+    {
       "market_name": "TAB-A03",
       "codename": "TAB-A03",
       "model": "TAB-A03-SD"

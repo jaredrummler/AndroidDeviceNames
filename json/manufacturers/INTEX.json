@@ -22,6 +22,11 @@
       "model": "Aqua_Ring"
     },
     {
+      "market_name": "Aqua_Lions_4G",
+      "codename": "INTEX_AQUA_LIONS_4G",
+      "model": "INTEX AQUA LIONS 4G"
+    },
+    {
       "market_name": "Aqua_Q8",
       "codename": "Aqua_Q8",
       "model": "Aqua Q8"
@@ -34,7 +39,17 @@
     {
       "market_name": "Cloud_Q11_4G",
       "codename": "Cloud_Q11_4G",
+      "model": "Cloud Q11 4G"
+    },
+    {
+      "market_name": "Cloud_Q11_4G",
+      "codename": "Cloud_Q11_4G",
       "model": "Cloud_Q11_4G"
+    },
+    {
+      "market_name": "INTEX AQUA 4G MINI",
+      "codename": "INTEX_AQUA_4G_MINI",
+      "model": "INTEX AQUA 4G MINI"
     },
     {
       "market_name": "INTEX AQUA AMAZE+",
@@ -42,9 +57,29 @@
       "model": "INTEX AQUA AMAZE+"
     },
     {
+      "market_name": "INTEX AQUA CRYSTAL",
+      "codename": "INTEX_AQUA_CRYSTAL",
+      "model": "INTEX AQUA CRYSTAL"
+    },
+    {
       "market_name": "INTEX AQUA TREND LITE",
       "codename": "INTEX_AQUA_TREND_LITE",
       "model": "INTEX AQUA TREND LITE"
+    },
+    {
+      "market_name": "INTEX AQUA YOUNG 4G",
+      "codename": "INTEX_AQUA_YOUNG_4G",
+      "model": "INTEX AQUA YOUNG 4G"
+    },
+    {
+      "market_name": "INTEX AQUA ZENITH",
+      "codename": "INTEX_AQUA_ZENITH",
+      "model": "INTEX AQUA ZENITH"
+    },
+    {
+      "market_name": "INTEX ELYT E1",
+      "codename": "INTEX_ELYT_E1",
+      "model": "INTEX ELYT E1"
     },
     {
       "market_name": "INTEX_AQUA_4.0_4G",
@@ -62,6 +97,11 @@
       "model": "Aqua Pride"
     },
     {
+      "market_name": "Intex Aqua Strong 5.1+",
+      "codename": "Aqua_Strong_5_1_Plus",
+      "model": "Intex Aqua Strong 5.1+"
+    },
+    {
       "market_name": "Intex Aqua Supreme+",
       "codename": "Aqua_Supreme_Plus",
       "model": "Intex Aqua Supreme+"
@@ -70,6 +110,11 @@
       "market_name": "Intex Aqua View",
       "codename": "AquaView",
       "model": "Aqua View"
+    },
+    {
+      "market_name": "Intex Elite E1",
+      "codename": "Intex_Elite_E1",
+      "model": "Intex Elite E1"
     }
   ]
 }

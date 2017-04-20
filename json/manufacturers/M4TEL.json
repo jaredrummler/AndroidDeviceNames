@@ -7,6 +7,11 @@
       "model": "M4 SS4450"
     },
     {
+      "market_name": "M4 SS4450B",
+      "codename": "DREAMPLUS02C-S10A",
+      "model": "M4 SS4450B"
+    },
+    {
       "market_name": "M4 SS4451",
       "codename": "NOVA02A_S11A",
       "model": "M4 SS4451"
@@ -17,6 +22,11 @@
       "model": "M4 SS4452"
     },
     {
+      "market_name": "M4 SS4453",
+      "codename": "TOUCHPLUS01A-S10A",
+      "model": "M4 SS4453"
+    },
+    {
       "market_name": "M4 SS4455",
       "codename": "NOVA03A_S22A",
       "model": "M4 SS4455"
@@ -25,6 +35,16 @@
       "market_name": "M4 SS4456",
       "codename": "UDON04A_S19A",
       "model": "M4 SS4456"
+    },
+    {
+      "market_name": "M4 SS4457",
+      "codename": "DREAMPLUS03A-S14A",
+      "model": "M4 SS4457"
+    },
+    {
+      "market_name": "M4 SS4458",
+      "codename": "TOUCHPLUS02A-S17A",
+      "model": "M4 SS4458"
     }
   ]
 }

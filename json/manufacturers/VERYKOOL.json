@@ -2,6 +2,11 @@
   "manufacturer": "Verykool",
   "devices": [
     {
+      "market_name": "s5526",
+      "codename": "verykools5526",
+      "model": "verykools5526"
+    },
+    {
       "market_name": "verykool S5019",
       "codename": "verykoolS5019",
       "model": "verykoolS5019"

@@ -12,9 +12,19 @@
       "model": "eSTAR GO HD Quad core 3G"
     },
     {
+      "market_name": "eSTAR GO! IPS Quad core 3G",
+      "codename": "MID7458G",
+      "model": "eSTAR GO! IPS Quad core 3G"
+    },
+    {
       "market_name": "eSTAR GRAND HD Quad Core",
       "codename": "MID1198",
       "model": "eSTAR GRAND HD Quad core"
+    },
+    {
+      "market_name": "eSTAR Grand IPS Quad core 3G",
+      "codename": "MID1258G",
+      "model": "eSTAR Grand IPS Quad core 3G"
     }
   ]
 }

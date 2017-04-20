@@ -7,6 +7,11 @@
       "model": "W900 LTE"
     },
     {
+      "market_name": "Desire R7 Lite",
+      "codename": "Desire_R7_Lite",
+      "model": "Desire R7 Lite"
+    },
+    {
       "market_name": "FB100",
       "codename": "FB100",
       "model": "FB100"
@@ -20,6 +25,11 @@
       "market_name": "Flare A1",
       "codename": "FlareA1",
       "model": "FlareA1"
+    },
+    {
+      "market_name": "Flare J2 Mini",
+      "codename": "Flare_J2_Mini",
+      "model": "Flare J2 Mini"
     },
     {
       "market_name": "Flare J2S",
@@ -50,6 +60,16 @@
       "market_name": "Flare J7",
       "codename": "Flare_J7",
       "model": "Flare J7"
+    },
+    {
+      "market_name": "Flare Lite 3S",
+      "codename": "Flare_Lite_3S",
+      "model": "Flare_Lite_3S"
+    },
+    {
+      "market_name": "Flare P1",
+      "codename": "Flare_P1",
+      "model": "Flare P1"
     },
     {
       "market_name": "Flare S5",
@@ -87,6 +107,11 @@
       "model": "iris"
     },
     {
+      "market_name": "Lenoxx",
+      "codename": "CX940",
+      "model": "CX940"
+    },
+    {
       "market_name": "Omega HD 3S",
       "codename": "H115",
       "model": "OMEGA HD 3S"
@@ -95,6 +120,11 @@
       "market_name": "Omega HD3",
       "codename": "H110",
       "model": "Omega HD 3"
+    },
+    {
+      "market_name": "Omega Icon 2",
+      "codename": "Omega_Icon_2",
+      "model": "Omega Icon 2"
     },
     {
       "market_name": "One",

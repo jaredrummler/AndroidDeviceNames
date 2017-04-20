@@ -2,6 +2,21 @@
   "manufacturer": "SpectraPrecision",
   "devices": [
     {
+      "market_name": "Ranger 5 Handheld",
+      "codename": "workhorse_wifi",
+      "model": "Ranger5"
+    },
+    {
+      "market_name": "Ranger 8 Handheld",
+      "codename": "pelican",
+      "model": "Ranger8"
+    },
+    {
+      "market_name": "Ranger 8 Handheld",
+      "codename": "pelican_wifi",
+      "model": "Ranger8"
+    },
+    {
       "market_name": "Spectra Ranger 5",
       "codename": "workhorse",
       "model": "Ranger5"

@@ -427,12 +427,6 @@
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC ONE A9",
-    "codename": "htc_hiaeul",
-    "model": "HTC One A9"
-  },
-  {
-    "manufacturer": "HTC",
     "market_name": "HTC One A9",
     "codename": "htc_hiaetuhl",
     "model": "HTC A9w"
@@ -502,6 +496,12 @@
     "market_name": "HTC One M9",
     "codename": "htc_himaulatt",
     "model": "HTC One M9"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "HTC One M9",
+    "codename": "htc_himawhl",
+    "model": "0PJA2"
   },
   {
     "manufacturer": "HTC",
@@ -5260,6 +5260,42 @@
     "market_name": "Galaxy S7 Edge",
     "codename": "hero2qltevzw",
     "model": "SM-G935V"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S8",
+    "codename": "dreamlte",
+    "model": "SM-G950X"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S8",
+    "codename": "dreamlteskt",
+    "model": "SM-G950XN"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S8",
+    "codename": "dreamqltecan",
+    "model": "SM-G950W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S8",
+    "codename": "dreamqltechn",
+    "model": "SM-G9500"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S8",
+    "codename": "dreamqltechn",
+    "model": "SM-G950XC"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S8",
+    "codename": "dreamqltesq",
+    "model": "SM-G950XU"
   },
   {
     "manufacturer": "Samsung",

@@ -762,9 +762,24 @@
       "model": "VS810PP"
     },
     {
+      "market_name": "Fortune",
+      "codename": "lv1",
+      "model": "LG-M153"
+    },
+    {
+      "market_name": "Fortune",
+      "codename": "lv1",
+      "model": "LG-M154"
+    },
+    {
       "market_name": "G PAD\\xe2\\x85\\xa2 10.1",
       "codename": "th10",
       "model": "LG-X760"
+    },
+    {
+      "market_name": "G PAD\\xe2\\x85\\xa2 10.1",
+      "codename": "th10",
+      "model": "LG-X760E"
     },
     {
       "market_name": "G PAD\\xe2\\x85\\xa2 10.1",
@@ -1170,6 +1185,21 @@
       "market_name": "K10 LTE",
       "codename": "m209",
       "model": "LG-K420PR"
+    },
+    {
+      "market_name": "K20 V",
+      "codename": "lv517",
+      "model": "VS501"
+    },
+    {
+      "market_name": "K3 2017",
+      "codename": "lv0",
+      "model": "LG-AS110"
+    },
+    {
+      "market_name": "K3 2017",
+      "codename": "lv0",
+      "model": "LGUS110"
     },
     {
       "market_name": "K4 (2017)",
@@ -2312,6 +2342,81 @@
       "model": "LG-H848"
     },
     {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LG-AS993"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LG-H870"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LG-H870DS"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LG-H870S"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LG-H871"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LG-H872"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LG-H872PR"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LG-H873"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LG-LS993"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LGM-G600K"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LGM-G600L"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LGM-G600S"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "LGUS997"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
+      "model": "VS988"
+    },
+    {
+      "market_name": "LG GRACE\\xe2\\x84\\xa2 LTE",
+      "codename": "lv517",
+      "model": "LGL59BL"
+    },
+    {
       "market_name": "LG Gentle",
       "codename": "cfm",
       "model": "LG-F660L"
@@ -2398,7 +2503,17 @@
     },
     {
       "market_name": "LG K10 (2017)",
+      "codename": "lv517",
+      "model": "LG-M257PR"
+    },
+    {
+      "market_name": "LG K10 (2017)",
       "codename": "mlv5",
+      "model": "LG-M250"
+    },
+    {
+      "market_name": "LG K10 (2017)",
+      "codename": "mlv5n",
       "model": "LG-M250"
     },
     {
@@ -2410,6 +2525,21 @@
       "market_name": "LG K10 LTE",
       "codename": "m253n",
       "model": "LG-K430"
+    },
+    {
+      "market_name": "LG K20 Plus",
+      "codename": "lv517",
+      "model": "LG-TP260"
+    },
+    {
+      "market_name": "LG K20 Plus",
+      "codename": "lv517",
+      "model": "LGMP260"
+    },
+    {
+      "market_name": "LG K3",
+      "codename": "lv0",
+      "model": "LGL48VL"
     },
     {
       "market_name": "LG K3",
@@ -2460,6 +2590,11 @@
       "market_name": "LG K4/K7 (2017)",
       "codename": "mlv1",
       "model": "LG-X230"
+    },
+    {
+      "market_name": "LG K4/K7 (2017)",
+      "codename": "mlv1",
+      "model": "LG-X230YK"
     },
     {
       "market_name": "LG K5",
@@ -2522,6 +2657,16 @@
       "model": "LG-M200"
     },
     {
+      "market_name": "LG K8 (2017)",
+      "codename": "mlv3",
+      "model": "LG-X240"
+    },
+    {
+      "market_name": "LG K8 (2017) Dual",
+      "codename": "lv3",
+      "model": "LG-M200"
+    },
+    {
       "market_name": "LG K8 LTE",
       "codename": "mm1vn",
       "model": "LG-K350"
@@ -2530,6 +2675,11 @@
       "market_name": "LG K8 V",
       "codename": "m1v",
       "model": "VS500"
+    },
+    {
+      "market_name": "LG K8 V",
+      "codename": "m1v",
+      "model": "VS500PP"
     },
     {
       "market_name": "LG L39C",
@@ -3547,6 +3697,21 @@
       "model": "LGMS550"
     },
     {
+      "market_name": "LG Stylo3",
+      "codename": "sf317",
+      "model": "LGL83BL"
+    },
+    {
+      "market_name": "LG Stylo3",
+      "codename": "sf317",
+      "model": "LGL84VL"
+    },
+    {
+      "market_name": "LG Stylo3",
+      "codename": "sf340",
+      "model": "LG-LS777"
+    },
+    {
       "market_name": "LG Stylus 2",
       "codename": "ph1",
       "model": "LG-F720K"
@@ -3590,6 +3755,16 @@
       "market_name": "LG Stylus2 Plus",
       "codename": "ph2n",
       "model": "LG-K535n"
+    },
+    {
+      "market_name": "LG Stylus3",
+      "codename": "msf3",
+      "model": "LG-M400"
+    },
+    {
+      "market_name": "LG Stylus3",
+      "codename": "msf3n",
+      "model": "LG-M400"
     },
     {
       "market_name": "LG Thrill 4G",
@@ -3852,9 +4027,39 @@
       "model": "LGM-K120S"
     },
     {
+      "market_name": "LG X400",
+      "codename": "mlv5n",
+      "model": "LGM-K121K"
+    },
+    {
+      "market_name": "LG X400",
+      "codename": "mlv5n",
+      "model": "LGM-K121L"
+    },
+    {
+      "market_name": "LG X400",
+      "codename": "mlv5n",
+      "model": "LGM-K121S"
+    },
+    {
       "market_name": "LG X5",
       "codename": "mk6m",
       "model": "LG-F770S"
+    },
+    {
+      "market_name": "LG X500",
+      "codename": "mlv7n",
+      "model": "LG-M320"
+    },
+    {
+      "market_name": "LG X500",
+      "codename": "mlv7n",
+      "model": "LGM-X320L"
+    },
+    {
+      "market_name": "LG X500",
+      "codename": "mlv7n",
+      "model": "LGM-X320S"
     },
     {
       "market_name": "LG ZONE",
@@ -3920,6 +4125,11 @@
       "market_name": "LG-E985T",
       "codename": "gvarfhd",
       "model": "LG-E985T"
+    },
+    {
+      "market_name": "LGE K4",
+      "codename": "lv1",
+      "model": "LG-M151"
     },
     {
       "market_name": "LGL22",
@@ -4877,6 +5087,11 @@
       "model": "LG-P355"
     },
     {
+      "market_name": "Phoenix 3",
+      "codename": "lv1",
+      "model": "LG-M150"
+    },
+    {
       "market_name": "Premier",
       "codename": "m209",
       "model": "LGL61AL"
@@ -4892,14 +5107,14 @@
       "model": "LGV33"
     },
     {
-      "market_name": "Qua phone PZ",
-      "codename": "b5",
-      "model": "LGT32"
-    },
-    {
       "market_name": "Qua tab PX",
       "codename": "b3",
       "model": "LGT31"
+    },
+    {
+      "market_name": "Qua tab PZ",
+      "codename": "b5",
+      "model": "LGT32"
     },
     {
       "market_name": "Shine Plus with Google",

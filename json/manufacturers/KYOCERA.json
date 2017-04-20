@@ -22,6 +22,11 @@
       "model": "503KC"
     },
     {
+      "market_name": "Android One S2",
+      "codename": "S2_sprout",
+      "model": "S2"
+    },
+    {
       "market_name": "BASIO",
       "codename": "KYV32",
       "model": "KYV32"
@@ -67,6 +72,11 @@
       "model": "302KC"
     },
     {
+      "market_name": "DIGNO W",
+      "codename": "KYV40",
+      "model": "KYV40U"
+    },
+    {
       "market_name": "DIGNO rafre",
       "codename": "KYV36",
       "model": "KYV36"
@@ -108,8 +118,18 @@
     },
     {
       "market_name": "DuraForce PRO",
+      "codename": "E6820_3GB",
+      "model": "KYOCERA-E6820"
+    },
+    {
+      "market_name": "DuraForce PRO",
       "codename": "E6830",
       "model": "E6830"
+    },
+    {
+      "market_name": "DuraForce PRO",
+      "codename": "E6833",
+      "model": "E6833"
     },
     {
       "market_name": "DuraForce PRO with Sapphire Shield",
@@ -395,6 +415,16 @@
       "market_name": "miraie",
       "codename": "KYL23",
       "model": "KYL23"
+    },
+    {
+      "market_name": "miraie f",
+      "codename": "KYV39",
+      "model": "KYV39"
+    },
+    {
+      "market_name": "rafre",
+      "codename": "KYV40",
+      "model": "KYV40"
     },
     {
       "market_name": "zio",

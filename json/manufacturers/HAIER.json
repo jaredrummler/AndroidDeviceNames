@@ -142,6 +142,11 @@
       "model": "G55"
     },
     {
+      "market_name": "G7",
+      "codename": "HM-G552-FL",
+      "model": "HM-G552-FL"
+    },
+    {
       "market_name": "G700",
       "codename": "G700",
       "model": "G700"
@@ -230,6 +235,11 @@
       "market_name": "Haier AL40",
       "codename": "AL40",
       "model": "Haier_AL40"
+    },
+    {
+      "market_name": "Haier T50",
+      "codename": "Haier_T50",
+      "model": "Haier T50"
     },
     {
       "market_name": "Haier T52P",
@@ -462,6 +472,11 @@
       "model": "Q5002"
     },
     {
+      "market_name": "T54P",
+      "codename": "Haier_T54P",
+      "model": "Haier T54P"
+    },
+    {
       "market_name": "T785B",
       "codename": "T785B",
       "model": "T785B"
@@ -505,6 +520,11 @@
       "market_name": "W860",
       "codename": "W860",
       "model": "W860"
+    },
+    {
+      "market_name": "i50",
+      "codename": "i50",
+      "model": "Haier_i50"
     }
   ]
 }

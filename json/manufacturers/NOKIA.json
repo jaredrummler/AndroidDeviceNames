@@ -7,9 +7,34 @@
       "model": "N1"
     },
     {
+      "market_name": "Nokia 5",
+      "codename": "ND1",
+      "model": "TA-1024"
+    },
+    {
+      "market_name": "Nokia 5",
+      "codename": "ND1",
+      "model": "TA-1027"
+    },
+    {
+      "market_name": "Nokia 5",
+      "codename": "ND1",
+      "model": "TA-1044"
+    },
+    {
+      "market_name": "Nokia 5",
+      "codename": "ND1",
+      "model": "TA-1053"
+    },
+    {
       "market_name": "Nokia 6",
       "codename": "D1C",
       "model": "TA-1000"
+    },
+    {
+      "market_name": "Nokia 6",
+      "codename": "D1C",
+      "model": "TA-1003"
     }
   ]
 }

@@ -2,6 +2,21 @@
   "manufacturer": "Klipad",
   "devices": [
     {
+      "market_name": "KLIPAD 7588AN",
+      "codename": "tulip-d9003",
+      "model": "7588AN"
+    },
+    {
+      "market_name": "KLIPAD 7588AN",
+      "codename": "tulip-d9003",
+      "model": "KL3838"
+    },
+    {
+      "market_name": "KLIPAD_PRO_I746",
+      "codename": "KLIPAD_PRO_I746",
+      "model": "KLIPAD_PRO_I746"
+    },
+    {
       "market_name": "KLIPAD_SMART_I745",
       "codename": "KLIPAD_SMART_I745",
       "model": "KLIPAD_SMART_I745"

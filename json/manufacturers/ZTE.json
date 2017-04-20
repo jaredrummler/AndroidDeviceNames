@@ -1127,6 +1127,11 @@
       "model": "Amazing A1"
     },
     {
+      "market_name": "Amazing A50",
+      "codename": "P637F02",
+      "model": "Amazing A50"
+    },
+    {
       "market_name": "Amazing P6",
       "codename": "msm8226",
       "model": "Amazing P6"
@@ -1247,6 +1252,16 @@
       "model": "Blade A510"
     },
     {
+      "market_name": "BLADE A520",
+      "codename": "P637F10",
+      "model": "BLADE A520"
+    },
+    {
+      "market_name": "BLADE A602",
+      "codename": "P637F02",
+      "model": "BLADE A602"
+    },
+    {
       "market_name": "BLADE A610",
       "codename": "ZTE_BLADE_A610",
       "model": "BLADE A610"
@@ -1262,9 +1277,24 @@
       "model": "BLADE III_IL"
     },
     {
+      "market_name": "BLADE L7",
+      "codename": "P731F10",
+      "model": "BLADE L7"
+    },
+    {
       "market_name": "BLADE V7",
       "codename": "P653A10",
       "model": "BLADE V7"
+    },
+    {
+      "market_name": "BLADE V8",
+      "codename": "ZTE_BLADE_V0800",
+      "model": "BLADE V8"
+    },
+    {
+      "market_name": "BLADE V8 SE",
+      "codename": "ZTE_BLADE_V0820",
+      "model": "BLADE V8 SE"
     },
     {
       "market_name": "Baker",
@@ -1617,6 +1647,11 @@
       "model": "Blade V6 Plus"
     },
     {
+      "market_name": "Bolton",
+      "codename": "florist",
+      "model": "Z986DL"
+    },
+    {
       "market_name": "Bouygues Telecom Bs 351",
       "codename": "nice",
       "model": "Bouygues Telecom Bs 351"
@@ -1762,6 +1797,16 @@
       "model": "KPN Smart 300"
     },
     {
+      "market_name": "GrayJoy",
+      "codename": "grayjoy",
+      "model": "N9136"
+    },
+    {
+      "market_name": "Helios X1",
+      "codename": "P809A01",
+      "model": "Helios X1"
+    },
+    {
       "market_name": "Infinity X^2 mini",
       "codename": "msm8226",
       "model": "Infinity X^2 mini"
@@ -1830,6 +1875,11 @@
       "market_name": "LS-5503",
       "codename": "P839F50",
       "model": "ZTE Blade S6 Plus"
+    },
+    {
+      "market_name": "Lannister",
+      "codename": "weeper",
+      "model": "Z863DL"
     },
     {
       "market_name": "Leopard MF800",
@@ -2312,6 +2362,11 @@
       "model": "NX549J"
     },
     {
+      "market_name": "NX597J",
+      "codename": "NX597J",
+      "model": "NX597J"
+    },
+    {
       "market_name": "NX601J",
       "codename": "NX601J",
       "model": "NX601J"
@@ -2590,6 +2645,11 @@
       "market_name": "Spro2",
       "codename": "msm8974",
       "model": "Spro2"
+    },
+    {
+      "market_name": "Stack",
+      "codename": "martell",
+      "model": "Z799VL"
     },
     {
       "market_name": "T-Mobile Vivacity",
@@ -3087,6 +3147,16 @@
       "model": "Z833"
     },
     {
+      "market_name": "Z836BL",
+      "codename": "guardian",
+      "model": "Z836BL"
+    },
+    {
+      "market_name": "Z837VL",
+      "codename": "breaker",
+      "model": "Z837VL"
+    },
+    {
       "market_name": "Z850",
       "codename": "sif",
       "model": "Z850"
@@ -3177,6 +3247,11 @@
       "model": "Z980L"
     },
     {
+      "market_name": "Z986U",
+      "codename": "cynthia",
+      "model": "Z986U"
+    },
+    {
       "market_name": "Z987",
       "codename": "cygni",
       "model": "Z987"
@@ -3227,6 +3302,11 @@
       "model": "ZTE A2017G"
     },
     {
+      "market_name": "ZTE A2017U",
+      "codename": "ailsa_ii",
+      "model": "ZTE A2017U"
+    },
+    {
       "market_name": "ZTE A880",
       "codename": "ZTE-A880",
       "model": "ZTE A880"
@@ -3267,9 +3347,24 @@
       "model": "ZTE BA510"
     },
     {
+      "market_name": "ZTE BA520",
+      "codename": "P637T10",
+      "model": "ZTE BA520"
+    },
+    {
       "market_name": "ZTE BA601",
       "codename": "ZTE_BA601",
       "model": "ZTE BA601"
+    },
+    {
+      "market_name": "ZTE BA602",
+      "codename": "P637S02",
+      "model": "ZTE BA602"
+    },
+    {
+      "market_name": "ZTE BA603",
+      "codename": "P809S10",
+      "model": "ZTE BA603"
     },
     {
       "market_name": "ZTE BA610C",
@@ -3342,9 +3437,19 @@
       "model": "ZTE BLADE A512"
     },
     {
+      "market_name": "ZTE BLADE A520",
+      "codename": "P637F10",
+      "model": "ZTE BLADE A520"
+    },
+    {
       "market_name": "ZTE BLADE A601",
       "codename": "ZTE_BLADE_A601",
       "model": "ZTE BLADE A601"
+    },
+    {
+      "market_name": "ZTE BLADE A602",
+      "codename": "P637F02",
+      "model": "ZTE BLADE A602"
     },
     {
       "market_name": "ZTE BLADE A610",
@@ -3355,6 +3460,11 @@
       "market_name": "ZTE BLADE A610C",
       "codename": "P635F50",
       "model": "ZTE BLADE A610C"
+    },
+    {
+      "market_name": "ZTE BLADE A612",
+      "codename": "P635F50",
+      "model": "ZTE BLADE A612"
     },
     {
       "market_name": "ZTE BLADE A910",
@@ -3407,6 +3517,11 @@
       "model": "ZTE BLADE L5 PLUS"
     },
     {
+      "market_name": "ZTE BLADE L7",
+      "codename": "P731F10",
+      "model": "ZTE BLADE L7"
+    },
+    {
       "market_name": "ZTE BLADE V0710",
       "codename": "ZTE_BLADE_V0710",
       "model": "ZTE BLADE V0710"
@@ -3420,6 +3535,16 @@
       "market_name": "ZTE BLADE V0730",
       "codename": "ZTE_BLADE_V0730",
       "model": "ZTE BLADE V0730"
+    },
+    {
+      "market_name": "ZTE BLADE V0800",
+      "codename": "ZTE_BLADE_V0800",
+      "model": "ZTE BLADE V0800"
+    },
+    {
+      "market_name": "ZTE BLADE V0820",
+      "codename": "ZTE_BLADE_V0820",
+      "model": "ZTE BLADE V0820"
     },
     {
       "market_name": "ZTE BLADE V7",
@@ -3470,6 +3595,11 @@
       "market_name": "ZTE BV0730",
       "codename": "P650A31",
       "model": "ZTE BV0730"
+    },
+    {
+      "market_name": "ZTE BV0800",
+      "codename": "P840S10",
+      "model": "ZTE BV0800"
     },
     {
       "market_name": "ZTE Blade A210",
@@ -4177,6 +4307,11 @@
       "model": "ZTE Grand X2 In"
     },
     {
+      "market_name": "ZTE Jasper LTE",
+      "codename": "lemon",
+      "model": "Z718TL"
+    },
+    {
       "market_name": "ZTE Kis 3",
       "codename": "ZTE-P821E10",
       "model": "MEO SMART A16"
@@ -4250,6 +4385,11 @@
       "market_name": "ZTE M901C",
       "codename": "P692N60",
       "model": "ZTE M901C"
+    },
+    {
+      "market_name": "ZTE Majesty Pro LTE",
+      "codename": "stark",
+      "model": "Z798BL"
     },
     {
       "market_name": "ZTE N5L",
@@ -5517,6 +5657,11 @@
       "model": "ZTE-BLADE"
     },
     {
+      "market_name": "ZTE-K813",
+      "codename": "P809K50",
+      "model": "ZTE-K813"
+    },
+    {
       "market_name": "ZTE-N910",
       "codename": "arthur4g",
       "model": "ZTE-N910"
@@ -5640,6 +5785,11 @@
       "market_name": "ZTE_Q801L",
       "codename": "ZTE-Q801L",
       "model": "ZTE Q801L"
+    },
+    {
+      "market_name": "ZTU31",
+      "codename": "P852F52",
+      "model": "ZTU31"
     },
     {
       "market_name": "ZXY-ZTE_N8010",

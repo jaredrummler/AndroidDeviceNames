@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "LGE",
+    "market_name": "Fortune",
+    "codename": "lv1",
+    "model": "LG-M153"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "Fortune",
+    "codename": "lv1",
+    "model": "LG-M154"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "K4 (2017)",
     "codename": "lv1",
     "model": "LGL57BL"
@@ -16,5 +28,17 @@
     "market_name": "LG K4",
     "codename": "lv1",
     "model": "LG-M160"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LGE K4",
+    "codename": "lv1",
+    "model": "LG-M151"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "Phoenix 3",
+    "codename": "lv1",
+    "model": "LG-M150"
   }
 ]

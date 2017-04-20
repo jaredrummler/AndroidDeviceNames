@@ -37,6 +37,11 @@
       "model": "MS50M"
     },
     {
+      "market_name": "MS50S",
+      "codename": "MS50S",
+      "model": "MS50S"
+    },
+    {
       "market_name": "MS50_4G",
       "codename": "MS50_4G",
       "model": "MS50_4G"
@@ -90,11 +95,6 @@
       "market_name": "Multilaser MS45S",
       "codename": "MS45S_A6",
       "model": "MS45S_A6"
-    },
-    {
-      "market_name": "multilaser MS50S",
-      "codename": "MS50S",
-      "model": "MS50S"
     }
   ]
 }

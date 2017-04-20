@@ -142,6 +142,11 @@
       "model": "Acer Chromebook R11"
     },
     {
+      "market_name": "Acer Chromebook R11 (C738T)",
+      "codename": "cyan_cheets",
+      "model": "Acer Chromebook R11 (CB5-132T / C738T)"
+    },
+    {
       "market_name": "Aspire A3",
       "codename": "aa3-600",
       "model": "AA3-600"
@@ -192,6 +197,11 @@
       "model": "B1-780"
     },
     {
+      "market_name": "B1-790",
+      "codename": "acer_barricadewifi",
+      "model": "B1-790"
+    },
+    {
       "market_name": "B1-820",
       "codename": "citizen",
       "model": "B1-820"
@@ -210,6 +220,11 @@
       "market_name": "B3-A30",
       "codename": "acer_jetfirehd",
       "model": "B3-A30"
+    },
+    {
+      "market_name": "B3-A32",
+      "codename": "acer_jetfirelte",
+      "model": "B3-A32"
     },
     {
       "market_name": "CloudMobile S500",

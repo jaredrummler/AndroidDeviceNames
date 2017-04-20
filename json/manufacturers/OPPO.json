@@ -157,6 +157,11 @@
       "model": "A37f"
     },
     {
+      "market_name": "A37f",
+      "codename": "A37f",
+      "model": "A37fw"
+    },
+    {
       "market_name": "A37fw",
       "codename": "A37f",
       "model": "A37fw"
@@ -255,6 +260,16 @@
       "market_name": "CPH1605fw",
       "codename": "CPH1605",
       "model": "CPH1605fw"
+    },
+    {
+      "market_name": "CPH1613",
+      "codename": "CPH1613",
+      "model": "CPH1613"
+    },
+    {
+      "market_name": "CPH1613",
+      "codename": "CPH1613",
+      "model": "CPH1613fw"
     },
     {
       "market_name": "CPH1701",
@@ -835,6 +850,11 @@
       "market_name": "R9PlustmA",
       "codename": "R9PlusA",
       "model": "OPPO R9 Plustm A"
+    },
+    {
+      "market_name": "R9km",
+      "codename": "R9",
+      "model": "OPPO R9km"
     },
     {
       "market_name": "R9m",

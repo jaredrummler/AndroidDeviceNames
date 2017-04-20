@@ -2,6 +2,11 @@
   "manufacturer": "BlackBerry",
   "devices": [
     {
+      "market_name": "Aurora",
+      "codename": "bbc100",
+      "model": "BBC100-1"
+    },
+    {
       "market_name": "DTEK50 by BlackBerry",
       "codename": "hamburg",
       "model": "STH100-1"
@@ -20,6 +25,21 @@
       "market_name": "DTEK60 by BlackBerry",
       "codename": "argon",
       "model": "BBA100-2"
+    },
+    {
+      "market_name": "KEYone",
+      "codename": "bbb100",
+      "model": "BBB100-1"
+    },
+    {
+      "market_name": "KEYone",
+      "codename": "bbb100",
+      "model": "BBB100-2"
+    },
+    {
+      "market_name": "KEYone",
+      "codename": "bbb100",
+      "model": "BBB100-3"
     },
     {
       "market_name": "PRIV by BlackBerry",

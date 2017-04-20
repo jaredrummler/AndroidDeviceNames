@@ -7,6 +7,11 @@
       "model": "FTU152A"
     },
     {
+      "market_name": "FREETEL SAMURAI KIWAMI 2",
+      "codename": "SAMURAI_KIWAMI2",
+      "model": "FTJ162B"
+    },
+    {
       "market_name": "FREETEL Samurai Rei",
       "codename": "FTJ161B",
       "model": "FTJ161B"
@@ -35,6 +40,21 @@
       "market_name": "Fun +",
       "codename": "FTU161G",
       "model": "Fun +"
+    },
+    {
+      "market_name": "Ice 2",
+      "codename": "FTJ161E-VN",
+      "model": "FTJ161E-VN"
+    },
+    {
+      "market_name": "Ice 2",
+      "codename": "ICE2",
+      "model": "FTE161E"
+    },
+    {
+      "market_name": "Ice 2",
+      "codename": "ICE2",
+      "model": "ICE2"
     },
     {
       "market_name": "Kiwami",

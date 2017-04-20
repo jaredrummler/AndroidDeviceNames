@@ -2,9 +2,84 @@
   "manufacturer": "Azumi",
   "devices": [
     {
+      "market_name": "A40 Style Plus",
+      "codename": "A40_Style_Plus",
+      "model": "A40_Style_Plus"
+    },
+    {
       "market_name": "A40C",
       "codename": "A40C",
       "model": "A40C"
+    },
+    {
+      "market_name": "A50 Style Plus",
+      "codename": "A50_Style_Plus",
+      "model": "A50_Style_Plus"
+    },
+    {
+      "market_name": "AZUMI IRO A4Q",
+      "codename": "IRO_A4_Q",
+      "model": "Azumi_IRO_A4_Q"
+    },
+    {
+      "market_name": "AZUMI IRO A4Q",
+      "codename": "IRO_A4_Q_AF",
+      "model": "Azumi_IRO_A4_Q"
+    },
+    {
+      "market_name": "AZUMI IRO A5 QL",
+      "codename": "IRO_A5_QL",
+      "model": "Azumi_IRO_A5_QL"
+    },
+    {
+      "market_name": "AZUMI IRO A5 QL",
+      "codename": "IRO_A5_QL_OM",
+      "model": "Azumi_IRO_A5_QL"
+    },
+    {
+      "market_name": "AZUMI IRO A55 Q",
+      "codename": "IRO_A55_Q",
+      "model": "IRO A55 Q"
+    },
+    {
+      "market_name": "AZUMI IRO A5Q",
+      "codename": "IRO_A5_Q",
+      "model": "Azumi_IRO_A5_Q"
+    },
+    {
+      "market_name": "AZUMI IRO A5Q",
+      "codename": "IRO_A5_Q_AF",
+      "model": "Azumi_IRO_A5_Q"
+    },
+    {
+      "market_name": "AZUMI KINZO A55 OLi",
+      "codename": "KINZO_A55_OLi",
+      "model": "Azumi_KINZO_A55_OLi"
+    },
+    {
+      "market_name": "AZUMI KINZO A55QL",
+      "codename": "KINZO_A55_OLi_CL",
+      "model": "Azumi_KINZO_A55_OLi"
+    },
+    {
+      "market_name": "AZUMI KINZO ICHI A5 QL",
+      "codename": "KINZO_ichi_A5_QL_NA",
+      "model": "KINZO_ichi_A5_QL"
+    },
+    {
+      "market_name": "DOSHI A55 QL",
+      "codename": "Azumi_DOSHI_A55_QL",
+      "model": "Azumi_DOSHI_A55_QL"
+    },
+    {
+      "market_name": "IRO A5QL",
+      "codename": "IRO_A5_QL_HD",
+      "model": "Azumi_IRO_A5_QL"
+    },
+    {
+      "market_name": "Speed 55",
+      "codename": "Speed_55",
+      "model": "Speed_55"
     },
     {
       "market_name": "azumi_A50LT",

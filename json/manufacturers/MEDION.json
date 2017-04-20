@@ -12,6 +12,11 @@
       "model": "B5060"
     },
     {
+      "market_name": "E5006",
+      "codename": "B5032",
+      "model": "B5032"
+    },
+    {
       "market_name": "E5504",
       "codename": "B5530",
       "model": "MEDION B5530"
@@ -220,6 +225,11 @@
       "market_name": "S7322",
       "codename": "LIFETAB_S732X",
       "model": "LIFETAB_S732X"
+    },
+    {
+      "market_name": "X5520",
+      "codename": "B5532",
+      "model": "B5532"
     },
     {
       "market_name": "X6001",

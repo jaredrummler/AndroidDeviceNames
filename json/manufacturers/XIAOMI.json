@@ -167,6 +167,16 @@
       "model": "MI 4S"
     },
     {
+      "market_name": "MI 5C",
+      "codename": "meri",
+      "model": "MI 5C"
+    },
+    {
+      "market_name": "MI 5C",
+      "codename": "meri",
+      "model": "Meri"
+    },
+    {
       "market_name": "MI 5s Plus",
       "codename": "natrium",
       "model": "MI 5s Plus"
@@ -197,6 +207,11 @@
       "model": "MI PAD"
     },
     {
+      "market_name": "MIBOX3",
+      "codename": "once",
+      "model": "MIBOX3"
+    },
+    {
       "market_name": "MIBOXPRO",
       "codename": "kungfupanda",
       "model": "MiBOX_PRO"
@@ -215,6 +230,11 @@
       "market_name": "MITV3S-55/60",
       "codename": "pulpfiction",
       "model": "MiTV3S"
+    },
+    {
+      "market_name": "MITV3S-55/60",
+      "codename": "pulpfiction",
+      "model": "MiTV4"
     },
     {
       "market_name": "MIX",
@@ -325,6 +345,16 @@
       "market_name": "Redmi 4A",
       "codename": "rolex",
       "model": "Redmi 4A"
+    },
+    {
+      "market_name": "Redmi 4X",
+      "codename": "santoni",
+      "model": "Redmi 4X"
+    },
+    {
+      "market_name": "Redmi 4X",
+      "codename": "santoni",
+      "model": "santoni"
     },
     {
       "market_name": "Redmi Note 3",

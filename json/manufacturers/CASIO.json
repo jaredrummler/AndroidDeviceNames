@@ -2,9 +2,19 @@
   "manufacturer": "Casio",
   "devices": [
     {
+      "market_name": "IT-G400",
+      "codename": "itg400",
+      "model": "IT-G400"
+    },
+    {
       "market_name": "Smart Outdoor Watch WSD-F10",
       "codename": "koi",
       "model": "CASIO WSD-F10"
+    },
+    {
+      "market_name": "WSD-F20",
+      "codename": "ayu",
+      "model": "CASIO WSD-F20S"
     }
   ]
 }

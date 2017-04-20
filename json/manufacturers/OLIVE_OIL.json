@@ -2,6 +2,11 @@
   "manufacturer": "Olive Oil",
   "devices": [
     {
+      "market_name": "CT4",
+      "codename": "octopus-ct4",
+      "model": "Octopus A83 CT4"
+    },
+    {
       "market_name": "OliveOil Model 3",
       "codename": "wecct3",
       "model": "CT3"

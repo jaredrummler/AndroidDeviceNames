@@ -2,6 +2,16 @@
   "manufacturer": "Logicom",
   "devices": [
     {
+      "market_name": "B bot 50",
+      "codename": "BBOT50",
+      "model": "B BOT 50"
+    },
+    {
+      "market_name": "B bot 550",
+      "codename": "BBOT550",
+      "model": "B BOT 550"
+    },
+    {
       "market_name": "Connect503",
       "codename": "L-ite502",
       "model": "Connect503"
@@ -17,6 +27,36 @@
       "model": "E400"
     },
     {
+      "market_name": "ID bot 53",
+      "codename": "IDbot53",
+      "model": "ID bot 53"
+    },
+    {
+      "market_name": "ID bot 553",
+      "codename": "IDbot553",
+      "model": "IDbot553"
+    },
+    {
+      "market_name": "ID bot 553+",
+      "codename": "IDbot553PLUS",
+      "model": "IDbot553PLUS"
+    },
+    {
+      "market_name": "IDbot53plus",
+      "codename": "IDbot53plus",
+      "model": "ID bot 53+"
+    },
+    {
+      "market_name": "L-EGANT  ONE-R",
+      "codename": "L-EGANTONE-R",
+      "model": "L-EGANTONE-R"
+    },
+    {
+      "market_name": "L-EMENT 553",
+      "codename": "L-EMENT553",
+      "model": "L-EMENT 553"
+    },
+    {
       "market_name": "L-EMENT TAB 1040",
       "codename": "generic",
       "model": "L-EMENT_TAB1040"
@@ -30,6 +70,16 @@
       "market_name": "L-EMENT TAB 742",
       "codename": "LEMENTTAB742",
       "model": "L-EMENT 742"
+    },
+    {
+      "market_name": "L-EMENT TAB 744",
+      "codename": "L-ement_Tab_744",
+      "model": "L-ement_Tab_744"
+    },
+    {
+      "market_name": "L-EMENT TAB 744P",
+      "codename": "L-ementTab744P",
+      "model": "L-ementTab744P"
     },
     {
       "market_name": "L-EMENT350",
@@ -72,9 +122,19 @@
       "model": "L-EMENT_TAB1040_BT"
     },
     {
+      "market_name": "L-ITE 400M",
+      "codename": "L-ITE400M",
+      "model": "L-ITE 400M"
+    },
+    {
       "market_name": "L-ITE 502 PLUS",
       "codename": "L-ITE502PLUS",
       "model": "L-ITE 502 PLUS"
+    },
+    {
+      "market_name": "L-ITE 506R HD",
+      "codename": "L-ITE506RHD",
+      "model": "L-ITE 506R HD"
     },
     {
       "market_name": "L-ITE402",
@@ -127,6 +187,11 @@
       "model": "E852GP"
     },
     {
+      "market_name": "L_IXIR_TAB_1047HD",
+      "codename": "L_IXIR_TAB_1047HD",
+      "model": "L_IXIR_TAB_1047HD"
+    },
+    {
       "market_name": "Logicom S450",
       "codename": "S450",
       "model": "S450"
@@ -140,6 +205,41 @@
       "market_name": "Logicom S504",
       "codename": "S504",
       "model": "S504"
+    },
+    {
+      "market_name": "Logikids",
+      "codename": "Logikids_2",
+      "model": "Logikids_2"
+    },
+    {
+      "market_name": "M bot 51",
+      "codename": "Mbot51",
+      "model": "M bot 51"
+    },
+    {
+      "market_name": "M bot 551",
+      "codename": "M_BOT_551",
+      "model": "M BOT 551"
+    },
+    {
+      "market_name": "M bot tab 100",
+      "codename": "M_BOT_TAB_100",
+      "model": "M BOT TAB 100"
+    },
+    {
+      "market_name": "M bot tab 101",
+      "codename": "MBOTTAB101",
+      "model": "M BOT TAB 101"
+    },
+    {
+      "market_name": "M bot tab 70",
+      "codename": "M_BOT_TAB_70",
+      "model": "M BOT TAB 70"
+    },
+    {
+      "market_name": "POWER bot",
+      "codename": "POWERBOT",
+      "model": "POWER BOT"
     },
     {
       "market_name": "S1052",
@@ -160,6 +260,16 @@
       "market_name": "S952",
       "codename": "S952",
       "model": "S952"
+    },
+    {
+      "market_name": "VRBOT552",
+      "codename": "VRBOT552",
+      "model": "VR BOT 552"
+    },
+    {
+      "market_name": "VRBOT552PLUS",
+      "codename": "VRBOT552PLUS",
+      "model": "VR BOT 552 PLUS"
     }
   ]
 }

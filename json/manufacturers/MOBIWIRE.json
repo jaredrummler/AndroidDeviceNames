@@ -7,6 +7,11 @@
       "model": "Ahiga"
     },
     {
+      "market_name": "Chenoa",
+      "codename": "Chenoa",
+      "model": "Chenoa"
+    },
+    {
       "market_name": "Cygnus mini",
       "codename": "Cygnus_mini",
       "model": "Cygnus mini"
@@ -15,6 +20,26 @@
       "market_name": "Cygnus mini",
       "codename": "Cygnus_mini",
       "model": "Cygnus_mini"
+    },
+    {
+      "market_name": "Kiona",
+      "codename": "Kiona",
+      "model": "Kiona"
+    },
+    {
+      "market_name": "Kosumi",
+      "codename": "Kosumi",
+      "model": "Kosumi"
+    },
+    {
+      "market_name": "MobiWire H",
+      "codename": "Halona",
+      "model": "Halona"
+    },
+    {
+      "market_name": "MobiWire Halona",
+      "codename": "Halona",
+      "model": "Halona"
     },
     {
       "market_name": "MobiWire Kaya",
@@ -27,6 +52,11 @@
       "model": "Kohana"
     },
     {
+      "market_name": "MobiWire Tala",
+      "codename": "Tala",
+      "model": "Tala"
+    },
+    {
       "market_name": "Pegasus",
       "codename": "Pegasus",
       "model": "Pegasus"
@@ -35,6 +65,16 @@
       "market_name": "S4040",
       "codename": "S4040",
       "model": "S4040"
+    },
+    {
+      "market_name": "STARSHINE 5",
+      "codename": "Cygnus_mini",
+      "model": "STARSHINE5"
+    },
+    {
+      "market_name": "STARSHINE 5",
+      "codename": "Cygnus_mini",
+      "model": "Smart_A25"
     },
     {
       "market_name": "Telenor SmartPlus",

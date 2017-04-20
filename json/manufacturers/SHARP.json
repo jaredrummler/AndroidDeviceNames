@@ -687,6 +687,11 @@
       "model": "LC-S3H-01"
     },
     {
+      "market_name": "LC-S4H/LC-S45H",
+      "codename": "lc_xxcae5h",
+      "model": "LC-xxCAE5H"
+    },
+    {
       "market_name": "LC-U35T",
       "codename": "lc_u35t",
       "model": "LC-U35T"
@@ -702,19 +707,29 @@
       "model": "LC-XU930X_830X"
     },
     {
-      "market_name": "LC-xxCAE5H",
-      "codename": "lc_xxcae5h",
-      "model": "LC-xxCAE5H"
-    },
-    {
       "market_name": "LC-xxUE630X",
       "codename": "lc_ue630x",
       "model": "LC-UE630X"
     },
     {
-      "market_name": "LCD-45FOC46A",
+      "market_name": "LCD-40SF465A",
+      "codename": "Lcd_40foc465a",
+      "model": "LCD_40FOC465A"
+    },
+    {
+      "market_name": "LCD-40SF466A",
+      "codename": "Lcd_40foc466a",
+      "model": "LCD_40FOC466A"
+    },
+    {
+      "market_name": "LCD-45SF460A",
       "codename": "Lcd_45foc46a",
       "model": "LCD_45FOC46A"
+    },
+    {
+      "market_name": "LCD-45T45A/LCD-45T46A/LCD-45T47A",
+      "codename": "Lcd_foc36a",
+      "model": "LCD_FOC36A"
     },
     {
       "market_name": "LCD-LX460A",
@@ -737,9 +752,19 @@
       "model": "LCD-LX565A"
     },
     {
-      "market_name": "LCD-S3A-01",
+      "market_name": "LCD-S3A",
       "codename": "lcd_s3a01",
       "model": "LCD-S3A-01"
+    },
+    {
+      "market_name": "LCD-SU460A/LCD-SU465A",
+      "codename": "lcd_xxcae5a_c",
+      "model": "LCD-xxCAE5A-C"
+    },
+    {
+      "market_name": "LCD-SU560A",
+      "codename": "lcd_xxcae5a",
+      "model": "LCD-xxCAE5A"
     },
     {
       "market_name": "LCD-UF30A",
@@ -760,21 +785,6 @@
       "market_name": "LCD-xxBEL8A",
       "codename": "lcd_xxbel8a",
       "model": "LCD-xxBEL8A"
-    },
-    {
-      "market_name": "LCD-xxCAE5A",
-      "codename": "lcd_xxcae5a",
-      "model": "LCD-xxCAE5A"
-    },
-    {
-      "market_name": "LCD-xxCAE5A-C",
-      "codename": "lcd_xxcae5a_c",
-      "model": "LCD-xxCAE5A-C"
-    },
-    {
-      "market_name": "LCD-xxFOC36A",
-      "codename": "Lcd_foc36a",
-      "model": "LCD_FOC36A"
     },
     {
       "market_name": "LYNX 3D SH-03C",
@@ -895,6 +905,11 @@
       "market_name": "SHARP Z2",
       "codename": "TSP",
       "model": "FS8002"
+    },
+    {
+      "market_name": "SHARP Z3",
+      "codename": "VN3N",
+      "model": "FS8009"
     },
     {
       "market_name": "SoftBank 007SH KT",

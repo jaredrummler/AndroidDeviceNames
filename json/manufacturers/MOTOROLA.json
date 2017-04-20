@@ -957,9 +957,34 @@
       "model": "Moto G Play"
     },
     {
+      "market_name": "Moto G (5th Gen)",
+      "codename": "cedric",
+      "model": "Moto G (5)"
+    },
+    {
       "market_name": "Moto G Google Play edition",
       "codename": "falcon_umts",
       "model": "XT1032"
+    },
+    {
+      "market_name": "Moto G Plus (5th Gen)",
+      "codename": "potter",
+      "model": "Moto G (5) Plus"
+    },
+    {
+      "market_name": "Moto G Plus (5th Gen)",
+      "codename": "potter_n",
+      "model": "Moto G (4)"
+    },
+    {
+      "market_name": "Moto G Plus (5th Gen)",
+      "codename": "potter_n",
+      "model": "Moto G (5) Plus"
+    },
+    {
+      "market_name": "Moto G Plus (5th Gen)",
+      "codename": "potter_nt",
+      "model": "Moto G (5) Plus"
     },
     {
       "market_name": "Moto G Turbo Edition",

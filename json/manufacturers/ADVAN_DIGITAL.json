@@ -2,6 +2,11 @@
   "manufacturer": "Advan digital",
   "devices": [
     {
+      "market_name": "5041",
+      "codename": "ADVAN_5041",
+      "model": "5041"
+    },
+    {
       "market_name": "5059",
       "codename": "ADVAN_5059",
       "model": "5059"

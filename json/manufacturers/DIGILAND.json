@@ -2,6 +2,11 @@
   "manufacturer": "DigiLand",
   "devices": [
     {
+      "market_name": "CompumaxBlue",
+      "codename": "mid1024_e",
+      "model": "Compumax_Blue_6030-805-0001"
+    },
+    {
       "market_name": "DL1008M",
       "codename": "mid1008l_emmc",
       "model": "DL1008M"
@@ -10,6 +15,21 @@
       "market_name": "DL1010Q",
       "codename": "DL1010Q",
       "model": "DL1010Q"
+    },
+    {
+      "market_name": "DL1018A",
+      "codename": "mid1024_e",
+      "model": "DL1018A"
+    },
+    {
+      "market_name": "DL1026",
+      "codename": "DL1026",
+      "model": "DL1026"
+    },
+    {
+      "market_name": "DL1168A",
+      "codename": "mid1102",
+      "model": "DL1168A"
     },
     {
       "market_name": "DL700D",
@@ -22,14 +42,29 @@
       "model": "DL701Q"
     },
     {
+      "market_name": "DL718M",
+      "codename": "mid713l_lp",
+      "model": "DL718M"
+    },
+    {
       "market_name": "DL785D",
       "codename": "DL785D",
       "model": "PLT7803G"
     },
     {
+      "market_name": "NBDVDTAB9",
+      "codename": "NBDVDTAB9",
+      "model": "NBDVDTAB9"
+    },
+    {
       "market_name": "NS-P16AT08",
       "codename": "mid8005",
       "model": "NS-P16AT08"
+    },
+    {
+      "market_name": "NS-P16AT785HD",
+      "codename": "MID7802RA",
+      "model": "NS-P16AT785HD"
     }
   ]
 }

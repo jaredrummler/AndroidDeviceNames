@@ -537,9 +537,29 @@
       "model": "4024X"
     },
     {
+      "market_name": "4055A",
+      "codename": "U3",
+      "model": "4055A"
+    },
+    {
+      "market_name": "4055I",
+      "codename": "U3",
+      "model": "4055I"
+    },
+    {
       "market_name": "4055J",
       "codename": "U3",
       "model": "4055J"
+    },
+    {
+      "market_name": "4055Q",
+      "codename": "U3",
+      "model": "4055Q"
+    },
+    {
+      "market_name": "4055T",
+      "codename": "U3",
+      "model": "4055T"
     },
     {
       "market_name": "4055U",
@@ -585,6 +605,11 @@
       "market_name": "5042T",
       "codename": "ALTO45TMO",
       "model": "5042T"
+    },
+    {
+      "market_name": "5046S",
+      "codename": "Mickey6VZW",
+      "model": "5046S"
     },
     {
       "market_name": "5051",
@@ -682,6 +707,11 @@
       "model": "5056G"
     },
     {
+      "market_name": "5056I",
+      "codename": "POP455C",
+      "model": "5056I"
+    },
+    {
       "market_name": "5056N",
       "codename": "POP455C",
       "model": "5056N"
@@ -760,6 +790,11 @@
       "market_name": "5080U",
       "codename": "shine_lite",
       "model": "ALCATEL_5080U"
+    },
+    {
+      "market_name": "5098O",
+      "codename": "Pixi4-64GMEX",
+      "model": "5098O"
     },
     {
       "market_name": "5098O",
@@ -1017,6 +1052,11 @@
       "model": "8080"
     },
     {
+      "market_name": "8262",
+      "codename": "Pixi4-7_WIFI",
+      "model": "8262"
+    },
+    {
       "market_name": "9001D",
       "codename": "Pixi4-6_4G",
       "model": "9001D"
@@ -1098,6 +1138,11 @@
     },
     {
       "market_name": "9015B",
+      "codename": "Pixi4-7_4G_Rogers",
+      "model": "9015B"
+    },
+    {
+      "market_name": "9015B",
       "codename": "Pixi4-7_4G_Telus",
       "model": "9015B"
     },
@@ -1154,7 +1199,27 @@
     {
       "market_name": "A3",
       "codename": "mickey6",
+      "model": "5046A"
+    },
+    {
+      "market_name": "A3",
+      "codename": "mickey6",
+      "model": "5046D"
+    },
+    {
+      "market_name": "A3",
+      "codename": "mickey6",
+      "model": "5046I"
+    },
+    {
+      "market_name": "A3",
+      "codename": "mickey6",
       "model": "5046J"
+    },
+    {
+      "market_name": "A3",
+      "codename": "mickey6",
+      "model": "5046T"
     },
     {
       "market_name": "A3",
@@ -1167,6 +1232,11 @@
       "model": "5046Y"
     },
     {
+      "market_name": "\"A3 8\"\"\"",
+      "codename": "PIXI5-8_4G_TMO",
+      "model": "9024W"
+    },
+    {
       "market_name": "A3 XL",
       "codename": "PIXI5-6_4G",
       "model": "9008A"
@@ -1174,7 +1244,37 @@
     {
       "market_name": "A3 XL",
       "codename": "PIXI5-6_4G",
+      "model": "9008D"
+    },
+    {
+      "market_name": "A3 XL",
+      "codename": "PIXI5-6_4G",
+      "model": "9008I"
+    },
+    {
+      "market_name": "A3 XL",
+      "codename": "PIXI5-6_4G",
       "model": "9008J"
+    },
+    {
+      "market_name": "A3 XL",
+      "codename": "PIXI5-6_4G",
+      "model": "9008T"
+    },
+    {
+      "market_name": "A3 XL",
+      "codename": "PIXI5-6_4G",
+      "model": "9008U"
+    },
+    {
+      "market_name": "A3 XL",
+      "codename": "PIXI5-6_4G",
+      "model": "9008X"
+    },
+    {
+      "market_name": "A30",
+      "codename": "MICKEY6US",
+      "model": "5046G"
     },
     {
       "market_name": "A450TL",
@@ -1194,6 +1294,11 @@
     {
       "market_name": "A5",
       "codename": "ELSA6",
+      "model": "5085A"
+    },
+    {
+      "market_name": "A5",
+      "codename": "ELSA6",
       "model": "5085B"
     },
     {
@@ -1204,7 +1309,22 @@
     {
       "market_name": "A5",
       "codename": "ELSA6",
+      "model": "5085H"
+    },
+    {
+      "market_name": "A5",
+      "codename": "ELSA6",
       "model": "5085I"
+    },
+    {
+      "market_name": "A5",
+      "codename": "ELSA6",
+      "model": "5085J"
+    },
+    {
+      "market_name": "A5",
+      "codename": "ELSA6",
+      "model": "5085N"
     },
     {
       "market_name": "A5",
@@ -1245,6 +1365,11 @@
       "market_name": "A573VC",
       "codename": "Pixi445EVDO",
       "model": "A573VC"
+    },
+    {
+      "market_name": "A577VL",
+      "codename": "Mickey6TFEVDO",
+      "model": "A577VL"
     },
     {
       "market_name": "A621BL",
@@ -2374,6 +2499,11 @@
     {
       "market_name": "ALCATEL PIXI 4 (5)",
       "codename": "PIXI4_5_4G",
+      "model": "5045F"
+    },
+    {
+      "market_name": "ALCATEL PIXI 4 (5)",
+      "codename": "PIXI4_5_4G",
       "model": "5045G"
     },
     {
@@ -2655,6 +2785,11 @@
       "market_name": "E500",
       "codename": "X50D",
       "model": "E500"
+    },
+    {
+      "market_name": "ELEMENT5",
+      "codename": "BUZZ6T4GGOPHONE",
+      "model": "Alcatel_5044R"
     },
     {
       "market_name": "EVO7",
@@ -3477,6 +3612,11 @@
       "model": "5010X"
     },
     {
+      "market_name": "PIXI 5 HD",
+      "codename": "Mickey6CC",
+      "model": "A576CC"
+    },
+    {
       "market_name": "PIXI3(4)",
       "codename": "Pixi3-4",
       "model": "4003A"
@@ -3819,6 +3959,11 @@
     {
       "market_name": "SHINE LITE",
       "codename": "shine_lite",
+      "model": "5080D"
+    },
+    {
+      "market_name": "SHINE LITE",
+      "codename": "shine_lite",
       "model": "5080X"
     },
     {
@@ -3837,6 +3982,11 @@
       "model": "T-1000"
     },
     {
+      "market_name": "SOL PRIME",
+      "codename": "idol4s_skt",
+      "model": "T-1000"
+    },
+    {
       "market_name": "SOLO Aspire M",
       "codename": "PIXI3-5",
       "model": "SOLO Aspire M"
@@ -3845,6 +3995,11 @@
       "market_name": "SOUL 4.5",
       "codename": "SOUL45_GSM",
       "model": "5038X"
+    },
+    {
+      "market_name": "Smart Tab N8",
+      "codename": "VFD1300",
+      "model": "VFD 1300"
     },
     {
       "market_name": "Smartphone Android by SFR STARADDICT II",
@@ -4482,6 +4637,11 @@
       "model": "5044A"
     },
     {
+      "market_name": "U5",
+      "codename": "BUZZ6T4G",
+      "model": "5044Y"
+    },
+    {
       "market_name": "VF 860",
       "codename": "Vodafone_Smart_II_gsm",
       "model": "Vodafone Smart II"
@@ -4554,12 +4714,27 @@
     {
       "market_name": "alcatel U5",
       "codename": "BUZZ6T4G",
+      "model": "5044D"
+    },
+    {
+      "market_name": "alcatel U5",
+      "codename": "BUZZ6T4G",
+      "model": "5044I"
+    },
+    {
+      "market_name": "alcatel U5",
+      "codename": "BUZZ6T4G",
       "model": "5044K"
     },
     {
       "market_name": "alcatel U5",
       "codename": "BUZZ6T4G",
       "model": "5044O"
+    },
+    {
+      "market_name": "alcatel U5",
+      "codename": "BUZZ6T4G",
+      "model": "5044T"
     },
     {
       "market_name": "freebit PandA_m14",

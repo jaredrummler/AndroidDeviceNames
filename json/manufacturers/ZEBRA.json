@@ -22,6 +22,11 @@
       "model": "ET5X"
     },
     {
+      "market_name": "MC18",
+      "codename": "MC18",
+      "model": "MC18N0"
+    },
+    {
       "market_name": "MC36",
       "codename": "cardhu",
       "model": "MC36"
@@ -43,6 +48,11 @@
     },
     {
       "market_name": "TC51",
+      "codename": "TC51",
+      "model": "TC51"
+    },
+    {
+      "market_name": "TC51",
       "codename": "TC51HC",
       "model": "TC51"
     },
@@ -50,6 +60,11 @@
       "market_name": "TC55",
       "codename": "TC55",
       "model": "TC55"
+    },
+    {
+      "market_name": "TC56",
+      "codename": "TC56",
+      "model": "TC56"
     },
     {
       "market_name": "TC70x",
@@ -75,6 +90,11 @@
       "market_name": "WT6000",
       "codename": "WT6000",
       "model": "WT6000"
+    },
+    {
+      "market_name": "Zebra CC5000",
+      "codename": "concierge",
+      "model": "CCHUB1"
     }
   ]
 }

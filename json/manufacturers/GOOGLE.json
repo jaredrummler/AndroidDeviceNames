@@ -2,6 +2,16 @@
   "manufacturer": "Google",
   "devices": [
     {
+      "market_name": "Chromebook Plus",
+      "codename": "kevin_cheets",
+      "model": "Samsung Chromebook Plus"
+    },
+    {
+      "market_name": "Chromebook Plus",
+      "codename": "kevin_cheets",
+      "model": "kevin"
+    },
+    {
       "market_name": "Galaxy S4 Google Play edition",
       "codename": "jgedlte",
       "model": "GT-I9505G"
@@ -10,6 +20,11 @@
       "market_name": "Google Chromebook Pixel (2015)",
       "codename": "samus_cheets",
       "model": "Google Chromebook Pixel (2015)"
+    },
+    {
+      "market_name": "Google Emulator",
+      "codename": "generic_x86",
+      "model": "Android SDK built for x86"
     },
     {
       "market_name": "Pixel",

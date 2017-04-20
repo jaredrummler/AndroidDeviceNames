@@ -52,6 +52,11 @@
       "model": "A7_Lite"
     },
     {
+      "market_name": "A8 Lite",
+      "codename": "A8_Lite",
+      "model": "A8_Lite"
+    },
+    {
       "market_name": "AX4 Nano Plus",
       "codename": "AX4Nano_plus",
       "model": "AX4Nano_plus"
@@ -185,6 +190,11 @@
       "market_name": "P6 Energy mini",
       "codename": "P6_Energy_mini",
       "model": "P6_Energy_mini"
+    },
+    {
+      "market_name": "P6 Life",
+      "codename": "P6_Life",
+      "model": "P6_Life"
     },
     {
       "market_name": "P6 Lite",
@@ -525,6 +535,16 @@
       "market_name": "X4 Soul",
       "codename": "X4_Soul",
       "model": "X4_Soul"
+    },
+    {
+      "market_name": "X4 Soul Mini",
+      "codename": "X4_Soul_Mini",
+      "model": "X4_Soul_Mini"
+    },
+    {
+      "market_name": "X4 Soul Style",
+      "codename": "X4_Soul_Style",
+      "model": "X4_Soul_Style"
     }
   ]
 }

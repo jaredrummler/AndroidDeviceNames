@@ -7,9 +7,19 @@
       "model": "4U"
     },
     {
+      "market_name": "ARC",
+      "codename": "ARC",
+      "model": "ARC"
+    },
+    {
       "market_name": "Air",
       "codename": "Mobicel_Air",
       "model": "Air"
+    },
+    {
+      "market_name": "BERRY",
+      "codename": "BERRY",
+      "model": "BERRY"
     },
     {
       "market_name": "CHERRY",
@@ -102,6 +112,11 @@
       "model": "PLUM"
     },
     {
+      "market_name": "RUSH",
+      "codename": "RUSH",
+      "model": "RUSH"
+    },
+    {
       "market_name": "SHIFT",
       "codename": "SHIFT",
       "model": "SHIFT"
@@ -130,6 +145,11 @@
       "market_name": "U2",
       "codename": "U2",
       "model": "U2"
+    },
+    {
+      "market_name": "ZEN",
+      "codename": "ZEN",
+      "model": "ZEN"
     },
     {
       "market_name": "ZOOM",

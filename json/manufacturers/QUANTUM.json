@@ -2,6 +2,11 @@
   "manufacturer": "Quantum",
   "devices": [
     {
+      "market_name": "MUV UP",
+      "codename": "Q13",
+      "model": "Quantum MUV UP"
+    },
+    {
       "market_name": "QSPT-1952",
       "codename": "QF3A",
       "model": "QT-195W-aa2"
@@ -22,6 +27,11 @@
       "model": "Quantum Go"
     },
     {
+      "market_name": "Quantum MUV",
+      "codename": "Q3B",
+      "model": "Quantum MUV"
+    },
+    {
       "market_name": "Quantum MUV PRO",
       "codename": "Q5",
       "model": "Quantum MUV PRO"
@@ -35,6 +45,11 @@
       "market_name": "Quantum Muv",
       "codename": "Q3",
       "model": "Quantum MUV"
+    },
+    {
+      "market_name": "Twist Neo",
+      "codename": "S501",
+      "model": "twist neo"
     }
   ]
 }

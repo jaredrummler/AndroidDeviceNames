@@ -1,0 +1,35 @@
+{
+  "manufacturer": "DBM Maroc",
+  "devices": [
+    {
+      "market_name": "ACCENT SURF 1000",
+      "codename": "SURF1000",
+      "model": "SURF1000"
+    },
+    {
+      "market_name": "Accent Speed Y3",
+      "codename": "Speed-Y3",
+      "model": "Speed-Y3"
+    },
+    {
+      "market_name": "FAST A6",
+      "codename": "FAST_A6",
+      "model": "FAST A6"
+    },
+    {
+      "market_name": "FAST7 4G",
+      "codename": "FAST7_4G",
+      "model": "FAST7_4G"
+    },
+    {
+      "market_name": "Pearl A2",
+      "codename": "PEARL_A2",
+      "model": "PEARL_A2"
+    },
+    {
+      "market_name": "Speed X2",
+      "codename": "Speed-X2",
+      "model": "Speed-X2"
+    }
+  ]
+}

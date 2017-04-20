@@ -1,8 +1,20 @@
 [
   {
     "manufacturer": "Fossil",
-    "market_name": "Fossil Q Wander / Fossil Q Founder / Michael Kors Access",
+    "market_name": "Q Wander / Q Founder / Bradshaw / Dylan",
+    "codename": "gar",
+    "model": "Bradshaw"
+  },
+  {
+    "manufacturer": "Fossil",
+    "market_name": "Q Wander / Q Founder / Bradshaw / Dylan",
     "codename": "gar",
     "model": "Q Marshal"
+  },
+  {
+    "manufacturer": "Fossil",
+    "market_name": "Q Wander / Q Founder / Bradshaw / Dylan",
+    "codename": "gar",
+    "model": "Q Wander"
   }
 ]

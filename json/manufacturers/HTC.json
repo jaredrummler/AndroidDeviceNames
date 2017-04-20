@@ -637,11 +637,6 @@
       "model": "HTC 9060"
     },
     {
-      "market_name": "HTC D10i",
-      "codename": "htc_a56dj_pro_dugl",
-      "model": "HTC_D10i"
-    },
-    {
       "market_name": "HTC D10w",
       "codename": "htc_a56dj_pro_dtwl",
       "model": "HTC D10w"
@@ -742,9 +737,14 @@
       "model": "ADR6410OM"
     },
     {
-      "market_name": "HTC Desire 10",
-      "codename": "htc_a56dj_pro_dugl",
-      "model": "HTC Desire 10 pro"
+      "market_name": "HTC Desire 10 compact",
+      "codename": "htc_a37dj_dugl",
+      "model": "HTC 2PZS1"
+    },
+    {
+      "market_name": "HTC Desire 10 compact",
+      "codename": "htc_a37dj_dugl",
+      "model": "a37dj dugl"
     },
     {
       "market_name": "HTC Desire 10 lifestyle",
@@ -775,6 +775,11 @@
       "market_name": "HTC Desire 10 pro",
       "codename": "htc_a56dj_pro_dugl",
       "model": "HTC Desire 10 pro"
+    },
+    {
+      "market_name": "HTC Desire 10 pro",
+      "codename": "htc_a56dj_pro_dugl",
+      "model": "HTC_D10i"
     },
     {
       "market_name": "HTC Desire 10 pro",
@@ -1274,12 +1279,27 @@
     {
       "market_name": "HTC Desire 650",
       "codename": "htc_a17uhl",
+      "model": "HTC 2PYR1"
+    },
+    {
+      "market_name": "HTC Desire 650",
+      "codename": "htc_a17uhl",
       "model": "HTC Desire 650"
     },
     {
       "market_name": "HTC Desire 650",
       "codename": "htc_a17uhl",
       "model": "HTC_D650h"
+    },
+    {
+      "market_name": "HTC Desire 650 dual sim",
+      "codename": "htc_a37_dugl",
+      "model": "A37 DUGL"
+    },
+    {
+      "market_name": "HTC Desire 650 dual sim",
+      "codename": "htc_a37_dugl",
+      "model": "HTC Desire 650 dual sim"
     },
     {
       "market_name": "HTC Desire 700 dual sim",
@@ -1320,6 +1340,11 @@
       "market_name": "HTC Desire 728",
       "codename": "htc_a50cml_tuhl",
       "model": "HTC Desire 728"
+    },
+    {
+      "market_name": "HTC Desire 728 dual sim",
+      "codename": "htc_a50cml_dtul",
+      "model": "HTC Desire 728 dual sim"
     },
     {
       "market_name": "HTC Desire 728G dual sim",
@@ -1837,11 +1862,6 @@
       "model": "HTC One dual sim"
     },
     {
-      "market_name": "HTC ONE A9",
-      "codename": "htc_hiaeul",
-      "model": "HTC One A9"
-    },
-    {
       "market_name": "HTC ONE M8s",
       "codename": "htc_m8qlul",
       "model": "HTC One M8s"
@@ -2138,6 +2158,11 @@
     },
     {
       "market_name": "HTC One A9s",
+      "codename": "htc_e36_ml_uhl",
+      "model": "HTC_A9sx"
+    },
+    {
+      "market_name": "HTC One A9s",
       "codename": "htc_e36_ml_ul",
       "model": "HTC 2PWD2"
     },
@@ -2244,6 +2269,11 @@
     {
       "market_name": "HTC One M9",
       "codename": "htc_himawhl",
+      "model": "0PJA2"
+    },
+    {
+      "market_name": "HTC One M9",
+      "codename": "htc_himawhl",
       "model": "HTC One M9"
     },
     {
@@ -2255,11 +2285,6 @@
       "market_name": "HTC One M9",
       "codename": "htc_himawl",
       "model": "HTC6535LVW"
-    },
-    {
-      "market_name": "HTC One M9 \\xe2\\x80\\x93 0PJA2",
-      "codename": "htc_himawhl",
-      "model": "0PJA2"
     },
     {
       "market_name": "HTC One M9+",
@@ -2623,6 +2648,11 @@
     },
     {
       "market_name": "HTC U Play",
+      "codename": "htc_alpine_dugl",
+      "model": "HTC U Play"
+    },
+    {
+      "market_name": "HTC U Play",
       "codename": "htc_alpine_uhl",
       "model": "HTC 2PZM3"
     },
@@ -2635,6 +2665,31 @@
       "market_name": "HTC U Play",
       "codename": "htc_e36_ml_uhl",
       "model": "HTC 2PWD1"
+    },
+    {
+      "market_name": "HTC U Ultra",
+      "codename": "htc_ocedtwl",
+      "model": "HTC U-1w"
+    },
+    {
+      "market_name": "HTC U Ultra",
+      "codename": "htc_ocedugl",
+      "model": "HTC U Ultra"
+    },
+    {
+      "market_name": "HTC U Ultra",
+      "codename": "htc_ocedugl",
+      "model": "HTC_U-1u"
+    },
+    {
+      "market_name": "HTC U Ultra",
+      "codename": "htc_oceuhl",
+      "model": "HTC 2PZF1"
+    },
+    {
+      "market_name": "HTC U Ultra",
+      "codename": "htc_oceuhl",
+      "model": "HTC U Ultra"
     },
     {
       "market_name": "HTC Velocity 4G",
@@ -2799,11 +2854,6 @@
     {
       "market_name": "HTC_D728x",
       "codename": "htc_a50cml_dtul",
-      "model": "HTC Desire 728 dual sim"
-    },
-    {
-      "market_name": "HTC_D728x",
-      "codename": "htc_a50cml_dtul",
       "model": "HTC_D728x"
     },
     {
@@ -2875,6 +2925,11 @@
       "market_name": "HTC_U-2u",
       "codename": "htc_alpine_dugl",
       "model": "HTC_U-2u"
+    },
+    {
+      "market_name": "HTC_X10u",
+      "codename": "htc_alpine_dugl",
+      "model": "HTC U Play"
     },
     {
       "market_name": "HTC_X10u",

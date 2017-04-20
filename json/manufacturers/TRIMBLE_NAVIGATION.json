@@ -32,6 +32,21 @@
       "model": "TDC500"
     },
     {
+      "market_name": "TDC500 Handheld",
+      "codename": "workhorse_wifi",
+      "model": "TDC500"
+    },
+    {
+      "market_name": "TDC800 Handheld",
+      "codename": "pelican",
+      "model": "TDC800"
+    },
+    {
+      "market_name": "TDC800 Handheld",
+      "codename": "pelican_wifi",
+      "model": "TDC800"
+    },
+    {
       "market_name": "TDI 600",
       "codename": "ulmo_pro",
       "model": "TDI 600"

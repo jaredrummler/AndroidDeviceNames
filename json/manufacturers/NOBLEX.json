@@ -2,6 +2,16 @@
   "manufacturer": "Noblex",
   "devices": [
     {
+      "market_name": "Go Action",
+      "codename": "N551",
+      "model": "N551"
+    },
+    {
+      "market_name": "Go Urban",
+      "codename": "N503",
+      "model": "N503"
+    },
+    {
       "market_name": "NBX-T1014N",
       "codename": "TA10CA2",
       "model": "TA10CA2"

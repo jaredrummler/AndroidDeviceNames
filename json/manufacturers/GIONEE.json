@@ -2,6 +2,11 @@
   "manufacturer": "Gionee",
   "devices": [
     {
+      "market_name": "A1",
+      "codename": "GIONEE_SWW1609",
+      "model": "GIONEE A1"
+    },
+    {
       "market_name": "E8",
       "codename": "GiONEE_GN9008",
       "model": "E8"
@@ -70,6 +75,11 @@
       "market_name": "F106",
       "codename": "GIONEE_SWG1613",
       "model": "F106"
+    },
+    {
+      "market_name": "F106L",
+      "codename": "GIONEE_SW17G03",
+      "model": "F106L"
     },
     {
       "market_name": "F301",
@@ -212,6 +222,11 @@
       "model": "M2"
     },
     {
+      "market_name": "M2017",
+      "codename": "GIONEE_GBL8918",
+      "model": "M2017"
+    },
+    {
       "market_name": "M2mini",
       "codename": "GiONEE_WBW5612",
       "model": "M2mini"
@@ -287,9 +302,24 @@
       "model": "GN8002"
     },
     {
+      "market_name": "M6 Plus",
+      "codename": "GIONEE_BBL7516A01",
+      "model": "GN8002S"
+    },
+    {
       "market_name": "M6 mirror",
       "codename": "GIONEE_WBL7372",
       "model": "M6 mirror"
+    },
+    {
+      "market_name": "M6SLPlus",
+      "codename": "GIONEE_G1602A",
+      "model": "M6SLPlus"
+    },
+    {
+      "market_name": "M6SPlus",
+      "codename": "GIONEE_G1602A",
+      "model": "M6SPlus"
     },
     {
       "market_name": "P2M",
@@ -319,6 +349,11 @@
     {
       "market_name": "P5L",
       "codename": "GiONEE_WBL7352",
+      "model": "P5"
+    },
+    {
+      "market_name": "P5L",
+      "codename": "GiONEE_WBL7352",
       "model": "P5L"
     },
     {
@@ -330,6 +365,16 @@
       "market_name": "P6",
       "codename": "P6",
       "model": "P6"
+    },
+    {
+      "market_name": "P7",
+      "codename": "GIONEE_G1605A",
+      "model": "GIONEE P7"
+    },
+    {
+      "market_name": "P7",
+      "codename": "GIONEE_WBL7365",
+      "model": "GIONEE P7"
     },
     {
       "market_name": "P7",

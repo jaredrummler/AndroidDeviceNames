@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Myria",
+  "devices": [
+    {
+      "market_name": "3G MY8300",
+      "codename": "3G_MY8300",
+      "model": "3G"
+    },
+    {
+      "market_name": "Classic MY8301",
+      "codename": "Classic_MY8301",
+      "model": "Classic"
+    },
+    {
+      "market_name": "Cozy MY8302",
+      "codename": "Cozy_MY8302",
+      "model": "Cozy"
+    },
+    {
+      "market_name": "Fancy",
+      "codename": "Myria_Fancy",
+      "model": "Fancy"
+    }
+  ]
+}

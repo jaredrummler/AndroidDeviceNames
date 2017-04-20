@@ -7,6 +7,11 @@
       "model": "LAVA_A3"
     },
     {
+      "market_name": "A3_mini",
+      "codename": "A3_mini",
+      "model": "A3_mini"
+    },
+    {
       "market_name": "A52",
       "codename": "A52",
       "model": "A52"
@@ -57,6 +62,21 @@
       "model": "A82"
     },
     {
+      "market_name": "A97",
+      "codename": "A97",
+      "model": "A97"
+    },
+    {
+      "market_name": "A97",
+      "codename": "A97",
+      "model": "A97 IPS"
+    },
+    {
+      "market_name": "A97 2GB",
+      "codename": "A97_2GB",
+      "model": "A97 2GB"
+    },
+    {
       "market_name": "ERA 1X",
       "codename": "era1X",
       "model": "era1X"
@@ -80,6 +100,11 @@
       "market_name": "Iris 505",
       "codename": "iris505",
       "model": "iris505"
+    },
+    {
+      "market_name": "Iris820",
+      "codename": "iris820",
+      "model": "iris820"
     },
     {
       "market_name": "Lava A50",
@@ -177,6 +202,11 @@
       "model": "PixelV1"
     },
     {
+      "market_name": "R1",
+      "codename": "LAVA_R1",
+      "model": "LAVA_R1"
+    },
+    {
       "market_name": "V2s",
       "codename": "V2s",
       "model": "V2s"
@@ -217,6 +247,11 @@
       "model": "X19"
     },
     {
+      "market_name": "X28plus",
+      "codename": "X28_plus",
+      "model": "X28 Plus"
+    },
+    {
       "market_name": "X3",
       "codename": "X3",
       "model": "X3"
@@ -230,6 +265,11 @@
       "market_name": "X46",
       "codename": "LX46",
       "model": "X46"
+    },
+    {
+      "market_name": "X50",
+      "codename": "X50",
+      "model": "X50"
     },
     {
       "market_name": "X50 Plus",
@@ -252,6 +292,11 @@
       "model": "era 4K"
     },
     {
+      "market_name": "Xolo Era 2X",
+      "codename": "XE2X",
+      "model": "Era 2X"
+    },
+    {
       "market_name": "Xolo Era X",
       "codename": "era_X",
       "model": "era_X"
@@ -272,6 +317,11 @@
       "model": "Z25"
     },
     {
+      "market_name": "iris 821",
+      "codename": "iris821",
+      "model": "iris821"
+    },
+    {
       "market_name": "iris Fuel F2",
       "codename": "IFF2",
       "model": "Fuel F2"
@@ -285,6 +335,16 @@
       "market_name": "iris atom 3",
       "codename": "A3",
       "model": "A3"
+    },
+    {
+      "market_name": "iris30",
+      "codename": "iris30",
+      "model": "iris30"
+    },
+    {
+      "market_name": "iris702",
+      "codename": "iris702",
+      "model": "iris702"
     }
   ]
 }
