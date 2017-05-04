@@ -27,15 +27,17 @@ import android.os.Build;
 import android.os.Handler;
 import android.os.Looper;
 import android.text.TextUtils;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Locale;
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
 
 // @formatter:off
 /**
@@ -1737,12 +1739,28 @@ public class DeviceName {
         || codename.equals("dreamqltechn")
         || codename.equals("dreamqltesq")))
         || (model != null && (model.equals("SM-G9500")
+        || model.equals("SM-G950F")
         || model.equals("SM-G950W")
         || model.equals("SM-G950X")
         || model.equals("SM-G950XC")
         || model.equals("SM-G950XN")
         || model.equals("SM-G950XU")))) {
       return "Galaxy S8";
+    }
+    if ((codename != null && (codename.equals("dream2lte")
+        || codename.equals("dream2lteks")
+        || codename.equals("dream2lteskt")
+        || codename.equals("dream2qltecan")
+        || codename.equals("dream2qltesq")
+        || codename.equals("dream2qlteue")))
+        || (model != null && (model.equals("")
+        || model.equals("SM-G955F")
+        || model.equals("SM-G955N")
+        || model.equals("SM-G955XN")
+        || model.equals("SM-G955W")
+        || model.equals("SM-G955U")
+        || model.equals("SM-G955U1")))) {
+      return "Galaxy S8 Plus";
     }
     if ((codename != null && (codename.equals("GT-P7500")
         || codename.equals("GT-P7500D")
@@ -2032,8 +2050,23 @@ public class DeviceName {
     return getDeviceInfo(context.getApplicationContext(), Build.DEVICE, Build.MODEL);
   }
 
+  /**
+   * Get the {@link DeviceInfo} for the code model. Do not run on the UI thread, as this may
+   * download JSON to retrieve the {@link DeviceInfo}. JSON is only downloaded once and then
+   * stored to {@link SharedPreferences}.
+   *
+   * @param context
+   *     the application context.
+   * @param codename
+   *     the codename of the device
+   * @return {@link DeviceInfo} for the device.
+   */
+  public static DeviceInfo getDeviceInfo(Context context, String codename) {
+    return getDeviceInfo(context.getApplicationContext(), codename, null);
+  }
+
   /** Get the device name from the generated JSON files created from Google's device list. */
-  static DeviceInfo getDeviceInfo(Context context, String codename, String model) {
+  public static DeviceInfo getDeviceInfo(Context context, String codename, String model) {
     SharedPreferences prefs = context.getSharedPreferences(SHARED_PREF_NAME, Context.MODE_PRIVATE);
     String key = String.format("%s:%s", codename, model);
     String savedJson = prefs.getString(key, null);
