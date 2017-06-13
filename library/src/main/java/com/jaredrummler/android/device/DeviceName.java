@@ -26,6 +26,7 @@ import android.net.NetworkInfo;
 import android.os.Build;
 import android.os.Handler;
 import android.os.Looper;
+import android.support.annotation.WorkerThread;
 import android.text.TextUtils;
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -2060,6 +2061,7 @@ public class DeviceName {
    *     the application context.
    * @return {@link DeviceInfo} for the current device.
    */
+  @WorkerThread
   public static DeviceInfo getDeviceInfo(Context context) {
     return getDeviceInfo(context.getApplicationContext(), Build.DEVICE, Build.MODEL);
   }
@@ -2075,6 +2077,7 @@ public class DeviceName {
    *     the codename of the device
    * @return {@link DeviceInfo} for the current device.
    */
+  @WorkerThread
   public static DeviceInfo getDeviceInfo(Context context, String codename) {
     return getDeviceInfo(context, codename, null);
   }
@@ -2092,6 +2095,7 @@ public class DeviceName {
    *     the model of the device
    * @return {@link DeviceInfo} for the current device.
    */
+  @WorkerThread
   public static DeviceInfo getDeviceInfo(Context context, String codename, String model) {
     SharedPreferences prefs = context.getSharedPreferences(SHARED_PREF_NAME, Context.MODE_PRIVATE);
     String key = String.format("%s:%s", codename, model);
@@ -2163,7 +2167,7 @@ public class DeviceName {
    *     the String to capitalize
    * @return capitalized The capitalized String
    */
-  static String capitalize(String str) {
+   private static String capitalize(String str) {
     if (TextUtils.isEmpty(str)) {
       return str;
     }
@@ -2184,6 +2188,7 @@ public class DeviceName {
   }
 
   /** Download URL to String */
+  @WorkerThread
   private static String downloadJson(String myurl) throws IOException {
     StringBuilder sb = new StringBuilder();
     BufferedReader reader = null;
