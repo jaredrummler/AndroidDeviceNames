@@ -2064,8 +2064,35 @@ public class DeviceName {
     return getDeviceInfo(context.getApplicationContext(), Build.DEVICE, Build.MODEL);
   }
 
-  /** Get the device name from the generated JSON files created from Google's device list. */
-  static DeviceInfo getDeviceInfo(Context context, String codename, String model) {
+  /**
+   * Get the {@link DeviceInfo} for the current device. Do not run on the UI thread, as this may
+   * download JSON to retrieve the {@link DeviceInfo}. JSON is only downloaded once and then
+   * stored to {@link SharedPreferences}.
+   *
+   * @param context
+   *     the application context.
+   * @param codename
+   *     the codename of the device
+   * @return {@link DeviceInfo} for the current device.
+   */
+  public static DeviceInfo getDeviceInfo(Context context, String codename) {
+    return getDeviceInfo(context, codename, null);
+  }
+
+  /**
+   * Get the {@link DeviceInfo} for the current device. Do not run on the UI thread, as this may
+   * download JSON to retrieve the {@link DeviceInfo}. JSON is only downloaded once and then
+   * stored to {@link SharedPreferences}.
+   *
+   * @param context
+   *     the application context.
+   * @param codename
+   *     the codename of the device
+   * @param model
+   *     the model of the device
+   * @return {@link DeviceInfo} for the current device.
+   */
+  public static DeviceInfo getDeviceInfo(Context context, String codename, String model) {
     SharedPreferences prefs = context.getSharedPreferences(SHARED_PREF_NAME, Context.MODE_PRIVATE);
     String key = String.format("%s:%s", codename, model);
     String savedJson = prefs.getString(key, null);
@@ -2094,6 +2121,7 @@ public class DeviceName {
 
     if (isConnectedToNetwork) {
       try {
+        // Get the device name from the generated JSON files created from Google's device list.
         String url = String.format(DEVICE_JSON_URL, codename.toLowerCase(Locale.ENGLISH));
         String jsonString = downloadJson(url);
         JSONArray jsonArray = new JSONArray(jsonString);
