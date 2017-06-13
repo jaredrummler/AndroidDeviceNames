@@ -7,6 +7,16 @@
       "model": "GIONEE A1"
     },
     {
+      "market_name": "A1 Lite",
+      "codename": "GIONEE_SWW1618",
+      "model": "A1 lite"
+    },
+    {
+      "market_name": "A1 Plus",
+      "codename": "GIONEE_SWW1617",
+      "model": "A1 Plus"
+    },
+    {
       "market_name": "E8",
       "codename": "GiONEE_GN9008",
       "model": "E8"
@@ -475,6 +485,16 @@
       "market_name": "W909",
       "codename": "GiONEE_BFL7512B",
       "model": "W909"
+    },
+    {
+      "market_name": "X1",
+      "codename": "GIONEE_SWW1631",
+      "model": "GIONEE X1"
+    },
+    {
+      "market_name": "X1S",
+      "codename": "GIONEE_SWW1627",
+      "model": "X1S"
     }
   ]
 }

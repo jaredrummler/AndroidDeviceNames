@@ -2,6 +2,16 @@
   "manufacturer": "Telenor",
   "devices": [
     {
+      "market_name": "Infinity a2",
+      "codename": "b3680",
+      "model": "Infinity_a2"
+    },
+    {
+      "market_name": "Infinity e2",
+      "codename": "i6379",
+      "model": "Infinity_e2"
+    },
+    {
       "market_name": "Infinity_a",
       "codename": "Telenor_Infinity_a",
       "model": "Infinity_a"

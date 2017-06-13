@@ -2,6 +2,11 @@
   "manufacturer": "Infocus",
   "devices": [
     {
+      "market_name": "A1S",
+      "codename": "AE2",
+      "model": "InFocus M505"
+    },
+    {
       "market_name": "Amazing A8",
       "codename": "D78",
       "model": "Amazing A8"
@@ -15,6 +20,11 @@
       "market_name": "CS1 8.0",
       "codename": "cs180",
       "model": "CS180"
+    },
+    {
+      "market_name": "IF9001",
+      "codename": "AA2",
+      "model": "IF9001"
     },
     {
       "market_name": "IN610",
@@ -312,6 +322,11 @@
       "model": "InFocus M535"
     },
     {
+      "market_name": "M5s",
+      "codename": "AB5",
+      "model": "IF9002"
+    },
+    {
       "market_name": "Smart503",
       "codename": "MC2",
       "model": "Smart503"
@@ -325,6 +340,11 @@
       "market_name": "VZH",
       "codename": "VZH",
       "model": "VZH"
+    },
+    {
+      "market_name": "XT-50IP600",
+      "codename": "XT_50IP600",
+      "model": "XT_50IP600"
     }
   ]
 }

@@ -102,6 +102,11 @@
       "model": "SHV37_u"
     },
     {
+      "market_name": "AQUOS L2",
+      "codename": "SH-L02",
+      "model": "SH-L02"
+    },
+    {
       "market_name": "AQUOS M1",
       "codename": "MS1",
       "model": "FS8001"
@@ -612,6 +617,11 @@
       "model": "LC-42LE860M"
     },
     {
+      "market_name": "LC-45SF460T",
+      "codename": "Lc_45foc460t",
+      "model": "LC_45FOC460T"
+    },
+    {
       "market_name": "LC-50LE570X",
       "codename": "LC-xxLE570X",
       "model": "LC-xxLE570X"
@@ -692,6 +702,11 @@
       "model": "LC-xxCAE5H"
     },
     {
+      "market_name": "LC-SU666T/LC-SU766T",
+      "codename": "lc_xxbel6t",
+      "model": "LC-xxBEL6T"
+    },
+    {
       "market_name": "LC-U35T",
       "codename": "lc_u35t",
       "model": "LC-U35T"
@@ -715,11 +730,6 @@
       "market_name": "LCD-40SF465A",
       "codename": "Lcd_40foc465a",
       "model": "LCD_40FOC465A"
-    },
-    {
-      "market_name": "LCD-40SF466A",
-      "codename": "Lcd_40foc466a",
-      "model": "LCD_40FOC466A"
     },
     {
       "market_name": "LCD-45SF460A",

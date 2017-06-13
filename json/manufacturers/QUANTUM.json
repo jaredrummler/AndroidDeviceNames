@@ -2,6 +2,11 @@
   "manufacturer": "Quantum",
   "devices": [
     {
+      "market_name": "Go 2",
+      "codename": "Q19",
+      "model": "GO 2"
+    },
+    {
       "market_name": "MUV UP",
       "codename": "Q13",
       "model": "Quantum MUV UP"
@@ -50,6 +55,21 @@
       "market_name": "Twist Neo",
       "codename": "S501",
       "model": "twist neo"
+    },
+    {
+      "market_name": "You",
+      "codename": "Q17",
+      "model": "Quantum You"
+    },
+    {
+      "market_name": "You",
+      "codename": "Q17",
+      "model": "You"
+    },
+    {
+      "market_name": "You L",
+      "codename": "Q11",
+      "model": "You L"
     }
   ]
 }

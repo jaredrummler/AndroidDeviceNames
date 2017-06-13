@@ -97,6 +97,11 @@
       "model": "ELUGA_A3"
     },
     {
+      "market_name": "ELUGA A3 Pro",
+      "codename": "ELUGA_A3_Pro",
+      "model": "ELUGA_A3_Pro"
+    },
+    {
       "market_name": "ELUGA I2 Activ",
       "codename": "ELUGA_I2_Activ",
       "model": "ELUGA_I2_Activ"
@@ -105,6 +110,11 @@
       "market_name": "ELUGA I3 Mega",
       "codename": "Eluga_I3_Mega",
       "model": "ELUGA I3 Mega"
+    },
+    {
+      "market_name": "ELUGA I5",
+      "codename": "ELUGA_I5",
+      "model": "ELUGA_I5"
     },
     {
       "market_name": "ELUGA P",
@@ -145,6 +155,11 @@
       "market_name": "ELUGA V",
       "codename": "P-06D",
       "model": "P-06D"
+    },
+    {
+      "market_name": "ELUGA WE",
+      "codename": "ELUGA_WE",
+      "model": "Panasonic ELUGA WE"
     },
     {
       "market_name": "ELUGA X",
@@ -467,6 +482,11 @@
       "model": "P88"
     },
     {
+      "market_name": "P9",
+      "codename": "P9",
+      "model": "P9"
+    },
+    {
       "market_name": "Panasonic ELUGA A",
       "codename": "ELUGA_A",
       "model": "Panasonic ELUGA A"
@@ -580,6 +600,11 @@
       "market_name": "Panasonic T9",
       "codename": "T9",
       "model": "Panasonic T9"
+    },
+    {
+      "market_name": "SDU",
+      "codename": "SDU",
+      "model": "9 inch SDU"
     },
     {
       "market_name": "SDU",

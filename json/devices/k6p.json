@@ -3,6 +3,12 @@
     "manufacturer": "LGE",
     "market_name": "LG X power",
     "codename": "k6p",
+    "model": "LG-K210"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG X power",
+    "codename": "k6p",
     "model": "LG-K212"
   },
   {
@@ -16,11 +22,5 @@
     "market_name": "LG X power",
     "codename": "k6p",
     "model": "LGUS610"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "X power",
-    "codename": "k6p",
-    "model": "LG-K210"
   }
 ]

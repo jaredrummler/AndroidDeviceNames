@@ -52,6 +52,11 @@
       "model": "GOA"
     },
     {
+      "market_name": "HARRY",
+      "codename": "v3953",
+      "model": "HARRY"
+    },
+    {
       "market_name": "HIGHWAY 4G",
       "codename": "s9321",
       "model": "HIGHWAY 4G"
@@ -87,6 +92,11 @@
       "model": "JERRY MAX"
     },
     {
+      "market_name": "JERRY2",
+      "codename": "v2610",
+      "model": "JERRY2"
+    },
+    {
       "market_name": "JIMMY",
       "codename": "s4300ae",
       "model": "JIMMY"
@@ -100,6 +110,11 @@
       "market_name": "K-KOOL",
       "codename": "V2800AN",
       "model": "K-KOOL"
+    },
+    {
+      "market_name": "KENNY",
+      "codename": "V3913BN22I",
+      "model": "KENNY"
     },
     {
       "market_name": "KENNY",
@@ -327,6 +342,11 @@
       "model": "SUNNY MAX"
     },
     {
+      "market_name": "SUNNY2",
+      "codename": "v2510",
+      "model": "SUNNY2"
+    },
+    {
       "market_name": "SUNSET",
       "codename": "s4011",
       "model": "SUNSET"
@@ -345,6 +365,16 @@
       "market_name": "TOMMY",
       "codename": "P4903LA",
       "model": "TOMMY"
+    },
+    {
+      "market_name": "TOMMY2",
+      "codename": "V3931AC",
+      "model": "TOMMY2"
+    },
+    {
+      "market_name": "TOMMY2",
+      "codename": "V3933AC",
+      "model": "TOMMY2"
     },
     {
       "market_name": "U FEEL",
@@ -397,9 +427,24 @@
       "model": "U FEEL PRIME"
     },
     {
+      "market_name": "U PULSE",
+      "codename": "v3961",
+      "model": "U PULSE"
+    },
+    {
+      "market_name": "U PULSE LITE",
+      "codename": "v3971",
+      "model": "U PULSE LITE"
+    },
+    {
       "market_name": "WAX",
       "codename": "s8515",
       "model": "WAX"
+    },
+    {
+      "market_name": "WIM Lite",
+      "codename": "p6901",
+      "model": "WIM Lite"
     }
   ]
 }

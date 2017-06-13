@@ -37,12 +37,22 @@
       "model": "QTAQZ3"
     },
     {
+      "market_name": "Ellipsis 8 HD",
+      "codename": "QTASUN1",
+      "model": "QTASUN1"
+    },
+    {
+      "market_name": "Ellipsis 8 HD",
+      "codename": "QTASUN1",
+      "model": "QTASUN2"
+    },
+    {
       "market_name": "Ellipsis \\xc2\\xae 10 HD",
       "codename": "QTAXIA1",
       "model": "QTAXIA1"
     },
     {
-      "market_name": "Gizo Tab",
+      "market_name": "Gizmo Tab",
       "codename": "QTASUN2",
       "model": "QTASUN2"
     },
@@ -50,16 +60,6 @@
       "market_name": "QTAQZ3KID",
       "codename": "QTAQZ3KID",
       "model": "QTAQZ3KID"
-    },
-    {
-      "market_name": "TBD",
-      "codename": "QTASUN1",
-      "model": "QTASUN1"
-    },
-    {
-      "market_name": "TBD",
-      "codename": "QTASUN1",
-      "model": "QTASUN2"
     }
   ]
 }

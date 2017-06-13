@@ -727,6 +727,31 @@
       "model": "Moto 360"
     },
     {
+      "market_name": "Moto C",
+      "codename": "namath",
+      "model": "Moto C"
+    },
+    {
+      "market_name": "Moto C",
+      "codename": "namath",
+      "model": "XT1754"
+    },
+    {
+      "market_name": "Moto C",
+      "codename": "namath",
+      "model": "XT1755"
+    },
+    {
+      "market_name": "Moto C",
+      "codename": "watson",
+      "model": "Moto C"
+    },
+    {
+      "market_name": "Moto C Plus",
+      "codename": "panell_d",
+      "model": "Moto C Plus"
+    },
+    {
       "market_name": "Moto Defy XT",
       "codename": "XT535",
       "model": "XT535"
@@ -800,6 +825,21 @@
       "market_name": "Moto E (2nd Gen)",
       "codename": "otus_ds",
       "model": "XT1021"
+    },
+    {
+      "market_name": "Moto E (4)",
+      "codename": "woods_f",
+      "model": "Moto E (4)"
+    },
+    {
+      "market_name": "Moto E (4) Plus",
+      "codename": "nicklaus_f",
+      "model": "Moto E (4) Plus"
+    },
+    {
+      "market_name": "Moto E (4) Plus",
+      "codename": "nicklaus_fn",
+      "model": "Moto E (4) Plus"
     },
     {
       "market_name": "Moto E with 4G LTE (2nd Gen)",
@@ -957,6 +997,21 @@
       "model": "Moto G Play"
     },
     {
+      "market_name": "Moto G (5)",
+      "codename": "cedric",
+      "model": "Moto G (5)"
+    },
+    {
+      "market_name": "Moto G (5) Plus",
+      "codename": "potter_n",
+      "model": "Moto G (4)"
+    },
+    {
+      "market_name": "Moto G (5) Plus",
+      "codename": "potter_n",
+      "model": "Moto G (5) Plus"
+    },
+    {
       "market_name": "Moto G (5th Gen)",
       "codename": "cedric",
       "model": "Moto G (5)"
@@ -969,16 +1024,6 @@
     {
       "market_name": "Moto G Plus (5th Gen)",
       "codename": "potter",
-      "model": "Moto G (5) Plus"
-    },
-    {
-      "market_name": "Moto G Plus (5th Gen)",
-      "codename": "potter_n",
-      "model": "Moto G (4)"
-    },
-    {
-      "market_name": "Moto G Plus (5th Gen)",
-      "codename": "potter_n",
       "model": "Moto G (5) Plus"
     },
     {
@@ -1270,6 +1315,11 @@
       "market_name": "Moto Z Play Droid",
       "codename": "addison",
       "model": "XT1635-01"
+    },
+    {
+      "market_name": "Moto Z2 Play",
+      "codename": "albus",
+      "model": "Moto Z2 Play"
     },
     {
       "market_name": "Motoluxe",

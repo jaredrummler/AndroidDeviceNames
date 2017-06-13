@@ -13,6 +13,18 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "Hisense C30 Lite",
+    "codename": "HS6737MT",
+    "model": "Hisense C30 Lite"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense C30 Lite",
+    "codename": "HS6737MT",
+    "model": "STARACTIVE 2"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "Hisense F10",
     "codename": "HS6737MT",
     "model": "BM001"
@@ -25,6 +37,12 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "Hisense F10",
+    "codename": "HS6737MT",
+    "model": "RIVIERA F10"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "Hisense F102",
     "codename": "HS6737MT",
     "model": "Hisense F102"
@@ -34,5 +52,17 @@
     "market_name": "Hisense F23",
     "codename": "HS6737MT",
     "model": "Hisense F23"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense F23",
+    "codename": "HS6737MT",
+    "model": "RIVIERA F23"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "STARTRAIL  9",
+    "codename": "HS6737MT",
+    "model": "STARTRAIL 9"
   }
 ]

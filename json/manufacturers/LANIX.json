@@ -67,6 +67,11 @@
       "model": "ILIUM L1100"
     },
     {
+      "market_name": "Ilium L1120",
+      "codename": "Ilium_L1120",
+      "model": "Ilium L1120"
+    },
+    {
       "market_name": "Ilium L1200",
       "codename": "Ilium_L1200",
       "model": "Ilium L1200"
@@ -82,6 +87,11 @@
       "model": "Ilium L610"
     },
     {
+      "market_name": "Ilium L920",
+      "codename": "Ilium_L920",
+      "model": "Ilium L920"
+    },
+    {
       "market_name": "Ilium LT500",
       "codename": "Ilium_LT500",
       "model": "Ilium LT500"
@@ -90,6 +100,11 @@
       "market_name": "Ilium LT510",
       "codename": "Ilium_LT510",
       "model": "Ilium LT510"
+    },
+    {
+      "market_name": "Ilium LT520",
+      "codename": "Ilium_LT520",
+      "model": "Ilium LT520"
     },
     {
       "market_name": "Ilium PAD i7",
@@ -110,6 +125,11 @@
       "market_name": "Ilium Pad T7X",
       "codename": "Ilium_Pad_T7X",
       "model": "Ilium Pad T7X"
+    },
+    {
+      "market_name": "Ilium X120",
+      "codename": "Ilium_X120",
+      "model": "Ilium X120"
     },
     {
       "market_name": "Ilium X200",

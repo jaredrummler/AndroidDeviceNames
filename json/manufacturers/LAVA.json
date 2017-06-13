@@ -12,6 +12,11 @@
       "model": "A3_mini"
     },
     {
+      "market_name": "A44",
+      "codename": "LAVA_A44",
+      "model": "LAVA_A44"
+    },
+    {
       "market_name": "A52",
       "codename": "A52",
       "model": "A52"
@@ -80,6 +85,11 @@
       "market_name": "ERA 1X",
       "codename": "era1X",
       "model": "era1X"
+    },
+    {
+      "market_name": "Era 2X 3GB",
+      "codename": "XE2X3GB",
+      "model": "Era 2X 3GB"
     },
     {
       "market_name": "Era 4G",
@@ -190,6 +200,11 @@
       "market_name": "P7",
       "codename": "P7",
       "model": "P7"
+    },
+    {
+      "market_name": "P7plus",
+      "codename": "P7plus",
+      "model": "P7plus"
     },
     {
       "market_name": "Pixel V1",
@@ -342,9 +357,49 @@
       "model": "iris30"
     },
     {
+      "market_name": "iris40",
+      "codename": "iris40",
+      "model": "iris40"
+    },
+    {
+      "market_name": "iris50",
+      "codename": "iris50",
+      "model": "iris50"
+    },
+    {
+      "market_name": "iris512",
+      "codename": "iris512",
+      "model": "iris512"
+    },
+    {
+      "market_name": "iris560",
+      "codename": "iris560",
+      "model": "iris560"
+    },
+    {
+      "market_name": "iris60",
+      "codename": "iris60",
+      "model": "iris60"
+    },
+    {
+      "market_name": "iris605",
+      "codename": "iris605",
+      "model": "iris605"
+    },
+    {
       "market_name": "iris702",
       "codename": "iris702",
       "model": "iris702"
+    },
+    {
+      "market_name": "iris80",
+      "codename": "iris80",
+      "model": "iris80"
+    },
+    {
+      "market_name": "iris870",
+      "codename": "iris870",
+      "model": "iris870"
     }
   ]
 }

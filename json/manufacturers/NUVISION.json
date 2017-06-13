@@ -12,6 +12,11 @@
       "model": "TM101A540N"
     },
     {
+      "market_name": "TM101A730M",
+      "codename": "TM101AM",
+      "model": "TM101A730M"
+    },
+    {
       "market_name": "TM106A510L",
       "codename": "TM106A510L",
       "model": "TM106A510L"
@@ -55,6 +60,11 @@
       "market_name": "TM800A550L",
       "codename": "TM800A550L",
       "model": "TM800A550L"
+    },
+    {
+      "market_name": "TM800A730M",
+      "codename": "TM800AM",
+      "model": "TM800A730M"
     }
   ]
 }

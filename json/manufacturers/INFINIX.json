@@ -12,6 +12,11 @@
       "model": "Infinix HOT 4"
     },
     {
+      "market_name": "HOT 4",
+      "codename": "X557",
+      "model": "Infinix X557"
+    },
+    {
       "market_name": "HOT 4 PRO",
       "codename": "X556",
       "model": "Infinix HOT 4 Pro"
@@ -25,6 +30,11 @@
       "market_name": "HOT NOTE",
       "codename": "Infinix-X551",
       "model": "Infinix-X551"
+    },
+    {
+      "market_name": "INFINIX-X521",
+      "codename": "Infinix-X521",
+      "model": "Infinix HOT S"
     },
     {
       "market_name": "INFINIX-X521",
@@ -224,6 +234,11 @@
     {
       "market_name": "Infinix-X521E1",
       "codename": "Infinix-X521",
+      "model": "Infinix HOT S"
+    },
+    {
+      "market_name": "Infinix-X521E1",
+      "codename": "Infinix-X521",
       "model": "Infinix-X521"
     },
     {
@@ -274,7 +289,17 @@
     {
       "market_name": "Infinix-X552-E1",
       "codename": "INFINIX-X552-95M",
+      "model": "Infinix Zero 3"
+    },
+    {
+      "market_name": "Infinix-X552-E1",
+      "codename": "INFINIX-X552-95M",
       "model": "Infinix-X552"
+    },
+    {
+      "market_name": "Infinix-X552-F1",
+      "codename": "INFINIX-X552-95M",
+      "model": "Infinix Zero 3"
     },
     {
       "market_name": "Infinix-X552-F1",

@@ -12,6 +12,11 @@
       "model": "Aqua 5.5 VR"
     },
     {
+      "market_name": "Aqua A4",
+      "codename": "INTEX_AQUA_A4",
+      "model": "INTEX AQUA A4"
+    },
+    {
       "market_name": "Aqua Aura 2GB",
       "codename": "Aqua_Aura_2GB",
       "model": "Aqua Aura 2GB"
@@ -62,6 +67,11 @@
       "model": "INTEX AQUA CRYSTAL"
     },
     {
+      "market_name": "INTEX AQUA CRYSTAL+",
+      "codename": "AQUA_CRYSTAL_PLUS",
+      "model": "INTEX AQUA CRYSTAL+"
+    },
+    {
       "market_name": "INTEX AQUA TREND LITE",
       "codename": "INTEX_AQUA_TREND_LITE",
       "model": "INTEX AQUA TREND LITE"
@@ -82,9 +92,19 @@
       "model": "INTEX ELYT E1"
     },
     {
+      "market_name": "INTEX ELYT E7",
+      "codename": "INTEX_ELYT_E7",
+      "model": "INTEX ELYT E7"
+    },
+    {
       "market_name": "INTEX_AQUA_4.0_4G",
       "codename": "INTEX_AQUA_4_4G",
       "model": "INTEX_AQUA_4.0_4G"
+    },
+    {
+      "market_name": "INTEX_AQUA_S3",
+      "codename": "INTEX_AQUA_S3",
+      "model": "INTEX AQUA S3"
     },
     {
       "market_name": "Intex Aqua Power 4G",

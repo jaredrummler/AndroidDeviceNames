@@ -12,6 +12,11 @@
       "model": "5059"
     },
     {
+      "market_name": "5060",
+      "codename": "ADVAN_5060",
+      "model": "5060"
+    },
+    {
       "market_name": "E1C",
       "codename": "ADVAN_E1C_3G",
       "model": "E1C_3G"
@@ -32,6 +37,11 @@
       "model": "I7D"
     },
     {
+      "market_name": "M4",
+      "codename": "ADVAN_M4",
+      "model": "ADVAN M4"
+    },
+    {
       "market_name": "S45E",
       "codename": "ADVAN_S45E",
       "model": "S45E"
@@ -45,6 +55,11 @@
       "market_name": "S5E_NXT",
       "codename": "ADVAN_S5E_NXT",
       "model": "S5E_NXT"
+    },
+    {
+      "market_name": "S7A",
+      "codename": "S7A",
+      "model": "S7A"
     },
     {
       "market_name": "S7C",

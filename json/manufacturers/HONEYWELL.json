@@ -29,6 +29,11 @@
     {
       "market_name": "CK75",
       "codename": "CK75",
+      "model": "CX75 AC0"
+    },
+    {
+      "market_name": "CK75",
+      "codename": "CK75",
       "model": "CX75 AN0"
     },
     {
@@ -37,9 +42,39 @@
       "model": "CX75 NC0"
     },
     {
+      "market_name": "CN75",
+      "codename": "CN75",
+      "model": "CX75 NCF"
+    },
+    {
+      "market_name": "CN75",
+      "codename": "CN75",
+      "model": "CX75 QC0"
+    },
+    {
+      "market_name": "CN75",
+      "codename": "CN75",
+      "model": "CX75 QCF"
+    },
+    {
+      "market_name": "CN75E",
+      "codename": "CN75E",
+      "model": "CX75 NC0"
+    },
+    {
       "market_name": "CN75E",
       "codename": "CN75E",
       "model": "CX75 NCF"
+    },
+    {
+      "market_name": "CN75E",
+      "codename": "CN75E",
+      "model": "CX75 QC0"
+    },
+    {
+      "market_name": "CN75E",
+      "codename": "CN75E",
+      "model": "CX75 QCF"
     },
     {
       "market_name": "CT50",
@@ -85,6 +120,11 @@
       "market_name": "Dolphin CT50",
       "codename": "CT50LUN-CS13S",
       "model": "CT50"
+    },
+    {
+      "market_name": "EDA50",
+      "codename": "eda50-111",
+      "model": "EDA50"
     },
     {
       "market_name": "EDA50",

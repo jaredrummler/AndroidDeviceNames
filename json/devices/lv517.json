@@ -1,15 +1,15 @@
 [
   {
     "manufacturer": "LGE",
-    "market_name": "K20 V",
-    "codename": "lv517",
-    "model": "VS501"
-  },
-  {
-    "manufacturer": "LGE",
     "market_name": "LG GRACE\\xe2\\x84\\xa2 LTE",
     "codename": "lv517",
     "model": "LGL59BL"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Harmony",
+    "codename": "lv517",
+    "model": "LG-M257"
   },
   {
     "manufacturer": "LGE",
@@ -28,5 +28,11 @@
     "market_name": "LG K20 Plus",
     "codename": "lv517",
     "model": "LGMP260"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG K20 V",
+    "codename": "lv517",
+    "model": "VS501"
   }
 ]

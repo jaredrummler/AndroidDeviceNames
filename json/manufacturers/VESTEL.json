@@ -42,6 +42,11 @@
       "model": "V_TAB_7025"
     },
     {
+      "market_name": "V TAB 7810",
+      "codename": "V_TAB_7810",
+      "model": "V_TAB_7810"
+    },
+    {
       "market_name": "V TAB 8010",
       "codename": "V_TAB_8010",
       "model": "V_TAB_8010"
@@ -245,6 +250,11 @@
       "market_name": "Venus V3 5580",
       "codename": "Orsa",
       "model": "Venus_V3_5580"
+    },
+    {
+      "market_name": "Venus Z10",
+      "codename": "Reys",
+      "model": "Venus Z10"
     },
     {
       "market_name": "Vestel 5000",

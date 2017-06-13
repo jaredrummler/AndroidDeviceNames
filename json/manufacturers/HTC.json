@@ -2222,12 +2222,12 @@
       "model": "HTC One"
     },
     {
-      "market_name": "HTC One M8 eye 4G LTE \\xe7\\xa7\\xbb\\xe5\\x8a\\xa8\\xe5\\xae\\x9a\\xe5\\x88\\xb6\\xe7\\x89\\x88",
+      "market_name": "HTC One M8 eye 4G LTE",
       "codename": "htc_melstuhl",
       "model": "HTC M8Et"
     },
     {
-      "market_name": "HTC One M8 eye 4G LTE\\xe8\\x81\\x94\\xe9\\x80\\x9a\\xe7\\x89\\x88",
+      "market_name": "HTC One M8 eye 4G LTE",
       "codename": "htc_melsuhl",
       "model": "HTC M8Ew"
     },
@@ -2692,6 +2692,41 @@
       "model": "HTC U Ultra"
     },
     {
+      "market_name": "HTC U11",
+      "codename": "htc_ocndtwl",
+      "model": "HTC U-3w"
+    },
+    {
+      "market_name": "HTC U11",
+      "codename": "htc_ocndugl",
+      "model": "HTC U11"
+    },
+    {
+      "market_name": "HTC U11",
+      "codename": "htc_ocndugl",
+      "model": "HTC_U-3u"
+    },
+    {
+      "market_name": "HTC U11",
+      "codename": "htc_ocnuhl",
+      "model": "HTC 2PZC100"
+    },
+    {
+      "market_name": "HTC U11",
+      "codename": "htc_ocnuhl",
+      "model": "HTC U11"
+    },
+    {
+      "market_name": "HTC U11",
+      "codename": "htc_ocnwhl",
+      "model": "2PZC5"
+    },
+    {
+      "market_name": "HTC U11",
+      "codename": "htc_ocnwhl",
+      "model": "HTC U11"
+    },
+    {
       "market_name": "HTC Velocity 4G",
       "codename": "holiday",
       "model": "HTC PH39100"
@@ -2945,6 +2980,11 @@
       "market_name": "HTV31",
       "codename": "htc_b3uhl",
       "model": "HTV31"
+    },
+    {
+      "market_name": "HTV33",
+      "codename": "htc_ocnuhljapan",
+      "model": "HTV33"
     },
     {
       "market_name": "Hero",

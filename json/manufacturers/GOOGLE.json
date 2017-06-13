@@ -2,6 +2,11 @@
   "manufacturer": "Google",
   "devices": [
     {
+      "market_name": "Chromebook",
+      "codename": "reef_cheets",
+      "model": "reef"
+    },
+    {
       "market_name": "Chromebook Plus",
       "codename": "kevin_cheets",
       "model": "Samsung Chromebook Plus"

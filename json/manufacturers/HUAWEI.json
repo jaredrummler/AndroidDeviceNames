@@ -2607,19 +2607,14 @@
       "model": "WAS-LX3"
     },
     {
-      "market_name": "HUAWEI P6",
-      "codename": "hwp6-u06",
-      "model": "HUAWEI Ascend P6"
+      "market_name": "HUAWEI P8 lite 2017",
+      "codename": "HWPRA-H",
+      "model": "PRA-LA1"
     },
     {
-      "market_name": "HUAWEI P6",
-      "codename": "hwp6-u06",
-      "model": "HUAWEI P6-U06"
-    },
-    {
-      "market_name": "HUAWEI P6",
-      "codename": "hwp6-u06",
-      "model": "HUAWEI P6-U06-orange"
+      "market_name": "HUAWEI P8 lite 2017",
+      "codename": "HWPRA-H",
+      "model": "PRA-LX1"
     },
     {
       "market_name": "HUAWEI P9 lite",
@@ -3027,6 +3022,31 @@
       "model": "HUAWEI LYO-L03"
     },
     {
+      "market_name": "HUAWEI Y7",
+      "codename": "HWTRT-Q",
+      "model": "TRT-L21A"
+    },
+    {
+      "market_name": "HUAWEI Y7",
+      "codename": "HWTRT-Q",
+      "model": "TRT-L53"
+    },
+    {
+      "market_name": "HUAWEI Y7",
+      "codename": "HWTRT-Q",
+      "model": "TRT-LX1"
+    },
+    {
+      "market_name": "HUAWEI Y7",
+      "codename": "HWTRT-Q",
+      "model": "TRT-LX2"
+    },
+    {
+      "market_name": "HUAWEI Y7",
+      "codename": "HWTRT-Q",
+      "model": "TRT-LX3"
+    },
+    {
       "market_name": "HUAWEI nova",
       "codename": "HWCAN",
       "model": "HUAWEI CAN-L01"
@@ -3075,6 +3095,36 @@
       "market_name": "HUAWEI nova",
       "codename": "HWCAZ",
       "model": "HUAWEI CAZ-TL20"
+    },
+    {
+      "market_name": "HUAWEI nova 2",
+      "codename": "HWPIC",
+      "model": "PIC-AL00"
+    },
+    {
+      "market_name": "HUAWEI nova 2",
+      "codename": "HWPIC",
+      "model": "PIC-TL00"
+    },
+    {
+      "market_name": "HUAWEI nova 2 Plus",
+      "codename": "HWBAC",
+      "model": "BAC-AL00"
+    },
+    {
+      "market_name": "HUAWEI nova 2 Plus",
+      "codename": "HWBAC",
+      "model": "BAC-TL00"
+    },
+    {
+      "market_name": "HUAWEI nova lite",
+      "codename": "HWPRA-H",
+      "model": "PRA-LX2"
+    },
+    {
+      "market_name": "HUAWEI nova lite",
+      "codename": "HWPRA-H",
+      "model": "PRA-LX3"
     },
     {
       "market_name": "HUAWEI nova plus",
@@ -3902,6 +3952,21 @@
       "model": "HUAWEI P6-T00V"
     },
     {
+      "market_name": "P6",
+      "codename": "hwp6-u06",
+      "model": "HUAWEI Ascend P6"
+    },
+    {
+      "market_name": "P6",
+      "codename": "hwp6-u06",
+      "model": "HUAWEI P6-U06"
+    },
+    {
+      "market_name": "P6",
+      "codename": "hwp6-u06",
+      "model": "HUAWEI P6-U06-orange"
+    },
+    {
       "market_name": "P6S",
       "codename": "hwP6s-l04",
       "model": "P6 S-L04"
@@ -4115,26 +4180,6 @@
       "market_name": "PE-UL00",
       "codename": "hwPE",
       "model": "PE-UL00"
-    },
-    {
-      "market_name": "PRA-LA1",
-      "codename": "HWPRA-H",
-      "model": "PRA-LA1"
-    },
-    {
-      "market_name": "PRA-LX1",
-      "codename": "HWPRA-H",
-      "model": "PRA-LX1"
-    },
-    {
-      "market_name": "PRA-LX2",
-      "codename": "HWPRA-H",
-      "model": "PRA-LX2"
-    },
-    {
-      "market_name": "PRA-LX3",
-      "codename": "HWPRA-H",
-      "model": "PRA-LX3"
     },
     {
       "market_name": "Prism II",
@@ -5272,6 +5317,11 @@
       "model": "DIG-TL10"
     },
     {
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7",
+      "codename": "HWSLA-Q",
+      "model": "SLA-AL00"
+    },
+    {
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x804A",
       "codename": "hwSCL-Q",
       "model": "SCL-AL00"
@@ -5325,6 +5375,26 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
       "codename": "hwedison",
       "model": "EDI-DL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe4\\xba\\xab7 Plus",
+      "codename": "HWTRT-Q",
+      "model": "TRT-AL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe4\\xba\\xab7 Plus",
+      "codename": "HWTRT-Q",
+      "model": "TRT-AL00A"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe4\\xba\\xab7 Plus",
+      "codename": "HWTRT-Q",
+      "model": "TRT-TL10"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe4\\xba\\xab7 Plus",
+      "codename": "HWTRT-Q",
+      "model": "TRT-TL10A"
     },
     {
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",

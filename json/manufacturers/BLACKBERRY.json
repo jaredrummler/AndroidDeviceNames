@@ -7,6 +7,16 @@
       "model": "BBC100-1"
     },
     {
+      "market_name": "DTEK50",
+      "codename": "hamburg",
+      "model": "STH100-1"
+    },
+    {
+      "market_name": "DTEK50",
+      "codename": "hamburg",
+      "model": "STH100-2"
+    },
+    {
       "market_name": "DTEK50 by BlackBerry",
       "codename": "hamburg",
       "model": "STH100-1"
@@ -15,6 +25,16 @@
       "market_name": "DTEK50 by BlackBerry",
       "codename": "hamburg",
       "model": "STH100-2"
+    },
+    {
+      "market_name": "DTEK60",
+      "codename": "argon",
+      "model": "BBA100-1"
+    },
+    {
+      "market_name": "DTEK60",
+      "codename": "argon",
+      "model": "BBA100-2"
     },
     {
       "market_name": "DTEK60 by BlackBerry",

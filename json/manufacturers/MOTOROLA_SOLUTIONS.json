@@ -2,6 +2,11 @@
   "manufacturer": "Motorola Solutions",
   "devices": [
     {
+      "market_name": "LEX F10",
+      "codename": "LEXF10",
+      "model": "LEX F10"
+    },
+    {
       "market_name": "LEX L10g",
       "codename": "lexl10g",
       "model": "LEX L10g"

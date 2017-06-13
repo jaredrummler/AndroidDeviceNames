@@ -27,6 +27,11 @@
       "model": "FlareA1"
     },
     {
+      "market_name": "Flare HD 3",
+      "codename": "Flare_HD_3",
+      "model": "Flare HD 3"
+    },
+    {
       "market_name": "Flare J2 Mini",
       "codename": "Flare_J2_Mini",
       "model": "Flare J2 Mini"
@@ -70,6 +75,21 @@
       "market_name": "Flare P1",
       "codename": "Flare_P1",
       "model": "Flare P1"
+    },
+    {
+      "market_name": "Flare P1 Lite",
+      "codename": "Flare_P1_Lite",
+      "model": "Flare_P1_Lite"
+    },
+    {
+      "market_name": "Flare P1 Mini",
+      "codename": "Flare_P1_Mini",
+      "model": "Flare_P1_Mini"
+    },
+    {
+      "market_name": "Flare P1 Plus",
+      "codename": "Flare_P1_Plus",
+      "model": "Flare P1 Plus"
     },
     {
       "market_name": "Flare S5",

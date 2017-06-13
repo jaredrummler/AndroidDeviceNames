@@ -2,6 +2,11 @@
   "manufacturer": "Smartron",
   "devices": [
     {
+      "market_name": "Srtphone",
+      "codename": "rimo02a",
+      "model": "T5524"
+    },
+    {
       "market_name": "tphone",
       "codename": "rimo01a",
       "model": "T5511"

@@ -2,6 +2,11 @@
   "manufacturer": "Fly",
   "devices": [
     {
+      "market_name": "5_S",
+      "codename": "5_S",
+      "model": "5S"
+    },
+    {
       "market_name": "Cirrus 11",
       "codename": "Cirrus_11",
       "model": "FS517"
@@ -15,6 +20,11 @@
       "market_name": "Cirrus 13",
       "codename": "Cirrus_13",
       "model": "FS518"
+    },
+    {
+      "market_name": "Cirrus 14",
+      "codename": "Cirrus_14",
+      "model": "FS522"
     },
     {
       "market_name": "Cirrus 2",
@@ -387,6 +397,11 @@
       "model": "FS456"
     },
     {
+      "market_name": "Nimbus 15",
+      "codename": "Nimbus_15",
+      "model": "FS457"
+    },
+    {
       "market_name": "Nimbus 7",
       "codename": "Nimbus_7",
       "model": "FS505"
@@ -395,6 +410,11 @@
       "market_name": "Nimbus 9",
       "codename": "Nimbus_9",
       "model": "Nimbus 9"
+    },
+    {
+      "market_name": "Selfie 1",
+      "codename": "Selfie_1",
+      "model": "FS520"
     },
     {
       "market_name": "Stratus 3",

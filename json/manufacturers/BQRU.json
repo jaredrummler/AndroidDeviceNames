@@ -1,0 +1,45 @@
+{
+  "manufacturer": "BQru",
+  "devices": [
+    {
+      "market_name": "BQ-5044 Strike LTE",
+      "codename": "BQru-5044",
+      "model": "BQru-5044"
+    },
+    {
+      "market_name": "BQ-5057 Strike 2",
+      "codename": "BQru_5057",
+      "model": "BQru-5057"
+    },
+    {
+      "market_name": "BQ-5058 Strike Power Easy",
+      "codename": "BQru-5058",
+      "model": "BQru_BQru-5058"
+    },
+    {
+      "market_name": "BQ-5201",
+      "codename": "BQru-5201",
+      "model": "BQru-5201"
+    },
+    {
+      "market_name": "BQ-5202",
+      "codename": "BQru-5202",
+      "model": "BQru-5202"
+    },
+    {
+      "market_name": "BQ-5203 Shark",
+      "codename": "BQru-5203",
+      "model": "BQru-5203"
+    },
+    {
+      "market_name": "BQ-5521 STRIKE POWER MAX",
+      "codename": "BQru-5521",
+      "model": "BQru-5521"
+    },
+    {
+      "market_name": "BQru-5060",
+      "codename": "BQru-5060",
+      "model": "BQru-5060"
+    }
+  ]
+}

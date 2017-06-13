@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "AGM A7",
+    "codename": "HS8909QC",
+    "model": "AGM A7"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "E10",
     "codename": "HS8909QC",
     "model": "E10"
@@ -82,5 +88,11 @@
     "market_name": "Hisense M30T",
     "codename": "HS8909QC",
     "model": "Hisense M30T"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense M36",
+    "codename": "HS8909QC",
+    "model": "Hisense M36"
   }
 ]

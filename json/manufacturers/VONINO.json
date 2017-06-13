@@ -7,6 +7,11 @@
       "model": "Druid_L10"
     },
     {
+      "market_name": "Epic E8",
+      "codename": "Epic_E8",
+      "model": "Epic E8"
+    },
+    {
       "market_name": "Epic P7",
       "codename": "Epic_P7",
       "model": "Epic_P7"
@@ -27,6 +32,11 @@
       "model": "Jax X"
     },
     {
+      "market_name": "Magnet M1_A7",
+      "codename": "Magnet_M1_A7",
+      "model": "Magnet M1"
+    },
+    {
       "market_name": "Magnet_M1",
       "codename": "Magnet_M1",
       "model": "Magnet M1"
@@ -40,6 +50,11 @@
       "market_name": "Navo QS",
       "codename": "Navo_QS",
       "model": "Navo_QS"
+    },
+    {
+      "market_name": "Pluri B7",
+      "codename": "Pluri_B7",
+      "model": "Pluri B7"
     },
     {
       "market_name": "Pluri M7",
@@ -80,6 +95,11 @@
       "market_name": "Volt_X",
       "codename": "Volt_X",
       "model": "Volt_X"
+    },
+    {
+      "market_name": "Xavy G7",
+      "codename": "Xavy_G7",
+      "model": "Xavy G7"
     },
     {
       "market_name": "Xavy L8 A6",

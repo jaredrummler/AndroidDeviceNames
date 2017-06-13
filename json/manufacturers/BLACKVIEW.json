@@ -2,6 +2,11 @@
   "manufacturer": "Blackview",
   "devices": [
     {
+      "market_name": "BV7000",
+      "codename": "BV7000",
+      "model": "BV7000"
+    },
+    {
       "market_name": "Blackview A5",
       "codename": "A5",
       "model": "A5"

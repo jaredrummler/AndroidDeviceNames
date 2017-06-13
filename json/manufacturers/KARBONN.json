@@ -2,6 +2,26 @@
   "manufacturer": "Karbonn",
   "devices": [
     {
+      "market_name": "A40 Indian",
+      "codename": "A40_Indian",
+      "model": "A40 Indian"
+    },
+    {
+      "market_name": "A41 Power",
+      "codename": "A41_Power",
+      "model": "A41 Power"
+    },
+    {
+      "market_name": "Aura  4G",
+      "codename": "Aura_4G",
+      "model": "Aura 4G"
+    },
+    {
+      "market_name": "Aura Note 2",
+      "codename": "Aura_Note_2",
+      "model": "Aura Note 2"
+    },
+    {
       "market_name": "Aura Note 4G",
       "codename": "AuraNote4G",
       "model": "Aura Note 4G"
@@ -12,9 +32,19 @@
       "model": "Aura_Power"
     },
     {
+      "market_name": "Aura Power 4G Plus",
+      "codename": "Aura_Power_4G_Plus",
+      "model": "Aura Power 4G Plus"
+    },
+    {
       "market_name": "Aura Sleek 4G",
       "codename": "AuraSleek4G",
       "model": "Aura Sleek 4G"
+    },
+    {
+      "market_name": "K9 Kavach 4G",
+      "codename": "K9_Kavach",
+      "model": "K9 Kavach 4G"
     },
     {
       "market_name": "K9 Smart 4G",

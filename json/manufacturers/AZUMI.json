@@ -67,9 +67,34 @@
       "model": "KINZO_ichi_A5_QL"
     },
     {
+      "market_name": "Azumi AX5",
+      "codename": "AX5",
+      "model": "Azumi AX5"
+    },
+    {
+      "market_name": "Azumi IRO A5 QLT",
+      "codename": "IRO_A5_QLT",
+      "model": "Azumi_IRO_A5_QLT"
+    },
+    {
+      "market_name": "Azumi IRO_A4_Q_Pro",
+      "codename": "IRO_A4_Q_PRO",
+      "model": "Azumi_IRO_A4_Q_PRO"
+    },
+    {
       "market_name": "DOSHI A55 QL",
       "codename": "Azumi_DOSHI_A55_QL",
       "model": "Azumi_DOSHI_A55_QL"
+    },
+    {
+      "market_name": "EXTEND 55 QL",
+      "codename": "EXTEND_55_QL",
+      "model": "EXTEND 55 QL"
+    },
+    {
+      "market_name": "IRO A55 QL",
+      "codename": "IRO_A55_QL",
+      "model": "Azumi_IRO_A55_QL"
     },
     {
       "market_name": "IRO A5QL",

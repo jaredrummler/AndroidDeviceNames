@@ -2,6 +2,11 @@
   "manufacturer": "KDDI",
   "devices": [
     {
+      "market_name": "CablePlus STB",
+      "codename": "C02AS",
+      "model": "C02AS"
+    },
+    {
       "market_name": "Power Up Unit",
       "codename": "C02BB1",
       "model": "C02BB1"

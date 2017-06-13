@@ -22,6 +22,11 @@
       "model": "Cygnus_mini"
     },
     {
+      "market_name": "HALONA",
+      "codename": "Halona",
+      "model": "Halona"
+    },
+    {
       "market_name": "Kiona",
       "codename": "Kiona",
       "model": "Kiona"
@@ -74,7 +79,17 @@
     {
       "market_name": "STARSHINE 5",
       "codename": "Cygnus_mini",
+      "model": "STARSHINE_5"
+    },
+    {
+      "market_name": "STARSHINE 5",
+      "codename": "Cygnus_mini",
       "model": "Smart_A25"
+    },
+    {
+      "market_name": "STARXTREM 5",
+      "codename": "STARXTREM5",
+      "model": "STARXTREM5"
     },
     {
       "market_name": "Telenor SmartPlus",

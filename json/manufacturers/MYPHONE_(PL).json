@@ -2,6 +2,11 @@
   "manufacturer": "MyPhone (PL)",
   "devices": [
     {
+      "market_name": "C-Smart pix",
+      "codename": "C-Smart_pix_JMP",
+      "model": "C-Smart_pix"
+    },
+    {
       "market_name": "Cube LTE",
       "codename": "CUBE_LTE_PLAY",
       "model": "CUBE_LTE"
@@ -50,6 +55,11 @@
       "market_name": "myPhone Q-Smart Elite",
       "codename": "Q-Smart_Elite_JMP",
       "model": "Q-Smart_Elite"
+    },
+    {
+      "market_name": "myPhone Q-Smart Plus",
+      "codename": "Q-Smart_Plus",
+      "model": "Q-Smart_Plus"
     }
   ]
 }

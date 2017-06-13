@@ -2,9 +2,19 @@
   "manufacturer": "Verykool",
   "devices": [
     {
+      "market_name": "s5034",
+      "codename": "verykools5034",
+      "model": "verykools5034"
+    },
+    {
       "market_name": "s5526",
       "codename": "verykools5526",
       "model": "verykools5526"
+    },
+    {
+      "market_name": "s5527",
+      "codename": "verykools5527",
+      "model": "verykools5527"
     },
     {
       "market_name": "verykool S5019",
@@ -35,6 +45,11 @@
       "market_name": "verykool s5021",
       "codename": "verykoolS5021",
       "model": "verykoolS5021"
+    },
+    {
+      "market_name": "verykool s5028",
+      "codename": "verykools5528",
+      "model": "verykools5528"
     },
     {
       "market_name": "verykoolS5027",

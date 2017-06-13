@@ -17,6 +17,11 @@
       "model": "Doro 8030"
     },
     {
+      "market_name": "DSB0010",
+      "codename": "DSB0010",
+      "model": "Doro 8030/8031/8028"
+    },
+    {
       "market_name": "Doro 8020x",
       "codename": "Doro_8020x",
       "model": "Doro_8020x"
@@ -25,6 +30,11 @@
       "market_name": "Doro 8031",
       "codename": "DSB0010",
       "model": "Doro 8031"
+    },
+    {
+      "market_name": "Doro 8040",
+      "codename": "DSB0090",
+      "model": "Doro 8040"
     },
     {
       "market_name": "Doro 822",

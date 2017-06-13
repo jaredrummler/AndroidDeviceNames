@@ -762,6 +762,11 @@
       "model": "VS810PP"
     },
     {
+      "market_name": "F70",
+      "codename": "f70",
+      "model": "LGL31L"
+    },
+    {
       "market_name": "Fortune",
       "codename": "lv1",
       "model": "LG-M153"
@@ -1132,16 +1137,6 @@
       "model": "LG-D725"
     },
     {
-      "market_name": "G4 Beat",
-      "codename": "p1bssn",
-      "model": "LG-H735"
-    },
-    {
-      "market_name": "G4 vigor",
-      "codename": "p1bssn",
-      "model": "LG-H731"
-    },
-    {
       "market_name": "GA7800",
       "codename": "eden",
       "model": "LG Android TV V4"
@@ -1180,16 +1175,6 @@
       "market_name": "Intuition",
       "codename": "batman_vzw",
       "model": "VS950 4G"
-    },
-    {
-      "market_name": "K10 LTE",
-      "codename": "m209",
-      "model": "LG-K420PR"
-    },
-    {
-      "market_name": "K20 V",
-      "codename": "lv517",
-      "model": "VS501"
     },
     {
       "market_name": "K3 2017",
@@ -1437,6 +1422,36 @@
       "model": "LGL41C"
     },
     {
+      "market_name": "L80 Dual",
+      "codename": "w6ds",
+      "model": "LG-D380"
+    },
+    {
+      "market_name": "L80 Dual",
+      "codename": "w6ds",
+      "model": "LG-D385"
+    },
+    {
+      "market_name": "L80 Single",
+      "codename": "w6",
+      "model": "LG-D370"
+    },
+    {
+      "market_name": "L80 Single",
+      "codename": "w6",
+      "model": "LG-D373"
+    },
+    {
+      "market_name": "L80 Single",
+      "codename": "w6",
+      "model": "LG-D375"
+    },
+    {
+      "market_name": "L80 Single",
+      "codename": "w6",
+      "model": "LG-D375AR"
+    },
+    {
       "market_name": "L90",
       "codename": "w7",
       "model": "LG-D400"
@@ -1613,11 +1628,6 @@
     },
     {
       "market_name": "LG F70",
-      "codename": "f70",
-      "model": "LGL31L"
-    },
-    {
-      "market_name": "LG F70",
       "codename": "f70n",
       "model": "LG-D315"
     },
@@ -1640,6 +1650,16 @@
       "market_name": "LG F70",
       "codename": "f70n",
       "model": "LG-F370S"
+    },
+    {
+      "market_name": "LG Fiesta LTE",
+      "codename": "lv7",
+      "model": "LGL63BL"
+    },
+    {
+      "market_name": "LG Fiesta LTE",
+      "codename": "lv7",
+      "model": "LGL64VL"
     },
     {
       "market_name": "LG G Flex",
@@ -1867,6 +1887,11 @@
       "model": "LG-V525S3"
     },
     {
+      "market_name": "LG G Pad IV 8.0",
+      "codename": "tf840",
+      "model": "LG-V533"
+    },
+    {
       "market_name": "LG G Pad X 8.0",
       "codename": "b3",
       "model": "LG-V521"
@@ -1875,6 +1900,11 @@
       "market_name": "LG G Pad X 8.3",
       "codename": "altev2",
       "model": "VK815"
+    },
+    {
+      "market_name": "LG G Pad X2 8.0 PLUS",
+      "codename": "tf840",
+      "model": "LG-V530"
     },
     {
       "market_name": "LG G Pad X\\xc2\\xae II 10.1",
@@ -2232,6 +2262,11 @@
       "model": "LG-H542"
     },
     {
+      "market_name": "LG G4 vigor",
+      "codename": "p1bssn",
+      "model": "LG-H731"
+    },
+    {
       "market_name": "LG G4c",
       "codename": "c90",
       "model": "LG-H525"
@@ -2437,6 +2472,11 @@
       "model": "LG-F310LR"
     },
     {
+      "market_name": "LG Harmony",
+      "codename": "lv517",
+      "model": "LG-M257"
+    },
+    {
       "market_name": "LG Joy",
       "codename": "y30",
       "model": "LG-H220"
@@ -2518,6 +2558,11 @@
     },
     {
       "market_name": "LG K10 LTE",
+      "codename": "m209",
+      "model": "LG-K420PR"
+    },
+    {
+      "market_name": "LG K10 LTE",
       "codename": "m253",
       "model": "LG-K430"
     },
@@ -2525,6 +2570,11 @@
       "market_name": "LG K10 LTE",
       "codename": "m253n",
       "model": "LG-K430"
+    },
+    {
+      "market_name": "LG K10 Power",
+      "codename": "mlv7",
+      "model": "LG-M320"
     },
     {
       "market_name": "LG K20 Plus",
@@ -2535,6 +2585,11 @@
       "market_name": "LG K20 Plus",
       "codename": "lv517",
       "model": "LGMP260"
+    },
+    {
+      "market_name": "LG K20 V",
+      "codename": "lv517",
+      "model": "VS501"
     },
     {
       "market_name": "LG K3",
@@ -2685,36 +2740,6 @@
       "market_name": "LG L39C",
       "codename": "l4ii_cdma",
       "model": "LGL39C"
-    },
-    {
-      "market_name": "LG L80 Dual",
-      "codename": "w6ds",
-      "model": "LG-D380"
-    },
-    {
-      "market_name": "LG L80 Dual",
-      "codename": "w6ds",
-      "model": "LG-D385"
-    },
-    {
-      "market_name": "LG L80 Single",
-      "codename": "w6",
-      "model": "LG-D370"
-    },
-    {
-      "market_name": "LG L80 Single",
-      "codename": "w6",
-      "model": "LG-D373"
-    },
-    {
-      "market_name": "LG L80 Single",
-      "codename": "w6",
-      "model": "LG-D375"
-    },
-    {
-      "market_name": "LG L80 Single",
-      "codename": "w6",
-      "model": "LG-D375AR"
     },
     {
       "market_name": "LG LEON\\xe2\\x84\\xa2 LTE",
@@ -3507,6 +3532,26 @@
       "model": "LG-F120S"
     },
     {
+      "market_name": "LG Optimus LTE2",
+      "codename": "d1lkt",
+      "model": "LG-F160K"
+    },
+    {
+      "market_name": "LG Optimus LTE2",
+      "codename": "d1lsk",
+      "model": "LG-F160S"
+    },
+    {
+      "market_name": "LG Optimus LTE2",
+      "codename": "d1lu",
+      "model": "LG-F160L"
+    },
+    {
+      "market_name": "LG Optimus LTE2",
+      "codename": "d1lu",
+      "model": "LG-F160LV"
+    },
+    {
       "market_name": "LG Optimus LTE3",
       "codename": "fx1sk",
       "model": "LG-F260S"
@@ -3695,6 +3740,31 @@
       "market_name": "LG Stylo 2 Plus",
       "codename": "ph2n",
       "model": "LGMS550"
+    },
+    {
+      "market_name": "LG Stylo 3 Plus",
+      "codename": "sf340n",
+      "model": "LG-M470"
+    },
+    {
+      "market_name": "LG Stylo 3 Plus",
+      "codename": "sf340n",
+      "model": "LG-M470F"
+    },
+    {
+      "market_name": "LG Stylo 3 Plus",
+      "codename": "sf340n",
+      "model": "LG-TP450"
+    },
+    {
+      "market_name": "LG Stylo 3 Plus",
+      "codename": "sf340n",
+      "model": "LGMP450"
+    },
+    {
+      "market_name": "LG Stylo3",
+      "codename": "sf317",
+      "model": "LG-M430"
     },
     {
       "market_name": "LG Stylo3",
@@ -3912,6 +3982,11 @@
       "model": "LGLS676"
     },
     {
+      "market_name": "LG X Venture",
+      "codename": "lv9n",
+      "model": "LG-H700"
+    },
+    {
       "market_name": "LG X cam",
       "codename": "k7",
       "model": "LG-F690L"
@@ -3940,6 +4015,11 @@
       "market_name": "LG X max",
       "codename": "mk6m",
       "model": "LG-K240"
+    },
+    {
+      "market_name": "LG X power",
+      "codename": "k6p",
+      "model": "LG-K210"
     },
     {
       "market_name": "LG X power",
@@ -4054,6 +4134,11 @@
     {
       "market_name": "LG X500",
       "codename": "mlv7n",
+      "model": "LGM-X320K"
+    },
+    {
+      "market_name": "LG X500",
+      "codename": "mlv7n",
       "model": "LGM-X320L"
     },
     {
@@ -4070,26 +4155,6 @@
       "market_name": "LG Zero",
       "codename": "c100",
       "model": "LG-H650"
-    },
-    {
-      "market_name": "LG optimus LTE2",
-      "codename": "d1lkt",
-      "model": "LG-F160K"
-    },
-    {
-      "market_name": "LG optimus LTE2",
-      "codename": "d1lsk",
-      "model": "LG-F160S"
-    },
-    {
-      "market_name": "LG optimus LTE2",
-      "codename": "d1lu",
-      "model": "LG-F160L"
-    },
-    {
-      "market_name": "LG optimus LTE2",
-      "codename": "d1lu",
-      "model": "LG-F160LV"
     },
     {
       "market_name": "LG optimus it L-05D",
@@ -5385,11 +5450,6 @@
       "market_name": "X Mach",
       "codename": "sjr",
       "model": "LG-K600"
-    },
-    {
-      "market_name": "X power",
-      "codename": "k6p",
-      "model": "LG-K210"
     },
     {
       "market_name": "Y25",

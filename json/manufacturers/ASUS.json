@@ -789,6 +789,11 @@
     {
       "market_name": "ZenFone 3 Deluxe (ZS570KL)",
       "codename": "Z016",
+      "model": "ASUS_Z016D"
+    },
+    {
+      "market_name": "ZenFone 3 Deluxe (ZS570KL)",
+      "codename": "Z016",
       "model": "ASUS_Z016DA"
     },
     {
@@ -1052,6 +1057,16 @@
       "model": "P00C"
     },
     {
+      "market_name": "ZenPad 10 (Z301MFL)",
+      "codename": "ASUS_P00L_2",
+      "model": "P00L"
+    },
+    {
+      "market_name": "ZenPad 10 (Z301ML)",
+      "codename": "ASUS_P00L_1",
+      "model": "P00L"
+    },
+    {
       "market_name": "ZenPad 3 8.0",
       "codename": "P008_1",
       "model": "P008"
@@ -1175,6 +1190,11 @@
       "market_name": "ZenPad Z10",
       "codename": "P00I",
       "model": "P00I"
+    },
+    {
+      "market_name": "ZenPad Z8S 2K",
+      "codename": "ASUS_P00J",
+      "model": "ASUS_P00J"
     },
     {
       "market_name": "ZenPadC 7.0 (Z170MG)",

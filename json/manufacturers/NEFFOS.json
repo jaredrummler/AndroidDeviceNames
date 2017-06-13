@@ -37,6 +37,11 @@
       "model": "Neffos X1"
     },
     {
+      "market_name": "Neffos X1 Lite",
+      "codename": "X1_Lite",
+      "model": "Neffos X1 Lite"
+    },
+    {
       "market_name": "Neffos X1 Max",
       "codename": "X1_Max",
       "model": "Neffos X1 Max"
@@ -45,6 +50,11 @@
       "market_name": "Neffos Y50",
       "codename": "Y50",
       "model": "Neffos Y50"
+    },
+    {
+      "market_name": "Neffos Y5L",
+      "codename": "Y5LM",
+      "model": "Neffos Y5L"
     },
     {
       "market_name": "Y5",

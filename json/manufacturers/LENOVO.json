@@ -852,6 +852,11 @@
       "model": "Lenovo K900_ROW"
     },
     {
+      "market_name": "LAVIE Tab E",
+      "codename": "X704F",
+      "model": "PC-TE510HAW"
+    },
+    {
       "market_name": "LIFETAB E10310",
       "codename": "LIFETAB_E10310",
       "model": "LIFETAB_E10310"
@@ -2162,9 +2167,44 @@
       "model": "Lenovo TB3-X70N"
     },
     {
+      "market_name": "Lenovo TAB4 10",
+      "codename": "X304L",
+      "model": "Lenovo TB-X304L"
+    },
+    {
+      "market_name": "Lenovo TAB4 10",
+      "codename": "X304N",
+      "model": "Lenovo TB-X304N"
+    },
+    {
+      "market_name": "Lenovo TAB4 10 Plus",
+      "codename": "X704L",
+      "model": "Lenovo TB-X704L"
+    },
+    {
+      "market_name": "Lenovo TAB4 10 Plus",
+      "codename": "X704N",
+      "model": "Lenovo TB-X704N"
+    },
+    {
+      "market_name": "Lenovo TAB4 10 Plus",
+      "codename": "X704V",
+      "model": "TB-X704V"
+    },
+    {
+      "market_name": "Lenovo TAB4 10 Plus",
+      "codename": "X704Y",
+      "model": "Lenovo TB-X704Y"
+    },
+    {
       "market_name": "Lenovo TAB4 8",
       "codename": "TB-8504F",
       "model": "Lenovo TB-8504F"
+    },
+    {
+      "market_name": "Lenovo TAB4 8",
+      "codename": "TB-8504N",
+      "model": "Lenovo TB-8504N"
     },
     {
       "market_name": "Lenovo TAB4 8",
@@ -2537,6 +2577,16 @@
       "model": "Lenovo TAB 2 A7-30DC"
     },
     {
+      "market_name": "LenovoTB-X304F/Lenovo TAB4",
+      "codename": "X304F",
+      "model": "Lenovo TB-X304F"
+    },
+    {
+      "market_name": "LenovoTB-X704F/Lenovo TAB4 10 Plus",
+      "codename": "X704F",
+      "model": "Lenovo TB-X704F"
+    },
+    {
       "market_name": "LenovoTV 40S9;LenovoTV 50S9;AQUOS 40U1;AQUOS 50U1\\xef\\xbc\\x9bAQUOS 58U1; AQUOS 60LX765A",
       "codename": "jazz",
       "model": "AQUOS 58U1"
@@ -2735,6 +2785,16 @@
       "market_name": "Softbank 501LV",
       "codename": "501LV",
       "model": "501LV"
+    },
+    {
+      "market_name": "TB-8704N",
+      "codename": "TB-8704N",
+      "model": "Lenovo TB-8704N"
+    },
+    {
+      "market_name": "TB-8704X",
+      "codename": "TB-8704X",
+      "model": "Lenovo TB-8704X"
     },
     {
       "market_name": "ThinkVision28",

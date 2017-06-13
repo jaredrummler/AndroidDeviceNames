@@ -147,11 +147,6 @@
       "model": "Sony Tablet S"
     },
     {
-      "market_name": "XPERIA XZs",
-      "codename": "G8231",
-      "model": "G8231"
-    },
-    {
       "market_name": "Xperia  E1 dual",
       "codename": "D2114",
       "model": "D2114"
@@ -355,6 +350,21 @@
       "market_name": "Xperia L",
       "codename": "C2105",
       "model": "C2105"
+    },
+    {
+      "market_name": "Xperia L1",
+      "codename": "G3311",
+      "model": "G3311"
+    },
+    {
+      "market_name": "Xperia L1",
+      "codename": "G3312",
+      "model": "G3312"
+    },
+    {
+      "market_name": "Xperia L1",
+      "codename": "G3313",
+      "model": "G3313"
     },
     {
       "market_name": "Xperia M",
@@ -602,6 +612,11 @@
       "model": "ST21i2"
     },
     {
+      "market_name": "Xperia Touch",
+      "codename": "G1109",
+      "model": "G1109"
+    },
+    {
       "market_name": "Xperia U",
       "codename": "ST25a",
       "model": "ST25a"
@@ -742,6 +757,21 @@
       "model": "G3125"
     },
     {
+      "market_name": "Xperia XA1 Ultra",
+      "codename": "G3212",
+      "model": "G3212"
+    },
+    {
+      "market_name": "Xperia XA1 Ultra",
+      "codename": "G3221",
+      "model": "G3221"
+    },
+    {
+      "market_name": "Xperia XA1 Ultra",
+      "codename": "G3226",
+      "model": "G3226"
+    },
+    {
       "market_name": "Xperia XZ",
       "codename": "601SO",
       "model": "601SO"
@@ -767,9 +797,44 @@
       "model": "SOV34"
     },
     {
+      "market_name": "Xperia XZ Premium",
+      "codename": "G8141",
+      "model": "G8141"
+    },
+    {
+      "market_name": "Xperia XZ Premium",
+      "codename": "G8142",
+      "model": "G8142"
+    },
+    {
+      "market_name": "Xperia XZ Premium",
+      "codename": "SO-04J",
+      "model": "SO-04J"
+    },
+    {
+      "market_name": "Xperia XZs",
+      "codename": "602SO",
+      "model": "602SO"
+    },
+    {
+      "market_name": "Xperia XZs",
+      "codename": "G8231",
+      "model": "G8231"
+    },
+    {
       "market_name": "Xperia XZs",
       "codename": "G8232",
       "model": "G8232"
+    },
+    {
+      "market_name": "Xperia XZs",
+      "codename": "SO-03J",
+      "model": "SO-03J"
+    },
+    {
+      "market_name": "Xperia XZs",
+      "codename": "SOV35",
+      "model": "SOV35"
     },
     {
       "market_name": "Xperia Z",
