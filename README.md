@@ -1,6 +1,6 @@
 # Android Device Names
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names) [![License](http://img.shields.io/:license-apache-blue.svg)](LICENSE.txt) [![API](https://img.shields.io/badge/API-7%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=7) <a href="http://www.methodscount.com/?lib=com.jaredrummler%3Aandroid-device-names%3A1.1.3" target="_blank"><img src="https://img.shields.io/badge/method count-86-e91e63.svg"></img></a> <a href="http://www.methodscount.com/?lib=com.jaredrummler%3Aandroid-device-names%3A1.1.3" target="_blank"><img src="https://img.shields.io/badge/size-34 KB-e91e63.svg"></img></a> [![Twitter Follow](https://img.shields.io/twitter/follow/jrummy16.svg?style=social)](https://twitter.com/jrummy16)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names) [![License](http://img.shields.io/:license-apache-blue.svg)](LICENSE.txt) [![API](https://img.shields.io/badge/API-7%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=7) <a href="http://www.methodscount.com/?lib=com.jaredrummler%3Aandroid-device-names%3A1.1.3" target="_blank"><img src="https://img.shields.io/badge/method count-86-e91e63.svg"></img></a> <a href="http://www.methodscount.com/?lib=com.jaredrummler%3Aandroid-device-names%3A1.1.3" target="_blank"><img src="https://img.shields.io/badge/size-34 KB-e91e63.svg"></img></a> [![Twitter Follow](https://img.shields.io/twitter/follow/jaredrummler.svg?style=social)](https://twitter.com/jaredrummler)
 
 A small Android library to get the market name of an Android device.
 
@@ -56,16 +56,6 @@ compile 'com.jaredrummler:android-device-names:1.1.3'
 ```
 
 Or simply copy the [DeviceName](https://raw.githubusercontent.com/jaredrummler/AndroidDeviceNames/master/library/src/main/java/com/jaredrummler/android/device/DeviceName.java) class intro your project, update the package declaration, and you are good to go.
-
-Apps using this library
------------------------
-
-[**Root Check**](http://rootcheck.jrummyapps.com/) <small>1,000,000 - 5,000,000 downloads</small>
-
-<a href='https://play.google.com/store/apps/details?id=com.jrummyapps.rootchecker'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="186" height="72"/></a>
-
-and [more](https://github.com/search?q=com.jaredrummler%3Aandroid-device-names+in%3Afile+extension%3Agradle&ref=searchresults&type=Code&utf8=%E2%9C%93)
-
 
 
 License
