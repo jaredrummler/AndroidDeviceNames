@@ -181,6 +181,7 @@ public class GooglePlayDevices {
       "Galaxy S7",
       "Galaxy S7 Edge",
       "Galaxy S8",
+      "Galaxy S8+",
       "Galaxy Tab 10.1",
       "Galaxy Tab 7.0 Plus",
       "Galaxy Tab E 8.0",

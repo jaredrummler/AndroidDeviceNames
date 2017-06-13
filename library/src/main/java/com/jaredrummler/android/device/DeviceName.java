@@ -147,6 +147,7 @@ public class DeviceName {
    *     "ro.product.model" ({@link Build#MODEL})
    * @return the market name of a device or {@code fallback} if the device is unknown.
    */
+
   public static String getDeviceName(String codename, String model, String fallback) {
     // ----------------------------------------------------------------------------
     // Acer
@@ -1638,6 +1639,7 @@ public class DeviceName {
         || codename.equals("zenlteskt")
         || codename.equals("zenltespr")
         || codename.equals("zenltetmo")
+        || codename.equals("zenlteusc")
         || codename.equals("zenltevzw")))
         || (model != null && (model.equals("SAMSUNG-SM-G928A")
         || model.equals("SM-G9280")
@@ -1651,6 +1653,7 @@ public class DeviceName {
         || model.equals("SM-G928L")
         || model.equals("SM-G928N0")
         || model.equals("SM-G928P")
+        || model.equals("SM-G928R4")
         || model.equals("SM-G928S")
         || model.equals("SM-G928T")
         || model.equals("SM-G928V")
@@ -1731,18 +1734,47 @@ public class DeviceName {
         || model.equals("SM-G935X")))) {
       return "Galaxy S7 Edge";
     }
-    if ((codename != null && (codename.equals("dreamlte")
+    if ((codename != null && (codename.equals("SC-02J")
+        || codename.equals("SCV36")
+        || codename.equals("dreamlte")
+        || codename.equals("dreamlteks")
         || codename.equals("dreamlteskt")
         || codename.equals("dreamqltecan")
         || codename.equals("dreamqltechn")
-        || codename.equals("dreamqltesq")))
-        || (model != null && (model.equals("SM-G9500")
+        || codename.equals("dreamqltecmcc")
+        || codename.equals("dreamqltesq")
+        || codename.equals("dreamqlteue")))
+        || (model != null && (model.equals("SC-02J")
+        || model.equals("SCV36")
+        || model.equals("SM-G9500")
+        || model.equals("SM-G9508")
+        || model.equals("SM-G950F")
+        || model.equals("SM-G950N")
+        || model.equals("SM-G950U")
+        || model.equals("SM-G950U1")
         || model.equals("SM-G950W")
-        || model.equals("SM-G950X")
-        || model.equals("SM-G950XC")
-        || model.equals("SM-G950XN")
-        || model.equals("SM-G950XU")))) {
+        || model.equals("SM-G950XN")))) {
       return "Galaxy S8";
+    }
+    if ((codename != null && (codename.equals("SC-03J")
+        || codename.equals("SCV35")
+        || codename.equals("dream2lte")
+        || codename.equals("dream2lteks")
+        || codename.equals("dream2lteskt")
+        || codename.equals("dream2qltecan")
+        || codename.equals("dream2qltechn")
+        || codename.equals("dream2qltesq")
+        || codename.equals("dream2qlteue")))
+        || (model != null && (model.equals("SC-03J")
+        || model.equals("SCV35")
+        || model.equals("SM-G9550")
+        || model.equals("SM-G955F")
+        || model.equals("SM-G955N")
+        || model.equals("SM-G955U")
+        || model.equals("SM-G955U1")
+        || model.equals("SM-G955W")
+        || model.equals("SM-G955XN")))) {
+      return "Galaxy S8+";
     }
     if ((codename != null && (codename.equals("GT-P7500")
         || codename.equals("GT-P7500D")
