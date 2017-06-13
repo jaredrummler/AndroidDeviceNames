@@ -1372,6 +1372,7 @@ public class DeviceName {
         || codename.equals("goldenlteatt")
         || codename.equals("goldenltebmc")
         || codename.equals("goldenltevzw")
+        || codename.equals("goldenvess3g")
         || codename.equals("goldenve3g")))
         || (model != null && (model.equals("GT-I8190")
         || model.equals("GT-I8190L")
