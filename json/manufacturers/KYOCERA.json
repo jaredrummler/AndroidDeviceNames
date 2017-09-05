@@ -22,6 +22,11 @@
       "model": "503KC"
     },
     {
+      "market_name": "602KC",
+      "codename": "602KC",
+      "model": "602KC"
+    },
+    {
       "market_name": "Android One S2",
       "codename": "S2_sprout",
       "model": "S2"
@@ -355,6 +360,11 @@
       "market_name": "TORQUE G02",
       "codename": "KYV35",
       "model": "KYV35"
+    },
+    {
+      "market_name": "TORQUE G03",
+      "codename": "KYV41",
+      "model": "KYV41"
     },
     {
       "market_name": "TORQUE(KC-S701)",

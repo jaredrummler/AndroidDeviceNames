@@ -47,6 +47,11 @@
       "model": "A01SH"
     },
     {
+      "market_name": "A1",
+      "codename": "TSL",
+      "model": "FS8002"
+    },
+    {
       "market_name": "ADS1",
       "codename": "ADS1",
       "model": "SHARP-ADS1"
@@ -357,6 +362,21 @@
       "model": "SH-10D"
     },
     {
+      "market_name": "AQUOS R",
+      "codename": "SG605SH",
+      "model": "605SH"
+    },
+    {
+      "market_name": "AQUOS R SH-03J",
+      "codename": "SH-03J",
+      "model": "SH-03J"
+    },
+    {
+      "market_name": "AQUOS R SHV39",
+      "codename": "HUR",
+      "model": "SHV39"
+    },
+    {
       "market_name": "AQUOS SERIE SHL25",
       "codename": "SHL25",
       "model": "SHL25"
@@ -472,6 +492,11 @@
       "model": "SH-04H"
     },
     {
+      "market_name": "AQUOS ea",
+      "codename": "SG606SH",
+      "model": "606SH"
+    },
+    {
       "market_name": "AQUOS mini SH-M03",
       "codename": "SH-M03",
       "model": "SH-M03"
@@ -490,6 +515,11 @@
       "market_name": "BASIO2 SHV36",
       "codename": "SHV36",
       "model": "SHV36"
+    },
+    {
+      "market_name": "C1",
+      "codename": "MS1",
+      "model": "FS8001"
     },
     {
       "market_name": "DM009SH",
@@ -562,6 +592,11 @@
       "model": "EB-WX1GJ"
     },
     {
+      "market_name": "FS8014",
+      "codename": "SE3",
+      "model": "FS8014"
+    },
+    {
       "market_name": "GALAPAGOS SoftBank 003SH",
       "codename": "SBM003SH",
       "model": "SBM003SH"
@@ -605,6 +640,11 @@
       "market_name": "LC-**UH30U",
       "codename": "sharp_2k15_us_android",
       "model": "LC-Ux30US"
+    },
+    {
+      "market_name": "LC-40SF466T",
+      "codename": "Lc_40foc466t",
+      "model": "LC_40FOC466T"
     },
     {
       "market_name": "LC-42LE860H",
@@ -732,6 +772,11 @@
       "model": "LCD_40FOC465A"
     },
     {
+      "market_name": "LCD-40SF468A",
+      "codename": "Lcd_40foc468a",
+      "model": "LCD_40FOC468A"
+    },
+    {
       "market_name": "LCD-45SF460A",
       "codename": "Lcd_45foc46a",
       "model": "LCD_45FOC46A"
@@ -740,6 +785,11 @@
       "market_name": "LCD-45T45A/LCD-45T46A/LCD-45T47A",
       "codename": "Lcd_foc36a",
       "model": "LCD_FOC36A"
+    },
+    {
+      "market_name": "LCD-45TX3000A",
+      "codename": "Lcd_45foc3000a",
+      "model": "LCD_45FOC3000A"
     },
     {
       "market_name": "LCD-LX460A",
@@ -775,6 +825,11 @@
       "market_name": "LCD-SU560A",
       "codename": "lcd_xxcae5a",
       "model": "LCD-xxCAE5A"
+    },
+    {
+      "market_name": "LCD-SU870A",
+      "codename": "lcd_xxbel8a_b",
+      "model": "LCD-xxBEL8A-B"
     },
     {
       "market_name": "LCD-UF30A",
@@ -872,6 +927,11 @@
       "model": "SH-06DNERV"
     },
     {
+      "market_name": "SH-H01",
+      "codename": "VZJ",
+      "model": "SH-H01"
+    },
+    {
       "market_name": "SH-M04",
       "codename": "SH-M04",
       "model": "SH-M04"
@@ -902,24 +962,14 @@
       "model": "SH825Wi"
     },
     {
-      "market_name": "SHARP A1",
-      "codename": "TSL",
-      "model": "FS8002"
+      "market_name": "SHARP AQUOS S2",
+      "codename": "SS2",
+      "model": "FS8010"
     },
     {
-      "market_name": "SHARP C1",
-      "codename": "MS1",
-      "model": "FS8001"
-    },
-    {
-      "market_name": "SHARP Z2",
-      "codename": "TSP",
-      "model": "FS8002"
-    },
-    {
-      "market_name": "SHARP Z3",
-      "codename": "VN3N",
-      "model": "FS8009"
+      "market_name": "SHARP AQUOS S2 Plus",
+      "codename": "SAT",
+      "model": "FS8016"
     },
     {
       "market_name": "SoftBank 007SH KT",
@@ -947,9 +997,24 @@
       "model": "SW001SH"
     },
     {
+      "market_name": "X1",
+      "codename": "nasa_sprout",
+      "model": "X1"
+    },
+    {
       "market_name": "Yahoo! Phone SoftBank 009SH Y",
       "codename": "SBM009SHY",
       "model": "SBM009SHY"
+    },
+    {
+      "market_name": "Z2",
+      "codename": "TSP",
+      "model": "FS8002"
+    },
+    {
+      "market_name": "Z3",
+      "codename": "VN3N",
+      "model": "FS8009"
     },
     {
       "market_name": "lcd_xxbel7a_c",

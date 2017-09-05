@@ -7,14 +7,20 @@
   },
   {
     "manufacturer": "ZTE",
-    "market_name": "ZTE Blade L5",
+    "market_name": "Blade L5",
     "codename": "P172A40",
     "model": "ZTE Blade L5"
   },
   {
     "manufacturer": "ZTE",
-    "market_name": "ZTE T520",
+    "market_name": "T520",
     "codename": "P172A40",
     "model": "ZTE T520"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "ZTE Blade L5",
+    "codename": "P172A40",
+    "model": "ZTE Blade L5"
   }
 ]

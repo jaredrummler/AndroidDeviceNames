@@ -1,7 +1,13 @@
 [
   {
     "manufacturer": "HTC",
-    "market_name": "HTV33",
+    "market_name": "U11",
+    "codename": "htc_ocnuhljapan",
+    "model": "601HT"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "U11",
     "codename": "htc_ocnuhljapan",
     "model": "HTV33"
   }

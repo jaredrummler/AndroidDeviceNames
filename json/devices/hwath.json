@@ -19,18 +19,6 @@
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "HUAWEI ShotX",
-    "codename": "HWATH",
-    "model": "HUAWEI ATH-UL01"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "HUAWEI ShotX",
-    "codename": "HWATH",
-    "model": "HUAWEI ATH-UL06"
-  },
-  {
-    "manufacturer": "Huawei",
     "market_name": "Honor 7i",
     "codename": "HWATH",
     "model": "ATH-AL00"
@@ -40,5 +28,17 @@
     "market_name": "Honor7i",
     "codename": "HWATH",
     "model": "ATH-CL00"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "ShotX",
+    "codename": "HWATH",
+    "model": "HUAWEI ATH-UL01"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "ShotX",
+    "codename": "HWATH",
+    "model": "HUAWEI ATH-UL06"
   }
 ]

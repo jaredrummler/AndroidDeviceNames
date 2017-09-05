@@ -32,29 +32,19 @@
       "model": "TP601E"
     },
     {
-      "market_name": "Neffos X1",
+      "market_name": "X1",
       "codename": "X1",
       "model": "Neffos X1"
     },
     {
-      "market_name": "Neffos X1 Lite",
+      "market_name": "X1 Lite",
       "codename": "X1_Lite",
       "model": "Neffos X1 Lite"
     },
     {
-      "market_name": "Neffos X1 Max",
+      "market_name": "X1 Max",
       "codename": "X1_Max",
       "model": "Neffos X1 Max"
-    },
-    {
-      "market_name": "Neffos Y50",
-      "codename": "Y50",
-      "model": "Neffos Y50"
-    },
-    {
-      "market_name": "Neffos Y5L",
-      "codename": "Y5LM",
-      "model": "Neffos Y5L"
     },
     {
       "market_name": "Y5",
@@ -62,8 +52,18 @@
       "model": "Neffos Y5"
     },
     {
+      "market_name": "Y50",
+      "codename": "Y50",
+      "model": "Neffos Y50"
+    },
+    {
       "market_name": "Y5L",
       "codename": "Y5L",
+      "model": "Neffos Y5L"
+    },
+    {
+      "market_name": "Y5L",
+      "codename": "Y5LM",
       "model": "Neffos Y5L"
     }
   ]

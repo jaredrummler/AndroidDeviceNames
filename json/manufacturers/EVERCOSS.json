@@ -12,6 +12,11 @@
       "model": "EVERCOSS A65"
     },
     {
+      "market_name": "R40K",
+      "codename": "R40K",
+      "model": "R40K"
+    },
+    {
       "market_name": "R45",
       "codename": "EVERCOSS_R45",
       "model": "R45"
@@ -22,6 +27,11 @@
       "model": "R6"
     },
     {
+      "market_name": "R70A",
+      "codename": "R70A",
+      "model": "R70A"
+    },
+    {
       "market_name": "U50",
       "codename": "U50",
       "model": "U50"
@@ -30,6 +40,11 @@
       "market_name": "U50A",
       "codename": "U50A",
       "model": "U50A"
+    },
+    {
+      "market_name": "U50A_PLUS",
+      "codename": "U50A_PLUS",
+      "model": "U50A_PLUS"
     },
     {
       "market_name": "U50C",

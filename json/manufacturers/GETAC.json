@@ -2,14 +2,14 @@
   "manufacturer": "Getac",
   "devices": [
     {
-      "market_name": "Getac Z710",
-      "codename": "z710",
-      "model": "Getac Z710"
-    },
-    {
       "market_name": "MX50",
       "codename": "mx50",
       "model": "mx50"
+    },
+    {
+      "market_name": "Z710",
+      "codename": "z710",
+      "model": "Getac Z710"
     },
     {
       "market_name": "ZX70",

@@ -2,24 +2,34 @@
   "manufacturer": "Klipad",
   "devices": [
     {
-      "market_name": "KLIPAD 7588AN",
+      "market_name": "7588AN",
       "codename": "tulip-d9003",
       "model": "7588AN"
     },
     {
-      "market_name": "KLIPAD 7588AN",
+      "market_name": "7588AN",
       "codename": "tulip-d9003",
       "model": "KL3838"
     },
     {
-      "market_name": "KLIPAD_PRO_I746",
+      "market_name": "KL600",
+      "codename": "KLIPAD_KL600",
+      "model": "KLIPAD_KL600"
+    },
+    {
+      "market_name": "PRO_I746",
       "codename": "KLIPAD_PRO_I746",
       "model": "KLIPAD_PRO_I746"
     },
     {
-      "market_name": "KLIPAD_SMART_I745",
+      "market_name": "SMART_I745",
       "codename": "KLIPAD_SMART_I745",
       "model": "KLIPAD_SMART_I745"
+    },
+    {
+      "market_name": "V355",
+      "codename": "V355",
+      "model": "KLIPAD_V355"
     }
   ]
 }

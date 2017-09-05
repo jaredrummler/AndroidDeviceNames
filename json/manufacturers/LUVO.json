@@ -2,12 +2,12 @@
   "manufacturer": "LUVO",
   "devices": [
     {
-      "market_name": "LUVO 001",
+      "market_name": "001",
       "codename": "luvo_001",
       "model": "Luvo 001"
     },
     {
-      "market_name": "LUVO-001L",
+      "market_name": "001L",
       "codename": "LUVO-001L",
       "model": "LUVO 001L"
     }

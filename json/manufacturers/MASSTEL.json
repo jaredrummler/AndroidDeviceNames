@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Masstel",
+  "devices": [
+    {
+      "market_name": "LT52",
+      "codename": "Masstel_LT52",
+      "model": "Masstel LT52"
+    },
+    {
+      "market_name": "Masstel Tab7",
+      "codename": "3G_Tablet_PC",
+      "model": "Masstel Tab7"
+    },
+    {
+      "market_name": "Masstel Tab8",
+      "codename": "Masstel_Tab8",
+      "model": "Masstel Tab8"
+    },
+    {
+      "market_name": "Masstel_Tab10",
+      "codename": "Masstel_Tab10",
+      "model": "Masstel Tab10"
+    }
+  ]
+}

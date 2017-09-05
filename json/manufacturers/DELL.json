@@ -62,19 +62,19 @@
       "model": "Dell Venue"
     },
     {
+      "market_name": "Chromebook 11 Model 3180",
+      "codename": "kefka_cheets",
+      "model": "Chromebook 11 Model 3180"
+    },
+    {
+      "market_name": "Chromebook 13 3380",
+      "codename": "asuka_cheets",
+      "model": "Dell Chromebook 13 3380"
+    },
+    {
       "market_name": "Cloud Connect",
       "codename": "capri_wyse",
       "model": "CS-1A13"
-    },
-    {
-      "market_name": "Dell Venue 10",
-      "codename": "SO",
-      "model": "Venue 10 5050"
-    },
-    {
-      "market_name": "Dell Venue 7040",
-      "codename": "EP",
-      "model": "Venue 10 7040"
     },
     {
       "market_name": "Streak",
@@ -90,6 +90,11 @@
       "market_name": "Streak",
       "codename": "streak",
       "model": "Dell Streak"
+    },
+    {
+      "market_name": "Venue 10",
+      "codename": "SO",
+      "model": "Venue 10 5050"
     },
     {
       "market_name": "Venue 7",
@@ -120,6 +125,11 @@
       "market_name": "Venue 7",
       "codename": "thunderbird",
       "model": "Venue 7 HSPA+"
+    },
+    {
+      "market_name": "Venue 7040",
+      "codename": "EP",
+      "model": "Venue 10 7040"
     },
     {
       "market_name": "Venue 8",

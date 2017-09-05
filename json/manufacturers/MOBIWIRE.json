@@ -12,6 +12,16 @@
       "model": "Chenoa"
     },
     {
+      "market_name": "Cygnus",
+      "codename": "Cygnus45",
+      "model": "Cygnus"
+    },
+    {
+      "market_name": "Cygnus",
+      "codename": "Cygnus45",
+      "model": "Cygnus45"
+    },
+    {
       "market_name": "Cygnus mini",
       "codename": "Cygnus_mini",
       "model": "Cygnus mini"
@@ -22,9 +32,24 @@
       "model": "Cygnus_mini"
     },
     {
+      "market_name": "H",
+      "codename": "Halona",
+      "model": "Halona"
+    },
+    {
       "market_name": "HALONA",
       "codename": "Halona",
       "model": "Halona"
+    },
+    {
+      "market_name": "Halona",
+      "codename": "Halona",
+      "model": "Halona"
+    },
+    {
+      "market_name": "Kaya",
+      "codename": "Kaya_EU_SKU1",
+      "model": "KAYA"
     },
     {
       "market_name": "Kiona",
@@ -32,34 +57,19 @@
       "model": "Kiona"
     },
     {
+      "market_name": "Kohana",
+      "codename": "Kohana",
+      "model": "Kohana"
+    },
+    {
       "market_name": "Kosumi",
       "codename": "Kosumi",
       "model": "Kosumi"
     },
     {
-      "market_name": "MobiWire H",
-      "codename": "Halona",
-      "model": "Halona"
-    },
-    {
-      "market_name": "MobiWire Halona",
-      "codename": "Halona",
-      "model": "Halona"
-    },
-    {
-      "market_name": "MobiWire Kaya",
-      "codename": "Kaya_EU_SKU1",
-      "model": "KAYA"
-    },
-    {
-      "market_name": "MobiWire Kohana",
-      "codename": "Kohana",
-      "model": "Kohana"
-    },
-    {
-      "market_name": "MobiWire Tala",
-      "codename": "Tala",
-      "model": "Tala"
+      "market_name": "Kwanita",
+      "codename": "Kwanita",
+      "model": "KWANITA"
     },
     {
       "market_name": "Pegasus",
@@ -90,6 +100,11 @@
       "market_name": "STARXTREM 5",
       "codename": "STARXTREM5",
       "model": "STARXTREM5"
+    },
+    {
+      "market_name": "Tala",
+      "codename": "Tala",
+      "model": "Tala"
     },
     {
       "market_name": "Telenor SmartPlus",

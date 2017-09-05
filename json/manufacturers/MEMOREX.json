@@ -2,24 +2,24 @@
   "manufacturer": "Memorex",
   "devices": [
     {
-      "market_name": "MTAB-09541AB",
-      "codename": "MTAB-09541AB",
-      "model": "MTAB-09541AB"
-    },
-    {
-      "market_name": "Memorex MTAB-07530A",
+      "market_name": "MTAB-07530A",
       "codename": "MTAB-07530A",
       "model": "MTAB-07530A"
     },
     {
-      "market_name": "Memorex MTAB-0753AK",
+      "market_name": "MTAB-0753AK",
       "codename": "MTAB-07535AK",
       "model": "MTAB-07535AK"
     },
     {
-      "market_name": "Memorex MTAB-08530A",
+      "market_name": "MTAB-08530A",
       "codename": "MTAB-08530A",
       "model": "MTAB-08530A"
+    },
+    {
+      "market_name": "MTAB-09541AB",
+      "codename": "MTAB-09541AB",
+      "model": "MTAB-09541AB"
     }
   ]
 }

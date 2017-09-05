@@ -2,16 +2,6 @@
   "manufacturer": "Boost",
   "devices": [
     {
-      "market_name": "Boost Pulse Jive",
-      "codename": "Jive",
-      "model": "Jive"
-    },
-    {
-      "market_name": "Boost Pulse Power",
-      "codename": "Power",
-      "model": "Power"
-    },
-    {
       "market_name": "Cabana",
       "codename": "Cabana",
       "model": "Cabana"
@@ -32,6 +22,31 @@
       "model": "Moova-Soul"
     },
     {
+      "market_name": "Pulse Glide",
+      "codename": "PulseGlide",
+      "model": "Pulse Glide"
+    },
+    {
+      "market_name": "Pulse Jive",
+      "codename": "Jive",
+      "model": "Jive"
+    },
+    {
+      "market_name": "Pulse Power",
+      "codename": "Power",
+      "model": "Power"
+    },
+    {
+      "market_name": "Pulse Retro",
+      "codename": "M450B",
+      "model": "Pulse Retro"
+    },
+    {
+      "market_name": "Pulse Sky",
+      "codename": "Y551B",
+      "model": "Pulse Sky"
+    },
+    {
       "market_name": "Shaker-Slim",
       "codename": "Shaker-Slim",
       "model": "Shaker-Slim"
@@ -40,6 +55,11 @@
       "market_name": "ShakerBeat",
       "codename": "ShakerBeat",
       "model": "ShakerBeat"
+    },
+    {
+      "market_name": "Smarty II",
+      "codename": "Smarty_II",
+      "model": "Smarty_II"
     },
     {
       "market_name": "StrikaPlay",

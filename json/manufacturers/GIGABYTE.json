@@ -72,16 +72,6 @@
       "model": "GSmart GS202"
     },
     {
-      "market_name": "Gigabyte SB506",
-      "codename": "SB506",
-      "model": "SB506"
-    },
-    {
-      "market_name": "Gigabyte SB510 / IBT-102",
-      "codename": "SB510",
-      "model": "SB510"
-    },
-    {
       "market_name": "Hipstreet 9DTB7 / Lazer MY9308P",
       "codename": "AMLMY9308P",
       "model": "9DTB7"
@@ -125,6 +115,16 @@
       "market_name": "SAF3011",
       "codename": "SAF3011",
       "model": "SAF3011"
+    },
+    {
+      "market_name": "SB506",
+      "codename": "SB506",
+      "model": "SB506"
+    },
+    {
+      "market_name": "SB510 / IBT-102",
+      "codename": "SB510",
+      "model": "SB510"
     },
     {
       "market_name": "TB100",

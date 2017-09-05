@@ -2,9 +2,24 @@
   "manufacturer": "Cat",
   "devices": [
     {
+      "market_name": "B15",
+      "codename": "TOUGH",
+      "model": "B15"
+    },
+    {
+      "market_name": "B15Q",
+      "codename": "B15Q",
+      "model": "B15Q"
+    },
+    {
       "market_name": "B15Q",
       "codename": "CatB15Q",
       "model": "B15Q"
+    },
+    {
+      "market_name": "Cat S41",
+      "codename": "CatS41",
+      "model": "S41"
     },
     {
       "market_name": "CatS50c",

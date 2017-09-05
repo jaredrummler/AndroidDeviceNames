@@ -17,6 +17,11 @@
       "model": "EGD078"
     },
     {
+      "market_name": "EGD103",
+      "codename": "EGD103",
+      "model": "EGD103"
+    },
+    {
       "market_name": "EGD170",
       "codename": "EGD170",
       "model": "Ematic EGD170"
@@ -47,6 +52,16 @@
       "model": "EGQ223"
     },
     {
+      "market_name": "EGQ307",
+      "codename": "EGQ307",
+      "model": "EGQ307"
+    },
+    {
+      "market_name": "EGQ327M",
+      "codename": "EGQ327M",
+      "model": "EGQ327M"
+    },
+    {
       "market_name": "EGQ337",
       "codename": "EGQ337",
       "model": "EGQ337"
@@ -72,32 +87,17 @@
       "model": "EGQ780"
     },
     {
+      "market_name": "EGS017",
+      "codename": "EGS017",
+      "model": "EGS017"
+    },
+    {
       "market_name": "EMATICEGS109",
       "codename": "EGS109",
       "model": "EGS109"
     },
     {
-      "market_name": "Ematic EGD103",
-      "codename": "EGD103",
-      "model": "EGD103"
-    },
-    {
-      "market_name": "Ematic EGQ307",
-      "codename": "EGQ307",
-      "model": "EGQ307"
-    },
-    {
-      "market_name": "Ematic EGQ327M",
-      "codename": "EGQ327M",
-      "model": "EGQ327M"
-    },
-    {
-      "market_name": "Ematic EGS017",
-      "codename": "EGS017",
-      "model": "EGS017"
-    },
-    {
-      "market_name": "Ematic ETH102",
+      "market_name": "ETH102",
       "codename": "ETH102",
       "model": "ETH102"
     },

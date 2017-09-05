@@ -2,6 +2,16 @@
   "manufacturer": "Reeder",
   "devices": [
     {
+      "market_name": "A8i Q2",
+      "codename": "A8i-Q2",
+      "model": "A8i-Q2"
+    },
+    {
+      "market_name": "M7 Plus",
+      "codename": "reeder_M7Plus",
+      "model": "M7Plus"
+    },
+    {
       "market_name": "P10",
       "codename": "P10",
       "model": "P10"

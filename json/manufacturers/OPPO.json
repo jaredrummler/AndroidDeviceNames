@@ -157,6 +157,16 @@
       "model": "OPPO A35"
     },
     {
+      "market_name": "A37",
+      "codename": "A37",
+      "model": "OPPO A37"
+    },
+    {
+      "market_name": "A37",
+      "codename": "A37",
+      "model": "OPPO A37m"
+    },
+    {
       "market_name": "A37f",
       "codename": "A37f",
       "model": "A37f"
@@ -172,14 +182,49 @@
       "model": "A37fw"
     },
     {
+      "market_name": "A37fw",
+      "codename": "A37fs",
+      "model": "A37fw"
+    },
+    {
       "market_name": "A37fw-International",
       "codename": "A37fs",
       "model": "A37f"
     },
     {
+      "market_name": "A37m",
+      "codename": "A37",
+      "model": "OPPO A37m"
+    },
+    {
       "market_name": "A37t",
       "codename": "A37",
       "model": "OPPO A37t"
+    },
+    {
+      "market_name": "A37tm",
+      "codename": "A37",
+      "model": "OPPO A37tm"
+    },
+    {
+      "market_name": "A39",
+      "codename": "A39",
+      "model": "OPPO A39"
+    },
+    {
+      "market_name": "A39m",
+      "codename": "A39",
+      "model": "OPPO A39m"
+    },
+    {
+      "market_name": "A39t",
+      "codename": "A39",
+      "model": "OPPO A39t"
+    },
+    {
+      "market_name": "A39tm",
+      "codename": "A39",
+      "model": "OPPO A39tm"
     },
     {
       "market_name": "A51",
@@ -237,6 +282,16 @@
       "model": "A53w"
     },
     {
+      "market_name": "A57",
+      "codename": "A57",
+      "model": "OPPO A57"
+    },
+    {
+      "market_name": "A57",
+      "codename": "A57",
+      "model": "OPPO A57t"
+    },
+    {
       "market_name": "A57t",
       "codename": "A57",
       "model": "OPPO A57t"
@@ -247,9 +302,44 @@
       "model": "OPPO A59"
     },
     {
+      "market_name": "A59",
+      "codename": "A59",
+      "model": "OPPO A59m"
+    },
+    {
+      "market_name": "A59m",
+      "codename": "A59",
+      "model": "OPPO A59m"
+    },
+    {
+      "market_name": "A59st",
+      "codename": "A59",
+      "model": "OPPO A59st"
+    },
+    {
       "market_name": "A59t",
       "codename": "A59",
       "model": "OPPO A59t"
+    },
+    {
+      "market_name": "A59tm",
+      "codename": "A59",
+      "model": "OPPO A59tm"
+    },
+    {
+      "market_name": "A77",
+      "codename": "A77",
+      "model": "OPPO A77"
+    },
+    {
+      "market_name": "A77",
+      "codename": "A77",
+      "model": "OPPO A77t"
+    },
+    {
+      "market_name": "CHP1705",
+      "codename": "CPH1705",
+      "model": "CPH1705fw"
     },
     {
       "market_name": "CPH1605",
@@ -265,6 +355,16 @@
       "market_name": "CPH1605fw",
       "codename": "CPH1605",
       "model": "CPH1605fw"
+    },
+    {
+      "market_name": "CPH1609",
+      "codename": "CPH1609",
+      "model": "CPH1609"
+    },
+    {
+      "market_name": "CPH1609fw",
+      "codename": "CPH1609",
+      "model": "CPH1609fw"
     },
     {
       "market_name": "CPH1613",
@@ -285,6 +385,26 @@
       "market_name": "CPH1701",
       "codename": "CPH1701",
       "model": "CPH1701fw"
+    },
+    {
+      "market_name": "CPH1705",
+      "codename": "CPH1705",
+      "model": "CPH1705"
+    },
+    {
+      "market_name": "CPH1707",
+      "codename": "CPH1707",
+      "model": "CPH1707"
+    },
+    {
+      "market_name": "CPH1707",
+      "codename": "CPH1707",
+      "model": "CPH1707fw"
+    },
+    {
+      "market_name": "CPH1715",
+      "codename": "CPH1715",
+      "model": "CPH1715"
     },
     {
       "market_name": "F1f",
@@ -327,6 +447,16 @@
       "model": "X909"
     },
     {
+      "market_name": "Find5",
+      "codename": "FIND5",
+      "model": "X909"
+    },
+    {
+      "market_name": "Find5",
+      "codename": "FIND5",
+      "model": "X909T"
+    },
+    {
       "market_name": "N1",
       "codename": "N1",
       "model": "N1"
@@ -345,6 +475,11 @@
       "market_name": "N1T",
       "codename": "N1T",
       "model": "N1T"
+    },
+    {
+      "market_name": "N1W",
+      "codename": "N1W",
+      "model": "N1W"
     },
     {
       "market_name": "N3",
@@ -372,206 +507,6 @@
       "model": "N5117"
     },
     {
-      "market_name": "OPPO A37",
-      "codename": "A37",
-      "model": "OPPO A37"
-    },
-    {
-      "market_name": "OPPO A37",
-      "codename": "A37",
-      "model": "OPPO A37m"
-    },
-    {
-      "market_name": "OPPO A37fw",
-      "codename": "A37fs",
-      "model": "A37fw"
-    },
-    {
-      "market_name": "OPPO A37m",
-      "codename": "A37",
-      "model": "OPPO A37m"
-    },
-    {
-      "market_name": "OPPO A37tm",
-      "codename": "A37",
-      "model": "OPPO A37tm"
-    },
-    {
-      "market_name": "OPPO A39",
-      "codename": "A39",
-      "model": "OPPO A39"
-    },
-    {
-      "market_name": "OPPO A39m",
-      "codename": "A39",
-      "model": "OPPO A39m"
-    },
-    {
-      "market_name": "OPPO A39t",
-      "codename": "A39",
-      "model": "OPPO A39t"
-    },
-    {
-      "market_name": "OPPO A39tm",
-      "codename": "A39",
-      "model": "OPPO A39tm"
-    },
-    {
-      "market_name": "OPPO A57",
-      "codename": "A57",
-      "model": "OPPO A57"
-    },
-    {
-      "market_name": "OPPO A57",
-      "codename": "A57",
-      "model": "OPPO A57t"
-    },
-    {
-      "market_name": "OPPO A59",
-      "codename": "A59",
-      "model": "OPPO A59"
-    },
-    {
-      "market_name": "OPPO A59",
-      "codename": "A59",
-      "model": "OPPO A59m"
-    },
-    {
-      "market_name": "OPPO A59m",
-      "codename": "A59",
-      "model": "OPPO A59m"
-    },
-    {
-      "market_name": "OPPO A59t",
-      "codename": "A59",
-      "model": "OPPO A59t"
-    },
-    {
-      "market_name": "OPPO A59tm",
-      "codename": "A59",
-      "model": "OPPO A59tm"
-    },
-    {
-      "market_name": "OPPO Find5",
-      "codename": "FIND5",
-      "model": "X909"
-    },
-    {
-      "market_name": "OPPO Find5",
-      "codename": "FIND5",
-      "model": "X909T"
-    },
-    {
-      "market_name": "OPPO R9",
-      "codename": "R9",
-      "model": "OPPO R9"
-    },
-    {
-      "market_name": "OPPO R9",
-      "codename": "R9",
-      "model": "OPPO R9km"
-    },
-    {
-      "market_name": "OPPO R9",
-      "codename": "R9",
-      "model": "OPPO R9m"
-    },
-    {
-      "market_name": "OPPO R9",
-      "codename": "R9",
-      "model": "OPPO R9tm"
-    },
-    {
-      "market_name": "OPPO R9 Plus",
-      "codename": "R9PlusA",
-      "model": "OPPO R9 Plusm A"
-    },
-    {
-      "market_name": "OPPO R9 Plus",
-      "codename": "R9PlusA",
-      "model": "OPPO R9 Plustm A"
-    },
-    {
-      "market_name": "OPPO R9 Plus A",
-      "codename": "R9PlusA",
-      "model": "OPPO R9 Plus A"
-    },
-    {
-      "market_name": "OPPO R9PlusA",
-      "codename": "R9PlusA",
-      "model": "OPPO R9 Plusm A"
-    },
-    {
-      "market_name": "OPPO R9PlusA",
-      "codename": "R9PlusA",
-      "model": "OPPO R9 Plustm A"
-    },
-    {
-      "market_name": "OPPO R9k",
-      "codename": "R9",
-      "model": "OPPO R9k"
-    },
-    {
-      "market_name": "OPPO R9k",
-      "codename": "R9",
-      "model": "OPPO R9km"
-    },
-    {
-      "market_name": "OPPO R9k",
-      "codename": "R9",
-      "model": "OPPO R9m"
-    },
-    {
-      "market_name": "OPPO R9k",
-      "codename": "R9",
-      "model": "OPPO R9tm"
-    },
-    {
-      "market_name": "OPPO R9s",
-      "codename": "CPH1607",
-      "model": "CPH1607"
-    },
-    {
-      "market_name": "OPPO R9s",
-      "codename": "CPH1607",
-      "model": "CPH1607fw"
-    },
-    {
-      "market_name": "OPPO R9s",
-      "codename": "R9s",
-      "model": "OPPO R9s"
-    },
-    {
-      "market_name": "OPPO R9s Plus",
-      "codename": "CPH1611",
-      "model": "CPH1611"
-    },
-    {
-      "market_name": "OPPO R9s Plus",
-      "codename": "R9sPlus",
-      "model": "OPPO R9s Plus"
-    },
-    {
-      "market_name": "OPPO R9s Plus",
-      "codename": "R9sPlus",
-      "model": "OPPO R9s Plust"
-    },
-    {
-      "market_name": "OPPO R9s Plus",
-      "codename": "R9sPlus",
-      "model": "OPPO R9sPlus"
-    },
-    {
-      "market_name": "OPPO R9st",
-      "codename": "R9s",
-      "model": "OPPO R9st"
-    },
-    {
-      "market_name": "OPPO Ulike2",
-      "codename": "Ulike2",
-      "model": "U705T"
-    },
-    {
       "market_name": "R1001",
       "codename": "OPPO72_13076",
       "model": "R1001"
@@ -592,6 +527,51 @@
       "model": "R1011"
     },
     {
+      "market_name": "R11",
+      "codename": "R11",
+      "model": "OPPO R11"
+    },
+    {
+      "market_name": "R11",
+      "codename": "R11",
+      "model": "OPPO R11t"
+    },
+    {
+      "market_name": "R11 Plus",
+      "codename": "R11Plus",
+      "model": "OPPO R11 Plus"
+    },
+    {
+      "market_name": "R11 Plusk",
+      "codename": "R11Plusk",
+      "model": "OPPO R11 Plusk"
+    },
+    {
+      "market_name": "R11 Pluskt",
+      "codename": "R11Plusk",
+      "model": "OPPO R11 Pluskt"
+    },
+    {
+      "market_name": "R11 Plust",
+      "codename": "R11Plus",
+      "model": "OPPO R11 Plust"
+    },
+    {
+      "market_name": "R2001",
+      "codename": "R2001",
+      "model": "R2001"
+    },
+    {
+      "market_name": "R2010",
+      "codename": "R2010",
+      "model": "R2010"
+    },
+    {
+      "market_name": "R2017",
+      "codename": "R2017",
+      "model": "R2017"
+    },
+    {
       "market_name": "R5",
       "codename": "R5",
       "model": "R8106"
@@ -610,6 +590,11 @@
       "market_name": "R6006",
       "codename": "R3",
       "model": "R6006"
+    },
+    {
+      "market_name": "R6007",
+      "codename": "R6007",
+      "model": "R6007"
     },
     {
       "market_name": "R7",
@@ -645,6 +630,11 @@
       "market_name": "R7005",
       "codename": "R3",
       "model": "R7005"
+    },
+    {
+      "market_name": "R7007",
+      "codename": "R7007",
+      "model": "R7007"
     },
     {
       "market_name": "R7Plusf",
@@ -732,6 +722,21 @@
       "model": "R8000"
     },
     {
+      "market_name": "R8001",
+      "codename": "R8001",
+      "model": "R8001"
+    },
+    {
+      "market_name": "R8006",
+      "codename": "R8006",
+      "model": "R8006"
+    },
+    {
+      "market_name": "R8007",
+      "codename": "R8007",
+      "model": "R8007"
+    },
+    {
       "market_name": "R809T",
       "codename": "R809T",
       "model": "R809T"
@@ -817,6 +822,31 @@
       "model": "R827"
     },
     {
+      "market_name": "R827T",
+      "codename": "R827T",
+      "model": "R827T"
+    },
+    {
+      "market_name": "R829",
+      "codename": "R829",
+      "model": "R829"
+    },
+    {
+      "market_name": "R829T",
+      "codename": "R829T",
+      "model": "R829T"
+    },
+    {
+      "market_name": "R830",
+      "codename": "R830",
+      "model": "R830"
+    },
+    {
+      "market_name": "R830S",
+      "codename": "R830S",
+      "model": "R830S"
+    },
+    {
       "market_name": "R831",
       "codename": "R831",
       "model": "R831"
@@ -832,14 +862,79 @@
       "model": "R831K"
     },
     {
+      "market_name": "R831L",
+      "codename": "R831L",
+      "model": "R831L"
+    },
+    {
+      "market_name": "R831S",
+      "codename": "R831S",
+      "model": "R831S"
+    },
+    {
+      "market_name": "R831T",
+      "codename": "R831T",
+      "model": "R831T"
+    },
+    {
       "market_name": "R833T",
       "codename": "OPPO82_13067",
       "model": "R833T"
     },
     {
+      "market_name": "R850",
+      "codename": "R850",
+      "model": "R850"
+    },
+    {
+      "market_name": "R9",
+      "codename": "R9",
+      "model": "OPPO R9"
+    },
+    {
+      "market_name": "R9",
+      "codename": "R9",
+      "model": "OPPO R9km"
+    },
+    {
+      "market_name": "R9",
+      "codename": "R9",
+      "model": "OPPO R9m"
+    },
+    {
+      "market_name": "R9",
+      "codename": "R9",
+      "model": "OPPO R9tm"
+    },
+    {
+      "market_name": "R9 Plus",
+      "codename": "R9PlusA",
+      "model": "OPPO R9 Plusm A"
+    },
+    {
+      "market_name": "R9 Plus",
+      "codename": "R9PlusA",
+      "model": "OPPO R9 Plustm A"
+    },
+    {
+      "market_name": "R9 Plus A",
+      "codename": "R9PlusA",
+      "model": "OPPO R9 Plus A"
+    },
+    {
       "market_name": "R9Plus",
       "codename": "X9079",
       "model": "X9079"
+    },
+    {
+      "market_name": "R9PlusA",
+      "codename": "R9PlusA",
+      "model": "OPPO R9 Plusm A"
+    },
+    {
+      "market_name": "R9PlusA",
+      "codename": "R9PlusA",
+      "model": "OPPO R9 Plustm A"
     },
     {
       "market_name": "R9PlusmA",
@@ -857,6 +952,26 @@
       "model": "OPPO R9 Plustm A"
     },
     {
+      "market_name": "R9k",
+      "codename": "R9",
+      "model": "OPPO R9k"
+    },
+    {
+      "market_name": "R9k",
+      "codename": "R9",
+      "model": "OPPO R9km"
+    },
+    {
+      "market_name": "R9k",
+      "codename": "R9",
+      "model": "OPPO R9m"
+    },
+    {
+      "market_name": "R9k",
+      "codename": "R9",
+      "model": "OPPO R9tm"
+    },
+    {
       "market_name": "R9km",
       "codename": "R9",
       "model": "OPPO R9km"
@@ -868,13 +983,48 @@
     },
     {
       "market_name": "R9s",
+      "codename": "CPH1607",
+      "model": "CPH1607"
+    },
+    {
+      "market_name": "R9s",
+      "codename": "CPH1607",
+      "model": "CPH1607fw"
+    },
+    {
+      "market_name": "R9s",
       "codename": "R9s",
       "model": "OPPO R9s"
+    },
+    {
+      "market_name": "R9s Plus",
+      "codename": "CPH1611",
+      "model": "CPH1611"
+    },
+    {
+      "market_name": "R9s Plus",
+      "codename": "R9sPlus",
+      "model": "OPPO R9s Plus"
+    },
+    {
+      "market_name": "R9s Plus",
+      "codename": "R9sPlus",
+      "model": "OPPO R9s Plust"
+    },
+    {
+      "market_name": "R9s Plus",
+      "codename": "R9sPlus",
+      "model": "OPPO R9sPlus"
     },
     {
       "market_name": "R9sk",
       "codename": "R9sk",
       "model": "OPPO R9sk"
+    },
+    {
+      "market_name": "R9sk",
+      "codename": "R9sk",
+      "model": "OPPO R9skt"
     },
     {
       "market_name": "R9st",
@@ -907,14 +1057,34 @@
       "model": "U707T"
     },
     {
+      "market_name": "U708",
+      "codename": "U708",
+      "model": "U708"
+    },
+    {
       "market_name": "Ulike2",
       "codename": "U705W",
       "model": "U705W"
     },
     {
+      "market_name": "Ulike2",
+      "codename": "Ulike2",
+      "model": "U705T"
+    },
+    {
       "market_name": "X9000",
       "codename": "X9000",
       "model": "X9000"
+    },
+    {
+      "market_name": "X9006",
+      "codename": "X9006",
+      "model": "X9006"
+    },
+    {
+      "market_name": "X9007",
+      "codename": "X9007",
+      "model": "X9007"
     },
     {
       "market_name": "X9009",
@@ -927,8 +1097,23 @@
       "model": "X9009fw"
     },
     {
+      "market_name": "X9070",
+      "codename": "X9070",
+      "model": "X9070"
+    },
+    {
+      "market_name": "X9076",
+      "codename": "X9076",
+      "model": "X9076"
+    },
+    {
       "market_name": "X9077",
       "codename": "FIND7",
+      "model": "X9077"
+    },
+    {
+      "market_name": "X9077",
+      "codename": "X9077",
       "model": "X9077"
     },
     {

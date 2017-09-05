@@ -42,6 +42,11 @@
       "model": "ILIUM PAD E10Si"
     },
     {
+      "market_name": "ILIUM PAD E8 V6",
+      "codename": "IliumPAD_E8v6",
+      "model": "ILIUM PAD E8 V6"
+    },
+    {
       "market_name": "ILIUM PAD I8",
       "codename": "Ilium_Padi8v3",
       "model": "ilium PAD i8 v3"
@@ -82,9 +87,24 @@
       "model": "Ilium L1300"
     },
     {
+      "market_name": "Ilium L420",
+      "codename": "Ilium_L420",
+      "model": "Ilium L420"
+    },
+    {
+      "market_name": "Ilium L420",
+      "codename": "Ilium_L420",
+      "model": "Lanix Ilium L420"
+    },
+    {
       "market_name": "Ilium L610",
       "codename": "Ilium_L610",
       "model": "Ilium L610"
+    },
+    {
+      "market_name": "Ilium L620",
+      "codename": "Ilium_L620",
+      "model": "Ilium L620"
     },
     {
       "market_name": "Ilium L920",
@@ -132,6 +152,11 @@
       "model": "Ilium X120"
     },
     {
+      "market_name": "Ilium X120B",
+      "codename": "Ilium_X120B",
+      "model": "Ilium X120B"
+    },
+    {
       "market_name": "Ilium X200",
       "codename": "Ilium_X200",
       "model": "Ilium X200"
@@ -162,6 +187,11 @@
       "model": "Ilium X510"
     },
     {
+      "market_name": "Ilium X520",
+      "codename": "Ilium_X520",
+      "model": "Ilium X520"
+    },
+    {
       "market_name": "Ilium X710",
       "codename": "Ilium_X710",
       "model": "Ilium X710"
@@ -187,16 +217,6 @@
       "model": "ILIUM S520"
     },
     {
-      "market_name": "Lanix Ilium L420",
-      "codename": "Ilium_L420",
-      "model": "Ilium L420"
-    },
-    {
-      "market_name": "Lanix Ilium L420",
-      "codename": "Ilium_L420",
-      "model": "Lanix Ilium L420"
-    },
-    {
       "market_name": "Llium L910",
       "codename": "Ilium_L910",
       "model": "Ilium L910"
@@ -210,6 +230,21 @@
       "market_name": "X400",
       "codename": "Ilium_X400",
       "model": "ILIUM X400"
+    },
+    {
+      "market_name": "ilium  PAD  E9",
+      "codename": "ILium_PADE9",
+      "model": "ilium PAD E9"
+    },
+    {
+      "market_name": "ilium PAD E7",
+      "codename": "ILIUM_PADE7",
+      "model": "ilium PAD E7"
+    },
+    {
+      "market_name": "ilium PAD E8",
+      "codename": "ILIUM_PADE8",
+      "model": "ilium PAD E8"
     },
     {
       "market_name": "ilium PAD E9",

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Gigaset",
+    "market_name": "Gigaset Maxwell 10",
+    "codename": "maxwell_10",
+    "model": "Maxwell-10"
+  },
+  {
+    "manufacturer": "Gigaset",
     "market_name": "Maxwell 10",
     "codename": "maxwell_10",
     "model": "80-1"

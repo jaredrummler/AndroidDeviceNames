@@ -17,6 +17,11 @@
       "model": "TrekStor SurfTab breeze 9.6 quad 3G"
     },
     {
+      "market_name": "SurfTab breeze 9.6 quad 3G",
+      "codename": "ST9643203",
+      "model": "TrekStor SurfTab breeze 9.6 quad 3G"
+    },
+    {
       "market_name": "SurfTab xintron i 7.0",
       "codename": "st70408_4_coho",
       "model": "st70408_4"
@@ -27,14 +32,19 @@
       "model": "st70408_4_coho"
     },
     {
-      "market_name": "TrekStor SurfTab breeze 9.6 quad 3G",
-      "codename": "ST9643203",
-      "model": "TrekStor SurfTab breeze 9.6 quad 3G"
+      "market_name": "tolino tab 7",
+      "codename": "tolino7",
+      "model": "tolino tab 7"
     },
     {
       "market_name": "tolino tab 8",
       "codename": "tolino8",
       "model": "tolino tab 8"
+    },
+    {
+      "market_name": "tolino tab 8.9",
+      "codename": "tolino89",
+      "model": "tolino tab 8.9"
     }
   ]
 }

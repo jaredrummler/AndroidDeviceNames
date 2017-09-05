@@ -3,6 +3,12 @@
     "manufacturer": "HTC",
     "market_name": "Desire 626",
     "codename": "htc_a32ul",
+    "model": "HTC Desire 626"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "Desire 626",
+    "codename": "htc_a32ul",
     "model": "HTC_D626x"
   },
   {
@@ -10,11 +16,5 @@
     "market_name": "Desire 626",
     "codename": "htc_a32ul",
     "model": "HTC_D630x"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC Desire 626",
-    "codename": "htc_a32ul",
-    "model": "HTC Desire 626"
   }
 ]

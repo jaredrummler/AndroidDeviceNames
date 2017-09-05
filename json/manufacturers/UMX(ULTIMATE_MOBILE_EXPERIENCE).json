@@ -2,6 +2,11 @@
   "manufacturer": "Umx(Ultimate Mobile Experience)",
   "devices": [
     {
+      "market_name": "U2VR",
+      "codename": "U2VR",
+      "model": "U2VR"
+    },
+    {
       "market_name": "U673C",
       "codename": "U673C",
       "model": "U673C"

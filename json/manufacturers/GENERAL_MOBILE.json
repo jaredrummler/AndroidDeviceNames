@@ -2,6 +2,26 @@
   "manufacturer": "General Mobile",
   "devices": [
     {
+      "market_name": "4G",
+      "codename": "gm4g_s_sprout",
+      "model": "General Mobile 4G"
+    },
+    {
+      "market_name": "4G",
+      "codename": "gm4gtkc_s_sprout",
+      "model": "General Mobile 4G"
+    },
+    {
+      "market_name": "4G Dual",
+      "codename": "gm4g_sprout",
+      "model": "General Mobile 4G Dual"
+    },
+    {
+      "market_name": "5",
+      "codename": "gm5_s_sprout",
+      "model": "GM 5"
+    },
+    {
       "market_name": "Discovery Air",
       "codename": "Discovery_Air",
       "model": "Discovery Air"
@@ -40,26 +60,6 @@
       "market_name": "GM5 Plus d",
       "codename": "gm5plus_sprout",
       "model": "GM 5 Plus d"
-    },
-    {
-      "market_name": "General Mobile 4G",
-      "codename": "gm4g_s_sprout",
-      "model": "General Mobile 4G"
-    },
-    {
-      "market_name": "General Mobile 4G",
-      "codename": "gm4gtkc_s_sprout",
-      "model": "General Mobile 4G"
-    },
-    {
-      "market_name": "General Mobile 4G Dual",
-      "codename": "gm4g_sprout",
-      "model": "General Mobile 4G Dual"
-    },
-    {
-      "market_name": "General Mobile 5",
-      "codename": "gm5_s_sprout",
-      "model": "GM 5"
     }
   ]
 }

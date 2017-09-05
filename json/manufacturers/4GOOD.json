@@ -1,0 +1,15 @@
+{
+  "manufacturer": "4good",
+  "devices": [
+    {
+      "market_name": "4GOOD Light B100",
+      "codename": "4GOOD_Light_B100",
+      "model": "Light B100"
+    },
+    {
+      "market_name": "A103",
+      "codename": "4GOOD_Light_A103",
+      "model": "Light A103"
+    }
+  ]
+}

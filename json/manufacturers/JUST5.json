@@ -2,9 +2,24 @@
   "manufacturer": "Just5",
   "devices": [
     {
+      "market_name": "COSMO L707",
+      "codename": "COSMO_L707",
+      "model": "COSMO_L707"
+    },
+    {
       "market_name": "Freedom M303",
       "codename": "FREEDOM_M303",
       "model": "FREEDOM_M303"
+    },
+    {
+      "market_name": "GINI Tab V7",
+      "codename": "GINI_Tab_V7",
+      "model": "GINI_Tab_V7"
+    },
+    {
+      "market_name": "Konrow",
+      "codename": "Konrow",
+      "model": "Just5"
     }
   ]
 }

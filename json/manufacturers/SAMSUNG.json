@@ -282,6 +282,26 @@
       "model": "SCH-I699I"
     },
     {
+      "market_name": "Chromebook Plus",
+      "codename": "kevin_cheets",
+      "model": "Samsung Chromebook Plus"
+    },
+    {
+      "market_name": "Chromebook Plus",
+      "codename": "kevin_cheets",
+      "model": "kevin"
+    },
+    {
+      "market_name": "Chromebook Pro",
+      "codename": "caroline_cheets",
+      "model": "Samsung Chromebook Pro"
+    },
+    {
+      "market_name": "Chromebook Pro",
+      "codename": "caroline_cheets",
+      "model": "caroline"
+    },
+    {
       "market_name": "Conquer",
       "codename": "SPH-D600",
       "model": "SPH-D600"
@@ -295,6 +315,16 @@
       "market_name": "Droid Charge",
       "codename": "SCH-I510",
       "model": "SCH-I510"
+    },
+    {
+      "market_name": "Elite",
+      "codename": "eliteltechn",
+      "model": "SM-G1600"
+    },
+    {
+      "market_name": "Elite",
+      "codename": "elitexltechn",
+      "model": "SM-G1650"
     },
     {
       "market_name": "Europa",
@@ -750,6 +780,11 @@
       "market_name": "Galaxy A7(2017)",
       "codename": "a7y17lte",
       "model": "SM-A720F"
+    },
+    {
+      "market_name": "Galaxy A7(2017)",
+      "codename": "a7y17lteskt",
+      "model": "SM-A720S"
     },
     {
       "market_name": "Galaxy A8",
@@ -1812,6 +1847,16 @@
       "model": "SM-E7000"
     },
     {
+      "market_name": "Galaxy Elite",
+      "codename": "elite3gkx",
+      "model": "SM-G165N"
+    },
+    {
+      "market_name": "Galaxy Elite",
+      "codename": "eliteltekx",
+      "model": "SM-G160N"
+    },
+    {
       "market_name": "Galaxy Europa",
       "codename": "GT-I5500",
       "model": "GT-I5500"
@@ -2020,11 +2065,6 @@
       "market_name": "Galaxy Folder",
       "codename": "novellteskt",
       "model": "SM-G150NS"
-    },
-    {
-      "market_name": "Galaxy Folder2",
-      "codename": "eliteltechn",
-      "model": "SM-G1600"
     },
     {
       "market_name": "Galaxy Fresh",
@@ -2763,6 +2803,21 @@
     },
     {
       "market_name": "Galaxy J3 Pop",
+      "codename": "j3popelteue",
+      "model": "SM-J327U"
+    },
+    {
+      "market_name": "Galaxy J3 Pop",
+      "codename": "j3poplteacg",
+      "model": "SM-J327R7"
+    },
+    {
+      "market_name": "Galaxy J3 Pop",
+      "codename": "j3popltelra",
+      "model": "SM-J327R6"
+    },
+    {
+      "market_name": "Galaxy J3 Pop",
       "codename": "j3popltespr",
       "model": "SM-J327P"
     },
@@ -2887,6 +2942,31 @@
       "model": "SM-J320FN"
     },
     {
+      "market_name": "Galaxy J3(2017)",
+      "codename": "j3y17lte",
+      "model": "SM-J330F"
+    },
+    {
+      "market_name": "Galaxy J3(2017)",
+      "codename": "j3y17lte",
+      "model": "SM-J330FN"
+    },
+    {
+      "market_name": "Galaxy J3(2017)",
+      "codename": "j3y17ltelgt",
+      "model": "SM-J330L"
+    },
+    {
+      "market_name": "Galaxy J3(2017)",
+      "codename": "j3y17qltecmcc",
+      "model": "SM-J3300"
+    },
+    {
+      "market_name": "Galaxy J3(2017)",
+      "codename": "j3y17qltecmcc",
+      "model": "SM-J3308"
+    },
+    {
       "market_name": "Galaxy J5",
       "codename": "j53g",
       "model": "SM-J500H"
@@ -2957,6 +3037,16 @@
       "model": "SM-G5700"
     },
     {
+      "market_name": "Galaxy J5 Pro",
+      "codename": "j5y17ltedx",
+      "model": "SM-J530Y"
+    },
+    {
+      "market_name": "Galaxy J5 Pro",
+      "codename": "j5y17ltextc",
+      "model": "SM-J530YM"
+    },
+    {
       "market_name": "Galaxy J5(2016)",
       "codename": "j5x3g",
       "model": "SM-J510H"
@@ -3022,6 +3112,31 @@
       "model": "SM-J530FM"
     },
     {
+      "market_name": "Galaxy J5(2017)",
+      "codename": "j5y17lte",
+      "model": "SM-J530G"
+    },
+    {
+      "market_name": "Galaxy J5(2017)",
+      "codename": "j5y17lte",
+      "model": "SM-J530GM"
+    },
+    {
+      "market_name": "Galaxy J5(2017)",
+      "codename": "j5y17ltektt",
+      "model": "SM-J530K"
+    },
+    {
+      "market_name": "Galaxy J5(2017)",
+      "codename": "j5y17ltelgt",
+      "model": "SM-J530L"
+    },
+    {
+      "market_name": "Galaxy J5(2017)",
+      "codename": "j5y17lteskt",
+      "model": "SM-J530S"
+    },
+    {
       "market_name": "Galaxy J7",
       "codename": "j75ltektt",
       "model": "SM-J700K"
@@ -3047,6 +3162,31 @@
       "model": "SM-J7008"
     },
     {
+      "market_name": "Galaxy J7 Max",
+      "codename": "j7maxlte",
+      "model": "SM-G615F"
+    },
+    {
+      "market_name": "Galaxy J7 Neo",
+      "codename": "j7velte",
+      "model": "SM-J701F"
+    },
+    {
+      "market_name": "Galaxy J7 Neo",
+      "codename": "j7velte",
+      "model": "SM-J701M"
+    },
+    {
+      "market_name": "Galaxy J7 Neo",
+      "codename": "j7velte",
+      "model": "SM-J701MT"
+    },
+    {
+      "market_name": "Galaxy J7 Pop",
+      "codename": "j7popelteaio",
+      "model": "SAMSUNG-SM-J727AZ"
+    },
+    {
       "market_name": "Galaxy J7 Pop",
       "codename": "j7popelteatt",
       "model": "SAMSUNG-SM-J727A"
@@ -3063,8 +3203,18 @@
     },
     {
       "market_name": "Galaxy J7 Pop",
+      "codename": "j7popeltetfntmo",
+      "model": "SM-S737TL"
+    },
+    {
+      "market_name": "Galaxy J7 Pop",
       "codename": "j7popeltetmo",
       "model": "SM-J727T"
+    },
+    {
+      "market_name": "Galaxy J7 Pop",
+      "codename": "j7popelteue",
+      "model": "SM-J727U"
     },
     {
       "market_name": "Galaxy J7 Pop",
@@ -3170,6 +3320,31 @@
       "market_name": "Galaxy J7(2016)",
       "codename": "j7xltectc",
       "model": "SM-J7109"
+    },
+    {
+      "market_name": "Galaxy J7(2017)",
+      "codename": "j7y17lte",
+      "model": "SM-J730F"
+    },
+    {
+      "market_name": "Galaxy J7(2017)",
+      "codename": "j7y17lte",
+      "model": "SM-J730FM"
+    },
+    {
+      "market_name": "Galaxy J7(2017)",
+      "codename": "j7y17lte",
+      "model": "SM-J730G"
+    },
+    {
+      "market_name": "Galaxy J7(2017)",
+      "codename": "j7y17lte",
+      "model": "SM-J730GM"
+    },
+    {
+      "market_name": "Galaxy J7(2017)",
+      "codename": "j7y17ltektt",
+      "model": "SM-J730K"
     },
     {
       "market_name": "Galaxy K",
@@ -3687,11 +3862,6 @@
       "model": "SM-P600"
     },
     {
-      "market_name": "Galaxy Note 8",
-      "codename": "konalteatt",
-      "model": "SAMSUNG-SGH-I467"
-    },
-    {
       "market_name": "Galaxy Note 8.0",
       "codename": "kona3g",
       "model": "GT-N5100"
@@ -3705,6 +3875,11 @@
       "market_name": "Galaxy Note 8.0",
       "codename": "konalte",
       "model": "GT-N5120"
+    },
+    {
+      "market_name": "Galaxy Note 8.0",
+      "codename": "konalteatt",
+      "model": "SAMSUNG-SGH-I467"
     },
     {
       "market_name": "Galaxy Note 8.0",
@@ -3810,6 +3985,21 @@
       "market_name": "Galaxy Note Edge",
       "codename": "tbltevzw",
       "model": "SM-N915V"
+    },
+    {
+      "market_name": "Galaxy Note Fan Edition",
+      "codename": "gracerltektt",
+      "model": "SM-N935K"
+    },
+    {
+      "market_name": "Galaxy Note Fan Edition",
+      "codename": "gracerltelgt",
+      "model": "SM-N935L"
+    },
+    {
+      "market_name": "Galaxy Note Fan Edition",
+      "codename": "gracerlteskt",
+      "model": "SM-N935S"
     },
     {
       "market_name": "Galaxy Note II",
@@ -4462,6 +4652,46 @@
       "model": "SM-N930V"
     },
     {
+      "market_name": "Galaxy Note8",
+      "codename": "greatlte",
+      "model": "SM-N950F"
+    },
+    {
+      "market_name": "Galaxy Note8",
+      "codename": "greatlteks",
+      "model": "SM-N950N"
+    },
+    {
+      "market_name": "Galaxy Note8",
+      "codename": "greatqlte",
+      "model": "SM-N950U"
+    },
+    {
+      "market_name": "Galaxy Note8",
+      "codename": "greatqltechn",
+      "model": "SM-N9500"
+    },
+    {
+      "market_name": "Galaxy Note8",
+      "codename": "greatqltecmcc",
+      "model": "SM-N9508"
+    },
+    {
+      "market_name": "Galaxy Note8",
+      "codename": "greatqltecs",
+      "model": "SM-N950W"
+    },
+    {
+      "market_name": "Galaxy Note8",
+      "codename": "greatqlteue",
+      "model": "SM-N950U1"
+    },
+    {
+      "market_name": "Galaxy On Max",
+      "codename": "j7maxlte",
+      "model": "SM-G615FU"
+    },
+    {
       "market_name": "Galaxy On Nxt",
       "codename": "on7xelte",
       "model": "SM-G610F"
@@ -4535,11 +4765,6 @@
       "market_name": "Galaxy On7",
       "codename": "on7elte",
       "model": "SM-G600F"
-    },
-    {
-      "market_name": "Galaxy On7",
-      "codename": "on7nlteskt",
-      "model": "SM-G600S"
     },
     {
       "market_name": "Galaxy On7 Pro",
@@ -5638,6 +5863,11 @@
     },
     {
       "market_name": "Galaxy S4",
+      "codename": "jflteMetroPCS",
+      "model": "SGH-M919N"
+    },
+    {
+      "market_name": "Galaxy S4",
       "codename": "jflteaio",
       "model": "SAMSUNG-SGH-I337Z"
     },
@@ -5885,6 +6115,11 @@
       "market_name": "Galaxy S4 Zoom",
       "codename": "mprojectlteatt",
       "model": "SAMSUNG-SM-C105A"
+    },
+    {
+      "market_name": "Galaxy S4 Zoom",
+      "codename": "mprojectltektt",
+      "model": "SM-C105K"
     },
     {
       "market_name": "Galaxy S4 Zoom",
@@ -6692,6 +6927,11 @@
       "model": "SM-G950U1"
     },
     {
+      "market_name": "Galaxy S8 Active",
+      "codename": "cruiserlteatt",
+      "model": "SM-G892A"
+    },
+    {
       "market_name": "Galaxy S8+",
       "codename": "SC-03J",
       "model": "SC-03J"
@@ -6810,6 +7050,11 @@
       "market_name": "Galaxy Stellar",
       "codename": "jaspervzw",
       "model": "SCH-I200PP"
+    },
+    {
+      "market_name": "Galaxy Stratosphere2",
+      "codename": "aegis2vzw",
+      "model": "SCH-I415"
     },
     {
       "market_name": "Galaxy Style Duos",
@@ -7768,6 +8013,11 @@
     },
     {
       "market_name": "Galaxy Tab S3",
+      "codename": "gts3lltevzw",
+      "model": "SM-T827V"
+    },
+    {
+      "market_name": "Galaxy Tab S3",
       "codename": "gts3lwifi",
       "model": "SM-T820"
     },
@@ -8637,6 +8887,11 @@
       "model": "SM-T255S"
     },
     {
+      "market_name": "Galaxy Wide",
+      "codename": "on7nlteskt",
+      "model": "SM-G600S"
+    },
+    {
       "market_name": "Galaxy Win",
       "codename": "delos3gcmcc",
       "model": "GT-I8558"
@@ -8750,6 +9005,11 @@
       "market_name": "Galaxy Xcover4",
       "codename": "xcover4lte",
       "model": "SM-G390Y"
+    },
+    {
+      "market_name": "Galaxy Xcover4",
+      "codename": "xcover4ltecan",
+      "model": "SM-G390W"
     },
     {
       "market_name": "Galaxy Y",
@@ -8962,6 +9222,11 @@
       "model": "SGH-T399N"
     },
     {
+      "market_name": "Garda",
+      "codename": "gardaltetmo",
+      "model": "SGH-T399"
+    },
+    {
       "market_name": "Gear Live",
       "codename": "sprat",
       "model": "Gear Live"
@@ -8994,6 +9259,11 @@
     {
       "market_name": "Homesync",
       "codename": "spcwifi",
+      "model": "GT-B9150"
+    },
+    {
+      "market_name": "Homesync",
+      "codename": "spcwifiany",
       "model": "GT-B9150"
     },
     {
@@ -9082,44 +9352,14 @@
       "model": "SAMSUNG-SGH-I847"
     },
     {
+      "market_name": "SM G9298",
+      "codename": "venenoltechn",
+      "model": "SM-G9298"
+    },
+    {
       "market_name": "SM-G9198",
       "codename": "philippeltechn",
       "model": "SM-G9198"
-    },
-    {
-      "market_name": "Samsung Chromebook Pro",
-      "codename": "caroline_cheets",
-      "model": "caroline"
-    },
-    {
-      "market_name": "Samsung Galaxy S4",
-      "codename": "jflteMetroPCS",
-      "model": "SGH-M919N"
-    },
-    {
-      "market_name": "Samsung Galaxy S4 Zoom",
-      "codename": "mprojectltektt",
-      "model": "SM-C105K"
-    },
-    {
-      "market_name": "Samsung Galaxy Stratosphere2",
-      "codename": "aegis2vzw",
-      "model": "SCH-I415"
-    },
-    {
-      "market_name": "Samsung Garda",
-      "codename": "gardaltetmo",
-      "model": "SGH-T399"
-    },
-    {
-      "market_name": "Samsung Homesync",
-      "codename": "spcwifi",
-      "model": "GT-B9150"
-    },
-    {
-      "market_name": "Samsung Homesync",
-      "codename": "spcwifiany",
-      "model": "GT-B9150"
     },
     {
       "market_name": "Sidekick",

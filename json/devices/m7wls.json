@@ -7,7 +7,13 @@
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC One",
+    "market_name": "One",
+    "codename": "m7wls",
+    "model": "HTC One"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "One",
     "codename": "m7wls",
     "model": "HTCONE"
   }

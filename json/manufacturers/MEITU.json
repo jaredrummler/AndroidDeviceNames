@@ -2,27 +2,27 @@
   "manufacturer": "Meitu",
   "devices": [
     {
+      "market_name": "M4",
+      "codename": "M4",
+      "model": "Meitu M4"
+    },
+    {
+      "market_name": "M6",
+      "codename": "M6",
+      "model": "MP1503"
+    },
+    {
       "market_name": "Maya",
       "codename": "Maya",
       "model": "MP1603"
     },
     {
-      "market_name": "Meitu  M6",
-      "codename": "M6",
-      "model": "MP1503"
-    },
-    {
-      "market_name": "Meitu M4",
-      "codename": "M4",
-      "model": "Meitu M4"
-    },
-    {
-      "market_name": "Meitu V4",
+      "market_name": "V4",
       "codename": "V4",
       "model": "Meitu V4"
     },
     {
-      "market_name": "Meitu V4s",
+      "market_name": "V4s",
       "codename": "V4s",
       "model": "Meitu V4s"
     },

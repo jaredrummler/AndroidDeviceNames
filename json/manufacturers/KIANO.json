@@ -2,7 +2,22 @@
   "manufacturer": "Kiano",
   "devices": [
     {
-      "market_name": "Kiano Elegance 5.5 Pro",
+      "market_name": "Elegance 5.1",
+      "codename": "Elegance_5_1",
+      "model": "Elegance_5_1"
+    },
+    {
+      "market_name": "Elegance 5.1 Pro",
+      "codename": "ELEGANCE_5_1_PRO",
+      "model": "ELEGANCE_5_1_PRO"
+    },
+    {
+      "market_name": "Elegance 5.5",
+      "codename": "Elegance_5_5",
+      "model": "Elegance_5_5"
+    },
+    {
+      "market_name": "Elegance 5.5 Pro",
       "codename": "Elegance_5_5_Pro",
       "model": "Elegance_5_5_Pro"
     },

@@ -2,6 +2,11 @@
   "manufacturer": "Storex",
   "devices": [
     {
+      "market_name": "eZee\\\u0027Tab7Q11-M",
+      "codename": "Tab7Q11",
+      "model": "Tab7Q11"
+    },
+    {
       "market_name": "eZeeTab10D12-S",
       "codename": "eZeeTab10D12-S",
       "model": "eZeeTab10D12-S"
@@ -10,6 +15,11 @@
       "market_name": "eZeeTab7D15-M",
       "codename": "eZeeTab7D15-M",
       "model": "eZeeTab7D15-M"
+    },
+    {
+      "market_name": "eZee\\xe2\\x80\\x99Tab7D14-S",
+      "codename": "STOREX7526",
+      "model": "NID_7010"
     }
   ]
 }

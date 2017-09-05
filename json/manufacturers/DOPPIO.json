@@ -2,6 +2,11 @@
   "manufacturer": "Doppio",
   "devices": [
     {
+      "market_name": "Doppio_SL505",
+      "codename": "Doppio_SL505",
+      "model": "SL505"
+    },
+    {
       "market_name": "SG402",
       "codename": "SG402",
       "model": "SG402"
@@ -20,6 +25,16 @@
       "market_name": "SL513",
       "codename": "SL513",
       "model": "SL513"
+    },
+    {
+      "market_name": "U400",
+      "codename": "U400",
+      "model": "U400"
+    },
+    {
+      "market_name": "U450",
+      "codename": "U450",
+      "model": "U450"
     },
     {
       "market_name": "U500",

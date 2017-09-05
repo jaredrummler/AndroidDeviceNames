@@ -22,49 +22,49 @@
       "model": "P6 PRO"
     },
     {
+      "market_name": "P7",
+      "codename": "Symphony_P7",
+      "model": "P7"
+    },
+    {
+      "market_name": "P7 Pro",
+      "codename": "P7_PRO",
+      "model": "Symphony P7 PRO"
+    },
+    {
+      "market_name": "P8 PRO",
+      "codename": "P8_PRO",
+      "model": "P8 PRO"
+    },
+    {
+      "market_name": "P9",
+      "codename": "P9",
+      "model": "P9"
+    },
+    {
+      "market_name": "R100",
+      "codename": "R100",
+      "model": "Symphony R100"
+    },
+    {
+      "market_name": "R20",
+      "codename": "R20",
+      "model": "R20"
+    },
+    {
       "market_name": "Roar A50",
       "codename": "Roar_A50_sprout",
       "model": "Roar_A50"
     },
     {
-      "market_name": "SYMPHONY R100",
-      "codename": "R100",
-      "model": "Symphony R100"
+      "market_name": "SYMTAB25",
+      "codename": "SYMTAB25",
+      "model": "SYMTAB25"
     },
     {
-      "market_name": "SYMPHONY R20",
-      "codename": "R20",
-      "model": "R20"
-    },
-    {
-      "market_name": "SYMPHONY V34",
-      "codename": "V34",
-      "model": "V34"
-    },
-    {
-      "market_name": "SYMPHONY V75",
-      "codename": "V75",
-      "model": "V75"
-    },
-    {
-      "market_name": "SYMPHONY ZVIII",
-      "codename": "ZVIII",
-      "model": "ZVIII"
-    },
-    {
-      "market_name": "SYMPHONY i10",
-      "codename": "i10",
-      "model": "i10"
-    },
-    {
-      "market_name": "Symphony P7 Pro",
-      "codename": "P7_PRO",
-      "model": "Symphony P7 PRO"
-    },
-    {
-      "market_name": "Symphony_P7",
-      "codename": "Symphony_P7",
-      "model": "P7"
+      "market_name": "Symphony_Z9",
+      "codename": "Z9",
+      "model": "Symphony Z9"
     },
     {
       "market_name": "V100",
@@ -77,9 +77,29 @@
       "model": "V110"
     },
     {
+      "market_name": "V120",
+      "codename": "V120",
+      "model": "V120"
+    },
+    {
+      "market_name": "V34",
+      "codename": "V34",
+      "model": "V34"
+    },
+    {
+      "market_name": "V47",
+      "codename": "V47",
+      "model": "V47"
+    },
+    {
       "market_name": "V65",
       "codename": "V65",
       "model": "V65"
+    },
+    {
+      "market_name": "V75",
+      "codename": "V75",
+      "model": "V75"
     },
     {
       "market_name": "V85",
@@ -90,6 +110,21 @@
       "market_name": "ZVII",
       "codename": "ZVII",
       "model": "ZVII"
+    },
+    {
+      "market_name": "ZVIII",
+      "codename": "ZVIII",
+      "model": "ZVIII"
+    },
+    {
+      "market_name": "i10",
+      "codename": "i10",
+      "model": "i10"
+    },
+    {
+      "market_name": "i10 plus",
+      "codename": "i10_plus",
+      "model": "i10 plus"
     },
     {
       "market_name": "i20",

@@ -2,9 +2,34 @@
   "manufacturer": "DL",
   "devices": [
     {
-      "market_name": "DL 3406",
+      "market_name": "3406",
       "codename": "G02DL",
       "model": "Tablet DL 3406"
+    },
+    {
+      "market_name": "3420",
+      "codename": "Tablet_DL_3420",
+      "model": "Tablet DL 3420"
+    },
+    {
+      "market_name": "3420",
+      "codename": "Tablet_DL_3420",
+      "model": "Tablet_DL_3420"
+    },
+    {
+      "market_name": "3903",
+      "codename": "Tablet_DL_3903",
+      "model": "Tablet_DL_3903"
+    },
+    {
+      "market_name": "Creative Kids",
+      "codename": "Tablet_DL_3721",
+      "model": "Tablet_DL_3721"
+    },
+    {
+      "market_name": "Creative Tab",
+      "codename": "Tablet_DL_3723",
+      "model": "Tablet_DL_3723"
     },
     {
       "market_name": "DL3920",
@@ -12,19 +37,24 @@
       "model": "Tablet_DL_3920"
     },
     {
-      "market_name": "DL_3420",
-      "codename": "Tablet_DL_3420",
-      "model": "Tablet DL 3420"
+      "market_name": "Mobi Tab",
+      "codename": "Tablet_DL_2810",
+      "model": "Tablet_DL_2810"
     },
     {
-      "market_name": "DL_3420",
-      "codename": "Tablet_DL_3420",
-      "model": "Tablet_DL_3420"
+      "market_name": "Mobi Tab",
+      "codename": "Tablet_DL_2811",
+      "model": "Tablet_DL_2811"
     },
     {
-      "market_name": "DL_3903",
-      "codename": "Tablet_DL_3903",
-      "model": "Tablet_DL_3903"
+      "market_name": "Sabich\\xc3\\xb5es",
+      "codename": "Tablet_DL_3722",
+      "model": "Tablet_DL_3722"
+    },
+    {
+      "market_name": "TabF\\xc3\\xa1cil",
+      "codename": "Tablet_DL_2820",
+      "model": "Tablet_DL_2820"
     },
     {
       "market_name": "TabKids Plus",
@@ -32,9 +62,19 @@
       "model": "Tablet DL 3411"
     },
     {
+      "market_name": "TabPhone 710 pro",
+      "codename": "Tablet_DL_3421",
+      "model": "Tablet DL 3421"
+    },
+    {
       "market_name": "X_Quad_Pro",
       "codename": "X_Quad_Pro",
       "model": "Tablet DL 3410"
+    },
+    {
+      "market_name": "YZU_DS53",
+      "codename": "Smartphone_YZU_DS53",
+      "model": "Smartphone_YZU_DS53"
     },
     {
       "market_name": "i-Player_KIDS",

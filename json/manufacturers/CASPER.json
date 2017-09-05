@@ -7,6 +7,11 @@
       "model": "TA80CA2"
     },
     {
+      "market_name": "VIA M3",
+      "codename": "CASPER_VIA_M3",
+      "model": "CASPER_VIA_M3"
+    },
+    {
       "market_name": "VIA T7D",
       "codename": "VIA-T7D",
       "model": "VIA-T7D"
@@ -35,6 +40,11 @@
       "market_name": "VIA_A1_Plus",
       "codename": "BBL7551TC",
       "model": "VIA_A1_Plus"
+    },
+    {
+      "market_name": "VIA_P2",
+      "codename": "VIA_P2",
+      "model": "VIA_P2"
     },
     {
       "market_name": "VIA_S17",

@@ -1,0 +1,15 @@
+{
+  "manufacturer": "X-TIGI",
+  "devices": [
+    {
+      "market_name": "X_TIGI_A1",
+      "codename": "X_TIGI_A1",
+      "model": "X_TIGI_A1"
+    },
+    {
+      "market_name": "X_TIGI_A1Plus",
+      "codename": "X_TIGI_A1Plus",
+      "model": "X_TIGI_A1Plus"
+    }
+  ]
+}

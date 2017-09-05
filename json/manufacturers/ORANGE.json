@@ -12,14 +12,44 @@
       "model": "Orange-Rise51B"
     },
     {
+      "market_name": "Dive 30",
+      "codename": "P635E40",
+      "model": "Orange Dive 30"
+    },
+    {
+      "market_name": "Dive 30",
+      "codename": "P635E40",
+      "model": "ZTE Blade A410"
+    },
+    {
+      "market_name": "Dive 50",
+      "codename": "pixi3_45_4g_orange",
+      "model": "Orange Dive 50"
+    },
+    {
       "market_name": "Dive 50 Dual",
       "codename": "pixi3_45_4g_orange",
       "model": "Dive 50 Dual"
     },
     {
+      "market_name": "Dive 71",
+      "codename": "Orange_Dive_71",
+      "model": "Orange Dive 71"
+    },
+    {
+      "market_name": "Dive72",
+      "codename": "mickey6",
+      "model": "Orange-Dive72"
+    },
+    {
       "market_name": "Dive_70",
       "codename": "Dive_70",
       "model": "SCL-L01"
+    },
+    {
+      "market_name": "Five",
+      "codename": "OrangeFive",
+      "model": "OrangeFive"
     },
     {
       "market_name": "Luno",
@@ -32,94 +62,74 @@
       "model": "NOS Roya"
     },
     {
+      "market_name": "Neva 80",
+      "codename": "Orange_Neva_80",
+      "model": "Orange Neva 80"
+    },
+    {
+      "market_name": "Nura",
+      "codename": "M812",
+      "model": "Orange Nura"
+    },
+    {
       "market_name": "Nura2",
       "codename": "m823_orange",
       "model": "Nura 2"
     },
     {
-      "market_name": "Orange Dive 30",
-      "codename": "P635E40",
-      "model": "Orange Dive 30"
-    },
-    {
-      "market_name": "Orange Dive 30",
-      "codename": "P635E40",
-      "model": "ZTE Blade A410"
-    },
-    {
-      "market_name": "Orange Dive 50",
-      "codename": "pixi3_45_4g_orange",
-      "model": "Orange Dive 50"
-    },
-    {
-      "market_name": "Orange Dive 71",
-      "codename": "Orange_Dive_71",
-      "model": "Orange Dive 71"
-    },
-    {
-      "market_name": "Orange Neva 80",
-      "codename": "Orange_Neva_80",
-      "model": "Orange Neva 80"
-    },
-    {
-      "market_name": "Orange Nura",
-      "codename": "M812",
-      "model": "Orange Nura"
-    },
-    {
-      "market_name": "Orange Rise 30",
+      "market_name": "Rise 30",
       "codename": "Pixi3-4",
       "model": "Orange Rise 30"
     },
     {
-      "market_name": "Orange Rise 40",
+      "market_name": "Rise 40",
       "codename": "ZTE_BLADE_A110",
       "model": "Orange Rise 40"
     },
     {
-      "market_name": "Orange Rise32",
-      "codename": "Orange-Rise32",
-      "model": "Orange Rise32"
+      "market_name": "Rise 50",
+      "codename": "Rise50",
+      "model": "Rise50"
     },
     {
-      "market_name": "Orange Roya",
-      "codename": "Alto45",
-      "model": "Orange Roya"
-    },
-    {
-      "market_name": "Orange Zilo",
-      "codename": "Orange_Zilo",
-      "model": "Zilo"
-    },
-    {
-      "market_name": "Orange- Rise31",
-      "codename": "Pixi4-4",
-      "model": "Orange-Rise31"
-    },
-    {
-      "market_name": "Orange- Rise51",
-      "codename": "PIXI4_5_4G",
-      "model": "Orange-Rise51"
-    },
-    {
-      "market_name": "Orange-Dive72",
-      "codename": "mickey6",
-      "model": "Orange-Dive72"
-    },
-    {
-      "market_name": "Orange-Rise30",
+      "market_name": "Rise30",
       "codename": "Pixi3-4",
       "model": "Orange-Rise30"
     },
     {
-      "market_name": "Orange_Sego",
-      "codename": "Orange_Sego",
-      "model": "Orange Sego"
+      "market_name": "Rise31",
+      "codename": "Pixi4-4",
+      "model": "Orange-Rise31"
     },
     {
       "market_name": "Rise32",
       "codename": "Orange-Rise32",
       "model": "Orange Rise32"
+    },
+    {
+      "market_name": "Rise51",
+      "codename": "PIXI4_5_4G",
+      "model": "Orange-Rise51"
+    },
+    {
+      "market_name": "Rise52",
+      "codename": "BUZZ6T4G",
+      "model": "Orange-Rise52"
+    },
+    {
+      "market_name": "Roya",
+      "codename": "Alto45",
+      "model": "Orange Roya"
+    },
+    {
+      "market_name": "Sego",
+      "codename": "Orange_Sego",
+      "model": "Orange Sego"
+    },
+    {
+      "market_name": "Zilo",
+      "codename": "Orange_Zilo",
+      "model": "Zilo"
     },
     {
       "market_name": "idol S",

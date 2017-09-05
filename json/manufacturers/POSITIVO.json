@@ -12,369 +12,74 @@
       "model": "AB10PGN"
     },
     {
+      "market_name": "AB7",
+      "codename": "YPY_AB7D",
+      "model": "YPY_AB7D"
+    },
+    {
+      "market_name": "AB7D",
+      "codename": "YPY_AB7DC",
+      "model": "YPY_AB7DC"
+    },
+    {
+      "market_name": "BGH 7Di-A",
+      "codename": "Y210",
+      "model": "Positivo BGH 7Di-A"
+    },
+    {
+      "market_name": "BGH Y200",
+      "codename": "T710",
+      "model": "Positivo BGH Y200"
+    },
+    {
+      "market_name": "BGH Y230",
+      "codename": "T760",
+      "model": "Y230"
+    },
+    {
       "market_name": "First",
       "codename": "S410",
       "model": "First"
     },
     {
-      "market_name": "Positivo AB7",
-      "codename": "YPY_AB7D",
-      "model": "YPY_AB7D"
-    },
-    {
-      "market_name": "Positivo AB7D",
-      "codename": "YPY_AB7DC",
-      "model": "YPY_AB7DC"
-    },
-    {
-      "market_name": "Positivo BGH 7Di-A",
-      "codename": "Y210",
-      "model": "Positivo BGH 7Di-A"
-    },
-    {
-      "market_name": "Positivo BGH Y100",
-      "codename": "Y700",
-      "model": "Positivo BGH Y100"
-    },
-    {
-      "market_name": "Positivo BGH Y200",
-      "codename": "T710",
-      "model": "Positivo BGH Y200"
-    },
-    {
-      "market_name": "Positivo BGH Y210",
-      "codename": "Y210",
-      "model": "Positivo BGH 7Di-A"
-    },
-    {
-      "market_name": "Positivo BGH Y210",
-      "codename": "Y210",
-      "model": "Positivo BGH Y210"
-    },
-    {
-      "market_name": "Positivo BGH Y230",
-      "codename": "T760",
-      "model": "Y230"
-    },
-    {
-      "market_name": "Positivo BGH Y400",
-      "codename": "Y400",
-      "model": "Y400"
-    },
-    {
-      "market_name": "Positivo BGH Y700",
-      "codename": "Y700",
-      "model": "Positivo BGH Y700"
-    },
-    {
-      "market_name": "Positivo BGH Y710 kids",
-      "codename": "Y700",
-      "model": "Positivo BGH Y710 KIDS"
-    },
-    {
-      "market_name": "Positivo Life",
+      "market_name": "Life",
       "codename": "S421",
       "model": "S421 Positivo Life"
     },
     {
-      "market_name": "Positivo Mini",
+      "market_name": "Mini",
       "codename": "mini",
       "model": "Positivo Mini"
     },
     {
-      "market_name": "Positivo Mini",
+      "market_name": "Mini",
       "codename": "mini",
       "model": "Positivo Mini TE"
     },
     {
-      "market_name": "Positivo Next",
+      "market_name": "Next",
       "codename": "X500",
       "model": "Positivo Next"
     },
     {
-      "market_name": "Positivo OCTA",
+      "market_name": "OCTA",
       "codename": "OCTA",
       "model": "OCTA"
     },
     {
-      "market_name": "Positivo One",
+      "market_name": "One",
       "codename": "S420",
       "model": "Positivo One"
     },
     {
-      "market_name": "Positivo One",
+      "market_name": "One",
       "codename": "S420",
       "model": "S420"
     },
     {
-      "market_name": "Positivo S380",
+      "market_name": "S380",
       "codename": "S380",
       "model": "S380"
-    },
-    {
-      "market_name": "Positivo S450",
-      "codename": "S450",
-      "model": "S450"
-    },
-    {
-      "market_name": "Positivo S550",
-      "codename": "S550",
-      "model": "S550"
-    },
-    {
-      "market_name": "Positivo SX1000",
-      "codename": "SX1000",
-      "model": "Positivo SX1000"
-    },
-    {
-      "market_name": "Positivo Selfie",
-      "codename": "S455",
-      "model": "S455"
-    },
-    {
-      "market_name": "Positivo Stilo T725",
-      "codename": "T725",
-      "model": "Stilo T725"
-    },
-    {
-      "market_name": "Positivo T1060",
-      "codename": "t1060",
-      "model": "T1060"
-    },
-    {
-      "market_name": "Positivo T1060",
-      "codename": "t1060",
-      "model": "T1060B"
-    },
-    {
-      "market_name": "Positivo T1060",
-      "codename": "t1060",
-      "model": "T1060C"
-    },
-    {
-      "market_name": "Positivo T701 TV",
-      "codename": "T701",
-      "model": "T701"
-    },
-    {
-      "market_name": "Positivo T705",
-      "codename": "T705",
-      "model": "T705"
-    },
-    {
-      "market_name": "Positivo T705",
-      "codename": "T705",
-      "model": "T705/T708"
-    },
-    {
-      "market_name": "Positivo T705",
-      "codename": "T705",
-      "model": "T705K"
-    },
-    {
-      "market_name": "Positivo T710",
-      "codename": "T710",
-      "model": "Positivo T710"
-    },
-    {
-      "market_name": "Positivo T715",
-      "codename": "T715",
-      "model": "Stilo T715"
-    },
-    {
-      "market_name": "Positivo T730",
-      "codename": "T730",
-      "model": "Positivo Stilo T730 Kids"
-    },
-    {
-      "market_name": "Positivo T750",
-      "codename": "t750",
-      "model": "Positivo T750"
-    },
-    {
-      "market_name": "Positivo Twist",
-      "codename": "S520",
-      "model": "Positivo Twist M"
-    },
-    {
-      "market_name": "Positivo Twist",
-      "codename": "S520",
-      "model": "Positivo Twist S"
-    },
-    {
-      "market_name": "Positivo Twist 4G",
-      "codename": "S520_4G",
-      "model": "Positivo Twist 4G"
-    },
-    {
-      "market_name": "Positivo Union US2070",
-      "codename": "US2070",
-      "model": "Positivo US2070"
-    },
-    {
-      "market_name": "Positivo X400",
-      "codename": "X400",
-      "model": "X400"
-    },
-    {
-      "market_name": "Positivo YPY AB7",
-      "codename": "YPY_AB7",
-      "model": "Positivo Ypy AB7E"
-    },
-    {
-      "market_name": "Positivo YPY AB7",
-      "codename": "YPY_AB7",
-      "model": "Positivo Ypy AB7EC"
-    },
-    {
-      "market_name": "Positivo YPY7 3G",
-      "codename": "TB07FTA",
-      "model": "Positivo Ypy 7 - TB07FTA"
-    },
-    {
-      "market_name": "Positivo YPY7 3G",
-      "codename": "TB07FTA",
-      "model": "Ypy 7 - TB07FTA"
-    },
-    {
-      "market_name": "Positivo YPY7 3G",
-      "codename": "YPY_07FTA",
-      "model": "YPY_07FTA"
-    },
-    {
-      "market_name": "Positivo YPY7 wifi",
-      "codename": "TB07STA",
-      "model": "Positivo Ypy 7 - TB07STA"
-    },
-    {
-      "market_name": "Positivo YPY7 wifi",
-      "codename": "TB07STA",
-      "model": "Ypy 7 - TB07STA"
-    },
-    {
-      "market_name": "Positivo YPY7 wifi",
-      "codename": "YPY_07STA",
-      "model": "YPY_07STA"
-    },
-    {
-      "market_name": "Positivo Ypy 07FTB",
-      "codename": "YPY_07FTB",
-      "model": "POSITIVO TABLET YPY 07FTB PM BEL\\xc3\\x89M"
-    },
-    {
-      "market_name": "Positivo Ypy 07FTB",
-      "codename": "YPY_07FTB",
-      "model": "YPY_07FTB"
-    },
-    {
-      "market_name": "Positivo Ypy 07FTBF",
-      "codename": "YPY_07FTBF",
-      "model": "YPY_07FTBF"
-    },
-    {
-      "market_name": "Positivo Ypy 07STB",
-      "codename": "YPY_07STB",
-      "model": "YPY_07STB"
-    },
-    {
-      "market_name": "Positivo Ypy 07STBF",
-      "codename": "YPY_07STBF",
-      "model": "YPY_07STBF"
-    },
-    {
-      "market_name": "Positivo Ypy 10FTB",
-      "codename": "YPY_10FTB",
-      "model": "YPY_10FTB"
-    },
-    {
-      "market_name": "Positivo Ypy 10FTBF",
-      "codename": "YPY_10FTBF",
-      "model": "YPY_10FTBF"
-    },
-    {
-      "market_name": "Positivo Ypy 10STB",
-      "codename": "YPY_10STB",
-      "model": "YPY_10STB"
-    },
-    {
-      "market_name": "Positivo Ypy 10STBF",
-      "codename": "YPY_10STBF",
-      "model": "YPY_10STBF"
-    },
-    {
-      "market_name": "Positivo Ypy AB10",
-      "codename": "YPY_AB10D",
-      "model": "YPY_AB10D"
-    },
-    {
-      "market_name": "Positivo Ypy AB10D",
-      "codename": "YPY_AB10DC",
-      "model": "YPY_AB10DC"
-    },
-    {
-      "market_name": "Positivo Ypy AB10E",
-      "codename": "YPY_AB10EC",
-      "model": "Positivo Ypy AB10EC"
-    },
-    {
-      "market_name": "Positivo Ypy AB10H",
-      "codename": "YPY_AB10H",
-      "model": "Positivo Ypy AB10H"
-    },
-    {
-      "market_name": "Positivo Ypy AB10i",
-      "codename": "Ypy_AB10i",
-      "model": "Ypy AB10i"
-    },
-    {
-      "market_name": "Positivo Ypy AB7F",
-      "codename": "YPY_AB7F",
-      "model": "Positivo Ypy AB7F"
-    },
-    {
-      "market_name": "Positivo Ypy AB7F",
-      "codename": "YPY_AB7F",
-      "model": "T720"
-    },
-    {
-      "market_name": "Positivo Ypy L700",
-      "codename": "YPY_L700",
-      "model": "Positivo Ypy L700"
-    },
-    {
-      "market_name": "Positivo Ypy L700",
-      "codename": "YPY_L700",
-      "model": "Positivo Ypy L700 Ed. Especial"
-    },
-    {
-      "market_name": "Positivo Ypy L700",
-      "codename": "YPY_L700",
-      "model": "Positivo Ypy L700+"
-    },
-    {
-      "market_name": "Positivo Ypy S350p",
-      "codename": "YPY_S350",
-      "model": "YPY_S350_PLUS"
-    },
-    {
-      "market_name": "Positivo Ypy S405",
-      "codename": "YPY_S405",
-      "model": "YPY_S405"
-    },
-    {
-      "market_name": "Positivo Ypy TQ7",
-      "codename": "YPY_TQ7",
-      "model": "YPY_TQ7"
-    },
-    {
-      "market_name": "Positivo mini I",
-      "codename": "mini_i",
-      "model": "Positivo BGH Y300"
-    },
-    {
-      "market_name": "Positivo mini I",
-      "codename": "mini_i",
-      "model": "Positivo Mini I"
     },
     {
       "market_name": "S430 Positivo Twist Mini",
@@ -387,9 +92,114 @@
       "model": "S440"
     },
     {
+      "market_name": "S450",
+      "codename": "S450",
+      "model": "S450"
+    },
+    {
       "market_name": "S480",
       "codename": "S480",
       "model": "S480"
+    },
+    {
+      "market_name": "S550",
+      "codename": "S550",
+      "model": "S550"
+    },
+    {
+      "market_name": "SX1000",
+      "codename": "SX1000",
+      "model": "Positivo SX1000"
+    },
+    {
+      "market_name": "Selfie",
+      "codename": "S455",
+      "model": "S455"
+    },
+    {
+      "market_name": "Stilo T725",
+      "codename": "T725",
+      "model": "Stilo T725"
+    },
+    {
+      "market_name": "T1060",
+      "codename": "t1060",
+      "model": "T1060"
+    },
+    {
+      "market_name": "T1060",
+      "codename": "t1060",
+      "model": "T1060B"
+    },
+    {
+      "market_name": "T1060",
+      "codename": "t1060",
+      "model": "T1060C"
+    },
+    {
+      "market_name": "T1075",
+      "codename": "T1075",
+      "model": "Positivo T1075"
+    },
+    {
+      "market_name": "T701 TV",
+      "codename": "T701",
+      "model": "T701"
+    },
+    {
+      "market_name": "T705",
+      "codename": "T705",
+      "model": "T705"
+    },
+    {
+      "market_name": "T705",
+      "codename": "T705",
+      "model": "T705/T708"
+    },
+    {
+      "market_name": "T705",
+      "codename": "T705",
+      "model": "T705K"
+    },
+    {
+      "market_name": "T710",
+      "codename": "T710",
+      "model": "Positivo T710"
+    },
+    {
+      "market_name": "T715",
+      "codename": "T715",
+      "model": "Stilo T715"
+    },
+    {
+      "market_name": "T730",
+      "codename": "T730",
+      "model": "Positivo Stilo T730 Kids"
+    },
+    {
+      "market_name": "T750",
+      "codename": "t750",
+      "model": "Positivo T750"
+    },
+    {
+      "market_name": "Twist",
+      "codename": "S520",
+      "model": "Positivo Twist M"
+    },
+    {
+      "market_name": "Twist",
+      "codename": "S520",
+      "model": "Positivo Twist S"
+    },
+    {
+      "market_name": "Twist 4G",
+      "codename": "S520_4G",
+      "model": "Positivo Twist 4G"
+    },
+    {
+      "market_name": "Twist Max",
+      "codename": "S540",
+      "model": "Twist Max"
     },
     {
       "market_name": "Twist Mini",
@@ -402,9 +212,14 @@
       "model": "Twist XL"
     },
     {
-      "market_name": "Y1000",
-      "codename": "Y1000",
-      "model": "Y1000"
+      "market_name": "Union US2070",
+      "codename": "US2070",
+      "model": "Positivo US2070"
+    },
+    {
+      "market_name": "X400",
+      "codename": "X400",
+      "model": "X400"
     },
     {
       "market_name": "YPY 10 3G",
@@ -412,14 +227,104 @@
       "model": "YPY_10FTA"
     },
     {
+      "market_name": "YPY AB7",
+      "codename": "YPY_AB7",
+      "model": "Positivo Ypy AB7E"
+    },
+    {
+      "market_name": "YPY AB7",
+      "codename": "YPY_AB7",
+      "model": "Positivo Ypy AB7EC"
+    },
+    {
       "market_name": "YPY S400",
       "codename": "YPY_S400",
       "model": "YPY_S400"
     },
     {
-      "market_name": "Ypy",
-      "codename": "T701_AR",
-      "model": "L701 TV"
+      "market_name": "YPY7 3G",
+      "codename": "TB07FTA",
+      "model": "Positivo Ypy 7 - TB07FTA"
+    },
+    {
+      "market_name": "YPY7 3G",
+      "codename": "TB07FTA",
+      "model": "Ypy 7 - TB07FTA"
+    },
+    {
+      "market_name": "YPY7 3G",
+      "codename": "YPY_07FTA",
+      "model": "YPY_07FTA"
+    },
+    {
+      "market_name": "YPY7 wifi",
+      "codename": "TB07STA",
+      "model": "Positivo Ypy 7 - TB07STA"
+    },
+    {
+      "market_name": "YPY7 wifi",
+      "codename": "TB07STA",
+      "model": "Ypy 7 - TB07STA"
+    },
+    {
+      "market_name": "YPY7 wifi",
+      "codename": "YPY_07STA",
+      "model": "YPY_07STA"
+    },
+    {
+      "market_name": "Ypy 07FTB",
+      "codename": "YPY_07FTB",
+      "model": "POSITIVO TABLET YPY 07FTB PM BEL\\xc3\\x89M"
+    },
+    {
+      "market_name": "Ypy 07FTB",
+      "codename": "YPY_07FTB",
+      "model": "YPY_07FTB"
+    },
+    {
+      "market_name": "Ypy 07FTBF",
+      "codename": "YPY_07FTBF",
+      "model": "YPY_07FTBF"
+    },
+    {
+      "market_name": "Ypy 07STB",
+      "codename": "YPY_07STB",
+      "model": "YPY_07STB"
+    },
+    {
+      "market_name": "Ypy 07STBF",
+      "codename": "YPY_07STBF",
+      "model": "YPY_07STBF"
+    },
+    {
+      "market_name": "Ypy 10FTB",
+      "codename": "YPY_10FTB",
+      "model": "YPY_10FTB"
+    },
+    {
+      "market_name": "Ypy 10FTBF",
+      "codename": "YPY_10FTBF",
+      "model": "YPY_10FTBF"
+    },
+    {
+      "market_name": "Ypy 10STB",
+      "codename": "YPY_10STB",
+      "model": "YPY_10STB"
+    },
+    {
+      "market_name": "Ypy 10STBF",
+      "codename": "YPY_10STBF",
+      "model": "YPY_10STBF"
+    },
+    {
+      "market_name": "Ypy AB10",
+      "codename": "YPY_AB10D",
+      "model": "YPY_AB10D"
+    },
+    {
+      "market_name": "Ypy AB10D",
+      "codename": "YPY_AB10DC",
+      "model": "YPY_AB10DC"
     },
     {
       "market_name": "Ypy AB10DP",
@@ -430,6 +335,31 @@
       "market_name": "Ypy AB10E",
       "codename": "YPY_AB10E",
       "model": "Positivo Ypy AB10E"
+    },
+    {
+      "market_name": "Ypy AB10E",
+      "codename": "YPY_AB10EC",
+      "model": "Positivo Ypy AB10EC"
+    },
+    {
+      "market_name": "Ypy AB10H",
+      "codename": "YPY_AB10H",
+      "model": "Positivo Ypy AB10H"
+    },
+    {
+      "market_name": "Ypy AB10i",
+      "codename": "Ypy_AB10i",
+      "model": "Ypy AB10i"
+    },
+    {
+      "market_name": "Ypy AB7F",
+      "codename": "YPY_AB7F",
+      "model": "Positivo Ypy AB7F"
+    },
+    {
+      "market_name": "Ypy AB7F",
+      "codename": "YPY_AB7F",
+      "model": "T720"
     },
     {
       "market_name": "Ypy AB7K",
@@ -472,6 +402,21 @@
       "model": "Positivo Ypy L1050E"
     },
     {
+      "market_name": "Ypy L700",
+      "codename": "YPY_L700",
+      "model": "Positivo Ypy L700"
+    },
+    {
+      "market_name": "Ypy L700",
+      "codename": "YPY_L700",
+      "model": "Positivo Ypy L700 Ed. Especial"
+    },
+    {
+      "market_name": "Ypy L700",
+      "codename": "YPY_L700",
+      "model": "Positivo Ypy L700+"
+    },
+    {
       "market_name": "Ypy Mini",
       "codename": "mini",
       "model": "Positivo BGH Mini"
@@ -480,6 +425,16 @@
       "market_name": "Ypy S350",
       "codename": "YPY_S350",
       "model": "YPY_S350"
+    },
+    {
+      "market_name": "Ypy S350p",
+      "codename": "YPY_S350",
+      "model": "YPY_S350_PLUS"
+    },
+    {
+      "market_name": "Ypy S405",
+      "codename": "YPY_S405",
+      "model": "YPY_S405"
     },
     {
       "market_name": "Ypy S450",
@@ -495,6 +450,21 @@
       "market_name": "Ypy S500",
       "codename": "YPY_S500",
       "model": "YPY_S500"
+    },
+    {
+      "market_name": "Ypy TQ7",
+      "codename": "YPY_TQ7",
+      "model": "YPY_TQ7"
+    },
+    {
+      "market_name": "mini I",
+      "codename": "mini_i",
+      "model": "Positivo BGH Y300"
+    },
+    {
+      "market_name": "mini I",
+      "codename": "mini_i",
+      "model": "Positivo Mini I"
     },
     {
       "market_name": "quattro",

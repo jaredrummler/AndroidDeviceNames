@@ -227,6 +227,11 @@
       "model": "GN9010L"
     },
     {
+      "market_name": "Gtel_X5pro",
+      "codename": "Gtel_X5pro",
+      "model": "Gtel_X5pro"
+    },
+    {
       "market_name": "M2",
       "codename": "M2",
       "model": "M2"
@@ -402,6 +407,11 @@
       "model": "P8 Max"
     },
     {
+      "market_name": "P8M",
+      "codename": "GIONEE_SW17W04",
+      "model": "P8M"
+    },
+    {
       "market_name": "P8W",
       "codename": "GIONEE_WBW5620",
       "model": "P8W"
@@ -410,6 +420,26 @@
       "market_name": "S plus",
       "codename": "GiONEE_WBL7511",
       "model": "S_plus"
+    },
+    {
+      "market_name": "S10",
+      "codename": "GIONEE_SW17G04",
+      "model": "GIONEE S10"
+    },
+    {
+      "market_name": "S10B",
+      "codename": "GIONEE_SW17G01",
+      "model": "GIONEE S10B"
+    },
+    {
+      "market_name": "S10BL",
+      "codename": "GIONEE_SW17G01",
+      "model": "GIONEE S10BL"
+    },
+    {
+      "market_name": "S10L",
+      "codename": "GIONEE_SW17G04",
+      "model": "GIONEE S10L"
     },
     {
       "market_name": "S5.1",

@@ -1,7 +1,7 @@
 [
   {
     "manufacturer": "HTC",
-    "market_name": "HTC 601e",
+    "market_name": "601e",
     "codename": "m4",
     "model": "HTC 601e"
   },
@@ -13,19 +13,25 @@
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC One mini",
+    "market_name": "One mini",
+    "codename": "m4",
+    "model": "HTC One mini"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "One mini",
     "codename": "m4",
     "model": "HTC_One_mini_601e"
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC One mini",
+    "market_name": "One mini",
     "codename": "m4",
     "model": "HTC_PO582"
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC One mini 601E",
+    "market_name": "One mini 601E",
     "codename": "m4",
     "model": "HTC_One_mini_601e"
   },
@@ -73,7 +79,7 @@
   },
   {
     "manufacturer": "Meitu",
-    "market_name": "Meitu M4",
+    "market_name": "M4",
     "codename": "M4",
     "model": "Meitu M4"
   },

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Hisense",
+    "market_name": "A2",
+    "codename": "HS8937QC",
+    "model": "Hisense A2"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "C30",
     "codename": "HS8937QC",
     "model": "Hisense C30"
@@ -49,13 +55,7 @@
   },
   {
     "manufacturer": "Hisense",
-    "market_name": "Hisense A2",
-    "codename": "HS8937QC",
-    "model": "Hisense A2"
-  },
-  {
-    "manufacturer": "Hisense",
-    "market_name": "Hisense F32",
+    "market_name": "F32",
     "codename": "HS8937QC",
     "model": "Hisense F32"
   },
@@ -88,6 +88,12 @@
     "market_name": "e76mini",
     "codename": "HS8937QC",
     "model": "Hisense E76mini"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "l830",
+    "codename": "HS8937QC",
+    "model": "Hisense L830"
   },
   {
     "manufacturer": "Hisense",

@@ -2,6 +2,11 @@
   "manufacturer": "Kobo",
   "devices": [
     {
+      "market_name": "Arc",
+      "codename": "zeus",
+      "model": "Arc"
+    },
+    {
       "market_name": "Arc 10HD",
       "codename": "macallan",
       "model": "arc 10HD"
@@ -17,12 +22,7 @@
       "model": "arc 7HD"
     },
     {
-      "market_name": "Kobo Arc",
-      "codename": "zeus",
-      "model": "Arc"
-    },
-    {
-      "market_name": "Kobo Vox",
+      "market_name": "Vox",
       "codename": "pegasus",
       "model": "Vox"
     }

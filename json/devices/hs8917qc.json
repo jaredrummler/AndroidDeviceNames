@@ -1,26 +1,26 @@
 [
   {
     "manufacturer": "Hisense",
-    "market_name": "Hisense  F23M",
-    "codename": "HS8917QC",
-    "model": "Hisense F23M"
-  },
-  {
-    "manufacturer": "Hisense",
-    "market_name": "Hisense F22",
+    "market_name": "F22",
     "codename": "HS8917QC",
     "model": "Hisense F22"
   },
   {
     "manufacturer": "Hisense",
-    "market_name": "Hisense F22M",
+    "market_name": "F22M",
     "codename": "HS8917QC",
     "model": "Hisense F22M"
   },
   {
     "manufacturer": "Hisense",
-    "market_name": "Hisense F23",
+    "market_name": "F23",
     "codename": "HS8917QC",
     "model": "Hisense F23"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "F23M",
+    "codename": "HS8917QC",
+    "model": "Hisense F23M"
   }
 ]

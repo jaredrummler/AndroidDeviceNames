@@ -97,12 +97,6 @@
   },
   {
     "manufacturer": "Asus",
-    "market_name": "MeMO Pad 7",
-    "codename": "K013C",
-    "model": "K013C"
-  },
-  {
-    "manufacturer": "Asus",
     "market_name": "Nexus 7 (2012)",
     "codename": "grouper",
     "model": "Nexus 7"
@@ -235,321 +229,9 @@
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC ONE",
-    "codename": "m7cdug",
-    "model": "HTC One dual sim"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7",
-    "model": "HTC 801e"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7",
-    "model": "HTC One"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7",
-    "model": "HTC One 801e"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7",
-    "model": "HTC_PN071"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7cdtu",
-    "model": "HTC 802t"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7cdtu",
-    "model": "HTC 802t 16GB"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7cdug",
-    "model": "HTC 802w"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7cdug",
-    "model": "HTC One dual sim"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7cdwg",
-    "model": "HTC 802d"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7cdwg",
-    "model": "HTC One dual 802d"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7cdwg",
-    "model": "HTC One dual sim"
-  },
-  {
-    "manufacturer": "HTC",
     "market_name": "HTC One",
     "codename": "m7wls",
     "model": "HTC One"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7wls",
-    "model": "HTCONE"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7wlv",
-    "model": "HTC One"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7wlv",
-    "model": "HTC6500LVW"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (E8)",
-    "codename": "htc_mecdwg",
-    "model": "HTC M8Sd"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (E8)",
-    "codename": "htc_mectl",
-    "model": "HTC M8St"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (E8)",
-    "codename": "htc_mectl",
-    "model": "HTC One_E8"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (E8)",
-    "codename": "htc_mecul",
-    "model": "HTC One_E8"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (E8)",
-    "codename": "htc_mecul",
-    "model": "HTC_M8Sx"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (E8)",
-    "codename": "htc_mecwhl",
-    "model": "0PAJ5"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (M8)",
-    "codename": "htc_m8",
-    "model": "HTC M8w"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (M8)",
-    "codename": "htc_m8",
-    "model": "HTC One_M8"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (M8)",
-    "codename": "htc_m8",
-    "model": "HTC_0P6B"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (M8)",
-    "codename": "htc_m8",
-    "model": "HTC_0P6B6"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (M8)",
-    "codename": "htc_m8",
-    "model": "HTC_M8x"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (M8)",
-    "codename": "htc_m8dug",
-    "model": "HTC One_M8 dual sim"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (M8)",
-    "codename": "htc_m8dwg",
-    "model": "HTC M8d"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (M8)",
-    "codename": "htc_m8whl",
-    "model": "831C"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (M8)",
-    "codename": "htc_m8wl",
-    "model": "HTC One_M8"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One (M8)",
-    "codename": "htc_m8wl",
-    "model": "HTC6525LVW"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One A9",
-    "codename": "htc_hiaetuhl",
-    "model": "HTC A9w"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One A9",
-    "codename": "htc_hiaeuhl",
-    "model": "HTC One A9"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One A9",
-    "codename": "htc_hiaeuhl",
-    "model": "HTC_A9u"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One A9",
-    "codename": "htc_hiaeul",
-    "model": "HTC One A9"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One A9",
-    "codename": "htc_hiaewhl",
-    "model": "2PQ93"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himauhl",
-    "model": "0PJA10"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himauhl",
-    "model": "HTC 0PJA10"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himauhl",
-    "model": "HTC One M9"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himauhl",
-    "model": "HTC_0PJA10"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himauhl",
-    "model": "HTC_M9u"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himaul",
-    "model": "HTC One M9"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himaulatt",
-    "model": "HTC One M9"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himawhl",
-    "model": "0PJA2"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himawhl",
-    "model": "HTC One M9"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himawl",
-    "model": "HTC6535LRA"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One M9",
-    "codename": "htc_himawl",
-    "model": "HTC6535LVW"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC ONE S",
-    "codename": "ville",
-    "model": "HTC One S"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One S",
-    "codename": "ville",
-    "model": "HTC One S"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One S",
-    "codename": "ville",
-    "model": "HTC VLE_U"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One S",
-    "codename": "villec2",
-    "model": "HTC One S"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One S",
-    "codename": "villec2",
-    "model": "HTC Z560e"
   },
   {
     "manufacturer": "HTC",
@@ -1758,12 +1440,6 @@
     "model": "LG-V909"
   },
   {
-    "manufacturer": "Lenovo",
-    "market_name": "Lenovo A7-30GC",
-    "codename": "A7-30GC",
-    "model": "Lenovo TAB 2 A7-30GC"
-  },
-  {
     "manufacturer": "Motorola",
     "market_name": "Droid Turbo",
     "codename": "quark",
@@ -1900,18 +1576,6 @@
     "market_name": "OnePlus",
     "codename": "OnePlus",
     "model": "ONE E1003"
-  },
-  {
-    "manufacturer": "OnePlus",
-    "market_name": "OnePlus One",
-    "codename": "A0001",
-    "model": "A0001"
-  },
-  {
-    "manufacturer": "OnePlus",
-    "market_name": "OnePlus One",
-    "codename": "A0001",
-    "model": "One"
   },
   {
     "manufacturer": "OnePlus",
@@ -3829,12 +3493,6 @@
   },
   {
     "manufacturer": "Samsung",
-    "market_name": "Galaxy On7",
-    "codename": "on7nlteskt",
-    "model": "SM-G600S"
-  },
-  {
-    "manufacturer": "Samsung",
     "market_name": "Galaxy S DUOS",
     "codename": "kyleopen",
     "model": "GT-S7562"
@@ -4252,6 +3910,12 @@
     "market_name": "Galaxy S4",
     "codename": "jflte",
     "model": "GT-I9508C"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S4",
+    "codename": "jflteMetroPCS",
+    "model": "SGH-M919N"
   },
   {
     "manufacturer": "Samsung",

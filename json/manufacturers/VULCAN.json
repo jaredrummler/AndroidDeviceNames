@@ -2,6 +2,16 @@
   "manufacturer": "Vulcan",
   "devices": [
     {
+      "market_name": "Pulse 7",
+      "codename": "VT0701A08",
+      "model": "VT0701A08"
+    },
+    {
+      "market_name": "Pulse 7S",
+      "codename": "VT0702A16",
+      "model": "VT0702A16"
+    },
+    {
       "market_name": "TA10TA2",
       "codename": "TA10TA2_1",
       "model": "TA10TA2"
@@ -17,19 +27,64 @@
       "model": "TA71CA2"
     },
     {
-      "market_name": "Vulcan Pulse 7",
-      "codename": "VT0701A08",
-      "model": "VT0701A08"
+      "market_name": "TEMPO S11",
+      "codename": "VS4011",
+      "model": "VS4011"
     },
     {
-      "market_name": "Vulcan Pulse 7S",
-      "codename": "VT0702A16",
-      "model": "VT0702A16"
+      "market_name": "TEMPO S12",
+      "codename": "VS5012",
+      "model": "VS5012"
     },
     {
-      "market_name": "Vulcan Tempo 5",
+      "market_name": "TEMPO S13",
+      "codename": "VS5513",
+      "model": "VS5513"
+    },
+    {
+      "market_name": "TEMPO S16",
+      "codename": "VS5016",
+      "model": "VS5016"
+    },
+    {
+      "market_name": "Tempo 5",
       "codename": "VP5004A",
       "model": "VP5004A"
+    },
+    {
+      "market_name": "VT0702A08",
+      "codename": "VT0702A08",
+      "model": "VT0702A08"
+    },
+    {
+      "market_name": "Vulcan Rhyme 10A",
+      "codename": "VT1002A16",
+      "model": "VT1002A16"
+    },
+    {
+      "market_name": "Vulcan Rhyme 10J",
+      "codename": "VT1003J16",
+      "model": "VT1003J16"
+    },
+    {
+      "market_name": "Vulcan Rhyme 7C",
+      "codename": "VT0703",
+      "model": "VT0703C16"
+    },
+    {
+      "market_name": "Vulcan VR5533",
+      "codename": "VR5533",
+      "model": "VR5533"
+    },
+    {
+      "market_name": "Vulcan VR6031",
+      "codename": "VR6031",
+      "model": "VR6031"
+    },
+    {
+      "market_name": "Vulcan VR6032",
+      "codename": "VR6032",
+      "model": "VR6032"
     }
   ]
 }

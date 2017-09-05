@@ -55,6 +55,18 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "Kis Pro",
+    "codename": "nice",
+    "model": "Optimus Zali"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Kis Pro",
+    "codename": "nice",
+    "model": "ZTE Kis Pro"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "Orange Zali",
     "codename": "nice",
     "model": "Orange Zali"
@@ -70,17 +82,5 @@
     "market_name": "Z660G",
     "codename": "nice",
     "model": "Z660G"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Kis Pro",
-    "codename": "nice",
-    "model": "Optimus Zali"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Kis Pro",
-    "codename": "nice",
-    "model": "ZTE Kis Pro"
   }
 ]

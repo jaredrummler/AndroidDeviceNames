@@ -1,7 +1,7 @@
 [
   {
     "manufacturer": "Vivo",
-    "market_name": "vivo X5MaxV",
+    "market_name": "X5MaxV",
     "codename": "msm8916_32",
     "model": "vivo X5MaxV"
   },
@@ -14,6 +14,24 @@
   {
     "manufacturer": "ZTE",
     "market_name": "Avea inTouch 4",
+    "codename": "msm8916_32",
+    "model": "ZTE Blade V220"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Blade Apex3",
+    "codename": "msm8916_32",
+    "model": "ZTE Blade Apex3"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Blade V2",
+    "codename": "msm8916_32",
+    "model": "ZTE Blade V2"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Blade V220",
     "codename": "msm8916_32",
     "model": "ZTE Blade V220"
   },
@@ -46,23 +64,5 @@
     "market_name": "Vodafone Smart ultra 6",
     "codename": "msm8916_32",
     "model": "Vodafone Smart ultra 6"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Blade Apex3",
-    "codename": "msm8916_32",
-    "model": "ZTE Blade Apex3"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Blade V2",
-    "codename": "msm8916_32",
-    "model": "ZTE Blade V2"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Blade V220",
-    "codename": "msm8916_32",
-    "model": "ZTE Blade V220"
   }
 ]

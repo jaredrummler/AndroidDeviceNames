@@ -7,6 +7,11 @@
       "model": "BBC100-1"
     },
     {
+      "market_name": "Blackberry Keyone",
+      "codename": "bbb100",
+      "model": "BBB100-7"
+    },
+    {
       "market_name": "DTEK50",
       "codename": "hamburg",
       "model": "STH100-1"
@@ -60,6 +65,16 @@
       "market_name": "KEYone",
       "codename": "bbb100",
       "model": "BBB100-3"
+    },
+    {
+      "market_name": "KEYone",
+      "codename": "bbb100",
+      "model": "BBB100-4"
+    },
+    {
+      "market_name": "KEYone",
+      "codename": "bbb100",
+      "model": "BBB100-6"
     },
     {
       "market_name": "PRIV by BlackBerry",

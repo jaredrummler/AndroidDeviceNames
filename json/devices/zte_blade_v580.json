@@ -7,6 +7,12 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "Blade V580",
+    "codename": "ZTE_Blade_V580",
+    "model": "ZTE Blade V580"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "OWN One Plus",
     "codename": "ZTE_Blade_V580",
     "model": "OWN One Plus"
@@ -26,12 +32,6 @@
   {
     "manufacturer": "ZTE",
     "market_name": "Turk Telekom TT175",
-    "codename": "ZTE_Blade_V580",
-    "model": "ZTE Blade V580"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Blade V580",
     "codename": "ZTE_Blade_V580",
     "model": "ZTE Blade V580"
   }

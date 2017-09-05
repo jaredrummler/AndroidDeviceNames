@@ -2,7 +2,7 @@
   "manufacturer": "SFR",
   "devices": [
     {
-      "market_name": "SFR-G8800",
+      "market_name": "G8800",
       "codename": "stb_dvb_sfr",
       "model": "SFR-G8800"
     },
@@ -10,6 +10,11 @@
       "market_name": "STARADDICT 4",
       "codename": "staraddict4",
       "model": "STARADDICT 4"
+    },
+    {
+      "market_name": "STARXTREM3",
+      "codename": "STARXTREM3",
+      "model": "STARXTREM3"
     },
     {
       "market_name": "Star Shine II",

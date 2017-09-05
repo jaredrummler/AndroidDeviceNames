@@ -1,13 +1,33 @@
 {
-  "manufacturer": "i-mobile",
+  "manufacturer": "i-Mobile",
   "devices": [
+    {
+      "market_name": "IQ II",
+      "codename": "imobileiq2_sprout",
+      "model": "i-mobile IQ II"
+    },
     {
       "market_name": "IQX KEN",
       "codename": "IQX_KEN",
       "model": "IQX KEN"
     },
     {
-      "market_name": "i-mobile i-note WiFi 1.1",
+      "market_name": "Y1",
+      "codename": "Y1",
+      "model": "i-mobile Y1"
+    },
+    {
+      "market_name": "i-STYLE 713",
+      "codename": "i-STYLE_713",
+      "model": "i-STYLE 713"
+    },
+    {
+      "market_name": "i-STYLE 812 4G",
+      "codename": "i_style_812_4G",
+      "model": "i-mobile i-STYLE 812 4G"
+    },
+    {
+      "market_name": "i-note WiFi 1.1",
       "codename": "M1703",
       "model": "i-mobile M1703"
     }

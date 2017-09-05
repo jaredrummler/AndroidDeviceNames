@@ -72,6 +72,11 @@
       "model": "Q6T7IN"
     },
     {
+      "market_name": "Q6T7IN4G",
+      "codename": "Q6T7IN4G",
+      "model": "Q6T7IN4G"
+    },
+    {
       "market_name": "Q6T7INK",
       "codename": "Q6T7INK",
       "model": "Q6T7INK"
@@ -107,9 +112,29 @@
       "model": "Q8S55IN4G"
     },
     {
+      "market_name": "Q8S55IN4G2",
+      "codename": "Q8S55IN4G2",
+      "model": "Q8S55IN4G2"
+    },
+    {
+      "market_name": "Q8S6IN4G",
+      "codename": "Q8S6IN4G",
+      "model": "Q8S6IN4G"
+    },
+    {
       "market_name": "Q8T10IN",
       "codename": "Q8T10IN",
       "model": "Q8T10IN"
+    },
+    {
+      "market_name": "Q8T7IN",
+      "codename": "Q8T7IN",
+      "model": "Q8T7IN"
+    },
+    {
+      "market_name": "Q8T7IN4G",
+      "codename": "Q8T7IN4G",
+      "model": "Q8T7IN4G"
     },
     {
       "market_name": "QILIVE",
@@ -190,6 +215,11 @@
       "market_name": "S5T10IN3G",
       "codename": "S5T10IN3G",
       "model": "S5T10IN3G"
+    },
+    {
+      "market_name": "S5T7IN3G",
+      "codename": "S5T7IN3G",
+      "model": "S5T7IN3G"
     },
     {
       "market_name": "S5T9INDVD",

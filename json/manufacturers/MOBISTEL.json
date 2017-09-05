@@ -1,10 +1,30 @@
 {
-  "manufacturer": "mobistel",
+  "manufacturer": "Mobistel",
   "devices": [
+    {
+      "market_name": "Cynus E7",
+      "codename": "Cynus_E7",
+      "model": "Cynus E7"
+    },
+    {
+      "market_name": "Cynus F10",
+      "codename": "Cynus_F10",
+      "model": "Cynus_F10"
+    },
+    {
+      "market_name": "Cynus F9 4G",
+      "codename": "Cynus_F9_4G",
+      "model": "Cynus_F9_4G"
+    },
     {
       "market_name": "Cynus T6",
       "codename": "Cynus_T6",
       "model": "Cynus T6"
+    },
+    {
+      "market_name": "Cynus_E8",
+      "codename": "Cynus_E8",
+      "model": "Cynus_E8"
     }
   ]
 }

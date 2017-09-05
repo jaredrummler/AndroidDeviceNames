@@ -7,6 +7,11 @@
       "model": "Compumax_Blue_6030-805-0001"
     },
     {
+      "market_name": "DL1001",
+      "codename": "DL1001",
+      "model": "DL1001"
+    },
+    {
       "market_name": "DL1008M",
       "codename": "mid1008l_emmc",
       "model": "DL1008M"
@@ -32,6 +37,11 @@
       "model": "DL1168A"
     },
     {
+      "market_name": "DL7006",
+      "codename": "DL7006",
+      "model": "DL7006"
+    },
+    {
       "market_name": "DL700D",
       "codename": "DL700D",
       "model": "DL700D"
@@ -50,6 +60,16 @@
       "market_name": "DL785D",
       "codename": "DL785D",
       "model": "PLT7803G"
+    },
+    {
+      "market_name": "DL8006",
+      "codename": "DL8006",
+      "model": "DL8006"
+    },
+    {
+      "market_name": "DL9002",
+      "codename": "DL9002",
+      "model": "DL9002"
     },
     {
       "market_name": "NBDVDTAB9",

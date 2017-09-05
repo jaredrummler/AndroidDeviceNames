@@ -17,6 +17,36 @@
       "model": "BLOOM"
     },
     {
+      "market_name": "Barry",
+      "codename": "s7811",
+      "model": "BARRY"
+    },
+    {
+      "market_name": "CINK SLIM 2",
+      "codename": "s8074",
+      "model": "CINK SLIM 2"
+    },
+    {
+      "market_name": "DARKFULL",
+      "codename": "s9311",
+      "model": "DARKFULL"
+    },
+    {
+      "market_name": "DARKFULL",
+      "codename": "s9311",
+      "model": "Dream"
+    },
+    {
+      "market_name": "DARKNIGHT",
+      "codename": "s9203",
+      "model": "DARKNIGHT"
+    },
+    {
+      "market_name": "DARKNIGHT",
+      "codename": "s9203",
+      "model": "X-tremer"
+    },
+    {
       "market_name": "FEVER",
       "codename": "L5460AP25E",
       "model": "FEVER"
@@ -53,8 +83,18 @@
     },
     {
       "market_name": "HARRY",
+      "codename": "V3953AN25K",
+      "model": "HARRY"
+    },
+    {
+      "market_name": "HARRY",
       "codename": "v3953",
       "model": "HARRY"
+    },
+    {
+      "market_name": "HIGHWAY",
+      "codename": "s9320",
+      "model": "HIGHWAY"
     },
     {
       "market_name": "HIGHWAY 4G",
@@ -75,6 +115,21 @@
       "market_name": "HIGHWAY STAR",
       "codename": "l5560ae",
       "model": "HIGHWAY STAR"
+    },
+    {
+      "market_name": "IGGY",
+      "codename": "s7521",
+      "model": "Cynus F4"
+    },
+    {
+      "market_name": "IGGY",
+      "codename": "s7521",
+      "model": "Golf"
+    },
+    {
+      "market_name": "IGGY",
+      "codename": "s7521",
+      "model": "IGGY"
     },
     {
       "market_name": "JERRY",
@@ -150,6 +205,16 @@
       "market_name": "LENNY3 MAX",
       "codename": "V3802AN",
       "model": "LENNY3 MAX"
+    },
+    {
+      "market_name": "Lenny4",
+      "codename": "v3720",
+      "model": "Lenny4"
+    },
+    {
+      "market_name": "Lenny4 Plus",
+      "codename": "v3740",
+      "model": "Lenny4 Plus"
     },
     {
       "market_name": "MACARON",
@@ -357,6 +422,11 @@
       "model": "SUNSET2"
     },
     {
+      "market_name": "Sunny2 Plus",
+      "codename": "v2600cn",
+      "model": "Sunny2 Plus"
+    },
+    {
       "market_name": "TOMMY",
       "codename": "P4901AC",
       "model": "TOMMY"
@@ -368,6 +438,11 @@
     },
     {
       "market_name": "TOMMY2",
+      "codename": "T3931AC",
+      "model": "TOMMY2"
+    },
+    {
+      "market_name": "TOMMY2",
       "codename": "V3931AC",
       "model": "TOMMY2"
     },
@@ -375,6 +450,11 @@
       "market_name": "TOMMY2",
       "codename": "V3933AC",
       "model": "TOMMY2"
+    },
+    {
+      "market_name": "Tommy2 Plus",
+      "codename": "v3941",
+      "model": "Tommy2 Plus"
     },
     {
       "market_name": "U FEEL",
@@ -437,9 +517,39 @@
       "model": "U PULSE LITE"
     },
     {
+      "market_name": "View",
+      "codename": "v12bnlite",
+      "model": "View"
+    },
+    {
+      "market_name": "View Prime",
+      "codename": "v12bn",
+      "model": "View Prime"
+    },
+    {
+      "market_name": "View XL",
+      "codename": "v11cnlite",
+      "model": "View XL"
+    },
+    {
       "market_name": "WAX",
       "codename": "s8515",
       "model": "WAX"
+    },
+    {
+      "market_name": "WIM",
+      "codename": "T9051AC",
+      "model": "WIM"
+    },
+    {
+      "market_name": "WIM",
+      "codename": "i9051",
+      "model": "WIM"
+    },
+    {
+      "market_name": "WIM Lite",
+      "codename": "T6901AC",
+      "model": "WIM Lite"
     },
     {
       "market_name": "WIM Lite",

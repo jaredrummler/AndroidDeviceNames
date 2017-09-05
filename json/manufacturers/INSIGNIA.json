@@ -2,22 +2,17 @@
   "manufacturer": "Insignia",
   "devices": [
     {
-      "market_name": "INSIGNIA FLEX 8\\xe2\\x80\\x99\\xe2\\x80\\x99 LTE Android Tablet",
+      "market_name": "FLEX 8\\xe2\\x80\\x99\\xe2\\x80\\x99 LTE Android Tablet",
       "codename": "ns_15t8lte",
       "model": "NS-15T8LTE"
     },
     {
-      "market_name": "INSIGNIA NS-14T002",
-      "codename": "ns_14t002",
-      "model": "NS-14T002"
-    },
-    {
-      "market_name": "Insignia Flex 10.1",
+      "market_name": "Flex 10.1",
       "codename": "ns_14t004",
       "model": "NS-14T004"
     },
     {
-      "market_name": "\"Insignia Flex 8\"\"\"",
+      "market_name": "\"Flex 8\"\"\"",
       "codename": "ns_15at08",
       "model": "NS-15AT08"
     },
@@ -25,6 +20,11 @@
       "market_name": "MID7802RA",
       "codename": "MID7802RA",
       "model": "NS-P16AT785HD"
+    },
+    {
+      "market_name": "NS-14T002",
+      "codename": "ns_14t002",
+      "model": "NS-14T002"
     },
     {
       "market_name": "NS-15AT07",
@@ -50,6 +50,16 @@
       "market_name": "NS-P10A7100",
       "codename": "NS-P10A7100",
       "model": "NS-P10A7100"
+    },
+    {
+      "market_name": "NS-P10A8100",
+      "codename": "mid1023_ma",
+      "model": "NS-P10A8100"
+    },
+    {
+      "market_name": "NS-P11A8100",
+      "codename": "NS-P11A8100",
+      "model": "NS-P11A8100"
     },
     {
       "market_name": "NS-P16AT08",

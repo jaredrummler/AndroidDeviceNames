@@ -12,6 +12,11 @@
       "model": "Dynamic Racing 3"
     },
     {
+      "market_name": "Dynamic_Stylo",
+      "codename": "NGM_Dynamic_Stylo",
+      "model": "NGM_Dynamic_Stylo"
+    },
+    {
       "market_name": "E407",
       "codename": "E407",
       "model": "E407"
@@ -45,6 +50,16 @@
       "market_name": "ForwardZero",
       "codename": "ForwardZero",
       "model": "ForwardZero"
+    },
+    {
+      "market_name": "Forward_Prime",
+      "codename": "Forward_Prime",
+      "model": "Forward_Prime"
+    },
+    {
+      "market_name": "Infinity",
+      "codename": "Infinity",
+      "model": "Infinity"
     },
     {
       "market_name": "LIFE",

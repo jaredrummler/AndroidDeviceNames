@@ -17,19 +17,34 @@
       "model": "NAVON F552"
     },
     {
+      "market_name": "Infinity",
+      "codename": "Infinity",
+      "model": "Navon_Infinity"
+    },
+    {
       "market_name": "M505",
       "codename": "M505_4G",
       "model": "M505_4G"
     },
     {
-      "market_name": "Navon Predator 3G",
-      "codename": "Predator_3G",
-      "model": "Predator 3G"
-    },
-    {
       "market_name": "Platinum 10 3G",
       "codename": "Platinum_10_3G",
       "model": "Platinum 10 3G"
+    },
+    {
+      "market_name": "Platinum 10 3G",
+      "codename": "Platinum_10_3G_V2",
+      "model": "Platinum_10_3G_V2"
+    },
+    {
+      "market_name": "Predator 10",
+      "codename": "Predator_10",
+      "model": "Predator 10"
+    },
+    {
+      "market_name": "Predator 3G",
+      "codename": "Predator_3G",
+      "model": "Predator 3G"
     },
     {
       "market_name": "S450",
@@ -40,6 +55,11 @@
       "market_name": "T400",
       "codename": "T400",
       "model": "T400"
+    },
+    {
+      "market_name": "T400 3G",
+      "codename": "T400_3G",
+      "model": "T400 3G 2017"
     },
     {
       "market_name": "T452",

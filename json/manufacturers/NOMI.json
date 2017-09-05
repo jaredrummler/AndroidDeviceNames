@@ -1,0 +1,25 @@
+{
+  "manufacturer": "Nomi",
+  "devices": [
+    {
+      "market_name": "I5032",
+      "codename": "Nomi_i5032",
+      "model": "i5032"
+    },
+    {
+      "market_name": "Nomi i5050",
+      "codename": "i5050",
+      "model": "i5050"
+    },
+    {
+      "market_name": "Nomi i5510",
+      "codename": "Nomi_i5510",
+      "model": "i5510"
+    },
+    {
+      "market_name": "Nomi i6030",
+      "codename": "i6030",
+      "model": "Nomi i6030"
+    }
+  ]
+}

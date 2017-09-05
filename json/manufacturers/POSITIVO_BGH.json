@@ -2,6 +2,46 @@
   "manufacturer": "Positivo BGH",
   "devices": [
     {
+      "market_name": "BGH Y100",
+      "codename": "Y700",
+      "model": "Positivo BGH Y100"
+    },
+    {
+      "market_name": "BGH Y210",
+      "codename": "Y210",
+      "model": "Positivo BGH 7Di-A"
+    },
+    {
+      "market_name": "BGH Y210",
+      "codename": "Y210",
+      "model": "Positivo BGH Y210"
+    },
+    {
+      "market_name": "BGH Y400",
+      "codename": "Y400",
+      "model": "Y400"
+    },
+    {
+      "market_name": "BGH Y700",
+      "codename": "Y700",
+      "model": "Positivo BGH Y700"
+    },
+    {
+      "market_name": "BGH Y710 kids",
+      "codename": "Y700",
+      "model": "Positivo BGH Y710 KIDS"
+    },
+    {
+      "market_name": "Y1000",
+      "codename": "Y1000",
+      "model": "Y1000"
+    },
+    {
+      "market_name": "Ypy",
+      "codename": "T701_AR",
+      "model": "L701 TV"
+    },
+    {
       "market_name": "Ypy",
       "codename": "YPY_L700",
       "model": "Positivo BGH Ypy L700"

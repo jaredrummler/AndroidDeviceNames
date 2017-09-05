@@ -52,6 +52,11 @@
       "model": "QM163E"
     },
     {
+      "market_name": "Android 2014",
+      "codename": "philipstv",
+      "model": "AND1E"
+    },
+    {
       "market_name": "FHD Ultra Slim LED TV Powered by Android",
       "codename": "QM16XE_F",
       "model": "QM164E"
@@ -65,6 +70,11 @@
       "market_name": "HMP8100/98",
       "codename": "HMP8100_ATV",
       "model": "HMP8100_ATV_INT"
+    },
+    {
+      "market_name": "PHILIPS",
+      "codename": "TLE722G",
+      "model": "TLE722G"
     },
     {
       "market_name": "PHP-S221C4AFD",
@@ -177,114 +187,19 @@
       "model": "PI7100_93"
     },
     {
-      "market_name": "Philips Android 2014",
-      "codename": "philipstv",
-      "model": "AND1E"
+      "market_name": "Philips S318",
+      "codename": "S318",
+      "model": "Philips S318"
     },
     {
-      "market_name": "Philips S308",
-      "codename": "Philips_S308",
-      "model": "Philips S308"
+      "market_name": "Philips S329",
+      "codename": "Philips_S329",
+      "model": "Philips S329"
     },
     {
-      "market_name": "Philips S309",
-      "codename": "Philips",
-      "model": "Philips S309"
-    },
-    {
-      "market_name": "Philips S326",
-      "codename": "S326",
-      "model": "Philips_S326"
-    },
-    {
-      "market_name": "Philips S327",
-      "codename": "S327",
-      "model": "Philips S327"
-    },
-    {
-      "market_name": "Philips S337",
-      "codename": "S337_AG",
-      "model": "Philips S337"
-    },
-    {
-      "market_name": "Philips S337",
-      "codename": "S337_BG",
-      "model": "Philips S337"
-    },
-    {
-      "market_name": "Philips S337",
-      "codename": "scx35_sp7731gea_hd",
-      "model": "Philips S337"
-    },
-    {
-      "market_name": "Philips V377",
-      "codename": "Philips_V377",
-      "model": "Philips V377"
-    },
-    {
-      "market_name": "Philips V387",
-      "codename": "V387",
-      "model": "Philips V387"
-    },
-    {
-      "market_name": "Philips V526",
-      "codename": "Philips_V526",
-      "model": "Philips V526"
-    },
-    {
-      "market_name": "Philips V787",
-      "codename": "Philips_Xenium_V787",
-      "model": "Philips Xenium V787"
-    },
-    {
-      "market_name": "Philips W8510",
-      "codename": "Topaz",
-      "model": "Philips W8510"
-    },
-    {
-      "market_name": "Philips X586",
-      "codename": "Philips_X586",
-      "model": "Philips_X586"
-    },
-    {
-      "market_name": "Philips X586",
-      "codename": "Philips_X586_NEW",
-      "model": "Philips_X586"
-    },
-    {
-      "market_name": "Philips X588",
-      "codename": "X588_RU",
-      "model": "Philips X588"
-    },
-    {
-      "market_name": "Philips X818",
-      "codename": "X818",
-      "model": "Philips X818"
-    },
-    {
-      "market_name": "Philips X818",
-      "codename": "X818_EE",
-      "model": "Philips X818"
-    },
-    {
-      "market_name": "Philips X818",
-      "codename": "X818_RU",
-      "model": "Philips X818"
-    },
-    {
-      "market_name": "Philips Xenium S386",
-      "codename": "S386",
-      "model": "Philips S386"
-    },
-    {
-      "market_name": "Philips Xenium V377",
-      "codename": "Philips_V377",
-      "model": "Philips V377"
-    },
-    {
-      "market_name": "Philips_W3500",
-      "codename": "Philips_W3500",
-      "model": "Philips_W3500"
+      "market_name": "Philips X598",
+      "codename": "Philips_X598",
+      "model": "Philips X598"
     },
     {
       "market_name": "Philps S398",
@@ -297,14 +212,74 @@
       "model": "G2SMNT"
     },
     {
+      "market_name": "S308",
+      "codename": "Philips_S308",
+      "model": "Philips S308"
+    },
+    {
+      "market_name": "S309",
+      "codename": "Philips",
+      "model": "Philips S309"
+    },
+    {
+      "market_name": "S326",
+      "codename": "S326",
+      "model": "Philips_S326"
+    },
+    {
+      "market_name": "S327",
+      "codename": "S327",
+      "model": "Philips S327"
+    },
+    {
+      "market_name": "S337",
+      "codename": "S337_AG",
+      "model": "Philips S337"
+    },
+    {
+      "market_name": "S337",
+      "codename": "S337_BG",
+      "model": "Philips S337"
+    },
+    {
+      "market_name": "S337",
+      "codename": "scx35_sp7731gea_hd",
+      "model": "Philips S337"
+    },
+    {
       "market_name": "T8 PI7000",
       "codename": "Tablet_8",
       "model": "PI7000"
     },
     {
+      "market_name": "V377",
+      "codename": "Philips_V377",
+      "model": "Philips V377"
+    },
+    {
+      "market_name": "V387",
+      "codename": "V387",
+      "model": "Philips V387"
+    },
+    {
+      "market_name": "V526",
+      "codename": "Philips_V526",
+      "model": "Philips V526"
+    },
+    {
+      "market_name": "V787",
+      "codename": "Philips_Xenium_V787",
+      "model": "Philips Xenium V787"
+    },
+    {
       "market_name": "W337",
       "codename": "W337",
       "model": "W337"
+    },
+    {
+      "market_name": "W3500",
+      "codename": "Philips_W3500",
+      "model": "Philips_W3500"
     },
     {
       "market_name": "W3568",
@@ -332,9 +307,54 @@
       "model": "W6620"
     },
     {
+      "market_name": "W8510",
+      "codename": "Topaz",
+      "model": "Philips W8510"
+    },
+    {
       "market_name": "W8555",
       "codename": "Pride",
       "model": "Philips W8555"
+    },
+    {
+      "market_name": "X586",
+      "codename": "Philips_X586",
+      "model": "Philips_X586"
+    },
+    {
+      "market_name": "X586",
+      "codename": "Philips_X586_NEW",
+      "model": "Philips_X586"
+    },
+    {
+      "market_name": "X588",
+      "codename": "X588_RU",
+      "model": "Philips X588"
+    },
+    {
+      "market_name": "X818",
+      "codename": "X818",
+      "model": "Philips X818"
+    },
+    {
+      "market_name": "X818",
+      "codename": "X818_EE",
+      "model": "Philips X818"
+    },
+    {
+      "market_name": "X818",
+      "codename": "X818_RU",
+      "model": "Philips X818"
+    },
+    {
+      "market_name": "Xenium S386",
+      "codename": "S386",
+      "model": "Philips S386"
+    },
+    {
+      "market_name": "Xenium V377",
+      "codename": "Philips_V377",
+      "model": "Philips V377"
     }
   ]
 }

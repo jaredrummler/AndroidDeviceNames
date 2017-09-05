@@ -55,6 +55,12 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "B790",
+    "codename": "roamer2",
+    "model": "ZTE B790"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "Beeline E600",
     "codename": "roamer2",
     "model": "Beeline E600"
@@ -70,6 +76,12 @@
     "market_name": "KIS PLUS",
     "codename": "roamer2",
     "model": "KIS PLUS"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Kis Lite",
+    "codename": "roamer2",
+    "model": "ZTE Kis Lite"
   },
   {
     "manufacturer": "ZTE",
@@ -115,38 +127,26 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "T790",
+    "codename": "roamer2",
+    "model": "ZTE T790"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "UZTE V790",
     "codename": "roamer2",
     "model": "UZTE V790"
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "V790",
+    "codename": "roamer2",
+    "model": "ZTE V790"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "V8403",
     "codename": "roamer2",
     "model": "V8403"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE B790",
-    "codename": "roamer2",
-    "model": "ZTE B790"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Kis Lite",
-    "codename": "roamer2",
-    "model": "ZTE Kis Lite"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE T790",
-    "codename": "roamer2",
-    "model": "ZTE T790"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE V790",
-    "codename": "roamer2",
-    "model": "ZTE V790"
   }
 ]

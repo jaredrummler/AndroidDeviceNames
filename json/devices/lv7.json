@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "LGE",
+    "market_name": "LG Fiesta 2 LTE",
+    "codename": "lv7",
+    "model": "LGL163BL"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Fiesta 2 LTE",
+    "codename": "lv7",
+    "model": "LGL164VL"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "LG Fiesta LTE",
     "codename": "lv7",
     "model": "LGL63BL"
@@ -10,5 +22,17 @@
     "market_name": "LG Fiesta LTE",
     "codename": "lv7",
     "model": "LGL64VL"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG X charge",
+    "codename": "lv7",
+    "model": "LG-M322"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG X charge",
+    "codename": "lv7",
+    "model": "LG-M327"
   }
 ]

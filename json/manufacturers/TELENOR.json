@@ -27,22 +27,32 @@
       "model": "Infinity i"
     },
     {
-      "market_name": "Telenor K530",
+      "market_name": "K530",
       "codename": "Telenor_K530",
       "model": "Telenor K530"
     },
     {
-      "market_name": "Telenor N940",
+      "market_name": "N940",
       "codename": "Telenor_N940",
       "model": "Telenor N940"
     },
     {
-      "market_name": "Telenor Smart",
+      "market_name": "Smart",
       "codename": "Telenor_Smart",
       "model": "Telenor_Smart"
     },
     {
-      "market_name": "Telenor Smart4G",
+      "market_name": "Smart II",
+      "codename": "SmartII",
+      "model": "SmartII"
+    },
+    {
+      "market_name": "Smart plus II",
+      "codename": "SmartPlusII",
+      "model": "SmartPlusII"
+    },
+    {
+      "market_name": "Smart4G",
       "codename": "Telenor_Smart_4G",
       "model": "Telenor_Smart_4G"
     }

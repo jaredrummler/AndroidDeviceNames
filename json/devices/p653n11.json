@@ -1,8 +1,14 @@
 [
   {
     "manufacturer": "ZTE",
-    "market_name": "ZTE BV0701",
+    "market_name": "BV0701",
     "codename": "P653N11",
     "model": "ZTE BV0701"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "BV0701",
+    "codename": "P653N11",
+    "model": "ZTE V0721"
   }
 ]

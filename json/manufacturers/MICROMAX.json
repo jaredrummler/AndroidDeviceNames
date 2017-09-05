@@ -173,6 +173,16 @@
     },
     {
       "market_name": "Bolt",
+      "codename": "A064",
+      "model": "Micromax A064"
+    },
+    {
+      "market_name": "Bolt",
+      "codename": "A065",
+      "model": "Micromax A065"
+    },
+    {
+      "market_name": "Bolt",
       "codename": "A066",
       "model": "Micromax A066"
     },
@@ -180,6 +190,11 @@
       "market_name": "Bolt",
       "codename": "A067",
       "model": "Micromax A067"
+    },
+    {
+      "market_name": "Bolt",
+      "codename": "A082",
+      "model": "Micromax A082"
     },
     {
       "market_name": "Bolt",
@@ -332,6 +347,11 @@
       "model": "Micromax S302"
     },
     {
+      "market_name": "Bolt Juice",
+      "codename": "Q3551",
+      "model": "Micromax Q3551"
+    },
+    {
       "market_name": "Bolt Pace",
       "codename": "Q402",
       "model": "Micromax Q402"
@@ -460,6 +480,11 @@
       "market_name": "CANVAS UNITE 2",
       "codename": "A106",
       "model": "Micromax A106"
+    },
+    {
+      "market_name": "Canvas 2",
+      "codename": "Q4310",
+      "model": "Micromax Q4310"
     },
     {
       "market_name": "Canvas 4+",
@@ -602,6 +627,11 @@
       "model": "Micromax Q461"
     },
     {
+      "market_name": "Canvas Juice 6",
+      "codename": "Q398",
+      "model": "Micromax Q398"
+    },
+    {
       "market_name": "Canvas Juice2",
       "codename": "AQ5001",
       "model": "Micromax AQ5001"
@@ -630,6 +660,11 @@
       "market_name": "Canvas Magnus",
       "codename": "A117",
       "model": "Micromax A117"
+    },
+    {
+      "market_name": "Canvas Magnus HD",
+      "codename": "Q421",
+      "model": "Micromax Q421"
     },
     {
       "market_name": "Canvas Mega",
@@ -877,34 +912,34 @@
       "model": "Micromax Q491"
     },
     {
-      "market_name": "MICROMAX MAD",
+      "market_name": "Dual 4",
+      "codename": "E4816",
+      "model": "Micromax E4816"
+    },
+    {
+      "market_name": "Evok Note",
+      "codename": "E453",
+      "model": "Micromax E453"
+    },
+    {
+      "market_name": "Evok Power",
+      "codename": "Q4260",
+      "model": "Micromax Q4260"
+    },
+    {
+      "market_name": "MAD",
       "codename": "A94",
       "model": "Micromax A94"
     },
     {
-      "market_name": "MICROMAX UNITE",
-      "codename": "A092",
-      "model": "Micromax A092"
+      "market_name": "Micromax Canvas 1",
+      "codename": "C1",
+      "model": "Micromax C1"
     },
     {
-      "market_name": "Micromax Bolt",
-      "codename": "A064",
-      "model": "Micromax A064"
-    },
-    {
-      "market_name": "Micromax Bolt",
-      "codename": "A065",
-      "model": "Micromax A065"
-    },
-    {
-      "market_name": "Micromax Bolt",
-      "codename": "A082",
-      "model": "Micromax A082"
-    },
-    {
-      "market_name": "Micromax Q354",
-      "codename": "Q354",
-      "model": "Micromax Q354"
+      "market_name": "Micromax Selfie 2",
+      "codename": "Q4311",
+      "model": "Micromax Q4311"
     },
     {
       "market_name": "Nitro 3",
@@ -937,6 +972,11 @@
       "model": "Micromax Q350R"
     },
     {
+      "market_name": "Q354",
+      "codename": "Q354",
+      "model": "Micromax Q354"
+    },
+    {
       "market_name": "SUPREME BOLT",
       "codename": "Q300",
       "model": "Micromax Q300"
@@ -955,6 +995,16 @@
       "market_name": "Sliver 5",
       "codename": "Q450",
       "model": "Micromax Q450"
+    },
+    {
+      "market_name": "Spark  4G(2017)",
+      "codename": "Q409",
+      "model": "Micromax Q409"
+    },
+    {
+      "market_name": "UNITE",
+      "codename": "A092",
+      "model": "Micromax A092"
     },
     {
       "market_name": "Unite 3",
@@ -980,6 +1030,11 @@
       "market_name": "Vdeo 2",
       "codename": "Q4101_Ru",
       "model": "Micromax Q4101"
+    },
+    {
+      "market_name": "Vdeo 3",
+      "codename": "Q4202",
+      "model": "Micromax Q4202"
     },
     {
       "market_name": "Vdeo 4",

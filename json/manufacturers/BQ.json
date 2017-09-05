@@ -107,6 +107,16 @@
       "model": "Aquaris U Lite"
     },
     {
+      "market_name": "Aquaris X",
+      "codename": "bardock",
+      "model": "Aquaris X"
+    },
+    {
+      "market_name": "Aquaris X Pro",
+      "codename": "bardock-pro",
+      "model": "Aquaris X Pro"
+    },
+    {
       "market_name": "Aquaris X5",
       "codename": "Aquaris_X5",
       "model": "Aquaris X5"
@@ -122,6 +132,11 @@
       "model": "Edison 3"
     },
     {
+      "market_name": "Edison 3 3G",
+      "codename": "Edison_3_3G",
+      "model": "Edison 3 3G"
+    },
+    {
       "market_name": "Edison_3_mini",
       "codename": "Edison_3_mini",
       "model": "Edison 3 mini"
@@ -130,11 +145,6 @@
       "market_name": "M8",
       "codename": "Aquaris_M8",
       "model": "Aquaris M8"
-    },
-    {
-      "market_name": "bq Edison 3 3G",
-      "codename": "Edison_3_3G",
-      "model": "Edison 3 3G"
     }
   ]
 }

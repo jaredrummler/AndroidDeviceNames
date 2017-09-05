@@ -137,14 +137,9 @@
       "model": "AK330S"
     },
     {
-      "market_name": "Acer Chromebook R11 (C738T)",
-      "codename": "cyan_cheets",
-      "model": "Acer Chromebook R11"
-    },
-    {
-      "market_name": "Acer Chromebook R11 (C738T)",
-      "codename": "cyan_cheets",
-      "model": "Acer Chromebook R11 (CB5-132T / C738T)"
+      "market_name": "Acer Chromebook R13",
+      "codename": "elm_cheets",
+      "model": "Acer Chromebook R13 (CB5-312T)"
     },
     {
       "market_name": "Aspire A3",
@@ -230,6 +225,21 @@
       "market_name": "B3-A40",
       "codename": "acer_asgard",
       "model": "B3-A40"
+    },
+    {
+      "market_name": "B3-A40FHD",
+      "codename": "acer_asgardfhd",
+      "model": "B3-A40FHD"
+    },
+    {
+      "market_name": "Chromebook R11 (C738T)",
+      "codename": "cyan_cheets",
+      "model": "Acer Chromebook R11"
+    },
+    {
+      "market_name": "Chromebook R11 (C738T)",
+      "codename": "cyan_cheets",
+      "model": "Acer Chromebook R11 (CB5-132T / C738T)"
     },
     {
       "market_name": "CloudMobile S500",
@@ -340,6 +350,11 @@
       "market_name": "Iconia One 7",
       "codename": "vespatn",
       "model": "B1-730"
+    },
+    {
+      "market_name": "Iconia One 8",
+      "codename": "acer_FrenzyRefresh",
+      "model": "B1-860A"
     },
     {
       "market_name": "Iconia One 8",

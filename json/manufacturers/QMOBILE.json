@@ -2,6 +2,16 @@
   "manufacturer": "QMobile",
   "devices": [
     {
+      "market_name": "A1",
+      "codename": "QMobile_Noir_A1",
+      "model": "Noir A1"
+    },
+    {
+      "market_name": "A1 lite",
+      "codename": "Noir_A1_lite",
+      "model": "Noir A1 lite"
+    },
+    {
       "market_name": "CS1",
       "codename": "CS1",
       "model": "QMobile CS1"
@@ -10,6 +20,21 @@
       "market_name": "CS1 Plus",
       "codename": "CS1_Plus",
       "model": "QMobile CS1 Plus"
+    },
+    {
+      "market_name": "Dual One",
+      "codename": "QMobile_Dual_One",
+      "model": "QMobile Dual One"
+    },
+    {
+      "market_name": "E1",
+      "codename": "QMobile_E1",
+      "model": "E1"
+    },
+    {
+      "market_name": "E1",
+      "codename": "QMobile_E1",
+      "model": "QMobile E1"
     },
     {
       "market_name": "E2",
@@ -30,6 +55,16 @@
       "market_name": "ENERGY X2",
       "codename": "ENERGY_X2",
       "model": "QMobile ENERGY X2"
+    },
+    {
+      "market_name": "Evok Power",
+      "codename": "QMobile_Evok_Power",
+      "model": "QMobile Evok Power"
+    },
+    {
+      "market_name": "Evok Power Lite",
+      "codename": "Evok_Power_Lite",
+      "model": "QMobile Evok Power Lite"
     },
     {
       "market_name": "J1",
@@ -70,6 +105,16 @@
       "market_name": "KING KONG MAX",
       "codename": "KING_KONG_MAX",
       "model": "KING KONG MAX"
+    },
+    {
+      "market_name": "L20",
+      "codename": "L20",
+      "model": "QMobile L20"
+    },
+    {
+      "market_name": "LT300",
+      "codename": "LT300",
+      "model": "LT300"
     },
     {
       "market_name": "LT500 PRO",
@@ -132,29 +177,9 @@
       "model": "QMobile A1"
     },
     {
-      "market_name": "Qmobile E1",
-      "codename": "QMobile_E1",
-      "model": "E1"
-    },
-    {
-      "market_name": "Qmobile E1",
-      "codename": "QMobile_E1",
-      "model": "QMobile E1"
-    },
-    {
-      "market_name": "Qmobile L20",
-      "codename": "L20",
-      "model": "QMobile L20"
-    },
-    {
-      "market_name": "Qmobile i6 Metal HD",
-      "codename": "i6_Metal_HD",
-      "model": "i6 Metal HD"
-    },
-    {
-      "market_name": "Qmobile i6 Metal ONE",
-      "codename": "i6_Metal_ONE",
-      "model": "QMobile i6 Metal ONE"
+      "market_name": "QNote",
+      "codename": "QMobile_QNote",
+      "model": "QMobile QNote"
     },
     {
       "market_name": "S1 Lite",
@@ -197,6 +222,11 @@
       "model": "QMobile S6S"
     },
     {
+      "market_name": "S8",
+      "codename": "QMobile_S8",
+      "model": "S8"
+    },
+    {
       "market_name": "S9",
       "codename": "S9",
       "model": "S9"
@@ -207,6 +237,11 @@
       "model": "V100"
     },
     {
+      "market_name": "V500",
+      "codename": "QTab_V500",
+      "model": "V500"
+    },
+    {
       "market_name": "W70",
       "codename": "W70",
       "model": "W70"
@@ -215,6 +250,11 @@
       "market_name": "W80",
       "codename": "WBW5615QM",
       "model": "W80"
+    },
+    {
+      "market_name": "X1S",
+      "codename": "Noir_X1S",
+      "model": "Noir X1S"
     },
     {
       "market_name": "X32",
@@ -300,6 +340,16 @@
       "market_name": "i6 Metal 2017",
       "codename": "i6_Metal_2017",
       "model": "QMobile i6 Metal 2017"
+    },
+    {
+      "market_name": "i6 Metal HD",
+      "codename": "i6_Metal_HD",
+      "model": "i6 Metal HD"
+    },
+    {
+      "market_name": "i6 Metal ONE",
+      "codename": "i6_Metal_ONE",
+      "model": "QMobile i6 Metal ONE"
     },
     {
       "market_name": "i6 Metal One",

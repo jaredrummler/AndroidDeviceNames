@@ -1,14 +1,20 @@
 [
   {
     "manufacturer": "Hisense",
-    "market_name": "Hisense T963",
+    "market_name": "T963",
     "codename": "HS7331CSC",
     "model": "Hisense T963"
   },
   {
     "manufacturer": "Hisense",
-    "market_name": "Hisense U963",
+    "market_name": "U963",
     "codename": "HS7331CSC",
     "model": "Hisense U963"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "U963",
+    "codename": "HS7331CSC",
+    "model": "RIVIERA U963"
   }
 ]

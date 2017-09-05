@@ -27,6 +27,11 @@
       "model": "MS5"
     },
     {
+      "market_name": "TD-520",
+      "codename": "td520",
+      "model": "TD520"
+    },
+    {
       "market_name": "TDC500 Handheld",
       "codename": "workhorse",
       "model": "TDC500"

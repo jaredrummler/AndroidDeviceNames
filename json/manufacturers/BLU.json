@@ -7,6 +7,11 @@
       "model": "BLU ADVANCE 4.0 L2"
     },
     {
+      "market_name": "ADVANCE 4.0 L3",
+      "codename": "Advance_4_0_L3",
+      "model": "Advance 4.0 L3"
+    },
+    {
       "market_name": "ADVANCE 5.0 HD",
       "codename": "Advance_5_0_HD",
       "model": "Advance 5.0 HD"
@@ -17,74 +22,24 @@
       "model": "Advance 4.0M"
     },
     {
-      "market_name": "BLU ADVANCE 4.0 L3",
-      "codename": "Advance_4_0_L3",
-      "model": "Advance 4.0 L3"
+      "market_name": "Advance 4.0M",
+      "codename": "Advance_4_0M",
+      "model": "Studio M4"
     },
     {
-      "market_name": "BLU Dash G",
-      "codename": "Dash_G",
-      "model": "Dash G"
+      "market_name": "Advance A5 LTE",
+      "codename": "A0010WW",
+      "model": "Advance A5 LTE"
     },
     {
-      "market_name": "BLU Dash XL",
-      "codename": "Dash_XL",
-      "model": "Dash XL"
+      "market_name": "Advance A6",
+      "codename": "A190",
+      "model": "Advance A6"
     },
     {
-      "market_name": "BLU Grand Energy",
-      "codename": "Grand_Energy",
-      "model": "Grand Energy"
-    },
-    {
-      "market_name": "BLU Grand M",
-      "codename": "Grand_M",
-      "model": "Grand M"
-    },
-    {
-      "market_name": "BLU LIFE XL",
-      "codename": "BLU_LIFE_XL",
-      "model": "BLU LIFE XL"
-    },
-    {
-      "market_name": "BLU NEO ENERGY MINI",
-      "codename": "BLU_NEO_ENERGY_MINI",
-      "model": "BLU NEO ENERGY MINI"
-    },
-    {
-      "market_name": "BLU R1 HD",
-      "codename": "R1_HD",
-      "model": "R1 HD"
-    },
-    {
-      "market_name": "BLU Studio J5",
-      "codename": "Studio_J5",
-      "model": "Studio J5"
-    },
-    {
-      "market_name": "BLU TOUCHBOOK M7",
-      "codename": "BLU_TOUCHBOOK_M7",
-      "model": "BLU TOUCHBOOK M7"
-    },
-    {
-      "market_name": "BLU VIVO 5",
-      "codename": "BLU_VIVO_5",
-      "model": "VIVO 5"
-    },
-    {
-      "market_name": "BLU VIVO XL",
-      "codename": "BLU_VIVO_XL",
-      "model": "VIVO XL"
-    },
-    {
-      "market_name": "BLU VIVO XL2",
-      "codename": "BLU_Vivo_XL2",
-      "model": "Vivo XL2"
-    },
-    {
-      "market_name": "BLU Vivo 5 Mini",
-      "codename": "Vivo_5_Mini",
-      "model": "Vivo 5 Mini"
+      "market_name": "Advance\\xc2\\xa0A5\\xc2\\xa0Plus\\xc2\\xa0LTE",
+      "codename": "A0031WW",
+      "model": "Advance A5 Plus LTE"
     },
     {
       "market_name": "DASH L2",
@@ -122,6 +77,16 @@
       "model": "Dash 4.5"
     },
     {
+      "market_name": "Dash G",
+      "codename": "Dash_G",
+      "model": "Dash G"
+    },
+    {
+      "market_name": "Dash L3",
+      "codename": "D931",
+      "model": "Dash L3"
+    },
+    {
       "market_name": "Dash X",
       "codename": "BLU_DASH_X",
       "model": "BLU DASH X"
@@ -130,6 +95,16 @@
       "market_name": "Dash X2",
       "codename": "Dash_X2",
       "model": "Dash X2"
+    },
+    {
+      "market_name": "Dash XL",
+      "codename": "Dash_XL",
+      "model": "Dash XL"
+    },
+    {
+      "market_name": "Dash XL",
+      "codename": "Dash_XL",
+      "model": "Studio M5 Plus"
     },
     {
       "market_name": "Dash_L3",
@@ -182,9 +157,24 @@
       "model": "BLU GRAND 5.5 HD"
     },
     {
+      "market_name": "Grand Energy",
+      "codename": "Grand_Energy",
+      "model": "Grand Energy"
+    },
+    {
+      "market_name": "Grand M",
+      "codename": "Grand_M",
+      "model": "Grand M"
+    },
+    {
       "market_name": "Grand MAX",
       "codename": "Grand_Max",
       "model": "Grand Max"
+    },
+    {
+      "market_name": "Grand Mini",
+      "codename": "G170Q",
+      "model": "Grand Mini"
     },
     {
       "market_name": "Grand X",
@@ -192,9 +182,29 @@
       "model": "Grand X"
     },
     {
+      "market_name": "Grand X LTE",
+      "codename": "BLU_Grand_X_LTE",
+      "model": "BLU Grand X LTE"
+    },
+    {
+      "market_name": "Grand X LTE",
+      "codename": "Grand_X_LTE",
+      "model": "Grand X LTE"
+    },
+    {
+      "market_name": "Grand XL",
+      "codename": "Grand_XL",
+      "model": "Grand XL"
+    },
+    {
       "market_name": "LIFE ONE X",
       "codename": "BLU_LIFE_ONE_X",
       "model": "BLU LIFE ONE X"
+    },
+    {
+      "market_name": "LIFE ONE X",
+      "codename": "Life_One_X",
+      "model": "Life One X"
     },
     {
       "market_name": "LIFE ONE X2",
@@ -205,6 +215,11 @@
       "market_name": "LIFE ONE X2 MINI",
       "codename": "Life_One_X2_Mini",
       "model": "Life One X2 Mini"
+    },
+    {
+      "market_name": "LIFE XL",
+      "codename": "BLU_LIFE_XL",
+      "model": "BLU LIFE XL"
     },
     {
       "market_name": "Life Mark",
@@ -280,6 +295,16 @@
       "market_name": "R1 Plus",
       "codename": "R1_PLUS",
       "model": "R1 PLUS"
+    },
+    {
+      "market_name": "R2 LTE",
+      "codename": "R0150EE",
+      "model": "R2 LTE"
+    },
+    {
+      "market_name": "R2 LTE",
+      "codename": "R0170WW",
+      "model": "R2 LTE"
     },
     {
       "market_name": "STUDIO 7.0 LTE",
@@ -402,14 +427,59 @@
       "model": "STUDIO_G_HD"
     },
     {
+      "market_name": "Studio G Mini",
+      "codename": "S210",
+      "model": "Studio G Mini"
+    },
+    {
       "market_name": "Studio G2 HD",
       "codename": "Studio_G2_HD",
       "model": "Studio G2 HD"
     },
     {
+      "market_name": "Studio J1",
+      "codename": "Studio_J1",
+      "model": "Advance A4"
+    },
+    {
+      "market_name": "Studio J1",
+      "codename": "Studio_J1",
+      "model": "Studio J1"
+    },
+    {
       "market_name": "Studio J2",
       "codename": "Studio_J2",
       "model": "Studio J2"
+    },
+    {
+      "market_name": "Studio J2",
+      "codename": "Studio_J2",
+      "model": "Studio M5"
+    },
+    {
+      "market_name": "Studio J5",
+      "codename": "Studio_J5",
+      "model": "Studio J5"
+    },
+    {
+      "market_name": "Studio J8",
+      "codename": "Studio_J8",
+      "model": "Studio J8"
+    },
+    {
+      "market_name": "Studio M5 Plus LTE",
+      "codename": "S0390WW",
+      "model": "Studio M5 Plus LTE"
+    },
+    {
+      "market_name": "Studio M6",
+      "codename": "S730",
+      "model": "Studio M6"
+    },
+    {
+      "market_name": "Studio Mega",
+      "codename": "Studio_Mega",
+      "model": "Studio Mega"
     },
     {
       "market_name": "Studio One",
@@ -429,7 +499,17 @@
     {
       "market_name": "Studio XL 2",
       "codename": "Studio_XL_2",
+      "model": "Studio M6 LTE"
+    },
+    {
+      "market_name": "Studio XL 2",
+      "codename": "Studio_XL_2",
       "model": "Studio XL 2"
+    },
+    {
+      "market_name": "TOUCHBOOK M7",
+      "codename": "BLU_TOUCHBOOK_M7",
+      "model": "BLU TOUCHBOOK M7"
     },
     {
       "market_name": "Tank Xtreme 4.0",
@@ -440,6 +520,11 @@
       "market_name": "Tank Xtreme 5.0",
       "codename": "Tank_Xtreme_5_0",
       "model": "Tank Xtreme 5.0"
+    },
+    {
+      "market_name": "Tank Xtreme Pro",
+      "codename": "T0010UU",
+      "model": "Tank Xtreme Pro"
     },
     {
       "market_name": "VIVO 5",
@@ -460,6 +545,16 @@
       "market_name": "VIVO XL",
       "codename": "BLU_VIVO_XL",
       "model": "VIVO XL"
+    },
+    {
+      "market_name": "VIVO XL2",
+      "codename": "BLU_Vivo_XL2",
+      "model": "Vivo XL2"
+    },
+    {
+      "market_name": "Vivo 5 Mini",
+      "codename": "Vivo_5_Mini",
+      "model": "Vivo 5 Mini"
     }
   ]
 }

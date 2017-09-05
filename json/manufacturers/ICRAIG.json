@@ -2,9 +2,34 @@
   "manufacturer": "iCraig",
   "devices": [
     {
+      "market_name": "CLP288",
+      "codename": "ICRAIG_CLP288",
+      "model": "ICRAIG_CLP288"
+    },
+    {
       "market_name": "CLP293",
       "codename": "CLP293",
       "model": "CLP293"
+    },
+    {
+      "market_name": "CLP_291",
+      "codename": "ICRAIG_CLP_291",
+      "model": "ICRAIG_CLP291"
+    },
+    {
+      "market_name": "CMP 756",
+      "codename": "Omega9",
+      "model": "CMP 756"
+    },
+    {
+      "market_name": "CMP 759",
+      "codename": "Omega7",
+      "model": "CMP 759"
+    },
+    {
+      "market_name": "CMP770",
+      "codename": "ICRAIG_CMP770",
+      "model": "ICRAIG_CMP770"
     },
     {
       "market_name": "CMP791",
@@ -37,27 +62,22 @@
       "model": "CMP823"
     },
     {
-      "market_name": "ICRAIG_CLP288",
-      "codename": "ICRAIG_CLP288",
-      "model": "ICRAIG_CLP288"
+      "market_name": "CMP826",
+      "codename": "CMP826",
+      "model": "CMP826"
     },
     {
-      "market_name": "ICRAIG_CLP_291",
-      "codename": "ICRAIG_CLP_291",
-      "model": "ICRAIG_CLP291"
+      "market_name": "CMP828",
+      "codename": "CMP828",
+      "model": "CMP828"
     },
     {
-      "market_name": "ICRAIG_CMP770",
-      "codename": "ICRAIG_CMP770",
-      "model": "ICRAIG_CMP770"
-    },
-    {
-      "market_name": "ICRAIG_CMP_771",
+      "market_name": "CMP_771",
       "codename": "ICRAIG_CMP_771",
       "model": "ICRAIG_CMP771"
     },
     {
-      "market_name": "ICRAIG_CMP_773",
+      "market_name": "CMP_773",
       "codename": "ICRAIG_CMP_773",
       "model": "ICRAIG_CMP773"
     }

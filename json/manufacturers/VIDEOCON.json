@@ -2,9 +2,24 @@
   "manufacturer": "videocon",
   "devices": [
     {
+      "market_name": "Delite 11",
+      "codename": "V503630",
+      "model": "V503630"
+    },
+    {
       "market_name": "Krypton 22+",
       "codename": "V505024",
       "model": "V505024"
+    },
+    {
+      "market_name": "Metal Pro 1",
+      "codename": "V505820",
+      "model": "V505820"
+    },
+    {
+      "market_name": "Metal Pro 2",
+      "codename": "V505920",
+      "model": "V505920"
     }
   ]
 }

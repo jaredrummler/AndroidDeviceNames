@@ -2,19 +2,19 @@
   "manufacturer": "Aprix",
   "devices": [
     {
-      "market_name": "Aprix_Phat6",
+      "market_name": "Phat6",
       "codename": "Aprix_Phat6",
       "model": "Aprix_Phat6"
-    },
-    {
-      "market_name": "Aprix_X4",
-      "codename": "Aprix_X4",
-      "model": "Aprix_X4"
     },
     {
       "market_name": "Tab64",
       "codename": "AprixTab64",
       "model": "Aprix Tab64"
+    },
+    {
+      "market_name": "X4",
+      "codename": "Aprix_X4",
+      "model": "Aprix_X4"
     }
   ]
 }

@@ -62,6 +62,16 @@
       "model": "NSZ-GU1"
     },
     {
+      "market_name": "Ericsson Live with Walkman",
+      "codename": "WT19a",
+      "model": "WT19a"
+    },
+    {
+      "market_name": "Ericsson Live with Walkman",
+      "codename": "WT19i",
+      "model": "WT19i"
+    },
+    {
       "market_name": "Internet TV",
       "codename": "asura",
       "model": "Internet TV"
@@ -117,24 +127,9 @@
       "model": "SmartWatch 3"
     },
     {
-      "market_name": "Sony Ericsson Live with Walkman",
-      "codename": "WT19a",
-      "model": "WT19a"
-    },
-    {
-      "market_name": "Sony Ericsson Live with Walkman",
-      "codename": "WT19i",
-      "model": "WT19i"
-    },
-    {
-      "market_name": "Sony Smartphone Z Ultra Google Play edition",
+      "market_name": "Smartphone Z Ultra Google Play edition",
       "codename": "C6806",
       "model": "C6806_GPe"
-    },
-    {
-      "market_name": "Sony Tablet S",
-      "codename": "nbx03",
-      "model": "Sony Tablet S"
     },
     {
       "market_name": "Tablet P",
@@ -768,6 +763,11 @@
     },
     {
       "market_name": "Xperia XA1 Ultra",
+      "codename": "G3223",
+      "model": "G3223"
+    },
+    {
+      "market_name": "Xperia XA1 Ultra",
       "codename": "G3226",
       "model": "G3226"
     },
@@ -810,6 +810,16 @@
       "market_name": "Xperia XZ Premium",
       "codename": "SO-04J",
       "model": "SO-04J"
+    },
+    {
+      "market_name": "Xperia XZ1",
+      "codename": "G8341",
+      "model": "G8341"
+    },
+    {
+      "market_name": "Xperia XZ1",
+      "codename": "G8342",
+      "model": "G8342"
     },
     {
       "market_name": "Xperia XZs",
@@ -1223,6 +1233,11 @@
     },
     {
       "market_name": "Xperia Z5 Premium",
+      "codename": "E6883",
+      "model": "E6883"
+    },
+    {
+      "market_name": "Xperia Z5 Premium",
       "codename": "SO-03H",
       "model": "SO-03H"
     },
@@ -1230,11 +1245,6 @@
       "market_name": "Xperia Z5 Premium Dual",
       "codename": "E6833",
       "model": "E6833"
-    },
-    {
-      "market_name": "Xperia Z5 Premium Dual",
-      "codename": "E6883",
-      "model": "E6883"
     },
     {
       "market_name": "Xperia Z5 dual",

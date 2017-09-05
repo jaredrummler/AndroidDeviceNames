@@ -1,19 +1,19 @@
 [
   {
     "manufacturer": "Mobiwire",
+    "market_name": "H",
+    "codename": "Halona",
+    "model": "Halona"
+  },
+  {
+    "manufacturer": "Mobiwire",
     "market_name": "HALONA",
     "codename": "Halona",
     "model": "Halona"
   },
   {
     "manufacturer": "Mobiwire",
-    "market_name": "MobiWire H",
-    "codename": "Halona",
-    "model": "Halona"
-  },
-  {
-    "manufacturer": "Mobiwire",
-    "market_name": "MobiWire Halona",
+    "market_name": "Halona",
     "codename": "Halona",
     "model": "Halona"
   }

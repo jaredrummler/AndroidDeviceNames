@@ -2,6 +2,11 @@
   "manufacturer": "Karbonn",
   "devices": [
     {
+      "market_name": "A1 Indian",
+      "codename": "A1_Indian",
+      "model": "A1 Indian"
+    },
+    {
       "market_name": "A40 Indian",
       "codename": "A40_Indian",
       "model": "A40 Indian"
@@ -10,6 +15,11 @@
       "market_name": "A41 Power",
       "codename": "A41_Power",
       "model": "A41 Power"
+    },
+    {
+      "market_name": "A45 Indian",
+      "codename": "A45_Indian",
+      "model": "A45 Indian"
     },
     {
       "market_name": "Aura  4G",
@@ -27,9 +37,19 @@
       "model": "Aura Note 4G"
     },
     {
+      "market_name": "Aura Note Play",
+      "codename": "Aura_Note_Play",
+      "model": "Aura Note Play"
+    },
+    {
       "market_name": "Aura Power",
       "codename": "Aura_Power",
       "model": "Aura_Power"
+    },
+    {
+      "market_name": "Aura Power 4G",
+      "codename": "Aura_Power_4G_Plus",
+      "model": "Aura Power 4G Plus"
     },
     {
       "market_name": "Aura Power 4G Plus",
@@ -50,6 +70,21 @@
       "market_name": "K9 Smart 4G",
       "codename": "K9Smart4G",
       "model": "K9 Smart 4G"
+    },
+    {
+      "market_name": "K9 Smart Eco",
+      "codename": "K9_Smart_Eco",
+      "model": "K9 Smart Eco"
+    },
+    {
+      "market_name": "K9 Smart Grand",
+      "codename": "K9_Smart_Grand",
+      "model": "K9 Smart Grand"
+    },
+    {
+      "market_name": "K9 Smart Yuva",
+      "codename": "K9_Smart_Yuva",
+      "model": "K9 Smart Yuva"
     },
     {
       "market_name": "K9 Viraat 4G",

@@ -1,7 +1,13 @@
 [
   {
     "manufacturer": "Verykool",
-    "market_name": "verykool s5021",
+    "market_name": "s5021",
+    "codename": "verykoolS5021",
+    "model": "verykool Wave Pro s5021"
+  },
+  {
+    "manufacturer": "Verykool",
+    "market_name": "s5021",
     "codename": "verykoolS5021",
     "model": "verykoolS5021"
   }

@@ -7,9 +7,19 @@
       "model": "A-TT00"
     },
     {
+      "market_name": "A42P",
+      "codename": "A42P",
+      "model": "Haier A42P"
+    },
+    {
       "market_name": "AD6B1H",
       "codename": "AD6B1H",
       "model": "Smartfren Andromax AD6B1H"
+    },
+    {
+      "market_name": "AL40",
+      "codename": "AL40",
+      "model": "Haier_AL40"
     },
     {
       "market_name": "AP54",
@@ -230,26 +240,6 @@
       "market_name": "Haier",
       "codename": "W861",
       "model": "W861"
-    },
-    {
-      "market_name": "Haier A42P",
-      "codename": "A42P",
-      "model": "Haier A42P"
-    },
-    {
-      "market_name": "Haier AL40",
-      "codename": "AL40",
-      "model": "Haier_AL40"
-    },
-    {
-      "market_name": "Haier T50",
-      "codename": "Haier_T50",
-      "model": "Haier T50"
-    },
-    {
-      "market_name": "Haier T52P",
-      "codename": "T52P",
-      "model": "Haier T52P"
     },
     {
       "market_name": "HomeSurf742_AT7003",
@@ -477,6 +467,16 @@
       "model": "Q5002"
     },
     {
+      "market_name": "T50",
+      "codename": "Haier_T50",
+      "model": "Haier T50"
+    },
+    {
+      "market_name": "T52P",
+      "codename": "T52P",
+      "model": "Haier T52P"
+    },
+    {
       "market_name": "T54P",
       "codename": "Haier_T54P",
       "model": "Haier T54P"
@@ -525,6 +525,11 @@
       "market_name": "W860",
       "codename": "W860",
       "model": "W860"
+    },
+    {
+      "market_name": "haier lesure L7",
+      "codename": "Haier_Leisure_L7",
+      "model": "HM-N700-FL"
     },
     {
       "market_name": "i50",

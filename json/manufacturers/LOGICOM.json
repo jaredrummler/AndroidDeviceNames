@@ -12,9 +12,19 @@
       "model": "B BOT 550"
     },
     {
+      "market_name": "C bot tab 70",
+      "codename": "C_Bot_Tab_70",
+      "model": "C Bot Tab 70"
+    },
+    {
       "market_name": "Connect503",
       "codename": "L-ite502",
       "model": "Connect503"
+    },
+    {
+      "market_name": "E1052GP",
+      "codename": "E1052GP",
+      "model": "E1052GP"
     },
     {
       "market_name": "E350",
@@ -25,6 +35,11 @@
       "market_name": "E400",
       "codename": "E400",
       "model": "E400"
+    },
+    {
+      "market_name": "E852GP",
+      "codename": "E852GP",
+      "model": "E852GP"
     },
     {
       "market_name": "ID bot 53",
@@ -50,6 +65,11 @@
       "market_name": "L-EGANT  ONE-R",
       "codename": "L-EGANTONE-R",
       "model": "L-EGANTONE-R"
+    },
+    {
+      "market_name": "L-EGANT ONE",
+      "codename": "L-EGANTONE",
+      "model": "L-EGANTONE"
     },
     {
       "market_name": "L-EMENT 403",
@@ -142,14 +162,39 @@
       "model": "L-ITE 502 PLUS"
     },
     {
+      "market_name": "L-ITE 504 HD",
+      "codename": "L-ITE504HD",
+      "model": "L-ITE 504 HD"
+    },
+    {
+      "market_name": "L-ITE 506 HD",
+      "codename": "L-ITE506HD",
+      "model": "L-ITE 506 HD"
+    },
+    {
       "market_name": "L-ITE 506R HD",
       "codename": "L-ITE506RHD",
       "model": "L-ITE 506R HD"
     },
     {
+      "market_name": "L-ITE Tab 870 LTE",
+      "codename": "L-ITETAB870LTE",
+      "model": "L-ITE Tab 870 LTE"
+    },
+    {
       "market_name": "L-ITE402",
       "codename": "L-ITE402",
       "model": "L-ITE 402"
+    },
+    {
+      "market_name": "L-ITE452",
+      "codename": "L-ITE452",
+      "model": "L-ITE 452"
+    },
+    {
+      "market_name": "L-ITE502",
+      "codename": "L-ITE502",
+      "model": "L-ITE 502"
     },
     {
       "market_name": "L-ITE552",
@@ -162,6 +207,11 @@
       "model": "LIXIR1041"
     },
     {
+      "market_name": "L-IXIR TAB 1046HD",
+      "codename": "L-IXIR_TAB_1046_HD",
+      "model": "L-IXIR_TAB_1046_HD"
+    },
+    {
       "market_name": "L-IXIR TAB 701 3G",
       "codename": "TAB701",
       "model": "L-IXIR TAB 701 3G"
@@ -170,6 +220,16 @@
       "market_name": "L-IXIR TAB 840",
       "codename": "L-IXIR_TAB_840",
       "model": "L-IXIR_TAB_840"
+    },
+    {
+      "market_name": "L-ite_Tab1060",
+      "codename": "LiteTab1060",
+      "model": "L-ite_Tab1060"
+    },
+    {
+      "market_name": "L743",
+      "codename": "L-EMENT743",
+      "model": "L-EMENT743"
     },
     {
       "market_name": "LEMENT TAB 740",
@@ -187,34 +247,14 @@
       "model": "LEMENT_TAB901"
     },
     {
-      "market_name": "LOGICOM E1052GP",
-      "codename": "E1052GP",
-      "model": "E1052GP"
-    },
-    {
-      "market_name": "LOGICOM E852GP",
-      "codename": "E852GP",
-      "model": "E852GP"
-    },
-    {
       "market_name": "L_IXIR_TAB_1047HD",
       "codename": "L_IXIR_TAB_1047HD",
       "model": "L_IXIR_TAB_1047HD"
     },
     {
-      "market_name": "Logicom S450",
-      "codename": "S450",
-      "model": "S450"
-    },
-    {
-      "market_name": "Logicom S504",
-      "codename": "S504",
-      "model": "Connect 5"
-    },
-    {
-      "market_name": "Logicom S504",
-      "codename": "S504",
-      "model": "S504"
+      "market_name": "LiteTab760",
+      "codename": "LiteTab760",
+      "model": "LiteTab760"
     },
     {
       "market_name": "Logikids",
@@ -232,6 +272,21 @@
       "model": "M BOT 551"
     },
     {
+      "market_name": "M bot 60",
+      "codename": "Mbot60",
+      "model": "M bot 60"
+    },
+    {
+      "market_name": "M bot Tab 103",
+      "codename": "MbotTab103",
+      "model": "M bot Tab 103"
+    },
+    {
+      "market_name": "M bot Tab 71",
+      "codename": "M_bot_tab_71",
+      "model": "M_bot_tab_71"
+    },
+    {
       "market_name": "M bot tab 100",
       "codename": "M_BOT_TAB_100",
       "model": "M BOT TAB 100"
@@ -247,6 +302,11 @@
       "model": "M BOT TAB 70"
     },
     {
+      "market_name": "M_ bot_ 52",
+      "codename": "M_bot_52",
+      "model": "M bot 52"
+    },
+    {
       "market_name": "POWER bot",
       "codename": "POWERBOT",
       "model": "POWER BOT"
@@ -255,6 +315,21 @@
       "market_name": "S1052",
       "codename": "S1052",
       "model": "S1052"
+    },
+    {
+      "market_name": "S450",
+      "codename": "S450",
+      "model": "S450"
+    },
+    {
+      "market_name": "S504",
+      "codename": "S504",
+      "model": "Connect 5"
+    },
+    {
+      "market_name": "S504",
+      "codename": "S504",
+      "model": "S504"
     },
     {
       "market_name": "S732",

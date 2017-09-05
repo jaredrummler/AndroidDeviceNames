@@ -2,9 +2,34 @@
   "manufacturer": "Polaroid",
   "devices": [
     {
+      "market_name": "A/S10",
+      "codename": "wing-AS10",
+      "model": "A/S10"
+    },
+    {
+      "market_name": "A/S7",
+      "codename": "wing-AS7",
+      "model": "A/S7"
+    },
+    {
+      "market_name": "A/S8",
+      "codename": "wing-AS8",
+      "model": "A/S8"
+    },
+    {
       "market_name": "A6",
       "codename": "A6",
       "model": "A6"
+    },
+    {
+      "market_name": "A7X_PTAB735X",
+      "codename": "PTAB735X",
+      "model": "A7X_PTAB735X"
+    },
+    {
+      "market_name": "A7_PTAB735",
+      "codename": "A7_PTAB735",
+      "model": "HS-7DTB39"
     },
     {
       "market_name": "A9x/PTAB935x",
@@ -12,9 +37,34 @@
       "model": "A9x/PTAB935x"
     },
     {
+      "market_name": "Cosmo L",
+      "codename": "P5026A",
+      "model": "P5026A"
+    },
+    {
+      "market_name": "Cosmo Z",
+      "codename": "P5047A",
+      "model": "P5047A"
+    },
+    {
       "market_name": "Infinite",
       "codename": "MID1324",
       "model": "MID 1324"
+    },
+    {
+      "market_name": "K7",
+      "codename": "PTAB782",
+      "model": "K7/PTAB782"
+    },
+    {
+      "market_name": "L9",
+      "codename": "L9",
+      "model": "L9"
+    },
+    {
+      "market_name": "MID1028",
+      "codename": "MID1028",
+      "model": "MID1028"
     },
     {
       "market_name": "MID4X07",
@@ -32,9 +82,19 @@
       "model": "P10/Q10/PTAB1040/PTAB1041"
     },
     {
+      "market_name": "P1000",
+      "codename": "P1000",
+      "model": "P1000"
+    },
+    {
       "market_name": "P1001",
       "codename": "P1001",
       "model": "P1001"
+    },
+    {
+      "market_name": "P4526A",
+      "codename": "P4526A",
+      "model": "P4526A"
     },
     {
       "market_name": "P7/Q7/PTAB740/PTAB741",
@@ -52,14 +112,19 @@
       "model": "P9/Q9/PTAB940/PTAB941"
     },
     {
+      "market_name": "P900",
+      "codename": "P900",
+      "model": "P900/Q900"
+    },
+    {
       "market_name": "P901",
       "codename": "P901",
       "model": "P901"
     },
     {
-      "market_name": "POLAROID A7_PTAB735",
-      "codename": "A7_PTAB735",
-      "model": "HS-7DTB39"
+      "market_name": "PMID7102DC",
+      "codename": "PMID7102DC",
+      "model": "PMID7102DC"
     },
     {
       "market_name": "PRO5023PW",
@@ -92,64 +157,14 @@
       "model": "PTAB1051_PTAB1055"
     },
     {
-      "market_name": "Phantom 5",
-      "codename": "Phantom5",
-      "model": "PRO5023"
-    },
-    {
-      "market_name": "Polaroid A/S10",
-      "codename": "wing-AS10",
-      "model": "A/S10"
-    },
-    {
-      "market_name": "Polaroid A/S7",
-      "codename": "wing-AS7",
-      "model": "A/S7"
-    },
-    {
-      "market_name": "Polaroid A/S8",
-      "codename": "wing-AS8",
-      "model": "A/S8"
-    },
-    {
-      "market_name": "Polaroid A7X_PTAB735X",
-      "codename": "PTAB735X",
-      "model": "A7X_PTAB735X"
-    },
-    {
-      "market_name": "Polaroid K7",
-      "codename": "PTAB782",
-      "model": "K7/PTAB782"
-    },
-    {
-      "market_name": "Polaroid L9",
-      "codename": "L9",
-      "model": "L9"
-    },
-    {
-      "market_name": "Polaroid MID1028",
-      "codename": "MID1028",
-      "model": "MID1028"
-    },
-    {
-      "market_name": "Polaroid P1000",
-      "codename": "P1000",
-      "model": "P1000"
-    },
-    {
-      "market_name": "Polaroid P900",
-      "codename": "P900",
-      "model": "P900/Q900"
-    },
-    {
-      "market_name": "Polaroid PTAB751",
+      "market_name": "PTAB751",
       "codename": "STJR76",
       "model": "PTAB751"
     },
     {
-      "market_name": "Polaroid V7",
-      "codename": "nuclear-M7021",
-      "model": "V7"
+      "market_name": "Phantom 5",
+      "codename": "Phantom5",
+      "model": "PRO5023"
     },
     {
       "market_name": "SIGMA 5",
@@ -165,6 +180,11 @@
       "market_name": "V45M",
       "codename": "V45M",
       "model": "CARBON_PRO4543"
+    },
+    {
+      "market_name": "V7",
+      "codename": "nuclear-M7021",
+      "model": "V7"
     }
   ]
 }

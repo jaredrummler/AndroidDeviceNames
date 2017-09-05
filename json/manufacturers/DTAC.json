@@ -2,34 +2,34 @@
   "manufacturer": "Dtac",
   "devices": [
     {
-      "market_name": "dtac Phone M2",
+      "market_name": "Phone M2",
       "codename": "dtacPhoneM2",
       "model": "dtacPhoneM2"
     },
     {
-      "market_name": "dtac Phone S2",
+      "market_name": "Phone S2",
       "codename": "dtacPhoneS2",
       "model": "dtac_Phone_S2"
     },
     {
-      "market_name": "dtac Phone S3",
+      "market_name": "Phone S3",
       "codename": "dtacPhoneS3",
       "model": "dtacPhoneS3"
     },
     {
-      "market_name": "dtac Phone T2",
+      "market_name": "Phone T2",
       "codename": "dtacPhoneT2",
       "model": "dtacPhoneT2"
     },
     {
-      "market_name": "dtac Phone T3",
-      "codename": "dtacPhoneT3",
-      "model": "dtacPhoneT3"
-    },
-    {
-      "market_name": "dtac Phone X3",
+      "market_name": "Phone X3",
       "codename": "dtacPhoneX3",
       "model": "dtacPhoneX3"
+    },
+    {
+      "market_name": "dtacPhoneT3",
+      "codename": "dtacPhoneT3",
+      "model": "dtacPhoneT3"
     }
   ]
 }

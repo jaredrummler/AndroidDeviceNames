@@ -117,6 +117,11 @@
       "model": "P4_Pro"
     },
     {
+      "market_name": "P4 Quad",
+      "codename": "P4_Quad",
+      "model": "P4_Quad"
+    },
+    {
       "market_name": "P4 eMagic",
       "codename": "P4_eMagic",
       "model": "P4_eMagic"
@@ -457,6 +462,11 @@
       "model": "Viva_H802_LTE"
     },
     {
+      "market_name": "Viva H802 LTE",
+      "codename": "Viva_H802_LTE",
+      "model": "Viva_H802_LTE_TM"
+    },
+    {
       "market_name": "Viva i10HD",
       "codename": "Viva_i10HD",
       "model": "Viva_i10HD"
@@ -575,6 +585,16 @@
       "market_name": "X4 Soul Mini",
       "codename": "X4_Soul_Mini",
       "model": "X4_Soul_Mini"
+    },
+    {
+      "market_name": "X4 Soul Mini S",
+      "codename": "X4_Soul_Mini_S",
+      "model": "X4_Soul_Mini_S"
+    },
+    {
+      "market_name": "X4 Soul Mini S",
+      "codename": "X4_Soul_Mini_S",
+      "model": "X4_Soul_Mini_S_TM"
     },
     {
       "market_name": "X4 Soul Style",

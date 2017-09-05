@@ -2,6 +2,21 @@
   "manufacturer": "Multilaser",
   "devices": [
     {
+      "market_name": "M10A",
+      "codename": "M10A",
+      "model": "M10A"
+    },
+    {
+      "market_name": "M7I-3G",
+      "codename": "M7I-3G",
+      "model": "M7I-3G"
+    },
+    {
+      "market_name": "M7I-3G",
+      "codename": "astar-ococci",
+      "model": "ML01-M7S-Quad-Core"
+    },
+    {
       "market_name": "M7s Dual Core",
       "codename": "NB116_NB117_NB118",
       "model": "M7s Dual ML03"
@@ -10,6 +25,21 @@
       "market_name": "M7s Quad Core",
       "codename": "astar-ococci",
       "model": "ML01-M7S-Quad-Core"
+    },
+    {
+      "market_name": "M9-3G",
+      "codename": "M9-3G",
+      "model": "M9-3G"
+    },
+    {
+      "market_name": "M9-3G-2",
+      "codename": "M9-3G_2",
+      "model": "M9-3G_2"
+    },
+    {
+      "market_name": "MS40S",
+      "codename": "MS40S",
+      "model": "MS40S"
     },
     {
       "market_name": "MS40s",
@@ -25,6 +55,11 @@
       "market_name": "MS45S",
       "codename": "MS45S",
       "model": "MS45S"
+    },
+    {
+      "market_name": "MS45S",
+      "codename": "MS45S_A6",
+      "model": "MS45S_A6"
     },
     {
       "market_name": "MS50",
@@ -52,6 +87,11 @@
       "model": "MS55"
     },
     {
+      "market_name": "MS55M",
+      "codename": "MS55M",
+      "model": "MS55M"
+    },
+    {
       "market_name": "MS60",
       "codename": "MS60",
       "model": "MS60"
@@ -70,36 +110,6 @@
       "market_name": "Ms6",
       "codename": "MS6",
       "model": "MS6"
-    },
-    {
-      "market_name": "Multilaser M10A",
-      "codename": "M10A",
-      "model": "M10A"
-    },
-    {
-      "market_name": "Multilaser M7I-3G",
-      "codename": "M7I-3G",
-      "model": "M7I-3G"
-    },
-    {
-      "market_name": "Multilaser M7I-3G",
-      "codename": "astar-ococci",
-      "model": "ML01-M7S-Quad-Core"
-    },
-    {
-      "market_name": "Multilaser M9-3G",
-      "codename": "M9-3G",
-      "model": "M9-3G"
-    },
-    {
-      "market_name": "Multilaser M9-3G-2",
-      "codename": "M9-3G_2",
-      "model": "M9-3G_2"
-    },
-    {
-      "market_name": "Multilaser MS45S",
-      "codename": "MS45S_A6",
-      "model": "MS45S_A6"
     }
   ]
 }

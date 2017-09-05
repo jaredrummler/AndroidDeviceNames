@@ -12,6 +12,16 @@
       "model": "Spice Mi-498H"
     },
     {
+      "market_name": "F301",
+      "codename": "Spice_F301",
+      "model": "Spice F301"
+    },
+    {
+      "market_name": "K601",
+      "codename": "Spice_K601",
+      "model": "Spice K601"
+    },
+    {
       "market_name": "Smart Flo Mi-449",
       "codename": "SpiceMi449",
       "model": "SpiceMi-449"
@@ -20,6 +30,16 @@
       "market_name": "Smart Flo Mi-449",
       "codename": "hongyu72_wet_jb3",
       "model": "SpiceMi-449"
+    },
+    {
+      "market_name": "Spice F302",
+      "codename": "Spice_F302",
+      "model": "Spice F302"
+    },
+    {
+      "market_name": "Spice V801",
+      "codename": "Spice_V801",
+      "model": "Spice V801"
     },
     {
       "market_name": "Stellar Mi-438",

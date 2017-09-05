@@ -1,0 +1,15 @@
+{
+  "manufacturer": "CenturyLink",
+  "devices": [
+    {
+      "market_name": "PureTV",
+      "codename": "ctl_iptv_mrvl",
+      "model": "CTLPlayer"
+    },
+    {
+      "market_name": "PureTV",
+      "codename": "ctl_iptv_mrvl",
+      "model": "S60CLI"
+    }
+  ]
+}

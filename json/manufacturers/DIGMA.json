@@ -1,0 +1,30 @@
+{
+  "manufacturer": "Digma",
+  "devices": [
+    {
+      "market_name": "DIGMA Optima Prime 3 3G TS7131MG",
+      "codename": "TS7131MG",
+      "model": "Optima_Prime_3_3G_TS7131MG"
+    },
+    {
+      "market_name": "DIGMA Plane 1523 3G PS1135MG",
+      "codename": "PS1135MG",
+      "model": "Plane_1523_3G_PS1135MG"
+    },
+    {
+      "market_name": "DIGMA VOX Flash 4G VS5015ML",
+      "codename": "VS5015ML",
+      "model": "VOX Flash 4G VS5015ML"
+    },
+    {
+      "market_name": "DIGMA VOX G450 3G VS4001PG",
+      "codename": "VS4001PG",
+      "model": "VOX G450 3G VS4001PG"
+    },
+    {
+      "market_name": "LINX A452 3G",
+      "codename": "LT4030PG",
+      "model": "LINX A452 3G LT4030PG"
+    }
+  ]
+}

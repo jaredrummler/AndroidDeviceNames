@@ -1,8 +1,14 @@
 [
   {
     "manufacturer": "Meitu",
-    "market_name": "Meitu V4",
+    "market_name": "V4",
     "codename": "V4",
     "model": "Meitu V4"
+  },
+  {
+    "manufacturer": "Vestel",
+    "market_name": "Venus V4",
+    "codename": "V4",
+    "model": "Venus_V4"
   }
 ]

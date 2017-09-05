@@ -37,6 +37,11 @@
       "model": "AX1040"
     },
     {
+      "market_name": "AX1045E",
+      "codename": "Bmobile_AX1045",
+      "model": "AX1045"
+    },
+    {
       "market_name": "AX1055",
       "codename": "Bmobile",
       "model": "AX1055"
@@ -102,6 +107,21 @@
       "model": "AX680+"
     },
     {
+      "market_name": "AX681",
+      "codename": "Bmobile_AX681",
+      "model": "AX681"
+    },
+    {
+      "market_name": "AX681",
+      "codename": "Bmobile_AX681A",
+      "model": "AX681"
+    },
+    {
+      "market_name": "AX684",
+      "codename": "Bmobile_AX684",
+      "model": "AX684"
+    },
+    {
       "market_name": "AX685",
       "codename": "Bmobile_AX685",
       "model": "AX685"
@@ -142,9 +162,24 @@
       "model": "AX821"
     },
     {
+      "market_name": "AX822",
+      "codename": "Bmobile_AX822",
+      "model": "AX822"
+    },
+    {
+      "market_name": "AX822",
+      "codename": "Bmobile_AX822A",
+      "model": "AX822"
+    },
+    {
       "market_name": "AX920",
       "codename": "Bmobile_AX920",
       "model": "AX920"
+    },
+    {
+      "market_name": "AX921",
+      "codename": "Bmobile_AX921",
+      "model": "AX921"
     },
     {
       "market_name": "AX921",

@@ -522,6 +522,16 @@
       "model": "IdeaPadA10"
     },
     {
+      "market_name": "A10-70LC",
+      "codename": "A10-70LC",
+      "model": "Lenovo TAB 2 A10-70LC"
+    },
+    {
+      "market_name": "A1000",
+      "codename": "A1000",
+      "model": "Lenovo A1000"
+    },
+    {
       "market_name": "A1000",
       "codename": "A1000F",
       "model": "IdeaTabA1000-F"
@@ -537,9 +547,64 @@
       "model": "IdeaTabA1000L-F"
     },
     {
+      "market_name": "A1000m",
+      "codename": "scx35_sp7731gea_taichi",
+      "model": "Lenovo A1000m"
+    },
+    {
+      "market_name": "A1010",
+      "codename": "A1010a20",
+      "model": "Lenovo A1010a20"
+    },
+    {
+      "market_name": "A1900",
+      "codename": "A1900",
+      "model": "Lenovo A1900"
+    },
+    {
+      "market_name": "A2010-a",
+      "codename": "A2010-a",
+      "model": "Lenovo A2010-a"
+    },
+    {
+      "market_name": "A2010l36",
+      "codename": "A2010l36",
+      "model": "Lenovo A2010l36"
+    },
+    {
+      "market_name": "A2016a40",
+      "codename": "A2016a40",
+      "model": "Lenovo A2016a40"
+    },
+    {
+      "market_name": "A2016b30",
+      "codename": "A2016b30",
+      "model": "Lenovo A2016b30"
+    },
+    {
+      "market_name": "A2016b31",
+      "codename": "A2016b31",
+      "model": "Lenovo A2016b31"
+    },
+    {
+      "market_name": "A2020a40",
+      "codename": "angus3A4",
+      "model": "Lenovo A2020a40"
+    },
+    {
+      "market_name": "A2020a40",
+      "codename": "angus3A41",
+      "model": "Lenovo A2020a40"
+    },
+    {
       "market_name": "A208t",
       "codename": "A208t",
       "model": "Lenovo A208t"
+    },
+    {
+      "market_name": "A2105",
+      "codename": "Lenovo_A2105",
+      "model": "Lenovo_A2105"
     },
     {
       "market_name": "A2107A",
@@ -550,6 +615,21 @@
       "market_name": "A218t",
       "codename": "A218t",
       "model": "Lenovo A218t"
+    },
+    {
+      "market_name": "A228t",
+      "codename": "A228t",
+      "model": "Lenovo A228t"
+    },
+    {
+      "market_name": "A238t",
+      "codename": "A238t",
+      "model": "Lenovo A238t"
+    },
+    {
+      "market_name": "A2580",
+      "codename": "A2580",
+      "model": "Lenovo A2580"
     },
     {
       "market_name": "A269",
@@ -567,9 +647,24 @@
       "model": "Lenovo A278t"
     },
     {
+      "market_name": "A2800",
+      "codename": "A2800-d",
+      "model": "Lenovo A2800-d"
+    },
+    {
+      "market_name": "A2860",
+      "codename": "A2860",
+      "model": "Lenovo A2860"
+    },
+    {
       "market_name": "A3000",
       "codename": "A3000",
       "model": "Lenovo A3000-H"
+    },
+    {
+      "market_name": "A300t",
+      "codename": "A300t",
+      "model": "Lenovo A300t"
     },
     {
       "market_name": "A305E",
@@ -587,9 +682,139 @@
       "model": "Lenovo A308t"
     },
     {
+      "market_name": "A316",
+      "codename": "A316",
+      "model": "Lenovo A316"
+    },
+    {
+      "market_name": "A316i",
+      "codename": "A316i",
+      "model": "Lenovo A316i"
+    },
+    {
       "market_name": "A318t",
       "codename": "A318t",
       "model": "Lenovo A318t"
+    },
+    {
+      "market_name": "A319",
+      "codename": "A319",
+      "model": "Lenovo A319"
+    },
+    {
+      "market_name": "A31910t30",
+      "codename": "angus3T3",
+      "model": "Lenovo A3910t30"
+    },
+    {
+      "market_name": "A320t",
+      "codename": "A320t",
+      "model": "Lenovo A320t"
+    },
+    {
+      "market_name": "A328",
+      "codename": "A328",
+      "model": "Lenovo A328"
+    },
+    {
+      "market_name": "A328t",
+      "codename": "A328t",
+      "model": "Lenovo A328t"
+    },
+    {
+      "market_name": "A3300",
+      "codename": "A3300-H",
+      "model": "LenovoA3300-H"
+    },
+    {
+      "market_name": "A3300",
+      "codename": "A3300-T",
+      "model": "Lenovo A3300-T"
+    },
+    {
+      "market_name": "A3300-GV",
+      "codename": "A3300-GV",
+      "model": "LenovoA3300-GV"
+    },
+    {
+      "market_name": "A3300-HV",
+      "codename": "A3300-HV",
+      "model": "Lenovo A3300-HV"
+    },
+    {
+      "market_name": "A330e",
+      "codename": "A330e",
+      "model": "Lenovo A330e"
+    },
+    {
+      "market_name": "A338t",
+      "codename": "A338t",
+      "model": "Lenovo A338t"
+    },
+    {
+      "market_name": "A3500",
+      "codename": "A3500",
+      "model": "Lenovo A3500"
+    },
+    {
+      "market_name": "A3500",
+      "codename": "A3500HV",
+      "model": "Lenovo A3500-HV"
+    },
+    {
+      "market_name": "A3500-F",
+      "codename": "A3500F",
+      "model": "EveryPad2"
+    },
+    {
+      "market_name": "A3500-F",
+      "codename": "A3500F",
+      "model": "Lenovo A3500-F"
+    },
+    {
+      "market_name": "A3500-FL",
+      "codename": "A3500FL",
+      "model": "Lenovo A3500-FL"
+    },
+    {
+      "market_name": "A3500-H",
+      "codename": "A3500H",
+      "model": "Lenovo A3500-H"
+    },
+    {
+      "market_name": "A355e",
+      "codename": "A355e",
+      "model": "Lenovo A355e"
+    },
+    {
+      "market_name": "A358t",
+      "codename": "A358t",
+      "model": "Lenovo A358t"
+    },
+    {
+      "market_name": "A3600-D",
+      "codename": "A3600-d",
+      "model": "Lenovo A3600-d"
+    },
+    {
+      "market_name": "A3600u",
+      "codename": "A3600u",
+      "model": "Lenovo A3600u"
+    },
+    {
+      "market_name": "A360e",
+      "codename": "A360e",
+      "model": "Lenovo A360e"
+    },
+    {
+      "market_name": "A360t",
+      "codename": "A360t",
+      "model": "Lenovo A360t"
+    },
+    {
+      "market_name": "A368t",
+      "codename": "A368t",
+      "model": "Lenovo A368t"
     },
     {
       "market_name": "A369",
@@ -622,9 +847,54 @@
       "model": "Lenovo A378t"
     },
     {
+      "market_name": "A3800-D",
+      "codename": "A3800-d",
+      "model": "Lenovo A3800-d"
+    },
+    {
+      "market_name": "A380e",
+      "codename": "A380e",
+      "model": "LNV-Lenovo A380e"
+    },
+    {
+      "market_name": "A380t",
+      "codename": "A380t",
+      "model": "Lenovo A380t"
+    },
+    {
+      "market_name": "A385e",
+      "codename": "A385e",
+      "model": "LNV-Lenovo A385e"
+    },
+    {
+      "market_name": "A3860",
+      "codename": "A3580",
+      "model": "Lenovo A3580"
+    },
+    {
+      "market_name": "A3860",
+      "codename": "A3860",
+      "model": "Lenovo A3860"
+    },
+    {
+      "market_name": "A388t",
+      "codename": "A388t",
+      "model": "Lenovo A388t"
+    },
+    {
+      "market_name": "A390",
+      "codename": "A390",
+      "model": "Lenovo A390"
+    },
+    {
       "market_name": "A390",
       "codename": "A390",
       "model": "Lenovo A390_ROW"
+    },
+    {
+      "market_name": "A3900",
+      "codename": "pxa1L88H2",
+      "model": "Lenovo A3900"
     },
     {
       "market_name": "A390t",
@@ -632,9 +902,44 @@
       "model": "Lenovo A390t"
     },
     {
+      "market_name": "A395e",
+      "codename": "A395e",
+      "model": "LNV-Lenovo A395e"
+    },
+    {
+      "market_name": "A396",
+      "codename": "A396",
+      "model": "Lenovo A396"
+    },
+    {
+      "market_name": "A396",
+      "codename": "A396_TY",
+      "model": "Lenovo A396_TY"
+    },
+    {
       "market_name": "A398t",
       "codename": "A398t",
       "model": "Lenovo A398t"
+    },
+    {
+      "market_name": "A398t+",
+      "codename": "A398tp",
+      "model": "Lenovo A398t+"
+    },
+    {
+      "market_name": "A399",
+      "codename": "Aiken",
+      "model": "Lenovo A399"
+    },
+    {
+      "market_name": "A5000",
+      "codename": "A5000",
+      "model": "Lenovo A5000"
+    },
+    {
+      "market_name": "A505e",
+      "codename": "A505e",
+      "model": "LNV-Lenovo A505e"
     },
     {
       "market_name": "A516",
@@ -645,6 +950,91 @@
       "market_name": "A516",
       "codename": "A516_ROW",
       "model": "Lenovo A516"
+    },
+    {
+      "market_name": "A526",
+      "codename": "A526",
+      "model": "Lenovo A526"
+    },
+    {
+      "market_name": "A529",
+      "codename": "A529",
+      "model": "Lenovo A529"
+    },
+    {
+      "market_name": "A536",
+      "codename": "A536",
+      "model": "Lenovo A536"
+    },
+    {
+      "market_name": "A5500",
+      "codename": "A5500",
+      "model": "Lenovo A5500"
+    },
+    {
+      "market_name": "A5500-F",
+      "codename": "A5500-F",
+      "model": "Lenovo A5500-F"
+    },
+    {
+      "market_name": "A5500-H",
+      "codename": "A5500-H",
+      "model": "Lenovo A5500-H"
+    },
+    {
+      "market_name": "A5500-HV",
+      "codename": "A5500-HV",
+      "model": "Lenovo A5500-HV"
+    },
+    {
+      "market_name": "A560",
+      "codename": "A560_msm8212",
+      "model": "Lenovo A560"
+    },
+    {
+      "market_name": "A560",
+      "codename": "A560_msm8610",
+      "model": "LNV-Lenovo A560"
+    },
+    {
+      "market_name": "A5800-D",
+      "codename": "A5800-D",
+      "model": "Lenovo A5800-D"
+    },
+    {
+      "market_name": "A588t",
+      "codename": "LenovoA588t",
+      "model": "LenovoA588t"
+    },
+    {
+      "market_name": "A6000",
+      "codename": "Kraft-A6000",
+      "model": "Lenovo A6000"
+    },
+    {
+      "market_name": "A6000-l",
+      "codename": "Kraft-A6000-l",
+      "model": "Lenovo A6000-l"
+    },
+    {
+      "market_name": "A6010",
+      "codename": "A6010",
+      "model": "Lenovo A6010"
+    },
+    {
+      "market_name": "A606",
+      "codename": "A606",
+      "model": "Lenovo A606"
+    },
+    {
+      "market_name": "A616",
+      "codename": "A616",
+      "model": "Lenovo A616"
+    },
+    {
+      "market_name": "A628t",
+      "codename": "A628t",
+      "model": "Lenovo A628t"
     },
     {
       "market_name": "A630",
@@ -662,6 +1052,16 @@
       "model": "Lenovo A658t"
     },
     {
+      "market_name": "A6600",
+      "codename": "A6600d40",
+      "model": "Lenovo A6600d40"
+    },
+    {
+      "market_name": "A6600 Plus",
+      "codename": "A6600a40",
+      "model": "Lenovo A6600a40"
+    },
+    {
       "market_name": "A670t",
       "codename": "A670t",
       "model": "Lenovo A670t"
@@ -670,6 +1070,61 @@
       "market_name": "A678t",
       "codename": "A678t",
       "model": "Lenovo A678t"
+    },
+    {
+      "market_name": "A680",
+      "codename": "A680",
+      "model": "Lenovo A680"
+    },
+    {
+      "market_name": "A680",
+      "codename": "A680",
+      "model": "Lenovo A680_ROW"
+    },
+    {
+      "market_name": "A6800",
+      "codename": "A6800",
+      "model": "Lenovo A6800"
+    },
+    {
+      "market_name": "A688t",
+      "codename": "A688t",
+      "model": "Lenovo A688t"
+    },
+    {
+      "market_name": "A690e",
+      "codename": "A690e",
+      "model": "LNV-Lenovo A690e"
+    },
+    {
+      "market_name": "A7-30GC",
+      "codename": "A7-30GC",
+      "model": "Lenovo TAB 2 A7-30GC"
+    },
+    {
+      "market_name": "A7-30H",
+      "codename": "A7-30H",
+      "model": "Lenovo TAB 2 A7-30D"
+    },
+    {
+      "market_name": "A7-30H",
+      "codename": "A7-30H",
+      "model": "Lenovo TAB 2 A7-30H"
+    },
+    {
+      "market_name": "A7-60HC",
+      "codename": "A760HC",
+      "model": "Lenovo A7-60HC"
+    },
+    {
+      "market_name": "A7000",
+      "codename": "A7000-a",
+      "model": "Lenovo A7000-a"
+    },
+    {
+      "market_name": "A7000 Plus",
+      "codename": "A7000plus",
+      "model": "Lenovo A7000-a"
     },
     {
       "market_name": "A706",
@@ -697,14 +1152,119 @@
       "model": "Lenovo A760"
     },
     {
+      "market_name": "A7600",
+      "codename": "A7600",
+      "model": "Lenovo A7600"
+    },
+    {
+      "market_name": "A7600",
+      "codename": "aiocmcc_ttp",
+      "model": "Lenovo A7600-m"
+    },
+    {
+      "market_name": "A7600",
+      "codename": "aiocu_wtfp",
+      "model": "Lenovo A7600"
+    },
+    {
+      "market_name": "A7600-F",
+      "codename": "A7600-F",
+      "model": "Lenovo A7600-F"
+    },
+    {
+      "market_name": "A7600-H",
+      "codename": "A7600-H",
+      "model": "Lenovo A7600-H"
+    },
+    {
+      "market_name": "A7600-HV",
+      "codename": "A7600-HV",
+      "model": "Lenovo A7600-HV"
+    },
+    {
       "market_name": "A766",
       "codename": "A766",
       "model": "Lenovo A766"
     },
     {
+      "market_name": "A768t",
+      "codename": "airplayt",
+      "model": "Lenovo A768t"
+    },
+    {
+      "market_name": "A7700",
+      "codename": "A7700",
+      "model": "A7700"
+    },
+    {
+      "market_name": "A7700",
+      "codename": "A7700",
+      "model": "Lenovo A7700"
+    },
+    {
       "market_name": "A770e",
       "codename": "athenaep",
       "model": "Lenovo A770e"
+    },
+    {
+      "market_name": "A780e",
+      "codename": "A780e",
+      "model": "LNV-Lenovo A780e"
+    },
+    {
+      "market_name": "A785e",
+      "codename": "A785e",
+      "model": "LNV-Lenovo A785e"
+    },
+    {
+      "market_name": "A788t",
+      "codename": "A788t",
+      "model": "Lenovo A788t"
+    },
+    {
+      "market_name": "A8-50",
+      "codename": "A8-50L",
+      "model": "Lenovo TAB 2 A8-50L"
+    },
+    {
+      "market_name": "A8-50",
+      "codename": "A8-50LC",
+      "model": "Lenovo 2 A8-50LC"
+    },
+    {
+      "market_name": "A8-50",
+      "codename": "A8-50LC",
+      "model": "Lenovo TAB 2 A8-50LC"
+    },
+    {
+      "market_name": "A805e",
+      "codename": "airplayep",
+      "model": "Lenovo A805e"
+    },
+    {
+      "market_name": "A806",
+      "codename": "A806",
+      "model": "Lenovo A806"
+    },
+    {
+      "market_name": "A808t",
+      "codename": "A808t",
+      "model": "Lenovo A808t"
+    },
+    {
+      "market_name": "A808t-i",
+      "codename": "A808t-i",
+      "model": "Lenovo A808t-i"
+    },
+    {
+      "market_name": "A816",
+      "codename": "airplayw",
+      "model": "Lenovo A5100"
+    },
+    {
+      "market_name": "A816",
+      "codename": "airplayw",
+      "model": "Lenovo A816"
     },
     {
       "market_name": "A820",
@@ -715,6 +1275,21 @@
       "market_name": "A820e",
       "codename": "andorra",
       "model": "Lenovo A820e"
+    },
+    {
+      "market_name": "A820t",
+      "codename": "A820t",
+      "model": "Lenovo A820t"
+    },
+    {
+      "market_name": "A828",
+      "codename": "A858",
+      "model": "Lenovo A858"
+    },
+    {
+      "market_name": "A828t",
+      "codename": "A828t",
+      "model": "Lenovo A828t"
     },
     {
       "market_name": "A830",
@@ -732,9 +1307,49 @@
       "model": "Lenovo A850"
     },
     {
+      "market_name": "A850+",
+      "codename": "A850p",
+      "model": "Lenovo A850+"
+    },
+    {
+      "market_name": "A858t",
+      "codename": "A858t",
+      "model": "Lenovo A858t"
+    },
+    {
+      "market_name": "A859",
+      "codename": "A859_ROW",
+      "model": "Lenovo A859"
+    },
+    {
       "market_name": "A860e",
       "codename": "artini",
       "model": "Lenovo A860e"
+    },
+    {
+      "market_name": "A889",
+      "codename": "A889",
+      "model": "Lenovo A889"
+    },
+    {
+      "market_name": "A890e",
+      "codename": "airbuse",
+      "model": "Lenovo A890e"
+    },
+    {
+      "market_name": "A916",
+      "codename": "A916",
+      "model": "Lenovo A916"
+    },
+    {
+      "market_name": "A936",
+      "codename": "A936",
+      "model": "Lenovo A936"
+    },
+    {
+      "market_name": "A938t",
+      "codename": "A938t",
+      "model": "Lenovo A938t"
     },
     {
       "market_name": "B6000-F",
@@ -760,6 +1375,21 @@
       "market_name": "B8000-H",
       "codename": "B8000",
       "model": "Lenovo B8000-H"
+    },
+    {
+      "market_name": "B8080",
+      "codename": "B8080",
+      "model": "Lenovo B8080-F"
+    },
+    {
+      "market_name": "B8080-H",
+      "codename": "B8080",
+      "model": "Lenovo B8080-H"
+    },
+    {
+      "market_name": "B8080-HV",
+      "codename": "B8080",
+      "model": "Lenovo B8080-HV"
     },
     {
       "market_name": "E4002",
@@ -837,9 +1467,149 @@
       "model": "K1"
     },
     {
+      "market_name": "K10e70",
+      "codename": "K10e70",
+      "model": "Lenovo K10e70"
+    },
+    {
+      "market_name": "K3 Note",
+      "codename": "K50a40",
+      "model": "Lenovo K50a40"
+    },
+    {
+      "market_name": "K3 Note",
+      "codename": "aio_3m_otfp_m",
+      "model": "Lenovo K50-t3s"
+    },
+    {
+      "market_name": "K3 Note",
+      "codename": "aio_otfp",
+      "model": "Lenovo K50-T5"
+    },
+    {
+      "market_name": "K3 Note",
+      "codename": "aio_otfp",
+      "model": "Lenovo K50-t5"
+    },
+    {
+      "market_name": "K30-E",
+      "codename": "Kraft-E",
+      "model": "Lenovo K30-E"
+    },
+    {
+      "market_name": "K30-T",
+      "codename": "Kraft-T",
+      "model": "Lenovo K30-T"
+    },
+    {
+      "market_name": "K30-TM",
+      "codename": "Kraft-TM",
+      "model": "Lenovo K30-TM"
+    },
+    {
+      "market_name": "K30-W",
+      "codename": "Kraft-W",
+      "model": "Lenovo K30-W"
+    },
+    {
+      "market_name": "K32",
+      "codename": "K32c36",
+      "model": "Lenovo K32c36"
+    },
+    {
+      "market_name": "K32c30",
+      "codename": "K32c30",
+      "model": "Lenovo K32c30"
+    },
+    {
+      "market_name": "K5",
+      "codename": "A6020a40",
+      "model": "Lenovo A6020a40"
+    },
+    {
+      "market_name": "K5",
+      "codename": "A6020a41",
+      "model": "Lenovo A6020a41"
+    },
+    {
+      "market_name": "K5",
+      "codename": "A6020l36",
+      "model": "Lenovo A6020l36"
+    },
+    {
+      "market_name": "K5",
+      "codename": "A6020l37",
+      "model": "Lenovo A6020l37"
+    },
+    {
+      "market_name": "K5 Note",
+      "codename": "A7020a40",
+      "model": "Lenovo A7020a40"
+    },
+    {
+      "market_name": "K5 Note",
+      "codename": "A7020a48",
+      "model": "Lenovo A7020a48"
+    },
+    {
+      "market_name": "K5 Note",
+      "codename": "k52_e78",
+      "model": "Lenovo K52e78"
+    },
+    {
+      "market_name": "K5 Note",
+      "codename": "k52_t58",
+      "model": "Lenovo K52t58"
+    },
+    {
+      "market_name": "K5 Plus",
+      "codename": "A6020a46",
+      "model": "Lenovo A6020a46"
+    },
+    {
+      "market_name": "K50",
+      "codename": "K50-t5",
+      "model": "Lenovo K50-t5"
+    },
+    {
+      "market_name": "K50",
+      "codename": "aio_3m_otfp",
+      "model": "Lenovo K50-t3s"
+    },
+    {
+      "market_name": "K50-T5",
+      "codename": "aio_otfp_m",
+      "model": "Lenovo K50-t5"
+    },
+    {
+      "market_name": "K52t38",
+      "codename": "k52_t38",
+      "model": "Lenovo K52t38"
+    },
+    {
+      "market_name": "K52t38",
+      "codename": "k52_t38",
+      "model": "Lenovo k52t38"
+    },
+    {
       "market_name": "K800",
       "codename": "K800",
       "model": "Lenovo K800"
+    },
+    {
+      "market_name": "K80M",
+      "codename": "K80M",
+      "model": "Lenovo K80M"
+    },
+    {
+      "market_name": "K860",
+      "codename": "stuttgart",
+      "model": "Lenovo K860"
+    },
+    {
+      "market_name": "K860i",
+      "codename": "K860i",
+      "model": "Lenovo K860i"
     },
     {
       "market_name": "K900",
@@ -852,9 +1622,34 @@
       "model": "Lenovo K900_ROW"
     },
     {
-      "market_name": "LAVIE Tab E",
-      "codename": "X704F",
-      "model": "PC-TE510HAW"
+      "market_name": "K910",
+      "codename": "kiton",
+      "model": "Lenovo K910"
+    },
+    {
+      "market_name": "K910L",
+      "codename": "K910L",
+      "model": "Lenovo K910L"
+    },
+    {
+      "market_name": "K910e",
+      "codename": "kitone",
+      "model": "LNV-Lenovo K910e"
+    },
+    {
+      "market_name": "K910e",
+      "codename": "kitone",
+      "model": "Lenovo K910e"
+    },
+    {
+      "market_name": "K920/VIBE Z2",
+      "codename": "kingdom_row",
+      "model": "Lenovo K920"
+    },
+    {
+      "market_name": "K920/VIBE Z2 Pro",
+      "codename": "kingdomt",
+      "model": "Lenovo K920"
     },
     {
       "market_name": "LIFETAB E10310",
@@ -887,159 +1682,9 @@
       "model": "Lenovo PB1-770P"
     },
     {
-      "market_name": "Lenovo  TAB 2 A7-30HC",
-      "codename": "A7-30HC",
-      "model": "Lenovo 2 A7-30HC"
-    },
-    {
-      "market_name": "Lenovo  TAB 2 A7-30HC",
-      "codename": "A7-30HC",
-      "model": "Lenovo TAB 2 A7-30HC"
-    },
-    {
-      "market_name": "Lenovo  X2",
-      "codename": "X2-AP",
-      "model": "Lenovo X2-AP"
-    },
-    {
-      "market_name": "Lenovo A10-70LC",
-      "codename": "A10-70LC",
-      "model": "Lenovo TAB 2 A10-70LC"
-    },
-    {
-      "market_name": "Lenovo A1000",
-      "codename": "A1000",
-      "model": "Lenovo A1000"
-    },
-    {
-      "market_name": "Lenovo A1000m",
-      "codename": "scx35_sp7731gea_taichi",
-      "model": "Lenovo A1000m"
-    },
-    {
-      "market_name": "Lenovo A1010",
-      "codename": "A1010a20",
-      "model": "Lenovo A1010a20"
-    },
-    {
-      "market_name": "Lenovo A1900",
-      "codename": "A1900",
-      "model": "Lenovo A1900"
-    },
-    {
-      "market_name": "Lenovo A2010-a",
-      "codename": "A2010-a",
-      "model": "Lenovo A2010-a"
-    },
-    {
-      "market_name": "Lenovo A2010l36",
-      "codename": "A2010l36",
-      "model": "Lenovo A2010l36"
-    },
-    {
-      "market_name": "Lenovo A2016a40",
-      "codename": "A2016a40",
-      "model": "Lenovo A2016a40"
-    },
-    {
-      "market_name": "Lenovo A2016b30",
-      "codename": "A2016b30",
-      "model": "Lenovo A2016b30"
-    },
-    {
-      "market_name": "Lenovo A2016b31",
-      "codename": "A2016b31",
-      "model": "Lenovo A2016b31"
-    },
-    {
-      "market_name": "Lenovo A2020a40",
-      "codename": "angus3A4",
-      "model": "Lenovo A2020a40"
-    },
-    {
-      "market_name": "Lenovo A2020a40",
-      "codename": "angus3A41",
-      "model": "Lenovo A2020a40"
-    },
-    {
-      "market_name": "Lenovo A2105",
-      "codename": "Lenovo_A2105",
-      "model": "Lenovo_A2105"
-    },
-    {
-      "market_name": "Lenovo A228t",
-      "codename": "A228t",
-      "model": "Lenovo A228t"
-    },
-    {
-      "market_name": "Lenovo A238t",
-      "codename": "A238t",
-      "model": "Lenovo A238t"
-    },
-    {
-      "market_name": "Lenovo A2580",
-      "codename": "A2580",
-      "model": "Lenovo A2580"
-    },
-    {
-      "market_name": "Lenovo A2800",
-      "codename": "A2800-d",
-      "model": "Lenovo A2800-d"
-    },
-    {
-      "market_name": "Lenovo A2860",
-      "codename": "A2860",
-      "model": "Lenovo A2860"
-    },
-    {
-      "market_name": "Lenovo A300t",
-      "codename": "A300t",
-      "model": "Lenovo A300t"
-    },
-    {
-      "market_name": "Lenovo A316",
-      "codename": "A316",
-      "model": "Lenovo A316"
-    },
-    {
-      "market_name": "Lenovo A316i",
-      "codename": "A316i",
-      "model": "Lenovo A316i"
-    },
-    {
-      "market_name": "Lenovo A319",
-      "codename": "A319",
-      "model": "Lenovo A319"
-    },
-    {
-      "market_name": "Lenovo A31910t30",
-      "codename": "angus3T3",
-      "model": "Lenovo A3910t30"
-    },
-    {
-      "market_name": "Lenovo A320t",
-      "codename": "A320t",
-      "model": "Lenovo A320t"
-    },
-    {
-      "market_name": "Lenovo A328",
-      "codename": "A328",
-      "model": "Lenovo A328"
-    },
-    {
-      "market_name": "Lenovo A328t",
-      "codename": "A328t",
-      "model": "Lenovo A328t"
-    },
-    {
       "market_name": "Lenovo A3300",
       "codename": "A3300-GV",
       "model": "LenovoA3300-GV"
-    },
-    {
-      "market_name": "Lenovo A3300",
-      "codename": "A3300-H",
-      "model": "LenovoA3300-H"
     },
     {
       "market_name": "Lenovo A3300",
@@ -1047,679 +1692,29 @@
       "model": "LenovoA3300-HV"
     },
     {
-      "market_name": "Lenovo A3300",
-      "codename": "A3300-T",
-      "model": "Lenovo A3300-T"
+      "market_name": "Lenovo K8",
+      "codename": "brady_f",
+      "model": "Lenovo K"
     },
     {
-      "market_name": "Lenovo A3300-GV",
-      "codename": "A3300-GV",
-      "model": "LenovoA3300-GV"
+      "market_name": "Lenovo K8",
+      "codename": "brady_f",
+      "model": "Lenovo K8"
     },
     {
-      "market_name": "Lenovo A3300-HV",
-      "codename": "A3300-HV",
-      "model": "Lenovo A3300-HV"
+      "market_name": "Lenovo K8 Note",
+      "codename": "manning",
+      "model": "Lenovo K8 Note"
     },
     {
-      "market_name": "Lenovo A330e",
-      "codename": "A330e",
-      "model": "Lenovo A330e"
+      "market_name": "Lenovo K8 Note",
+      "codename": "manning",
+      "model": "XT1902-3"
     },
     {
-      "market_name": "Lenovo A338t",
-      "codename": "A338t",
-      "model": "Lenovo A338t"
-    },
-    {
-      "market_name": "Lenovo A3500",
-      "codename": "A3500",
-      "model": "Lenovo A3500"
-    },
-    {
-      "market_name": "Lenovo A3500",
-      "codename": "A3500HV",
-      "model": "Lenovo A3500-HV"
-    },
-    {
-      "market_name": "Lenovo A3500-F",
-      "codename": "A3500F",
-      "model": "EveryPad2"
-    },
-    {
-      "market_name": "Lenovo A3500-F",
-      "codename": "A3500F",
-      "model": "Lenovo A3500-F"
-    },
-    {
-      "market_name": "Lenovo A3500-FL",
-      "codename": "A3500FL",
-      "model": "Lenovo A3500-FL"
-    },
-    {
-      "market_name": "Lenovo A3500-H",
-      "codename": "A3500H",
-      "model": "Lenovo A3500-H"
-    },
-    {
-      "market_name": "Lenovo A355e",
-      "codename": "A355e",
-      "model": "Lenovo A355e"
-    },
-    {
-      "market_name": "Lenovo A358t",
-      "codename": "A358t",
-      "model": "Lenovo A358t"
-    },
-    {
-      "market_name": "Lenovo A3600-D",
-      "codename": "A3600-d",
-      "model": "Lenovo A3600-d"
-    },
-    {
-      "market_name": "Lenovo A3600u",
-      "codename": "A3600u",
-      "model": "Lenovo A3600u"
-    },
-    {
-      "market_name": "Lenovo A360e",
-      "codename": "A360e",
-      "model": "Lenovo A360e"
-    },
-    {
-      "market_name": "Lenovo A360t",
-      "codename": "A360t",
-      "model": "Lenovo A360t"
-    },
-    {
-      "market_name": "Lenovo A368t",
-      "codename": "A368t",
-      "model": "Lenovo A368t"
-    },
-    {
-      "market_name": "Lenovo A3800-D",
-      "codename": "A3800-d",
-      "model": "Lenovo A3800-d"
-    },
-    {
-      "market_name": "Lenovo A380e",
-      "codename": "A380e",
-      "model": "LNV-Lenovo A380e"
-    },
-    {
-      "market_name": "Lenovo A380t",
-      "codename": "A380t",
-      "model": "Lenovo A380t"
-    },
-    {
-      "market_name": "Lenovo A385e",
-      "codename": "A385e",
-      "model": "LNV-Lenovo A385e"
-    },
-    {
-      "market_name": "Lenovo A3860",
-      "codename": "A3580",
-      "model": "Lenovo A3580"
-    },
-    {
-      "market_name": "Lenovo A3860",
-      "codename": "A3860",
-      "model": "Lenovo A3860"
-    },
-    {
-      "market_name": "Lenovo A388t",
-      "codename": "A388t",
-      "model": "Lenovo A388t"
-    },
-    {
-      "market_name": "Lenovo A390",
-      "codename": "A390",
-      "model": "Lenovo A390"
-    },
-    {
-      "market_name": "Lenovo A3900",
-      "codename": "pxa1L88H2",
-      "model": "Lenovo A3900"
-    },
-    {
-      "market_name": "Lenovo A395e",
-      "codename": "A395e",
-      "model": "LNV-Lenovo A395e"
-    },
-    {
-      "market_name": "Lenovo A396",
-      "codename": "A396",
-      "model": "Lenovo A396"
-    },
-    {
-      "market_name": "Lenovo A396",
-      "codename": "A396_TY",
-      "model": "Lenovo A396_TY"
-    },
-    {
-      "market_name": "Lenovo A398t+",
-      "codename": "A398tp",
-      "model": "Lenovo A398t+"
-    },
-    {
-      "market_name": "Lenovo A399",
-      "codename": "Aiken",
-      "model": "Lenovo A399"
-    },
-    {
-      "market_name": "Lenovo A5000",
-      "codename": "A5000",
-      "model": "Lenovo A5000"
-    },
-    {
-      "market_name": "Lenovo A505e",
-      "codename": "A505e",
-      "model": "LNV-Lenovo A505e"
-    },
-    {
-      "market_name": "Lenovo A516",
-      "codename": "A516_ROW",
-      "model": "Lenovo A516"
-    },
-    {
-      "market_name": "Lenovo A526",
-      "codename": "A526",
-      "model": "Lenovo A526"
-    },
-    {
-      "market_name": "Lenovo A529",
-      "codename": "A529",
-      "model": "Lenovo A529"
-    },
-    {
-      "market_name": "Lenovo A536",
-      "codename": "A536",
-      "model": "Lenovo A536"
-    },
-    {
-      "market_name": "Lenovo A5500",
-      "codename": "A5500",
-      "model": "Lenovo A5500"
-    },
-    {
-      "market_name": "Lenovo A5500-F",
-      "codename": "A5500-F",
-      "model": "Lenovo A5500-F"
-    },
-    {
-      "market_name": "Lenovo A5500-H",
-      "codename": "A5500-H",
-      "model": "Lenovo A5500-H"
-    },
-    {
-      "market_name": "Lenovo A5500-HV",
-      "codename": "A5500-HV",
-      "model": "Lenovo A5500-HV"
-    },
-    {
-      "market_name": "Lenovo A560",
-      "codename": "A560_msm8212",
-      "model": "Lenovo A560"
-    },
-    {
-      "market_name": "Lenovo A560",
-      "codename": "A560_msm8610",
-      "model": "LNV-Lenovo A560"
-    },
-    {
-      "market_name": "Lenovo A5800-D",
-      "codename": "A5800-D",
-      "model": "Lenovo A5800-D"
-    },
-    {
-      "market_name": "Lenovo A588t",
-      "codename": "LenovoA588t",
-      "model": "LenovoA588t"
-    },
-    {
-      "market_name": "Lenovo A6000",
-      "codename": "Kraft-A6000",
-      "model": "Lenovo A6000"
-    },
-    {
-      "market_name": "Lenovo A6000-l",
-      "codename": "Kraft-A6000-l",
-      "model": "Lenovo A6000-l"
-    },
-    {
-      "market_name": "Lenovo A6010",
-      "codename": "A6010",
-      "model": "Lenovo A6010"
-    },
-    {
-      "market_name": "Lenovo A606",
-      "codename": "A606",
-      "model": "Lenovo A606"
-    },
-    {
-      "market_name": "Lenovo A616",
-      "codename": "A616",
-      "model": "Lenovo A616"
-    },
-    {
-      "market_name": "Lenovo A628t",
-      "codename": "A628t",
-      "model": "Lenovo A628t"
-    },
-    {
-      "market_name": "Lenovo A6600",
-      "codename": "A6600d40",
-      "model": "Lenovo A6600d40"
-    },
-    {
-      "market_name": "Lenovo A6600 Plus",
-      "codename": "A6600a40",
-      "model": "Lenovo A6600a40"
-    },
-    {
-      "market_name": "Lenovo A680",
-      "codename": "A680",
-      "model": "Lenovo A680"
-    },
-    {
-      "market_name": "Lenovo A680",
-      "codename": "A680",
-      "model": "Lenovo A680_ROW"
-    },
-    {
-      "market_name": "Lenovo A6800",
-      "codename": "A6800",
-      "model": "Lenovo A6800"
-    },
-    {
-      "market_name": "Lenovo A688t",
-      "codename": "A688t",
-      "model": "Lenovo A688t"
-    },
-    {
-      "market_name": "Lenovo A690e",
-      "codename": "A690e",
-      "model": "LNV-Lenovo A690e"
-    },
-    {
-      "market_name": "Lenovo A7-30GC",
-      "codename": "A7-30GC",
-      "model": "Lenovo TAB 2 A7-30GC"
-    },
-    {
-      "market_name": "Lenovo A7-30H",
-      "codename": "A7-30H",
-      "model": "Lenovo TAB 2 A7-30D"
-    },
-    {
-      "market_name": "Lenovo A7-30H",
-      "codename": "A7-30H",
-      "model": "Lenovo TAB 2 A7-30H"
-    },
-    {
-      "market_name": "Lenovo A7-60HC",
-      "codename": "A760HC",
-      "model": "Lenovo A7-60HC"
-    },
-    {
-      "market_name": "Lenovo A7000",
-      "codename": "A7000-a",
-      "model": "Lenovo A7000-a"
-    },
-    {
-      "market_name": "Lenovo A7000 Plus",
-      "codename": "A7000plus",
-      "model": "Lenovo A7000-a"
-    },
-    {
-      "market_name": "Lenovo A7600",
-      "codename": "A7600",
-      "model": "Lenovo A7600"
-    },
-    {
-      "market_name": "Lenovo A7600",
-      "codename": "aiocmcc_ttp",
-      "model": "Lenovo A7600-m"
-    },
-    {
-      "market_name": "Lenovo A7600",
-      "codename": "aiocu_wtfp",
-      "model": "Lenovo A7600"
-    },
-    {
-      "market_name": "Lenovo A7600-F",
-      "codename": "A7600-F",
-      "model": "Lenovo A7600-F"
-    },
-    {
-      "market_name": "Lenovo A7600-H",
-      "codename": "A7600-H",
-      "model": "Lenovo A7600-H"
-    },
-    {
-      "market_name": "Lenovo A7600-HV",
-      "codename": "A7600-HV",
-      "model": "Lenovo A7600-HV"
-    },
-    {
-      "market_name": "Lenovo A768t",
-      "codename": "airplayt",
-      "model": "Lenovo A768t"
-    },
-    {
-      "market_name": "Lenovo A7700",
-      "codename": "A7700",
-      "model": "A7700"
-    },
-    {
-      "market_name": "Lenovo A7700",
-      "codename": "A7700",
-      "model": "Lenovo A7700"
-    },
-    {
-      "market_name": "Lenovo A780e",
-      "codename": "A780e",
-      "model": "LNV-Lenovo A780e"
-    },
-    {
-      "market_name": "Lenovo A785e",
-      "codename": "A785e",
-      "model": "LNV-Lenovo A785e"
-    },
-    {
-      "market_name": "Lenovo A788t",
-      "codename": "A788t",
-      "model": "Lenovo A788t"
-    },
-    {
-      "market_name": "Lenovo A8-50",
-      "codename": "A8-50L",
-      "model": "Lenovo TAB 2 A8-50L"
-    },
-    {
-      "market_name": "Lenovo A8-50",
-      "codename": "A8-50LC",
-      "model": "Lenovo 2 A8-50LC"
-    },
-    {
-      "market_name": "Lenovo A8-50",
-      "codename": "A8-50LC",
-      "model": "Lenovo TAB 2 A8-50LC"
-    },
-    {
-      "market_name": "Lenovo A805e",
-      "codename": "airplayep",
-      "model": "Lenovo A805e"
-    },
-    {
-      "market_name": "Lenovo A806",
-      "codename": "A806",
-      "model": "Lenovo A806"
-    },
-    {
-      "market_name": "Lenovo A808t",
-      "codename": "A808t",
-      "model": "Lenovo A808t"
-    },
-    {
-      "market_name": "Lenovo A808t-i",
-      "codename": "A808t-i",
-      "model": "Lenovo A808t-i"
-    },
-    {
-      "market_name": "Lenovo A816",
-      "codename": "airplayw",
-      "model": "Lenovo A5100"
-    },
-    {
-      "market_name": "Lenovo A816",
-      "codename": "airplayw",
-      "model": "Lenovo A816"
-    },
-    {
-      "market_name": "Lenovo A820t",
-      "codename": "A820t",
-      "model": "Lenovo A820t"
-    },
-    {
-      "market_name": "Lenovo A828",
-      "codename": "A858",
-      "model": "Lenovo A858"
-    },
-    {
-      "market_name": "Lenovo A828t",
-      "codename": "A828t",
-      "model": "Lenovo A828t"
-    },
-    {
-      "market_name": "Lenovo A850",
-      "codename": "A850",
-      "model": "Lenovo A850"
-    },
-    {
-      "market_name": "Lenovo A850+",
-      "codename": "A850p",
-      "model": "Lenovo A850+"
-    },
-    {
-      "market_name": "Lenovo A858t",
-      "codename": "A858t",
-      "model": "Lenovo A858t"
-    },
-    {
-      "market_name": "Lenovo A859",
-      "codename": "A859_ROW",
-      "model": "Lenovo A859"
-    },
-    {
-      "market_name": "Lenovo A889",
-      "codename": "A889",
-      "model": "Lenovo A889"
-    },
-    {
-      "market_name": "Lenovo A890e",
-      "codename": "airbuse",
-      "model": "Lenovo A890e"
-    },
-    {
-      "market_name": "Lenovo A916",
-      "codename": "A916",
-      "model": "Lenovo A916"
-    },
-    {
-      "market_name": "Lenovo A936",
-      "codename": "A936",
-      "model": "Lenovo A936"
-    },
-    {
-      "market_name": "Lenovo A938t",
-      "codename": "A938t",
-      "model": "Lenovo A938t"
-    },
-    {
-      "market_name": "Lenovo B8080",
-      "codename": "B8080",
-      "model": "Lenovo B8080-F"
-    },
-    {
-      "market_name": "Lenovo B8080-H",
-      "codename": "B8080",
-      "model": "Lenovo B8080-H"
-    },
-    {
-      "market_name": "Lenovo B8080-HV",
-      "codename": "B8080",
-      "model": "Lenovo B8080-HV"
-    },
-    {
-      "market_name": "Lenovo K10e70",
-      "codename": "K10e70",
-      "model": "Lenovo K10e70"
-    },
-    {
-      "market_name": "Lenovo K3 Note",
-      "codename": "K50a40",
-      "model": "Lenovo K50a40"
-    },
-    {
-      "market_name": "Lenovo K3 Note",
-      "codename": "aio_3m_otfp_m",
-      "model": "Lenovo K50-t3s"
-    },
-    {
-      "market_name": "Lenovo K3 Note",
-      "codename": "aio_otfp",
-      "model": "Lenovo K50-T5"
-    },
-    {
-      "market_name": "Lenovo K3 Note",
-      "codename": "aio_otfp",
-      "model": "Lenovo K50-t5"
-    },
-    {
-      "market_name": "Lenovo K30-E",
-      "codename": "Kraft-E",
-      "model": "Lenovo K30-E"
-    },
-    {
-      "market_name": "Lenovo K30-T",
-      "codename": "Kraft-T",
-      "model": "Lenovo K30-T"
-    },
-    {
-      "market_name": "Lenovo K30-TM",
-      "codename": "Kraft-TM",
-      "model": "Lenovo K30-TM"
-    },
-    {
-      "market_name": "Lenovo K30-W",
-      "codename": "Kraft-W",
-      "model": "Lenovo K30-W"
-    },
-    {
-      "market_name": "Lenovo K32",
-      "codename": "K32c36",
-      "model": "Lenovo K32c36"
-    },
-    {
-      "market_name": "Lenovo K32c30",
-      "codename": "K32c30",
-      "model": "Lenovo K32c30"
-    },
-    {
-      "market_name": "Lenovo K5",
-      "codename": "A6020a40",
-      "model": "Lenovo A6020a40"
-    },
-    {
-      "market_name": "Lenovo K5",
-      "codename": "A6020a41",
-      "model": "Lenovo A6020a41"
-    },
-    {
-      "market_name": "Lenovo K5",
-      "codename": "A6020l36",
-      "model": "Lenovo A6020l36"
-    },
-    {
-      "market_name": "Lenovo K5",
-      "codename": "A6020l37",
-      "model": "Lenovo A6020l37"
-    },
-    {
-      "market_name": "Lenovo K5 Note",
-      "codename": "A7020a40",
-      "model": "Lenovo A7020a40"
-    },
-    {
-      "market_name": "Lenovo K5 Note",
-      "codename": "A7020a48",
-      "model": "Lenovo A7020a48"
-    },
-    {
-      "market_name": "Lenovo K5 Note",
-      "codename": "k52_e78",
-      "model": "Lenovo K52e78"
-    },
-    {
-      "market_name": "Lenovo K5 Note",
-      "codename": "k52_t58",
-      "model": "Lenovo K52t58"
-    },
-    {
-      "market_name": "Lenovo K5 Plus",
-      "codename": "A6020a46",
-      "model": "Lenovo A6020a46"
-    },
-    {
-      "market_name": "Lenovo K50",
-      "codename": "K50-t5",
-      "model": "Lenovo K50-t5"
-    },
-    {
-      "market_name": "Lenovo K50",
-      "codename": "aio_3m_otfp",
-      "model": "Lenovo K50-t3s"
-    },
-    {
-      "market_name": "Lenovo K50-T5",
-      "codename": "aio_otfp_m",
-      "model": "Lenovo K50-t5"
-    },
-    {
-      "market_name": "Lenovo K52t38",
-      "codename": "k52_t38",
-      "model": "Lenovo K52t38"
-    },
-    {
-      "market_name": "Lenovo K52t38",
-      "codename": "k52_t38",
-      "model": "Lenovo k52t38"
-    },
-    {
-      "market_name": "Lenovo K80M",
-      "codename": "K80M",
-      "model": "Lenovo K80M"
-    },
-    {
-      "market_name": "Lenovo K860",
-      "codename": "stuttgart",
-      "model": "Lenovo K860"
-    },
-    {
-      "market_name": "Lenovo K860i",
-      "codename": "K860i",
-      "model": "Lenovo K860i"
-    },
-    {
-      "market_name": "Lenovo K910",
-      "codename": "kiton",
-      "model": "Lenovo K910"
-    },
-    {
-      "market_name": "Lenovo K910L",
-      "codename": "K910L",
-      "model": "Lenovo K910L"
-    },
-    {
-      "market_name": "Lenovo K910e",
-      "codename": "kitone",
-      "model": "LNV-Lenovo K910e"
-    },
-    {
-      "market_name": "Lenovo K910e",
-      "codename": "kitone",
-      "model": "Lenovo K910e"
-    },
-    {
-      "market_name": "Lenovo K920/VIBE Z2",
-      "codename": "kingdom_row",
-      "model": "Lenovo K920"
-    },
-    {
-      "market_name": "Lenovo K920/VIBE Z2 Pro",
-      "codename": "kingdomt",
-      "model": "Lenovo K920"
+      "market_name": "Lenovo N Series Chromebook",
+      "codename": "reks_cheets",
+      "model": "Braswell Chrome OS Device"
     },
     {
       "market_name": "Lenovo N300",
@@ -1727,639 +1722,44 @@
       "model": "Lenovo N300"
     },
     {
-      "market_name": "Lenovo N308",
-      "codename": "SmartAIO",
-      "model": "Lenovo N308"
-    },
-    {
-      "market_name": "Lenovo P1",
-      "codename": "P1a42",
-      "model": "Lenovo P1a41"
-    },
-    {
-      "market_name": "Lenovo P1",
-      "codename": "P1a42",
-      "model": "Lenovo P1a42"
-    },
-    {
-      "market_name": "Lenovo P1",
-      "codename": "passion",
-      "model": "Lenovo P1c72"
-    },
-    {
-      "market_name": "Lenovo P1",
-      "codename": "passionc5",
-      "model": "Lenovo P1c58"
-    },
-    {
-      "market_name": "Lenovo P2",
-      "codename": "P2a42",
-      "model": "Lenovo P2a42"
-    },
-    {
-      "market_name": "Lenovo P2",
-      "codename": "kuntao",
-      "model": "Lenovo P2c72"
-    },
-    {
-      "market_name": "Lenovo P70",
-      "codename": "P70-A",
-      "model": "Lenovo P70-A"
-    },
-    {
-      "market_name": "Lenovo P70",
-      "codename": "P70-t",
-      "model": "Lenovo P70-t"
-    },
-    {
-      "market_name": "Lenovo P780",
-      "codename": "P780",
-      "model": "Lenovo P780"
-    },
-    {
-      "market_name": "Lenovo P90",
-      "codename": "P90",
-      "model": "Lenovo P90"
-    },
-    {
-      "market_name": "Lenovo PB1-750M/Lenovo PHAB",
-      "codename": "PB1-750M",
-      "model": "Lenovo PB1-750M"
-    },
-    {
-      "market_name": "Lenovo PB1-770M/Lenovo PHAB Plus",
-      "codename": "PB1-770M",
-      "model": "EveryPad3"
-    },
-    {
-      "market_name": "Lenovo PB1-770M/Lenovo PHAB Plus",
-      "codename": "PB1-770M",
-      "model": "Lenovo PB1-770M"
-    },
-    {
-      "market_name": "Lenovo PB1-770N",
-      "codename": "PB1-770N",
-      "model": "Lenovo PB1-770N"
-    },
-    {
-      "market_name": "Lenovo PB2",
-      "codename": "PB2",
-      "model": "Lenovo PB2-650M"
-    },
-    {
-      "market_name": "Lenovo PB2 plus",
-      "codename": "PB2-670M",
-      "model": "Lenovo PB2-670M"
-    },
-    {
-      "market_name": "Lenovo PB2-650Y",
-      "codename": "PB2",
-      "model": "Lenovo PB2-650Y"
-    },
-    {
-      "market_name": "Lenovo PHAB 2",
-      "codename": "PB2",
-      "model": "Lenovo PB2-650N"
-    },
-    {
-      "market_name": "Lenovo PHAB 2 Plus",
-      "codename": "PB2-670N",
-      "model": "Lenovo PB2-670N"
-    },
-    {
-      "market_name": "Lenovo PHAB 2 Plus",
-      "codename": "PB2-670Y",
-      "model": "Lenovo PB2-670Y"
-    },
-    {
-      "market_name": "Lenovo PHAB2 Pro",
-      "codename": "PB2PRO",
-      "model": "Lenovo PB2-690M"
-    },
-    {
-      "market_name": "Lenovo PHAB2 Pro",
-      "codename": "PB2PRO",
-      "model": "Lenovo PB2-690N"
-    },
-    {
-      "market_name": "Lenovo PHAB2 Pro",
-      "codename": "PB2PRO",
-      "model": "Lenovo PB2-690Y"
-    },
-    {
-      "market_name": "Lenovo S1",
-      "codename": "S1a40",
-      "model": "Lenovo S1a40"
-    },
-    {
-      "market_name": "Lenovo S1La40",
-      "codename": "S1La40",
-      "model": "Lenovo S1La40"
-    },
-    {
-      "market_name": "Lenovo S580",
-      "codename": "S580",
-      "model": "Lenovo S580"
-    },
-    {
-      "market_name": "Lenovo S60",
-      "codename": "sisleylr",
-      "model": "Lenovo S60-a"
-    },
-    {
-      "market_name": "Lenovo S60",
-      "codename": "sisleylt",
-      "model": "Lenovo S60-t"
-    },
-    {
-      "market_name": "Lenovo S60",
-      "codename": "sisleylw",
-      "model": "Lenovo S60-w"
-    },
-    {
-      "market_name": "Lenovo S650",
-      "codename": "S650",
-      "model": "Lenovo S650"
-    },
-    {
-      "market_name": "Lenovo S650_ROW",
-      "codename": "S650_ROW",
-      "model": "Lenovo S650"
-    },
-    {
-      "market_name": "Lenovo S658t",
-      "codename": "S658t",
-      "model": "Lenovo S658t"
-    },
-    {
-      "market_name": "Lenovo S660",
-      "codename": "S660",
-      "model": "Lenovo S660"
-    },
-    {
-      "market_name": "Lenovo S668t",
-      "codename": "S668t",
-      "model": "Lenovo S668t"
-    },
-    {
-      "market_name": "Lenovo S810t",
-      "codename": "shellt",
-      "model": "Lenovo S810t"
-    },
-    {
       "market_name": "Lenovo S820",
       "codename": "S820",
       "model": "Lenovo S820"
     },
     {
-      "market_name": "Lenovo S820",
-      "codename": "S820_AMX_ROW",
-      "model": "Lenovo S820"
+      "market_name": "Lenovo TAB 7",
+      "codename": "TB-7504F",
+      "model": "Lenovo TB-7504F"
     },
     {
-      "market_name": "Lenovo S850",
-      "codename": "S850",
-      "model": "Lenovo S850"
+      "market_name": "Lenovo TAB 7",
+      "codename": "TB-7504N",
+      "model": "Lenovo TB-7504N"
     },
     {
-      "market_name": "Lenovo S850t",
-      "codename": "S850t",
-      "model": "Lenovo S850t"
+      "market_name": "Lenovo TAB 7",
+      "codename": "TB-7504X",
+      "model": "Lenovo TB-7504X"
     },
     {
-      "market_name": "Lenovo S856",
-      "codename": "shellamx",
-      "model": "Lenovo S856"
+      "market_name": "Lenovo Tab 7 Essential",
+      "codename": "7304I",
+      "model": "Lenovo TB-7304I"
     },
     {
-      "market_name": "Lenovo S856",
-      "codename": "shellr",
-      "model": "Lenovo S856"
+      "market_name": "Lenovo Tab 7 Essential",
+      "codename": "TB-7304I",
+      "model": "Lenovo TB-7304I"
     },
     {
-      "market_name": "Lenovo S856",
-      "codename": "shellr_s",
-      "model": "Lenovo S856"
+      "market_name": "Lenovo Tab 7 Essential",
+      "codename": "TB-7304N",
+      "model": "Lenovo TB-7304N"
     },
     {
-      "market_name": "Lenovo S856",
-      "codename": "shellw",
-      "model": "Lenovo S856"
-    },
-    {
-      "market_name": "Lenovo S858t",
-      "codename": "Selected",
-      "model": "Lenovo S858t"
-    },
-    {
-      "market_name": "Lenovo S860",
-      "codename": "S860",
-      "model": "Lenovo S860"
-    },
-    {
-      "market_name": "Lenovo S860e",
-      "codename": "shelle",
-      "model": "Lenovo S860e"
-    },
-    {
-      "market_name": "Lenovo S898t+",
-      "codename": "S898tp",
-      "model": "Lenovo S898t+"
-    },
-    {
-      "market_name": "Lenovo S90",
-      "codename": "sisleye",
-      "model": "Lenovo S90-e"
-    },
-    {
-      "market_name": "Lenovo S90-A",
-      "codename": "sisleyr",
-      "model": "Lenovo S90-A"
-    },
-    {
-      "market_name": "Lenovo S90-T",
-      "codename": "sisleyt",
-      "model": "Lenovo S90-t"
-    },
-    {
-      "market_name": "Lenovo S90-U",
-      "codename": "sisleyw",
-      "model": "Lenovo S90-u"
-    },
-    {
-      "market_name": "Lenovo S920",
-      "codename": "S920",
-      "model": "Lenovo S920"
-    },
-    {
-      "market_name": "Lenovo S930",
-      "codename": "S930",
-      "model": "Lenovo S930"
-    },
-    {
-      "market_name": "Lenovo S930_ROW",
-      "codename": "S930_ROW",
-      "model": "Lenovo S930"
-    },
-    {
-      "market_name": "Lenovo S938t",
-      "codename": "S938t",
-      "model": "Lenovo S938t"
-    },
-    {
-      "market_name": "Lenovo S939",
-      "codename": "S939",
-      "model": "Lenovo S939"
-    },
-    {
-      "market_name": "Lenovo S960",
-      "codename": "S960",
-      "model": "Lenovo S960"
-    },
-    {
-      "market_name": "Lenovo S960",
-      "codename": "S960_AMX_ROW",
-      "model": "Lenovo S960"
-    },
-    {
-      "market_name": "Lenovo S968t",
-      "codename": "S968t",
-      "model": "Lenovo S968t"
-    },
-    {
-      "market_name": "Lenovo TAB 10",
-      "codename": "TB-X103F",
-      "model": "Lenovo TB-X103F"
-    },
-    {
-      "market_name": "Lenovo TAB 2 A10",
-      "codename": "A10-70F",
-      "model": "Lenovo TAB 2 A10-70F"
-    },
-    {
-      "market_name": "Lenovo TAB 2 A10",
-      "codename": "A10-70L",
-      "model": "Lenovo TAB 2 A10-70L"
-    },
-    {
-      "market_name": "Lenovo TAB 2 A10",
-      "codename": "A10-70LC",
-      "model": "Lenovo TAB 2 A10-70LC"
-    },
-    {
-      "market_name": "Lenovo TAB 2 A7-10F",
-      "codename": "Tab2A7-10F",
-      "model": "Tab2A7-10F"
-    },
-    {
-      "market_name": "Lenovo TAB 2 A7-20F",
-      "codename": "Tab2A7-20F",
-      "model": "Tab2A7-20F"
-    },
-    {
-      "market_name": "Lenovo TAB 2 A7-30F",
-      "codename": "A7-30F",
-      "model": "Lenovo TAB 2 A7-30F"
-    },
-    {
-      "market_name": "Lenovo TAB 2 A7-30HC",
-      "codename": "A7-30HC",
-      "model": "Lenovo 2 A7-30HC"
-    },
-    {
-      "market_name": "Lenovo TAB 2 A7-30HC",
-      "codename": "A7-30HC",
-      "model": "Lenovo TAB 2 A7-30HC"
-    },
-    {
-      "market_name": "Lenovo TAB 2 A7-30TC",
-      "codename": "A7-30TC",
-      "model": "Lenovo 2 A7-30TC"
-    },
-    {
-      "market_name": "Lenovo TAB 2 A8-50F",
-      "codename": "A8-50F",
-      "model": "Lenovo 2 A8-50F"
-    },
-    {
-      "market_name": "Lenovo TAB 2 A8-50F",
-      "codename": "A8-50F",
-      "model": "Lenovo TAB 2 A8-50F"
-    },
-    {
-      "market_name": "Lenovo TAB 3 850F",
-      "codename": "TB3-850F",
-      "model": "Lenovo TB3-850F"
-    },
-    {
-      "market_name": "Lenovo TAB 3 850M",
-      "codename": "TB3-850M",
-      "model": "Lenovo TB3-850M"
-    },
-    {
-      "market_name": "Lenovo TAB A10-80HC",
-      "codename": "A10_80HC",
-      "model": "TAB A10-80HC"
-    },
-    {
-      "market_name": "Lenovo TAB S8-50F",
-      "codename": "S8-50F",
-      "model": "Lenovo TAB S8-50F"
-    },
-    {
-      "market_name": "Lenovo TAB S8-50L",
-      "codename": "S8-50L",
-      "model": "Lenovo TAB S8-50L"
-    },
-    {
-      "market_name": "Lenovo TAB S8-50LC",
-      "codename": "S8-50LC",
-      "model": "Lenovo S8-50LC"
-    },
-    {
-      "market_name": "Lenovo TAB S8-50LC",
-      "codename": "S8-50LC",
-      "model": "Lenovo TAB S8-50LC"
-    },
-    {
-      "market_name": "Lenovo TAB3 7 Plus",
-      "codename": "TB-7703F",
-      "model": "Lenovo TB-7703F"
-    },
-    {
-      "market_name": "Lenovo TAB3 7 Plus",
-      "codename": "TB-7703N",
-      "model": "Lenovo TB-7703N"
-    },
-    {
-      "market_name": "Lenovo TAB3 7 Plus",
-      "codename": "TB-7703X",
-      "model": "Lenovo TB-7703X"
-    },
-    {
-      "market_name": "Lenovo TAB3 730F",
-      "codename": "TB3-730F",
-      "model": "Lenovo TB3-730F"
-    },
-    {
-      "market_name": "Lenovo TAB3 730M",
-      "codename": "TB3-730M",
-      "model": "Lenovo TB3-730M"
-    },
-    {
-      "market_name": "Lenovo TAB3 730X",
-      "codename": "TB3-730X",
-      "model": "Lenovo TB3-730X"
-    },
-    {
-      "market_name": "Lenovo TAB3 8 Plus",
-      "codename": "TB-8703R",
-      "model": "Lenovo TB-8703R"
-    },
-    {
-      "market_name": "Lenovo TAB3 X70L",
-      "codename": "TB3-X70L",
-      "model": "Lenovo TB3-X70L"
-    },
-    {
-      "market_name": "Lenovo TAB3 X70N",
-      "codename": "TB3-X70N",
-      "model": "Lenovo TB3-X70N"
-    },
-    {
-      "market_name": "Lenovo TAB4 10",
-      "codename": "X304L",
-      "model": "Lenovo TB-X304L"
-    },
-    {
-      "market_name": "Lenovo TAB4 10",
-      "codename": "X304N",
-      "model": "Lenovo TB-X304N"
-    },
-    {
-      "market_name": "Lenovo TAB4 10 Plus",
-      "codename": "X704L",
-      "model": "Lenovo TB-X704L"
-    },
-    {
-      "market_name": "Lenovo TAB4 10 Plus",
-      "codename": "X704N",
-      "model": "Lenovo TB-X704N"
-    },
-    {
-      "market_name": "Lenovo TAB4 10 Plus",
-      "codename": "X704V",
-      "model": "TB-X704V"
-    },
-    {
-      "market_name": "Lenovo TAB4 10 Plus",
-      "codename": "X704Y",
-      "model": "Lenovo TB-X704Y"
-    },
-    {
-      "market_name": "Lenovo TAB4 8",
-      "codename": "TB-8504F",
-      "model": "Lenovo TB-8504F"
-    },
-    {
-      "market_name": "Lenovo TAB4 8",
-      "codename": "TB-8504N",
-      "model": "Lenovo TB-8504N"
-    },
-    {
-      "market_name": "Lenovo TAB4 8",
-      "codename": "TB-8504X",
-      "model": "Lenovo TB-8504X"
-    },
-    {
-      "market_name": "Lenovo TB2-X30F",
-      "codename": "TB2-X30F",
-      "model": "Lenovo TB2-X30F"
-    },
-    {
-      "market_name": "Lenovo TB2-X30F",
-      "codename": "TB2-X30F",
-      "model": "Lenovo TB2-X30F_HFT"
-    },
-    {
-      "market_name": "Lenovo TB2-X30F",
-      "codename": "TB2-X30F",
-      "model": "Lenovo TB2-X30F_JLC"
-    },
-    {
-      "market_name": "Lenovo TB2-X30F",
-      "codename": "TB2-X30F",
-      "model": "Lenovo TB2-X30F_SCP"
-    },
-    {
-      "market_name": "Lenovo TB2-X30F",
-      "codename": "TB2-X30F",
-      "model": "Lenovo TB2-X30F_UK"
-    },
-    {
-      "market_name": "Lenovo TB2-X30F",
-      "codename": "TB2-X30F",
-      "model": "Lenovo TB2-X30F_YZA"
-    },
-    {
-      "market_name": "Lenovo TB2-X30L",
-      "codename": "TB2-X30L",
-      "model": "Lenovo TB2-X30L"
-    },
-    {
-      "market_name": "Lenovo TB2-X30M",
-      "codename": "TB2-X30M",
-      "model": "Lenovo TB2-X30M"
-    },
-    {
-      "market_name": "Lenovo TB2-X30M",
-      "codename": "TB2-X30M",
-      "model": "Lenovo TB2-X30M_PRC_YZ_A"
-    },
-    {
-      "market_name": "Lenovo TB3 8 Plus",
-      "codename": "TB-8703F",
-      "model": "Lenovo TB-8703F"
-    },
-    {
-      "market_name": "Lenovo TB3 8 Plus",
-      "codename": "TB-8703N",
-      "model": "Lenovo TB-8703N"
-    },
-    {
-      "market_name": "Lenovo TB3 8 Plus",
-      "codename": "TB-8703X",
-      "model": "Lenovo TB-8703X"
-    },
-    {
-      "market_name": "Lenovo TB3-601LV",
-      "codename": "601LV",
-      "model": "601LV"
-    },
-    {
-      "market_name": "Lenovo TB3-602LV",
-      "codename": "602LV",
-      "model": "602LV"
-    },
-    {
-      "market_name": "Lenovo TB3-710F",
-      "codename": "TB3-710F",
-      "model": "Lenovo TB3-710F"
-    },
-    {
-      "market_name": "Lenovo TB3-710I",
-      "codename": "TB3-710I",
-      "model": "Lenovo TB3-710I"
-    },
-    {
-      "market_name": "Lenovo TB3-X70F",
-      "codename": "TB3-X70F",
-      "model": "Lenovo TB3-X70F"
-    },
-    {
-      "market_name": "Lenovo VIBE K10",
-      "codename": "K10a40",
-      "model": "Lenovo K10a40"
-    },
-    {
-      "market_name": "Lenovo VIBE K6",
-      "codename": "K33a48",
-      "model": "Lenovo K33a48"
-    },
-    {
-      "market_name": "Lenovo VIBE K6",
-      "codename": "K33b36",
-      "model": "Lenovo K33b36"
-    },
-    {
-      "market_name": "Lenovo VIBE K6",
-      "codename": "K33b37",
-      "model": "Lenovo K33b37"
-    },
-    {
-      "market_name": "Lenovo VIBE K6 Note",
-      "codename": "K53b36",
-      "model": "Lenovo K53b36"
-    },
-    {
-      "market_name": "Lenovo VIBE K6 Note",
-      "codename": "K53b37",
-      "model": "Lenovo K53b37"
-    },
-    {
-      "market_name": "Lenovo VIBE K6 Power",
-      "codename": "K33a42",
-      "model": "Lenovo K33a42"
-    },
-    {
-      "market_name": "Lenovo VIBE X3 Lite",
-      "codename": "A7010a48",
-      "model": "Lenovo A7010a48"
-    },
-    {
-      "market_name": "Lenovo VIBE X3 Lite",
-      "codename": "k5fp",
-      "model": "Lenovo K51c78"
-    },
-    {
-      "market_name": "Lenovo VIBE X3 Lite",
-      "codename": "k5fp_m",
-      "model": "Lenovo K51c78"
-    },
-    {
-      "market_name": "Lenovo X2",
-      "codename": "X2-EU",
-      "model": "Lenovo X2-EU"
-    },
-    {
-      "market_name": "Lenovo X2 Pro",
-      "codename": "s7",
-      "model": "Lenovo X2Pt5"
-    },
-    {
-      "market_name": "Lenovo X2 Pro",
-      "codename": "s7",
-      "model": "VIBE X2Pt5"
+      "market_name": "Lenovo Tab 7 Essential",
+      "codename": "TB-7304X",
+      "model": "Lenovo TB-7304X"
     },
     {
       "market_name": "Lenovo X2-CU/VIBE X2",
@@ -2367,209 +1767,9 @@
       "model": "Lenovo X2-CU"
     },
     {
-      "market_name": "Lenovo X2-TO/VIBE X2",
-      "codename": "X2-TO",
-      "model": "Lenovo X2-TO"
-    },
-    {
-      "market_name": "Lenovo X2-TR/VIBE X2",
-      "codename": "X2-TR",
-      "model": "Lenovo X2-TR"
-    },
-    {
-      "market_name": "Lenovo X3a40",
-      "codename": "x3_row",
-      "model": "Lenovo X3a40"
-    },
-    {
-      "market_name": "Lenovo X3c50",
-      "codename": "X3c50",
-      "model": "Lenovo X3c50"
-    },
-    {
-      "market_name": "Lenovo X3c70",
-      "codename": "X3c70",
-      "model": "Lenovo X3c70"
-    },
-    {
-      "market_name": "Lenovo YB1-X90L/YOGA BOOK",
-      "codename": "yeti",
-      "model": "Lenovo YB1-X90L"
-    },
-    {
-      "market_name": "Lenovo YOGA A12",
-      "codename": "YOGA-A12",
-      "model": "Lenovo YB-Q501F"
-    },
-    {
       "market_name": "Lenovo YOGA A12",
       "codename": "YOGA-A12",
       "model": "Lenovo YB-Q501L"
-    },
-    {
-      "market_name": "Lenovo YOGA BOOK",
-      "codename": "yeti",
-      "model": "Lenovo YB1-X90F"
-    },
-    {
-      "market_name": "Lenovo YOGA BOOK",
-      "codename": "yeti",
-      "model": "Lenovo YB1-X90L"
-    },
-    {
-      "market_name": "Lenovo YOGA Laptop with Android",
-      "codename": "YOGABOOK12",
-      "model": "Lenovo YB-Q501F"
-    },
-    {
-      "market_name": "Lenovo YOGA Laptop with Android",
-      "codename": "YOGABOOK12",
-      "model": "Lenovo YB-Q501L"
-    },
-    {
-      "market_name": "Lenovo YOGA Tablet Pro-1050L/Yoga Tablet 2",
-      "codename": "YT2",
-      "model": "YOGA Tablet 2-1050L"
-    },
-    {
-      "market_name": "Lenovo YOGA Tablet Pro-1050LC/Yoga Tablet 2",
-      "codename": "YT2",
-      "model": "YOGA Tablet 2-1050LC"
-    },
-    {
-      "market_name": "Lenovo YOGA Tablet Pro-1380F/Yoga Tablet 2 Pro",
-      "codename": "YT2",
-      "model": "YOGA Tablet 2 Pro-1380F"
-    },
-    {
-      "market_name": "Lenovo YOGA Tablet Pro-1380L/Yoga Tablet 2 Pro",
-      "codename": "YT2",
-      "model": "YOGA Tablet 2 Pro-1380L"
-    },
-    {
-      "market_name": "Lenovo YOGA Tablet Pro-830L/Yoga Tablet 2",
-      "codename": "YT2",
-      "model": "YOGA Tablet 2-830L"
-    },
-    {
-      "market_name": "Lenovo YOGA Tablet Pro-830LC/Yoga Tablet 2",
-      "codename": "YT2",
-      "model": "YOGA Tablet 2-830LC"
-    },
-    {
-      "market_name": "Lenovo YT3-850F/Lenovo YOGATab3",
-      "codename": "YT3-850F",
-      "model": "Lenovo YT3-850F"
-    },
-    {
-      "market_name": "Lenovo YT3-850L/Lenovo YOGATab3",
-      "codename": "YT3-850L",
-      "model": "Lenovo YT3-850L"
-    },
-    {
-      "market_name": "Lenovo YT3-850M/Lenovo YOGATab3",
-      "codename": "YT3-850M",
-      "model": "Lenovo YT3-850M"
-    },
-    {
-      "market_name": "Lenovo YT3-X50F/Yoga3 Tablet",
-      "codename": "YT3-X50F",
-      "model": "Lenovo YT3-X50F"
-    },
-    {
-      "market_name": "Lenovo YT3-X50L/Yoga3 Tablet",
-      "codename": "YT3-X50L",
-      "model": "Lenovo YT3-X50L"
-    },
-    {
-      "market_name": "Lenovo YT3-X50M/Yoga3 Tablet",
-      "codename": "YT3-X50M",
-      "model": "Lenovo YT3-X50M"
-    },
-    {
-      "market_name": "Lenovo YT3-X90F/YOGA3 Tablet Pro",
-      "codename": "YT3",
-      "model": "Lenovo YT3-X90F"
-    },
-    {
-      "market_name": "Lenovo YT3-X90L/YOGA3 Tablet Pro",
-      "codename": "YT3",
-      "model": "Lenovo YT3-X90L"
-    },
-    {
-      "market_name": "Lenovo YT3-X90X/YOGA3 Tablet Pro",
-      "codename": "YT3",
-      "model": "Lenovo YT3-X90X"
-    },
-    {
-      "market_name": "Lenovo YT3-X90Y/YOGA3 Tablet Pro",
-      "codename": "YT3",
-      "model": "Lenovo YT3-X90Y"
-    },
-    {
-      "market_name": "Lenovo YT3-X90Z/YOGA3 Tablet Pro",
-      "codename": "YT3",
-      "model": "Lenovo YT3-X90Z"
-    },
-    {
-      "market_name": "Lenovo Yoga TAB3 Plus",
-      "codename": "YT-X703F",
-      "model": "Lenovo YT-X703F"
-    },
-    {
-      "market_name": "Lenovo Yoga TAB3 Plus",
-      "codename": "YT-X703L",
-      "model": "Lenovo YT-X703L"
-    },
-    {
-      "market_name": "Lenovo Yoga TAB3 Plus",
-      "codename": "YT-X703X",
-      "model": "Lenovo YT-X703X"
-    },
-    {
-      "market_name": "Lenovo YogaTablet2 -1050F",
-      "codename": "YT2",
-      "model": "YOGA Tablet 2-1050F"
-    },
-    {
-      "market_name": "Lenovo YogaTbalet2-830F",
-      "codename": "YT2",
-      "model": "YOGA Tablet 2-830F"
-    },
-    {
-      "market_name": "Lenovo Z2",
-      "codename": "z2r",
-      "model": "Lenovo Z2"
-    },
-    {
-      "market_name": "Lenovo Z2",
-      "codename": "z2t",
-      "model": "Lenovo Z2"
-    },
-    {
-      "market_name": "Lenovo Z2w",
-      "codename": "z2w",
-      "model": "Lenovo Z2w"
-    },
-    {
-      "market_name": "Lenovo Z90/VIBE Shot",
-      "codename": "zoom_fdd",
-      "model": "Lenovo Z90"
-    },
-    {
-      "market_name": "Lenovo Z90/VIBE Shot",
-      "codename": "zoom_fdd",
-      "model": "Lenovo Z90-7"
-    },
-    {
-      "market_name": "Lenovo Z90/VIBE Shot",
-      "codename": "zoom_tdd",
-      "model": "Lenovo Z90-3"
-    },
-    {
-      "market_name": "Lenovo Z90a40/VIBE Shot",
-      "codename": "zoom_row",
-      "model": "Lenovo Z90a40"
     },
     {
       "market_name": "LenovoTAB2 A7-30DC",
@@ -2577,9 +1777,19 @@
       "model": "Lenovo TAB 2 A7-30DC"
     },
     {
+      "market_name": "LenovoTB-8704V",
+      "codename": "TB-8704V",
+      "model": "TB-8704V"
+    },
+    {
       "market_name": "LenovoTB-X304F/Lenovo TAB4",
       "codename": "X304F",
       "model": "Lenovo TB-X304F"
+    },
+    {
+      "market_name": "LenovoTB-X304F/Lenovo TAB4",
+      "codename": "X304F",
+      "model": "TB-X304F"
     },
     {
       "market_name": "LenovoTB-X704F/Lenovo TAB4 10 Plus",
@@ -2627,11 +1837,6 @@
       "model": "Lenovo S960"
     },
     {
-      "market_name": "Leovo VIBE K6 Note",
-      "codename": "K53a48",
-      "model": "Lenovo K53a48"
-    },
-    {
       "market_name": "Moto E3",
       "codename": "taidos_row",
       "model": "XT1700"
@@ -2652,6 +1857,16 @@
       "model": "XT1662"
     },
     {
+      "market_name": "N300",
+      "codename": "Lindos2",
+      "model": "Lenovo N300"
+    },
+    {
+      "market_name": "N308",
+      "codename": "SmartAIO",
+      "model": "Lenovo N308"
+    },
+    {
       "market_name": "NEC  PC-TE507FAW",
       "codename": "TE507FAW",
       "model": "PC-TE507FAW"
@@ -2665,6 +1880,46 @@
       "market_name": "NEC PC-TS508FAM",
       "codename": "PC-TS508FAM",
       "model": "PC-TS508FAM"
+    },
+    {
+      "market_name": "P1",
+      "codename": "P1a42",
+      "model": "Lenovo P1a41"
+    },
+    {
+      "market_name": "P1",
+      "codename": "P1a42",
+      "model": "Lenovo P1a42"
+    },
+    {
+      "market_name": "P1",
+      "codename": "passion",
+      "model": "Lenovo P1c72"
+    },
+    {
+      "market_name": "P1",
+      "codename": "passionc5",
+      "model": "Lenovo P1c58"
+    },
+    {
+      "market_name": "P2",
+      "codename": "P2a42",
+      "model": "Lenovo P2a42"
+    },
+    {
+      "market_name": "P2",
+      "codename": "kuntao",
+      "model": "Lenovo P2c72"
+    },
+    {
+      "market_name": "P70",
+      "codename": "P70-A",
+      "model": "Lenovo P70-A"
+    },
+    {
+      "market_name": "P70",
+      "codename": "P70-t",
+      "model": "Lenovo P70-t"
     },
     {
       "market_name": "P780",
@@ -2682,6 +1937,91 @@
       "model": "Lenovo P780_ROW"
     },
     {
+      "market_name": "P90",
+      "codename": "P90",
+      "model": "Lenovo P90"
+    },
+    {
+      "market_name": "PB1-750M/Lenovo PHAB",
+      "codename": "PB1-750M",
+      "model": "Lenovo PB1-750M"
+    },
+    {
+      "market_name": "PB1-770M/Lenovo PHAB Plus",
+      "codename": "PB1-770M",
+      "model": "EveryPad3"
+    },
+    {
+      "market_name": "PB1-770M/Lenovo PHAB Plus",
+      "codename": "PB1-770M",
+      "model": "Lenovo PB1-770M"
+    },
+    {
+      "market_name": "PB1-770N",
+      "codename": "PB1-770N",
+      "model": "Lenovo PB1-770N"
+    },
+    {
+      "market_name": "PB2",
+      "codename": "PB2",
+      "model": "Lenovo PB2-650M"
+    },
+    {
+      "market_name": "PB2 plus",
+      "codename": "PB2-670M",
+      "model": "Lenovo PB2-670M"
+    },
+    {
+      "market_name": "PB2-650Y",
+      "codename": "PB2",
+      "model": "Lenovo PB2-650Y"
+    },
+    {
+      "market_name": "PC-TE510HAW",
+      "codename": "X704F",
+      "model": "PC-TE510HAW"
+    },
+    {
+      "market_name": "PHAB 2",
+      "codename": "PB2",
+      "model": "Lenovo PB2-650N"
+    },
+    {
+      "market_name": "PHAB 2 Plus",
+      "codename": "PB2-670N",
+      "model": "Lenovo PB2-670N"
+    },
+    {
+      "market_name": "PHAB 2 Plus",
+      "codename": "PB2-670Y",
+      "model": "Lenovo PB2-670Y"
+    },
+    {
+      "market_name": "PHAB2 Pro",
+      "codename": "PB2PRO",
+      "model": "Lenovo PB2-690M"
+    },
+    {
+      "market_name": "PHAB2 Pro",
+      "codename": "PB2PRO",
+      "model": "Lenovo PB2-690N"
+    },
+    {
+      "market_name": "PHAB2 Pro",
+      "codename": "PB2PRO",
+      "model": "Lenovo PB2-690Y"
+    },
+    {
+      "market_name": "S1",
+      "codename": "S1a40",
+      "model": "Lenovo S1a40"
+    },
+    {
+      "market_name": "S1La40",
+      "codename": "S1La40",
+      "model": "Lenovo S1La40"
+    },
+    {
       "market_name": "S5000",
       "codename": "S5000",
       "model": "Lenovo S5000-F"
@@ -2692,6 +2032,26 @@
       "model": "Lenovo S5000-H"
     },
     {
+      "market_name": "S580",
+      "codename": "S580",
+      "model": "Lenovo S580"
+    },
+    {
+      "market_name": "S60",
+      "codename": "sisleylr",
+      "model": "Lenovo S60-a"
+    },
+    {
+      "market_name": "S60",
+      "codename": "sisleylt",
+      "model": "Lenovo S60-t"
+    },
+    {
+      "market_name": "S60",
+      "codename": "sisleylw",
+      "model": "Lenovo S60-w"
+    },
+    {
       "market_name": "S6000L",
       "codename": "S6000L",
       "model": "Lenovo S6000L-F"
@@ -2700,6 +2060,31 @@
       "market_name": "S61",
       "codename": "ideatv_S61",
       "model": "ideatv S61"
+    },
+    {
+      "market_name": "S650",
+      "codename": "S650",
+      "model": "Lenovo S650"
+    },
+    {
+      "market_name": "S650_ROW",
+      "codename": "S650_ROW",
+      "model": "Lenovo S650"
+    },
+    {
+      "market_name": "S658t",
+      "codename": "S658t",
+      "model": "Lenovo S658t"
+    },
+    {
+      "market_name": "S660",
+      "codename": "S660",
+      "model": "Lenovo S660"
+    },
+    {
+      "market_name": "S668t",
+      "codename": "S668t",
+      "model": "Lenovo S668t"
     },
     {
       "market_name": "S680",
@@ -2722,8 +2107,18 @@
       "model": "Lenovo S750"
     },
     {
+      "market_name": "S810t",
+      "codename": "shellt",
+      "model": "Lenovo S810t"
+    },
+    {
       "market_name": "S820",
       "codename": "S820",
+      "model": "Lenovo S820"
+    },
+    {
+      "market_name": "S820",
+      "codename": "S820_AMX_ROW",
       "model": "Lenovo S820"
     },
     {
@@ -2742,9 +2137,54 @@
       "model": "Lenovo S820e"
     },
     {
+      "market_name": "S850",
+      "codename": "S850",
+      "model": "Lenovo S850"
+    },
+    {
       "market_name": "S850e",
       "codename": "sichuan",
       "model": "Lenovo S850e"
+    },
+    {
+      "market_name": "S850t",
+      "codename": "S850t",
+      "model": "Lenovo S850t"
+    },
+    {
+      "market_name": "S856",
+      "codename": "shellamx",
+      "model": "Lenovo S856"
+    },
+    {
+      "market_name": "S856",
+      "codename": "shellr",
+      "model": "Lenovo S856"
+    },
+    {
+      "market_name": "S856",
+      "codename": "shellr_s",
+      "model": "Lenovo S856"
+    },
+    {
+      "market_name": "S856",
+      "codename": "shellw",
+      "model": "Lenovo S856"
+    },
+    {
+      "market_name": "S858t",
+      "codename": "Selected",
+      "model": "Lenovo S858t"
+    },
+    {
+      "market_name": "S860",
+      "codename": "S860",
+      "model": "Lenovo S860"
+    },
+    {
+      "market_name": "S860e",
+      "codename": "shelle",
+      "model": "Lenovo S860e"
     },
     {
       "market_name": "S868",
@@ -2767,9 +2207,34 @@
       "model": "Lenovo S898t"
     },
     {
+      "market_name": "S898t+",
+      "codename": "S898tp",
+      "model": "Lenovo S898t+"
+    },
+    {
+      "market_name": "S90",
+      "codename": "sisleye",
+      "model": "Lenovo S90-e"
+    },
+    {
+      "market_name": "S90-A",
+      "codename": "sisleyr",
+      "model": "Lenovo S90-A"
+    },
+    {
       "market_name": "S90-L",
       "codename": "sisleyr_amx",
       "model": "Lenovo S90-L"
+    },
+    {
+      "market_name": "S90-T",
+      "codename": "sisleyt",
+      "model": "Lenovo S90-t"
+    },
+    {
+      "market_name": "S90-U",
+      "codename": "sisleyw",
+      "model": "Lenovo S90-u"
     },
     {
       "market_name": "S920",
@@ -2777,14 +2242,249 @@
       "model": "Lenovo S920"
     },
     {
+      "market_name": "S930",
+      "codename": "S930",
+      "model": "Lenovo S930"
+    },
+    {
+      "market_name": "S930_ROW",
+      "codename": "S930_ROW",
+      "model": "Lenovo S930"
+    },
+    {
+      "market_name": "S938t",
+      "codename": "S938t",
+      "model": "Lenovo S938t"
+    },
+    {
+      "market_name": "S939",
+      "codename": "S939",
+      "model": "Lenovo S939"
+    },
+    {
       "market_name": "S960",
       "codename": "S960",
       "model": "Lenovo S960"
     },
     {
+      "market_name": "S960",
+      "codename": "S960_AMX_ROW",
+      "model": "Lenovo S960"
+    },
+    {
+      "market_name": "S968t",
+      "codename": "S968t",
+      "model": "Lenovo S968t"
+    },
+    {
       "market_name": "Softbank 501LV",
       "codename": "501LV",
       "model": "501LV"
+    },
+    {
+      "market_name": "TAB 10",
+      "codename": "TB-X103F",
+      "model": "Lenovo TB-X103F"
+    },
+    {
+      "market_name": "TAB 2 A10",
+      "codename": "A10-70F",
+      "model": "Lenovo TAB 2 A10-70F"
+    },
+    {
+      "market_name": "TAB 2 A10",
+      "codename": "A10-70L",
+      "model": "Lenovo TAB 2 A10-70L"
+    },
+    {
+      "market_name": "TAB 2 A10",
+      "codename": "A10-70LC",
+      "model": "Lenovo TAB 2 A10-70LC"
+    },
+    {
+      "market_name": "TAB 2 A7-10F",
+      "codename": "Tab2A7-10F",
+      "model": "Tab2A7-10F"
+    },
+    {
+      "market_name": "TAB 2 A7-20F",
+      "codename": "Tab2A7-20F",
+      "model": "Tab2A7-20F"
+    },
+    {
+      "market_name": "TAB 2 A7-30F",
+      "codename": "A7-30F",
+      "model": "Lenovo TAB 2 A7-30F"
+    },
+    {
+      "market_name": "TAB 2 A7-30HC",
+      "codename": "A7-30HC",
+      "model": "Lenovo 2 A7-30HC"
+    },
+    {
+      "market_name": "TAB 2 A7-30HC",
+      "codename": "A7-30HC",
+      "model": "Lenovo TAB 2 A7-30HC"
+    },
+    {
+      "market_name": "TAB 2 A7-30TC",
+      "codename": "A7-30TC",
+      "model": "Lenovo 2 A7-30TC"
+    },
+    {
+      "market_name": "TAB 2 A8-50F",
+      "codename": "A8-50F",
+      "model": "Lenovo 2 A8-50F"
+    },
+    {
+      "market_name": "TAB 2 A8-50F",
+      "codename": "A8-50F",
+      "model": "Lenovo TAB 2 A8-50F"
+    },
+    {
+      "market_name": "TAB 3 850F",
+      "codename": "TB3-850F",
+      "model": "Lenovo TB3-850F"
+    },
+    {
+      "market_name": "TAB 3 850M",
+      "codename": "TB3-850M",
+      "model": "Lenovo TB3-850M"
+    },
+    {
+      "market_name": "TAB A10-80HC",
+      "codename": "A10_80HC",
+      "model": "TAB A10-80HC"
+    },
+    {
+      "market_name": "TAB S8-50F",
+      "codename": "S8-50F",
+      "model": "Lenovo TAB S8-50F"
+    },
+    {
+      "market_name": "TAB S8-50L",
+      "codename": "S8-50L",
+      "model": "Lenovo TAB S8-50L"
+    },
+    {
+      "market_name": "TAB S8-50LC",
+      "codename": "S8-50LC",
+      "model": "Lenovo S8-50LC"
+    },
+    {
+      "market_name": "TAB S8-50LC",
+      "codename": "S8-50LC",
+      "model": "Lenovo TAB S8-50LC"
+    },
+    {
+      "market_name": "TAB3 7 Plus",
+      "codename": "TB-7703F",
+      "model": "Lenovo TB-7703F"
+    },
+    {
+      "market_name": "TAB3 7 Plus",
+      "codename": "TB-7703N",
+      "model": "Lenovo TB-7703N"
+    },
+    {
+      "market_name": "TAB3 7 Plus",
+      "codename": "TB-7703X",
+      "model": "Lenovo TB-7703X"
+    },
+    {
+      "market_name": "TAB3 730F",
+      "codename": "TB3-730F",
+      "model": "Lenovo TB3-730F"
+    },
+    {
+      "market_name": "TAB3 730M",
+      "codename": "TB3-730M",
+      "model": "Lenovo TB3-730M"
+    },
+    {
+      "market_name": "TAB3 730X",
+      "codename": "TB3-730X",
+      "model": "Lenovo TB3-730X"
+    },
+    {
+      "market_name": "TAB3 8 Plus",
+      "codename": "TB-8703R",
+      "model": "Lenovo TB-8703R"
+    },
+    {
+      "market_name": "TAB3 X70L",
+      "codename": "TB3-X70L",
+      "model": "Lenovo TB3-X70L"
+    },
+    {
+      "market_name": "TAB3 X70N",
+      "codename": "TB3-X70N",
+      "model": "Lenovo TB3-X70N"
+    },
+    {
+      "market_name": "TAB4 10",
+      "codename": "X304L",
+      "model": "Lenovo TB-X304L"
+    },
+    {
+      "market_name": "TAB4 10",
+      "codename": "X304N",
+      "model": "Lenovo TB-X304N"
+    },
+    {
+      "market_name": "TAB4 10",
+      "codename": "X304N",
+      "model": "TB-X304N"
+    },
+    {
+      "market_name": "TAB4 10",
+      "codename": "X304X",
+      "model": "Lenovo TB-X304X"
+    },
+    {
+      "market_name": "TAB4 10 Plus",
+      "codename": "X704L",
+      "model": "Lenovo TB-X704L"
+    },
+    {
+      "market_name": "TAB4 10 Plus",
+      "codename": "X704N",
+      "model": "Lenovo TB-X704N"
+    },
+    {
+      "market_name": "TAB4 10 Plus",
+      "codename": "X704V",
+      "model": "TB-X704V"
+    },
+    {
+      "market_name": "TAB4 10 Plus",
+      "codename": "X704Y",
+      "model": "Lenovo TB-X704Y"
+    },
+    {
+      "market_name": "TAB4 8",
+      "codename": "TB-8504F",
+      "model": "Lenovo TB-8504F"
+    },
+    {
+      "market_name": "TAB4 8",
+      "codename": "TB-8504N",
+      "model": "Lenovo TB-8504N"
+    },
+    {
+      "market_name": "TAB4 8",
+      "codename": "TB-8504X",
+      "model": "Lenovo TB-8504X"
+    },
+    {
+      "market_name": "TB-8604F",
+      "codename": "TB-8604F",
+      "model": "Lenovo TB-8604F"
+    },
+    {
+      "market_name": "TB-8704F",
+      "codename": "TB-8704F",
+      "model": "Lenovo TB-8704F"
     },
     {
       "market_name": "TB-8704N",
@@ -2797,14 +2497,399 @@
       "model": "Lenovo TB-8704X"
     },
     {
+      "market_name": "TB-8804F",
+      "codename": "TB-8804F",
+      "model": "Lenovo TB-8804F"
+    },
+    {
+      "market_name": "TB-8X04F",
+      "codename": "TB-8X04F",
+      "model": "Lenovo TB-8X04F"
+    },
+    {
+      "market_name": "TB2-X30F",
+      "codename": "TB2-X30F",
+      "model": "Lenovo TB2-X30F"
+    },
+    {
+      "market_name": "TB2-X30F",
+      "codename": "TB2-X30F",
+      "model": "Lenovo TB2-X30F_HFT"
+    },
+    {
+      "market_name": "TB2-X30F",
+      "codename": "TB2-X30F",
+      "model": "Lenovo TB2-X30F_JLC"
+    },
+    {
+      "market_name": "TB2-X30F",
+      "codename": "TB2-X30F",
+      "model": "Lenovo TB2-X30F_SCP"
+    },
+    {
+      "market_name": "TB2-X30F",
+      "codename": "TB2-X30F",
+      "model": "Lenovo TB2-X30F_UK"
+    },
+    {
+      "market_name": "TB2-X30F",
+      "codename": "TB2-X30F",
+      "model": "Lenovo TB2-X30F_YZA"
+    },
+    {
+      "market_name": "TB2-X30L",
+      "codename": "TB2-X30L",
+      "model": "Lenovo TB2-X30L"
+    },
+    {
+      "market_name": "TB2-X30M",
+      "codename": "TB2-X30M",
+      "model": "Lenovo TB2-X30M"
+    },
+    {
+      "market_name": "TB2-X30M",
+      "codename": "TB2-X30M",
+      "model": "Lenovo TB2-X30M_PRC_YZ_A"
+    },
+    {
+      "market_name": "TB3 8 Plus",
+      "codename": "TB-8703F",
+      "model": "Lenovo TB-8703F"
+    },
+    {
+      "market_name": "TB3 8 Plus",
+      "codename": "TB-8703N",
+      "model": "Lenovo TB-8703N"
+    },
+    {
+      "market_name": "TB3 8 Plus",
+      "codename": "TB-8703X",
+      "model": "Lenovo TB-8703X"
+    },
+    {
+      "market_name": "TB3-601LV",
+      "codename": "601LV",
+      "model": "601LV"
+    },
+    {
+      "market_name": "TB3-602LV",
+      "codename": "602LV",
+      "model": "602LV"
+    },
+    {
+      "market_name": "TB3-710F",
+      "codename": "TB3-710F",
+      "model": "Lenovo TB3-710F"
+    },
+    {
+      "market_name": "TB3-710I",
+      "codename": "TB3-710I",
+      "model": "Lenovo TB3-710I"
+    },
+    {
+      "market_name": "TB3-X70F",
+      "codename": "TB3-X70F",
+      "model": "Lenovo TB3-X70F"
+    },
+    {
+      "market_name": "Tab 7 Essential",
+      "codename": "7304F",
+      "model": "Lenovo TB-7304F"
+    },
+    {
+      "market_name": "Tab 7 Essential",
+      "codename": "TB-7304F",
+      "model": "Lenovo TB-7304F"
+    },
+    {
       "market_name": "ThinkVision28",
       "codename": "ThinkVision28",
       "model": "ThinkVision28"
     },
     {
+      "market_name": "Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)",
+      "codename": "pyro_cheets",
+      "model": "Lenovo Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)"
+    },
+    {
       "market_name": "Thinkpad Stack projector",
       "codename": "pj_stack_acc",
       "model": "M123"
+    },
+    {
+      "market_name": "VIBE K10",
+      "codename": "K10a40",
+      "model": "Lenovo K10a40"
+    },
+    {
+      "market_name": "VIBE K6",
+      "codename": "K33a48",
+      "model": "Lenovo K33a48"
+    },
+    {
+      "market_name": "VIBE K6",
+      "codename": "K33b36",
+      "model": "Lenovo K33b36"
+    },
+    {
+      "market_name": "VIBE K6",
+      "codename": "K33b37",
+      "model": "Lenovo K33b37"
+    },
+    {
+      "market_name": "VIBE K6 Note",
+      "codename": "K53a48",
+      "model": "Lenovo K53a48"
+    },
+    {
+      "market_name": "VIBE K6 Note",
+      "codename": "K53b36",
+      "model": "Lenovo K53b36"
+    },
+    {
+      "market_name": "VIBE K6 Note",
+      "codename": "K53b37",
+      "model": "Lenovo K53b37"
+    },
+    {
+      "market_name": "VIBE K6 Power",
+      "codename": "K33a42",
+      "model": "Lenovo K33a42"
+    },
+    {
+      "market_name": "VIBE X3 Lite",
+      "codename": "A7010a48",
+      "model": "Lenovo A7010a48"
+    },
+    {
+      "market_name": "VIBE X3 Lite",
+      "codename": "k5fp",
+      "model": "Lenovo K51c78"
+    },
+    {
+      "market_name": "VIBE X3 Lite",
+      "codename": "k5fp_m",
+      "model": "Lenovo K51c78"
+    },
+    {
+      "market_name": "X2",
+      "codename": "X2-AP",
+      "model": "Lenovo X2-AP"
+    },
+    {
+      "market_name": "X2",
+      "codename": "X2-EU",
+      "model": "Lenovo X2-EU"
+    },
+    {
+      "market_name": "X2 Pro",
+      "codename": "s7",
+      "model": "Lenovo X2Pt5"
+    },
+    {
+      "market_name": "X2 Pro",
+      "codename": "s7",
+      "model": "VIBE X2Pt5"
+    },
+    {
+      "market_name": "X2-TO/VIBE X2",
+      "codename": "X2-TO",
+      "model": "Lenovo X2-TO"
+    },
+    {
+      "market_name": "X2-TR/VIBE X2",
+      "codename": "X2-TR",
+      "model": "Lenovo X2-TR"
+    },
+    {
+      "market_name": "X3a40",
+      "codename": "x3_row",
+      "model": "Lenovo X3a40"
+    },
+    {
+      "market_name": "X3c50",
+      "codename": "X3c50",
+      "model": "Lenovo X3c50"
+    },
+    {
+      "market_name": "X3c70",
+      "codename": "X3c70",
+      "model": "Lenovo X3c70"
+    },
+    {
+      "market_name": "YB1-X90L/YOGA BOOK",
+      "codename": "yeti",
+      "model": "Lenovo YB1-X90L"
+    },
+    {
+      "market_name": "YOGA A12",
+      "codename": "YOGA-A12",
+      "model": "Lenovo YB-Q501F"
+    },
+    {
+      "market_name": "YOGA BOOK",
+      "codename": "yeti",
+      "model": "Lenovo YB1-X90F"
+    },
+    {
+      "market_name": "YOGA BOOK",
+      "codename": "yeti",
+      "model": "Lenovo YB1-X90L"
+    },
+    {
+      "market_name": "YOGA Laptop with Android",
+      "codename": "YOGABOOK12",
+      "model": "Lenovo YB-Q501F"
+    },
+    {
+      "market_name": "YOGA Laptop with Android",
+      "codename": "YOGABOOK12",
+      "model": "Lenovo YB-Q501L"
+    },
+    {
+      "market_name": "YOGA Tablet Pro-1050L/Yoga Tablet 2",
+      "codename": "YT2",
+      "model": "YOGA Tablet 2-1050L"
+    },
+    {
+      "market_name": "YOGA Tablet Pro-1050LC/Yoga Tablet 2",
+      "codename": "YT2",
+      "model": "YOGA Tablet 2-1050LC"
+    },
+    {
+      "market_name": "YOGA Tablet Pro-1380F/Yoga Tablet 2 Pro",
+      "codename": "YT2",
+      "model": "YOGA Tablet 2 Pro-1380F"
+    },
+    {
+      "market_name": "YOGA Tablet Pro-1380L/Yoga Tablet 2 Pro",
+      "codename": "YT2",
+      "model": "YOGA Tablet 2 Pro-1380L"
+    },
+    {
+      "market_name": "YOGA Tablet Pro-830L/Yoga Tablet 2",
+      "codename": "YT2",
+      "model": "YOGA Tablet 2-830L"
+    },
+    {
+      "market_name": "YOGA Tablet Pro-830LC/Yoga Tablet 2",
+      "codename": "YT2",
+      "model": "YOGA Tablet 2-830LC"
+    },
+    {
+      "market_name": "YT3-850F/Lenovo YOGATab3",
+      "codename": "YT3-850F",
+      "model": "Lenovo YT3-850F"
+    },
+    {
+      "market_name": "YT3-850L/Lenovo YOGATab3",
+      "codename": "YT3-850L",
+      "model": "Lenovo YT3-850L"
+    },
+    {
+      "market_name": "YT3-850M/Lenovo YOGATab3",
+      "codename": "YT3-850M",
+      "model": "Lenovo YT3-850M"
+    },
+    {
+      "market_name": "YT3-X50F/Yoga3 Tablet",
+      "codename": "YT3-X50F",
+      "model": "Lenovo YT3-X50F"
+    },
+    {
+      "market_name": "YT3-X50L/Yoga3 Tablet",
+      "codename": "YT3-X50L",
+      "model": "Lenovo YT3-X50L"
+    },
+    {
+      "market_name": "YT3-X50M/Yoga3 Tablet",
+      "codename": "YT3-X50M",
+      "model": "Lenovo YT3-X50M"
+    },
+    {
+      "market_name": "YT3-X90F/YOGA3 Tablet Pro",
+      "codename": "YT3",
+      "model": "Lenovo YT3-X90F"
+    },
+    {
+      "market_name": "YT3-X90L/YOGA3 Tablet Pro",
+      "codename": "YT3",
+      "model": "Lenovo YT3-X90L"
+    },
+    {
+      "market_name": "YT3-X90X/YOGA3 Tablet Pro",
+      "codename": "YT3",
+      "model": "Lenovo YT3-X90X"
+    },
+    {
+      "market_name": "YT3-X90Y/YOGA3 Tablet Pro",
+      "codename": "YT3",
+      "model": "Lenovo YT3-X90Y"
+    },
+    {
+      "market_name": "YT3-X90Z/YOGA3 Tablet Pro",
+      "codename": "YT3",
+      "model": "Lenovo YT3-X90Z"
+    },
+    {
+      "market_name": "Yoga TAB3 Plus",
+      "codename": "YT-X703F",
+      "model": "Lenovo YT-X703F"
+    },
+    {
+      "market_name": "Yoga TAB3 Plus",
+      "codename": "YT-X703L",
+      "model": "Lenovo YT-X703L"
+    },
+    {
+      "market_name": "Yoga TAB3 Plus",
+      "codename": "YT-X703X",
+      "model": "Lenovo YT-X703X"
+    },
+    {
+      "market_name": "YogaTablet2 -1050F",
+      "codename": "YT2",
+      "model": "YOGA Tablet 2-1050F"
+    },
+    {
+      "market_name": "YogaTbalet2-830F",
+      "codename": "YT2",
+      "model": "YOGA Tablet 2-830F"
+    },
+    {
+      "market_name": "Z2",
+      "codename": "z2r",
+      "model": "Lenovo Z2"
+    },
+    {
+      "market_name": "Z2",
+      "codename": "z2t",
+      "model": "Lenovo Z2"
+    },
+    {
+      "market_name": "Z2w",
+      "codename": "z2w",
+      "model": "Lenovo Z2w"
+    },
+    {
+      "market_name": "Z90/VIBE Shot",
+      "codename": "zoom_fdd",
+      "model": "Lenovo Z90"
+    },
+    {
+      "market_name": "Z90/VIBE Shot",
+      "codename": "zoom_fdd",
+      "model": "Lenovo Z90-7"
+    },
+    {
+      "market_name": "Z90/VIBE Shot",
+      "codename": "zoom_tdd",
+      "model": "Lenovo Z90-3"
+    },
+    {
+      "market_name": "Z90a40/VIBE Shot",
+      "codename": "zoom_row",
+      "model": "Lenovo Z90a40"
     },
     {
       "market_name": "ideatv S52",

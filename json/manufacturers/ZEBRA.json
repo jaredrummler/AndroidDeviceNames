@@ -2,6 +2,11 @@
   "manufacturer": "Zebra",
   "devices": [
     {
+      "market_name": "CC5000",
+      "codename": "concierge",
+      "model": "CCHUB1"
+    },
+    {
       "market_name": "ET5X",
       "codename": "ET50E",
       "model": "ET5X"
@@ -90,11 +95,6 @@
       "market_name": "WT6000",
       "codename": "WT6000",
       "model": "WT6000"
-    },
-    {
-      "market_name": "Zebra CC5000",
-      "codename": "concierge",
-      "model": "CCHUB1"
     }
   ]
 }

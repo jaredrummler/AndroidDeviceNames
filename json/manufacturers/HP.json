@@ -62,14 +62,9 @@
       "model": "HP Slate 10 HD"
     },
     {
-      "market_name": "HP Slate 7",
-      "codename": "pine",
-      "model": "HP Slate 7"
-    },
-    {
-      "market_name": "HP SlateBook 10 x2 PC",
-      "codename": "3645",
-      "model": "HP SlateBook 10 x2 PC"
+      "market_name": "Chromebook x360 11 G1 EE",
+      "codename": "snappy_cheets",
+      "model": "HP Chromebook x360 11 G1 EE"
     },
     {
       "market_name": "Pro 8 Tablet with Voice",
@@ -142,6 +137,11 @@
       "model": "HP Slate 6 VoiceTab Plus"
     },
     {
+      "market_name": "Slate 7",
+      "codename": "pine",
+      "model": "HP Slate 7"
+    },
+    {
       "market_name": "Slate 7 Beats Special Edition",
       "codename": "fairfax",
       "model": "HP Slate 7 Beats Special Edition"
@@ -200,6 +200,11 @@
       "market_name": "Slate8 Pro",
       "codename": "fig",
       "model": "HP Slate 8 Pro"
+    },
+    {
+      "market_name": "SlateBook 10 x2 PC",
+      "codename": "3645",
+      "model": "HP SlateBook 10 x2 PC"
     },
     {
       "market_name": "SlateBook 14",

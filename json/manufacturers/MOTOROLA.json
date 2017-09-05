@@ -637,6 +637,11 @@
       "model": "Milestone X2"
     },
     {
+      "market_name": "ELECTRIFY 2",
+      "codename": "cdma_yangtze",
+      "model": "XT881"
+    },
+    {
       "market_name": "Electrify M",
       "codename": "solstice",
       "model": "XT901"
@@ -662,32 +667,22 @@
       "model": "XT800"
     },
     {
+      "market_name": "HS1",
+      "codename": "Motorola_HS1",
+      "model": "Motorola_HS1"
+    },
+    {
       "market_name": "Iron Rock",
       "codename": "umts_irock",
       "model": "XT627"
     },
     {
-      "market_name": "MOTOROLA ELECTRIFY 2",
-      "codename": "cdma_yangtze",
-      "model": "XT881"
-    },
-    {
-      "market_name": "MOTOROLA RAZR HD",
-      "codename": "vanquish_u",
-      "model": "RAZR HD"
-    },
-    {
-      "market_name": "MOTOROLA RAZR M",
-      "codename": "smq_t",
-      "model": "201M"
-    },
-    {
-      "market_name": "MOTOROLA RAZR i",
-      "codename": "smi",
-      "model": "XT890"
-    },
-    {
       "market_name": "Master Touch",
+      "codename": "umts_primus",
+      "model": "XT621"
+    },
+    {
+      "market_name": "Master Touch XT621",
       "codename": "umts_primus",
       "model": "XT621"
     },
@@ -749,6 +744,21 @@
     {
       "market_name": "Moto C Plus",
       "codename": "panell_d",
+      "model": "Moto C Plus"
+    },
+    {
+      "market_name": "Moto C Plus",
+      "codename": "panell_dl",
+      "model": "Moto C Plus"
+    },
+    {
+      "market_name": "Moto C Plus",
+      "codename": "panell_dt",
+      "model": "Moto C Plus"
+    },
+    {
+      "market_name": "Moto C Plus",
+      "codename": "panell_s",
       "model": "Moto C Plus"
     },
     {
@@ -828,7 +838,27 @@
     },
     {
       "market_name": "Moto E (4)",
+      "codename": "perry",
+      "model": "Moto E (4)"
+    },
+    {
+      "market_name": "Moto E (4)",
+      "codename": "perry_f",
+      "model": "Moto E (4)"
+    },
+    {
+      "market_name": "Moto E (4)",
+      "codename": "sperry",
+      "model": "Moto E (4)"
+    },
+    {
+      "market_name": "Moto E (4)",
       "codename": "woods_f",
+      "model": "Moto E (4)"
+    },
+    {
+      "market_name": "Moto E (4)",
+      "codename": "woods_fn",
       "model": "Moto E (4)"
     },
     {
@@ -839,6 +869,11 @@
     {
       "market_name": "Moto E (4) Plus",
       "codename": "nicklaus_fn",
+      "model": "Moto E (4) Plus"
+    },
+    {
+      "market_name": "Moto E (4) Plus",
+      "codename": "owens",
       "model": "Moto E (4) Plus"
     },
     {
@@ -880,6 +915,11 @@
       "market_name": "Moto E with 4G LTE (2nd Gen)",
       "codename": "surnia_umts",
       "model": "MotoE2(4G-LTE)"
+    },
+    {
+      "market_name": "Moto E4",
+      "codename": "perry_f",
+      "model": "Moto E (4)"
     },
     {
       "market_name": "Moto G (1st Gen)",
@@ -1010,6 +1050,41 @@
       "market_name": "Moto G (5) Plus",
       "codename": "potter_n",
       "model": "Moto G (5) Plus"
+    },
+    {
+      "market_name": "Moto G (5S)",
+      "codename": "montana",
+      "model": "Moto G (5S)"
+    },
+    {
+      "market_name": "Moto G (5S)",
+      "codename": "montana_n",
+      "model": "Moto G (5S)"
+    },
+    {
+      "market_name": "Moto G (5S) Plus",
+      "codename": "sanders",
+      "model": "Moto G (5S) Plus"
+    },
+    {
+      "market_name": "Moto G (5S) Plus",
+      "codename": "sanders_n",
+      "model": "Moto G (4)"
+    },
+    {
+      "market_name": "Moto G (5S) Plus",
+      "codename": "sanders_n",
+      "model": "Moto G (5S) Plus"
+    },
+    {
+      "market_name": "Moto G (5S) Plus",
+      "codename": "sanders_nt",
+      "model": "Moto G (4)"
+    },
+    {
+      "market_name": "Moto G (5S) Plus",
+      "codename": "sanders_nt",
+      "model": "Moto G (5S) Plus"
     },
     {
       "market_name": "Moto G (5th Gen)",
@@ -1244,6 +1319,11 @@
     {
       "market_name": "Moto X Play",
       "codename": "lux_uds",
+      "model": "Moto X Play"
+    },
+    {
+      "market_name": "Moto X Play",
+      "codename": "lux_uds",
       "model": "XT1021"
     },
     {
@@ -1292,6 +1372,36 @@
       "model": "XT1650-05"
     },
     {
+      "market_name": "Moto Z (2) Force",
+      "codename": "nash",
+      "model": "Moto Z (2)"
+    },
+    {
+      "market_name": "Moto Z (2) Force",
+      "codename": "nash",
+      "model": "XT1789-05"
+    },
+    {
+      "market_name": "Moto Z (2) Play",
+      "codename": "albus",
+      "model": "Moto Z2 Play"
+    },
+    {
+      "market_name": "Moto Z (2) Play",
+      "codename": "albus",
+      "model": "XT1710-02"
+    },
+    {
+      "market_name": "Moto Z (2) Play",
+      "codename": "albus",
+      "model": "XT1710-08"
+    },
+    {
+      "market_name": "Moto Z (2) Play",
+      "codename": "albus",
+      "model": "XT1710-11"
+    },
+    {
       "market_name": "Moto Z Droid",
       "codename": "griffin",
       "model": "XT1650"
@@ -1315,11 +1425,6 @@
       "market_name": "Moto Z Play Droid",
       "codename": "addison",
       "model": "XT1635-01"
-    },
-    {
-      "market_name": "Moto Z2 Play",
-      "codename": "albus",
-      "model": "Moto Z2 Play"
     },
     {
       "market_name": "Motoluxe",
@@ -1382,66 +1487,6 @@
       "model": "XT720"
     },
     {
-      "market_name": "Motorola Atrix HD",
-      "codename": "qinara",
-      "model": "MB886"
-    },
-    {
-      "market_name": "Motorola HS1",
-      "codename": "Motorola_HS1",
-      "model": "Motorola_HS1"
-    },
-    {
-      "market_name": "Motorola Master Touch",
-      "codename": "umts_primus",
-      "model": "XT621"
-    },
-    {
-      "market_name": "Motorola Master Touch XT621",
-      "codename": "umts_primus",
-      "model": "XT621"
-    },
-    {
-      "market_name": "Motorola Photon",
-      "codename": "asanti_c",
-      "model": "XT897"
-    },
-    {
-      "market_name": "Motorola Photon",
-      "codename": "asanti_c",
-      "model": "XT897S"
-    },
-    {
-      "market_name": "Motorola RAZR HD",
-      "codename": "vanquish",
-      "model": "DROID RAZR HD"
-    },
-    {
-      "market_name": "Motorola RAZR M",
-      "codename": "smq",
-      "model": "XT907"
-    },
-    {
-      "market_name": "Motorola Razr V",
-      "codename": "umts_yangtze",
-      "model": "XT885"
-    },
-    {
-      "market_name": "Motorola Razr V",
-      "codename": "umts_yangtze",
-      "model": "XT886"
-    },
-    {
-      "market_name": "Motorola XOOM 2",
-      "codename": "fleming",
-      "model": "MZ609"
-    },
-    {
-      "market_name": "Motorola XOOM 2",
-      "codename": "pasteur",
-      "model": "MZ617"
-    },
-    {
       "market_name": "Motosmart",
       "codename": "XT389",
       "model": "XT389"
@@ -1485,6 +1530,16 @@
       "market_name": "Opus One",
       "codename": "rubicon",
       "model": "Titanium"
+    },
+    {
+      "market_name": "Photon",
+      "codename": "asanti_c",
+      "model": "XT897"
+    },
+    {
+      "market_name": "Photon",
+      "codename": "asanti_c",
+      "model": "XT897S"
     },
     {
       "market_name": "Photon 4G",
@@ -1537,6 +1592,41 @@
       "model": "XT920"
     },
     {
+      "market_name": "RAZR HD",
+      "codename": "vanquish",
+      "model": "DROID RAZR HD"
+    },
+    {
+      "market_name": "RAZR HD",
+      "codename": "vanquish_u",
+      "model": "RAZR HD"
+    },
+    {
+      "market_name": "RAZR M",
+      "codename": "smq",
+      "model": "XT907"
+    },
+    {
+      "market_name": "RAZR M",
+      "codename": "smq_t",
+      "model": "201M"
+    },
+    {
+      "market_name": "RAZR i",
+      "codename": "smi",
+      "model": "XT890"
+    },
+    {
+      "market_name": "Razr V",
+      "codename": "umts_yangtze",
+      "model": "XT885"
+    },
+    {
+      "market_name": "Razr V",
+      "codename": "umts_yangtze",
+      "model": "XT886"
+    },
+    {
       "market_name": "Spice",
       "codename": "sesame",
       "model": "XT300"
@@ -1575,6 +1665,16 @@
       "market_name": "XOOM",
       "codename": "wingray",
       "model": "Xoom"
+    },
+    {
+      "market_name": "XOOM 2",
+      "codename": "fleming",
+      "model": "MZ609"
+    },
+    {
+      "market_name": "XOOM 2",
+      "codename": "pasteur",
+      "model": "MZ617"
     },
     {
       "market_name": "XT605",

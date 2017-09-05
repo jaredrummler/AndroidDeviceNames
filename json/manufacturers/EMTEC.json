@@ -1,10 +1,15 @@
 {
-  "manufacturer": "EMTEC",
+  "manufacturer": "Emtec",
   "devices": [
     {
-      "market_name": "EMTEC F400",
+      "market_name": "F400",
       "codename": "f400",
       "model": "f400"
+    },
+    {
+      "market_name": "Gaming Android Gem Box",
+      "codename": "F500",
+      "model": "Gem Box F500"
     }
   ]
 }

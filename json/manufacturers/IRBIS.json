@@ -2,9 +2,44 @@
   "manufacturer": "Irbis",
   "devices": [
     {
+      "market_name": "IRBIS TZ175",
+      "codename": "TZ175",
+      "model": "TZ175"
+    },
+    {
+      "market_name": "SP454",
+      "codename": "SP454",
+      "model": "SP454"
+    },
+    {
+      "market_name": "SP455",
+      "codename": "SP455",
+      "model": "SP455"
+    },
+    {
+      "market_name": "SP510",
+      "codename": "SP510",
+      "model": "SP510"
+    },
+    {
+      "market_name": "SP550",
+      "codename": "SP550",
+      "model": "SP550"
+    },
+    {
       "market_name": "TZ55",
       "codename": "TZ55",
       "model": "TZ55"
+    },
+    {
+      "market_name": "TZ777",
+      "codename": "TZ777",
+      "model": "TZ777"
+    },
+    {
+      "market_name": "TZ877",
+      "codename": "TZ877",
+      "model": "TZ877"
     }
   ]
 }

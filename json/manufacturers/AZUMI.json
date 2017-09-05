@@ -17,69 +17,29 @@
       "model": "A50_Style_Plus"
     },
     {
-      "market_name": "AZUMI IRO A4Q",
-      "codename": "IRO_A4_Q",
-      "model": "Azumi_IRO_A4_Q"
+      "market_name": "A50LT",
+      "codename": "A50LT",
+      "model": "A50LT"
     },
     {
-      "market_name": "AZUMI IRO A4Q",
-      "codename": "IRO_A4_Q_AF",
-      "model": "Azumi_IRO_A4_Q"
-    },
-    {
-      "market_name": "AZUMI IRO A5 QL",
-      "codename": "IRO_A5_QL",
-      "model": "Azumi_IRO_A5_QL"
-    },
-    {
-      "market_name": "AZUMI IRO A5 QL",
-      "codename": "IRO_A5_QL_OM",
-      "model": "Azumi_IRO_A5_QL"
-    },
-    {
-      "market_name": "AZUMI IRO A55 Q",
-      "codename": "IRO_A55_Q",
-      "model": "IRO A55 Q"
-    },
-    {
-      "market_name": "AZUMI IRO A5Q",
-      "codename": "IRO_A5_Q",
-      "model": "Azumi_IRO_A5_Q"
-    },
-    {
-      "market_name": "AZUMI IRO A5Q",
-      "codename": "IRO_A5_Q_AF",
-      "model": "Azumi_IRO_A5_Q"
-    },
-    {
-      "market_name": "AZUMI KINZO A55 OLi",
-      "codename": "KINZO_A55_OLi",
-      "model": "Azumi_KINZO_A55_OLi"
-    },
-    {
-      "market_name": "AZUMI KINZO A55QL",
-      "codename": "KINZO_A55_OLi_CL",
-      "model": "Azumi_KINZO_A55_OLi"
-    },
-    {
-      "market_name": "AZUMI KINZO ICHI A5 QL",
-      "codename": "KINZO_ichi_A5_QL_NA",
-      "model": "KINZO_ichi_A5_QL"
-    },
-    {
-      "market_name": "Azumi AX5",
+      "market_name": "AX5",
       "codename": "AX5",
       "model": "Azumi AX5"
     },
     {
-      "market_name": "Azumi IRO A5 QLT",
-      "codename": "IRO_A5_QLT",
-      "model": "Azumi_IRO_A5_QLT"
+      "market_name": "Azumi_Extend_Akaru_55_QL",
+      "codename": "Extend_Akaru_55_QL",
+      "model": "Azumi Extend Akaru 55 QL"
     },
     {
-      "market_name": "Azumi IRO_A4_Q_Pro",
-      "codename": "IRO_A4_Q_PRO",
-      "model": "Azumi_IRO_A4_Q_PRO"
+      "market_name": "Azumi_KIREI_A45_D",
+      "codename": "KIREI_A45_D",
+      "model": "Azumi_KIREI_A45_D"
+    },
+    {
+      "market_name": "Azumi_Speed_Pro_55",
+      "codename": "Speed_Pro_55",
+      "model": "Azumi_Speed_Pro_55"
     },
     {
       "market_name": "DOSHI A55 QL",
@@ -92,9 +52,49 @@
       "model": "EXTEND 55 QL"
     },
     {
+      "market_name": "IRO A4Q",
+      "codename": "IRO_A4_Q",
+      "model": "Azumi_IRO_A4_Q"
+    },
+    {
+      "market_name": "IRO A4Q",
+      "codename": "IRO_A4_Q_AF",
+      "model": "Azumi_IRO_A4_Q"
+    },
+    {
+      "market_name": "IRO A5 QL",
+      "codename": "IRO_A5_QL",
+      "model": "Azumi_IRO_A5_QL"
+    },
+    {
+      "market_name": "IRO A5 QL",
+      "codename": "IRO_A5_QL_OM",
+      "model": "Azumi_IRO_A5_QL"
+    },
+    {
+      "market_name": "IRO A5 QLT",
+      "codename": "IRO_A5_QLT",
+      "model": "Azumi_IRO_A5_QLT"
+    },
+    {
+      "market_name": "IRO A55 Q",
+      "codename": "IRO_A55_Q",
+      "model": "IRO A55 Q"
+    },
+    {
       "market_name": "IRO A55 QL",
       "codename": "IRO_A55_QL",
       "model": "Azumi_IRO_A55_QL"
+    },
+    {
+      "market_name": "IRO A5Q",
+      "codename": "IRO_A5_Q",
+      "model": "Azumi_IRO_A5_Q"
+    },
+    {
+      "market_name": "IRO A5Q",
+      "codename": "IRO_A5_Q_AF",
+      "model": "Azumi_IRO_A5_Q"
     },
     {
       "market_name": "IRO A5QL",
@@ -102,14 +102,39 @@
       "model": "Azumi_IRO_A5_QL"
     },
     {
+      "market_name": "IRO_A4_Q_Pro",
+      "codename": "IRO_A4_Q_PRO",
+      "model": "Azumi_IRO_A4_Q_PRO"
+    },
+    {
+      "market_name": "IRO_A6_Q",
+      "codename": "IRO_A6_Q",
+      "model": "IRO A6 Q"
+    },
+    {
+      "market_name": "KINZO A55 OLi",
+      "codename": "KINZO_A55_OLi",
+      "model": "Azumi_KINZO_A55_OLi"
+    },
+    {
+      "market_name": "KINZO A55QL",
+      "codename": "KINZO_A55_OLi_CL",
+      "model": "Azumi_KINZO_A55_OLi"
+    },
+    {
+      "market_name": "KINZO ICHI A5 QL",
+      "codename": "KINZO_ichi_A5_QL_NA",
+      "model": "KINZO_ichi_A5_QL"
+    },
+    {
       "market_name": "Speed 55",
       "codename": "Speed_55",
       "model": "Speed_55"
     },
     {
-      "market_name": "azumi_A50LT",
-      "codename": "A50LT",
-      "model": "A50LT"
+      "market_name": "T7 3G",
+      "codename": "T7_3G",
+      "model": "Azumi_T7_3G"
     }
   ]
 }

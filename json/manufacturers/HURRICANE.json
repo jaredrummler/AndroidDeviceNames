@@ -2,9 +2,44 @@
   "manufacturer": "Hurricane",
   "devices": [
     {
+      "market_name": "Ace",
+      "codename": "Ace",
+      "model": "Ace"
+    },
+    {
+      "market_name": "Air",
+      "codename": "Air",
+      "model": "Air"
+    },
+    {
+      "market_name": "Beam",
+      "codename": "Beam",
+      "model": "Beam"
+    },
+    {
+      "market_name": "Blast",
+      "codename": "Blast",
+      "model": "Blast"
+    },
+    {
       "market_name": "Bolt",
       "codename": "Bolt",
       "model": "Hurricane_Bolt"
+    },
+    {
+      "market_name": "Charge",
+      "codename": "Charge",
+      "model": "Charge"
+    },
+    {
+      "market_name": "Epic",
+      "codename": "Epic",
+      "model": "Epic"
+    },
+    {
+      "market_name": "Fire",
+      "codename": "Fire",
+      "model": "Fire"
     },
     {
       "market_name": "Flame",
@@ -17,14 +52,24 @@
       "model": "Flex"
     },
     {
-      "market_name": "Hurricane Blast",
-      "codename": "Blast",
-      "model": "Blast"
+      "market_name": "Flint",
+      "codename": "Flint",
+      "model": "Flint"
     },
     {
-      "market_name": "Hurricane Charge",
-      "codename": "Charge",
-      "model": "Charge"
+      "market_name": "Fuse",
+      "codename": "Fuse",
+      "model": "Fuse"
+    },
+    {
+      "market_name": "Galaxy",
+      "codename": "Galaxy",
+      "model": "Galaxy"
+    },
+    {
+      "market_name": "Giga",
+      "codename": "HURRICANE_GIGA",
+      "model": "HURRICANE_GIGA"
     },
     {
       "market_name": "Rush",
@@ -42,6 +87,16 @@
       "model": "Sprint"
     },
     {
+      "market_name": "Surge",
+      "codename": "Surge",
+      "model": "Surge"
+    },
+    {
+      "market_name": "Vega",
+      "codename": "Vega",
+      "model": "Vega"
+    },
+    {
       "market_name": "Vegas",
       "codename": "Vegas",
       "model": "Vegas"
@@ -55,6 +110,11 @@
       "market_name": "Volt",
       "codename": "Hurricane",
       "model": "Volt"
+    },
+    {
+      "market_name": "Vortex",
+      "codename": "C9",
+      "model": "HURRICANE VORTEX"
     },
     {
       "market_name": "Wave",

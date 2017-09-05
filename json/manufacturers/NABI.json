@@ -1,35 +1,60 @@
 {
-  "manufacturer": "nabi",
+  "manufacturer": "Nabi",
   "devices": [
     {
-      "market_name": "nabi 2 Tablet",
+      "market_name": "2 Tablet",
       "codename": "mt799",
       "model": "NABI2-NV7A"
     },
     {
-      "market_name": "nabi 2S Tablet",
+      "market_name": "2S Tablet",
       "codename": "nabi2S",
       "model": "SNB02-NV7A"
     },
     {
-      "market_name": "\"nabi Big Tab HD\\xe2\\x84\\xa2 20\"\"\"",
+      "market_name": "American Girl Tablet",
+      "codename": "NBTY07SMKG",
+      "model": "NBTY07SMKG"
+    },
+    {
+      "market_name": "Barbie Tablet",
+      "codename": "NBTY07SMKG",
+      "model": "NBTY07SMKG"
+    },
+    {
+      "market_name": "\"Big Tab HD\\xe2\\x84\\xa2 20\"\"\"",
       "codename": "DMTAB-NV20A",
       "model": "DMTAB-NV20A"
     },
     {
-      "market_name": "\"nabi Big Tab HD\\xe2\\x84\\xa2 24\"\"\"",
+      "market_name": "\"Big Tab HD\\xe2\\x84\\xa2 24\"\"\"",
       "codename": "DMTAB-NV24A",
       "model": "DMTAB-NV24A"
     },
     {
-      "market_name": "nabi DreamTab HD8 Tablet",
+      "market_name": "DreamTab HD8 Tablet",
       "codename": "DMTAB",
       "model": "DMTAB-IN08A"
     },
     {
-      "market_name": "nabi DreamTab HD8 Tablet",
+      "market_name": "DreamTab HD8 Tablet",
       "codename": "t8400n",
       "model": "DMTAB-NV08B"
+    },
+    {
+      "market_name": "Fisher Price Learning Tablet",
+      "codename": "NBFP07PMKG",
+      "model": "NBFP07PMKG"
+    },
+    {
+      "market_name": "Hot Wheels Tablet",
+      "codename": "NBTY07SMKG",
+      "model": "NBTY07SMKG"
+    },
+    {
+      "market_name": "TOY 7",
+      "codename": "NBTY07SMKG",
+      "model": "NBTY07SMKG"
     }
   ]
 }

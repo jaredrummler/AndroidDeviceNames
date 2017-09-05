@@ -1,5 +1,5 @@
 {
-  "manufacturer": "Xplore_Technologies",
+  "manufacturer": "Xplore Technologies",
   "devices": [
     {
       "market_name": "RangerX",
@@ -10,6 +10,11 @@
       "market_name": "RangerX",
       "codename": "iX101T1_2G",
       "model": "iX101T1-2G"
+    },
+    {
+      "market_name": "XSLATE_D10",
+      "codename": "XSLATE_D10",
+      "model": "iX101B1"
     }
   ]
 }

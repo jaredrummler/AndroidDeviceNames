@@ -2,6 +2,16 @@
   "manufacturer": "Audi AG",
   "devices": [
     {
+      "market_name": "Audi Tab CN",
+      "codename": "sdis1",
+      "model": "Audi tablet"
+    },
+    {
+      "market_name": "Audi tablet",
+      "codename": "sdis1",
+      "model": "Audi tablet"
+    },
+    {
       "market_name": "RSE-III",
       "codename": "RSEIII",
       "model": "RSEIII"

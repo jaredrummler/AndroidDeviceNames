@@ -2,9 +2,29 @@
   "manufacturer": "Medion",
   "devices": [
     {
+      "market_name": "E1050X",
+      "codename": "E1050X",
+      "model": "E1050X"
+    },
+    {
+      "market_name": "E1051X",
+      "codename": "E1051X",
+      "model": "E1051X"
+    },
+    {
+      "market_name": "E4502",
+      "codename": "E4502",
+      "model": "MEDION E4502"
+    },
+    {
       "market_name": "E4506",
       "codename": "E4506",
       "model": "MEDION E4506"
+    },
+    {
+      "market_name": "E5004",
+      "codename": "E5004",
+      "model": "MEDION E5004"
     },
     {
       "market_name": "E5005",
@@ -12,7 +32,7 @@
       "model": "B5060"
     },
     {
-      "market_name": "E5006",
+      "market_name": "E5006/P5006",
       "codename": "B5032",
       "model": "B5032"
     },
@@ -20,6 +40,11 @@
       "market_name": "E5504",
       "codename": "B5530",
       "model": "MEDION B5530"
+    },
+    {
+      "market_name": "E691X",
+      "codename": "E691X",
+      "model": "E691X"
     },
     {
       "market_name": "E731x",
@@ -107,6 +132,11 @@
       "model": "LIFETAB_P891X"
     },
     {
+      "market_name": "LIFETAB P970X",
+      "codename": "lifetab_p970x",
+      "model": "LIFETAB_P970X"
+    },
+    {
       "market_name": "LIFETAB S1032X",
       "codename": "S1032X",
       "model": "S1032X"
@@ -145,16 +175,6 @@
       "market_name": "Lifetab P9514",
       "codename": "LIFETAB_P9514",
       "model": "LIFETAB_P9514"
-    },
-    {
-      "market_name": "MEDION E4502",
-      "codename": "E4502",
-      "model": "MEDION E4502"
-    },
-    {
-      "market_name": "MEDION E5004",
-      "codename": "E5004",
-      "model": "MEDION E5004"
     },
     {
       "market_name": "Media Base P740X",
@@ -207,6 +227,11 @@
       "model": "P850X"
     },
     {
+      "market_name": "P851X",
+      "codename": "P851X",
+      "model": "P851X"
+    },
+    {
       "market_name": "S1035X",
       "codename": "S1035X",
       "model": "S1035X"
@@ -225,6 +250,16 @@
       "market_name": "S7322",
       "codename": "LIFETAB_S732X",
       "model": "LIFETAB_S732X"
+    },
+    {
+      "market_name": "X1030x",
+      "codename": "X1030X",
+      "model": "X1030X"
+    },
+    {
+      "market_name": "X1031X",
+      "codename": "X1031X",
+      "model": "X1031X"
     },
     {
       "market_name": "X5520",

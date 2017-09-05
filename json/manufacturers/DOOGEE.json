@@ -2,9 +2,19 @@
   "manufacturer": "Doogee",
   "devices": [
     {
+      "market_name": "Shoot_ 1",
+      "codename": "Shoot_1",
+      "model": "Shoot_1"
+    },
+    {
       "market_name": "T5S",
       "codename": "T5S",
       "model": "T5S"
+    },
+    {
+      "market_name": "X10",
+      "codename": "doogee-X10",
+      "model": "DOOGEE X10"
     },
     {
       "market_name": "X5  MAX",
@@ -15,6 +25,11 @@
       "market_name": "X5 max pro",
       "codename": "X5max_PRO",
       "model": "X5max_PRO"
+    },
+    {
+      "market_name": "X6pro",
+      "codename": "x5602_fxkj_k20",
+      "model": "X6pro"
     },
     {
       "market_name": "X7",
@@ -28,6 +43,11 @@
     },
     {
       "market_name": "X9 Mini",
+      "codename": "X9_Mini",
+      "model": "X9 Mini"
+    },
+    {
+      "market_name": "X9 Mini",
       "codename": "t530_dg_a54",
       "model": "X9 Mini"
     },
@@ -35,6 +55,11 @@
       "market_name": "X9 Pro",
       "codename": "X9pro",
       "model": "X9pro"
+    },
+    {
+      "market_name": "X9S",
+      "codename": "X9S",
+      "model": "X9S"
     },
     {
       "market_name": "Y6",
@@ -45,6 +70,11 @@
       "market_name": "Y6 C",
       "codename": "Y6C",
       "model": "Y6C"
+    },
+    {
+      "market_name": "shoot 2",
+      "codename": "t591_dga57_we",
+      "model": "Shoot_2"
     }
   ]
 }

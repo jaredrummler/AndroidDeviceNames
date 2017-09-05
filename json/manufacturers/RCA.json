@@ -32,6 +32,11 @@
       "model": "RCT6K03W13"
     },
     {
+      "market_name": "11 Galileo Pro",
+      "codename": "RCT6513W87",
+      "model": "RCT6513W87"
+    },
+    {
       "market_name": "11 Maven Pro",
       "codename": "RCT6213W87DK",
       "model": "RCT6213W87DK"
@@ -67,6 +72,16 @@
       "model": "BNT-710"
     },
     {
+      "market_name": "DAA730R / RCA DAA738R",
+      "codename": "MD7081",
+      "model": "DAA730R"
+    },
+    {
+      "market_name": "DAA730R / RCA DAA738R",
+      "codename": "MD7081",
+      "model": "DAA738R"
+    },
+    {
       "market_name": "Mercury 7",
       "codename": "CT9973W43M",
       "model": "CT9973W43M"
@@ -82,54 +97,24 @@
       "model": "RCT6223W87"
     },
     {
-      "market_name": "RCA DAA730R / RCA DAA738R",
-      "codename": "MD7081",
-      "model": "DAA730R"
-    },
-    {
-      "market_name": "RCA DAA730R / RCA DAA738R",
-      "codename": "MD7081",
-      "model": "DAA738R"
-    },
-    {
-      "market_name": "RCA RCS13101T",
+      "market_name": "RCS13101T",
       "codename": "RCS13101T",
       "model": "RCS13101T"
-    },
-    {
-      "market_name": "RCA RCT6077W2",
-      "codename": "RCT6077W2",
-      "model": "RCT6077W2"
-    },
-    {
-      "market_name": "RCA RCT6077W22",
-      "codename": "RCT6077W22",
-      "model": "RCT6077W22"
-    },
-    {
-      "market_name": "RCA RCT6272W23",
-      "codename": "RCT6272W23",
-      "model": "RCT6272W23"
-    },
-    {
-      "market_name": "RCA RCT6378W2",
-      "codename": "RCT6378W2",
-      "model": "RCT6378W2"
-    },
-    {
-      "market_name": "RCA RCT6691W3",
-      "codename": "RCT6691W3",
-      "model": "RCT6691W3"
-    },
-    {
-      "market_name": "RCA RCT6973W43",
-      "codename": "RCT6973W43",
-      "model": "RCT6973W43"
     },
     {
       "market_name": "RCT6002W46",
       "codename": "RCT6002W46",
       "model": "RCT6002W46"
+    },
+    {
+      "market_name": "RCT6077W2",
+      "codename": "RCT6077W2",
+      "model": "RCT6077W2"
+    },
+    {
+      "market_name": "RCT6077W22",
+      "codename": "RCT6077W22",
+      "model": "RCT6077W22"
     },
     {
       "market_name": "RCT6103W46",
@@ -147,6 +132,11 @@
       "model": "RCT6223W97"
     },
     {
+      "market_name": "RCT6272W23",
+      "codename": "RCT6272W23",
+      "model": "RCT6272W23"
+    },
+    {
       "market_name": "RCT6273W26",
       "codename": "RCT6273W26",
       "model": "RCT6273W26"
@@ -160,6 +150,11 @@
       "market_name": "RCT6293W23",
       "codename": "RCT6293W23",
       "model": "RCT6293W23"
+    },
+    {
+      "market_name": "RCT6378W2",
+      "codename": "RCT6378W2",
+      "model": "RCT6378W2"
     },
     {
       "market_name": "RCT6573W23",
@@ -182,6 +177,11 @@
       "model": "RCT6673W-V1"
     },
     {
+      "market_name": "RCT6691W3",
+      "codename": "RCT6691W3",
+      "model": "RCT6691W3"
+    },
+    {
       "market_name": "RCT6773W22",
       "codename": "RCT6773W22",
       "model": "RCT6773W22"
@@ -195,6 +195,11 @@
       "market_name": "RCT6873W42M",
       "codename": "RCT6873W42M",
       "model": "RCT6873W42M"
+    },
+    {
+      "market_name": "RCT6973W43",
+      "codename": "RCT6973W43",
+      "model": "RCT6973W43"
     },
     {
       "market_name": "RCT6973W43M",

@@ -2,14 +2,34 @@
   "manufacturer": "Condor",
   "devices": [
     {
+      "market_name": "A9",
+      "codename": "PGN_507",
+      "model": "PGN-507"
+    },
+    {
+      "market_name": "Allure  M1",
+      "codename": "Allure_M1",
+      "model": "Allure M1"
+    },
+    {
       "market_name": "Allure A55 Plus",
       "codename": "PGN613",
       "model": "PGN613"
     },
     {
+      "market_name": "Allure M1 Plus",
+      "codename": "Allure_M1_Plus",
+      "model": "Allure M1 Plus"
+    },
+    {
       "market_name": "C1+",
       "codename": "C1Plus",
       "model": "C1+"
+    },
+    {
+      "market_name": "C6+",
+      "codename": "PGN_508",
+      "model": "PGN-508"
     },
     {
       "market_name": "C7",
@@ -20,41 +40,6 @@
       "market_name": "C_5",
       "codename": "u970_5",
       "model": "C-6"
-    },
-    {
-      "market_name": "Condor A9",
-      "codename": "PGN_507",
-      "model": "PGN-507"
-    },
-    {
-      "market_name": "Condor C6+",
-      "codename": "PGN_508",
-      "model": "PGN-508"
-    },
-    {
-      "market_name": "Condor T705",
-      "codename": "TGW710G",
-      "model": "TGW710G"
-    },
-    {
-      "market_name": "Condor TGW102L",
-      "codename": "TGW102L",
-      "model": "TGW102L"
-    },
-    {
-      "market_name": "Condor TGW706",
-      "codename": "TGW706",
-      "model": "TGW706"
-    },
-    {
-      "market_name": "Condor TGW801G",
-      "codename": "TGW801G",
-      "model": "TGW801G"
-    },
-    {
-      "market_name": "Condor TGW801L",
-      "codename": "TGW801L",
-      "model": "TGW801L"
     },
     {
       "market_name": "G6 Pro",
@@ -75,6 +60,11 @@
       "market_name": "Griffe G5 Plus",
       "codename": "PAM524",
       "model": "PAM524"
+    },
+    {
+      "market_name": "Griffe T1",
+      "codename": "Griffe_T1",
+      "model": "SP413"
     },
     {
       "market_name": "HS-U939",
@@ -212,6 +202,16 @@
       "model": "PGN528"
     },
     {
+      "market_name": "SP530",
+      "codename": "SP530",
+      "model": "Griffe T2"
+    },
+    {
+      "market_name": "T705",
+      "codename": "TGW710G",
+      "model": "TGW710G"
+    },
+    {
       "market_name": "TFX711G",
       "codename": "TFX711G",
       "model": "TFX711G"
@@ -230,6 +230,26 @@
       "market_name": "TFX714L",
       "codename": "TFX714L",
       "model": "TFX714L"
+    },
+    {
+      "market_name": "TGW102L",
+      "codename": "TGW102L",
+      "model": "TGW102L"
+    },
+    {
+      "market_name": "TGW706",
+      "codename": "TGW706",
+      "model": "TGW706"
+    },
+    {
+      "market_name": "TGW801G",
+      "codename": "TGW801G",
+      "model": "TGW801G"
+    },
+    {
+      "market_name": "TGW801L",
+      "codename": "TGW801L",
+      "model": "TGW801L"
     },
     {
       "market_name": "TMK715L",

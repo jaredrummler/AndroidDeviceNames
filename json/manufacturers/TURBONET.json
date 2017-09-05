@@ -2,14 +2,14 @@
   "manufacturer": "Turbonet",
   "devices": [
     {
+      "market_name": "ADR1776",
+      "codename": "ADR1776",
+      "model": "ADR1776"
+    },
+    {
       "market_name": "TN500A1",
       "codename": "TN500A1",
       "model": "TN500A1"
-    },
-    {
-      "market_name": "TurboNET ADR1776",
-      "codename": "ADR1776",
-      "model": "ADR1776"
     },
     {
       "market_name": "TurboTab E1",

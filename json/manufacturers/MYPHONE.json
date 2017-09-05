@@ -1,10 +1,140 @@
 {
-  "manufacturer": "myPhone",
+  "manufacturer": "Myphone",
   "devices": [
     {
       "market_name": "CUBE",
       "codename": "myphone_cube",
       "model": "myPhone Cube"
+    },
+    {
+      "market_name": "Hammer AXE M LTE",
+      "codename": "AXE_M_LTE_OPM",
+      "model": "HAMMER_AXE_M_LTE"
+    },
+    {
+      "market_name": "Iron 2",
+      "codename": "IRON_2_EN",
+      "model": "IRON_2"
+    },
+    {
+      "market_name": "Iron 2",
+      "codename": "IRON_2_OPM",
+      "model": "IRON_2"
+    },
+    {
+      "market_name": "My phone PRIME PLUS",
+      "codename": "Prime_Plus_EN",
+      "model": "Prime_Plus"
+    },
+    {
+      "market_name": "UNO",
+      "codename": "UNO_sprout",
+      "model": "MyPhone UNO"
+    },
+    {
+      "market_name": "brown 1",
+      "codename": "V4701_I01",
+      "model": "brown 1"
+    },
+    {
+      "market_name": "my28S",
+      "codename": "MyPhone_my28S",
+      "model": "MyPhone my28S"
+    },
+    {
+      "market_name": "my28S DTV",
+      "codename": "MyPhone_my28S_DTV",
+      "model": "MyPhone my28S DTV"
+    },
+    {
+      "market_name": "my28S Smart",
+      "codename": "MyPhone_my28S_Smart",
+      "model": "my28S Smart"
+    },
+    {
+      "market_name": "my71 DTV",
+      "codename": "my71_DTV",
+      "model": "MyPhone my71 DTV"
+    },
+    {
+      "market_name": "my72 DTV",
+      "codename": "MyPhone_my72_DTV",
+      "model": "MyPhone my72 DTV"
+    },
+    {
+      "market_name": "my73 DTV",
+      "codename": "MyPhone_my73_DTV",
+      "model": "MyPhone my73 DTV"
+    },
+    {
+      "market_name": "my75 DTV",
+      "codename": "MyPhone_my75_DTV",
+      "model": "MyPhone my75 DTV"
+    },
+    {
+      "market_name": "my76 DTV",
+      "codename": "MyPhonemy76DTV",
+      "model": "MyPhone_my76 DTV"
+    },
+    {
+      "market_name": "my77 DTV",
+      "codename": "MyPhone_my77_DTV",
+      "model": "MyPhone my77 DTV"
+    },
+    {
+      "market_name": "my81 DTV",
+      "codename": "MyPhone_my81_DTV",
+      "model": "MyPhone my81 DTV"
+    },
+    {
+      "market_name": "my85 DTV",
+      "codename": "MyPhone_my85_DTV",
+      "model": "MyPhone my85 DTV"
+    },
+    {
+      "market_name": "my86 DTV",
+      "codename": "MyPhone_my86_DTV",
+      "model": "MyPhone_my86_DTV"
+    },
+    {
+      "market_name": "my87 DTV",
+      "codename": "MyPhone_my87_DTV",
+      "model": "MyPhone my87 DTV"
+    },
+    {
+      "market_name": "my88 DTV",
+      "codename": "MyPhone_my88_DTV",
+      "model": "MyPhone my88 DTV"
+    },
+    {
+      "market_name": "my89 DTV",
+      "codename": "MyPhone_my89_DTV",
+      "model": "MyPhone my89 DTV"
+    },
+    {
+      "market_name": "my91 DTV",
+      "codename": "my91_DTV",
+      "model": "MyPhone my91 DTV"
+    },
+    {
+      "market_name": "my92 DTV",
+      "codename": "MyPhone_my92_DTV",
+      "model": "MyPhone my92 DTV"
+    },
+    {
+      "market_name": "my93 DTV",
+      "codename": "MyPhone_my93_DTV",
+      "model": "MyPhone my93 DTV"
+    },
+    {
+      "market_name": "my95 DTV",
+      "codename": "MyPhone_my95_DTV",
+      "model": "MyPhone my95 DTV"
+    },
+    {
+      "market_name": "my96 DTV",
+      "codename": "MyPhone_my96_DTV",
+      "model": "MyPhone my96 DTV"
     }
   ]
 }

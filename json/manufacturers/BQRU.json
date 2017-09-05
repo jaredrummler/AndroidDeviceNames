@@ -2,6 +2,41 @@
   "manufacturer": "BQru",
   "devices": [
     {
+      "market_name": "5060",
+      "codename": "BQru-5060",
+      "model": "BQru-5060"
+    },
+    {
+      "market_name": "BQ 5503 NICE 2",
+      "codename": "BQru_5503",
+      "model": "BQru-5503"
+    },
+    {
+      "market_name": "BQ-4028UP!",
+      "codename": "BQru-4028",
+      "model": "BQru-4028"
+    },
+    {
+      "market_name": "BQ-4072 Strike Mini",
+      "codename": "BQru_4072",
+      "model": "BQru-4072"
+    },
+    {
+      "market_name": "BQ-4500L",
+      "codename": "BQru-4500",
+      "model": "BQru-4500"
+    },
+    {
+      "market_name": "BQ-5000L",
+      "codename": "BQru-5000",
+      "model": "BQru-5000"
+    },
+    {
+      "market_name": "BQ-5035 Velvet",
+      "codename": "BQru-5035",
+      "model": "BQru-5035"
+    },
+    {
       "market_name": "BQ-5044 Strike LTE",
       "codename": "BQru-5044",
       "model": "BQru-5044"
@@ -15,6 +50,11 @@
       "market_name": "BQ-5058 Strike Power Easy",
       "codename": "BQru-5058",
       "model": "BQru_BQru-5058"
+    },
+    {
+      "market_name": "BQ-5059 Strike Power",
+      "codename": "BQru_5059",
+      "model": "BQru-5059"
     },
     {
       "market_name": "BQ-5201",
@@ -32,14 +72,69 @@
       "model": "BQru-5203"
     },
     {
+      "market_name": "BQ-5204 Strike Selfie",
+      "codename": "BQru-5204",
+      "model": "BQru-5204"
+    },
+    {
+      "market_name": "BQ-5504\\xc2\\xa0Strike\\xc2\\xa0Selfie\\xc2\\xa0Max",
+      "codename": "BQru_5504",
+      "model": "BQru-5504"
+    },
+    {
+      "market_name": "BQ-5510 Strike Power Max 4G",
+      "codename": "BQru_5510",
+      "model": "BQru-5510"
+    },
+    {
       "market_name": "BQ-5521 STRIKE POWER MAX",
       "codename": "BQru-5521",
       "model": "BQru-5521"
     },
     {
-      "market_name": "BQru-5060",
-      "codename": "BQru-5060",
-      "model": "BQru-5060"
+      "market_name": "BQ-5590 Spring",
+      "codename": "BQru_5590",
+      "model": "BQru_5590"
+    },
+    {
+      "market_name": "BQ-7081G",
+      "codename": "BQru-7081",
+      "model": "BQru-7081"
+    },
+    {
+      "market_name": "BQru-4526",
+      "codename": "BQru-4526",
+      "model": "BQru-4526"
+    },
+    {
+      "market_name": "BQru-5022",
+      "codename": "BQru",
+      "model": "BQru-5022"
+    },
+    {
+      "market_name": "BQru-7082",
+      "codename": "BQru-7082",
+      "model": "BQru-7082"
+    },
+    {
+      "market_name": "Bqru-5037",
+      "codename": "BQru-5037",
+      "model": "BQru-5037"
+    },
+    {
+      "market_name": "CRYSTAL",
+      "codename": "BQru-5054",
+      "model": "BQru-5054"
+    },
+    {
+      "market_name": "FOX  POWER",
+      "codename": "BQru-4583",
+      "model": "BQru-4583"
+    },
+    {
+      "market_name": "FOX POWER",
+      "codename": "BQru-4583",
+      "model": "BQru-4583"
     }
   ]
 }

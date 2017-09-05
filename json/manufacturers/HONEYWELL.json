@@ -37,6 +37,46 @@
       "model": "CX75 AN0"
     },
     {
+      "market_name": "CN51",
+      "codename": "CN51_NC0",
+      "model": "CN51 NC0"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_NCF",
+      "model": "CN51 NCF"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_NCU",
+      "model": "CN51 NCU"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_NN0",
+      "model": "CN51 NN0"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_QC0",
+      "model": "CN51 QC0"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_QCF",
+      "model": "CN51 QCF"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_QCU",
+      "model": "CN51 QCU"
+    },
+    {
+      "market_name": "CN51",
+      "codename": "CN51_QN0",
+      "model": "CN51 QN0"
+    },
+    {
       "market_name": "CN75",
       "codename": "CN75",
       "model": "CX75 NC0"
@@ -75,6 +115,11 @@
       "market_name": "CN75E",
       "codename": "CN75E",
       "model": "CX75 QCF"
+    },
+    {
+      "market_name": "CT50",
+      "codename": "CT50L0N-CS12S",
+      "model": "CT50"
     },
     {
       "market_name": "CT50",
@@ -93,6 +138,11 @@
     },
     {
       "market_name": "CT50",
+      "codename": "CT50LUN-CS12S",
+      "model": "CT50"
+    },
+    {
+      "market_name": "CT50",
       "codename": "CT50LUN-CS15S",
       "model": "CT50"
     },
@@ -105,6 +155,26 @@
       "market_name": "D75E",
       "codename": "75E-L0N",
       "model": "D75E"
+    },
+    {
+      "market_name": "Dolphin 70e Black",
+      "codename": "dblack_gn",
+      "model": "Dolphin 70e Black"
+    },
+    {
+      "market_name": "Dolphin 70e Black",
+      "codename": "dblack_go",
+      "model": "Dolphin 70e Black"
+    },
+    {
+      "market_name": "Dolphin 70e Black",
+      "codename": "dblack_wn",
+      "model": "Dolphin 70e Black"
+    },
+    {
+      "market_name": "Dolphin 70e Black",
+      "codename": "dblack_wo",
+      "model": "Dolphin 70e Black"
     },
     {
       "market_name": "Dolphin CT50",
@@ -123,6 +193,11 @@
     },
     {
       "market_name": "EDA50",
+      "codename": "eda50-011",
+      "model": "EDA50"
+    },
+    {
+      "market_name": "EDA50",
       "codename": "eda50-111",
       "model": "EDA50"
     },
@@ -132,79 +207,34 @@
       "model": "Glory50"
     },
     {
+      "market_name": "EDA50",
+      "codename": "eda50-211",
+      "model": "EDA50"
+    },
+    {
+      "market_name": "EDA50K",
+      "codename": "eda50k-0",
+      "model": "EDA50K"
+    },
+    {
+      "market_name": "EDA50K",
+      "codename": "eda50k-1",
+      "model": "EDA50K"
+    },
+    {
       "market_name": "EDA50K",
       "codename": "eda50k-1",
       "model": "Glory EDA50K"
     },
     {
-      "market_name": "Honeywell CN51",
-      "codename": "CN51_NC0",
-      "model": "CN51 NC0"
+      "market_name": "EDA70",
+      "codename": "eda70-0",
+      "model": "EDA70"
     },
     {
-      "market_name": "Honeywell CN51",
-      "codename": "CN51_NCF",
-      "model": "CN51 NCF"
-    },
-    {
-      "market_name": "Honeywell CN51",
-      "codename": "CN51_NCU",
-      "model": "CN51 NCU"
-    },
-    {
-      "market_name": "Honeywell CN51",
-      "codename": "CN51_NN0",
-      "model": "CN51 NN0"
-    },
-    {
-      "market_name": "Honeywell CN51",
-      "codename": "CN51_QC0",
-      "model": "CN51 QC0"
-    },
-    {
-      "market_name": "Honeywell CN51",
-      "codename": "CN51_QCF",
-      "model": "CN51 QCF"
-    },
-    {
-      "market_name": "Honeywell CN51",
-      "codename": "CN51_QCU",
-      "model": "CN51 QCU"
-    },
-    {
-      "market_name": "Honeywell CN51",
-      "codename": "CN51_QN0",
-      "model": "CN51 QN0"
-    },
-    {
-      "market_name": "Honeywell CT50",
-      "codename": "CT50L0N-CS12S",
-      "model": "CT50"
-    },
-    {
-      "market_name": "Honeywell CT50",
-      "codename": "CT50LUN-CS12S",
-      "model": "CT50"
-    },
-    {
-      "market_name": "Honeywell Dolphin 70e Black",
-      "codename": "dblack_gn",
-      "model": "Dolphin 70e Black"
-    },
-    {
-      "market_name": "Honeywell Dolphin 70e Black",
-      "codename": "dblack_go",
-      "model": "Dolphin 70e Black"
-    },
-    {
-      "market_name": "Honeywell Dolphin 70e Black",
-      "codename": "dblack_wn",
-      "model": "Dolphin 70e Black"
-    },
-    {
-      "market_name": "Honeywell Dolphin 70e Black",
-      "codename": "dblack_wo",
-      "model": "Dolphin 70e Black"
+      "market_name": "EDA70",
+      "codename": "eda70-3",
+      "model": "EDA70"
     }
   ]
 }

@@ -2,6 +2,11 @@
   "manufacturer": "Partner",
   "devices": [
     {
+      "market_name": "Batman",
+      "codename": "Batman",
+      "model": "S70PCI"
+    },
+    {
       "market_name": "OT-310",
       "codename": "OT-310",
       "model": "OT-310"

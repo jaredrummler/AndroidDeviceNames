@@ -2,6 +2,16 @@
   "manufacturer": "Ascom Wireless Solutions",
   "devices": [
     {
+      "market_name": "Ascom Myco 2 Cellular",
+      "codename": "ACBB",
+      "model": "SH1"
+    },
+    {
+      "market_name": "Ascom Myco 2 WiFi",
+      "codename": "ABBB",
+      "model": "SH1"
+    },
+    {
       "market_name": "Ascom Myco Cellular",
       "codename": "ACBA",
       "model": "SH1"

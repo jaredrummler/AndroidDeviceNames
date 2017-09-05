@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Oraimo",
+  "devices": [
+    {
+      "market_name": "R401",
+      "codename": "oraimo-R401",
+      "model": "oraimo R401"
+    },
+    {
+      "market_name": "R402",
+      "codename": "oraimo-R402",
+      "model": "oraimo R402"
+    },
+    {
+      "market_name": "oraimo R401S",
+      "codename": "oraimo-R401",
+      "model": "oraimo R401S"
+    }
+  ]
+}

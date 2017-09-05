@@ -2,9 +2,44 @@
   "manufacturer": "Quantum",
   "devices": [
     {
+      "market_name": "FLY",
+      "codename": "Q7",
+      "model": "Quantum Fly"
+    },
+    {
+      "market_name": "Go",
+      "codename": "Q1",
+      "model": "Quantum Go"
+    },
+    {
+      "market_name": "Go",
+      "codename": "Q2",
+      "model": "Quantum Go"
+    },
+    {
       "market_name": "Go 2",
       "codename": "Q19",
       "model": "GO 2"
+    },
+    {
+      "market_name": "MUV",
+      "codename": "Q3B",
+      "model": "Quantum MUV"
+    },
+    {
+      "market_name": "MUV 3G",
+      "codename": "Q3C",
+      "model": "MUV"
+    },
+    {
+      "market_name": "MUV 3G",
+      "codename": "Q3C",
+      "model": "MUV 3G"
+    },
+    {
+      "market_name": "MUV PRO",
+      "codename": "Q5",
+      "model": "Quantum MUV PRO"
     },
     {
       "market_name": "MUV UP",
@@ -12,44 +47,19 @@
       "model": "Quantum MUV UP"
     },
     {
-      "market_name": "QSPT-1952",
-      "codename": "QF3A",
-      "model": "QT-195W-aa2"
-    },
-    {
-      "market_name": "Quantum FLY",
-      "codename": "Q7",
-      "model": "Quantum Fly"
-    },
-    {
-      "market_name": "Quantum Go",
-      "codename": "Q1",
-      "model": "Quantum Go"
-    },
-    {
-      "market_name": "Quantum Go",
-      "codename": "Q2",
-      "model": "Quantum Go"
-    },
-    {
-      "market_name": "Quantum MUV",
-      "codename": "Q3B",
-      "model": "Quantum MUV"
-    },
-    {
-      "market_name": "Quantum MUV PRO",
-      "codename": "Q5",
-      "model": "Quantum MUV PRO"
-    },
-    {
-      "market_name": "Quantum Muv",
+      "market_name": "Muv",
       "codename": "Q3",
       "model": "MUV"
     },
     {
-      "market_name": "Quantum Muv",
+      "market_name": "Muv",
       "codename": "Q3",
       "model": "Quantum MUV"
+    },
+    {
+      "market_name": "QSPT-1952",
+      "codename": "QF3A",
+      "model": "QT-195W-aa2"
     },
     {
       "market_name": "Twist Neo",
@@ -70,6 +80,11 @@
       "market_name": "You L",
       "codename": "Q11",
       "model": "You L"
+    },
+    {
+      "market_name": "i9i",
+      "codename": "QMobile_i9i",
+      "model": "QMobile I9i"
     }
   ]
 }

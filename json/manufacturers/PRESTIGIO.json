@@ -7,6 +7,16 @@
       "model": "GV7790"
     },
     {
+      "market_name": "Grace",
+      "codename": "PSP7557",
+      "model": "PSP7557"
+    },
+    {
+      "market_name": "Grace 3118 3G",
+      "codename": "JU80A2G",
+      "model": "PMT3118_3G"
+    },
+    {
       "market_name": "Grace X3",
       "codename": "PSP3455DUO",
       "model": "PSP3455DUO"
@@ -70,6 +80,21 @@
       "market_name": "MultiPad Thunder 7.0i",
       "codename": "g01p",
       "model": "PMT3377_Wi"
+    },
+    {
+      "market_name": "MultiPad Wize 3009",
+      "codename": "PMT3009_Wi_C",
+      "model": "PMT3009_Wi_C"
+    },
+    {
+      "market_name": "MultiPad Wize 3017",
+      "codename": "PMT3017_WI",
+      "model": "PMT3017_WI"
+    },
+    {
+      "market_name": "MultiPad Wize 3018",
+      "codename": "PMT3018_WI",
+      "model": "PMT3018_WI"
     },
     {
       "market_name": "MultiPad Wize 3037 3G",
@@ -302,9 +327,19 @@
       "model": "PMT5487_3G"
     },
     {
+      "market_name": "PMT5587_Wi",
+      "codename": "AML8726-MXS",
+      "model": "PMT5587_Wi"
+    },
+    {
       "market_name": "PMT5777_3G",
       "codename": "PMT5777_3G",
       "model": "PMT5777_3G"
+    },
+    {
+      "market_name": "PMT5877C",
+      "codename": "PMT5877C",
+      "model": "PMT5877C"
     },
     {
       "market_name": "PMT5887_3G",
@@ -317,9 +352,19 @@
       "model": "PMT7008_4G"
     },
     {
+      "market_name": "PMT7077_3G",
+      "codename": "PMT7077_3G",
+      "model": "PMT7077_3G"
+    },
+    {
       "market_name": "PMT7177_3G",
       "codename": "PMT7177_3G",
       "model": "PMT7177_3G"
+    },
+    {
+      "market_name": "PMT7287C3G",
+      "codename": "PMT7287C3G",
+      "model": "PMT7287C3G"
     },
     {
       "market_name": "PMT7287_3G",
@@ -492,6 +537,11 @@
       "model": "PSP5047DUO"
     },
     {
+      "market_name": "PSP5307DUO",
+      "codename": "PSP5307DUO",
+      "model": "PSP5307DUO"
+    },
+    {
       "market_name": "PSP5454DUO",
       "codename": "PSP5454DUO",
       "model": "PSP5454DUO"
@@ -572,72 +622,37 @@
       "model": "PSP7530DUO"
     },
     {
-      "market_name": "Prestigio Grace",
-      "codename": "PSP7557",
-      "model": "PSP7557"
+      "market_name": "PSP7550DUO",
+      "codename": "DW55B8L",
+      "model": "PSP7550DUO"
     },
     {
-      "market_name": "Prestigio Grace 3118 3G",
-      "codename": "JU80A2G",
-      "model": "PMT3118_3G"
+      "market_name": "PSP7551DUO",
+      "codename": "DW55B8L",
+      "model": "PSP7551DUO"
     },
     {
-      "market_name": "Prestigio MultiPad Wize 3009",
-      "codename": "PMT3009_Wi_C",
-      "model": "PMT3009_Wi_C"
+      "market_name": "PSP7552DUO",
+      "codename": "DW55B8L",
+      "model": "PSP7552DUO"
     },
     {
-      "market_name": "Prestigio MultiPad Wize 3017",
-      "codename": "PMT3017_WI",
-      "model": "PMT3017_WI"
-    },
-    {
-      "market_name": "Prestigio MultiPad Wize 3018",
-      "codename": "PMT3018_WI",
-      "model": "PMT3018_WI"
-    },
-    {
-      "market_name": "Prestigio PMT5587_Wi",
-      "codename": "AML8726-MXS",
-      "model": "PMT5587_Wi"
-    },
-    {
-      "market_name": "Prestigio PMT5877C",
-      "codename": "PMT5877C",
-      "model": "PMT5877C"
-    },
-    {
-      "market_name": "Prestigio PMT7077_3G",
-      "codename": "PMT7077_3G",
-      "model": "PMT7077_3G"
-    },
-    {
-      "market_name": "Prestigio PMT7287C3G",
-      "codename": "PMT7287C3G",
-      "model": "PMT7287C3G"
-    },
-    {
-      "market_name": "Prestigio PSP5307DUO",
-      "codename": "PSP5307DUO",
-      "model": "PSP5307DUO"
-    },
-    {
-      "market_name": "Prestigio WIZE A3",
+      "market_name": "WIZE A3",
       "codename": "PSP3453DUO",
       "model": "PSP3453DUO"
     },
     {
-      "market_name": "Prestigio Wize 3131 3G",
+      "market_name": "Wize 3131 3G",
       "codename": "LS10A3G",
       "model": "PMT3131_3G"
     },
     {
-      "market_name": "Prestigio Wize 3147 3G",
+      "market_name": "Wize 3147 3G",
       "codename": "LS70A2G",
       "model": "PMT3147_3G"
     },
     {
-      "market_name": "Prestigio Wize 3401 3G",
+      "market_name": "Wize 3401 3G",
       "codename": "JU10A3G",
       "model": "PMT3401_3G"
     }

@@ -7,9 +7,27 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "BLADE L110",
+    "codename": "ZTE_BLADE_L110",
+    "model": "ZTE BLADE L110"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "BLADE L111",
+    "codename": "ZTE_BLADE_L110",
+    "model": "ZTE BLADE L111"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "Blade L110",
     "codename": "ZTE_BLADE_L110",
     "model": "Blade L110"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Blade L110",
+    "codename": "ZTE_BLADE_L110",
+    "model": "ZTE Blade L110"
   },
   {
     "manufacturer": "ZTE",
@@ -31,20 +49,14 @@
   },
   {
     "manufacturer": "ZTE",
-    "market_name": "ZTE BLADE L110",
+    "market_name": "VERGATARIO5PLUS",
     "codename": "ZTE_BLADE_L110",
-    "model": "ZTE BLADE L110"
+    "model": "VERGATARIO5PLUS"
   },
   {
     "manufacturer": "ZTE",
     "market_name": "ZTE BLADE L111",
     "codename": "ZTE_BLADE_L110",
     "model": "ZTE BLADE L111"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Blade L110",
-    "codename": "ZTE_BLADE_L110",
-    "model": "ZTE Blade L110"
   }
 ]

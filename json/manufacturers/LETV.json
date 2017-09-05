@@ -42,22 +42,22 @@
       "model": "x600"
     },
     {
-      "market_name": "LeTV uMax85",
-      "codename": "DemeterDV",
-      "model": "uMax85"
-    },
-    {
-      "market_name": "Letv Max3-65",
+      "market_name": "Max3-65",
       "codename": "L653AN_US",
       "model": "Max3-65"
     },
     {
-      "market_name": "Letv Super TV X3-55 Pro",
+      "market_name": "Super TV X3-55 Pro",
       "codename": "L553AN_US",
       "model": "X3-55 Pro"
     },
     {
-      "market_name": "Letv x600",
+      "market_name": "uMax85",
+      "codename": "DemeterDV",
+      "model": "uMax85"
+    },
+    {
+      "market_name": "x600",
       "codename": "x600",
       "model": "X600"
     }

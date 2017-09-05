@@ -1,8 +1,14 @@
 [
   {
-    "manufacturer": "NGM",
+    "manufacturer": "NGM Italia SRL",
     "market_name": "Infinity",
     "codename": "Infinity",
     "model": "Infinity"
+  },
+  {
+    "manufacturer": "Navon",
+    "market_name": "Infinity",
+    "codename": "Infinity",
+    "model": "Navon_Infinity"
   }
 ]

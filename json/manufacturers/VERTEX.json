@@ -2,6 +2,51 @@
   "manufacturer": "Vertex",
   "devices": [
     {
+      "market_name": "Impress Dune",
+      "codename": "Impress_Dune",
+      "model": "Impress_Dune"
+    },
+    {
+      "market_name": "Impress Eagle",
+      "codename": "Impress_Eagle",
+      "model": "Impress_Eagle"
+    },
+    {
+      "market_name": "Impress Groove",
+      "codename": "Impress_Groove",
+      "model": "Impress_Groove"
+    },
+    {
+      "market_name": "Impress Lightning",
+      "codename": "Impress_Lightning",
+      "model": "Impress_Lightning"
+    },
+    {
+      "market_name": "Impress Lion (3G)",
+      "codename": "Impress_Lion_3G",
+      "model": "Impress_Lion_3G"
+    },
+    {
+      "market_name": "Impress Lion (4G)",
+      "codename": "Impress_Lion_4G",
+      "model": "Impress_Lion_4G"
+    },
+    {
+      "market_name": "Impress Lotus",
+      "codename": "Impress_Lotus",
+      "model": "Impress_Lotus"
+    },
+    {
+      "market_name": "Impress Luck",
+      "codename": "Impress_Luck",
+      "model": "Impress_Luck"
+    },
+    {
+      "market_name": "Impress Ra (4G)",
+      "codename": "Impress_Ra",
+      "model": "Impress_Ra"
+    },
+    {
       "market_name": "Impress Saturn",
       "codename": "Impress_Saturn",
       "model": "Impress_Saturn"

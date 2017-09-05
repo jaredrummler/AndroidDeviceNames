@@ -1,0 +1,15 @@
+{
+  "manufacturer": "PCD Argentina",
+  "devices": [
+    {
+      "market_name": "PCD508",
+      "codename": "PCD508",
+      "model": "PCD508"
+    },
+    {
+      "market_name": "PCD509",
+      "codename": "PCD509",
+      "model": "PCD509"
+    }
+  ]
+}

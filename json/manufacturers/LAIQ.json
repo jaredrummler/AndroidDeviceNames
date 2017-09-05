@@ -2,6 +2,11 @@
   "manufacturer": "Laiq",
   "devices": [
     {
+      "market_name": "GLAM",
+      "codename": "LAIQ_Glam",
+      "model": "LAIQ Glam"
+    },
+    {
       "market_name": "Glow",
       "codename": "Glow",
       "model": "Glow"

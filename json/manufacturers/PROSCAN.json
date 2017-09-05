@@ -62,6 +62,11 @@
       "model": "PLT7804G"
     },
     {
+      "market_name": "PLT8235G Tablet",
+      "codename": "MID807_K",
+      "model": "PLT8235G"
+    },
+    {
       "market_name": "PLT8802G",
       "codename": "PLT8802G",
       "model": "PLT8802G"
@@ -95,11 +100,6 @@
       "market_name": "PLT9999G",
       "codename": "PLT9999G",
       "model": "PLT9999G"
-    },
-    {
-      "market_name": "PROSCAN PLT8235G Tablet",
-      "codename": "MID807_K",
-      "model": "PLT8235G"
     }
   ]
 }

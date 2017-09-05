@@ -79,6 +79,24 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "BLADE III",
+    "codename": "atlas40",
+    "model": "Skate Pro"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "BLADE III",
+    "codename": "atlas40",
+    "model": "ZTE BLADE III"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "BLADE III",
+    "codename": "atlas40",
+    "model": "ZTE Blade III"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "BLADE III_IL",
     "codename": "atlas40",
     "model": "BLADE III_IL"
@@ -97,9 +115,27 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "Blade III",
+    "codename": "atlas40",
+    "model": "ZTE Blade III"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "Momodesign MD Droid",
     "codename": "atlas40",
     "model": "Momodesign MD Droid"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "N798",
+    "codename": "atlas40",
+    "model": "ZTE N798"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "N880E",
+    "codename": "atlas40",
+    "model": "ZTE N880E"
   },
   {
     "manufacturer": "ZTE",
@@ -109,57 +145,21 @@
   },
   {
     "manufacturer": "ZTE",
-    "market_name": "Vip Racer III",
-    "codename": "atlas40",
-    "model": "Vip Racer III"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE BLADE III",
-    "codename": "atlas40",
-    "model": "Skate Pro"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE BLADE III",
-    "codename": "atlas40",
-    "model": "ZTE BLADE III"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE BLADE III",
-    "codename": "atlas40",
-    "model": "ZTE Blade III"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Blade III",
-    "codename": "atlas40",
-    "model": "ZTE Blade III"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE N798",
-    "codename": "atlas40",
-    "model": "ZTE N798"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE N880E",
-    "codename": "atlas40",
-    "model": "ZTE N880E"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE V880E",
+    "market_name": "V880E",
     "codename": "atlas40",
     "model": "ZTE V880E"
   },
   {
     "manufacturer": "ZTE",
-    "market_name": "ZTE V889D",
+    "market_name": "V889D",
     "codename": "atlas40",
     "model": "ZTE V889D"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Vip Racer III",
+    "codename": "atlas40",
+    "model": "Vip Racer III"
   },
   {
     "manufacturer": "ZTE",

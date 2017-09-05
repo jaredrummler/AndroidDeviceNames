@@ -2,12 +2,12 @@
   "manufacturer": "SAKAISIO",
   "devices": [
     {
-      "market_name": "SAKAISIO FP-U320-711-WIFI",
+      "market_name": "FP-U320-711-WIFI",
       "codename": "U320-WF",
       "model": "FP-U320-711-WIFI"
     },
     {
-      "market_name": "SAKAISIO FP-U320-711-WWAN",
+      "market_name": "FP-U320-711-WWAN",
       "codename": "U320-3G",
       "model": "FP-U320-711-WWAN"
     }

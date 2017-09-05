@@ -2,32 +2,42 @@
   "manufacturer": "Blackview",
   "devices": [
     {
+      "market_name": "A5",
+      "codename": "A5",
+      "model": "A5"
+    },
+    {
+      "market_name": "A8 MAX",
+      "codename": "A8_MAX",
+      "model": "A8 MAX"
+    },
+    {
+      "market_name": "A9 Pro",
+      "codename": "A9_Pro",
+      "model": "A9_Pro"
+    },
+    {
+      "market_name": "BV6000",
+      "codename": "Blackview",
+      "model": "BV6000"
+    },
+    {
+      "market_name": "BV6000s",
+      "codename": "BV6000S",
+      "model": "BV6000S"
+    },
+    {
       "market_name": "BV7000",
       "codename": "BV7000",
       "model": "BV7000"
     },
     {
-      "market_name": "Blackview A5",
-      "codename": "A5",
-      "model": "A5"
+      "market_name": "BV7000 Pro",
+      "codename": "BV7000_Pro",
+      "model": "BV7000 Pro"
     },
     {
-      "market_name": "Blackview A8 MAX",
-      "codename": "A8_MAX",
-      "model": "A8 MAX"
-    },
-    {
-      "market_name": "Blackview BV6000",
-      "codename": "Blackview",
-      "model": "BV6000"
-    },
-    {
-      "market_name": "Blackview BV6000s",
-      "codename": "BV6000S",
-      "model": "BV6000S"
-    },
-    {
-      "market_name": "Blackview E7S",
+      "market_name": "E7S",
       "codename": "E7s",
       "model": "E7s"
     }

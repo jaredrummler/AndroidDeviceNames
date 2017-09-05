@@ -55,9 +55,33 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "Blade Apex2",
+    "codename": "msm8226",
+    "model": "ZTE Blade Apex2"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Blade Vec 4G",
+    "codename": "msm8226",
+    "model": "ZTE Blade Vec 4G"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "FT142D",
     "codename": "msm8226",
     "model": "FT142D"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "GEEK II 4G",
+    "codename": "msm8226",
+    "model": "ZTE GEEK II 4G"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "Geek 2 LTE",
+    "codename": "msm8226",
+    "model": "ZTE Geek 2 LTE"
   },
   {
     "manufacturer": "ZTE",
@@ -85,9 +109,57 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "STAR",
+    "codename": "msm8226",
+    "model": "ZTE GEEK II Pro 4G"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "STAR",
+    "codename": "msm8226",
+    "model": "ZTE S2002"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "STAR",
+    "codename": "msm8226",
+    "model": "ZTE STAR"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "STAR",
+    "codename": "msm8226",
+    "model": "ZTE Star 1"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "Soshphone 4G",
     "codename": "msm8226",
     "model": "Soshphone 4G"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "T80",
+    "codename": "msm8226",
+    "model": "ZTE T80"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "T86",
+    "codename": "msm8226",
+    "model": "Amazing X1"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "T86",
+    "codename": "msm8226",
+    "model": "ZTE T86"
+  },
+  {
+    "manufacturer": "ZTE",
+    "market_name": "T88",
+    "codename": "msm8226",
+    "model": "ZTE T88"
   },
   {
     "manufacturer": "ZTE",
@@ -100,77 +172,5 @@
     "market_name": "TURKCELL T50",
     "codename": "msm8226",
     "model": "TURKCELL TURBO T50"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Blade Apex2",
-    "codename": "msm8226",
-    "model": "ZTE Blade Apex2"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Blade Vec 4G",
-    "codename": "msm8226",
-    "model": "ZTE Blade Vec 4G"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE GEEK II 4G",
-    "codename": "msm8226",
-    "model": "ZTE GEEK II 4G"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE Geek 2 LTE",
-    "codename": "msm8226",
-    "model": "ZTE Geek 2 LTE"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE STAR",
-    "codename": "msm8226",
-    "model": "ZTE GEEK II Pro 4G"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE STAR",
-    "codename": "msm8226",
-    "model": "ZTE S2002"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE STAR",
-    "codename": "msm8226",
-    "model": "ZTE STAR"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE STAR",
-    "codename": "msm8226",
-    "model": "ZTE Star 1"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE T80",
-    "codename": "msm8226",
-    "model": "ZTE T80"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE T86",
-    "codename": "msm8226",
-    "model": "Amazing X1"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE T86",
-    "codename": "msm8226",
-    "model": "ZTE T86"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE T88",
-    "codename": "msm8226",
-    "model": "ZTE T88"
   }
 ]

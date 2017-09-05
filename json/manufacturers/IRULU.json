@@ -22,6 +22,11 @@
       "model": "X18"
     },
     {
+      "market_name": "X27",
+      "codename": "X27",
+      "model": "X27"
+    },
+    {
       "market_name": "X37",
       "codename": "iRULU-X37",
       "model": "X37"
@@ -37,9 +42,14 @@
       "model": "X47"
     },
     {
-      "market_name": "iRULU X27",
-      "codename": "X27",
-      "model": "X27"
+      "market_name": "X58",
+      "codename": "iRULU-X58",
+      "model": "X58"
+    },
+    {
+      "market_name": "X67",
+      "codename": "iRULU_X67",
+      "model": "X67"
     }
   ]
 }

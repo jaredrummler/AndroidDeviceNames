@@ -25,6 +25,12 @@
   },
   {
     "manufacturer": "ZTE",
+    "market_name": "BLADE",
+    "codename": "blade",
+    "model": "ZTE-BLADE"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "Blade",
     "codename": "blade",
     "model": "003Z"
@@ -178,11 +184,5 @@
     "market_name": "Blade",
     "codename": "blade",
     "model": "a5"
-  },
-  {
-    "manufacturer": "ZTE",
-    "market_name": "ZTE-BLADE",
-    "codename": "blade",
-    "model": "ZTE-BLADE"
   }
 ]

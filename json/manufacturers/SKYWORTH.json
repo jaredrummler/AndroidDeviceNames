@@ -5,6 +5,11 @@
       "market_name": "Asia",
       "codename": "globe_ap",
       "model": "globe"
+    },
+    {
+      "market_name": "South America",
+      "codename": "globe_sa",
+      "model": "globe"
     }
   ]
 }

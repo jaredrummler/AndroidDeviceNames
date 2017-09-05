@@ -182,9 +182,224 @@
       "model": "8950"
     },
     {
+      "market_name": "3300A",
+      "codename": "3300A",
+      "model": "Coolpad 3300A"
+    },
+    {
+      "market_name": "3320A",
+      "codename": "cp3320a",
+      "model": "Coolpad 3320A"
+    },
+    {
+      "market_name": "3503I",
+      "codename": "CP3503I",
+      "model": "Coolpad 3503I"
+    },
+    {
+      "market_name": "3503I",
+      "codename": "CP3503I",
+      "model": "Coolpad CP3503I"
+    },
+    {
+      "market_name": "3505I_A00",
+      "codename": "CP3505I",
+      "model": "Coolpad E503"
+    },
+    {
+      "market_name": "3505I_U00",
+      "codename": "CP3505I_U00",
+      "model": "Coolpad E503"
+    },
+    {
+      "market_name": "3600i",
+      "codename": "CP3600I",
+      "model": "3600I"
+    },
+    {
+      "market_name": "3600i",
+      "codename": "CP3600I",
+      "model": "Coolpad 3600I"
+    },
+    {
+      "market_name": "3622A",
+      "codename": "cp3622a",
+      "model": "Coolpad 3622A"
+    },
+    {
+      "market_name": "3622A-mpcs",
+      "codename": "cp3622a",
+      "model": "Coolpad 3622A"
+    },
+    {
+      "market_name": "3623A",
+      "codename": "cp3623a",
+      "model": "Coolpad 3623A"
+    },
+    {
+      "market_name": "3632A",
+      "codename": "cp3632a",
+      "model": "Coolpad 3632A"
+    },
+    {
+      "market_name": "3632A-mpcs",
+      "codename": "cp3632a",
+      "model": "Coolpad 3632A"
+    },
+    {
+      "market_name": "3636a",
+      "codename": "cp3636a",
+      "model": "cp3636a"
+    },
+    {
+      "market_name": "3700A",
+      "codename": "3700A",
+      "model": "CP3700A"
+    },
+    {
+      "market_name": "5109",
+      "codename": "Coolpad5109",
+      "model": "Coolpad 5109"
+    },
+    {
+      "market_name": "5200",
+      "codename": "Coolpad5200",
+      "model": "Coolpad 5200"
+    },
+    {
+      "market_name": "5216D",
+      "codename": "5216D",
+      "model": "Coolpad 5216D"
+    },
+    {
+      "market_name": "5217",
+      "codename": "msm8610",
+      "model": "Coolpad 5217"
+    },
+    {
+      "market_name": "5218S",
+      "codename": "msm8x25q_a5y_5218s",
+      "model": "Coolpad 5218S"
+    },
+    {
+      "market_name": "5219",
+      "codename": "5219",
+      "model": "Coolpad 5219"
+    },
+    {
+      "market_name": "5219_C00",
+      "codename": "5219_C00",
+      "model": "Coolpad 5219_C00"
+    },
+    {
+      "market_name": "5267",
+      "codename": "Coolpad5267",
+      "model": "Coolpad 5267"
+    },
+    {
+      "market_name": "5267C",
+      "codename": "Coolpad5267",
+      "model": "Coolpad 5267"
+    },
+    {
+      "market_name": "5270",
+      "codename": "Coolpad5270",
+      "model": "Coolpad 5270"
+    },
+    {
+      "market_name": "5367",
+      "codename": "Coolpad5367",
+      "model": "Coolpad 5367"
+    },
+    {
+      "market_name": "5367C",
+      "codename": "Coolpad5367C",
+      "model": "Coolpad 5367C"
+    },
+    {
+      "market_name": "5370",
+      "codename": "Coolpad5370",
+      "model": "Coolpad 5370"
+    },
+    {
+      "market_name": "5380CA",
+      "codename": "Coolpad5380CA",
+      "model": "Coolpad 5380CA"
+    },
+    {
       "market_name": "5860E",
       "codename": "CP5860E",
       "model": "5860E"
+    },
+    {
+      "market_name": "5891",
+      "codename": "Coolpad5891",
+      "model": "Coolpad 5891"
+    },
+    {
+      "market_name": "5891S",
+      "codename": "Coolpad5891S",
+      "model": "Coolpad 5891S"
+    },
+    {
+      "market_name": "5951",
+      "codename": "Coolpad5951",
+      "model": "Coolpad 5951"
+    },
+    {
+      "market_name": "7061",
+      "codename": "CP7061",
+      "model": "Coolpad 7061"
+    },
+    {
+      "market_name": "7230S",
+      "codename": "Coolpad7230S",
+      "model": "Coolpad 7230S"
+    },
+    {
+      "market_name": "7232",
+      "codename": "CP7232",
+      "model": "Coolpad 7232"
+    },
+    {
+      "market_name": "7251",
+      "codename": "Coolpad7251",
+      "model": "Coolpad 7251"
+    },
+    {
+      "market_name": "7270",
+      "codename": "Coolpad7270",
+      "model": "Coolpad 7270"
+    },
+    {
+      "market_name": "7270I",
+      "codename": "7270I",
+      "model": "Idea ULTRA Pro"
+    },
+    {
+      "market_name": "7275",
+      "codename": "CP7275",
+      "model": "Coolpad 7275"
+    },
+    {
+      "market_name": "7295A",
+      "codename": "Coolpad7295A",
+      "model": "Coolpad 7295+"
+    },
+    {
+      "market_name": "7295A",
+      "codename": "Coolpad7295A",
+      "model": "Coolpad 7295A"
+    },
+    {
+      "market_name": "7296",
+      "codename": "Coolpad7296",
+      "model": "Coolpad 7296"
+    },
+    {
+      "market_name": "7620L",
+      "codename": "Coolpad7620L",
+      "model": "Coolpad 7620L"
     },
     {
       "market_name": "801EM",
@@ -192,14 +407,199 @@
       "model": "801EM"
     },
     {
+      "market_name": "8079",
+      "codename": "Coolpad8079",
+      "model": "Coolpad 8079"
+    },
+    {
+      "market_name": "8122",
+      "codename": "Coolpad8122",
+      "model": "Coolpad 8122"
+    },
+    {
+      "market_name": "8198W",
+      "codename": "Coolpad8198W",
+      "model": "Coolpad 8198W"
+    },
+    {
+      "market_name": "8297D",
+      "codename": "Coolpad8297D",
+      "model": "Coolpad 8297D"
+    },
+    {
+      "market_name": "8297L-I00",
+      "codename": "Coolpad8297L-I00",
+      "model": "Coolpad 8297L-I00"
+    },
+    {
+      "market_name": "8298-M02",
+      "codename": "CP8298_M02",
+      "model": "CP8298_M02"
+    },
+    {
+      "market_name": "8676-I03",
+      "codename": "CP8676_I03",
+      "model": "CP8676_I03"
+    },
+    {
+      "market_name": "8712",
+      "codename": "CP8712",
+      "model": "Coolpad 8712"
+    },
+    {
+      "market_name": "8712SV",
+      "codename": "Coolpad8712",
+      "model": "Coolpad 8712"
+    },
+    {
+      "market_name": "8718",
+      "codename": "Coolpad8718",
+      "model": "Coolpad 8718"
+    },
+    {
+      "market_name": "8722",
+      "codename": "CP8722",
+      "model": "Coolpad 8722"
+    },
+    {
+      "market_name": "8722-U00",
+      "codename": "CP8722_U00",
+      "model": "Coolpad E570"
+    },
+    {
+      "market_name": "8722V",
+      "codename": "CP8722",
+      "model": "Coolpad 8722V"
+    },
+    {
+      "market_name": "8722_S00",
+      "codename": "CP8722_S00",
+      "model": "Coolpad E570"
+    },
+    {
+      "market_name": "8729",
+      "codename": "Coolpad8729",
+      "model": "Coolpad 8729"
+    },
+    {
+      "market_name": "8730L",
+      "codename": "Coolpad8730L",
+      "model": "Coolpad 8730L"
+    },
+    {
+      "market_name": "8736",
+      "codename": "8736",
+      "model": "Coolpad 8736"
+    },
+    {
+      "market_name": "8737A",
+      "codename": "Coolpad8737A",
+      "model": "Coolpad 8737A"
+    },
+    {
       "market_name": "8970L",
       "codename": "8970L",
       "model": "Coolpad 8970L"
     },
     {
+      "market_name": "8971",
+      "codename": "8971",
+      "model": "Coolpad 8971"
+    },
+    {
+      "market_name": "9150W",
+      "codename": "Coolpad9150W",
+      "model": "Coolpad 9150W"
+    },
+    {
+      "market_name": "9190_T00",
+      "codename": "Coolpad9190_T00",
+      "model": "Coolpad 9190_T00"
+    },
+    {
+      "market_name": "9970L",
+      "codename": "9970L",
+      "model": "Coolpad 9970L"
+    },
+    {
+      "market_name": "9976A",
+      "codename": "Coolpad9976A",
+      "model": "Coolpad 9976A"
+    },
+    {
+      "market_name": "A8",
+      "codename": "A8",
+      "model": "Coolpad A8"
+    },
+    {
+      "market_name": "A8-831",
+      "codename": "A8-831",
+      "model": "Coolpad A8-831"
+    },
+    {
+      "market_name": "A8-930",
+      "codename": "A8-930",
+      "model": "Coolpad A8-930"
+    },
+    {
+      "market_name": "A8-931",
+      "codename": "A8-931",
+      "model": "Coolpad A8-931"
+    },
+    {
+      "market_name": "A8-931",
+      "codename": "A8-931",
+      "model": "Coolpad A8-931N"
+    },
+    {
+      "market_name": "A8-932",
+      "codename": "A8-932",
+      "model": "Coolpad A8-932"
+    },
+    {
+      "market_name": "B770",
+      "codename": "B770",
+      "model": "Coolpad B770"
+    },
+    {
+      "market_name": "B770S",
+      "codename": "CoolpadB770S",
+      "model": "Coolpad B770S"
+    },
+    {
       "market_name": "Bs501",
       "codename": "cp8870u",
       "model": "Bs 501"
+    },
+    {
+      "market_name": "C1-S02",
+      "codename": "C1-S02",
+      "model": "Coolpad R116"
+    },
+    {
+      "market_name": "C103",
+      "codename": "C103",
+      "model": "C103"
+    },
+    {
+      "market_name": "C106-8",
+      "codename": "cool_c1",
+      "model": "C106-8"
+    },
+    {
+      "market_name": "CK2-01",
+      "codename": "CK2-01",
+      "model": "CK2-01"
+    },
+    {
+      "market_name": "CK3-01",
+      "codename": "CK3-01",
+      "model": "CK3-01"
+    },
+    {
+      "market_name": "CK3-01",
+      "codename": "CK3-01",
+      "model": "CK3-M1"
     },
     {
       "market_name": "CM001",
@@ -317,464 +717,54 @@
       "model": "Coolmini"
     },
     {
-      "market_name": "Coolpad 3300A",
-      "codename": "3300A",
-      "model": "Coolpad 3300A"
+      "market_name": "Coolpad 3636a_m",
+      "codename": "cp3636a",
+      "model": "cp3636a"
     },
     {
-      "market_name": "Coolpad 3320A",
-      "codename": "cp3320a",
-      "model": "Coolpad 3320A"
+      "market_name": "Coolpad 5370_I00",
+      "codename": "CoolpadE2",
+      "model": "coolpad E2"
     },
     {
-      "market_name": "Coolpad 3503I",
-      "codename": "CP3503I",
-      "model": "Coolpad 3503I"
-    },
-    {
-      "market_name": "Coolpad 3503I",
-      "codename": "CP3503I",
-      "model": "Coolpad CP3503I"
-    },
-    {
-      "market_name": "Coolpad 3600i",
-      "codename": "CP3600I",
-      "model": "3600I"
-    },
-    {
-      "market_name": "Coolpad 3600i",
-      "codename": "CP3600I",
-      "model": "Coolpad 3600I"
-    },
-    {
-      "market_name": "Coolpad 3622A",
-      "codename": "cp3622a",
-      "model": "Coolpad 3622A"
-    },
-    {
-      "market_name": "Coolpad 3622A-mpcs",
-      "codename": "cp3622a",
-      "model": "Coolpad 3622A"
-    },
-    {
-      "market_name": "Coolpad 3623A",
-      "codename": "cp3623a",
-      "model": "Coolpad 3623A"
-    },
-    {
-      "market_name": "Coolpad 3700A",
-      "codename": "3700A",
-      "model": "CP3700A"
-    },
-    {
-      "market_name": "Coolpad 5109",
-      "codename": "Coolpad5109",
-      "model": "Coolpad 5109"
-    },
-    {
-      "market_name": "Coolpad 5200",
-      "codename": "Coolpad5200",
-      "model": "Coolpad 5200"
-    },
-    {
-      "market_name": "Coolpad 5216D",
-      "codename": "5216D",
-      "model": "Coolpad 5216D"
-    },
-    {
-      "market_name": "Coolpad 5217",
-      "codename": "msm8610",
-      "model": "Coolpad 5217"
-    },
-    {
-      "market_name": "Coolpad 5218S",
-      "codename": "msm8x25q_a5y_5218s",
-      "model": "Coolpad 5218S"
-    },
-    {
-      "market_name": "Coolpad 5219",
-      "codename": "5219",
-      "model": "Coolpad 5219"
-    },
-    {
-      "market_name": "Coolpad 5219_C00",
-      "codename": "5219_C00",
-      "model": "Coolpad 5219_C00"
-    },
-    {
-      "market_name": "Coolpad 5270",
-      "codename": "Coolpad5270",
-      "model": "Coolpad 5270"
-    },
-    {
-      "market_name": "Coolpad 5367",
-      "codename": "Coolpad5367",
-      "model": "Coolpad 5367"
-    },
-    {
-      "market_name": "Coolpad 5367C",
-      "codename": "Coolpad5367C",
-      "model": "Coolpad 5367C"
-    },
-    {
-      "market_name": "Coolpad 5891",
-      "codename": "Coolpad5891",
-      "model": "Coolpad 5891"
-    },
-    {
-      "market_name": "Coolpad 5891S",
-      "codename": "Coolpad5891S",
-      "model": "Coolpad 5891S"
-    },
-    {
-      "market_name": "Coolpad 5951",
-      "codename": "Coolpad5951",
-      "model": "Coolpad 5951"
-    },
-    {
-      "market_name": "Coolpad 7061",
-      "codename": "CP7061",
-      "model": "Coolpad 7061"
-    },
-    {
-      "market_name": "Coolpad 7230S",
-      "codename": "Coolpad7230S",
-      "model": "Coolpad 7230S"
-    },
-    {
-      "market_name": "Coolpad 7232",
-      "codename": "CP7232",
-      "model": "Coolpad 7232"
-    },
-    {
-      "market_name": "Coolpad 7251",
-      "codename": "Coolpad7251",
-      "model": "Coolpad 7251"
-    },
-    {
-      "market_name": "Coolpad 7270",
-      "codename": "Coolpad7270",
-      "model": "Coolpad 7270"
-    },
-    {
-      "market_name": "Coolpad 7270I",
-      "codename": "7270I",
-      "model": "Idea ULTRA Pro"
-    },
-    {
-      "market_name": "Coolpad 7275",
-      "codename": "CP7275",
-      "model": "Coolpad 7275"
-    },
-    {
-      "market_name": "Coolpad 7295A",
-      "codename": "Coolpad7295A",
-      "model": "Coolpad 7295+"
-    },
-    {
-      "market_name": "Coolpad 7295A",
-      "codename": "Coolpad7295A",
-      "model": "Coolpad 7295A"
-    },
-    {
-      "market_name": "Coolpad 7296",
-      "codename": "Coolpad7296",
-      "model": "Coolpad 7296"
-    },
-    {
-      "market_name": "Coolpad 7620L",
-      "codename": "Coolpad7620L",
-      "model": "Coolpad 7620L"
-    },
-    {
-      "market_name": "Coolpad 8079",
-      "codename": "Coolpad8079",
-      "model": "Coolpad 8079"
-    },
-    {
-      "market_name": "Coolpad 8122",
-      "codename": "Coolpad8122",
-      "model": "Coolpad 8122"
-    },
-    {
-      "market_name": "Coolpad 8198W",
-      "codename": "Coolpad8198W",
-      "model": "Coolpad 8198W"
-    },
-    {
-      "market_name": "Coolpad 8297D",
-      "codename": "Coolpad8297D",
-      "model": "Coolpad 8297D"
-    },
-    {
-      "market_name": "Coolpad 8297L-I00",
-      "codename": "Coolpad8297L-I00",
-      "model": "Coolpad 8297L-I00"
-    },
-    {
-      "market_name": "Coolpad 8298-M02",
-      "codename": "CP8298_M02",
-      "model": "CP8298_M02"
-    },
-    {
-      "market_name": "Coolpad 8676-I03",
-      "codename": "CP8676_I03",
-      "model": "CP8676_I03"
-    },
-    {
-      "market_name": "Coolpad 8712",
-      "codename": "CP8712",
-      "model": "Coolpad 8712"
-    },
-    {
-      "market_name": "Coolpad 8712SV",
-      "codename": "Coolpad8712",
-      "model": "Coolpad 8712"
-    },
-    {
-      "market_name": "Coolpad 8718",
-      "codename": "Coolpad8718",
-      "model": "Coolpad 8718"
-    },
-    {
-      "market_name": "Coolpad 8722",
-      "codename": "CP8722",
-      "model": "Coolpad 8722"
-    },
-    {
-      "market_name": "Coolpad 8722-U00",
-      "codename": "CP8722_U00",
-      "model": "Coolpad E570"
-    },
-    {
-      "market_name": "Coolpad 8722V",
-      "codename": "CP8722",
-      "model": "Coolpad 8722V"
-    },
-    {
-      "market_name": "Coolpad 8722_S00",
-      "codename": "CP8722_S00",
-      "model": "Coolpad E570"
-    },
-    {
-      "market_name": "Coolpad 8729",
-      "codename": "Coolpad8729",
-      "model": "Coolpad 8729"
-    },
-    {
-      "market_name": "Coolpad 8730L",
-      "codename": "Coolpad8730L",
-      "model": "Coolpad 8730L"
-    },
-    {
-      "market_name": "Coolpad 8736",
-      "codename": "8736",
-      "model": "Coolpad 8736"
-    },
-    {
-      "market_name": "Coolpad 8971",
-      "codename": "8971",
-      "model": "Coolpad 8971"
-    },
-    {
-      "market_name": "Coolpad 9150W",
-      "codename": "Coolpad9150W",
-      "model": "Coolpad 9150W"
-    },
-    {
-      "market_name": "Coolpad 9190_T00",
-      "codename": "Coolpad9190_T00",
-      "model": "Coolpad 9190_T00"
-    },
-    {
-      "market_name": "Coolpad 9970L",
-      "codename": "9970L",
-      "model": "Coolpad 9970L"
-    },
-    {
-      "market_name": "Coolpad 9976A",
-      "codename": "Coolpad9976A",
-      "model": "Coolpad 9976A"
-    },
-    {
-      "market_name": "Coolpad A8",
-      "codename": "A8",
-      "model": "Coolpad A8"
-    },
-    {
-      "market_name": "Coolpad A8-831",
-      "codename": "A8-831",
-      "model": "Coolpad A8-831"
-    },
-    {
-      "market_name": "Coolpad A8-930",
-      "codename": "A8-930",
-      "model": "Coolpad A8-930"
-    },
-    {
-      "market_name": "Coolpad A8-931",
-      "codename": "A8-931",
-      "model": "Coolpad A8-931"
-    },
-    {
-      "market_name": "Coolpad A8-931",
-      "codename": "A8-931",
-      "model": "Coolpad A8-931N"
-    },
-    {
-      "market_name": "Coolpad A8-932",
-      "codename": "A8-932",
-      "model": "Coolpad A8-932"
-    },
-    {
-      "market_name": "Coolpad B770",
-      "codename": "B770",
-      "model": "Coolpad B770"
-    },
-    {
-      "market_name": "Coolpad B770S",
-      "codename": "CoolpadB770S",
-      "model": "Coolpad B770S"
-    },
-    {
-      "market_name": "Coolpad C103",
+      "market_name": "Coolpad C1-U02",
       "codename": "C103",
-      "model": "C103"
+      "model": "C1-U02"
     },
     {
-      "market_name": "Coolpad C106-8",
-      "codename": "cool_c1",
-      "model": "C106-8"
+      "market_name": "Coolpad COL-A0",
+      "codename": "Civic",
+      "model": "COL-A0"
     },
     {
-      "market_name": "Coolpad CK2-01",
-      "codename": "CK2-01",
-      "model": "CK2-01"
+      "market_name": "Coolpad COR-I0",
+      "codename": "clover",
+      "model": "Coolpad COR-I0"
     },
     {
-      "market_name": "Coolpad CK3-01",
-      "codename": "CK3-01",
-      "model": "CK3-01"
+      "market_name": "Coolpad CVC-A0",
+      "codename": "Civic",
+      "model": "CVC-A0"
     },
     {
-      "market_name": "Coolpad CK3-01",
-      "codename": "CK3-01",
-      "model": "CK3-M1"
+      "market_name": "Coolpad CVC-M0",
+      "codename": "Civic",
+      "model": "CVC-M0"
     },
     {
-      "market_name": "Coolpad E561",
-      "codename": "E561",
-      "model": "Coolpad E561"
+      "market_name": "Coolpad GRA-M0",
+      "codename": "GRA",
+      "model": "GRA-M0"
     },
     {
-      "market_name": "Coolpad Flo",
-      "codename": "7560T",
-      "model": "Coolpad Flo"
+      "market_name": "Coolpad POL-A0",
+      "codename": "pollux",
+      "model": "POL-A0"
     },
     {
-      "market_name": "Coolpad K2L_S00",
-      "codename": "K2L_S00",
-      "model": "Coolpad E580"
-    },
-    {
-      "market_name": "Coolpad R106",
-      "codename": "cpy90_g00",
-      "model": "Coolpad R106"
-    },
-    {
-      "market_name": "Coolpad R108",
-      "codename": "R108",
-      "model": "Coolpad R108"
-    },
-    {
-      "market_name": "Coolpad SK3-U00",
-      "codename": "E561_EU",
-      "model": "Coolpad E561_EU"
-    },
-    {
-      "market_name": "Coolpad SS1-03",
-      "codename": "SS1-03",
-      "model": "ivvi SS1-03"
-    },
-    {
-      "market_name": "Coolpad SS2-01",
-      "codename": "SS2-01",
-      "model": "SS2-01"
-    },
-    {
-      "market_name": "Coolpad SS2-01",
-      "codename": "SS2-01",
-      "model": "ivvi SS2-01"
-    },
-    {
-      "market_name": "Coolpad Y72-921",
-      "codename": "Y72-921",
-      "model": "Coolpad Y72-921"
-    },
-    {
-      "market_name": "Coolpad Y803-8",
-      "codename": "CPY803_8",
-      "model": "Coolpad Y803-8"
-    },
-    {
-      "market_name": "Coolpad Y803-9",
-      "codename": "CPY803_9",
-      "model": "Coolpad Y803-9"
-    },
-    {
-      "market_name": "Coolpad Y83-900",
-      "codename": "Y83-900",
-      "model": "Coolpad Y83-900"
-    },
-    {
-      "market_name": "Coolpad Y83-I00",
-      "codename": "CPY83_I00",
-      "model": "Coolpad Y83-I00"
-    },
-    {
-      "market_name": "Coolpad Y83_S00",
-      "codename": "CPY83_S00",
-      "model": "Coolpad E502"
-    },
-    {
-      "market_name": "Coolpad Y83_U00",
-      "codename": "CPY83_U00",
-      "model": "Coolpad E502"
-    },
-    {
-      "market_name": "Coolpad Y90",
-      "codename": "Y90",
-      "model": "Coolpad Y90"
-    },
-    {
-      "market_name": "Coolpad Y91-921",
-      "codename": "Y91",
-      "model": "Coolpad Y891"
-    },
-    {
-      "market_name": "Coolpad Y91-921",
-      "codename": "Y91",
-      "model": "Coolpad Y91-921"
-    },
-    {
-      "market_name": "Coolpad Y92-9",
-      "codename": "Y92-9",
-      "model": "Coolpad Y92-9"
-    },
-    {
-      "market_name": "Coolpad i1",
-      "codename": "i1",
-      "model": "ivvi i1"
-    },
-    {
-      "market_name": "Coolpad i1-01",
-      "codename": "i1-01",
-      "model": "ivvi i1-01"
-    },
-    {
-      "market_name": "Coolpad i3-M1",
-      "codename": "i3-M1",
-      "model": "ivvi i3-M1"
+      "market_name": "Coolpad VCR-I0",
+      "codename": "victor",
+      "model": "VCR-I0"
     },
     {
       "market_name": "Coolpad5218D",
@@ -902,6 +892,16 @@
       "model": "Coolpad8908"
     },
     {
+      "market_name": "E561",
+      "codename": "E561",
+      "model": "Coolpad E561"
+    },
+    {
+      "market_name": "Flo",
+      "codename": "7560T",
+      "model": "Coolpad Flo"
+    },
+    {
       "market_name": "Forward_EVOLVE",
       "codename": "Forward_EVOLVE",
       "model": "Forward_EVOLVE"
@@ -910,6 +910,11 @@
       "market_name": "Idea ULTRA",
       "codename": "Coolpad7295S",
       "model": "Idea ULTRA"
+    },
+    {
+      "market_name": "K2L_S00",
+      "codename": "K2L_S00",
+      "model": "Coolpad E580"
     },
     {
       "market_name": "Karbonn Titanium S5 Plus",
@@ -932,6 +937,36 @@
       "model": "Mtag 353"
     },
     {
+      "market_name": "R106",
+      "codename": "cpy90_g00",
+      "model": "Coolpad R106"
+    },
+    {
+      "market_name": "R108",
+      "codename": "R108",
+      "model": "Coolpad R108"
+    },
+    {
+      "market_name": "SK3-U00",
+      "codename": "E561_EU",
+      "model": "Coolpad E561_EU"
+    },
+    {
+      "market_name": "SS1-03",
+      "codename": "SS1-03",
+      "model": "ivvi SS1-03"
+    },
+    {
+      "market_name": "SS2-01",
+      "codename": "SS2-01",
+      "model": "SS2-01"
+    },
+    {
+      "market_name": "SS2-01",
+      "codename": "SS2-01",
+      "model": "ivvi SS2-01"
+    },
+    {
       "market_name": "STARADDICT III",
       "codename": "cp8861u",
       "model": "STARADDICT III"
@@ -940,6 +975,11 @@
       "market_name": "Spice Mi-496",
       "codename": "Coolpad7268I",
       "model": "Spice Mi-496"
+    },
+    {
+      "market_name": "VCR-A0",
+      "codename": "victor",
+      "model": "VCR-A0"
     },
     {
       "market_name": "Vodafone Smart 4G",
@@ -957,9 +997,104 @@
       "model": "Vodafone Smart 4 turbo"
     },
     {
+      "market_name": "Y72-921",
+      "codename": "Y72-921",
+      "model": "Coolpad Y72-921"
+    },
+    {
+      "market_name": "Y72-921",
+      "codename": "Y72_921",
+      "model": "Coolpad E571"
+    },
+    {
+      "market_name": "Y803-8",
+      "codename": "CPY803_8",
+      "model": "Coolpad Y803-8"
+    },
+    {
+      "market_name": "Y803-9",
+      "codename": "CPY803_9",
+      "model": "Coolpad Y803-9"
+    },
+    {
+      "market_name": "Y83-900",
+      "codename": "Y83-900",
+      "model": "Coolpad Y83-900"
+    },
+    {
+      "market_name": "Y83-I00",
+      "codename": "CPY83_I00",
+      "model": "Coolpad Y83-I00"
+    },
+    {
+      "market_name": "Y83_S00",
+      "codename": "CPY83_S00",
+      "model": "Coolpad E502"
+    },
+    {
+      "market_name": "Y83_U00",
+      "codename": "CPY83_U00",
+      "model": "Coolpad E502"
+    },
+    {
+      "market_name": "Y90",
+      "codename": "Y90",
+      "model": "Coolpad Y90"
+    },
+    {
+      "market_name": "Y91-921",
+      "codename": "Y91",
+      "model": "Coolpad Y891"
+    },
+    {
+      "market_name": "Y91-921",
+      "codename": "Y91",
+      "model": "Coolpad Y91-921"
+    },
+    {
+      "market_name": "Y92-9",
+      "codename": "Y92-9",
+      "model": "Coolpad Y92-9"
+    },
+    {
       "market_name": "cp7236",
       "codename": "msm8610_w7_cp7236",
       "model": "Coolpad 7236"
+    },
+    {
+      "market_name": "i1",
+      "codename": "i1",
+      "model": "ivvi i1"
+    },
+    {
+      "market_name": "i1-01",
+      "codename": "i1-01",
+      "model": "ivvi i1-01"
+    },
+    {
+      "market_name": "i3-M1",
+      "codename": "i3-M1",
+      "model": "ivvi i3-M1"
+    },
+    {
+      "market_name": "ivvi SK5",
+      "codename": "SK5",
+      "model": "ivvi SK5"
+    },
+    {
+      "market_name": "ivvi SK5_S",
+      "codename": "SK5_S",
+      "model": "ivvi SK5_S"
+    },
+    {
+      "market_name": "ivvi V1M-S",
+      "codename": "V1M-S",
+      "model": "ivvi V1M-S"
+    },
+    {
+      "market_name": "ivvi i1-S",
+      "codename": "V4701_FR1",
+      "model": "ivvi i1-S"
     },
     {
       "market_name": "ivvi i3-01",

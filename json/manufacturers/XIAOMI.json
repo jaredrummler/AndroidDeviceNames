@@ -177,6 +177,11 @@
       "model": "Meri"
     },
     {
+      "market_name": "MI 5X",
+      "codename": "tiffany",
+      "model": "MI 5X"
+    },
+    {
       "market_name": "MI 5s Plus",
       "codename": "natrium",
       "model": "MI 5s Plus"
@@ -220,11 +225,6 @@
       "market_name": "MI6",
       "codename": "sagit",
       "model": "MI 6"
-    },
-    {
-      "market_name": "MIBOX3",
-      "codename": "once",
-      "model": "MIBOX3"
     },
     {
       "market_name": "MIBOXPRO",
@@ -400,6 +400,16 @@
       "market_name": "Redmi Note 4",
       "codename": "nikel",
       "model": "Redmi Note 4"
+    },
+    {
+      "market_name": "Redmi Note 5A",
+      "codename": "ugg",
+      "model": "Redmi Note 5A"
+    },
+    {
+      "market_name": "Redmi Note 5A",
+      "codename": "ugglite",
+      "model": "Redmi Note 5A"
     },
     {
       "market_name": "Redmi Pro",

@@ -112,6 +112,26 @@
       "model": "PLUM"
     },
     {
+      "market_name": "PURE",
+      "codename": "PURE",
+      "model": "PURE"
+    },
+    {
+      "market_name": "PURE MINI",
+      "codename": "PURE_MINI",
+      "model": "PURE MINI"
+    },
+    {
+      "market_name": "PURE_PLUS",
+      "codename": "PURE_PLUS",
+      "model": "PURE PLUS"
+    },
+    {
+      "market_name": "REBEL",
+      "codename": "REBEL",
+      "model": "REBEL"
+    },
+    {
       "market_name": "RUSH",
       "codename": "RUSH",
       "model": "RUSH"
@@ -145,6 +165,11 @@
       "market_name": "Trendy",
       "codename": "TRENDY",
       "model": "TRENDY"
+    },
+    {
+      "market_name": "Trendy Plus",
+      "codename": "TRENDY_PLUS",
+      "model": "TRENDY PLUS"
     },
     {
       "market_name": "U2",

@@ -1,32 +1,26 @@
 [
   {
     "manufacturer": "HTC",
-    "market_name": "HTC One X",
+    "market_name": "One X",
     "codename": "evita",
     "model": "HTC One X"
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC One XL",
+    "market_name": "One XL",
     "codename": "evita",
     "model": "HTC One X"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One XL",
-    "codename": "evita",
-    "model": "HTC One XL"
-  },
-  {
-    "manufacturer": "HTC",
-    "market_name": "HTC One XL",
-    "codename": "evita",
-    "model": "HTC_One_XL"
   },
   {
     "manufacturer": "HTC",
     "market_name": "One XL",
     "codename": "evita",
     "model": "HTC One XL"
+  },
+  {
+    "manufacturer": "HTC",
+    "market_name": "One XL",
+    "codename": "evita",
+    "model": "HTC_One_XL"
   }
 ]

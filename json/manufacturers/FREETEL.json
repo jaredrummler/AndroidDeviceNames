@@ -2,6 +2,16 @@
   "manufacturer": "Freetel",
   "devices": [
     {
+      "market_name": "FUN PLUS",
+      "codename": "FUNPLUS",
+      "model": "FUN PLUS"
+    },
+    {
+      "market_name": "ICE2",
+      "codename": "ICE2",
+      "model": "FTE161E"
+    },
+    {
       "market_name": "ICE2plus",
       "codename": "ICE2plus",
       "model": "FTE161G"
@@ -30,6 +40,11 @@
       "market_name": "SAMURAI REI",
       "codename": "FTJ161B",
       "model": "FTJ161B"
+    },
+    {
+      "market_name": "SAMURAI REI 2",
+      "codename": "SAMURAI_REI2",
+      "model": "FTJ17A00"
     }
   ]
 }

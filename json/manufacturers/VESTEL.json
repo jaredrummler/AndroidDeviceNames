@@ -2,6 +2,31 @@
   "manufacturer": "Vestel",
   "devices": [
     {
+      "market_name": "5000",
+      "codename": "Leo",
+      "model": "Vestel_5000"
+    },
+    {
+      "market_name": "5000",
+      "codename": "Leo",
+      "model": "Vestel_5000_Dual"
+    },
+    {
+      "market_name": "5000_2gb",
+      "codename": "Leo_2GB",
+      "model": "Vestel_5000_2gb"
+    },
+    {
+      "market_name": "5530",
+      "codename": "Pars",
+      "model": "Vestel_5530"
+    },
+    {
+      "market_name": "5530",
+      "codename": "Pars",
+      "model": "Vestel_5530_Dual"
+    },
+    {
       "market_name": "Farabi",
       "codename": "frb3g",
       "model": "Farabi"
@@ -20,6 +45,11 @@
       "market_name": "V TAB 7\\\u0027\\\u0027 LITE II",
       "codename": "V_TAB_7_LITE_II",
       "model": "V_TAB_7_LITE_II"
+    },
+    {
+      "market_name": "V TAB 7011",
+      "codename": "V_TAB_7011",
+      "model": "V_TAB_7011"
     },
     {
       "market_name": "V TAB 7015",
@@ -212,6 +242,11 @@
       "model": "VT785P2-Vestel"
     },
     {
+      "market_name": "VTAB 1040",
+      "codename": "V_TAB_1040",
+      "model": "V_TAB_1040"
+    },
+    {
       "market_name": "Venus V3 5010",
       "codename": "DynoLight",
       "model": "Venus_V3_5010"
@@ -252,34 +287,14 @@
       "model": "Venus_V3_5580"
     },
     {
+      "market_name": "Venus V4",
+      "codename": "V4",
+      "model": "Venus_V4"
+    },
+    {
       "market_name": "Venus Z10",
       "codename": "Reys",
       "model": "Venus Z10"
-    },
-    {
-      "market_name": "Vestel 5000",
-      "codename": "Leo",
-      "model": "Vestel_5000"
-    },
-    {
-      "market_name": "Vestel 5000",
-      "codename": "Leo",
-      "model": "Vestel_5000_Dual"
-    },
-    {
-      "market_name": "Vestel 5530",
-      "codename": "Pars",
-      "model": "Vestel_5530"
-    },
-    {
-      "market_name": "Vestel 5530",
-      "codename": "Pars",
-      "model": "Vestel_5530_Dual"
-    },
-    {
-      "market_name": "Vestel_5000_2gb",
-      "codename": "Leo_2GB",
-      "model": "Vestel_5000_2gb"
     }
   ]
 }

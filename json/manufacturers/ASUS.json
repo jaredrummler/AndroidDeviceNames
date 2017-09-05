@@ -27,124 +27,14 @@
       "model": "Transformer TF101"
     },
     {
-      "market_name": "\\t  MeMO Pad 7 (ME176CX)",
-      "codename": "K013_1",
-      "model": "K013"
-    },
-    {
-      "market_name": "\\t  Transformer Pad (TF103CE)",
-      "codename": "K010E",
-      "model": "K010E"
-    },
-    {
-      "market_name": "\\t  Transformer Pad (TF103CE)",
-      "codename": "K010E_1",
-      "model": "K010E"
-    },
-    {
-      "market_name": "ASUS ETBW11AA",
-      "codename": "ETBW11AA",
-      "model": "ETBW11AA"
-    },
-    {
-      "market_name": "ASUS ETBW11AA",
-      "codename": "TF101G",
-      "model": "ETBW11AA"
-    },
-    {
-      "market_name": "ASUS Fonepad 8",
-      "codename": "K016_4",
-      "model": "K016"
-    },
-    {
-      "market_name": "ASUS Fonepad ME371MG",
-      "codename": "ME371MG",
-      "model": "ME371MG"
-    },
-    {
-      "market_name": "ASUS Live",
-      "codename": "ASUS_Z00YD",
-      "model": "ASUS_Z00YD"
-    },
-    {
-      "market_name": "ASUS MeMO Pad Smart 10",
-      "codename": "ME301T",
-      "model": "ME301T"
-    },
-    {
-      "market_name": "ASUS Trans AiO P1801",
-      "codename": "P1801-T",
-      "model": "ASUS Tablet P1801-T"
-    },
-    {
-      "market_name": "ASUS TransBook Trio",
-      "codename": "TX201LA",
-      "model": "TX201LA"
-    },
-    {
-      "market_name": "ASUS Transformer AiO P1801",
-      "codename": "P1801-T",
-      "model": "ASUS Tablet P1801-T"
-    },
-    {
-      "market_name": "ASUS Transformer AiO P1802",
-      "codename": "P1802-T",
-      "model": "ASUS Tablet P1802-T"
-    },
-    {
-      "market_name": "ASUS Transformer Book Trio",
-      "codename": "TX201LA",
-      "model": "TX201LA"
-    },
-    {
-      "market_name": "ASUS Transformer Pad",
-      "codename": "K010_1",
-      "model": "K010"
-    },
-    {
-      "market_name": "ASUS Transformer Pad Infinity",
-      "codename": "TF700KL",
-      "model": "ASUS Transformer Pad TF700KL"
-    },
-    {
-      "market_name": "ASUS Transformer Pad TF300TG",
-      "codename": "TF300TG",
-      "model": "ASUS Transformer Pad TF300TG"
-    },
-    {
-      "market_name": "ASUS Transformer Pad TF300TL",
-      "codename": "TF300TL",
-      "model": "ASUS Transformer Pad TF300TL"
-    },
-    {
-      "market_name": "ASUS Transformer Pad TF502T",
-      "codename": "TF502T",
-      "model": "ASUS Transformer Pad TF502T"
-    },
-    {
-      "market_name": "ASUS Transformer Pad TF600T",
-      "codename": "TF600T",
-      "model": "ASUS Transformer Pad TF600T"
-    },
-    {
-      "market_name": "ASUS ZenPad 3S 10",
-      "codename": "P027",
-      "model": "P027"
-    },
-    {
-      "market_name": "ASUS ZenWatch",
-      "codename": "anthias",
-      "model": "ASUS ZenWatch"
-    },
-    {
-      "market_name": "ASUS ZenWatch 2",
-      "codename": "wren",
-      "model": "ASUS ZenWatch 2"
-    },
-    {
       "market_name": "ASUSPRO Tablet (M1000C)",
       "codename": "P023_M",
       "model": "P023"
+    },
+    {
+      "market_name": "ASUSPRO Tablet (M1000CL)",
+      "codename": "P01T_M",
+      "model": "P01T"
     },
     {
       "market_name": "ASUSPRO Tablet (M700C)",
@@ -157,47 +47,37 @@
       "model": "P002"
     },
     {
-      "market_name": "ASUSPRO Tablet-M1000CL",
-      "codename": "P01T_M",
-      "model": "P01T"
+      "market_name": "Chromebook C202SA/C300SA/C301SA",
+      "codename": "terra_cheets",
+      "model": "ASUS Chromebook C202SA"
     },
     {
-      "market_name": "ASUS_ Zenfone Max",
-      "codename": "ASUS_Z010_2",
-      "model": "ASUS_Z010DD"
-    },
-    {
-      "market_name": "Asus Chromebook Flip C100PA",
+      "market_name": "Chromebook Flip C100PA",
       "codename": "minnie_cheets",
       "model": "ASUS Chromebook Flip C100PA"
     },
     {
-      "market_name": "Asus ZenPad 10",
-      "codename": "P01T_1",
-      "model": "P01T_1"
+      "market_name": "Chromebook Flip C101PA",
+      "codename": "bob_cheets",
+      "model": "bob"
     },
     {
-      "market_name": "Asus Zenfone3 Ultra",
-      "codename": "ASUS_A001",
-      "model": "ASUS_A001"
-    },
-    {
-      "market_name": "Commercial tablet 10\\xe2\\x80\\x9d (M1000M)",
+      "market_name": "\"Commercial tablet 10\"\" (M1000M)\"",
       "codename": "P00C_M",
       "model": "P00C"
     },
     {
-      "market_name": "Commercial tablet 10\\xe2\\x80\\x9d (R1000M)",
+      "market_name": "\"Commercial tablet 10\"\" (R1000M)\"",
       "codename": "P00C_M",
       "model": "P00C"
     },
     {
-      "market_name": "Commercial tablet 8\\xe2\\x80\\x9d (M800M)",
+      "market_name": "\"Commercial tablet 8\"\" (M800M)\"",
       "codename": "P00A_M",
       "model": "P00A"
     },
     {
-      "market_name": "Commercial tablet 8\\xe2\\x80\\x9d (R800M)",
+      "market_name": "\"Commercial tablet 8\"\" (R800M)\"",
       "codename": "P00A_M",
       "model": "P00A"
     },
@@ -205,6 +85,16 @@
       "market_name": "Cube",
       "codename": "asus_google_cube",
       "model": "asus_google_cube"
+    },
+    {
+      "market_name": "ETBW11AA",
+      "codename": "ETBW11AA",
+      "model": "ETBW11AA"
+    },
+    {
+      "market_name": "ETBW11AA",
+      "codename": "TF101G",
+      "model": "ETBW11AA"
     },
     {
       "market_name": "Eee Pad",
@@ -288,6 +178,11 @@
     },
     {
       "market_name": "Fonepad 7 (FE375CXG)",
+      "codename": "K019_2",
+      "model": "K019"
+    },
+    {
+      "market_name": "Fonepad 7 (FE375CXG)",
       "codename": "K019_3",
       "model": "K019"
     },
@@ -317,13 +212,13 @@
       "model": "K00Y"
     },
     {
-      "market_name": "Fonepad 7(FE375CXG)",
-      "codename": "K019_2",
-      "model": "K019"
+      "market_name": "Fonepad 8 (FE380CG)",
+      "codename": "K016_1",
+      "model": "K016"
     },
     {
       "market_name": "Fonepad 8 (FE380CG)",
-      "codename": "K016_1",
+      "codename": "K016_4",
       "model": "K016"
     },
     {
@@ -337,9 +232,19 @@
       "model": "K016"
     },
     {
+      "market_name": "Fonepad ME371MG",
+      "codename": "ME371MG",
+      "model": "ME371MG"
+    },
+    {
       "market_name": "Fonepad Note 6 (ME560CG)",
       "codename": "K00G",
       "model": "K00G"
+    },
+    {
+      "market_name": "Live (G500TG)",
+      "codename": "ASUS_Z00YD",
+      "model": "ASUS_Z00YD"
     },
     {
       "market_name": "MeMO PAD",
@@ -360,11 +265,6 @@
       "market_name": "MeMO Pad 10 (ME102A)",
       "codename": "K00F",
       "model": "K00F"
-    },
-    {
-      "market_name": "MeMO Pad 7",
-      "codename": "K013C",
-      "model": "K013C"
     },
     {
       "market_name": "MeMO Pad 7 (FE7010CG)",
@@ -390,6 +290,11 @@
       "market_name": "MeMO Pad 7 (ME176C)",
       "codename": "K013",
       "model": "K013"
+    },
+    {
+      "market_name": "MeMO Pad 7 (ME176CE)",
+      "codename": "K013C",
+      "model": "K013C"
     },
     {
       "market_name": "MeMO Pad 7 (ME176CX)",
@@ -470,6 +375,11 @@
       "market_name": "MeMO Pad HD7 Dual SIM (ME175KG)",
       "codename": "ASUS-K00S",
       "model": "ASUS K00S"
+    },
+    {
+      "market_name": "MeMO Pad Smart 10",
+      "codename": "ME301T",
+      "model": "ME301T"
     },
     {
       "market_name": "MeMo Pad 10 (ME302C)",
@@ -572,9 +482,19 @@
       "model": "ASUS_T00E"
     },
     {
+      "market_name": "R Series Tablet (R1001ML)",
+      "codename": "ASUS_P00L_M1",
+      "model": "P00L"
+    },
+    {
       "market_name": "RTC-700A",
       "codename": "RTC-tablet",
       "model": "RTC-tablet"
+    },
+    {
+      "market_name": "Series Tablet (R1001MFL)",
+      "codename": "ASUS_P00L_M2",
+      "model": "P00L"
     },
     {
       "market_name": "T101TA",
@@ -602,6 +522,36 @@
       "model": "PadFone T004"
     },
     {
+      "market_name": "Trans AiO P1801",
+      "codename": "P1801-T",
+      "model": "ASUS Tablet P1801-T"
+    },
+    {
+      "market_name": "TransBook Trio",
+      "codename": "TX201LA",
+      "model": "TX201LA"
+    },
+    {
+      "market_name": "Transformer AiO P1801",
+      "codename": "P1801-T",
+      "model": "ASUS Tablet P1801-T"
+    },
+    {
+      "market_name": "Transformer AiO P1802",
+      "codename": "P1802-T",
+      "model": "ASUS Tablet P1802-T"
+    },
+    {
+      "market_name": "Transformer Book Trio",
+      "codename": "TX201LA",
+      "model": "TX201LA"
+    },
+    {
+      "market_name": "Transformer Pad",
+      "codename": "K010_1",
+      "model": "K010"
+    },
+    {
       "market_name": "Transformer Pad",
       "codename": "TF300T",
       "model": "ASUS Pad TF300T"
@@ -627,6 +577,16 @@
       "model": "K010"
     },
     {
+      "market_name": "Transformer Pad (TF103CE)",
+      "codename": "K010E",
+      "model": "K010E"
+    },
+    {
+      "market_name": "Transformer Pad (TF103CE)",
+      "codename": "K010E_1",
+      "model": "K010E"
+    },
+    {
       "market_name": "Transformer Pad (TF103CG)",
       "codename": "K018",
       "model": "K018"
@@ -642,9 +602,34 @@
       "model": "K01B"
     },
     {
+      "market_name": "Transformer Pad Infinity",
+      "codename": "TF700KL",
+      "model": "ASUS Transformer Pad TF700KL"
+    },
+    {
       "market_name": "Transformer Pad Infinity (TF701T)",
       "codename": "K00C",
       "model": "K00C"
+    },
+    {
+      "market_name": "Transformer Pad TF300TG",
+      "codename": "TF300TG",
+      "model": "ASUS Transformer Pad TF300TG"
+    },
+    {
+      "market_name": "Transformer Pad TF300TL",
+      "codename": "TF300TL",
+      "model": "ASUS Transformer Pad TF300TL"
+    },
+    {
+      "market_name": "Transformer Pad TF502T",
+      "codename": "TF502T",
+      "model": "ASUS Transformer Pad TF502T"
+    },
+    {
+      "market_name": "Transformer Pad TF600T",
+      "codename": "TF600T",
+      "model": "ASUS Transformer Pad TF600T"
     },
     {
       "market_name": "Transformer TF101G",
@@ -695,6 +680,11 @@
       "market_name": "ZenFone 2 (ZE551ML)",
       "codename": "Z00A_1",
       "model": "ASUS_Z00ADB"
+    },
+    {
+      "market_name": "ZenFone 2 (ZE551ML)",
+      "codename": "Z00A_3",
+      "model": "ASUS_Z00AD"
     },
     {
       "market_name": "ZenFone 2 Laser (ZE500KG)",
@@ -753,12 +743,12 @@
     },
     {
       "market_name": "ZenFone 2 Laser (ZE550KL)",
-      "codename": "ASUS_Z00L_93",
+      "codename": "ASUS_Z00L_63C",
       "model": "ASUS_Z00LD"
     },
     {
-      "market_name": "ZenFone 2 Laser (ZE550KLA)",
-      "codename": "ASUS_Z00L_63C",
+      "market_name": "ZenFone 2 Laser (ZE550KL)",
+      "codename": "ASUS_Z00L_93",
       "model": "ASUS_Z00LD"
     },
     {
@@ -777,9 +767,19 @@
       "model": "ASUS_Z011D"
     },
     {
-      "market_name": "ZenFone 2(ZE551ML)",
-      "codename": "Z00A_3",
-      "model": "ASUS_Z00AD"
+      "market_name": "ZenFone 3",
+      "codename": "ASUS_Z012D",
+      "model": "ASUS_Z012D"
+    },
+    {
+      "market_name": "ZenFone 3",
+      "codename": "ASUS_Z012D",
+      "model": "ASUS_Z012DA"
+    },
+    {
+      "market_name": "ZenFone 3",
+      "codename": "ASUS_Z012D",
+      "model": "ASUS_Z012DE"
     },
     {
       "market_name": "ZenFone 3 Deluxe (ZS550KL)",
@@ -882,6 +882,41 @@
       "model": "ASUS_T00Q"
     },
     {
+      "market_name": "ZenFone 4 (ZE554KL)",
+      "codename": "ASUS_Z01KDA",
+      "model": "ASUS_Z01KD"
+    },
+    {
+      "market_name": "ZenFone 4 Max",
+      "codename": "ASUS_X00HD_1",
+      "model": "ASUS_X00HD"
+    },
+    {
+      "market_name": "ZenFone 4 Max (ZC554KL)",
+      "codename": "ASUS_X00ID",
+      "model": "ASUS_X00ID"
+    },
+    {
+      "market_name": "ZenFone 4 Max (ZC554KL)",
+      "codename": "ASUS_X00IDB",
+      "model": "ASUS_X00ID"
+    },
+    {
+      "market_name": "ZenFone 4 Pro",
+      "codename": "ASUS_Z01GD_1",
+      "model": "ASUS_Z01GD"
+    },
+    {
+      "market_name": "ZenFone 4 Selfie",
+      "codename": "ASUS_Z01M_1",
+      "model": "ASUS_Z01MD"
+    },
+    {
+      "market_name": "ZenFone 4 Selfie \\xef\\xbc\\x88ZD553KL\\xef\\xbc\\x89",
+      "codename": "ASUS_X00LD_1",
+      "model": "ASUS_X00LD"
+    },
+    {
       "market_name": "ZenFone 5",
       "codename": "ASUS_T00F",
       "model": "ASUS_T00F"
@@ -957,6 +992,31 @@
       "model": "ASUS_X007D"
     },
     {
+      "market_name": "ZenFone Go (ZC451TG)",
+      "codename": "ASUS_Z00SD",
+      "model": "ASUS_Z00SD"
+    },
+    {
+      "market_name": "ZenFone Go (ZC500TG)",
+      "codename": "ASUS_Z00VD",
+      "model": "ASUS_Z00VD"
+    },
+    {
+      "market_name": "ZenFone Live(ZB553KL)",
+      "codename": "ASUS_X00LD_2",
+      "model": "ASUS_X00LDB"
+    },
+    {
+      "market_name": "ZenFone Live(ZB553KL)",
+      "codename": "ASUS_X00LD_3",
+      "model": "ASUS_X00LDA"
+    },
+    {
+      "market_name": "ZenFone Live(ZB553KL)",
+      "codename": "ASUS_X00LD_3",
+      "model": "ZB553KL"
+    },
+    {
       "market_name": "ZenFone Selfie (ZD551KL)",
       "codename": "ASUS_Z00U_1",
       "model": "ASUS_Z00UD"
@@ -1003,16 +1063,6 @@
     },
     {
       "market_name": "ZenFone3",
-      "codename": "ASUS_Z012D",
-      "model": "ASUS_Z012D"
-    },
-    {
-      "market_name": "ZenFone3",
-      "codename": "ASUS_Z012D",
-      "model": "ASUS_Z012DA"
-    },
-    {
-      "market_name": "ZenFone3",
       "codename": "ASUS_Z017D_1",
       "model": "ASUS_Z017D"
     },
@@ -1020,6 +1070,16 @@
       "market_name": "ZenFone3",
       "codename": "ASUS_Z017D_1",
       "model": "ASUS_Z017DA"
+    },
+    {
+      "market_name": "ZenFone4 (ZE554KL)",
+      "codename": "ASUS_Z01KD_1",
+      "model": "ASUS_Z01KDA"
+    },
+    {
+      "market_name": "ZenFone4 (ZE554KL)",
+      "codename": "ASUS_Z01KD_2",
+      "model": "ASUS_Z01KD"
     },
     {
       "market_name": "ZenPad 10 (Z300C)",
@@ -1057,6 +1117,16 @@
       "model": "P00C"
     },
     {
+      "market_name": "ZenPad 10 (Z301M)",
+      "codename": "ASUS_P028_1",
+      "model": "P028"
+    },
+    {
+      "market_name": "ZenPad 10 (Z301MF)",
+      "codename": "ASUS_P028_2",
+      "model": "P028"
+    },
+    {
       "market_name": "ZenPad 10 (Z301MFL)",
       "codename": "ASUS_P00L_2",
       "model": "P00L"
@@ -1075,6 +1145,11 @@
       "market_name": "ZenPad 3 8.0",
       "codename": "P008_2",
       "model": "P008"
+    },
+    {
+      "market_name": "ZenPad 3S 10 (Z500M)",
+      "codename": "P027",
+      "model": "P027"
     },
     {
       "market_name": "ZenPad 3S 10 LTE (Z500KL)",
@@ -1098,13 +1173,33 @@
     },
     {
       "market_name": "ZenPad 7.0 (Z370KL)",
+      "codename": "P002_1",
+      "model": "P002"
+    },
+    {
+      "market_name": "ZenPad 7.0 (Z370KL)",
       "codename": "P002_2",
       "model": "P002"
     },
     {
-      "market_name": "ZenPad 7.0(Z370KL)",
-      "codename": "P002_1",
-      "model": "P002"
+      "market_name": "ZenPad 8.0 (Z380KL)",
+      "codename": "P024_1",
+      "model": "P024"
+    },
+    {
+      "market_name": "ZenPad 8.0 (Z380KL)",
+      "codename": "P024_2",
+      "model": "P024"
+    },
+    {
+      "market_name": "ZenPad 8.0 (Z380KL)",
+      "codename": "P024_3",
+      "model": "P024"
+    },
+    {
+      "market_name": "ZenPad 8.0 (Z380KL)",
+      "codename": "P024_4",
+      "model": "P024"
     },
     {
       "market_name": "ZenPad 8.0 (Z380M)",
@@ -1167,11 +1262,6 @@
       "model": "P01M"
     },
     {
-      "market_name": "ZenPad S 8.0 (Z580C)",
-      "codename": "P01M_5",
-      "model": "P01MA"
-    },
-    {
       "market_name": "ZenPad S 8.0 (Z580CA)",
       "codename": "P01M_1",
       "model": "P01MA"
@@ -1202,8 +1292,18 @@
       "model": "P001_2"
     },
     {
+      "market_name": "ZenWatch",
+      "codename": "anthias",
+      "model": "ASUS ZenWatch"
+    },
+    {
       "market_name": "ZenWatch 2",
       "codename": "sparrow",
+      "model": "ASUS ZenWatch 2"
+    },
+    {
+      "market_name": "ZenWatch 2",
+      "codename": "wren",
       "model": "ASUS ZenWatch 2"
     },
     {
@@ -1215,21 +1315,6 @@
       "market_name": "Zenbo",
       "codename": "ASUS_ZENBO",
       "model": "Zenbo"
-    },
-    {
-      "market_name": "Zenfone 3",
-      "codename": "ASUS_Z012D",
-      "model": "ASUS_Z012D"
-    },
-    {
-      "market_name": "Zenfone 3",
-      "codename": "ASUS_Z012D",
-      "model": "ASUS_Z012DA"
-    },
-    {
-      "market_name": "Zenfone 3",
-      "codename": "ASUS_Z012D",
-      "model": "ASUS_Z012DE"
     },
     {
       "market_name": "Zenfone 3 Deluxe (ZS570KL)",
@@ -1260,6 +1345,11 @@
       "market_name": "Zenfone 3 Laser",
       "codename": "Z01B_1",
       "model": "ASUS_Z01BS"
+    },
+    {
+      "market_name": "Zenfone 4V (V520KL)",
+      "codename": "ASUS_A006",
+      "model": "ASUS_A006"
     },
     {
       "market_name": "Zenfone AR",
@@ -1307,29 +1397,14 @@
       "model": "ASUS_X009DB"
     },
     {
-      "market_name": "Zenfone Go (ASUS_X003)",
-      "codename": "ASUS_X003",
-      "model": "ASUS_X003"
-    },
-    {
-      "market_name": "Zenfone Go (ASUS_X005)",
-      "codename": "ASUS_X005",
-      "model": "ASUS_X005"
-    },
-    {
       "market_name": "Zenfone Go (ASUS_X00BD)",
       "codename": "ASUS_X00BD_1",
       "model": "ASUS_X00BD"
     },
     {
-      "market_name": "Zenfone Go (ASUS_Z00SD)",
-      "codename": "ASUS_Z00SD",
-      "model": "ASUS_Z00SD"
-    },
-    {
-      "market_name": "Zenfone Go (ASUS_Z00VD)",
-      "codename": "ASUS_Z00VD",
-      "model": "ASUS_Z00VD"
+      "market_name": "Zenfone Go (T500)",
+      "codename": "ASUS_X003",
+      "model": "ASUS_X003"
     },
     {
       "market_name": "Zenfone MAX",
@@ -1362,19 +1437,19 @@
       "model": "ASUS_Z010D"
     },
     {
-      "market_name": "Zenpad 8 LTE",
-      "codename": "P024_2",
-      "model": "P024"
+      "market_name": "Zenfone Max",
+      "codename": "ASUS_Z010_2",
+      "model": "ASUS_Z010DD"
     },
     {
-      "market_name": "Zenpad 8 LTE",
-      "codename": "P024_3",
-      "model": "P024"
+      "market_name": "Zenfone V Live (Verizon)",
+      "codename": "ASUS_A009",
+      "model": "ASUS_A009"
     },
     {
-      "market_name": "Zenpad 8 LTE",
-      "codename": "P024_4",
-      "model": "P024"
+      "market_name": "Zenfone3 Ultra",
+      "codename": "ASUS_A001",
+      "model": "ASUS_A001"
     },
     {
       "market_name": "Zenpad 8.0 (Z380C)",
@@ -1387,11 +1462,6 @@
       "model": "P022"
     },
     {
-      "market_name": "Zenpad 8.0 (Z380KL)",
-      "codename": "P024_1",
-      "model": "P024"
-    },
-    {
       "market_name": "\\xe9\\xa3\\x9b\\xe9\\xa6\\xac (T500KLC)",
       "codename": "ASUS_X003",
       "model": "ASUS_X003"
@@ -1402,7 +1472,12 @@
       "model": "ASUS_X002"
     },
     {
-      "market_name": "\\xe9\\xa3\\x9e\\xe9\\xa9\\xac2 Plus(X550)",
+      "market_name": "\\xe9\\xa3\\x9b\\xe9\\xa6\\xac 5000 (T551TLC)",
+      "codename": "ASUS_X005",
+      "model": "ASUS_X005"
+    },
+    {
+      "market_name": "\\xe9\\xa3\\x9b\\xe9\\xa6\\xac2 Plus (T550KLC)",
       "codename": "ASUS_X550",
       "model": "ASUS_X550"
     }

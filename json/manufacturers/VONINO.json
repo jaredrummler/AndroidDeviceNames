@@ -52,9 +52,19 @@
       "model": "Navo_QS"
     },
     {
+      "market_name": "Navo S",
+      "codename": "Navo_S",
+      "model": "Navo S"
+    },
+    {
       "market_name": "Pluri B7",
       "codename": "Pluri_B7",
       "model": "Pluri B7"
+    },
+    {
+      "market_name": "Pluri C8",
+      "codename": "Pluri_C8",
+      "model": "Pluri C8"
     },
     {
       "market_name": "Pluri M7",
@@ -80,6 +90,11 @@
       "market_name": "Pluri Q8 TM",
       "codename": "Pluri_Q8",
       "model": "Pluri_Q8"
+    },
+    {
+      "market_name": "Pluri_B7_TM",
+      "codename": "Pluri_B7_TM",
+      "model": "Pluri_B7_TM"
     },
     {
       "market_name": "Pluri_G7",

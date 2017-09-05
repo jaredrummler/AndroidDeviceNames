@@ -2,61 +2,6 @@
   "manufacturer": "Beeline",
   "devices": [
     {
-      "market_name": "Beeline Fast HD",
-      "codename": "Beeline_Fast_HD",
-      "model": "Beeline Fast HD"
-    },
-    {
-      "market_name": "Beeline Pro 2",
-      "codename": "Beeline_Pro_2",
-      "model": "Beeline Pro 2"
-    },
-    {
-      "market_name": "Beeline Pro 6",
-      "codename": "Beeline_Pro_6",
-      "model": "Beeline_Pro_6"
-    },
-    {
-      "market_name": "Beeline Pro5",
-      "codename": "Beeline_Pro_5",
-      "model": "A451"
-    },
-    {
-      "market_name": "Beeline Smart 6",
-      "codename": "Beeline_Smart_6",
-      "model": "Beeline Smart 6"
-    },
-    {
-      "market_name": "Beeline Tab",
-      "codename": "Beeline_Tab",
-      "model": "Beeline Tab"
-    },
-    {
-      "market_name": "Beeline Tab 2",
-      "codename": "Tab_2",
-      "model": "Tab_2"
-    },
-    {
-      "market_name": "Beeline_Smart_8",
-      "codename": "Beeline_Smart_8",
-      "model": "A221"
-    },
-    {
-      "market_name": "Beeline_Smart_8",
-      "codename": "Beeline_Smart_8",
-      "model": "A239"
-    },
-    {
-      "market_name": "Beeline_Tab IS",
-      "codename": "Beeline_Tab_IS",
-      "model": "Beeline_Tab_IS"
-    },
-    {
-      "market_name": "Beeline_Tab_Fast",
-      "codename": "Beeline_Tab_Fast",
-      "model": "Beeline_Tab_Fast"
-    },
-    {
       "market_name": "Beeline\\xc2\\xa0Pro 4",
       "codename": "Beeline_Pro_4",
       "model": "Beeline Pro 4"
@@ -77,14 +22,74 @@
       "model": "Beeline Fast"
     },
     {
+      "market_name": "Fast HD",
+      "codename": "Beeline_Fast_HD",
+      "model": "Beeline Fast HD"
+    },
+    {
+      "market_name": "Fast-Plus",
+      "codename": "Fast_Plus",
+      "model": "Beeline Fast +"
+    },
+    {
+      "market_name": "Pro 2",
+      "codename": "Beeline_Pro_2",
+      "model": "Beeline Pro 2"
+    },
+    {
       "market_name": "Pro 3",
       "codename": "Pro_3",
       "model": "Beeline_Pro_3"
     },
     {
+      "market_name": "Pro 6",
+      "codename": "Beeline_Pro_6",
+      "model": "Beeline_Pro_6"
+    },
+    {
+      "market_name": "Pro5",
+      "codename": "Beeline_Pro_5",
+      "model": "A451"
+    },
+    {
+      "market_name": "Smart 6",
+      "codename": "Beeline_Smart_6",
+      "model": "Beeline Smart 6"
+    },
+    {
       "market_name": "Smart Dual",
       "codename": "Beeline",
       "model": "Beeline Smart Dual"
+    },
+    {
+      "market_name": "Smart_8",
+      "codename": "Beeline_Smart_8",
+      "model": "A221"
+    },
+    {
+      "market_name": "Smart_8",
+      "codename": "Beeline_Smart_8",
+      "model": "A239"
+    },
+    {
+      "market_name": "Tab",
+      "codename": "Beeline_Tab",
+      "model": "Beeline Tab"
+    },
+    {
+      "market_name": "Tab 2",
+      "codename": "Tab_2",
+      "model": "Tab_2"
+    },
+    {
+      "market_name": "Tab IS",
+      "codename": "Beeline_Tab_IS",
+      "model": "Beeline_Tab_IS"
+    },
+    {
+      "market_name": "Tab_Fast",
+      "codename": "Beeline_Tab_Fast",
+      "model": "Beeline_Tab_Fast"
     }
   ]
 }

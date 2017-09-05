@@ -1,8 +1,14 @@
 [
   {
     "manufacturer": "Coolpad",
-    "market_name": "Coolpad C103",
+    "market_name": "C103",
     "codename": "C103",
     "model": "C103"
+  },
+  {
+    "manufacturer": "Coolpad",
+    "market_name": "Coolpad C1-U02",
+    "codename": "C103",
+    "model": "C1-U02"
   }
 ]

@@ -2,14 +2,44 @@
   "manufacturer": "iGet",
   "devices": [
     {
-      "market_name": "iGET_S100",
+      "market_name": "S100",
       "codename": "iGET_S100",
       "model": "S100"
     },
     {
-      "market_name": "iGET_SMART",
+      "market_name": "SMART",
       "codename": "iGET_SMART",
       "model": "SMART"
+    },
+    {
+      "market_name": "SMART_G101",
+      "codename": "iGET_SMART_G101",
+      "model": "SMART_G101"
+    },
+    {
+      "market_name": "SMART_G102",
+      "codename": "iGET_SMART_G102",
+      "model": "SMART_G102"
+    },
+    {
+      "market_name": "SMART_G71",
+      "codename": "iGET_SMART_G71",
+      "model": "SMART_G71"
+    },
+    {
+      "market_name": "SMART_G81",
+      "codename": "SMART_G81",
+      "model": "SMART_G81"
+    },
+    {
+      "market_name": "SMART_G81H",
+      "codename": "SMART_G81H",
+      "model": "SMART_G81H"
+    },
+    {
+      "market_name": "SMART_L102",
+      "codename": "iGET_SMART_L102",
+      "model": "SMART_L102"
     }
   ]
 }

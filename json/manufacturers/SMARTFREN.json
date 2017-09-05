@@ -22,6 +22,11 @@
       "model": "Smartfren Andromax AD689G"
     },
     {
+      "market_name": "Andromax AD682H",
+      "codename": "AD682H",
+      "model": "Smartfren Andromax AD682H"
+    },
+    {
       "market_name": "Andromax AD687G",
       "codename": "AD687G",
       "model": "Andromax AD687G"
@@ -30,6 +35,11 @@
       "market_name": "Andromax C46B2G",
       "codename": "HS8916QC",
       "model": "Andromax C46B2G"
+    },
+    {
+      "market_name": "AndromaxNC36B1H",
+      "codename": "NC36B1H",
+      "model": "Smartfren Andromax NC36B1H"
     },
     {
       "market_name": "B16C2G",
@@ -80,16 +90,6 @@
       "market_name": "NEWAD688G",
       "codename": "NEWAD688G",
       "model": "Smartfren Andromax AD688G"
-    },
-    {
-      "market_name": "Smartfren Andromax AD682H",
-      "codename": "AD682H",
-      "model": "Smartfren Andromax AD682H"
-    },
-    {
-      "market_name": "Smartfren AndromaxNC36B1H",
-      "codename": "NC36B1H",
-      "model": "Smartfren Andromax NC36B1H"
     }
   ]
 }

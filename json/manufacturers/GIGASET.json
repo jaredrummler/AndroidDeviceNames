@@ -2,29 +2,39 @@
   "manufacturer": "Gigaset",
   "devices": [
     {
-      "market_name": "Gigaset GS160",
+      "market_name": "GS160",
       "codename": "GS160",
       "model": "Gigaset GS160"
     },
     {
-      "market_name": "Gigaset ME",
+      "market_name": "GS170",
+      "codename": "GS170",
+      "model": "Gigaset GS170"
+    },
+    {
+      "market_name": "Gigaset GS170",
+      "codename": "GS170",
+      "model": "Gigaset GS170"
+    },
+    {
+      "market_name": "Gigaset GS270",
+      "codename": "Gigaset_GS270",
+      "model": "GS270"
+    },
+    {
+      "market_name": "Gigaset GS270 plus",
+      "codename": "Gigaset_GS270_plus",
+      "model": "GS270 plus"
+    },
+    {
+      "market_name": "Gigaset Maxwell 10",
+      "codename": "maxwell_10",
+      "model": "Maxwell-10"
+    },
+    {
+      "market_name": "ME",
       "codename": "ME",
       "model": "GS55-6"
-    },
-    {
-      "market_name": "Gigaset QV1030",
-      "codename": "FG6Q",
-      "model": "Gigaset QV1030"
-    },
-    {
-      "market_name": "Gigaset QV830",
-      "codename": "UY8",
-      "model": "Gigaset QV830"
-    },
-    {
-      "market_name": "Gigaset QV831",
-      "codename": "UY8",
-      "model": "Gigaset QV831"
     },
     {
       "market_name": "ME Pro",
@@ -50,6 +60,21 @@
       "market_name": "Maxwell-10",
       "codename": "maxwell_10",
       "model": "Maxwell-10"
+    },
+    {
+      "market_name": "QV1030",
+      "codename": "FG6Q",
+      "model": "Gigaset QV1030"
+    },
+    {
+      "market_name": "QV830",
+      "codename": "UY8",
+      "model": "Gigaset QV830"
+    },
+    {
+      "market_name": "QV831",
+      "codename": "UY8",
+      "model": "Gigaset QV831"
     },
     {
       "market_name": "SL930",

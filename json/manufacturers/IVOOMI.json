@@ -1,0 +1,25 @@
+{
+  "manufacturer": "iVOOMi",
+  "devices": [
+    {
+      "market_name": "Me 1+",
+      "codename": "Me_1_plus",
+      "model": "Me 1+"
+    },
+    {
+      "market_name": "Me 2",
+      "codename": "Me_2",
+      "model": "Me 2"
+    },
+    {
+      "market_name": "Me 4",
+      "codename": "Me_4",
+      "model": "Me 4"
+    },
+    {
+      "market_name": "Me 5",
+      "codename": "Me_5",
+      "model": "Me 5"
+    }
+  ]
+}

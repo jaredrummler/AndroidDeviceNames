@@ -1,0 +1,50 @@
+{
+  "manufacturer": "DEXP",
+  "devices": [
+    {
+      "market_name": "DEXP P170",
+      "codename": "P170",
+      "model": "P170"
+    },
+    {
+      "market_name": "EL450",
+      "codename": "EL450",
+      "model": "Ixion EL450"
+    },
+    {
+      "market_name": "ES355",
+      "codename": "ES355",
+      "model": "Ixion ES355"
+    },
+    {
+      "market_name": "ES550",
+      "codename": "ES550",
+      "model": "Ixion ES550"
+    },
+    {
+      "market_name": "Ixion ML350",
+      "codename": "ML350",
+      "model": "Ixion ML350"
+    },
+    {
+      "market_name": "M340",
+      "codename": "M340",
+      "model": "Ixion M340"
+    },
+    {
+      "market_name": "M545",
+      "codename": "M545",
+      "model": "Ixion M545"
+    },
+    {
+      "market_name": "M750",
+      "codename": "M750",
+      "model": "Ixion M750"
+    },
+    {
+      "market_name": "lxion MS255",
+      "codename": "MS255",
+      "model": "Ixion MS255"
+    }
+  ]
+}

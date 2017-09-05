@@ -7,6 +7,21 @@
       "model": "ZUK Z2132"
     },
     {
+      "market_name": "Z1",
+      "codename": "Z1",
+      "model": "Z1"
+    },
+    {
+      "market_name": "Z1",
+      "codename": "Z1",
+      "model": "ZUK Z1"
+    },
+    {
+      "market_name": "Z1",
+      "codename": "k9",
+      "model": "ZUK Z1"
+    },
+    {
       "market_name": "Z2",
       "codename": "z2_plus",
       "model": "ZUK Z2131"
@@ -25,21 +40,6 @@
       "market_name": "ZTE BLADE A5 PRO",
       "codename": "P731A20",
       "model": "ZTE BLADE A5 PRO"
-    },
-    {
-      "market_name": "ZUK Z1",
-      "codename": "Z1",
-      "model": "Z1"
-    },
-    {
-      "market_name": "ZUK Z1",
-      "codename": "Z1",
-      "model": "ZUK Z1"
-    },
-    {
-      "market_name": "ZUK Z1",
-      "codename": "k9",
-      "model": "ZUK Z1"
     }
   ]
 }
