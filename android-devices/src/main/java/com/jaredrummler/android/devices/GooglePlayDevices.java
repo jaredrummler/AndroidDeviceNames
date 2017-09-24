@@ -50,28 +50,15 @@ public class GooglePlayDevices {
   private static final File DEVICES_DIR = new File(JSON_DIR, "devices");
   private static final File MANUFACTURERS_DIR = new File(JSON_DIR, "manufacturers");
 
-  public static final String[] POPULAR_DEVICES = {
+  private static final String[] POPULAR_DEVICES = {
       ////////////////////////////////////////////
       // Acer
-      "Iconia Tab 10",
-      "Iconia Tab 7",
-      "Iconia Tab 8",
-      "Liquid",
-      "Liquid E3",
-      "Liquid Jade",
-      "Liquid Jade S",
-      "Liquid S3",
-      "Liquid Z5",
+      "Liquid Jade Z",
+      "Liquid Zest Plus",
       ////////////////////////////////////////////
       // Asus
-      "MeMO Pad 7",
       "Nexus 7 (2012)",
       "Nexus 7 (2013)",
-      "ZenFone 5",
-      ////////////////////////////////////////////
-      // Dell
-      "Venue 7",
-      "Venue 8",
       ////////////////////////////////////////////
       // Google
       "Pixel",
@@ -79,64 +66,33 @@ public class GooglePlayDevices {
       "Pixel C",
       ////////////////////////////////////////////
       // HTC
-      "HTC One",
-      "HTC One (E8)",
-      "HTC One (M8)",
-      "HTC One A9",
-      "HTC One M9",
-      "HTC One S",
       "Nexus 9",
       ////////////////////////////////////////////
       // Huawei
-      "Honor3",
-      "Mate S",
       "Nexus 6P",
       ////////////////////////////////////////////
       // LGE
-      "LG G Flex",
-      "LG G Flex2",
       "LG G2",
       "LG G3",
       "LG G4",
-      "LG Leon 4G LTE",
-      "LG M1",
-      "LG Optimus 3D",
-      "LG Optimus G",
-      "LG Optimus G Pro",
-      "LG Optimus L9",
+      "LG G5",
+      "LG G6",
       "Nexus 4",
       "Nexus 5",
       "Nexus 5X",
-      "Optimus 2X",
-      "Optimus 3D",
-      "Optimus 3D MAX",
-      "Optimus Black",
-      "Optimus L5",
-      "Optimus LTE",
-      "Optimus One",
-      "Optimus Pad",
-      ////////////////////////////////////////////
-      // Lenovo
-      "Lenovo A7-30GC",
       ////////////////////////////////////////////
       // Motorola
-      "DROID Turbo",
-      "MOTO E",
-      "MOTO G",
-      "Moto G (1st Gen)",
-      "Moto G (2nd Gen)",
-      "MOTO X",
-      "Moto X Style",
       "Nexus 6",
       ////////////////////////////////////////////
       // OnePlus
       "OnePlus",
       "OnePlus One",
       "OnePlus2",
+      "OnePlus3",
+      "OnePlus5",
       ////////////////////////////////////////////
       // Samsung
       "Galaxy A5",
-      "Galaxy A8",
       "Galaxy Ace 4",
       "Galaxy Ace Duos",
       "Galaxy Ace Plus",
@@ -163,6 +119,7 @@ public class GooglePlayDevices {
       "Galaxy Note5",
       "Galaxy Note6",
       "Galaxy Note7",
+      "Galaxy Note8",
       "Galaxy On5",
       "Galaxy On7",
       "Galaxy S Duos",
@@ -204,10 +161,6 @@ public class GooglePlayDevices {
       "Xperia Z3",
       "Xperia Z4",
       "Xperia Z5 Compact",
-      ////////////////////////////////////////////
-      // Sony Ericsson
-      "Xperia S",
-      "Xperia Tablet Z",
   };
 
   private final Gson gson = new GsonBuilder().setPrettyPrinting().create();

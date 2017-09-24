@@ -1,105 +1,15 @@
 [
   {
     "manufacturer": "Acer",
-    "market_name": "Iconia Tab 10",
-    "codename": "acer_Titan",
-    "model": "A3-A50"
+    "market_name": "Liquid Jade Z",
+    "codename": "acer_S57",
+    "model": "S57"
   },
   {
     "manufacturer": "Acer",
-    "market_name": "Iconia Tab 10",
-    "codename": "acer_harley",
-    "model": "A3-A20"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Iconia Tab 10",
-    "codename": "acer_harleyfhd",
-    "model": "A3-A20FHD"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Iconia Tab 7",
-    "codename": "acer_aprilia",
-    "model": "A1-713"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Iconia Tab 7",
-    "codename": "acer_apriliahd",
-    "model": "A1-713HD"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Iconia Tab 8",
-    "codename": "ducati2fhd",
-    "model": "A1-840FHD"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Iconia Tab 8",
-    "codename": "ducati2hd",
-    "model": "A1-840"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Iconia Tab 8",
-    "codename": "ducati2hd3g",
-    "model": "A1-841"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Liquid",
-    "codename": "a1",
-    "model": "Acer Liquid"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Liquid",
-    "codename": "a1",
-    "model": "Acer S100"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Liquid",
-    "codename": "a1",
-    "model": "Liquid"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Liquid E3",
-    "codename": "acer_e3",
-    "model": "E380"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Liquid E3",
-    "codename": "acer_e3n",
-    "model": "E380"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Liquid Jade",
-    "codename": "acer_S55",
-    "model": "S55"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Liquid Jade S",
-    "codename": "acer_S56",
-    "model": "S56"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Liquid S3",
-    "codename": "s3",
-    "model": "S53"
-  },
-  {
-    "manufacturer": "Acer",
-    "market_name": "Liquid Z5",
-    "codename": "acer_ZXL",
-    "model": "Z150"
+    "market_name": "Liquid Zest Plus",
+    "codename": "acer_t08",
+    "model": "T08"
   },
   {
     "manufacturer": "Asus",
@@ -126,96 +36,6 @@
     "model": "Nexus 7"
   },
   {
-    "manufacturer": "Asus",
-    "market_name": "ZenFone 5",
-    "codename": "ASUS_T00F",
-    "model": "ASUS_T00F"
-  },
-  {
-    "manufacturer": "Asus",
-    "market_name": "ZenFone 5",
-    "codename": "ASUS_T00J",
-    "model": "ASUS_T00J"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 7",
-    "codename": "LW",
-    "model": "Venue 7 3741"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 7",
-    "codename": "Venue7",
-    "model": "Venue 7 3740"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 7",
-    "codename": "Venue7",
-    "model": "Venue7 3740"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 7",
-    "codename": "Venue7",
-    "model": "Venue7 3740 LTE"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 7",
-    "codename": "thunderbird",
-    "model": "Venue 7 3730"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 7",
-    "codename": "thunderbird",
-    "model": "Venue 7 HSPA+"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 8",
-    "codename": "BB",
-    "model": "Venue 8 7840"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 8",
-    "codename": "BB",
-    "model": "Venue 8 7840 LTE"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 8",
-    "codename": "Venue8",
-    "model": "Venue 8 3840"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 8",
-    "codename": "Venue8",
-    "model": "Venue8 3840"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 8",
-    "codename": "Venue8",
-    "model": "Venue8 3840 LTE"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 8",
-    "codename": "yellowtail",
-    "model": "Venue 8 3830"
-  },
-  {
-    "manufacturer": "Dell",
-    "market_name": "Venue 8",
-    "codename": "yellowtail",
-    "model": "Venue 8 HSPA+"
-  },
-  {
     "manufacturer": "Google",
     "market_name": "Pixel",
     "codename": "sailfish",
@@ -235,207 +55,15 @@
   },
   {
     "manufacturer": "HTC",
-    "market_name": "HTC One",
-    "codename": "m7wls",
-    "model": "HTC One"
-  },
-  {
-    "manufacturer": "HTC",
     "market_name": "Nexus 9",
     "codename": "flounder",
     "model": "Nexus 9"
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "Honor3",
-    "codename": "hwH30-T10",
-    "model": "H30-T10"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Honor3",
-    "codename": "hwH30-U10",
-    "model": "H30-U10"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Honor3",
-    "codename": "hwhn3-u00",
-    "model": "HUAWEI HN3-U00"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Honor3",
-    "codename": "hwhn3-u01",
-    "model": "HUAWEI HN3-U01"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Mate S",
-    "codename": "HWCRR",
-    "model": "HUAWEI CRR-CL00"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Mate S",
-    "codename": "HWCRR",
-    "model": "HUAWEI CRR-CL20"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Mate S",
-    "codename": "HWCRR",
-    "model": "HUAWEI CRR-L09"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Mate S",
-    "codename": "HWCRR",
-    "model": "HUAWEI CRR-TL00"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Mate S",
-    "codename": "HWCRR",
-    "model": "HUAWEI CRR-UL00"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Mate S",
-    "codename": "HWCRR",
-    "model": "HUAWEI CRR-UL20"
-  },
-  {
-    "manufacturer": "Huawei",
     "market_name": "Nexus 6P",
     "codename": "angler",
     "model": "Nexus 6P"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LG-D950"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LG-D950G"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LG-D951"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LG-D955"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LG-D956"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LG-D958"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LG-D959"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LG-F340K"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LG-F340L"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LG-F340S"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LG-LS995"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex",
-    "codename": "zee",
-    "model": "LGL23"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex2",
-    "codename": "z2",
-    "model": "LG-F510K"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex2",
-    "codename": "z2",
-    "model": "LG-F510L"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex2",
-    "codename": "z2",
-    "model": "LG-F510S"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex2",
-    "codename": "z2",
-    "model": "LG-H950"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex2",
-    "codename": "z2",
-    "model": "LG-H955"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex2",
-    "codename": "z2",
-    "model": "LG-H959"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex2",
-    "codename": "z2",
-    "model": "LGAS995"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex2",
-    "codename": "z2",
-    "model": "LGLS996"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG G Flex2",
-    "codename": "z2",
-    "model": "LGUS995"
   },
   {
     "manufacturer": "LGE",
@@ -733,255 +361,189 @@
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Leon 4G LTE",
-    "codename": "c50",
-    "model": "LG-H340"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LG-F700K"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Leon 4G LTE",
-    "codename": "c50",
-    "model": "LG-H340AR"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LG-F700L"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Leon 4G LTE",
-    "codename": "c50",
-    "model": "LG-H340GT"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LG-F700S"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Leon 4G LTE",
-    "codename": "c50",
-    "model": "LG-H343"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LG-H820"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Leon 4G LTE",
-    "codename": "c50",
-    "model": "LGMS345"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LG-H820PR"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Leon 4G LTE",
-    "codename": "c50ds",
-    "model": "LG-H342"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LG-H830"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Leon 4G LTE",
-    "codename": "c50n",
-    "model": "LG-H340n"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LG-H831"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG M1",
-    "codename": "m1ds",
-    "model": "LG-K332"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LG-H850"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus 3D",
-    "codename": "cosmopolitan",
-    "model": "LG-P920"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LG-H858"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus 3D",
-    "codename": "cosmopolitan",
-    "model": "LG-P925g"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LG-H860"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus 3D",
-    "codename": "cosmopolitan",
-    "model": "LG-SU760"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LG-H868"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geeb",
-    "model": "LG-E970"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LGAS992"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geeb",
-    "model": "LG-E971"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LGLS992"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geeb",
-    "model": "LG-E973"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "LGUS992"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehdc",
-    "model": "L-01E"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "RS988"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehdc",
-    "model": "LGL21"
+    "market_name": "LG G5",
+    "codename": "h1",
+    "model": "VS987"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehrc",
-    "model": "LG-E975"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LG-AS993"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehrc",
-    "model": "LG-E975K"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LG-H870"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehrc",
-    "model": "LG-E975T"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LG-H870AR"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehrc",
-    "model": "LG-E976"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LG-H870DS"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehrc",
-    "model": "LG-E977"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LG-H870S"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehrc",
-    "model": "LG-E987"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LG-H871"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehrc",
-    "model": "LG-F180K"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LG-H872"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehrc",
-    "model": "LG-F180S"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LG-H872PR"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehrc4g",
-    "model": "LG-F180L"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LG-H873"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G",
-    "codename": "geehrc4g",
-    "model": "LG-LS970"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LG-LS993"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G Pro",
-    "codename": "geefhd",
-    "model": "LG-E980"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LGM-G600K"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G Pro",
-    "codename": "geefhd",
-    "model": "LG-E980h"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LGM-G600L"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G Pro",
-    "codename": "geefhd",
-    "model": "LG-E981h"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LGM-G600S"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G Pro",
-    "codename": "geefhd",
-    "model": "LG-E986"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LGUS997"
   },
   {
     "manufacturer": "LGE",
-    "market_name": "LG Optimus G Pro",
-    "codename": "geefhd",
-    "model": "LG-E988"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG Optimus G Pro",
-    "codename": "geefhd",
-    "model": "LG-E989"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG Optimus G Pro",
-    "codename": "geefhd",
-    "model": "LG-F240K"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG Optimus G Pro",
-    "codename": "geefhd",
-    "model": "LG-F240S"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG Optimus G Pro",
-    "codename": "geefhd4g",
-    "model": "LG-F240L"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG Optimus L9",
-    "codename": "u2",
-    "model": "LG-D700"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG Optimus L9",
-    "codename": "u2",
-    "model": "LG-P760"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG Optimus L9",
-    "codename": "u2",
-    "model": "LG-P765"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG Optimus L9",
-    "codename": "u2",
-    "model": "LG-P768"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG Optimus L9",
-    "codename": "u2",
-    "model": "LG-P769"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG Optimus L9",
-    "codename": "u2",
-    "model": "LG-P778"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "LG Optimus L9",
-    "codename": "u2",
-    "model": "LGMS769"
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "VS988"
   },
   {
     "manufacturer": "LGE",
@@ -1002,576 +564,6 @@
     "model": "Nexus 5X"
   },
   {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "p990",
-    "model": "LG-P990"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "p990",
-    "model": "LG-P990H"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "p990",
-    "model": "LG-P990h"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "p990_262-xx",
-    "model": "LG-P990"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "p990_CIS-xxx",
-    "model": "LG-P990"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "p990_EUR-xx",
-    "model": "LG-P990"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "p990hN",
-    "model": "LG-P990hN"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "p999",
-    "model": "LG-P999"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "star",
-    "model": "LG-P990"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "star",
-    "model": "LG-SU660"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "star_450-05",
-    "model": "LG-SU660"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 2X",
-    "codename": "su660",
-    "model": "LG-SU660"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 3D",
-    "codename": "cosmo_450-05",
-    "model": "LG-SU760"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 3D",
-    "codename": "cosmo_EUR-XXX",
-    "model": "LG-P920"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 3D",
-    "codename": "cosmo_MEA-XXX",
-    "model": "LG-P920"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 3D",
-    "codename": "p920",
-    "model": "LG-P920"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 3D",
-    "codename": "p920",
-    "model": "LG-P920h"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 3D",
-    "codename": "su760",
-    "model": "LG-SU760"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 3D MAX",
-    "codename": "cx2",
-    "model": "LG-P720"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 3D MAX",
-    "codename": "cx2",
-    "model": "LG-P720h"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 3D MAX",
-    "codename": "cx2",
-    "model": "LG-P725"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus 3D MAX",
-    "codename": "cx2",
-    "model": "LG-SU870"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "LGL85C",
-    "model": "LGL85C"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "black",
-    "model": "LG-KU5900"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "blackg",
-    "model": "LG-P970"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "blackg",
-    "model": "LG-P970h"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "bproj_214-03",
-    "model": "LG-P970"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "bproj_262-XXX",
-    "model": "LG-P970"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "bproj_302-220",
-    "model": "LG-P970g"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "bproj_334-020",
-    "model": "LG-P970h"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "bproj_724-xxx",
-    "model": "LG-P970h"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "bproj_ARE-XXX",
-    "model": "LG-P970"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "bproj_EUR-XXX",
-    "model": "LG-P970"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "bproj_sea-xxx",
-    "model": "LG-P970"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "ku5900",
-    "model": "LG-KU5900"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "lgp970",
-    "model": "LG-P970"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "lgp970",
-    "model": "LG-P970g"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Black",
-    "codename": "lgp970",
-    "model": "LG-P970h"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus L5",
-    "codename": "m4",
-    "model": "LG-E610"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus L5",
-    "codename": "m4",
-    "model": "LG-E610v"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus L5",
-    "codename": "m4",
-    "model": "LG-E612"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus L5",
-    "codename": "m4",
-    "model": "LG-E612f"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus L5",
-    "codename": "m4",
-    "model": "LG-E612g"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus L5",
-    "codename": "m4",
-    "model": "LG-E617G"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus L5",
-    "codename": "m4",
-    "model": "LG-L40G"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus LTE",
-    "codename": "i_dcm",
-    "model": "L-01D"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus LTE",
-    "codename": "i_skt",
-    "model": "LG-SU640"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus LTE",
-    "codename": "i_u",
-    "model": "LG-LU6200"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus LTE",
-    "codename": "iproj",
-    "model": "LG-P936"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus LTE",
-    "codename": "lgp930",
-    "model": "LG-P930"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus LTE",
-    "codename": "lgp935",
-    "model": "LG-P935"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "ku3700",
-    "model": "LG-KU3700"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "lu3700",
-    "model": "LG-LU3700"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "su370",
-    "model": "LG-SU370"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "thunder_kor-05",
-    "model": "LG-SU370"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "thunder_kor-08",
-    "model": "LG-KU3700"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "thunder_kor-08",
-    "model": "LG-LU3700"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "thunderc",
-    "model": "LG-CX670"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "thunderc",
-    "model": "LG-LW690"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "thunderc",
-    "model": "LG-MS690"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "thunderc",
-    "model": "LG-US670"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "thunderc",
-    "model": "LS670"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "thunderc",
-    "model": "VM670"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "thunderc",
-    "model": "Vortex"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus One",
-    "codename": "thunderc",
-    "model": "thunderc"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Pad",
-    "codename": "l06c",
-    "model": "L-06C"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Pad",
-    "codename": "v900",
-    "model": "LG-V900"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Pad",
-    "codename": "v900asia",
-    "model": "LG-V900"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Pad",
-    "codename": "v901ar",
-    "model": "LG-V901"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Pad",
-    "codename": "v901kr",
-    "model": "LG-V901"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Pad",
-    "codename": "v901tr",
-    "model": "LG-V901"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Pad",
-    "codename": "v905r",
-    "model": "LG-V905R"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Pad",
-    "codename": "v909",
-    "model": "LG-V909"
-  },
-  {
-    "manufacturer": "LGE",
-    "market_name": "Optimus Pad",
-    "codename": "v909mkt",
-    "model": "LG-V909"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Droid Turbo",
-    "codename": "quark",
-    "model": "XT1250"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Droid Turbo",
-    "codename": "quark",
-    "model": "XT1254"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (1st Gen)",
-    "codename": "falcon_cdma",
-    "model": "XT1028"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (1st Gen)",
-    "codename": "falcon_cdma",
-    "model": "XT1031"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (1st Gen)",
-    "codename": "falcon_cdma",
-    "model": "XT937C"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (1st Gen)",
-    "codename": "falcon_umts",
-    "model": "XT1002"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (1st Gen)",
-    "codename": "falcon_umts",
-    "model": "XT1003"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (1st Gen)",
-    "codename": "falcon_umts",
-    "model": "XT1008"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (1st Gen)",
-    "codename": "falcon_umts",
-    "model": "XT1032"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (1st Gen)",
-    "codename": "falcon_umts",
-    "model": "XT1034"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (1st Gen)",
-    "codename": "falcon_umts",
-    "model": "XT939G"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (1st Gen)",
-    "codename": "falcon_umtsds",
-    "model": "XT1033"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (2nd Gen)",
-    "codename": "titan_udstv",
-    "model": "XT1069"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (2nd Gen)",
-    "codename": "titan_udstv",
-    "model": "titan_retbr_dstv"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (2nd Gen)",
-    "codename": "titan_umts",
-    "model": "XT1063"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (2nd Gen)",
-    "codename": "titan_umts",
-    "model": "XT1064"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (2nd Gen)",
-    "codename": "titan_umtsds",
-    "model": "XT1068"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto G (2nd Gen)",
-    "codename": "titan_umtsds",
-    "model": "titan_niibr_ds"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X Style",
-    "codename": "clark",
-    "model": "XT1572"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X Style",
-    "codename": "clark_ds",
-    "model": "XT1570"
-  },
-  {
-    "manufacturer": "Motorola",
-    "market_name": "Moto X Style",
-    "codename": "clark_ds",
-    "model": "XT1572"
-  },
-  {
     "manufacturer": "Motorola",
     "market_name": "Nexus 6",
     "codename": "shamu",
@@ -1588,6 +580,18 @@
     "market_name": "OnePlus2",
     "codename": "OnePlus2",
     "model": "ONE A2003"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus3",
+    "codename": "OnePlus3",
+    "model": "ONEPLUS A3000"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus5",
+    "codename": "OnePlus5",
+    "model": "ONEPLUS A5000"
   },
   {
     "manufacturer": "Samsung",
@@ -1690,54 +694,6 @@
     "market_name": "Galaxy A5",
     "codename": "a5ulteskt",
     "model": "SM-A500S"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A8",
-    "codename": "SCV32",
-    "model": "SCV32"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A8",
-    "codename": "a8elte",
-    "model": "SM-A800F"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A8",
-    "codename": "a8elte",
-    "model": "SM-A800YZ"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A8",
-    "codename": "a8elteskt",
-    "model": "SM-A800S"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A8",
-    "codename": "a8hplte",
-    "model": "SM-A800I"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A8",
-    "codename": "a8hplte",
-    "model": "SM-A800IZ"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A8",
-    "codename": "a8ltechn",
-    "model": "SM-A8000"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A8",
-    "codename": "a8ltechn",
-    "model": "SM-A800X"
   },
   {
     "manufacturer": "Samsung",
@@ -3436,6 +2392,48 @@
     "market_name": "Galaxy Note7",
     "codename": "graceqltevzw",
     "model": "SM-N930V"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note8",
+    "codename": "greatlte",
+    "model": "SM-N950F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note8",
+    "codename": "greatlteks",
+    "model": "SM-N950N"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note8",
+    "codename": "greatqlte",
+    "model": "SM-N950U"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note8",
+    "codename": "greatqltechn",
+    "model": "SM-N9500"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note8",
+    "codename": "greatqltecmcc",
+    "model": "SM-N9508"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note8",
+    "codename": "greatqltecs",
+    "model": "SM-N950W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Note8",
+    "codename": "greatqlteue",
+    "model": "SM-N950U1"
   },
   {
     "manufacturer": "Samsung",
@@ -5788,71 +4786,5 @@
     "market_name": "Xperia Z5 Compact",
     "codename": "SO-02H",
     "model": "SO-02H"
-  },
-  {
-    "manufacturer": "Sony",
-    "market_name": "Xperia S",
-    "codename": "LT26i",
-    "model": "LT26i"
-  },
-  {
-    "manufacturer": "Sony Ericsson",
-    "market_name": "Xperia S",
-    "codename": "LT26i",
-    "model": "LT26i"
-  },
-  {
-    "manufacturer": "Sony Ericsson",
-    "market_name": "Xperia S",
-    "codename": "SO-02D",
-    "model": "SO-02D"
-  },
-  {
-    "manufacturer": "Sony",
-    "market_name": "Xperia Tablet Z",
-    "codename": "SGP311",
-    "model": "SGP311"
-  },
-  {
-    "manufacturer": "Sony",
-    "market_name": "Xperia Tablet Z",
-    "codename": "SGP312",
-    "model": "SGP312"
-  },
-  {
-    "manufacturer": "Sony",
-    "market_name": "Xperia Tablet Z",
-    "codename": "SGP321",
-    "model": "SGP321"
-  },
-  {
-    "manufacturer": "Sony",
-    "market_name": "Xperia Tablet Z",
-    "codename": "SGP351",
-    "model": "SGP351"
-  },
-  {
-    "manufacturer": "Sony Ericsson",
-    "market_name": "Xperia Tablet Z",
-    "codename": "SGP311",
-    "model": "SGP311"
-  },
-  {
-    "manufacturer": "Sony Ericsson",
-    "market_name": "Xperia Tablet Z",
-    "codename": "SGP321",
-    "model": "SGP321"
-  },
-  {
-    "manufacturer": "Sony Ericsson",
-    "market_name": "Xperia Tablet Z",
-    "codename": "SGP341",
-    "model": "SGP341"
-  },
-  {
-    "manufacturer": "Sony Ericsson",
-    "market_name": "Xperia Tablet Z",
-    "codename": "SO-03E",
-    "model": "SO-03E"
   }
 ]

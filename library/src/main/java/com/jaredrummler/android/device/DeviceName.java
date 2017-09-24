@@ -148,62 +148,19 @@ public class DeviceName {
    *     "ro.product.model" ({@link Build#MODEL})
    * @return the market name of a device or {@code fallback} if the device is unknown.
    */
-
   public static String getDeviceName(String codename, String model, String fallback) {
     // ----------------------------------------------------------------------------
     // Acer
-    if ((codename != null && (codename.equals("acer_harley")
-        || codename.equals("acer_harleyfhd")))
-        || (model != null && (model.equals("A3-A20")
-        || model.equals("A3-A20FHD")))) {
-      return "Iconia Tab 10";
+    if ((codename != null && codename.equals("acer_S57"))
+        || (model != null && model.equals("S57"))) {
+      return "Liquid Jade Z";
     }
-    if ((codename != null && (codename.equals("acer_aprilia")
-        || codename.equals("acer_apriliahd")))
-        || (model != null && (model.equals("A1-713")
-        || model.equals("A1-713HD")))) {
-      return "Iconia Tab 7";
-    }
-    if ((codename != null && (codename.equals("ducati2fhd")
-        || codename.equals("ducati2hd")
-        || codename.equals("ducati2hd3g")))
-        || (model != null && (model.equals("A1-840")
-        || model.equals("A1-840FHD")
-        || model.equals("A1-841")))) {
-      return "Iconia Tab 8";
-    }
-    if ((codename != null && (codename.equals("a1")))
-        || (model != null && (model.equals("Acer Liquid")
-        || model.equals("Acer S100")))) {
-      return "Liquid";
-    }
-    if ((codename != null && (codename.equals("acer_e3")
-        || codename.equals("acer_e3n")))
-        || (model != null && (model.equals("E380")))) {
-      return "Liquid E3";
-    }
-    if ((codename != null && codename.equals("acer_S55"))
-        || (model != null && model.equals("S55"))) {
-      return "Liquid Jade";
-    }
-    if ((codename != null && codename.equals("acer_S56"))
-        || (model != null && model.equals("S56"))) {
-      return "Liquid Jade S";
-    }
-    if ((codename != null && codename.equals("s3"))
-        || (model != null && model.equals("S53"))) {
-      return "Liquid S3";
-    }
-    if ((codename != null && codename.equals("acer_ZXL"))
-        || (model != null && model.equals("Z150"))) {
-      return "Liquid Z5";
+    if ((codename != null && codename.equals("acer_t08"))
+        || (model != null && model.equals("T08"))) {
+      return "Liquid Zest Plus";
     }
     // ----------------------------------------------------------------------------
     // Asus
-    if ((codename != null && codename.equals("K013C"))
-        || (model != null && model.equals("K013C"))) {
-      return "MeMO Pad 7";
-    }
     if ((codename != null && (codename.equals("grouper")
         || codename.equals("tilapia")))) {
       return "Nexus 7 (2012)";
@@ -211,37 +168,6 @@ public class DeviceName {
     if ((codename != null && (codename.equals("deb")
         || codename.equals("flo")))) {
       return "Nexus 7 (2013)";
-    }
-    if ((codename != null && (codename.equals("ASUS_T00F")
-        || codename.equals("ASUS_T00J")))
-        || (model != null && (model.equals("ASUS_T00F")
-        || model.equals("ASUS_T00J")))) {
-      return "ZenFone 5";
-    }
-    // ----------------------------------------------------------------------------
-    // Dell
-    if ((codename != null && (codename.equals("LW")
-        || codename.equals("Venue7")
-        || codename.equals("thunderbird")))
-        || (model != null && (model.equals("Venue 7 3730")
-        || model.equals("Venue 7 3740")
-        || model.equals("Venue 7 3741")
-        || model.equals("Venue 7 HSPA+")
-        || model.equals("Venue7 3740")
-        || model.equals("Venue7 3740 LTE")))) {
-      return "Venue 7";
-    }
-    if ((codename != null && (codename.equals("BB")
-        || codename.equals("Venue8")
-        || codename.equals("yellowtail")))
-        || (model != null && (model.equals("Venue 8 3830")
-        || model.equals("Venue 8 3840")
-        || model.equals("Venue 8 7840")
-        || model.equals("Venue 8 7840 LTE")
-        || model.equals("Venue 8 HSPA+")
-        || model.equals("Venue8 3840")
-        || model.equals("Venue8 3840 LTE")))) {
-      return "Venue 8";
     }
     // ----------------------------------------------------------------------------
     // Google
@@ -256,137 +182,16 @@ public class DeviceName {
     }
     // ----------------------------------------------------------------------------
     // HTC
-    if ((codename != null && (codename.equals("m7")
-        || codename.equals("m7cdtu")
-        || codename.equals("m7cdug")
-        || codename.equals("m7cdwg")
-        || codename.equals("m7wls")
-        || codename.equals("m7wlv")))
-        || (model != null && (model.equals("HTC 801e")
-        || model.equals("HTC 802d")
-        || model.equals("HTC 802t")
-        || model.equals("HTC 802t 16GB")
-        || model.equals("HTC 802w")
-        || model.equals("HTC One 801e")
-        || model.equals("HTC One dual 802d")
-        || model.equals("HTC One dual sim")
-        || model.equals("HTC6500LVW")
-        || model.equals("HTCONE")
-        || model.equals("HTC_PN071")))) {
-      return "HTC One";
-    }
-    if ((codename != null && (codename.equals("htc_mecdwg")
-        || codename.equals("htc_mectl")
-        || codename.equals("htc_mecul")
-        || codename.equals("htc_mecwhl")))
-        || (model != null && (model.equals("0PAJ5")
-        || model.equals("HTC M8Sd")
-        || model.equals("HTC M8St")
-        || model.equals("HTC One_E8")
-        || model.equals("HTC_M8Sx")))) {
-      return "HTC One (E8)";
-    }
-    if ((codename != null && (codename.equals("htc_m8")
-        || codename.equals("htc_m8dug")
-        || codename.equals("htc_m8dwg")
-        || codename.equals("htc_m8whl")
-        || codename.equals("htc_m8wl")))
-        || (model != null && (model.equals("831C")
-        || model.equals("HTC M8d")
-        || model.equals("HTC M8w")
-        || model.equals("HTC One_M8")
-        || model.equals("HTC One_M8 dual sim")
-        || model.equals("HTC6525LVW")
-        || model.equals("HTC_0P6B")
-        || model.equals("HTC_0P6B6")
-        || model.equals("HTC_M8x")))) {
-      return "HTC One (M8)";
-    }
-    if ((codename != null && (codename.equals("htc_hiaetuhl")
-        || codename.equals("htc_hiaeuhl")
-        || codename.equals("htc_hiaeul")
-        || codename.equals("htc_hiaewhl")))
-        || (model != null && (model.equals("2PQ93")
-        || model.equals("HTC A9w")
-        || model.equals("HTC_A9u")))) {
-      return "HTC One A9";
-    }
-    if ((codename != null && (codename.equals("htc_himauhl")
-        || codename.equals("htc_himaul")
-        || codename.equals("htc_himaulatt")
-        || codename.equals("htc_himawhl")
-        || codename.equals("htc_himawl")))
-        || (model != null && (model.equals("0PJA10")
-        || model.equals("0PJA2")
-        || model.equals("HTC 0PJA10")
-        || model.equals("HTC6535LRA")
-        || model.equals("HTC6535LVW")
-        || model.equals("HTC_0PJA10")
-        || model.equals("HTC_M9u")))) {
-      return "HTC One M9";
-    }
-    if ((codename != null && (codename.equals("ville")
-        || codename.equals("villec2")))
-        || (model != null && (model.equals("HTC VLE_U")
-        || model.equals("HTC Z560e")))) {
-      return "HTC One S";
-    }
     if ((codename != null && codename.equals("flounder"))) {
       return "Nexus 9";
     }
     // ----------------------------------------------------------------------------
     // Huawei
-    if ((codename != null && (codename.equals("hwH30-T10")
-        || codename.equals("hwH30-U10")
-        || codename.equals("hwhn3-u00")
-        || codename.equals("hwhn3-u01")))
-        || (model != null && (model.equals("H30-T10")
-        || model.equals("H30-U10")
-        || model.equals("HUAWEI HN3-U00")
-        || model.equals("HUAWEI HN3-U01")))) {
-      return "Honor3";
-    }
-    if ((codename != null && (codename.equals("HWCRR")))
-        || (model != null && (model.equals("HUAWEI CRR-CL00")
-        || model.equals("HUAWEI CRR-CL20")
-        || model.equals("HUAWEI CRR-L09")
-        || model.equals("HUAWEI CRR-TL00")
-        || model.equals("HUAWEI CRR-UL00")
-        || model.equals("HUAWEI CRR-UL20")))) {
-      return "Mate S";
-    }
     if ((codename != null && codename.equals("angler"))) {
       return "Nexus 6P";
     }
     // ----------------------------------------------------------------------------
     // LGE
-    if ((codename != null && (codename.equals("zee")))
-        || (model != null && (model.equals("LG-D950")
-        || model.equals("LG-D950G")
-        || model.equals("LG-D951")
-        || model.equals("LG-D955")
-        || model.equals("LG-D956")
-        || model.equals("LG-D958")
-        || model.equals("LG-D959")
-        || model.equals("LG-F340K")
-        || model.equals("LG-F340L")
-        || model.equals("LG-F340S")
-        || model.equals("LG-LS995")
-        || model.equals("LGL23")))) {
-      return "LG G Flex";
-    }
-    if ((codename != null && (codename.equals("z2")))
-        || (model != null && (model.equals("LG-F510K")
-        || model.equals("LG-F510L")
-        || model.equals("LG-F510S")
-        || model.equals("LG-H950")
-        || model.equals("LG-H955")
-        || model.equals("LG-H959")
-        || model.equals("LGAS995")
-        || model.equals("LGLS996")
-        || model.equals("LGUS995")))) {
-      return "LG G Flex2";
-    }
     if ((codename != null && (codename.equals("g2")))
         || (model != null && (model.equals("LG-D800")
         || model.equals("LG-D801")
@@ -445,71 +250,42 @@ public class DeviceName {
         || model.equals("VS986")))) {
       return "LG G4";
     }
-    if ((codename != null && (codename.equals("c50")
-        || codename.equals("c50ds")
-        || codename.equals("c50n")))
-        || (model != null && (model.equals("LG-H340")
-        || model.equals("LG-H340AR")
-        || model.equals("LG-H340GT")
-        || model.equals("LG-H340n")
-        || model.equals("LG-H342")
-        || model.equals("LG-H343")
-        || model.equals("LGMS345")))) {
-      return "LG Leon 4G LTE";
+    if ((codename != null && (codename.equals("h1")))
+        || (model != null && (model.equals("LG-F700K")
+        || model.equals("LG-F700L")
+        || model.equals("LG-F700S")
+        || model.equals("LG-H820")
+        || model.equals("LG-H820PR")
+        || model.equals("LG-H830")
+        || model.equals("LG-H831")
+        || model.equals("LG-H850")
+        || model.equals("LG-H858")
+        || model.equals("LG-H860")
+        || model.equals("LG-H868")
+        || model.equals("LGAS992")
+        || model.equals("LGLS992")
+        || model.equals("LGUS992")
+        || model.equals("RS988")
+        || model.equals("VS987")))) {
+      return "LG G5";
     }
-    if ((codename != null && codename.equals("m1ds"))
-        || (model != null && model.equals("LG-K332"))) {
-      return "LG M1";
-    }
-    if ((codename != null && (codename.equals("cosmopolitan")))
-        || (model != null && (model.equals("LG-P920")
-        || model.equals("LG-P925g")
-        || model.equals("LG-SU760")))) {
-      return "LG Optimus 3D";
-    }
-    if ((codename != null && (codename.equals("geeb")
-        || codename.equals("geehdc")
-        || codename.equals("geehrc")
-        || codename.equals("geehrc4g")))
-        || (model != null && (model.equals("L-01E")
-        || model.equals("LG-E970")
-        || model.equals("LG-E971")
-        || model.equals("LG-E973")
-        || model.equals("LG-E975")
-        || model.equals("LG-E975K")
-        || model.equals("LG-E975T")
-        || model.equals("LG-E976")
-        || model.equals("LG-E977")
-        || model.equals("LG-E987")
-        || model.equals("LG-F180K")
-        || model.equals("LG-F180L")
-        || model.equals("LG-F180S")
-        || model.equals("LG-LS970")
-        || model.equals("LGL21")))) {
-      return "LG Optimus G";
-    }
-    if ((codename != null && (codename.equals("geefhd")
-        || codename.equals("geefhd4g")))
-        || (model != null && (model.equals("LG-E980")
-        || model.equals("LG-E980h")
-        || model.equals("LG-E981h")
-        || model.equals("LG-E986")
-        || model.equals("LG-E988")
-        || model.equals("LG-E989")
-        || model.equals("LG-F240K")
-        || model.equals("LG-F240L")
-        || model.equals("LG-F240S")))) {
-      return "LG Optimus G Pro";
-    }
-    if ((codename != null && (codename.equals("u2")))
-        || (model != null && (model.equals("LG-D700")
-        || model.equals("LG-P760")
-        || model.equals("LG-P765")
-        || model.equals("LG-P768")
-        || model.equals("LG-P769")
-        || model.equals("LG-P778")
-        || model.equals("LGMS769")))) {
-      return "LG Optimus L9";
+    if ((codename != null && (codename.equals("lucye")))
+        || (model != null && (model.equals("LG-AS993")
+        || model.equals("LG-H870")
+        || model.equals("LG-H870AR")
+        || model.equals("LG-H870DS")
+        || model.equals("LG-H870S")
+        || model.equals("LG-H871")
+        || model.equals("LG-H872")
+        || model.equals("LG-H872PR")
+        || model.equals("LG-H873")
+        || model.equals("LG-LS993")
+        || model.equals("LGM-G600K")
+        || model.equals("LGM-G600L")
+        || model.equals("LGM-G600S")
+        || model.equals("LGUS997")
+        || model.equals("VS988")))) {
+      return "LG G6";
     }
     if ((codename != null && codename.equals("mako"))) {
       return "Nexus 4";
@@ -520,159 +296,8 @@ public class DeviceName {
     if ((codename != null && codename.equals("bullhead"))) {
       return "Nexus 5X";
     }
-    if ((codename != null && (codename.equals("p990")
-        || codename.equals("p990_262-xx")
-        || codename.equals("p990_CIS-xxx")
-        || codename.equals("p990_EUR-xx")
-        || codename.equals("p990hN")
-        || codename.equals("p999")
-        || codename.equals("star")
-        || codename.equals("star_450-05")
-        || codename.equals("su660")))
-        || (model != null && (model.equals("LG-P990")
-        || model.equals("LG-P990H")
-        || model.equals("LG-P990h")
-        || model.equals("LG-P990hN")
-        || model.equals("LG-P999")
-        || model.equals("LG-SU660")))) {
-      return "Optimus 2X";
-    }
-    if ((codename != null && (codename.equals("cosmo_450-05")
-        || codename.equals("cosmo_EUR-XXX")
-        || codename.equals("cosmo_MEA-XXX")
-        || codename.equals("p920")
-        || codename.equals("su760")))
-        || (model != null && (model.equals("LG-P920")
-        || model.equals("LG-P920h")
-        || model.equals("LG-SU760")))) {
-      return "Optimus 3D";
-    }
-    if ((codename != null && (codename.equals("cx2")))
-        || (model != null && (model.equals("LG-P720")
-        || model.equals("LG-P720h")
-        || model.equals("LG-P725")
-        || model.equals("LG-SU870")))) {
-      return "Optimus 3D MAX";
-    }
-    if ((codename != null && (codename.equals("LGL85C")
-        || codename.equals("black")
-        || codename.equals("blackg")
-        || codename.equals("bproj_214-03")
-        || codename.equals("bproj_262-XXX")
-        || codename.equals("bproj_302-220")
-        || codename.equals("bproj_334-020")
-        || codename.equals("bproj_724-xxx")
-        || codename.equals("bproj_ARE-XXX")
-        || codename.equals("bproj_EUR-XXX")
-        || codename.equals("bproj_sea-xxx")
-        || codename.equals("ku5900")
-        || codename.equals("lgp970")))
-        || (model != null && (model.equals("LG-KU5900")
-        || model.equals("LG-P970")
-        || model.equals("LG-P970g")
-        || model.equals("LG-P970h")
-        || model.equals("LGL85C")))) {
-      return "Optimus Black";
-    }
-    if ((codename != null && (codename.equals("m4")))
-        || (model != null && (model.equals("LG-E610")
-        || model.equals("LG-E610v")
-        || model.equals("LG-E612")
-        || model.equals("LG-E612f")
-        || model.equals("LG-E612g")
-        || model.equals("LG-E617G")
-        || model.equals("LG-L40G")))) {
-      return "Optimus L5";
-    }
-    if ((codename != null && (codename.equals("i_dcm")
-        || codename.equals("i_skt")
-        || codename.equals("i_u")
-        || codename.equals("iproj")
-        || codename.equals("lgp930")
-        || codename.equals("lgp935")))
-        || (model != null && (model.equals("L-01D")
-        || model.equals("LG-LU6200")
-        || model.equals("LG-P930")
-        || model.equals("LG-P935")
-        || model.equals("LG-P936")
-        || model.equals("LG-SU640")))) {
-      return "Optimus LTE";
-    }
-    if ((codename != null && (codename.equals("ku3700")
-        || codename.equals("lu3700")
-        || codename.equals("su370")
-        || codename.equals("thunder_kor-05")
-        || codename.equals("thunder_kor-08")
-        || codename.equals("thunderc")))
-        || (model != null && (model.equals("LG-CX670")
-        || model.equals("LG-KU3700")
-        || model.equals("LG-LU3700")
-        || model.equals("LG-LW690")
-        || model.equals("LG-MS690")
-        || model.equals("LG-SU370")
-        || model.equals("LG-US670")
-        || model.equals("LS670")
-        || model.equals("VM670")
-        || model.equals("Vortex")
-        || model.equals("thunderc")))) {
-      return "Optimus One";
-    }
-    if ((codename != null && (codename.equals("l06c")
-        || codename.equals("v900")
-        || codename.equals("v900asia")
-        || codename.equals("v901ar")
-        || codename.equals("v901kr")
-        || codename.equals("v901tr")
-        || codename.equals("v905r")
-        || codename.equals("v909")
-        || codename.equals("v909mkt")))
-        || (model != null && (model.equals("L-06C")
-        || model.equals("LG-V900")
-        || model.equals("LG-V901")
-        || model.equals("LG-V905R")
-        || model.equals("LG-V909")))) {
-      return "Optimus Pad";
-    }
-    // ----------------------------------------------------------------------------
-    // Lenovo
-    if ((codename != null && codename.equals("A7-30GC"))
-        || (model != null && model.equals("Lenovo TAB 2 A7-30GC"))) {
-      return "Lenovo A7-30GC";
-    }
     // ----------------------------------------------------------------------------
     // Motorola
-    if ((codename != null && (codename.equals("falcon_cdma")
-        || codename.equals("falcon_umts")
-        || codename.equals("falcon_umtsds")))
-        || (model != null && (model.equals("XT1002")
-        || model.equals("XT1003")
-        || model.equals("XT1008")
-        || model.equals("XT1028")
-        || model.equals("XT1031")
-        || model.equals("XT1032")
-        || model.equals("XT1033")
-        || model.equals("XT1034")
-        || model.equals("XT937C")
-        || model.equals("XT939G")))) {
-      return "Moto G (1st Gen)";
-    }
-    if ((codename != null && (codename.equals("titan_udstv")
-        || codename.equals("titan_umts")
-        || codename.equals("titan_umtsds")))
-        || (model != null && (model.equals("XT1063")
-        || model.equals("XT1064")
-        || model.equals("XT1068")
-        || model.equals("XT1069")
-        || model.equals("titan_niibr_ds")
-        || model.equals("titan_retbr_dstv")))) {
-      return "Moto G (2nd Gen)";
-    }
-    if ((codename != null && (codename.equals("clark")
-        || codename.equals("clark_ds")))
-        || (model != null && (model.equals("XT1570")
-        || model.equals("XT1572")))) {
-      return "Moto X Style";
-    }
     if ((codename != null && codename.equals("shamu"))) {
       return "Nexus 6";
     }
@@ -682,14 +307,17 @@ public class DeviceName {
         || (model != null && model.equals("ONE E1003"))) {
       return "OnePlus";
     }
-    if ((codename != null && (codename.equals("A0001")))
-        || (model != null && (model.equals("A0001")
-        || model.equals("One")))) {
-      return "OnePlus One";
-    }
     if ((codename != null && codename.equals("OnePlus2"))
         || (model != null && model.equals("ONE A2003"))) {
       return "OnePlus2";
+    }
+    if ((codename != null && codename.equals("OnePlus3"))
+        || (model != null && model.equals("ONEPLUS A3000"))) {
+      return "OnePlus3";
+    }
+    if ((codename != null && codename.equals("OnePlus5"))
+        || (model != null && model.equals("ONEPLUS A5000"))) {
+      return "OnePlus5";
     }
     // ----------------------------------------------------------------------------
     // Samsung
@@ -721,21 +349,6 @@ public class DeviceName {
         || model.equals("SM-A500Y")
         || model.equals("SM-A500YZ")))) {
       return "Galaxy A5";
-    }
-    if ((codename != null && (codename.equals("SCV32")
-        || codename.equals("a8elte")
-        || codename.equals("a8elteskt")
-        || codename.equals("a8hplte")
-        || codename.equals("a8ltechn")))
-        || (model != null && (model.equals("SCV32")
-        || model.equals("SM-A8000")
-        || model.equals("SM-A800F")
-        || model.equals("SM-A800I")
-        || model.equals("SM-A800IZ")
-        || model.equals("SM-A800S")
-        || model.equals("SM-A800X")
-        || model.equals("SM-A800YZ")))) {
-      return "Galaxy A8";
     }
     if ((codename != null && (codename.equals("vivaltods5m")))
         || (model != null && (model.equals("SM-G313HU")
@@ -1263,6 +876,22 @@ public class DeviceName {
         || model.equals("SM-N930X")))) {
       return "Galaxy Note7";
     }
+    if ((codename != null && (codename.equals("greatlte")
+        || codename.equals("greatlteks")
+        || codename.equals("greatqlte")
+        || codename.equals("greatqltechn")
+        || codename.equals("greatqltecmcc")
+        || codename.equals("greatqltecs")
+        || codename.equals("greatqlteue")))
+        || (model != null && (model.equals("SM-N9500")
+        || model.equals("SM-N9508")
+        || model.equals("SM-N950F")
+        || model.equals("SM-N950N")
+        || model.equals("SM-N950U")
+        || model.equals("SM-N950U1")
+        || model.equals("SM-N950W")))) {
+      return "Galaxy Note8";
+    }
     if ((codename != null && (codename.equals("o5lte")
         || codename.equals("o5ltechn")
         || codename.equals("o5prolte")
@@ -1279,12 +908,10 @@ public class DeviceName {
     }
     if ((codename != null && (codename.equals("o7lte")
         || codename.equals("o7ltechn")
-        || codename.equals("on7elte")
-        || codename.equals("on7nlteskt")))
+        || codename.equals("on7elte")))
         || (model != null && (model.equals("SM-G6000")
         || model.equals("SM-G600F")
-        || model.equals("SM-G600FY")
-        || model.equals("SM-G600S")))) {
+        || model.equals("SM-G600FY")))) {
       return "Galaxy On7";
     }
     if ((codename != null && (codename.equals("kylechn")
@@ -1401,6 +1028,7 @@ public class DeviceName {
         || codename.equals("jaltelgt")
         || codename.equals("jalteskt")
         || codename.equals("jflte")
+        || codename.equals("jflteMetroPCS")
         || codename.equals("jflteaio")
         || codename.equals("jflteatt")
         || codename.equals("jfltecan")
@@ -1445,6 +1073,7 @@ public class DeviceName {
         || model.equals("SCH-R970X")
         || model.equals("SGH-I337M")
         || model.equals("SGH-M919")
+        || model.equals("SGH-M919N")
         || model.equals("SGH-M919V")
         || model.equals("SGH-S970G")
         || model.equals("SHV-E300K")
@@ -1739,7 +1368,6 @@ public class DeviceName {
         || codename.equals("SCV36")
         || codename.equals("dreamlte")
         || codename.equals("dreamlteks")
-        || codename.equals("dreamlteskt")
         || codename.equals("dreamqltecan")
         || codename.equals("dreamqltechn")
         || codename.equals("dreamqltecmcc")
@@ -1753,15 +1381,13 @@ public class DeviceName {
         || model.equals("SM-G950N")
         || model.equals("SM-G950U")
         || model.equals("SM-G950U1")
-        || model.equals("SM-G950W")
-        || model.equals("SM-G950XN")))) {
+        || model.equals("SM-G950W")))) {
       return "Galaxy S8";
     }
     if ((codename != null && (codename.equals("SC-03J")
         || codename.equals("SCV35")
         || codename.equals("dream2lte")
         || codename.equals("dream2lteks")
-        || codename.equals("dream2lteskt")
         || codename.equals("dream2qltecan")
         || codename.equals("dream2qltechn")
         || codename.equals("dream2qltesq")
@@ -1773,8 +1399,7 @@ public class DeviceName {
         || model.equals("SM-G955N")
         || model.equals("SM-G955U")
         || model.equals("SM-G955U1")
-        || model.equals("SM-G955W")
-        || model.equals("SM-G955XN")))) {
+        || model.equals("SM-G955W")))) {
       return "Galaxy S8+";
     }
     if ((codename != null && (codename.equals("GT-P7500")
@@ -1955,8 +1580,8 @@ public class DeviceName {
         || model.equals("E5663")))) {
       return "Xperia M5 Dual";
     }
-    if ((codename != null && (codename.equals("LT26i")))
-        || (model != null && (model.equals("LT26i")))) {
+    if ((codename != null && codename.equals("LT26i"))
+        || (model != null && model.equals("LT26i"))) {
       return "Xperia S";
     }
     if ((codename != null && (codename.equals("D5303")
