@@ -2,6 +2,11 @@
   "manufacturer": "Tesla",
   "devices": [
     {
+      "market_name": "Tablet_L7_1",
+      "codename": "Tablet_L7_1",
+      "model": "Tesla L7.1"
+    },
+    {
       "market_name": "Tesla Smartphone 3.3",
       "codename": "Tesla_SP3_3",
       "model": "Tesla_SP3.3"

@@ -12,6 +12,16 @@
       "model": "Plane_1523_3G_PS1135MG"
     },
     {
+      "market_name": "DIGMA Plane 1550S 3G PS1163MG",
+      "codename": "PS1163MG",
+      "model": "Plane_1550S_3G_PS1163MG"
+    },
+    {
+      "market_name": "DIGMA Plane 7535E 3G PS7147MG",
+      "codename": "PS7147MG",
+      "model": "Plane_7535E_3G_PS7147MG"
+    },
+    {
       "market_name": "DIGMA VOX Flash 4G VS5015ML",
       "codename": "VS5015ML",
       "model": "VOX Flash 4G VS5015ML"
@@ -22,9 +32,24 @@
       "model": "VOX G450 3G VS4001PG"
     },
     {
+      "market_name": "DIGMA VOX G501 4G VS5033ML",
+      "codename": "VS5033ML",
+      "model": "VOX_G501_4G_VS5033ML"
+    },
+    {
       "market_name": "LINX A452 3G",
       "codename": "LT4030PG",
       "model": "LINX A452 3G LT4030PG"
+    },
+    {
+      "market_name": "VOX_S508_3G",
+      "codename": "VS5031PG",
+      "model": "VOX S508 3G VS5031PG"
+    },
+    {
+      "market_name": "VOX_S509_3G",
+      "codename": "VS5032PG",
+      "model": "VOX S509 3G VS5032PG"
     }
   ]
 }

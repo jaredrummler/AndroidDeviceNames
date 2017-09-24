@@ -2,6 +2,11 @@
   "manufacturer": "Cubot",
   "devices": [
     {
+      "market_name": "CUBOT MAGIC",
+      "codename": "CUBOT_MAGIC",
+      "model": "CUBOT MAGIC"
+    },
+    {
       "market_name": "DINOSAUR",
       "codename": "x5623_h6013_cubot",
       "model": "CUBOT DINOSAUR"

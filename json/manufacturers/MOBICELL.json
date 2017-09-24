@@ -37,6 +37,11 @@
       "model": "Candy"
     },
     {
+      "market_name": "DANDY",
+      "codename": "DANDY",
+      "model": "DANDY"
+    },
+    {
       "market_name": "ECHO",
       "codename": "ECHO",
       "model": "ECHO"
@@ -92,6 +97,11 @@
       "model": "ICE"
     },
     {
+      "market_name": "Mobicel_R1",
+      "codename": "Mobicel_R1",
+      "model": "Mobicel_R1"
+    },
+    {
       "market_name": "NEO",
       "codename": "NEO",
       "model": "NEO"
@@ -125,6 +135,11 @@
       "market_name": "PURE_PLUS",
       "codename": "PURE_PLUS",
       "model": "PURE PLUS"
+    },
+    {
+      "market_name": "R3",
+      "codename": "R3",
+      "model": "R3"
     },
     {
       "market_name": "REBEL",

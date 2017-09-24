@@ -1417,6 +1417,26 @@
       "model": "SM-C7018"
     },
     {
+      "market_name": "Galaxy C8",
+      "codename": "jadelte",
+      "model": "SM-C710F"
+    },
+    {
+      "market_name": "Galaxy C8",
+      "codename": "jadeltechn",
+      "model": "SM-C7100"
+    },
+    {
+      "market_name": "Galaxy C8",
+      "codename": "jadeltechn",
+      "model": "SM-C710X"
+    },
+    {
+      "market_name": "Galaxy C8",
+      "codename": "jadeltecmcc",
+      "model": "SM-C7108"
+    },
+    {
       "market_name": "Galaxy C9 Pro",
       "codename": "c9lte",
       "model": "SM-C900F"
@@ -2788,18 +2808,8 @@
     },
     {
       "market_name": "Galaxy J3 Pop",
-      "codename": "j3popeltemtr",
-      "model": "SM-J327T1"
-    },
-    {
-      "market_name": "Galaxy J3 Pop",
       "codename": "j3popeltetfntmo",
       "model": "SM-S337TL"
-    },
-    {
-      "market_name": "Galaxy J3 Pop",
-      "codename": "j3popeltetmo",
-      "model": "SM-J327T"
     },
     {
       "market_name": "Galaxy J3 Pop",
@@ -2840,6 +2850,16 @@
       "market_name": "Galaxy J3 Pop",
       "codename": "j3popltevzw",
       "model": "SM-J327VPP"
+    },
+    {
+      "market_name": "Galaxy J3 Prime",
+      "codename": "j3popeltemtr",
+      "model": "SM-J327T1"
+    },
+    {
+      "market_name": "Galaxy J3 Prime",
+      "codename": "j3popeltetmo",
+      "model": "SM-J327T"
     },
     {
       "market_name": "Galaxy J3 Pro",
@@ -3193,11 +3213,6 @@
     },
     {
       "market_name": "Galaxy J7 Pop",
-      "codename": "j7popeltemtr",
-      "model": "SM-J727T1"
-    },
-    {
-      "market_name": "Galaxy J7 Pop",
       "codename": "j7popelteskt",
       "model": "SM-J727S"
     },
@@ -3205,11 +3220,6 @@
       "market_name": "Galaxy J7 Pop",
       "codename": "j7popeltetfntmo",
       "model": "SM-S737TL"
-    },
-    {
-      "market_name": "Galaxy J7 Pop",
-      "codename": "j7popeltetmo",
-      "model": "SM-J727T"
     },
     {
       "market_name": "Galaxy J7 Pop",
@@ -3240,6 +3250,16 @@
       "market_name": "Galaxy J7 Pop",
       "codename": "j7popqltetfnvzw",
       "model": "SM-S727VL"
+    },
+    {
+      "market_name": "Galaxy J7 Prime",
+      "codename": "j7popeltemtr",
+      "model": "SM-J727T1"
+    },
+    {
+      "market_name": "Galaxy J7 Prime",
+      "codename": "j7popeltetmo",
+      "model": "SM-J727T"
     },
     {
       "market_name": "Galaxy J7 Prime",
@@ -3985,6 +4005,11 @@
       "market_name": "Galaxy Note Edge",
       "codename": "tbltevzw",
       "model": "SM-N915V"
+    },
+    {
+      "market_name": "Galaxy Note Fan Edition",
+      "codename": "gracerlte",
+      "model": "SM-N935F"
     },
     {
       "market_name": "Galaxy Note Fan Edition",
@@ -6898,11 +6923,6 @@
     },
     {
       "market_name": "Galaxy S8",
-      "codename": "dreamlteskt",
-      "model": "SM-G950XN"
-    },
-    {
-      "market_name": "Galaxy S8",
       "codename": "dreamqltecan",
       "model": "SM-G950W"
     },
@@ -6950,11 +6970,6 @@
       "market_name": "Galaxy S8+",
       "codename": "dream2lteks",
       "model": "SM-G955N"
-    },
-    {
-      "market_name": "Galaxy S8+",
-      "codename": "dream2lteskt",
-      "model": "SM-G955XN"
     },
     {
       "market_name": "Galaxy S8+",
@@ -7620,6 +7635,16 @@
       "market_name": "Galaxy Tab A S 8.0",
       "codename": "gt58ltebmc",
       "model": "SM-T357W"
+    },
+    {
+      "market_name": "Galaxy Tab A2 8.0",
+      "codename": "gta2slte",
+      "model": "SM-T385"
+    },
+    {
+      "market_name": "Galaxy Tab A2 8.0",
+      "codename": "gta2swifi",
+      "model": "SM-T380"
     },
     {
       "market_name": "Galaxy Tab E 8.0",

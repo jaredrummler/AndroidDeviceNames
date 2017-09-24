@@ -1424,6 +1424,11 @@
     {
       "market_name": "BLADE A320",
       "codename": "P809F20",
+      "model": "BLADE A320"
+    },
+    {
+      "market_name": "BLADE A320",
+      "codename": "P809F20",
       "model": "ZTE BLADE A320"
     },
     {
@@ -1465,6 +1470,11 @@
       "market_name": "BLADE A521",
       "codename": "P809F10",
       "model": "ZTE BLADE A521"
+    },
+    {
+      "market_name": "BLADE A6",
+      "codename": "P840F13",
+      "model": "BLADE A6"
     },
     {
       "market_name": "BLADE A601",
@@ -2632,6 +2642,11 @@
       "model": "ConeXis X1"
     },
     {
+      "market_name": "ConeXis X2",
+      "codename": "ZTE_BLADE_V0850",
+      "model": "ConeXis X2"
+    },
+    {
       "market_name": "Cosmote Smart Share",
       "codename": "nice",
       "model": "Cosmote Smart Share"
@@ -2965,6 +2980,11 @@
       "market_name": "K88",
       "codename": "jasmine",
       "model": "K88"
+    },
+    {
+      "market_name": "K92",
+      "codename": "primrose",
+      "model": "K92"
     },
     {
       "market_name": "K97",
@@ -5812,6 +5832,11 @@
       "model": "Z862VL"
     },
     {
+      "market_name": "Z899VL",
+      "codename": "msm8909",
+      "model": "Z899VL"
+    },
+    {
       "market_name": "Z916BL",
       "codename": "red",
       "model": "Z916BL"
@@ -5907,6 +5932,11 @@
       "model": "Z980L"
     },
     {
+      "market_name": "Z981",
+      "codename": "urd",
+      "model": "Z981"
+    },
+    {
       "market_name": "Z986U",
       "codename": "cynthia",
       "model": "Z986U"
@@ -5962,9 +5992,19 @@
       "model": "ZTE BLADE A0620"
     },
     {
+      "market_name": "ZTE BLADE A0622",
+      "codename": "P809F12",
+      "model": "ZTE BLADE A0622"
+    },
+    {
       "market_name": "ZTE BLADE A320",
       "codename": "P809F20",
       "model": "ZTE BLADE A320"
+    },
+    {
+      "market_name": "ZTE BLADE A506",
+      "codename": "P809T70",
+      "model": "ZTE BLADE A506"
     },
     {
       "market_name": "ZTE BLADE A520",
@@ -6042,9 +6082,24 @@
       "model": "ZTE Blade L5"
     },
     {
+      "market_name": "ZTE Blade V8 Arc",
+      "codename": "P840V80",
+      "model": "ZTE Blade V8 Arc"
+    },
+    {
       "market_name": "ZTE C2017",
       "codename": "alice",
       "model": "ZTE C2017"
+    },
+    {
+      "market_name": "ZTE Fanfare 3",
+      "codename": "kelly",
+      "model": "Z852"
+    },
+    {
+      "market_name": "ZTE Overture 3",
+      "codename": "jeff",
+      "model": "Z851"
     },
     {
       "market_name": "ZTE V0840",
@@ -6075,6 +6130,11 @@
       "market_name": "Zmax 3",
       "codename": "dandelion",
       "model": "Z978"
+    },
+    {
+      "market_name": "Zmax One",
+      "codename": "msm8909",
+      "model": "Z719DL"
     },
     {
       "market_name": "Zmax Pro",

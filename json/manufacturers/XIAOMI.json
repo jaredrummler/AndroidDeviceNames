@@ -212,6 +212,11 @@
       "model": "MI NOTE Pro"
     },
     {
+      "market_name": "MI Note 3",
+      "codename": "jason",
+      "model": "Mi Note 3"
+    },
+    {
       "market_name": "MI PAD",
       "codename": "mocha",
       "model": "MI PAD"
@@ -262,6 +267,11 @@
       "model": "lithium"
     },
     {
+      "market_name": "MIX 2",
+      "codename": "chiron",
+      "model": "MIX 2"
+    },
+    {
       "market_name": "Mi 3",
       "codename": "pisces",
       "model": "MI 3"
@@ -285,6 +295,16 @@
       "market_name": "Mi 5s",
       "codename": "capricorn",
       "model": "MI 5s"
+    },
+    {
+      "market_name": "Mi A1",
+      "codename": "tissot_sprout",
+      "model": "MI A1"
+    },
+    {
+      "market_name": "Mi A1",
+      "codename": "tissot_sprout",
+      "model": "Mi A1"
     },
     {
       "market_name": "Mi Box",
@@ -415,6 +435,11 @@
       "market_name": "Redmi Pro",
       "codename": "omega",
       "model": "Redmi Pro"
+    },
+    {
+      "market_name": "TELEBEE",
+      "codename": "once",
+      "model": "MIBOX3"
     }
   ]
 }

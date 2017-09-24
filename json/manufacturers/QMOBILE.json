@@ -122,6 +122,11 @@
       "model": "LT500 PRO"
     },
     {
+      "market_name": "LT550",
+      "codename": "QMobile_LT550",
+      "model": "QMobile LT550"
+    },
+    {
       "market_name": "LT600 PRO",
       "codename": "QMobile_LT600_PRO",
       "model": "QMobile_LT600_PRO"
@@ -275,6 +280,11 @@
       "market_name": "X33",
       "codename": "QMobile_X33",
       "model": "QMobile X33"
+    },
+    {
+      "market_name": "X36",
+      "codename": "QMobile_X36",
+      "model": "QMobile X36"
     },
     {
       "market_name": "X700 PRO",

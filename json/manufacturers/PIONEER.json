@@ -18,7 +18,17 @@
     },
     {
       "market_name": "CyberNavi",
+      "codename": "AVIC_CE901",
+      "model": "jupiter"
+    },
+    {
+      "market_name": "CyberNavi",
       "codename": "AVIC_CL900",
+      "model": "jupiter"
+    },
+    {
+      "market_name": "CyberNavi",
+      "codename": "AVIC_CL901",
       "model": "jupiter"
     },
     {
@@ -29,6 +39,11 @@
     {
       "market_name": "CyberNavi",
       "codename": "AVIC_CZ900",
+      "model": "jupiter"
+    },
+    {
+      "market_name": "CyberNavi",
+      "codename": "AVIC_CZ901",
       "model": "jupiter"
     },
     {

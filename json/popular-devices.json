@@ -2,6 +2,12 @@
   {
     "manufacturer": "Acer",
     "market_name": "Iconia Tab 10",
+    "codename": "acer_Titan",
+    "model": "A3-A50"
+  },
+  {
+    "manufacturer": "Acer",
+    "market_name": "Iconia Tab 10",
     "codename": "acer_harley",
     "model": "A3-A20"
   },
@@ -4958,12 +4964,6 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S8",
-    "codename": "dreamlteskt",
-    "model": "SM-G950XN"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S8",
     "codename": "dreamqltecan",
     "model": "SM-G950W"
   },
@@ -5014,12 +5014,6 @@
     "market_name": "Galaxy S8+",
     "codename": "dream2lteks",
     "model": "SM-G955N"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S8+",
-    "codename": "dream2lteskt",
-    "model": "SM-G955XN"
   },
   {
     "manufacturer": "Samsung",

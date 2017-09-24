@@ -17,6 +17,16 @@
       "model": "Hammer AXE Pro"
     },
     {
+      "market_name": "Hammer_Active",
+      "codename": "HammerActive",
+      "model": "Hammer Active"
+    },
+    {
+      "market_name": "Hykker MyTab10",
+      "codename": "Hykker_MyTab10",
+      "model": "Hykker_MyTab10"
+    },
+    {
       "market_name": "MyPhone Go!",
       "codename": "myPhone_Go",
       "model": "myPhone Go"
@@ -47,6 +57,11 @@
       "model": "HAMMER_ENERGY"
     },
     {
+      "market_name": "myPhone Hammer Energy",
+      "codename": "Hammer_Energy",
+      "model": "Hammer Energy"
+    },
+    {
       "market_name": "myPhone Luna II",
       "codename": "LUNA_II_OPM",
       "model": "LUNA_II"
@@ -75,6 +90,11 @@
       "market_name": "myPhone Q-Smart Plus",
       "codename": "Q-Smart_Plus",
       "model": "Q-Smart_Plus"
+    },
+    {
+      "market_name": "myPhone_Fun5",
+      "codename": "myPhone_Fun5",
+      "model": "Fun5"
     }
   ]
 }

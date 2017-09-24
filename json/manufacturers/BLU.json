@@ -297,6 +297,11 @@
       "model": "R1 PLUS"
     },
     {
+      "market_name": "R2",
+      "codename": "R010P",
+      "model": "R2 3G"
+    },
+    {
       "market_name": "R2 LTE",
       "codename": "R0150EE",
       "model": "R2 LTE"
@@ -449,6 +454,11 @@
     {
       "market_name": "Studio J2",
       "codename": "Studio_J2",
+      "model": "Advance A5"
+    },
+    {
+      "market_name": "Studio J2",
+      "codename": "Studio_J2",
       "model": "Studio J2"
     },
     {
@@ -485,6 +495,11 @@
       "market_name": "Studio One",
       "codename": "BLU_STUDIO_ONE",
       "model": "BLU STUDIO ONE"
+    },
+    {
+      "market_name": "Studio Pro",
+      "codename": "S750",
+      "model": "Studio Pro"
     },
     {
       "market_name": "Studio Selfie LTE",
@@ -555,6 +570,11 @@
       "market_name": "Vivo 5 Mini",
       "codename": "Vivo_5_Mini",
       "model": "Vivo 5 Mini"
+    },
+    {
+      "market_name": "Vivo 8",
+      "codename": "V0150UU",
+      "model": "Vivo 8"
     }
   ]
 }

@@ -232,6 +232,11 @@
       "model": "B3-A40FHD"
     },
     {
+      "market_name": "Chromebook 14 for work",
+      "codename": "lars_cheets",
+      "model": "Chromebook 14 for work (CP5-471)"
+    },
+    {
       "market_name": "Chromebook R11 (C738T)",
       "codename": "cyan_cheets",
       "model": "Acer Chromebook R11"
@@ -338,6 +343,11 @@
     },
     {
       "market_name": "Iconia One 7",
+      "codename": "acer_Vulcan",
+      "model": "B1-7A0"
+    },
+    {
+      "market_name": "Iconia One 7",
       "codename": "vespa",
       "model": "B1-730HD"
     },
@@ -365,6 +375,11 @@
       "market_name": "Iconia One 8",
       "codename": "vespa8",
       "model": "B1-810"
+    },
+    {
+      "market_name": "Iconia Tab 10",
+      "codename": "acer_Titan",
+      "model": "A3-A50"
     },
     {
       "market_name": "Iconia Tab 10",

@@ -27,6 +27,11 @@
       "model": "M4 SS4453"
     },
     {
+      "market_name": "M4 SS4453-R",
+      "codename": "M4-SS4453-R",
+      "model": "M4-SS4453-R"
+    },
+    {
       "market_name": "M4 SS4455",
       "codename": "NOVA03A_S22A",
       "model": "M4 SS4455"
@@ -45,6 +50,16 @@
       "market_name": "M4 SS4458",
       "codename": "TOUCHPLUS02A-S17A",
       "model": "M4 SS4458"
+    },
+    {
+      "market_name": "M4 SS4458-R",
+      "codename": "M4-SS4458-R",
+      "model": "M4-SS4458-R"
+    },
+    {
+      "market_name": "M4-SS4457-R",
+      "codename": "M4-SS4457-R",
+      "model": "M4 SS4457-R"
     }
   ]
 }

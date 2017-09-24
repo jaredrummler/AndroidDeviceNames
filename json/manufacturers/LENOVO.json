@@ -1712,6 +1712,16 @@
       "model": "XT1902-3"
     },
     {
+      "market_name": "Lenovo K8 Plus",
+      "codename": "marino_f",
+      "model": "Lenovo K"
+    },
+    {
+      "market_name": "Lenovo K8 Plus",
+      "codename": "marino_f",
+      "model": "Lenovo K8 Plus"
+    },
+    {
       "market_name": "Lenovo N Series Chromebook",
       "codename": "reks_cheets",
       "model": "Braswell Chrome OS Device"
@@ -1725,6 +1735,11 @@
       "market_name": "Lenovo S820",
       "codename": "S820",
       "model": "Lenovo S820"
+    },
+    {
+      "market_name": "Lenovo TAB",
+      "codename": "TB-8803F",
+      "model": "Lenovo TB-8803F"
     },
     {
       "market_name": "Lenovo TAB 7",
@@ -1760,6 +1775,11 @@
       "market_name": "Lenovo Tab 7 Essential",
       "codename": "TB-7304X",
       "model": "Lenovo TB-7304X"
+    },
+    {
+      "market_name": "Lenovo Tab4 10 Plus",
+      "codename": "X704A",
+      "model": "TB-X704A"
     },
     {
       "market_name": "Lenovo X2-CU/VIBE X2",
@@ -2465,6 +2485,11 @@
       "market_name": "TAB4 8",
       "codename": "TB-8504F",
       "model": "Lenovo TB-8504F"
+    },
+    {
+      "market_name": "TAB4 8",
+      "codename": "TB-8504L",
+      "model": "Lenovo TB-8504L"
     },
     {
       "market_name": "TAB4 8",

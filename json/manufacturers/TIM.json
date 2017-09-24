@@ -2,6 +2,11 @@
   "manufacturer": "TIM",
   "devices": [
     {
+      "market_name": "TIM BOX",
+      "codename": "uzw4010tim",
+      "model": "TIM_BOX"
+    },
+    {
       "market_name": "TIMvision",
       "codename": "dwt765ti",
       "model": "skipper"

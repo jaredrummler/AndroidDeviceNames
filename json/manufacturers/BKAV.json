@@ -2,6 +2,11 @@
   "manufacturer": "BKAV",
   "devices": [
     {
+      "market_name": "B2017",
+      "codename": "B2017",
+      "model": "B2017"
+    },
+    {
       "market_name": "Bphone",
       "codename": "Bphone",
       "model": "Bphone B1111"

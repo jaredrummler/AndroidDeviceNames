@@ -27,9 +27,19 @@
       "model": "dtacPhoneX3"
     },
     {
+      "market_name": "dtacPhoneS3",
+      "codename": "dtacPhoneS3",
+      "model": "dtacPhoneS3"
+    },
+    {
       "market_name": "dtacPhoneT3",
       "codename": "dtacPhoneT3",
       "model": "dtacPhoneT3"
+    },
+    {
+      "market_name": "dtac_Phone_S2",
+      "codename": "dtacPhoneS2",
+      "model": "dtac_Phone_S2"
     }
   ]
 }

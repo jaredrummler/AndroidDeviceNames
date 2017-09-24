@@ -187,6 +187,11 @@
       "model": "PI7100_93"
     },
     {
+      "market_name": "Philips S310X",
+      "codename": "Philips_S310X",
+      "model": "Philips S310X"
+    },
+    {
       "market_name": "Philips S318",
       "codename": "S318",
       "model": "Philips S318"
@@ -200,6 +205,11 @@
       "market_name": "Philips X598",
       "codename": "Philips_X598",
       "model": "Philips X598"
+    },
+    {
+      "market_name": "Philips X818",
+      "codename": "X818_RU",
+      "model": "Philips X818"
     },
     {
       "market_name": "Philps S398",

@@ -212,9 +212,24 @@
       "model": "PMT3087_3G"
     },
     {
+      "market_name": "PMT3101_4G",
+      "codename": "CF10A1L",
+      "model": "PMT3101_4G"
+    },
+    {
       "market_name": "PMT3137_3G",
       "codename": "JP70A1W",
       "model": "PMT3137_3G"
+    },
+    {
+      "market_name": "PMT3157_3G",
+      "codename": "LS70A5G",
+      "model": "PMT3157_3G"
+    },
+    {
+      "market_name": "PMT3157_4G",
+      "codename": "LS70A6L",
+      "model": "PMT3157_4G"
     },
     {
       "market_name": "PMT3177_3G",
@@ -222,9 +237,19 @@
       "model": "PMT3177_3G"
     },
     {
+      "market_name": "PMT3201_4G",
+      "codename": "CF10A1L",
+      "model": "PMT3201_4G"
+    },
+    {
       "market_name": "PMT3208_3G",
       "codename": "PN80A03G",
       "model": "PMT3208_3G"
+    },
+    {
+      "market_name": "PMT3257_4G",
+      "codename": "LS70A6L",
+      "model": "PMT3257_4G"
     },
     {
       "market_name": "PMT3277_3G",
@@ -235,6 +260,11 @@
       "market_name": "PMT3287_3G",
       "codename": "PMT3287_3G",
       "model": "PMT3287_3G"
+    },
+    {
+      "market_name": "PMT3301_4G",
+      "codename": "CF10A1L",
+      "model": "PMT3301_4G"
     },
     {
       "market_name": "PMT3351_3G",
@@ -532,6 +562,11 @@
       "model": "PSP3551DUO"
     },
     {
+      "market_name": "PSP3552DUO",
+      "codename": "TE55B9G",
+      "model": "PSP3552DUO"
+    },
+    {
       "market_name": "PSP5047DUO",
       "codename": "MT6589",
       "model": "PSP5047DUO"
@@ -605,6 +640,11 @@
       "market_name": "PSP5551DUO",
       "codename": "DW55B02L",
       "model": "PSP5551DUO"
+    },
+    {
+      "market_name": "PSP5552DUO",
+      "codename": "UE55B1L",
+      "model": "PSP5552DUO"
     },
     {
       "market_name": "PSP7501DUO",

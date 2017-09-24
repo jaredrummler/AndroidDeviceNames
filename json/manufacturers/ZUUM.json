@@ -2,9 +2,24 @@
   "manufacturer": "Zuum",
   "devices": [
     {
+      "market_name": "COVET",
+      "codename": "COVET",
+      "model": "COVET"
+    },
+    {
+      "market_name": "LIMIT",
+      "codename": "LIMIT",
+      "model": "LIMIT"
+    },
+    {
       "market_name": "MAGNO",
       "codename": "ZUUM_MAGNO",
       "model": "MAGNO"
+    },
+    {
+      "market_name": "ONIX",
+      "codename": "ONIX",
+      "model": "ONIX"
     }
   ]
 }

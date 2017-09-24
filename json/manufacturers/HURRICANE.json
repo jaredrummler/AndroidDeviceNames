@@ -12,6 +12,11 @@
       "model": "Air"
     },
     {
+      "market_name": "Archer",
+      "codename": "Archer",
+      "model": "Archer"
+    },
+    {
       "market_name": "Beam",
       "codename": "Beam",
       "model": "Beam"
@@ -115,6 +120,11 @@
       "market_name": "Vortex",
       "codename": "C9",
       "model": "HURRICANE VORTEX"
+    },
+    {
+      "market_name": "Vulcan",
+      "codename": "Vulcan",
+      "model": "Vulcan"
     },
     {
       "market_name": "Wave",

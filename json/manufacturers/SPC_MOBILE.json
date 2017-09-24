@@ -1,0 +1,20 @@
+{
+  "manufacturer": "SPC Mobile",
+  "devices": [
+    {
+      "market_name": "L50",
+      "codename": "SPC_L50",
+      "model": "L50"
+    },
+    {
+      "market_name": "L51 BLITZ",
+      "codename": "L51",
+      "model": "L51"
+    },
+    {
+      "market_name": "L52 STEEL+",
+      "codename": "L52",
+      "model": "L52"
+    }
+  ]
+}

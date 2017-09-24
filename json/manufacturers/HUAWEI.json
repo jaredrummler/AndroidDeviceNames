@@ -2412,6 +2412,46 @@
       "model": "HUAWEI BLL-L23"
     },
     {
+      "market_name": "HUAWEI Y3 2017",
+      "codename": "HWCRO-L6737M",
+      "model": "CRO-L02"
+    },
+    {
+      "market_name": "HUAWEI Y3 2017",
+      "codename": "HWCRO-L6737M",
+      "model": "CRO-L22"
+    },
+    {
+      "market_name": "HUAWEI Y3 2017",
+      "codename": "HWCRO-L6737M",
+      "model": "HUAWEI CRO-L02"
+    },
+    {
+      "market_name": "HUAWEI Y3 2017",
+      "codename": "HWCRO-L6737M",
+      "model": "HUAWEI CRO-L22"
+    },
+    {
+      "market_name": "HUAWEI Y5 lite 2017",
+      "codename": "HWCRO-L6737M",
+      "model": "CRO-L03"
+    },
+    {
+      "market_name": "HUAWEI Y5 lite 2017",
+      "codename": "HWCRO-L6737M",
+      "model": "CRO-L23"
+    },
+    {
+      "market_name": "HUAWEI Y5 lite 2017",
+      "codename": "HWCRO-L6737M",
+      "model": "HUAWEI CRO-L03"
+    },
+    {
+      "market_name": "HUAWEI Y5 lite 2017",
+      "codename": "HWCRO-L6737M",
+      "model": "HUAWEI CRO-L23"
+    },
+    {
       "market_name": "HUAWEI Y6II",
       "codename": "HWCAM-H",
       "model": "HUAWEI CAM-L53"
@@ -2504,6 +2544,11 @@
     {
       "market_name": "Honor 5X",
       "codename": "HNKIW-Q",
+      "model": "KIW-L21"
+    },
+    {
+      "market_name": "Honor 5X",
+      "codename": "HNKIW-Q",
       "model": "KIW-TL00H"
     },
     {
@@ -2515,6 +2560,11 @@
       "market_name": "Honor 6A",
       "codename": "HWDLI-Q",
       "model": "DLI-TL20"
+    },
+    {
+      "market_name": "Honor 6X",
+      "codename": "HWBLN-H",
+      "model": "BLN-L24"
     },
     {
       "market_name": "Honor 7",
@@ -2550,6 +2600,11 @@
       "market_name": "Honor 7i",
       "codename": "HWATH",
       "model": "ATH-AL00"
+    },
+    {
+      "market_name": "Honor 7i",
+      "codename": "HWATH",
+      "model": "ATH-CL00"
     },
     {
       "market_name": "Honor 8",
@@ -2697,11 +2752,6 @@
       "model": "HUAWEI HN3-U01"
     },
     {
-      "market_name": "Honor7i",
-      "codename": "HWATH",
-      "model": "ATH-CL00"
-    },
-    {
       "market_name": "IDEOS",
       "codename": "U8150",
       "model": "Comet"
@@ -2840,16 +2890,6 @@
       "market_name": "M868",
       "codename": "hwm868",
       "model": "HUAWEI M868"
-    },
-    {
-      "market_name": "MATE 9",
-      "codename": "HWMHA",
-      "model": "MHA-L09"
-    },
-    {
-      "market_name": "MATE 9",
-      "codename": "HWMHA",
-      "model": "MHA-L29"
     },
     {
       "market_name": "MS4C",
@@ -2994,15 +3034,25 @@
     {
       "market_name": "Mate 9",
       "codename": "HWMHA",
+      "model": "MHA-L09"
+    },
+    {
+      "market_name": "Mate 9",
+      "codename": "HWMHA",
+      "model": "MHA-L29"
+    },
+    {
+      "market_name": "Mate 9",
+      "codename": "HWMHA",
       "model": "MHA-TL00"
     },
     {
-      "market_name": "Mate 9Pro",
+      "market_name": "Mate 9 Pro",
       "codename": "HWLON",
       "model": "LON-AL00"
     },
     {
-      "market_name": "Mate 9Pro",
+      "market_name": "Mate 9 Pro",
       "codename": "HWLON",
       "model": "LON-L29"
     },
@@ -3309,6 +3359,11 @@
     {
       "market_name": "P10 Plus",
       "codename": "HWVKY",
+      "model": "VKY-AL00"
+    },
+    {
+      "market_name": "P10 Plus",
+      "codename": "HWVKY",
       "model": "VKY-L09"
     },
     {
@@ -3350,11 +3405,6 @@
       "market_name": "P10 lite",
       "codename": "HWWAS-H",
       "model": "WAS-LX3"
-    },
-    {
-      "market_name": "P10Plus",
-      "codename": "HWVKY",
-      "model": "VKY-AL00"
     },
     {
       "market_name": "P2",
@@ -4353,46 +4403,6 @@
     },
     {
       "market_name": "Y3III",
-      "codename": "HWCRO-L6737M",
-      "model": "CRO-L02"
-    },
-    {
-      "market_name": "Y3III",
-      "codename": "HWCRO-L6737M",
-      "model": "CRO-L03"
-    },
-    {
-      "market_name": "Y3III",
-      "codename": "HWCRO-L6737M",
-      "model": "CRO-L22"
-    },
-    {
-      "market_name": "Y3III",
-      "codename": "HWCRO-L6737M",
-      "model": "CRO-L23"
-    },
-    {
-      "market_name": "Y3III",
-      "codename": "HWCRO-L6737M",
-      "model": "HUAWEI CRO-L02"
-    },
-    {
-      "market_name": "Y3III",
-      "codename": "HWCRO-L6737M",
-      "model": "HUAWEI CRO-L03"
-    },
-    {
-      "market_name": "Y3III",
-      "codename": "HWCRO-L6737M",
-      "model": "HUAWEI CRO-L22"
-    },
-    {
-      "market_name": "Y3III",
-      "codename": "HWCRO-L6737M",
-      "model": "HUAWEI CRO-L23"
-    },
-    {
-      "market_name": "Y3III",
       "codename": "HWCRO-U6580M",
       "model": "CRO-U00"
     },
@@ -5049,11 +5059,6 @@
     {
       "market_name": "honor 5X",
       "codename": "HNKIW-Q",
-      "model": "KIW-L21"
-    },
-    {
-      "market_name": "honor 5X",
-      "codename": "HNKIW-Q",
       "model": "KIW-L22"
     },
     {
@@ -5085,11 +5090,6 @@
       "market_name": "honor 6x",
       "codename": "HWBLN-H",
       "model": "BLN-L22"
-    },
-    {
-      "market_name": "honor 6x",
-      "codename": "HWBLN-H",
-      "model": "BLN-L24"
     },
     {
       "market_name": "hw204HW",
@@ -5390,6 +5390,26 @@
       "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7",
       "codename": "HWSLA-Q",
       "model": "SLA-TL10"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 V9 play",
+      "codename": "HWJMM-Q",
+      "model": "JMM-AL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 V9 play",
+      "codename": "HWJMM-Q",
+      "model": "JMM-AL10"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 V9 play",
+      "codename": "HWJMM-Q",
+      "model": "JMM-TL00"
+    },
+    {
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 V9 play",
+      "codename": "HWJMM-Q",
+      "model": "JMM-TL10"
     },
     {
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x804A",

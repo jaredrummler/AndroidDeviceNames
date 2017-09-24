@@ -47,6 +47,21 @@
       "model": "IF9001"
     },
     {
+      "market_name": "IF9002",
+      "codename": "AB2",
+      "model": "IF9002"
+    },
+    {
+      "market_name": "IF9007",
+      "codename": "AG5",
+      "model": "IF9007"
+    },
+    {
+      "market_name": "IF9021",
+      "codename": "AU8",
+      "model": "IF9021"
+    },
+    {
       "market_name": "IN260",
       "codename": "IN260",
       "model": "IN260"
@@ -70,6 +85,11 @@
       "market_name": "IN815",
       "codename": "VK3",
       "model": "IN815"
+    },
+    {
+      "market_name": "InFocus M6S",
+      "codename": "AH2",
+      "model": "IF9003"
     },
     {
       "market_name": "M2",

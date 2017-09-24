@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Vsun",
+  "devices": [
+    {
+      "market_name": "MARS  Touch",
+      "codename": "MARS_TOUCH",
+      "model": "MARS TOUCH"
+    },
+    {
+      "market_name": "MERCURY Tough",
+      "codename": "MERCURY_Tough",
+      "model": "MERCURY Tough"
+    },
+    {
+      "market_name": "SATURN Selfie",
+      "codename": "SATURN_SELFIE",
+      "model": "SATURN SELFIE"
+    }
+  ]
+}

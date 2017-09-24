@@ -10,6 +10,16 @@
       "market_name": "A10",
       "codename": "A10_sprout",
       "model": "MITO_A10"
+    },
+    {
+      "market_name": "MITO_A19_1GB",
+      "codename": "MITO_A19_1GB",
+      "model": "MITO_A19_1GB"
+    },
+    {
+      "market_name": "MITO_A19_2GB",
+      "codename": "MITO_A19_2GB",
+      "model": "MITO_A19_2GB"
     }
   ]
 }

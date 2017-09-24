@@ -1,0 +1,15 @@
+{
+  "manufacturer": "IkuMobile",
+  "devices": [
+    {
+      "market_name": "K2",
+      "codename": "IKU_K2",
+      "model": "K2"
+    },
+    {
+      "market_name": "T1",
+      "codename": "T1",
+      "model": "iKU T1"
+    }
+  ]
+}

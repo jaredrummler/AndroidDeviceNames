@@ -17,6 +17,11 @@
       "model": "NAVON F552"
     },
     {
+      "market_name": "IQ7",
+      "codename": "IQ7",
+      "model": "IQ7"
+    },
+    {
       "market_name": "Infinity",
       "codename": "Infinity",
       "model": "Navon_Infinity"
@@ -50,6 +55,16 @@
       "market_name": "S450",
       "codename": "S450",
       "model": "S450"
+    },
+    {
+      "market_name": "Supreme Fine",
+      "codename": "Supreme_Fine",
+      "model": "Supreme_Fine"
+    },
+    {
+      "market_name": "Supreme Fine Mini",
+      "codename": "Supreme_Fine_Mini",
+      "model": "Supreme_Fine_Mini"
     },
     {
       "market_name": "T400",

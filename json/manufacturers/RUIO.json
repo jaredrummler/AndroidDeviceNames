@@ -1,0 +1,15 @@
+{
+  "manufacturer": "Ruio",
+  "devices": [
+    {
+      "market_name": "RUIO i7c Tablet",
+      "codename": "i7c",
+      "model": "i7c"
+    },
+    {
+      "market_name": "S4",
+      "codename": "RUIO_S4",
+      "model": "RUIO_S4"
+    }
+  ]
+}

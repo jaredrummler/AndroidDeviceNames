@@ -2,9 +2,24 @@
   "manufacturer": "Just5",
   "devices": [
     {
+      "market_name": "CF8",
+      "codename": "CF8",
+      "model": "CF8"
+    },
+    {
       "market_name": "COSMO L707",
       "codename": "COSMO_L707",
       "model": "COSMO_L707"
+    },
+    {
+      "market_name": "FREEDOM C100",
+      "codename": "FREEDOM_C100",
+      "model": "FREEDOM C100"
+    },
+    {
+      "market_name": "FREEDOM C100",
+      "codename": "FREEDOM_C105",
+      "model": "FREEDOM C105"
     },
     {
       "market_name": "Freedom M303",
@@ -20,6 +35,11 @@
       "market_name": "Konrow",
       "codename": "Konrow",
       "model": "Just5"
+    },
+    {
+      "market_name": "M503",
+      "codename": "M503",
+      "model": "M503"
     }
   ]
 }

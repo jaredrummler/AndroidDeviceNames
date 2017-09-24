@@ -2,6 +2,26 @@
   "manufacturer": "Blaupunkt",
   "devices": [
     {
+      "market_name": "Blaupunkt SL 01",
+      "codename": "Blaupunkt_SL_01",
+      "model": "Blaupunkt SL 01"
+    },
+    {
+      "market_name": "Blaupunkt SL 02",
+      "codename": "Blaupunkt_SL_02",
+      "model": "Blaupunkt SL 02"
+    },
+    {
+      "market_name": "Blaupunkt SL 04",
+      "codename": "Blaupunkt_SL_04",
+      "model": "Blaupunkt SL 04"
+    },
+    {
+      "market_name": "Blaupunkt SM 01",
+      "codename": "Blaupunkt_SM_01",
+      "model": "Blaupunkt SM 01"
+    },
+    {
       "market_name": "Endeavour101",
       "codename": "Blaupunkt",
       "model": "Endeavour101"

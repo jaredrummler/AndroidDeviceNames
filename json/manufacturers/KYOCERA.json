@@ -77,6 +77,11 @@
       "model": "302KC"
     },
     {
+      "market_name": "DIGNO V",
+      "codename": "KYV42",
+      "model": "KYV42_u"
+    },
+    {
       "market_name": "DIGNO W",
       "codename": "KYV40",
       "model": "KYV40U"
@@ -322,6 +327,11 @@
       "model": "C5121"
     },
     {
+      "market_name": "Qua phone",
+      "codename": "KYV42",
+      "model": "KYV42"
+    },
+    {
       "market_name": "Qua phone (KYV37)",
       "codename": "KYV37",
       "model": "KYV37"
@@ -345,6 +355,11 @@
       "market_name": "SZJ201",
       "codename": "SZJ201",
       "model": "SZJ-JS201"
+    },
+    {
+      "market_name": "TORQUE",
+      "codename": "KC-100S",
+      "model": "KC-100S"
     },
     {
       "market_name": "TORQUE",

@@ -7,6 +7,11 @@
       "model": "TZ175"
     },
     {
+      "market_name": "IRBIS TZ176",
+      "codename": "TZ176",
+      "model": "TZ176"
+    },
+    {
       "market_name": "SP454",
       "codename": "SP454",
       "model": "SP454"
@@ -27,6 +32,11 @@
       "model": "SP550"
     },
     {
+      "market_name": "SP551",
+      "codename": "SP551",
+      "model": "SP551"
+    },
+    {
       "market_name": "TZ55",
       "codename": "TZ55",
       "model": "TZ55"
@@ -40,6 +50,11 @@
       "market_name": "TZ877",
       "codename": "TZ877",
       "model": "TZ877"
+    },
+    {
+      "market_name": "TZ890",
+      "codename": "TZ890",
+      "model": "TZ890"
     }
   ]
 }

@@ -27,6 +27,11 @@
       "model": "Transformer TF101"
     },
     {
+      "market_name": "ASUS Live (G500TG)",
+      "codename": "ASUS_Z00YD",
+      "model": "ASUS_Z00YD"
+    },
+    {
       "market_name": "ASUSPRO Tablet (M1000C)",
       "codename": "P023_M",
       "model": "P023"
@@ -240,11 +245,6 @@
       "market_name": "Fonepad Note 6 (ME560CG)",
       "codename": "K00G",
       "model": "K00G"
-    },
-    {
-      "market_name": "Live (G500TG)",
-      "codename": "ASUS_Z00YD",
-      "model": "ASUS_Z00YD"
     },
     {
       "market_name": "MeMO PAD",
@@ -482,6 +482,11 @@
       "model": "ASUS_T00E"
     },
     {
+      "market_name": "R Series Tablet (R1001MFL)",
+      "codename": "ASUS_P00L_M2",
+      "model": "P00L"
+    },
+    {
       "market_name": "R Series Tablet (R1001ML)",
       "codename": "ASUS_P00L_M1",
       "model": "P00L"
@@ -490,11 +495,6 @@
       "market_name": "RTC-700A",
       "codename": "RTC-tablet",
       "model": "RTC-tablet"
-    },
-    {
-      "market_name": "Series Tablet (R1001MFL)",
-      "codename": "ASUS_P00L_M2",
-      "model": "P00L"
     },
     {
       "market_name": "T101TA",
@@ -637,11 +637,6 @@
       "model": "Transformer TF101G"
     },
     {
-      "market_name": "X00AD_2",
-      "codename": "ASUS_X00AD_2",
-      "model": "ASUS_X00AD"
-    },
-    {
       "market_name": "ZenFone 2 (ZE500CL)",
       "codename": "ASUS_Z00D",
       "model": "ASUS ZenFone 2"
@@ -767,17 +762,27 @@
       "model": "ASUS_Z011D"
     },
     {
-      "market_name": "ZenFone 3",
+      "market_name": "ZenFone 3 (ZE520KL)",
+      "codename": "ASUS_Z017D_1",
+      "model": "ASUS_Z017D"
+    },
+    {
+      "market_name": "ZenFone 3 (ZE520KL)",
+      "codename": "ASUS_Z017D_1",
+      "model": "ASUS_Z017DA"
+    },
+    {
+      "market_name": "ZenFone 3 (ZE552KL)",
       "codename": "ASUS_Z012D",
       "model": "ASUS_Z012D"
     },
     {
-      "market_name": "ZenFone 3",
+      "market_name": "ZenFone 3 (ZE552KL)",
       "codename": "ASUS_Z012D",
       "model": "ASUS_Z012DA"
     },
     {
-      "market_name": "ZenFone 3",
+      "market_name": "ZenFone 3 (ZE552KL)",
       "codename": "ASUS_Z012D",
       "model": "ASUS_Z012DE"
     },
@@ -805,6 +810,26 @@
       "market_name": "ZenFone 3 Deluxe (ZS570KL)",
       "codename": "Z016_1",
       "model": "ASUS_Z016D"
+    },
+    {
+      "market_name": "ZenFone 3 Laser (ZC551KL)",
+      "codename": "Z01B_1",
+      "model": "ASUS_Z01BD"
+    },
+    {
+      "market_name": "ZenFone 3 Laser (ZC551KL)",
+      "codename": "Z01B_1",
+      "model": "ASUS_Z01BDA"
+    },
+    {
+      "market_name": "ZenFone 3 Laser (ZC551KL)",
+      "codename": "Z01B_1",
+      "model": "ASUS_Z01BDC"
+    },
+    {
+      "market_name": "ZenFone 3 Laser (ZC551KL)",
+      "codename": "Z01B_1",
+      "model": "ASUS_Z01BS"
     },
     {
       "market_name": "ZenFone 3 Max (ZC520TL)",
@@ -852,6 +877,11 @@
       "model": "ASUS_X00DDA"
     },
     {
+      "market_name": "ZenFone 3 Ultra (ZU680KL)",
+      "codename": "ASUS_A001",
+      "model": "ASUS_A001"
+    },
+    {
       "market_name": "ZenFone 3 Zoom (ZE553KL)",
       "codename": "ASUS_Z01H_1",
       "model": "ASUS_Z01HD"
@@ -860,11 +890,6 @@
       "market_name": "ZenFone 3 Zoom (ZE553KL)",
       "codename": "ASUS_Z01H_1",
       "model": "ASUS_Z01HDA"
-    },
-    {
-      "market_name": "ZenFone 3(ZC551KL)",
-      "codename": "Z01B_1",
-      "model": "ASUS_Z01BDA"
     },
     {
       "market_name": "ZenFone 4 (A400CG)",
@@ -887,8 +912,28 @@
       "model": "ASUS_Z01KD"
     },
     {
+      "market_name": "ZenFone 4 (ZE554KL)",
+      "codename": "ASUS_Z01KD_1",
+      "model": "ASUS_Z01KDA"
+    },
+    {
+      "market_name": "ZenFone 4 (ZE554KL)",
+      "codename": "ASUS_Z01KD_2",
+      "model": "ASUS_Z01KD"
+    },
+    {
       "market_name": "ZenFone 4 Max",
       "codename": "ASUS_X00HD_1",
+      "model": "ASUS_X00HD"
+    },
+    {
+      "market_name": "ZenFone 4 Max",
+      "codename": "ASUS_X00HD_2",
+      "model": "ASUS_X00HD"
+    },
+    {
+      "market_name": "ZenFone 4 Max",
+      "codename": "ASUS_X00HD_3",
       "model": "ASUS_X00HD"
     },
     {
@@ -902,19 +947,24 @@
       "model": "ASUS_X00ID"
     },
     {
-      "market_name": "ZenFone 4 Pro",
+      "market_name": "ZenFone 4 Max (ZC554KL)",
+      "codename": "ASUS_X00IDC",
+      "model": "ASUS_X00ID"
+    },
+    {
+      "market_name": "ZenFone 4 Pro (ZS551KL)",
       "codename": "ASUS_Z01GD_1",
       "model": "ASUS_Z01GD"
     },
     {
-      "market_name": "ZenFone 4 Selfie",
-      "codename": "ASUS_Z01M_1",
-      "model": "ASUS_Z01MD"
-    },
-    {
-      "market_name": "ZenFone 4 Selfie \\xef\\xbc\\x88ZD553KL\\xef\\xbc\\x89",
+      "market_name": "ZenFone 4 Selfie (ZD553KL)",
       "codename": "ASUS_X00LD_1",
       "model": "ASUS_X00LD"
+    },
+    {
+      "market_name": "ZenFone 4 Selfie Pro (ZD552KL)",
+      "codename": "ASUS_Z01M_1",
+      "model": "ASUS_Z01MD"
     },
     {
       "market_name": "ZenFone 5",
@@ -967,29 +1017,79 @@
       "model": "ASUS_Z002"
     },
     {
+      "market_name": "ZenFone AR",
+      "codename": "ASUS_A002_1",
+      "model": "ASUS_A002A"
+    },
+    {
+      "market_name": "ZenFone AR (ZS571KL)",
+      "codename": "ASUS_A002",
+      "model": "ASUS_A002"
+    },
+    {
       "market_name": "ZenFone C (ZC451CG)",
       "codename": "ASUS_Z007",
       "model": "ASUS_Z007"
     },
     {
-      "market_name": "ZenFone Go",
+      "market_name": "ZenFone Go (ZB450KL)",
+      "codename": "ASUS_X009D_2",
+      "model": "ASUS_X009DB"
+    },
+    {
+      "market_name": "ZenFone Go (ZB452KG)",
+      "codename": "ASUS_X014D_1",
+      "model": "ASUS_X014D"
+    },
+    {
+      "market_name": "ZenFone Go (ZB452KG)",
+      "codename": "ASUS_X014D_2",
+      "model": "ASUS_X014D"
+    },
+    {
+      "market_name": "ZenFone Go (ZB500KG)",
+      "codename": "ASUS_X00BD_1",
+      "model": "ASUS_X00BD"
+    },
+    {
+      "market_name": "ZenFone Go (ZB500KL)",
+      "codename": "ASUS_X00AD_2",
+      "model": "ASUS_X00AD"
+    },
+    {
+      "market_name": "ZenFone Go (ZB551KL)",
+      "codename": "ASUS_X013D_1",
+      "model": "ASUS_X013DA"
+    },
+    {
+      "market_name": "ZenFone Go (ZB551KL)",
       "codename": "ASUS_X013D_1",
       "model": "ASUS_X013DB"
     },
     {
-      "market_name": "ZenFone Go",
+      "market_name": "ZenFone Go (ZB551KL)",
       "codename": "ASUS_X013D_2",
-      "model": "ASUS_X013DB"
+      "model": "ASUS_X013DA"
     },
     {
-      "market_name": "ZenFone Go (ZB501KL)",
-      "codename": "ASUS_A007",
-      "model": "ASUS_A007"
+      "market_name": "ZenFone Go (ZB551KL)",
+      "codename": "ASUS_X013D_2",
+      "model": "ASUS_X013DB"
     },
     {
       "market_name": "ZenFone Go (ZB552KL)",
       "codename": "ASUS_X007D",
       "model": "ASUS_X007D"
+    },
+    {
+      "market_name": "ZenFone Go (ZB690KG)",
+      "codename": "ASUS_L001_1",
+      "model": "ASUS_L001"
+    },
+    {
+      "market_name": "ZenFone Go (ZB690KG)",
+      "codename": "ASUS_L001_2",
+      "model": "ASUS_L001"
     },
     {
       "market_name": "ZenFone Go (ZC451TG)",
@@ -1002,17 +1102,22 @@
       "model": "ASUS_Z00VD"
     },
     {
-      "market_name": "ZenFone Live(ZB553KL)",
+      "market_name": "ZenFone Live (ZB501KL)",
+      "codename": "ASUS_A007",
+      "model": "ASUS_A007"
+    },
+    {
+      "market_name": "ZenFone Live Plus (ZB553KL)",
       "codename": "ASUS_X00LD_2",
       "model": "ASUS_X00LDB"
     },
     {
-      "market_name": "ZenFone Live(ZB553KL)",
+      "market_name": "ZenFone Live Plus (ZB553KL)",
       "codename": "ASUS_X00LD_3",
       "model": "ASUS_X00LDA"
     },
     {
-      "market_name": "ZenFone Live(ZB553KL)",
+      "market_name": "ZenFone Live Plus (ZB553KL)",
       "codename": "ASUS_X00LD_3",
       "model": "ZB553KL"
     },
@@ -1060,26 +1165,6 @@
       "market_name": "ZenFone Zoom (ZX551ML)",
       "codename": "Z00X_2",
       "model": "ASUS_Z00XS"
-    },
-    {
-      "market_name": "ZenFone3",
-      "codename": "ASUS_Z017D_1",
-      "model": "ASUS_Z017D"
-    },
-    {
-      "market_name": "ZenFone3",
-      "codename": "ASUS_Z017D_1",
-      "model": "ASUS_Z017DA"
-    },
-    {
-      "market_name": "ZenFone4 (ZE554KL)",
-      "codename": "ASUS_Z01KD_1",
-      "model": "ASUS_Z01KDA"
-    },
-    {
-      "market_name": "ZenFone4 (ZE554KL)",
-      "codename": "ASUS_Z01KD_2",
-      "model": "ASUS_Z01KD"
     },
     {
       "market_name": "ZenPad 10 (Z300C)",
@@ -1282,7 +1367,7 @@
       "model": "P00I"
     },
     {
-      "market_name": "ZenPad Z8S 2K",
+      "market_name": "ZenPad Z8s",
       "codename": "ASUS_P00J",
       "model": "ASUS_P00J"
     },
@@ -1317,84 +1402,9 @@
       "model": "Zenbo"
     },
     {
-      "market_name": "Zenfone 3 Deluxe (ZS570KL)",
-      "codename": "Z016",
-      "model": "ASUS_Z016D"
-    },
-    {
-      "market_name": "Zenfone 3 Deluxe (ZS570KL)",
-      "codename": "Z016",
-      "model": "ASUS_Z016S"
-    },
-    {
-      "market_name": "Zenfone 3 Deluxe (ZS570KL)",
-      "codename": "Z016_1",
-      "model": "ASUS_Z016D"
-    },
-    {
-      "market_name": "Zenfone 3 Laser",
-      "codename": "Z01B_1",
-      "model": "ASUS_Z01BD"
-    },
-    {
-      "market_name": "Zenfone 3 Laser",
-      "codename": "Z01B_1",
-      "model": "ASUS_Z01BDC"
-    },
-    {
-      "market_name": "Zenfone 3 Laser",
-      "codename": "Z01B_1",
-      "model": "ASUS_Z01BS"
-    },
-    {
       "market_name": "Zenfone 4V (V520KL)",
       "codename": "ASUS_A006",
       "model": "ASUS_A006"
-    },
-    {
-      "market_name": "Zenfone AR",
-      "codename": "ASUS_A002",
-      "model": "ASUS_A002"
-    },
-    {
-      "market_name": "Zenfone AR",
-      "codename": "ASUS_A002_1",
-      "model": "ASUS_A002A"
-    },
-    {
-      "market_name": "Zenfone GO",
-      "codename": "ASUS_X013D_1",
-      "model": "ASUS_X013DA"
-    },
-    {
-      "market_name": "Zenfone GO",
-      "codename": "ASUS_X013D_2",
-      "model": "ASUS_X013DA"
-    },
-    {
-      "market_name": "Zenfone GO",
-      "codename": "ASUS_X014D_1",
-      "model": "ASUS_X014D"
-    },
-    {
-      "market_name": "Zenfone GO",
-      "codename": "ASUS_X014D_2",
-      "model": "ASUS_X014D"
-    },
-    {
-      "market_name": "Zenfone Go",
-      "codename": "ASUS_L001_1",
-      "model": "ASUS_L001"
-    },
-    {
-      "market_name": "Zenfone Go",
-      "codename": "ASUS_L001_2",
-      "model": "ASUS_L001"
-    },
-    {
-      "market_name": "Zenfone Go",
-      "codename": "ASUS_X009D_2",
-      "model": "ASUS_X009DB"
     },
     {
       "market_name": "Zenfone Go (ASUS_X00BD)",
@@ -1445,11 +1455,6 @@
       "market_name": "Zenfone V Live (Verizon)",
       "codename": "ASUS_A009",
       "model": "ASUS_A009"
-    },
-    {
-      "market_name": "Zenfone3 Ultra",
-      "codename": "ASUS_A001",
-      "model": "ASUS_A001"
     },
     {
       "market_name": "Zenpad 8.0 (Z380C)",

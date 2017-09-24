@@ -932,6 +932,11 @@
       "model": "Archos 101 Platinum 3G"
     },
     {
+      "market_name": "Archos 101b Oxygen",
+      "codename": "ac101boxv2",
+      "model": "Archos 101b Oxygen"
+    },
+    {
       "market_name": "Archos 101b Xenon",
       "codename": "ac101bxev3",
       "model": "Archos 101b Xenon v3"
@@ -980,6 +985,11 @@
       "market_name": "Archos 79b Neon",
       "codename": "ac79bnev2",
       "model": "Archos 79b Neon"
+    },
+    {
+      "market_name": "Archos 80 Oxygen",
+      "codename": "ac80oxv2",
+      "model": "Archos 80 Oxygen"
     },
     {
       "market_name": "Archos 80c Platinum",

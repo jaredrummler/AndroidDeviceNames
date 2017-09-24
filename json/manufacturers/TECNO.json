@@ -287,6 +287,16 @@
       "model": "TECNO S6S"
     },
     {
+      "market_name": "SPARK",
+      "codename": "TECNO-K7",
+      "model": "TECNO K7"
+    },
+    {
+      "market_name": "SPARK Plus",
+      "codename": "TECNO-K9",
+      "model": "TECNO K9"
+    },
+    {
       "market_name": "TECNO AX8",
       "codename": "TECNO-AX8",
       "model": "TECNO AX8"
@@ -322,9 +332,29 @@
       "model": "TECNO S1 Lite"
     },
     {
+      "market_name": "TECNO W5",
+      "codename": "TECNO-W5",
+      "model": "TECNO-W5"
+    },
+    {
       "market_name": "TECNO WX4 Pro S",
       "codename": "TECNO-WX4-Pro",
       "model": "TECNO WX4 Pro S"
+    },
+    {
+      "market_name": "TECNO i3",
+      "codename": "TECNO-i3",
+      "model": "TECNO i3"
+    },
+    {
+      "market_name": "TECNO-Y2",
+      "codename": "TECNO-Y2",
+      "model": "TECNO-Y2"
+    },
+    {
+      "market_name": "TECNO-Y2",
+      "codename": "TECNO-Y2",
+      "model": "TECNO-Y3+"
     },
     {
       "market_name": "Techno L6",

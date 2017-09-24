@@ -2414,6 +2414,11 @@
     {
       "market_name": "LG G6",
       "codename": "lucye",
+      "model": "LG-H870AR"
+    },
+    {
+      "market_name": "LG G6",
+      "codename": "lucye",
       "model": "LG-H870DS"
     },
     {
@@ -4217,6 +4222,16 @@
       "model": "LGM-X301S"
     },
     {
+      "market_name": "LG X400",
+      "codename": "mlv5n",
+      "model": "LGM-X401L"
+    },
+    {
+      "market_name": "LG X400",
+      "codename": "mlv5n",
+      "model": "LGM-X401S"
+    },
+    {
       "market_name": "LG X5",
       "codename": "mk6m",
       "model": "LG-F770S"
@@ -5530,6 +5545,11 @@
       "market_name": "V30",
       "codename": "joan",
       "model": "LG-LS998"
+    },
+    {
+      "market_name": "V30",
+      "codename": "joan",
+      "model": "LGM-V300K"
     },
     {
       "market_name": "V30",

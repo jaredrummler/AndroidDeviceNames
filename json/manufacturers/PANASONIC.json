@@ -232,6 +232,11 @@
       "model": "EX01C"
     },
     {
+      "market_name": "EX02C",
+      "codename": "EX02C",
+      "model": "EX02C"
+    },
+    {
       "market_name": "Eco11 v2",
       "codename": "Eco11v2",
       "model": "Eco11 v2"
@@ -605,6 +610,11 @@
       "market_name": "P9",
       "codename": "P9",
       "model": "P9"
+    },
+    {
+      "market_name": "P91",
+      "codename": "P91",
+      "model": "P91"
     },
     {
       "market_name": "P99",
