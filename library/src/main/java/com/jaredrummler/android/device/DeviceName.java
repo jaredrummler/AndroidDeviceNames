@@ -1012,6 +1012,13 @@ public class DeviceName {
         || model.equals("SM-G730W8")))) {
       return "Galaxy S3 Mini";
     }
+    if ((codename != null && (codename.equals("goldenve3g")
+        || codename.equals("goldenvess3g")))
+        || (model != null && (model.equals("GT-I8200")
+        || model.equals("GT-I8200N")
+        || model.equals("GT-I8200Q")))) {
+      return "Galaxy S3 Mini Value Edition";
+    }
     if ((codename != null && (codename.equals("s3ve3g")
         || codename.equals("s3ve3gdd")
         || codename.equals("s3ve3gds")

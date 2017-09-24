@@ -127,6 +127,7 @@ public class GooglePlayDevices {
       "Galaxy S Duos3",
       "Galaxy S3",
       "Galaxy S3 Mini",
+      "Galaxy S3 Mini Value Edition",
       "Galaxy S3 Neo",
       "Galaxy S4",
       "Galaxy S4 Mini",
