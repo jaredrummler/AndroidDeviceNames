@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 Jared Rummler
+ * Copyright (C) 2017 Jared Rummler
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -12,17 +12,17 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- *
  */
 
-package com.jaredrummler.android.devices;
+package com.jaredrummler.androiddevicenames
 
-public class Main {
+fun main(args: Array<String>) {
+  // Get the devices supported by Google Play
+  val devices = getDevices()
 
-  public static void main(String[] args) throws Exception {
-    GooglePlayDevices devices = new GooglePlayDevices();
-    devices.createJsonFiles();
-    devices.printGetDeviceNameMethod();
-  }
+  // Generate all the JSON files
+  JsonGenerator(devices).generate()
 
+  // Create the method used in DeviceName.java.
+  MethodGenerator(devices).generate()
 }

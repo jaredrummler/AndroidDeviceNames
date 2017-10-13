@@ -1,0 +1,7 @@
+apply plugin: 'java'
+apply plugin: 'kotlin'
+
+dependencies {
+  compile "org.jetbrains.kotlin:kotlin-stdlib-jre8:$kotlin_version"
+  compile 'com.google.code.gson:gson:2.7'
+}
