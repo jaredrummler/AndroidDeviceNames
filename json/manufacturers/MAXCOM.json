@@ -2,11 +2,13 @@
   "manufacturer": "Maxcom",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "MS514",
       "codename": "MS514",
       "model": "MS514"
     },
     {
+      "manufacturer": "",
       "market_name": "MS553",
       "codename": "MS553",
       "model": "MS553"

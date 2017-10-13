@@ -2,6 +2,13 @@
   "manufacturer": "Navitel",
   "devices": [
     {
+      "manufacturer": "",
+      "market_name": "Navitel T700 3G Navi",
+      "codename": "NAVITEL_T700_3G_NAVI",
+      "model": "NAVITEL T700 3G NAVI"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T500 3G",
       "codename": "T500_3G",
       "model": "T500 3G"

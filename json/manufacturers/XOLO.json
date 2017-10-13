@@ -2,16 +2,31 @@
   "manufacturer": "Xolo",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "Era 2X 2GB",
       "codename": "XE2X",
       "model": "Era 2X"
     },
     {
+      "manufacturer": "",
       "market_name": "Era 2X 3GB",
       "codename": "XE2X3GB",
       "model": "Era 2X 3GB"
     },
     {
+      "manufacturer": "",
+      "market_name": "Era3",
+      "codename": "Era_3",
+      "model": "Era 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XOLO ERA 2V",
+      "codename": "Era_2V",
+      "model": "Era 2V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "era1X",
       "codename": "era1X",
       "model": "era1X"

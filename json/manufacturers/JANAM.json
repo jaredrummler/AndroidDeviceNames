@@ -2,16 +2,19 @@
   "manufacturer": "Janam",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "XM75",
       "codename": "XM75",
       "model": "XM75"
     },
     {
+      "manufacturer": "",
       "market_name": "XT100",
       "codename": "XT100",
       "model": "XT100"
     },
     {
+      "manufacturer": "",
       "market_name": "XT2",
       "codename": "XT2",
       "model": "XT2"

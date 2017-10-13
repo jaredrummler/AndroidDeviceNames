@@ -2,96 +2,133 @@
   "manufacturer": "BlackBerry",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "Aurora",
       "codename": "bbc100",
       "model": "BBC100-1"
     },
     {
+      "manufacturer": "",
+      "market_name": "BlackBerry MOTION",
+      "codename": "bbd100",
+      "model": "BBD100-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BlackBerry MOTION",
+      "codename": "bbd100",
+      "model": "BBD100-2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BlackBerry MOTION",
+      "codename": "bbd100",
+      "model": "BBD100-6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blackberry Keyone",
       "codename": "bbb100",
       "model": "BBB100-7"
     },
     {
+      "manufacturer": "",
       "market_name": "DTEK50",
       "codename": "hamburg",
       "model": "STH100-1"
     },
     {
+      "manufacturer": "",
       "market_name": "DTEK50",
       "codename": "hamburg",
       "model": "STH100-2"
     },
     {
+      "manufacturer": "",
       "market_name": "DTEK50 by BlackBerry",
       "codename": "hamburg",
       "model": "STH100-1"
     },
     {
+      "manufacturer": "",
       "market_name": "DTEK50 by BlackBerry",
       "codename": "hamburg",
       "model": "STH100-2"
     },
     {
+      "manufacturer": "",
       "market_name": "DTEK60",
       "codename": "argon",
       "model": "BBA100-1"
     },
     {
+      "manufacturer": "",
       "market_name": "DTEK60",
       "codename": "argon",
       "model": "BBA100-2"
     },
     {
+      "manufacturer": "",
       "market_name": "DTEK60 by BlackBerry",
       "codename": "argon",
       "model": "BBA100-1"
     },
     {
+      "manufacturer": "",
       "market_name": "DTEK60 by BlackBerry",
       "codename": "argon",
       "model": "BBA100-2"
     },
     {
+      "manufacturer": "",
       "market_name": "KEYone",
       "codename": "bbb100",
       "model": "BBB100-1"
     },
     {
+      "manufacturer": "",
       "market_name": "KEYone",
       "codename": "bbb100",
       "model": "BBB100-2"
     },
     {
+      "manufacturer": "",
       "market_name": "KEYone",
       "codename": "bbb100",
       "model": "BBB100-3"
     },
     {
+      "manufacturer": "",
       "market_name": "KEYone",
       "codename": "bbb100",
       "model": "BBB100-4"
     },
     {
+      "manufacturer": "",
       "market_name": "KEYone",
       "codename": "bbb100",
       "model": "BBB100-6"
     },
     {
+      "manufacturer": "",
       "market_name": "PRIV by BlackBerry",
       "codename": "venice",
       "model": "STV100-1"
     },
     {
+      "manufacturer": "",
       "market_name": "PRIV by BlackBerry",
       "codename": "venice",
       "model": "STV100-2"
     },
     {
+      "manufacturer": "",
       "market_name": "PRIV by BlackBerry",
       "codename": "venice",
       "model": "STV100-3"
     },
     {
+      "manufacturer": "",
       "market_name": "PRIV by BlackBerry",
       "codename": "venice",
       "model": "STV100-4"

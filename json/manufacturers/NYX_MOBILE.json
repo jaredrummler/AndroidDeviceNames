@@ -1,10 +1,59 @@
 {
-  "manufacturer": "Nyx mobile",
+  "manufacturer": "NYX Mobile",
   "devices": [
     {
+      "manufacturer": "",
+      "market_name": "A1",
+      "codename": "NYX_A1",
+      "model": "NYX_A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLINK",
+      "codename": "BLiNK",
+      "model": "BLiNK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GLAM",
+      "codename": "GLAM",
+      "model": "GLAM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HIT",
+      "codename": "NYX_HIT",
+      "model": "NYX_HIT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KiN",
+      "codename": "KiN",
+      "model": "KiN"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOBA",
       "codename": "NOBA",
       "model": "NOBA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "REX",
+      "codename": "Rex",
+      "model": "Rex"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SENSE",
+      "codename": "SENSE",
+      "model": "SENSE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHADE",
+      "codename": "NYX_SHADE",
+      "model": "NYX_SHADE"
     }
   ]
 }

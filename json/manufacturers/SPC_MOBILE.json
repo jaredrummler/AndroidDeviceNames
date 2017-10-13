@@ -2,16 +2,31 @@
   "manufacturer": "SPC Mobile",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "L50",
       "codename": "SPC_L50",
       "model": "L50"
     },
     {
+      "manufacturer": "",
       "market_name": "L51 BLITZ",
       "codename": "L51",
       "model": "L51"
     },
     {
+      "manufacturer": "",
+      "market_name": "L51 PRO",
+      "codename": "L51_Pro",
+      "model": "L51 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L52 PRO",
+      "codename": "L52_Pro",
+      "model": "L52 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L52 STEEL+",
       "codename": "L52",
       "model": "L52"

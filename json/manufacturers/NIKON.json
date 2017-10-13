@@ -2,11 +2,13 @@
   "manufacturer": "Nikon",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "COOLPIX",
       "codename": "S800c",
       "model": "COOLPIX S800c"
     },
     {
+      "manufacturer": "",
       "market_name": "COOLPIX S810c",
       "codename": "s810c",
       "model": "COOLPIX S810c"

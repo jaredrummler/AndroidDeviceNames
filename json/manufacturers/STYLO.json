@@ -2,16 +2,19 @@
   "manufacturer": "Stylo",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "S551",
       "codename": "STYLO_S551",
       "model": "STYLO S551"
     },
     {
+      "manufacturer": "",
       "market_name": "STYLOF1",
       "codename": "STYLOF1",
       "model": "STYLO F1"
     },
     {
+      "manufacturer": "",
       "market_name": "VS5502",
       "codename": "VS5502",
       "model": "VS5502"

@@ -2,66 +2,97 @@
   "manufacturer": "Evercoss",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "A75 MAX",
       "codename": "A75_MAX",
       "model": "A75 MAX"
     },
     {
+      "manufacturer": "",
+      "market_name": "A75B",
+      "codename": "EVERCOSS_A75B",
+      "model": "A75B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "One X",
       "codename": "A65_sprout",
       "model": "EVERCOSS A65"
     },
     {
+      "manufacturer": "",
       "market_name": "R40K",
       "codename": "R40K",
       "model": "R40K"
     },
     {
+      "manufacturer": "",
       "market_name": "R45",
       "codename": "EVERCOSS_R45",
       "model": "R45"
     },
     {
+      "manufacturer": "",
+      "market_name": "R5C",
+      "codename": "R5C",
+      "model": "R5C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R6",
       "codename": "R6",
       "model": "R6"
     },
     {
+      "manufacturer": "",
       "market_name": "R70A",
       "codename": "R70A",
       "model": "R70A"
     },
     {
+      "manufacturer": "",
+      "market_name": "S50",
+      "codename": "EVERCOSS_S50",
+      "model": "S50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U50",
       "codename": "U50",
       "model": "U50"
     },
     {
+      "manufacturer": "",
       "market_name": "U50A",
       "codename": "U50A",
       "model": "U50A"
     },
     {
+      "manufacturer": "",
       "market_name": "U50A_PLUS",
       "codename": "U50A_PLUS",
       "model": "U50A_PLUS"
     },
     {
+      "manufacturer": "",
       "market_name": "U50B",
       "codename": "U50B",
       "model": "U50B"
     },
     {
+      "manufacturer": "",
       "market_name": "U50C",
       "codename": "U50C",
       "model": "U50C"
     },
     {
+      "manufacturer": "",
       "market_name": "U55",
       "codename": "U55",
       "model": "U55"
     },
     {
+      "manufacturer": "",
       "market_name": "U70",
       "codename": "U70",
       "model": "U70"

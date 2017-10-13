@@ -2,11 +2,13 @@
   "manufacturer": "Kult",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "Gladiator",
       "codename": "Gladiator",
       "model": "Gladiator"
     },
     {
+      "manufacturer": "",
       "market_name": "Kult Beyond",
       "codename": "Beyond",
       "model": "Beyond"

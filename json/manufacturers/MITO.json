@@ -2,21 +2,25 @@
   "manufacturer": "Mito",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "A10",
       "codename": "A10_sprout",
       "model": "MITO A10"
     },
     {
+      "manufacturer": "",
       "market_name": "A10",
       "codename": "A10_sprout",
       "model": "MITO_A10"
     },
     {
+      "manufacturer": "",
       "market_name": "MITO_A19_1GB",
       "codename": "MITO_A19_1GB",
       "model": "MITO_A19_1GB"
     },
     {
+      "manufacturer": "",
       "market_name": "MITO_A19_2GB",
       "codename": "MITO_A19_2GB",
       "model": "MITO_A19_2GB"

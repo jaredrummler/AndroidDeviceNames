@@ -2,44 +2,64 @@
   "manufacturer": "MobiiStar",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "LAI YUNA 1",
       "codename": "LAI_YUNA_1",
       "model": "mobiistar LAI YUNA 1"
     },
     {
+      "manufacturer": "",
+      "market_name": "LAI Z1 4G",
+      "codename": "LAI_Z1_4G",
+      "model": "mobiistar LAI Z1 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LAI Z2",
       "codename": "mobiistar_LAI_Z2",
       "model": "mobiistar_LAI_Z2"
     },
     {
+      "manufacturer": "",
       "market_name": "LAI Zoro 3",
       "codename": "LAI_ZORO_3",
       "model": "mobiistar LAI ZORO 3"
     },
     {
+      "manufacturer": "",
       "market_name": "LAI Zumbo S 2017",
       "codename": "Zumbo_S_2017",
       "model": "Zumbo_S_2017"
     },
     {
+      "manufacturer": "",
       "market_name": "LAI Zumbo S 2017 Lite",
       "codename": "Zumbo_S_2017_Lite",
       "model": "Zumbo_S_2017_Lite"
     },
     {
+      "manufacturer": "",
       "market_name": "ZORO 4G",
       "codename": "mobiistar_ZORO_4G",
       "model": "mobiistar_ZORO_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "ZUMBO J2",
       "codename": "Mobiistar_Zumbo_J2",
       "model": "Mobiistar_Zumbo_J2"
     },
     {
+      "manufacturer": "",
       "market_name": "ZUMBO S2",
       "codename": "mobiistar_Zumbo_S2",
       "model": "mobiistar Zumbo S2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZUMBO_S2_Dual",
+      "codename": "ZUMBO_S2_Dual",
+      "model": "mobiistar ZUMBO S2 Dual"
     }
   ]
 }

@@ -2,21 +2,25 @@
   "manufacturer": "Crosscall",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "L636",
       "codename": "HS8952QC",
       "model": "TREKKER-X3"
     },
     {
+      "manufacturer": "",
       "market_name": "ODYSSEY",
       "codename": "ODYSSEY3G",
       "model": "ODYSSEY"
     },
     {
+      "manufacturer": "",
       "market_name": "TREKKER-M1 CORE",
       "codename": "HS8909QC",
       "model": "TREKKER-M1 CORE"
     },
     {
+      "manufacturer": "",
       "market_name": "Trekker- M1",
       "codename": "HS8916QC",
       "model": "Trekker-M1"

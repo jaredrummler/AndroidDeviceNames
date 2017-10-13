@@ -2,11 +2,13 @@
   "manufacturer": "Vernee",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "Thor E",
       "codename": "Thor_E",
       "model": "Thor E"
     },
     {
+      "manufacturer": "",
       "market_name": "Thor Plus",
       "codename": "Thor_Plus",
       "model": "Thor Plus"

@@ -2,51 +2,121 @@
   "manufacturer": "Digma",
   "devices": [
     {
+      "manufacturer": "",
+      "market_name": "DIGMA CITI 1544 3G CS1154MG",
+      "codename": "CS1154MG",
+      "model": "CITI_1544_3G_CS1154MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA CITI 7543 3G CS7153MG",
+      "codename": "CS7153MG",
+      "model": "CITI_7543_3G_CS7153MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA HIT Q500 3G HT5035PG",
+      "codename": "HT5035PG",
+      "model": "HIT Q500 3G HT5035PG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA Optima Prime 3 3G TS7131MG",
       "codename": "TS7131MG",
       "model": "Optima_Prime_3_3G_TS7131MG"
     },
     {
+      "manufacturer": "",
       "market_name": "DIGMA Plane 1523 3G PS1135MG",
       "codename": "PS1135MG",
       "model": "Plane_1523_3G_PS1135MG"
     },
     {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 1537E 3G PS1149MG",
+      "codename": "PS1149MG",
+      "model": "Plane_1537E_3G_PS1149MG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA Plane 1550S 3G PS1163MG",
       "codename": "PS1163MG",
       "model": "Plane_1550S_3G_PS1163MG"
     },
     {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 1551S 4G PS1164ML",
+      "codename": "PS1164ML",
+      "model": "Plane_1551S_4G_PS1164ML"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA Plane 7535E 3G PS7147MG",
       "codename": "PS7147MG",
       "model": "Plane_7535E_3G_PS7147MG"
     },
     {
+      "manufacturer": "",
       "market_name": "DIGMA VOX Flash 4G VS5015ML",
       "codename": "VS5015ML",
       "model": "VOX Flash 4G VS5015ML"
     },
     {
+      "manufacturer": "",
       "market_name": "DIGMA VOX G450 3G VS4001PG",
       "codename": "VS4001PG",
       "model": "VOX G450 3G VS4001PG"
     },
     {
+      "manufacturer": "",
       "market_name": "DIGMA VOX G501 4G VS5033ML",
       "codename": "VS5033ML",
       "model": "VOX_G501_4G_VS5033ML"
     },
     {
+      "manufacturer": "",
       "market_name": "LINX A452 3G",
       "codename": "LT4030PG",
       "model": "LINX A452 3G LT4030PG"
     },
     {
+      "manufacturer": "",
+      "market_name": "Plane 7546S 3G",
+      "codename": "PS7158PG",
+      "model": "Plane_7546S_3G_PS7158PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plane 7547S 3G",
+      "codename": "PS7159PG",
+      "model": "Plane_7547S_3G_PS7159PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plane_7548S_4G_PS7160PL",
+      "codename": "PS7160PL",
+      "model": "Plane_7548S_4G_PS7160PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plane_8548S_3G",
+      "codename": "PS8161PG",
+      "model": "Plane_8548S_3G_PS8161PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plane_8549S_4G",
+      "codename": "PS8162PL",
+      "model": "Plane_8549S_4G_PS8162PL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VOX_S508_3G",
       "codename": "VS5031PG",
       "model": "VOX S508 3G VS5031PG"
     },
     {
+      "manufacturer": "",
       "market_name": "VOX_S509_3G",
       "codename": "VS5032PG",
       "model": "VOX S509 3G VS5032PG"

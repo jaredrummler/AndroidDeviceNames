@@ -2,11 +2,13 @@
   "manufacturer": "Zopo",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "L63",
       "codename": "INHOh_L63",
       "model": "L63"
     },
     {
+      "manufacturer": "",
       "market_name": "PRO1",
       "codename": "Benten_PRO1",
       "model": "PRO1"

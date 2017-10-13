@@ -2,6 +2,7 @@
   "manufacturer": "AstroQueo",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "polaris_wifionly",
       "codename": "polaris-wifionly",
       "model": "A912"

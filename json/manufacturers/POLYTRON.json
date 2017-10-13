@@ -2,9 +2,22 @@
   "manufacturer": "Polytron",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "P500",
       "codename": "P500",
       "model": "P500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POLYTRON R2509",
+      "codename": "POLYTRON_R2509",
+      "model": "POLYTRON R2509"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POLYTRON R2509SE",
+      "codename": "POLYTRON_R2509SE",
+      "model": "POLYTRON R2509SE"
     }
   ]
 }

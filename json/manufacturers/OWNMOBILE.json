@@ -2,19 +2,28 @@
   "manufacturer": "OwnMobile",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "FUN VALUE 4G",
       "codename": "FUNVALUE4G",
       "model": "FUN VALUE 4G"
     },
     {
+      "manufacturer": "",
       "market_name": "OWN Smart \\xc3\\x962",
       "codename": "SMART_O2",
       "model": "SMART_O2"
     },
     {
+      "manufacturer": "",
       "market_name": "SMART 8",
       "codename": "Smart8",
       "model": "Smart8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart Plus Lte",
+      "codename": "SMART_PLUS_LTE",
+      "model": "SMART PLUS LTE"
     }
   ]
 }

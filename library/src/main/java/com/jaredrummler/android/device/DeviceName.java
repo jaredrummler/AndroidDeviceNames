@@ -49,7 +49,7 @@ import org.json.JSONObject;
  *
  * <p><b>Get the name of the current device:</b></p>
  *
- * <pre class="prettyprint">
+ * <pre>
  * String deviceName = DeviceName.getDeviceName();
  * </pre>
  *
@@ -58,14 +58,14 @@ import org.json.JSONObject;
  *
  * <p><b>Get the name of a device using the device's codename:</b></p>
  *
- * <pre class="prettyprint">
+ * <pre>
  * // Retruns "Moto X Style"
  * DeviceName.getDeviceName("clark", "Unknown device");
  * </pre>
  *
  * <p><b>Get information about the device:</b></p>
  *
- * <pre class="prettyprint">
+ * <pre>
  * DeviceName.with(context).request(new DeviceName.Callback() {
  *
  *   &#64;Override public void onFinished(DeviceName.DeviceInfo info, Exception error) {
@@ -173,6 +173,12 @@ public class DeviceName {
     if ((codename != null && codename.equals("sailfish"))) {
       return "Pixel";
     }
+    if ((codename != null && codename.equals("walleye"))) {
+      return "Pixel 2";
+    }
+    if ((codename != null && codename.equals("taimen"))) {
+      return "Pixel 2 XL";
+    }
     if ((codename != null && codename.equals("dragon"))) {
       return "Pixel C";
     }
@@ -273,6 +279,7 @@ public class DeviceName {
         || model.equals("LG-H870")
         || model.equals("LG-H870AR")
         || model.equals("LG-H870DS")
+        || model.equals("LG-H870I")
         || model.equals("LG-H870S")
         || model.equals("LG-H871")
         || model.equals("LG-H872")

@@ -2,39 +2,52 @@
   "manufacturer": "Reeder",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "A8i Q2",
       "codename": "A8i-Q2",
       "model": "A8i-Q2"
     },
     {
+      "manufacturer": "",
       "market_name": "M7 Plus",
       "codename": "reeder_M7Plus",
       "model": "M7Plus"
     },
     {
+      "manufacturer": "",
       "market_name": "P10",
       "codename": "P10",
       "model": "P10"
     },
     {
+      "manufacturer": "",
       "market_name": "P10S",
       "codename": "P10S",
       "model": "P10S"
     },
     {
+      "manufacturer": "",
       "market_name": "P10SE",
       "codename": "P10SE",
       "model": "P10SE"
     },
     {
+      "manufacturer": "",
       "market_name": "P9C",
       "codename": "P9C",
       "model": "P9C"
     },
     {
+      "manufacturer": "",
       "market_name": "T8",
       "codename": "reeder_T8",
       "model": "reeder_T8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "reeder P12",
+      "codename": "P12",
+      "model": "P12"
     }
   ]
 }

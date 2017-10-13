@@ -2,6 +2,7 @@
   "manufacturer": "VSN",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "V.35",
       "codename": "up11_h1_vsn",
       "model": "V.35"

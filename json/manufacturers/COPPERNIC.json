@@ -2,16 +2,19 @@
   "manufacturer": "Coppernic",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "C-eight",
       "codename": "C-eight",
       "model": "C-eight"
     },
     {
+      "manufacturer": "",
       "market_name": "C-five",
       "codename": "C-five",
       "model": "C-five"
     },
     {
+      "manufacturer": "",
       "market_name": "C-five",
       "codename": "C-five-WIFI",
       "model": "C-five"

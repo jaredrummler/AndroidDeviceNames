@@ -2,11 +2,13 @@
   "manufacturer": "Ceibal",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "TC80RA1",
       "codename": "TC80RA1_3",
       "model": "TC80RA1"
     },
     {
+      "manufacturer": "",
       "market_name": "TC80RA6",
       "codename": "TC80RA6_1",
       "model": "TC80RA6"

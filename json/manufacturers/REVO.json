@@ -2,11 +2,13 @@
   "manufacturer": "Revo",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "Pearl",
       "codename": "Pearl",
       "model": "Pearl"
     },
     {
+      "manufacturer": "",
       "market_name": "Power",
       "codename": "Power",
       "model": "Power"

@@ -1,10 +1,2903 @@
 {
-  "manufacturer": "hisense",
+  "manufacturer": "Hisense",
   "devices": [
     {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "AD683G",
+      "model": "AD683G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "AD685G",
+      "model": "New Andromax-i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "E820",
+      "model": "HS-E820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "E910",
+      "model": "E910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "E910",
+      "model": "HS-E910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "E912",
+      "model": "HS-E912"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "E912S",
+      "model": "HS-E912S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "E920",
+      "model": "HS-E920"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "E926",
+      "model": "E926"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "E930",
+      "model": "HS-E930"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "E956",
+      "model": "HS-E956"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "E956Q",
+      "model": "HS-E956Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "EG870",
+      "model": "HS-EG870"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "EG876",
+      "model": "HS-EG876"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "EG901",
+      "model": "HS-EG901"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "EG909",
+      "model": "HS-EG909"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "EG950",
+      "model": "HS-EG950"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "EG970",
+      "model": "HS-EG970"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "P4013",
+      "model": "MEDION-P4013"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "SIMPlus",
+      "model": "MegaFon SIM+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "T818",
+      "model": "HS-T818"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "TP9101",
+      "model": "HS-M170AT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "TP9102",
+      "model": "M1101AT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U2",
+      "model": "U2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U8",
+      "model": "HS-U8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U820",
+      "model": "HS-U820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U820A",
+      "model": "HS-U820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U820A",
+      "model": "U1+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U820AVN",
+      "model": "HS-U820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U860",
+      "model": "HS-U860"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U909",
+      "model": "HS-U909"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U909B",
+      "model": "HS-U909B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U909B_6",
+      "model": "HS-U909"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U909B_MN",
+      "model": "U2S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U912",
+      "model": "HS-U912"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U950",
+      "model": "HS-U950"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U950_6",
+      "model": "HS-U950"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U950_MN",
+      "model": "U3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U950_ae",
+      "model": "HS-U950"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U958",
+      "model": "HS-U958"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "U960Q",
+      "model": "HS-U960Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "W2400",
+      "model": "W2400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "m3101",
+      "model": "M3101BW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "m370",
+      "model": "M370BW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "t909",
+      "model": "HS-T909"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "t950",
+      "model": "HS-T950"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "t958",
+      "model": "HS-T958"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "",
+      "codename": "t960",
+      "model": "HS-T960"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "55H6SG",
+      "codename": "Vision",
+      "model": "Vision"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A2",
+      "codename": "HS8937QC",
+      "model": "Hisense A2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM A7",
+      "codename": "HS8909QC",
+      "model": "AGM A7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AJM X2",
+      "codename": "HS8976QC",
+      "model": "AGM X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Andromax-c",
+      "codename": "AD686G",
+      "model": "Andromax-c"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C-4",
+      "codename": "C_4",
+      "model": "C-4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C1",
+      "codename": "HS8929QC",
+      "model": "Hisense C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C1AE",
+      "codename": "HS8929QC",
+      "model": "Hisense C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C1AE-1",
+      "codename": "HS8929QC",
+      "model": "Hisense C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C1AE-2",
+      "codename": "HS8929QC",
+      "model": "Hisense C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C1BE",
+      "codename": "HS8929QC",
+      "model": "Hisense C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C1M",
+      "codename": "HS8929QC",
+      "model": "Hisense C1M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C1T",
+      "codename": "HS8929QC",
+      "model": "Hisense C1T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C20F",
+      "codename": "HS8929QC",
+      "model": "Hisense C20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C20FE-1",
+      "codename": "HS8929QC",
+      "model": "Hisense C20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C20S",
+      "codename": "C20S",
+      "model": "Hisense C20S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C20W",
+      "codename": "HS8929QC",
+      "model": "Hisense C20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C30",
+      "codename": "HS8937QC",
+      "model": "Hisense C30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C30",
+      "codename": "HS8937QC",
+      "model": "Hisense C30_02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C30 Lite",
+      "codename": "HS6737MT",
+      "model": "Hisense C30 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C30 Lite",
+      "codename": "HS6737MT",
+      "model": "STARACTIVE 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C30 Lite",
+      "codename": "HS6737MT",
+      "model": "SX40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CMB405",
+      "codename": "L690AE",
+      "model": "CMB405"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CMB501",
+      "codename": "u970_carrefour",
+      "model": "CMB501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CMB510",
+      "codename": "L696",
+      "model": "CMB510"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D1-M",
+      "codename": "D1_M",
+      "model": "Hisense D1-M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D2-M",
+      "codename": "HS6735MT",
+      "model": "D2-M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D5",
+      "codename": "HS8909QC",
+      "model": "Hisense D5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E10",
+      "codename": "HS8909QC",
+      "model": "E10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E100T",
+      "codename": "E100T",
+      "model": "Hisense E100T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E100TAE",
+      "codename": "E100TAE",
+      "model": "LT-W1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E200T",
+      "codename": "E200T",
+      "model": "HS-E200T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E2070",
+      "codename": "mt8312",
+      "model": "E2070"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E20T",
+      "codename": "HS8952QC",
+      "model": "Hisense E20T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E2371CH",
+      "codename": "rk3026",
+      "model": "E2371CH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E260T",
+      "codename": "E260T",
+      "model": "HS-E260T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E260U",
+      "codename": "E260U",
+      "model": "Hisense E260U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E270BSA",
+      "codename": "E270BSA",
+      "model": "E270BSA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E360M",
+      "codename": "e360m",
+      "model": "Hisense E360M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E50-T",
+      "codename": "HS8909QC",
+      "model": "Hisense E50-T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E51-F",
+      "codename": "HS8909QC",
+      "model": "Hisense E51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E51-M",
+      "codename": "HS8909QC",
+      "model": "Hisense E51-M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E51-W",
+      "codename": "HS8909QC",
+      "model": "Hisense E51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E600MH02",
+      "codename": "E600MH02",
+      "model": "HS-E600M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E601M",
+      "codename": "E601M",
+      "model": "E601M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E602T",
+      "codename": "E602T",
+      "model": "Hisense E602T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E613M",
+      "codename": "E613M",
+      "model": "Hisense E613M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E620M",
+      "codename": "E602M",
+      "model": "Hisense E602M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E621T",
+      "codename": "E621T",
+      "model": "Hisense E621T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E622M",
+      "codename": "E622M",
+      "model": "Hisense E622M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E625T",
+      "codename": "E625T",
+      "model": "Hisense E625T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E70-T",
+      "codename": "HS8929QC",
+      "model": "Hisense E70-T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E71-M",
+      "codename": "HS8929QC",
+      "model": "Hisense E71-M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E71-T",
+      "codename": "HS8929QC",
+      "model": "Hisense E71-T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E75M",
+      "codename": "HS8929QC",
+      "model": "Hisense E75M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E75T",
+      "codename": "HS8929QC",
+      "model": "Hisense E75T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E76",
+      "codename": "HS8937QC",
+      "model": "Hisense E76"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E76E_11",
+      "codename": "HS8937QC",
+      "model": "Hisense E76"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E860",
+      "codename": "E860",
+      "model": "E860"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E9",
+      "codename": "HS8937QC",
+      "model": "Hisense E9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG606",
+      "codename": "EG606_TW",
+      "model": "EG606"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG680",
+      "codename": "eg980ae",
+      "model": "EG680"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG68AE",
+      "codename": "EG668AE",
+      "model": "LT668"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG929",
+      "codename": "EG929_TW",
+      "model": "EG929"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG936D",
+      "codename": "EG936D",
+      "model": "HS-EG936D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG950",
+      "codename": "EG950TW",
+      "model": "EG950"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG970",
+      "codename": "EG970TW",
+      "model": "EG970"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG978",
+      "codename": "EG978",
+      "model": "HS-EG978"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG98",
+      "codename": "EG98",
+      "model": "EG98"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG98",
+      "codename": "EG98TW",
+      "model": "EG98"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EG981",
+      "codename": "EG981",
+      "model": "HS-EG981"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F10",
+      "codename": "HS6737MT",
+      "model": "BM001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F10",
+      "codename": "HS6737MT",
+      "model": "Hisense F10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F10",
+      "codename": "HS6737MT",
+      "model": "Hisense L675 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F10",
+      "codename": "HS6737MT",
+      "model": "RIVIERA F10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F102",
+      "codename": "HS6737MT",
+      "model": "Hisense F102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F20",
+      "codename": "HS8909QC",
+      "model": "F20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F20",
+      "codename": "HS8909QC",
+      "model": "Hisense F20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F20T",
+      "codename": "HS8909QC",
+      "model": "Hisense F20T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F21T",
+      "codename": "HS8909QC",
+      "model": "Hisense F21T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F22",
+      "codename": "HS6737MT",
+      "model": "F22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F22",
+      "codename": "HS6737MT",
+      "model": "Hisense F22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F22",
+      "codename": "HS8917QC",
+      "model": "Hisense F22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F22M",
+      "codename": "HS8917QC",
+      "model": "Hisense F22M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F23",
+      "codename": "HS6737MT",
+      "model": "Hisense F23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F23",
+      "codename": "HS6737MT",
+      "model": "RIVIERA F23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F23",
+      "codename": "HS8917QC",
+      "model": "Hisense F23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F23M",
+      "codename": "HS8917QC",
+      "model": "Hisense F23M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F270BW",
+      "codename": "F270BW",
+      "model": "F270BW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F30",
+      "codename": "HS6735MT",
+      "model": "F30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F30",
+      "codename": "HS6735MT",
+      "model": "Hisense F30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F31",
+      "codename": "HS8937QC",
+      "model": "Hisense F31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F31E_11",
+      "codename": "HS8937QC",
+      "model": "Hisense F31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F31M",
+      "codename": "HS8937QC",
+      "model": "Hisense F31M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F32",
+      "codename": "HS8937QC",
+      "model": "Hisense F32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F5070",
+      "codename": "mt8389",
+      "model": "F5070"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F5180",
+      "codename": "f5180",
+      "model": "F5180"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F5281CH",
+      "codename": "rk3288",
+      "model": "F5281CH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1",
+      "codename": "G1",
+      "model": "G1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2-3GP",
+      "codename": "G2-3GP",
+      "model": "G2-3GP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G610M",
+      "codename": "G610M",
+      "model": "Hisense G610M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H800T",
+      "codename": "H800T",
+      "model": "HS-H800T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H910",
+      "codename": "HS8929QC",
+      "model": "Hisense H910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H910",
+      "codename": "HS8939QC",
+      "model": "Hisense H910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H910-F01",
+      "codename": "HS8939QC",
+      "model": "Hisense H910"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS- G610",
+      "codename": "HS8916QC",
+      "model": "HS-G610"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS- L682",
+      "codename": "HS8916QC",
+      "model": "HS-L682"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-E600M",
+      "codename": "E600M",
+      "model": "HS-E600M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-E620M",
+      "codename": "E620M",
+      "model": "HS-E620M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-E917",
+      "codename": "E917",
+      "model": "HS-E917"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-E936",
+      "codename": "E936",
+      "model": "HS-E936"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-E968",
+      "codename": "E968",
+      "model": "HS-E968"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-EG916",
+      "codename": "EG916",
+      "model": "HS-EG916"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-EG929",
+      "codename": "EG929",
+      "model": "HS-EG929"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-EG929",
+      "codename": "EG929",
+      "model": "msm8625"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-EG939",
+      "codename": "EG939",
+      "model": "HS-EG939"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-EG958",
+      "codename": "EG958",
+      "model": "HS-EG958"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-EG966",
+      "codename": "EG966",
+      "model": "HS-EG966"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-EG971",
+      "codename": "EG971",
+      "model": "HS-EG971"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-EG980",
+      "codename": "eg980",
+      "model": "HS-EG980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-EG98C",
+      "codename": "EG98C",
+      "model": "HS-EG98C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-G610",
+      "codename": "HS8916QC",
+      "model": "HS-G610"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-I630M",
+      "codename": "msm8226",
+      "model": "HS-I630M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-I630T",
+      "codename": "msm8226",
+      "model": "HS-I630T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T9",
+      "codename": "T9",
+      "model": "HS-T9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T926",
+      "codename": "t926",
+      "model": "HS-T926"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T928",
+      "codename": "t928",
+      "model": "HS-T928"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T939",
+      "codename": "HS-T939",
+      "model": "HS-T939"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T959",
+      "codename": "t959",
+      "model": "HS-T959"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T959S",
+      "codename": "t959s",
+      "model": "HS-T959S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T959S1",
+      "codename": "t959s1",
+      "model": "HS-T959S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T966",
+      "codename": "HS-T966",
+      "model": "HS-T966"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T967",
+      "codename": "HS-T967",
+      "model": "HS-T967"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T968",
+      "codename": "t968",
+      "model": "HS-T968"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T968S",
+      "codename": "t968s",
+      "model": "HS-T968S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T970",
+      "codename": "t970",
+      "model": "HS-T970"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T978",
+      "codename": "t978",
+      "model": "HS-T978"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-T980",
+      "codename": "t980",
+      "model": "HS-T980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U601",
+      "codename": "HS7731SP",
+      "model": "HS-U601"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U820",
+      "codename": "U820B",
+      "model": "HS-U820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U9",
+      "codename": "U9",
+      "model": "HS-U9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U912",
+      "codename": "U912A_1",
+      "model": "HS-U912"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U912",
+      "codename": "U912B",
+      "model": "HS-U912"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U912",
+      "codename": "U912C",
+      "model": "HS-U912"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U929",
+      "codename": "u929de",
+      "model": "HS-U929"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U929",
+      "codename": "u929de_3",
+      "model": "HS-U929"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U936",
+      "codename": "U936",
+      "model": "HS-U936"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U939",
+      "codename": "u939",
+      "model": "HS-U939"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U939",
+      "codename": "u939e_1",
+      "model": "HS-U939"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U939",
+      "codename": "u939e_3",
+      "model": "HS-U939"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U939",
+      "codename": "u939e_4",
+      "model": "HS-U939"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U939",
+      "codename": "u939e_5",
+      "model": "HS-U939"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U950",
+      "codename": "U950_5",
+      "model": "HS-U950"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U961",
+      "codename": "HS6572MT",
+      "model": "HS-U961"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U961",
+      "codename": "u961",
+      "model": "HS-U961"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U961",
+      "codename": "u961e_1",
+      "model": "HS-U961"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U966",
+      "codename": "u966",
+      "model": "HS-U966"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U966",
+      "codename": "u966ae",
+      "model": "HS-U966"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U970",
+      "codename": "u970e_6",
+      "model": "HS-U970"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U970",
+      "codename": "u970s_export",
+      "model": "HS-U970"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U970E",
+      "codename": "u970t",
+      "model": "HS-U970E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U971",
+      "codename": "U971AE",
+      "model": "HS-U971"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U978",
+      "codename": "u978",
+      "model": "HS-U978"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U98",
+      "codename": "U98",
+      "model": "U98"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U98",
+      "codename": "U98_FR",
+      "model": "HS-U98"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U980",
+      "codename": "u980",
+      "model": "HS-U980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U980",
+      "codename": "u980b",
+      "model": "HS-U980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U980",
+      "codename": "u980be",
+      "model": "HS-U980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U980",
+      "codename": "u980be_1",
+      "model": "HS-U980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U980",
+      "codename": "u980be_2",
+      "model": "HS-U980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U980",
+      "codename": "u980ce_1",
+      "model": "HS-U980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U980",
+      "codename": "u980ce_3",
+      "model": "HS-U980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U980",
+      "codename": "u980ce_4",
+      "model": "HS-U980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-U980",
+      "codename": "u980ce_5",
+      "model": "HS-U980"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-X5T",
+      "codename": "X5T",
+      "model": "HS-X5T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-X68T",
+      "codename": "x68t",
+      "model": "HS-X68T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-X6T",
+      "codename": "X6T",
+      "model": "HS-X6T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-X8C",
+      "codename": "x8c",
+      "model": "HS-X8C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-X8T",
+      "codename": "X8T",
+      "model": "HS-X8T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HS-X8U",
+      "codename": "x8u",
+      "model": "HS-X8U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense E76MINIM",
+      "codename": "HS8937QC",
+      "model": "Hisense E76MINIM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense E77",
+      "codename": "HS8937QC",
+      "model": "Hisense E77"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense F8 MINI",
+      "codename": "HSSC9850",
+      "model": "Hisense F8 MINI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense M36",
+      "codename": "HS8909QC",
+      "model": "Hisense M36"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense P1",
+      "codename": "HS8953QC",
+      "model": "Hisense P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I300T",
+      "codename": "I300T",
+      "model": "Hisense I300T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I56D2G",
+      "codename": "HS8929QC",
+      "model": "Andromax I56D2G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I630U",
+      "codename": "I630U",
+      "model": "Hisense I630U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I631M",
+      "codename": "i631m",
+      "model": "Hisense I631M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I632M",
+      "codename": "I632M",
+      "model": "Hisense I632M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I632T",
+      "codename": "I632T",
+      "model": "Hisense I632T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I635T",
+      "codename": "HS8916QC",
+      "model": "Hisense I635T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I639M",
+      "codename": "I639M",
+      "model": "Hisense I639M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I639T",
+      "codename": "I639T",
+      "model": "Hisense I639T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I639T",
+      "codename": "I639TA",
+      "model": "Hisense I639T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I639T",
+      "codename": "I639TA1",
+      "model": "Hisense I639T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRON  2",
+      "codename": "HS8937QC",
+      "model": "IRON 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K1",
+      "codename": "HS8937QC",
+      "model": "Hisense K1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K220_FHD",
+      "codename": "mst628",
+      "model": "K220_FHD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L635E_1",
+      "codename": "HS8916QC",
+      "model": "Trekker-M1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L671",
+      "codename": "HS8929QC",
+      "model": "HS-L671"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L671",
+      "codename": "HS8929QC",
+      "model": "Hisense L671"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L671W",
+      "codename": "HS8929QC",
+      "model": "HS-L671"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L671W",
+      "codename": "HS8929QC",
+      "model": "Hisense L671"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L671WE_1",
+      "codename": "HS8929QC",
+      "model": "Hisense L671"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L671WE_2",
+      "codename": "HS8929QC",
+      "model": "Hisense L671"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L675",
+      "codename": "HS6735MT",
+      "model": "Hisense L675"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L676BE-1",
+      "codename": "HS8929QC",
+      "model": "Hisense L676"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L676BE-2",
+      "codename": "HS8929QC",
+      "model": "Hisense L676"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L678",
+      "codename": "HS8916QC",
+      "model": "Hisense L678"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L681",
+      "codename": "HS8916QC",
+      "model": "L681"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L682",
+      "codename": "HS8916QC",
+      "model": "HS-L682"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L682",
+      "codename": "HS8916QC",
+      "model": "Hisense L682"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L691",
+      "codename": "l691",
+      "model": "HS-L691"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L691",
+      "codename": "l691e_2",
+      "model": "HS-L691"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L691AE",
+      "codename": "msm8226",
+      "model": "HS-L691"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L695",
+      "codename": "HS8929QC",
+      "model": "HS-L695"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L695W",
+      "codename": "HS8929QC",
+      "model": "HS-L695"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L695W",
+      "codename": "HS8929QC",
+      "model": "Hisense L695"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L695WE_2",
+      "codename": "HS8929QC",
+      "model": "Hisense L695"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L697",
+      "codename": "HS8952QC",
+      "model": "L697"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L730",
+      "codename": "HS8937QC",
+      "model": "STARADDICT 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32G180",
+      "codename": "hisenseLED32G180",
+      "model": "LED32G180"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32K220",
+      "codename": "mst628",
+      "model": "LED32K220"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32K280J3D",
+      "codename": "mt5880",
+      "model": "LED32K280J3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32K360",
+      "codename": "mt5880",
+      "model": "LED32K360"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32K360J",
+      "codename": "mt5880",
+      "model": "LED32K360J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32K360J3D",
+      "codename": "mt5880",
+      "model": "LED32K360J3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32K360X3D",
+      "codename": "mt5880",
+      "model": "LED32K360X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32K370",
+      "codename": "mt5880",
+      "model": "LED32K370"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32K600J",
+      "codename": "mt5880",
+      "model": "LED32K600J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32K600X3D",
+      "codename": "mt5880",
+      "model": "LED32K600X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32K610X3D",
+      "codename": "mt5880",
+      "model": "LED32K610X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED32L288",
+      "codename": "mt5880",
+      "model": "LED32L288"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED39K280J3D",
+      "codename": "mt5880",
+      "model": "LED39K280J3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED39K360J",
+      "codename": "mt5880",
+      "model": "LED39K360J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED39K360X3D",
+      "codename": "mt5880",
+      "model": "LED39K360X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED39K600X3D",
+      "codename": "mt5880",
+      "model": "LED39K600X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED39K600X3DU",
+      "codename": "mst901",
+      "model": "LED39K600X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED39K610X3D",
+      "codename": "mt5880",
+      "model": "LED39K610X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED39K680X3DU",
+      "codename": "mt5327",
+      "model": "LED39K680X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED40K260X3D",
+      "codename": "mt5880",
+      "model": "LED40K260X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED40K360J",
+      "codename": "mt5880",
+      "model": "LED40K360J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED40K360X3D",
+      "codename": "mt5880",
+      "model": "LED40K360X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED40K370",
+      "codename": "mt5880",
+      "model": "LED40K370"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED40K681X3DU",
+      "codename": "msd6a918",
+      "model": "LED40K681X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED40L288",
+      "codename": "mt5880",
+      "model": "LED40L288"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42G200",
+      "codename": "hisenseLED42G200",
+      "model": "LED42G200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K280J3D",
+      "codename": "mt5880",
+      "model": "LED42K280J3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K330X3D",
+      "codename": "mt5880",
+      "model": "LED42K330X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K360J",
+      "codename": "mt5880",
+      "model": "LED42K360J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K360X3D",
+      "codename": "mt5880",
+      "model": "LED42K360X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K370",
+      "codename": "mt5880",
+      "model": "LED42K370"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K380U",
+      "codename": "msd6a918",
+      "model": "LED42K380U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K560X3D",
+      "codename": "hisenseLED42K560X3D",
+      "model": "LED42K560X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K600A3D",
+      "codename": "mt5880",
+      "model": "LED42K600A3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K600X3D",
+      "codename": "mt5880",
+      "model": "LED42K600X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K610J3DP",
+      "codename": "mt5880",
+      "model": "LED42K610J3DP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K610X3D",
+      "codename": "mt5880",
+      "model": "LED42K610X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K660X3D",
+      "codename": "hisenseLED42K660X3D",
+      "model": "LED42K660X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42K680X3DU",
+      "codename": "mt5327",
+      "model": "LED42K680X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED42L288",
+      "codename": "mt5880",
+      "model": "LED42L288"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED46K260X3D",
+      "codename": "mt5880",
+      "model": "LED46K260X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED46K280J3D",
+      "codename": "mt5880",
+      "model": "LED46K280J3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED46K330X3D",
+      "codename": "mt5880",
+      "model": "LED46K330X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED46K360J",
+      "codename": "mt5880",
+      "model": "LED46K360J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED46K360X3D",
+      "codename": "mt5880",
+      "model": "LED46K360X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED46K660X3D",
+      "codename": "hisense6a801",
+      "model": "LED46K660X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED47K560J3D",
+      "codename": "hisenseLED47K560J3D",
+      "model": "LED47K560J3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED47K600X3D",
+      "codename": "mt5880",
+      "model": "LED47K600X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED47K610J3DP",
+      "codename": "mt5880",
+      "model": "LED47K610J3DP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED48K360X3D",
+      "codename": "mt5880",
+      "model": "LED48K360X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED48K370",
+      "codename": "mt5880",
+      "model": "LED48K370"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED48K380U",
+      "codename": "msd6a918",
+      "model": "LED48K380U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED48K681X3DU",
+      "codename": "msd6a918",
+      "model": "LED48K681X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED48L288",
+      "codename": "mt5880",
+      "model": "LED48L288"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50G05",
+      "codename": "hisenseLED50G05",
+      "model": "LED50G05"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50K260X3D",
+      "codename": "mt5880",
+      "model": "LED50K260X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50K360J",
+      "codename": "mt5880",
+      "model": "LED50K360J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50K360X3D",
+      "codename": "mt5880",
+      "model": "LED50K360X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50K370",
+      "codename": "mt5880",
+      "model": "LED50K370"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50K380U",
+      "codename": "msd6a918",
+      "model": "LED50K380U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50K610X3D",
+      "codename": "mt5880",
+      "model": "LED50K610X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50K660X3D",
+      "codename": "hisenseLED50K660X3D",
+      "model": "LED50K660X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50K680X3DU",
+      "codename": "mt5327",
+      "model": "LED50K680X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50L288",
+      "codename": "mt5880",
+      "model": "LED50L288"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50XT880G3D",
+      "codename": "hisenseLED50XT880G3D",
+      "model": "LED50XT880G3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50XT880G3DU",
+      "codename": "mst901",
+      "model": "LED50XT880G3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED50XT900X3DU",
+      "codename": "mt5327",
+      "model": "LED50XT900X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55K260X3D",
+      "codename": "mt5880",
+      "model": "LED55K260X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55K360X3D",
+      "codename": "mt5880",
+      "model": "Hisense LED55K360X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55K370",
+      "codename": "mt5880",
+      "model": "LED55K370"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55K380U",
+      "codename": "msd6a918",
+      "model": "LED55K380U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55K600A3D",
+      "codename": "mt5880",
+      "model": "LED55K600A3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55K600X3D",
+      "codename": "mt5880",
+      "model": "LED55K600X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55K610X3D",
+      "codename": "mt5880",
+      "model": "LED55K610X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55K680X3DU",
+      "codename": "mt5327",
+      "model": "LED55K680X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55L288",
+      "codename": "mt5880",
+      "model": "LED55L288"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55XT780G3D",
+      "codename": "hisenseLED55XT780G3D",
+      "model": "LED55XT780G3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55XT810X3DU",
+      "codename": "msd6a918",
+      "model": "LED55XT810X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55XT880G3DU",
+      "codename": "mst901",
+      "model": "LED55XT880G3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED55XT900X3DU",
+      "codename": "mt5327",
+      "model": "LED55XT900X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED58K280J",
+      "codename": "mt5880",
+      "model": "LED58K280J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED58K280U",
+      "codename": "mt5327",
+      "model": "LED58K280U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED58K610X3D",
+      "codename": "mt5880",
+      "model": "LED58K610X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED58K680X3DU",
+      "codename": "mt5327",
+      "model": "LED58K680X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED58XT880G3D",
+      "codename": "hisenseLED58XT880G3D",
+      "model": "LED58XT880G3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED58XT880J3DU",
+      "codename": "mst901",
+      "model": "LED58XT880J3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED60K380",
+      "codename": "mt5327",
+      "model": "LED60K380"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65K560J3DTB",
+      "codename": "hisenseLED65K560J3DTB",
+      "model": "LED65K560J3DTB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65K560J3DTR",
+      "codename": "hisenseLED65K560J3DTR",
+      "model": "LED65K560J3DTR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65K600X3D",
+      "codename": "mt5880",
+      "model": "LED65K600X3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65K680X3DU",
+      "codename": "mt5327",
+      "model": "LED65K680X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65XT780G3D",
+      "codename": "hisenseLED65XT780G3D",
+      "model": "LED65XT780G3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65XT800X3DU",
+      "codename": "mt5327",
+      "model": "LED65XT800X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65XT810X3DU",
+      "codename": "msd6a918",
+      "model": "LED65XT810X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65XT880G3D",
+      "codename": "hisenseLED65XT880G3D",
+      "model": "LED65XT880G3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65XT880G3DF",
+      "codename": "hisenseLED65XT880G3DF",
+      "model": "LED65XT880G3DF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65XT880G3DU",
+      "codename": "mst901",
+      "model": "LED65XT880G3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65XT890G3D",
+      "codename": "hisenseLED65XT890G3D",
+      "model": "LED65XT890G3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65XT900G3DU",
+      "codename": "mst901",
+      "model": "LED65XT900G3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED65XT900X3DU",
+      "codename": "mt5327",
+      "model": "LED65XT900X3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED75XT890G3D",
+      "codename": "mst901",
+      "model": "LED75XT890G3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED75XT910G3DU",
+      "codename": "mt5327",
+      "model": "LED75XT910G3DU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED84XT900G3D",
+      "codename": "hisenseLED84XT900G3D",
+      "model": "LED84XT900G3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LED85XT910G3DU",
+      "codename": "mt5327",
+      "model": "Vision20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT100K6900A",
+      "codename": "mt5327",
+      "model": "LT100K6900A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT610",
+      "codename": "LT610",
+      "model": "LT610"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10-M",
+      "codename": "HS9830SP",
+      "model": "Hisense M10-M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M20- T",
+      "codename": "HS8909QC",
+      "model": "Hisense M20-T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M20-M",
+      "codename": "HS9830SP",
+      "model": "Hisense M20-M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M30",
+      "codename": "HS8909QC",
+      "model": "Hisense M30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M30M",
+      "codename": "HS9830SP",
+      "model": "Hisense M30M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M30T",
+      "codename": "HS8909QC",
+      "model": "Hisense M30T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3101BCD",
+      "codename": "m3101bcd",
+      "model": "M3101BCD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M36",
+      "codename": "HS8909QC",
+      "model": "Hisense M36"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M470BSA",
+      "codename": "m470",
+      "model": "M470BSA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M470BSD",
+      "codename": "m470bsd",
+      "model": "M470BSD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M470BSE",
+      "codename": "m470bse",
+      "model": "M470BSE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M470BSG",
+      "codename": "m470bsg",
+      "model": "M470BSG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M470BSS",
+      "codename": "m470bss",
+      "model": "M470BSS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M701",
+      "codename": "M701",
+      "model": "M701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M821",
+      "codename": "HS8916QC",
+      "model": "M821"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M821H",
+      "codename": "HS8916QC",
+      "model": "M821H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M821T",
+      "codename": "HS8916QC",
+      "model": "SMART 4G HD Voice"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MEDION E4001",
+      "codename": "E4001",
+      "model": "MEDION E4001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MEDION X4701",
+      "codename": "x4701",
+      "model": "MEDION X4701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Oysters Pacific 800",
+      "codename": "x4701ae",
+      "model": "Oysters Pacific 800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX1900",
+      "codename": "atm7039c",
+      "model": "PX1900"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX1900ES",
+      "codename": "atm7039c",
+      "model": "PX7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX2000",
+      "codename": "hisensepx2000",
+      "model": "PX2000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX2700",
+      "codename": "g18ref",
+      "model": "PX2700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX2800",
+      "codename": "hisensepx2800",
+      "model": "PX2800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX3000",
+      "codename": "mt5880",
+      "model": "Hisense PX3000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX3000",
+      "codename": "mt5880",
+      "model": "PX3000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX3100",
+      "codename": "mt5880",
+      "model": "PX3100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX510",
+      "codename": "PX510",
+      "model": "PX510"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PX530",
+      "codename": "PX8",
+      "model": "PX8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S1",
+      "codename": "HS8937QC",
+      "model": "S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKi630t",
+      "codename": "msm8226",
+      "model": "SKi630t"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STARSHINE 4",
+      "codename": "HS6572MT",
+      "model": "STARSHINE 4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STARTRAIL  9",
+      "codename": "HS6737MT",
+      "model": "S40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STARTRAIL  9",
+      "codename": "HS6737MT",
+      "model": "STARTRAIL 9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STARTRAIL 6 4G",
+      "codename": "L681",
+      "model": "STARTRAIL 6 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero 7",
+      "codename": "rk3168",
+      "model": "E2171CA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero 7",
+      "codename": "rk3168",
+      "model": "E2171MX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero 7",
+      "codename": "rk3168",
+      "model": "E2171TK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero 8",
+      "codename": "rk3188",
+      "model": "E2281"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero 8",
+      "codename": "rk3188",
+      "model": "E2281CA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero 8",
+      "codename": "rk3188",
+      "model": "E2281MX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero 8",
+      "codename": "rk3188",
+      "model": "E2281TK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero 8",
+      "codename": "rk3188",
+      "model": "E2281UK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero 8 pro",
+      "codename": "rk3288",
+      "model": "F5281"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero7",
+      "codename": "rk3168",
+      "model": "E2171SS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero7 LE",
+      "codename": "rk3026",
+      "model": "E2371"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sero8",
+      "codename": "rk3188",
+      "model": "E2281SS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SoundTab MA-317",
+      "codename": "rk3028a",
+      "model": "Hisense SoundTab MA-317"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SoundTab MA-327",
+      "codename": "rk3028a",
+      "model": "Hisense SoundTab MA-327"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T963",
+      "codename": "HS7331CSC",
+      "model": "Hisense T963"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TV",
+      "codename": "hisense_gx1200v",
+      "model": "hisense_gx1200v"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U601S",
+      "codename": "HS7731CSP",
+      "model": "Hisense U601S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U602",
+      "codename": "HS6580MT",
+      "model": "HS-U602"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U606",
+      "codename": "U606",
+      "model": "STARSHINE III"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U606AE",
+      "codename": "U606AE",
+      "model": "HS-U606"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U606AE",
+      "codename": "U606AE",
+      "model": "PHS-402"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U607",
+      "codename": "U607",
+      "model": "Bouygues Telecom Bs 403"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U609",
+      "codename": "U609",
+      "model": "HS-U609"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U610",
+      "codename": "U610",
+      "model": "HS-U610"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U610",
+      "codename": "U610E_1",
+      "model": "HS-U610"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U688",
+      "codename": "U688",
+      "model": "HS-U688"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U688BE",
+      "codename": "MSM8212",
+      "model": "HS-U688"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U800",
+      "codename": "U800",
+      "model": "HS-U800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U800E-1",
+      "codename": "U800E_1",
+      "model": "HS-U800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U800E-1",
+      "codename": "U800E_1",
+      "model": "HS-U800E-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U963",
+      "codename": "HS7331CSC",
+      "model": "Hisense U963"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U963",
+      "codename": "HS7331CSC",
+      "model": "RIVIERA U963"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U966",
+      "codename": "u966e_1",
+      "model": "U966"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U970",
+      "codename": "u970e_8",
+      "model": "U970"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U988",
+      "codename": "U988",
+      "model": "HS-U988"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U988AE",
+      "codename": "MSM8212",
+      "model": "HS-U988"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U988E-1",
+      "codename": "U988E_1",
+      "model": "HS-U988"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U988E-2",
+      "codename": "U988E_2",
+      "model": "HS-U988"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U989",
+      "codename": "HS6580MT",
+      "model": "Hisense U989"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U989 Pro",
+      "codename": "HS6580MT",
+      "model": "Hisense U989 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VH777",
+      "codename": "VH777",
+      "model": "VH777"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "Hi3751",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "Hi3751v551",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "Hi3751v620",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "MSD6A648",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "MSD6A828",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "MSD6A838",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "MSD6A938",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "mt5861",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "mt5890",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vidaa",
+      "codename": "helium3",
+      "model": "H7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision",
+      "codename": "Vision",
+      "model": "Vision"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision 2.5",
+      "codename": "vision2_5",
+      "model": "vision2_5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W2",
+      "codename": "EG606_YE",
+      "model": "W2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W270BD",
+      "codename": "W270BD",
+      "model": "W270BD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WA912",
+      "codename": "U912ATW",
+      "model": "WA912"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WA960",
+      "codename": "U960Q_1",
+      "model": "WA960"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WM8",
+      "codename": "wm8980s",
+      "model": "WM8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1E1",
+      "codename": "X1E1",
+      "model": "HS-X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XOLO",
+      "codename": "us9230e1",
+      "model": "XOLO T1000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "c20",
+      "codename": "HS8929QC",
+      "model": "Hisense C20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "c20ae",
+      "codename": "HS8929QC",
+      "model": "C20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "c20fe-3",
+      "codename": "HS8929QC",
+      "model": "Hisense C20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "e76mini",
+      "codename": "HS8937QC",
+      "model": "Hisense E76mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "l676be",
+      "codename": "HS8929QC",
+      "model": "Hisense L676"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "l691",
+      "codename": "msm8226",
+      "model": "HS-L691"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "l830",
+      "codename": "HS8937QC",
+      "model": "Hisense L830"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "l830",
+      "codename": "HS8937QC",
+      "model": "STARXTREM 6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "lt971",
       "codename": "LT971",
       "model": "LT971"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "u972",
+      "codename": "HS7731SP",
+      "model": "U972"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vision2_1",
+      "codename": "vision2_1",
+      "model": "vision2_1"
     }
   ]
 }

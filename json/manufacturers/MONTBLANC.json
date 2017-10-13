@@ -2,11 +2,13 @@
   "manufacturer": "Montblanc",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "SUMMIT",
       "codename": "lionfish",
       "model": "MB SUMMIT"
     },
     {
+      "manufacturer": "",
       "market_name": "Summit",
       "codename": "lionfish",
       "model": "MB SUMMIT"

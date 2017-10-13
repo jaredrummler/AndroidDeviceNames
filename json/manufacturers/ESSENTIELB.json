@@ -1,20 +1,35 @@
 {
-  "manufacturer": "essentielb",
+  "manufacturer": "EssentielB",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "Black Diamond",
       "codename": "bird77_a_cu_ics2",
       "model": "Essentielb-Black Diamond"
     },
     {
+      "manufacturer": "",
       "market_name": "Pyxis",
       "codename": "pyxis_boulanger",
       "model": "Essentielb-Pixis"
     },
     {
+      "manufacturer": "",
       "market_name": "ST7001 Tablet",
       "codename": "ST7001",
       "model": "ST7001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart\\\u0027TAB 7800",
+      "codename": "fiber-785q6",
+      "model": "Smart\\\u0027Tab_7800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart\\\u0027TAB 9001",
+      "codename": "fiber-smart",
+      "model": "Smart\\\u0027TAB 9001"
     }
   ]
 }

@@ -2,11 +2,13 @@
   "manufacturer": "Skyworth",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "Asia",
       "codename": "globe_ap",
       "model": "globe"
     },
     {
+      "manufacturer": "",
       "market_name": "South America",
       "codename": "globe_sa",
       "model": "globe"

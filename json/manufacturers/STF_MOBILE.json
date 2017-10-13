@@ -2,9 +2,16 @@
   "manufacturer": "STF Mobile",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "Fractal",
       "codename": "Fractal",
       "model": "Fractal"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NATIVO",
+      "codename": "NATIVO",
+      "model": "NATIVO"
     }
   ]
 }

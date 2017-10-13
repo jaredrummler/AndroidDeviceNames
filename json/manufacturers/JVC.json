@@ -2,11 +2,13 @@
   "manufacturer": "JVC",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "",
       "codename": "gener",
       "model": "RY-AP1"
     },
     {
+      "manufacturer": "",
       "market_name": "DM65UXR\\\\DM65USR\\\\DM85UXR",
       "codename": "mstarnapoli_atsc",
       "model": "DM65UXR"

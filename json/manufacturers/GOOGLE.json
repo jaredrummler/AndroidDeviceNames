@@ -2,56 +2,79 @@
   "manufacturer": "Google",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "Chromebook",
       "codename": "hana_cheets",
       "model": "Lenovo N23 Yoga/Flex 11 Chromebook"
     },
     {
+      "manufacturer": "",
       "market_name": "Chromebook",
       "codename": "reef_cheets",
       "model": "reef"
     },
     {
+      "manufacturer": "",
       "market_name": "Chromebook",
       "codename": "relm_cheets",
       "model": "Braswell Chrome OS Device"
     },
     {
+      "manufacturer": "",
       "market_name": "Chromebook Pixel (2015)",
       "codename": "samus_cheets",
       "model": "Google Chromebook Pixel (2015)"
     },
     {
+      "manufacturer": "",
       "market_name": "Emulator",
       "codename": "generic_x86",
       "model": "Android SDK built for x86"
     },
     {
+      "manufacturer": "",
       "market_name": "Galaxy S4 Google Play edition",
       "codename": "jgedlte",
       "model": "GT-I9505G"
     },
     {
+      "manufacturer": "",
       "market_name": "Pixel",
       "codename": "sailfish",
       "model": "Pixel"
     },
     {
+      "manufacturer": "",
+      "market_name": "Pixel 2",
+      "codename": "walleye",
+      "model": "Pixel 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 2 XL",
+      "codename": "taimen",
+      "model": "Pixel 2 XL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pixel C",
       "codename": "dragon",
       "model": "Pixel C"
     },
     {
+      "manufacturer": "",
       "market_name": "Pixel XL",
       "codename": "marlin",
       "model": "Pixel XL"
     },
     {
+      "manufacturer": "",
       "market_name": "Project Tango Tablet Development Kit",
       "codename": "yellowstone",
       "model": "Project Tango Tablet Development Kit"
     },
     {
+      "manufacturer": "",
       "market_name": "Project Tango Tablet Development Kit",
       "codename": "yellowstone",
       "model": "Yellowstone"

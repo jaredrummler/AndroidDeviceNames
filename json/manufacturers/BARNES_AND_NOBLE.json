@@ -2,21 +2,25 @@
   "manufacturer": "Barnes and Noble",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "HD",
       "codename": "hummingbird",
       "model": "BNTV400"
     },
     {
+      "manufacturer": "",
       "market_name": "HD+",
       "codename": "ovation",
       "model": "BNTV600"
     },
     {
+      "manufacturer": "",
       "market_name": "NOOK\\xc2\\xae HD",
       "codename": "hummingbird",
       "model": "BNTV400"
     },
     {
+      "manufacturer": "",
       "market_name": "NOOK\\xc2\\xae HD+",
       "codename": "ovation",
       "model": "BNTV600"

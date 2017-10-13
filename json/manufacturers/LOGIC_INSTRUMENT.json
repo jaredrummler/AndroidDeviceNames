@@ -2,21 +2,25 @@
   "manufacturer": "Logic Instrument",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "FieldBook E1",
       "codename": "FieldBook_E1",
       "model": "FieldBook_E1"
     },
     {
+      "manufacturer": "",
       "market_name": "Fieldbook F1",
       "codename": "lifbf1",
       "model": "Logic Instrument Fieldbook F1"
     },
     {
+      "manufacturer": "",
       "market_name": "Fieldbook F53",
       "codename": "lifbf53",
       "model": "Logic Instrument Fieldbook F53"
     },
     {
+      "manufacturer": "",
       "market_name": "Fieldbook K80",
       "codename": "lifbk80",
       "model": "Logic Instrument Fieldbook K80"

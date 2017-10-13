@@ -93,7 +93,9 @@ class JsonGenerator(private val devices: List<Device>, directory: String = "json
     val popular = mutableListOf<Device>()
     getPopularDeviceNames().forEach { name ->
       devices.forEach { device ->
-        if (device.marketName == name.toLowerCase()) popular.add(device)
+        if (device.marketName.toLowerCase() == name.toLowerCase()) {
+          popular.add(device)
+        }
       }
     }
     createJsonFile(POPULAR_JSON, GSON.toJson(popular))

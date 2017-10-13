@@ -2,16 +2,19 @@
   "manufacturer": "Konrow",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "LINK55",
       "codename": "LINK55",
       "model": "LINK55"
     },
     {
+      "manufacturer": "",
       "market_name": "Primo",
       "codename": "PRIMO",
       "model": "PRIMO"
     },
     {
+      "manufacturer": "",
       "market_name": "Smartfive",
       "codename": "KONROW_Smartfive",
       "model": "Smartfive"

@@ -2,6 +2,7 @@
   "manufacturer": "QLA",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "C600",
       "codename": "GBC_bravo",
       "model": "C600"

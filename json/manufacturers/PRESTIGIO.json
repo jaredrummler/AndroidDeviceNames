@@ -2,696 +2,835 @@
   "manufacturer": "Prestigio",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "GV7790",
       "codename": "GV7790",
       "model": "GV7790"
     },
     {
+      "manufacturer": "",
       "market_name": "Grace",
       "codename": "PSP7557",
       "model": "PSP7557"
     },
     {
+      "manufacturer": "",
       "market_name": "Grace 3118 3G",
       "codename": "JU80A2G",
       "model": "PMT3118_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "Grace X3",
       "codename": "PSP3455DUO",
       "model": "PSP3455DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "Grace X5",
       "codename": "PSP5470DUO",
       "model": "PSP5470DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "Grace X7",
       "codename": "PSP7505DUO",
       "model": "PSP7505DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "MT3237_3G",
       "codename": "JP70A1W",
       "model": "PMT3237_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "MULTIPAD WIZE 3027",
       "codename": "HF80A01W",
       "model": "PMT3027_Wi"
     },
     {
+      "manufacturer": "",
       "market_name": "MULTIPAD WIZE 3108 3G",
       "codename": "PN80A03G",
       "model": "PMT3108_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "MULTIPAD WIZE 3111",
       "codename": "NS70A03W",
       "model": "PMT3111_Wi"
     },
     {
+      "manufacturer": "",
       "market_name": "MULTIPAD WIZE 3121",
       "codename": "NS70A03W",
       "model": "PMT3121_Wi"
     },
     {
+      "manufacturer": "",
       "market_name": "MULTIPAD WIZE 3308 3G",
       "codename": "PN80A03G",
       "model": "PMT3308_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "MULTIPAD WIZE 3331 3G",
       "codename": "PN10A01G",
       "model": "PMT3331_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "MULTIPAD WIZE 3341 3G",
       "codename": "PN10A01G",
       "model": "PMT3341_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "MULTIPAD WIZE 3787 3G",
       "codename": "PMT3777_3G",
       "model": "PMT3787_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "MultiPad Thunder 7.0i",
       "codename": "g01p",
       "model": "PMT3377_Wi"
     },
     {
+      "manufacturer": "",
       "market_name": "MultiPad Wize 3009",
       "codename": "PMT3009_Wi_C",
       "model": "PMT3009_Wi_C"
     },
     {
+      "manufacturer": "",
       "market_name": "MultiPad Wize 3017",
       "codename": "PMT3017_WI",
       "model": "PMT3017_WI"
     },
     {
+      "manufacturer": "",
       "market_name": "MultiPad Wize 3018",
       "codename": "PMT3018_WI",
       "model": "PMT3018_WI"
     },
     {
+      "manufacturer": "",
       "market_name": "MultiPad Wize 3037 3G",
       "codename": "PMT3038_3G",
       "model": "PMT3037_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "MultiPad Wize 3038 3G",
       "codename": "PMT3038_3G",
       "model": "PMT3038_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "MultiPhone 5453 DUO",
       "codename": "PSP5453DUO",
       "model": "PSP5453DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "MultiPhone 5455 DUO",
       "codename": "PSP5455DUO",
       "model": "PSP5455DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "MultiPhone 5504 DUO",
       "codename": "PSP5504DUO",
       "model": "PSP5504DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "MultiPhone 5505 DUO",
       "codename": "PSP5505DUO",
       "model": "PSP5505DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "MultiPhone 5517 DUO",
       "codename": "PSP5517DUO",
       "model": "PSP5517DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "Multipad Wize 3407 4G",
       "codename": "WT70A1L",
       "model": "PMT3407_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "Multipad Wize 3408 4G",
       "codename": "LS80A1L",
       "model": "PMT3408_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "Multipad Wize 3508 4G",
       "codename": "LS80A1L",
       "model": "PMT3508_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "Multipad Wize 3757 3G",
       "codename": "PMT3777_3G",
       "model": "PMT3757_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "Multiphone 5508 DUO",
       "codename": "PSP5508DUO",
       "model": "PSP5508DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "Muze A3",
       "codename": "PSP3452DUO",
       "model": "PSP3452DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PGPS7795",
       "codename": "PMT3057_3G",
       "model": "PGPS7795"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3008_Wi",
       "codename": "PMT3008_Wi_C",
       "model": "PMT3008_Wi_C"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3011_3G",
       "codename": "PMT3011_3G",
       "model": "PMT3011_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3021_3G",
       "codename": "PMT3011_3G",
       "model": "PMT3021_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3031_3G",
       "codename": "PMT3011_3G",
       "model": "PMT3031_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3047_3G",
       "codename": "PMT3047_3G",
       "model": "PMT3047_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3057_3G",
       "codename": "PMT3057_3G",
       "model": "PMT3057_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3067_3G",
       "codename": "PMT3057_3G",
       "model": "PMT3067_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3077_Wi",
       "codename": "HF80A01W",
       "model": "PMT3077_Wi"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3087_3G",
       "codename": "PMT3057_3G",
       "model": "PMT3087_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3101_4G",
       "codename": "CF10A1L",
       "model": "PMT3101_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3137_3G",
       "codename": "JP70A1W",
       "model": "PMT3137_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3157_3G",
       "codename": "LS70A5G",
       "model": "PMT3157_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3157_4G",
       "codename": "LS70A6L",
       "model": "PMT3157_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3177_3G",
       "codename": "PMT3177_3G",
       "model": "PMT3177_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3201_4G",
       "codename": "CF10A1L",
       "model": "PMT3201_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3208_3G",
       "codename": "PN80A03G",
       "model": "PMT3208_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3257_4G",
       "codename": "LS70A6L",
       "model": "PMT3257_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3277_3G",
       "codename": "PMT3277_3G",
       "model": "PMT3277_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3287_3G",
       "codename": "PMT3287_3G",
       "model": "PMT3287_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3301_4G",
       "codename": "CF10A1L",
       "model": "PMT3301_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3351_3G",
       "codename": "PN10A01G",
       "model": "PMT3351_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3418_4G",
       "codename": "LS80A4L",
       "model": "PMT3418_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3437_3G",
       "codename": "JP70A1W",
       "model": "PMT3437_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3507_4G",
       "codename": "WT70A1L",
       "model": "PMT3507_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3607_4G",
       "codename": "WT70A1L",
       "model": "PMT3607_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3608_4G",
       "codename": "LS80A1L",
       "model": "PMT3608_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3677_Wi",
       "codename": "PMT3677",
       "model": "PMT3677_Wi"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3767_3G",
       "codename": "PMT3777_3G",
       "model": "PMT3767_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3777_3G",
       "codename": "PMT3777_3G",
       "model": "PMT3777_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT3797_3G",
       "codename": "JU70A1G",
       "model": "PMT3797_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5001_3G",
       "codename": "PMT5001_3G",
       "model": "PMT5001_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5002_Wi",
       "codename": "PMT5002_Wi",
       "model": "PMT5002_Wi"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5008_3G",
       "codename": "PMT5008_3G",
       "model": "PMT5008_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5011_3G",
       "codename": "PMT5001_3G",
       "model": "PMT5011_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5018_3G",
       "codename": "PMT5008_3G",
       "model": "PMT5018_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5021_3G",
       "codename": "PMT5001_3G",
       "model": "PMT5021_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5287_4G",
       "codename": "PMT5287_4G",
       "model": "PMT5287_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5487_3G",
       "codename": "PMT5487_3G",
       "model": "PMT5487_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5587_Wi",
       "codename": "AML8726-MXS",
       "model": "PMT5587_Wi"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5777_3G",
       "codename": "PMT5777_3G",
       "model": "PMT5777_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5877C",
       "codename": "PMT5877C",
       "model": "PMT5877C"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT5887_3G",
       "codename": "PMT5887_3G",
       "model": "PMT5887_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT7008_4G",
       "codename": "PMT7008_4G",
       "model": "PMT7008_4G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT7077_3G",
       "codename": "PMT7077_3G",
       "model": "PMT7077_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT7177_3G",
       "codename": "PMT7177_3G",
       "model": "PMT7177_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT7287C3G",
       "codename": "PMT7287C3G",
       "model": "PMT7287C3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT7287_3G",
       "codename": "PMT7287_3G",
       "model": "PMT7287_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PMT7787_3G",
       "codename": "PMT7787_3G",
       "model": "PMT7787_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3403DUO",
       "codename": "GF40B1G",
       "model": "PSP3403DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3404DUO",
       "codename": "PSP3404DUO",
       "model": "PSP3404DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3405DUO",
       "codename": "PSP3405DUO",
       "model": "PSP3405DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3413DUO",
       "codename": "GF40B1G",
       "model": "PSP3413DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3423DUO",
       "codename": "GF40B1G",
       "model": "PSP3423DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3450DUO",
       "codename": "PSP3450DUO",
       "model": "PSP3450DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3456DUO",
       "codename": "PSP3456DUO",
       "model": "PSP3456DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3457DUO",
       "codename": "KT45B01G",
       "model": "PSP3457DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3458DUO",
       "codename": "TE45B3G",
       "model": "PSP3458DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3459DUO",
       "codename": "TE45B3G",
       "model": "PSP3459DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3468DUO",
       "codename": "TE45B7G",
       "model": "PSP3468DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3502DUO",
       "codename": "PSP3502DUO",
       "model": "PSP3502DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3503DUO",
       "codename": "PSP3503DUO",
       "model": "PSP3503DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3504DUO",
       "codename": "PSP3504DUO",
       "model": "PSP3504DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3505DUO",
       "codename": "PSP3503DUO",
       "model": "PSP3505DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3506DUO",
       "codename": "TE50B2G",
       "model": "PSP3506DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3507DUO",
       "codename": "TE50B2G",
       "model": "PSP3507DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3508DUO",
       "codename": "TE50B4G",
       "model": "PSP3508DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3510DUO",
       "codename": "DTE50B8L",
       "model": "PSP3510DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3511DUO",
       "codename": "DTE50B8L",
       "model": "PSP3511DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3512",
       "codename": "DTE50B8L",
       "model": "PSP3512DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3516DUO",
       "codename": "TE50B2G",
       "model": "PSP3516DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3517DUO",
       "codename": "TE50B2G",
       "model": "PSP3517DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3518DUO",
       "codename": "TE50B4G",
       "model": "PSP3518DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3527DUO",
       "codename": "TE50B6G",
       "model": "PSP3527DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3528DUO",
       "codename": "IM50B1G",
       "model": "PSP3528DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3530DUO",
       "codename": "DW53B01G",
       "model": "PSP3530DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3531DUO",
       "codename": "DW53B01G",
       "model": "PSP3531DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3533DUO",
       "codename": "DW53B6G",
       "model": "PSP3533DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3537DUO",
       "codename": "GF50B2G",
       "model": "PSP3537DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3551",
       "codename": "DTE50B8L",
       "model": "PSP3551DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP3552DUO",
       "codename": "TE55B9G",
       "model": "PSP3552DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5047DUO",
       "codename": "MT6589",
       "model": "PSP5047DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5307DUO",
       "codename": "PSP5307DUO",
       "model": "PSP5307DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5454DUO",
       "codename": "PSP5454DUO",
       "model": "PSP5454DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5457DUO",
       "codename": "MT6572",
       "model": "PSP5457DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5502DUO",
       "codename": "TE50B3G",
       "model": "PSP5502DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5506DUO",
       "codename": "DW50A03G",
       "model": "PSP5506DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5507DUO",
       "codename": "PSP5507DUO",
       "model": "PSP5507DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5509DUO",
       "codename": "TE50B4L",
       "model": "PSP5509DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5512DUO",
       "codename": "TE50B3G",
       "model": "PSP5512DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5516DUO",
       "codename": "DW50A03G",
       "model": "PSP5516DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5519DUO",
       "codename": "TE50B4L",
       "model": "PSP5519DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5530DUO",
       "codename": "DW53B4G",
       "model": "PSP5530DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5531",
       "codename": "DW53B4G",
       "model": "PSP5531DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5550DUO",
       "codename": "PSP5550DUO",
       "model": "PSP5550DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5551DUO",
       "codename": "DW55B02L",
       "model": "PSP5551DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP5552DUO",
       "codename": "UE55B1L",
       "model": "PSP5552DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP7501DUO",
       "codename": "DW50B5G",
       "model": "PSP7501DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP7511DUO",
       "codename": "DW50B5G",
       "model": "PSP7511DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP7530DUO",
       "codename": "DW53B3G",
       "model": "PSP7530DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP7550DUO",
       "codename": "DW55B8L",
       "model": "PSP7550DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP7551DUO",
       "codename": "DW55B8L",
       "model": "PSP7551DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "PSP7552DUO",
       "codename": "DW55B8L",
       "model": "PSP7552DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "WIZE A3",
       "codename": "PSP3453DUO",
       "model": "PSP3453DUO"
     },
     {
+      "manufacturer": "",
       "market_name": "Wize 3131 3G",
       "codename": "LS10A3G",
       "model": "PMT3131_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "Wize 3147 3G",
       "codename": "LS70A2G",
       "model": "PMT3147_3G"
     },
     {
+      "manufacturer": "",
       "market_name": "Wize 3401 3G",
       "codename": "JU10A3G",
       "model": "PMT3401_3G"

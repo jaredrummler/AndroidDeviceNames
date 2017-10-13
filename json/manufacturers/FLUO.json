@@ -2,11 +2,13 @@
   "manufacturer": "Fluo",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "F",
       "codename": "F",
       "model": "F"
     },
     {
+      "manufacturer": "",
       "market_name": "F Plus",
       "codename": "F_Plus",
       "model": "F_Plus"

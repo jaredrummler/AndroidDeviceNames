@@ -330,6 +330,12 @@
     "model": "A08S"
   },
   {
+    "manufacturer": "Accent",
+    "market_name": "SPEED S8",
+    "codename": "SPEED_S8",
+    "model": "SPEED_S8"
+  },
+  {
     "manufacturer": "Acer",
     "market_name": "",
     "codename": "C6",
@@ -499,6 +505,12 @@
   },
   {
     "manufacturer": "Acer",
+    "market_name": "Acer Holo360",
+    "codename": "acer_c01",
+    "model": "C01"
+  },
+  {
+    "manufacturer": "Acer",
     "market_name": "Aspire A3",
     "codename": "aa3-600",
     "model": "AA3-600"
@@ -613,6 +625,12 @@
   },
   {
     "manufacturer": "Acer",
+    "market_name": "Chromebook 15 CB515-1HT/1H",
+    "codename": "sand_cheets",
+    "model": "sand"
+  },
+  {
+    "manufacturer": "Acer",
     "market_name": "Chromebook R11 (C738T)",
     "codename": "cyan_cheets",
     "model": "Acer Chromebook R11"
@@ -718,6 +736,12 @@
     "market_name": "Icona One 7",
     "codename": "vespa",
     "model": "B1-730HD"
+  },
+  {
+    "manufacturer": "Acer",
+    "market_name": "Iconia One 10",
+    "codename": "acer_jetfirelte",
+    "model": "B3-A32"
   },
   {
     "manufacturer": "Acer",
@@ -1417,6 +1441,12 @@
   },
   {
     "manufacturer": "Advan digital",
+    "market_name": "I Tab",
+    "codename": "ADVAN_i_Tab",
+    "model": "i7_Plus"
+  },
+  {
+    "manufacturer": "Advan digital",
     "market_name": "I55A",
     "codename": "I55A",
     "model": "I55A"
@@ -1594,6 +1624,12 @@
     "market_name": "Z9",
     "codename": "AIWA_Z9",
     "model": "Z9"
+  },
+  {
+    "manufacturer": "Aiwa",
+    "market_name": "Z9 PLUS",
+    "codename": "AIWA_Z9_PLUS",
+    "model": "Z9 PLUS"
   },
   {
     "manufacturer": "Alba",
@@ -2320,6 +2356,12 @@
     "market_name": "X4 Soul Style",
     "codename": "X4_Soul_Style",
     "model": "X4_Soul_Style"
+  },
+  {
+    "manufacturer": "AllView",
+    "market_name": "X4 Soul Vision",
+    "codename": "X4_Soul_Vision",
+    "model": "X4_Soul_Vision"
   },
   {
     "manufacturer": "AllView",
@@ -4645,6 +4687,12 @@
   },
   {
     "manufacturer": "Asus",
+    "market_name": "ASUS Chromebook Flip C302",
+    "codename": "cave_cheets",
+    "model": "ASUS Chromebook Flip C302"
+  },
+  {
+    "manufacturer": "Asus",
     "market_name": "ASUS Live (G500TG)",
     "codename": "ASUS_Z00YD",
     "model": "ASUS_Z00YD"
@@ -5737,6 +5785,12 @@
   },
   {
     "manufacturer": "Asus",
+    "market_name": "ZenFone 4 Max",
+    "codename": "ASUS_X00HD_4",
+    "model": "ASUS_X00HD"
+  },
+  {
+    "manufacturer": "Asus",
     "market_name": "ZenFone 4 Max (ZC554KL)",
     "codename": "ASUS_X00ID",
     "model": "ASUS_X00ID"
@@ -6295,6 +6349,12 @@
   },
   {
     "manufacturer": "Asus",
+    "market_name": "Zenbo Qrobot",
+    "codename": "ASUS_ZENBO",
+    "model": "Zenbo"
+  },
+  {
+    "manufacturer": "Asus",
     "market_name": "Zenfone 4V (V520KL)",
     "codename": "ASUS_A006",
     "model": "ASUS_A006"
@@ -6786,6 +6846,18 @@
     "model": "STB9097"
   },
   {
+    "manufacturer": "Avvio",
+    "market_name": "Avvio PRO450",
+    "codename": "Avvio_Pro450",
+    "model": "Avvio_Pro450"
+  },
+  {
+    "manufacturer": "Axioo",
+    "market_name": "Axioo AX4",
+    "codename": "Axioo_AX4",
+    "model": "Axioo_AX4"
+  },
+  {
     "manufacturer": "Azumi",
     "market_name": "A40 Style Plus",
     "codename": "A40_Style_Plus",
@@ -6817,6 +6889,12 @@
   },
   {
     "manufacturer": "Azumi",
+    "market_name": "AZUMI_Daburu_A55O",
+    "codename": "Daburu_A55O",
+    "model": "Azumi_Daburu_A55O"
+  },
+  {
+    "manufacturer": "Azumi",
     "market_name": "Azumi_Extend_Akaru_55_QL",
     "codename": "Extend_Akaru_55_QL",
     "model": "Azumi Extend Akaru 55 QL"
@@ -6826,6 +6904,18 @@
     "market_name": "Azumi_KIREI_A45_D",
     "codename": "KIREI_A45_D",
     "model": "Azumi_KIREI_A45_D"
+  },
+  {
+    "manufacturer": "Azumi",
+    "market_name": "Azumi_KIREI_A4_D",
+    "codename": "KIREI_A4_D",
+    "model": "Azumi_KIREI_A4_D"
+  },
+  {
+    "manufacturer": "Azumi",
+    "market_name": "Azumi_KIREI_A5_D",
+    "codename": "KIREI_A5_D",
+    "model": "Azumi_KIREI_A5_D"
   },
   {
     "manufacturer": "Azumi",
@@ -6910,6 +7000,12 @@
     "market_name": "IRO_A4_Q_Pro",
     "codename": "IRO_A4_Q_PRO",
     "model": "Azumi_IRO_A4_Q_PRO"
+  },
+  {
+    "manufacturer": "Azumi",
+    "market_name": "IRO_A55_Q_Pro",
+    "codename": "IRO_A55_Q_Pro",
+    "model": "Azumi IRO A55 Q Pro"
   },
   {
     "manufacturer": "Azumi",
@@ -7218,6 +7314,12 @@
     "model": "Bmobile_AX921"
   },
   {
+    "manufacturer": "BMobile",
+    "market_name": "AX922",
+    "codename": "Bmobile_AX922",
+    "model": "AX922"
+  },
+  {
     "manufacturer": "BQru",
     "market_name": "5060",
     "codename": "BQru-5060",
@@ -7252,6 +7354,12 @@
     "market_name": "BQ-5000L",
     "codename": "BQru-5000",
     "model": "BQru-5000"
+  },
+  {
+    "manufacturer": "BQru",
+    "market_name": "BQ-5033 Shark",
+    "codename": "BQru_5033",
+    "model": "BQru-5033"
   },
   {
     "manufacturer": "BQru",
@@ -8008,6 +8116,24 @@
     "market_name": "Aurora",
     "codename": "bbc100",
     "model": "BBC100-1"
+  },
+  {
+    "manufacturer": "BlackBerry",
+    "market_name": "BlackBerry MOTION",
+    "codename": "bbd100",
+    "model": "BBD100-1"
+  },
+  {
+    "manufacturer": "BlackBerry",
+    "market_name": "BlackBerry MOTION",
+    "codename": "bbd100",
+    "model": "BBD100-2"
+  },
+  {
+    "manufacturer": "BlackBerry",
+    "market_name": "BlackBerry MOTION",
+    "codename": "bbd100",
+    "model": "BBD100-6"
   },
   {
     "manufacturer": "BlackBerry",
@@ -9073,6 +9199,12 @@
   },
   {
     "manufacturer": "Bullitt Group",
+    "market_name": "CatS31",
+    "codename": "CatS31",
+    "model": "S31"
+  },
+  {
+    "manufacturer": "Bullitt Group",
     "market_name": "S30",
     "codename": "CatS30",
     "model": "S30"
@@ -9222,7 +9354,7 @@
     "model": "CHN-UCAN MJ"
   },
   {
-    "manufacturer": "CJ HelloVision",
+    "manufacturer": "CJHelloVision",
     "market_name": "Hello TV Smart",
     "codename": "SX930C_CJ",
     "model": "SX930C_CJ"
@@ -9240,10 +9372,10 @@
     "model": "M811"
   },
   {
-    "manufacturer": "COMIO",
-    "market_name": "AD7003",
-    "codename": "AD7003",
-    "model": "AD7003"
+    "manufacturer": "CX Argentina",
+    "market_name": "CX9011",
+    "codename": "CX9011",
+    "model": "CX9011"
   },
   {
     "manufacturer": "CZ Electronics",
@@ -9316,6 +9448,12 @@
     "market_name": "PHS-601",
     "codename": "phs601",
     "model": "PHS-601"
+  },
+  {
+    "manufacturer": "Captiva",
+    "market_name": "CAPTIVA Pad 10 3G Plus",
+    "codename": "Pad_10_3G_Plus",
+    "model": "Captiva Pad 10 3G Plus"
   },
   {
     "manufacturer": "Carrefour",
@@ -9949,6 +10087,18 @@
   },
   {
     "manufacturer": "Cherry Mobile",
+    "market_name": "Flare_J3_Lite",
+    "codename": "Flare_J3_Lite",
+    "model": "Flare_J3_Lite"
+  },
+  {
+    "manufacturer": "Cherry Mobile",
+    "market_name": "Flare_S6_Lite",
+    "codename": "Flare_S6_Lite",
+    "model": "Flare_S6_Lite"
+  },
+  {
+    "manufacturer": "Cherry Mobile",
     "market_name": "H220",
     "codename": "ctih220_sprout",
     "model": "H220"
@@ -10303,9 +10453,27 @@
   },
   {
     "manufacturer": "CloudFone",
+    "market_name": "Thrill Plus 2",
+    "codename": "Thrill_Plus_2",
+    "model": "Thrill Plus 2"
+  },
+  {
+    "manufacturer": "CloudFone",
     "market_name": "Thrill Power N",
     "codename": "Thrill_Power_N",
     "model": "Thrill Power N"
+  },
+  {
+    "manufacturer": "CloudFone",
+    "market_name": "Thrill Snap",
+    "codename": "Thrill_Snap",
+    "model": "Thrill Snap"
+  },
+  {
+    "manufacturer": "CloudFone",
+    "market_name": "Thrill View",
+    "codename": "Thrill_View",
+    "model": "Thrill View"
   },
   {
     "manufacturer": "Code",
@@ -10324,6 +10492,18 @@
     "market_name": "P45",
     "codename": "Colors_P45",
     "model": "Colors P45"
+  },
+  {
+    "manufacturer": "Comio",
+    "market_name": "AD7003",
+    "codename": "AD7003",
+    "model": "AD7003"
+  },
+  {
+    "manufacturer": "Comio",
+    "market_name": "COMIO C2",
+    "codename": "ComioC2",
+    "model": "COMIO C2"
   },
   {
     "manufacturer": "Comio",
@@ -12241,6 +12421,12 @@
   },
   {
     "manufacturer": "DEXP",
+    "market_name": "ES850",
+    "codename": "ES850",
+    "model": "Ixion ES850"
+  },
+  {
+    "manufacturer": "DEXP",
     "market_name": "Ixion ML350",
     "codename": "ML350",
     "model": "Ixion ML350"
@@ -12268,6 +12454,12 @@
     "market_name": "ML245",
     "codename": "ML245",
     "model": "Ixion ML245"
+  },
+  {
+    "manufacturer": "DEXP",
+    "market_name": "MS650",
+    "codename": "MS650",
+    "model": "MS650"
   },
   {
     "manufacturer": "DEXP",
@@ -12721,6 +12913,12 @@
   },
   {
     "manufacturer": "DigiLand",
+    "market_name": "DL721RB",
+    "codename": "DL721-RB",
+    "model": "DL721-RB"
+  },
+  {
+    "manufacturer": "DigiLand",
     "market_name": "DL785D",
     "codename": "DL785D",
     "model": "PLT7803G"
@@ -12847,6 +13045,24 @@
   },
   {
     "manufacturer": "Digma",
+    "market_name": "DIGMA CITI 1544 3G CS1154MG",
+    "codename": "CS1154MG",
+    "model": "CITI_1544_3G_CS1154MG"
+  },
+  {
+    "manufacturer": "Digma",
+    "market_name": "DIGMA CITI 7543 3G CS7153MG",
+    "codename": "CS7153MG",
+    "model": "CITI_7543_3G_CS7153MG"
+  },
+  {
+    "manufacturer": "Digma",
+    "market_name": "DIGMA HIT Q500 3G HT5035PG",
+    "codename": "HT5035PG",
+    "model": "HIT Q500 3G HT5035PG"
+  },
+  {
+    "manufacturer": "Digma",
     "market_name": "DIGMA Optima Prime 3 3G TS7131MG",
     "codename": "TS7131MG",
     "model": "Optima_Prime_3_3G_TS7131MG"
@@ -12859,9 +13075,21 @@
   },
   {
     "manufacturer": "Digma",
+    "market_name": "DIGMA Plane 1537E 3G PS1149MG",
+    "codename": "PS1149MG",
+    "model": "Plane_1537E_3G_PS1149MG"
+  },
+  {
+    "manufacturer": "Digma",
     "market_name": "DIGMA Plane 1550S 3G PS1163MG",
     "codename": "PS1163MG",
     "model": "Plane_1550S_3G_PS1163MG"
+  },
+  {
+    "manufacturer": "Digma",
+    "market_name": "DIGMA Plane 1551S 4G PS1164ML",
+    "codename": "PS1164ML",
+    "model": "Plane_1551S_4G_PS1164ML"
   },
   {
     "manufacturer": "Digma",
@@ -12892,6 +13120,36 @@
     "market_name": "LINX A452 3G",
     "codename": "LT4030PG",
     "model": "LINX A452 3G LT4030PG"
+  },
+  {
+    "manufacturer": "Digma",
+    "market_name": "Plane 7546S 3G",
+    "codename": "PS7158PG",
+    "model": "Plane_7546S_3G_PS7158PG"
+  },
+  {
+    "manufacturer": "Digma",
+    "market_name": "Plane 7547S 3G",
+    "codename": "PS7159PG",
+    "model": "Plane_7547S_3G_PS7159PG"
+  },
+  {
+    "manufacturer": "Digma",
+    "market_name": "Plane_7548S_4G_PS7160PL",
+    "codename": "PS7160PL",
+    "model": "Plane_7548S_4G_PS7160PL"
+  },
+  {
+    "manufacturer": "Digma",
+    "market_name": "Plane_8548S_3G",
+    "codename": "PS8161PG",
+    "model": "Plane_8548S_3G_PS8161PG"
+  },
+  {
+    "manufacturer": "Digma",
+    "market_name": "Plane_8549S_4G",
+    "codename": "PS8162PL",
+    "model": "Plane_8549S_4G_PS8162PL"
   },
   {
     "manufacturer": "Digma",
@@ -12958,6 +13216,18 @@
     "market_name": "X10",
     "codename": "doogee-X10",
     "model": "DOOGEE X10"
+  },
+  {
+    "manufacturer": "Doogee",
+    "market_name": "X20L",
+    "codename": "X20L",
+    "model": "X20L"
+  },
+  {
+    "manufacturer": "Doogee",
+    "market_name": "X30",
+    "codename": "X30",
+    "model": "X30"
   },
   {
     "manufacturer": "Doogee",
@@ -13030,6 +13300,18 @@
     "market_name": "shoot 2",
     "codename": "t591_dga57_we",
     "model": "Shoot_2"
+  },
+  {
+    "manufacturer": "Doopro",
+    "market_name": "P2",
+    "codename": "br6580_weg_n",
+    "model": "P2"
+  },
+  {
+    "manufacturer": "Doopro",
+    "market_name": "P2_Pro",
+    "codename": "P2_Pro",
+    "model": "P2_Pro"
   },
   {
     "manufacturer": "Dopo",
@@ -13615,6 +13897,12 @@
   },
   {
     "manufacturer": "Ematic",
+    "market_name": "EGQ235SK",
+    "codename": "EGQ235SK",
+    "model": "EGQ235SK"
+  },
+  {
+    "manufacturer": "Ematic",
     "market_name": "EGQ307",
     "codename": "EGQ307",
     "model": "EGQ307"
@@ -13981,6 +14269,24 @@
   },
   {
     "manufacturer": "EssentielB",
+    "market_name": "Black Diamond",
+    "codename": "bird77_a_cu_ics2",
+    "model": "Essentielb-Black Diamond"
+  },
+  {
+    "manufacturer": "EssentielB",
+    "market_name": "Pyxis",
+    "codename": "pyxis_boulanger",
+    "model": "Essentielb-Pixis"
+  },
+  {
+    "manufacturer": "EssentielB",
+    "market_name": "ST7001 Tablet",
+    "codename": "ST7001",
+    "model": "ST7001"
+  },
+  {
+    "manufacturer": "EssentielB",
     "market_name": "Smart\\\u0027TAB 7800",
     "codename": "fiber-785q6",
     "model": "Smart\\\u0027Tab_7800"
@@ -14059,6 +14365,12 @@
   },
   {
     "manufacturer": "Evercoss",
+    "market_name": "A75B",
+    "codename": "EVERCOSS_A75B",
+    "model": "A75B"
+  },
+  {
+    "manufacturer": "Evercoss",
     "market_name": "One X",
     "codename": "A65_sprout",
     "model": "EVERCOSS A65"
@@ -14077,6 +14389,12 @@
   },
   {
     "manufacturer": "Evercoss",
+    "market_name": "R5C",
+    "codename": "R5C",
+    "model": "R5C"
+  },
+  {
+    "manufacturer": "Evercoss",
     "market_name": "R6",
     "codename": "R6",
     "model": "R6"
@@ -14086,6 +14404,12 @@
     "market_name": "R70A",
     "codename": "R70A",
     "model": "R70A"
+  },
+  {
+    "manufacturer": "Evercoss",
+    "market_name": "S50",
+    "codename": "EVERCOSS_S50",
+    "model": "S50"
   },
   {
     "manufacturer": "Evercoss",
@@ -14134,12 +14458,6 @@
     "market_name": "E701",
     "codename": "E701",
     "model": "E701"
-  },
-  {
-    "manufacturer": "EveryPad2",
-    "market_name": "Lenovo",
-    "codename": "A3500F",
-    "model": "EveryPad2"
   },
   {
     "manufacturer": "Eviant",
@@ -15115,25 +15433,31 @@
   },
   {
     "manufacturer": "Fossil",
+    "market_name": "Misfit Vapor",
+    "codename": "mullet",
+    "model": "Vapor"
+  },
+  {
+    "manufacturer": "Fossil",
     "market_name": "Q Founder",
     "codename": "grant",
     "model": "Q Founder"
   },
   {
     "manufacturer": "Fossil",
-    "market_name": "Q Wander / Q Founder / Bradshaw / Dylan",
+    "market_name": "Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan",
     "codename": "gar",
     "model": "Bradshaw"
   },
   {
     "manufacturer": "Fossil",
-    "market_name": "Q Wander / Q Founder / Bradshaw / Dylan",
+    "market_name": "Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan",
     "codename": "gar",
     "model": "Q Marshal"
   },
   {
     "manufacturer": "Fossil",
-    "market_name": "Q Wander / Q Founder / Bradshaw / Dylan",
+    "market_name": "Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan",
     "codename": "gar",
     "model": "Q Wander"
   },
@@ -16104,12 +16428,6 @@
     "model": "TA80CA1"
   },
   {
-    "manufacturer": "GENERAL MOBILE",
-    "market_name": "E-tab 4",
-    "codename": "mehmet",
-    "model": "e-tab4"
-  },
-  {
     "manufacturer": "GSmart",
     "market_name": "Akta A4",
     "codename": "Akta_A4",
@@ -16378,6 +16696,12 @@
     "market_name": "Discovery II Mini",
     "codename": "Discovery_II_Mini",
     "model": "Discovery II Mini"
+  },
+  {
+    "manufacturer": "General Mobile",
+    "market_name": "E-tab 4",
+    "codename": "mehmet",
+    "model": "e-tab4"
   },
   {
     "manufacturer": "General Mobile",
@@ -16861,6 +17185,12 @@
   },
   {
     "manufacturer": "Ginzzu",
+    "market_name": "GT-1045",
+    "codename": "GT-1045",
+    "model": "GT-1045"
+  },
+  {
+    "manufacturer": "Ginzzu",
     "market_name": "GT-1050",
     "codename": "GT-1050",
     "model": "Ginzzu GT-1050"
@@ -16900,6 +17230,24 @@
     "market_name": "GT-8110",
     "codename": "GT-8110",
     "model": "Ginzzu GT-8110"
+  },
+  {
+    "manufacturer": "Ginzzu",
+    "market_name": "S5002",
+    "codename": "S5002",
+    "model": "S5002"
+  },
+  {
+    "manufacturer": "Ginzzu",
+    "market_name": "S5021",
+    "codename": "S5021",
+    "model": "S5021"
+  },
+  {
+    "manufacturer": "Ginzzu",
+    "market_name": "S5230",
+    "codename": "S5230",
+    "model": "S5230"
   },
   {
     "manufacturer": "Ginzzu",
@@ -17461,7 +17809,7 @@
   },
   {
     "manufacturer": "Gionee",
-    "market_name": "S10C",
+    "market_name": "S10CL",
     "codename": "GIONEE_SW17G02",
     "model": "GIONEE S10CL"
   },
@@ -17653,6 +18001,18 @@
   },
   {
     "manufacturer": "Google",
+    "market_name": "Pixel 2",
+    "codename": "walleye",
+    "model": "Pixel 2"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "Pixel 2 XL",
+    "codename": "taimen",
+    "model": "Pixel 2 XL"
+  },
+  {
+    "manufacturer": "Google",
     "market_name": "Pixel C",
     "codename": "dragon",
     "model": "Pixel C"
@@ -17686,6 +18046,12 @@
     "market_name": "iphone C600",
     "codename": "bravo",
     "model": "iphone C600"
+  },
+  {
+    "manufacturer": "Greatwall",
+    "market_name": "T709GW",
+    "codename": "T709GW",
+    "model": "Great Wall T709"
   },
   {
     "manufacturer": "Grundig",
@@ -17830,12 +18196,6 @@
     "market_name": "GUESS Connect",
     "codename": "glowlight",
     "model": "GUESS Connect"
-  },
-  {
-    "manufacturer": "HIsense",
-    "market_name": "HS-EG916",
-    "codename": "EG916",
-    "model": "HS-EG916"
   },
   {
     "manufacturer": "HKC",
@@ -22003,6 +22363,12 @@
   },
   {
     "manufacturer": "Haier",
+    "market_name": "A36C5H",
+    "codename": "A36C5H",
+    "model": "Andromax A36C5H"
+  },
+  {
+    "manufacturer": "Haier",
     "market_name": "A42P",
     "codename": "A42P",
     "model": "Haier A42P"
@@ -22192,6 +22558,12 @@
     "market_name": "G700",
     "codename": "G700",
     "model": "G700"
+  },
+  {
+    "manufacturer": "Haier",
+    "market_name": "G7s",
+    "codename": "G7s",
+    "model": "G7s"
   },
   {
     "manufacturer": "Haier",
@@ -22692,6 +23064,12 @@
     "model": "LMC-1000"
   },
   {
+    "manufacturer": "Harris",
+    "market_name": "RF-3590-RT",
+    "codename": "msm8660_cougar",
+    "model": "Harris 12131-1000"
+  },
+  {
     "manufacturer": "Helio",
     "market_name": "S10",
     "codename": "S10",
@@ -22723,6 +23101,24 @@
   },
   {
     "manufacturer": "HighScreen",
+    "market_name": "Easy Power Pro",
+    "codename": "Easy-Power-Pro",
+    "model": "Easy-Power-Pro"
+  },
+  {
+    "manufacturer": "HighScreen",
+    "market_name": "Easy XL",
+    "codename": "Easy_XL",
+    "model": "Easy_XL"
+  },
+  {
+    "manufacturer": "HighScreen",
+    "market_name": "Easy XL Pro",
+    "codename": "Easy_XL_Pro",
+    "model": "Easy_XL_Pro"
+  },
+  {
+    "manufacturer": "HighScreen",
     "market_name": "Fest XL",
     "codename": "FestXL",
     "model": "FestXL"
@@ -22750,6 +23146,12 @@
     "market_name": "Power Ice",
     "codename": "BBL7353RV",
     "model": "Power Ice"
+  },
+  {
+    "manufacturer": "HighScreen",
+    "market_name": "Power Ice EVO",
+    "codename": "PowerIceEvo",
+    "model": "Power Ice Evo"
   },
   {
     "manufacturer": "HighScreen",
@@ -23962,6 +24364,12 @@
     "market_name": "HS-E968",
     "codename": "E968",
     "model": "HS-E968"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "HS-EG916",
+    "codename": "EG916",
+    "model": "HS-EG916"
   },
   {
     "manufacturer": "Hisense",
@@ -25249,6 +25657,12 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "LT610",
+    "codename": "LT610",
+    "model": "LT610"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "M10-M",
     "codename": "HS9830SP",
     "model": "Hisense M10-M"
@@ -25783,6 +26197,12 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "W2",
+    "codename": "EG606_YE",
+    "model": "W2"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "W270BD",
     "codename": "W270BD",
     "model": "W270BD"
@@ -25864,6 +26284,12 @@
     "market_name": "l830",
     "codename": "HS8937QC",
     "model": "STARXTREM 6"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "lt971",
+    "codename": "LT971",
+    "model": "LT971"
   },
   {
     "manufacturer": "Hisense",
@@ -29545,6 +29971,12 @@
   },
   {
     "manufacturer": "Huawei",
+    "market_name": "Huawei Nova 2",
+    "codename": "HWPIC",
+    "model": "PIC-LX9"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "IDEOS",
     "codename": "U8150",
     "model": "Comet"
@@ -29710,6 +30142,12 @@
     "market_name": "M868",
     "codename": "hwm868",
     "model": "HUAWEI M868"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "MAIMANG 6",
+    "codename": "HWRNE",
+    "model": "RNE-AL00"
   },
   {
     "manufacturer": "Huawei",
@@ -32971,6 +33409,18 @@
   },
   {
     "manufacturer": "Huawei",
+    "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa96",
+    "codename": "HWMYA-L6737",
+    "model": "MYA-AL10"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa96",
+    "codename": "HWMYA-L6737",
+    "model": "MYA-TL10"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa96A",
     "codename": "HWDLI-Q",
     "model": "DLI-AL10"
@@ -33223,6 +33673,12 @@
   },
   {
     "manufacturer": "Hyundai",
+    "market_name": "Eternity G24",
+    "codename": "G25524K",
+    "model": "G25524K"
+  },
+  {
+    "manufacturer": "Hyundai",
     "market_name": "Eternity G27",
     "codename": "G24027K",
     "model": "G24027K"
@@ -33424,6 +33880,18 @@
     "market_name": "N1",
     "codename": "IUNI_N1",
     "model": "IUNI N1"
+  },
+  {
+    "manufacturer": "IUSA",
+    "market_name": "TR10CS1",
+    "codename": "TR10CS1_7",
+    "model": "TR10CS1"
+  },
+  {
+    "manufacturer": "IUSA",
+    "market_name": "TR10CS1",
+    "codename": "TR10CS1_8",
+    "model": "TR10CS1"
   },
   {
     "manufacturer": "IView",
@@ -33655,6 +34123,12 @@
   },
   {
     "manufacturer": "Infinix",
+    "market_name": "HOT5 Lite",
+    "codename": "Infinix-X559",
+    "model": "Infinix X559"
+  },
+  {
+    "manufacturer": "Infinix",
     "market_name": "Infinix",
     "codename": "Infinix_X510_sprout",
     "model": "Infinix X510"
@@ -33706,6 +34180,24 @@
     "market_name": "NOTE 3 Pro",
     "codename": "X601-LTE",
     "model": "Infinix_X601_LTE"
+  },
+  {
+    "manufacturer": "Infinix",
+    "market_name": "NOTE 4",
+    "codename": "Infinix-X572",
+    "model": "Infinix X572"
+  },
+  {
+    "manufacturer": "Infinix",
+    "market_name": "NOTE 4",
+    "codename": "Infinix-X572",
+    "model": "Infinix X572-LTE"
+  },
+  {
+    "manufacturer": "Infinix",
+    "market_name": "NOTE 4 Pro",
+    "codename": "Infinix-X571",
+    "model": "Infinix X571"
   },
   {
     "manufacturer": "Infinix",
@@ -34867,6 +35359,18 @@
   },
   {
     "manufacturer": "Intex",
+    "market_name": "INTEX AQUA LIONS X1",
+    "codename": "AQUA_LIONS_X1",
+    "model": "INTEX AQUA LIONS X1"
+  },
+  {
+    "manufacturer": "Intex",
+    "market_name": "INTEX AQUA LIONS X1+",
+    "codename": "AQUA_LIONS_X1_PLUS",
+    "model": "INTEX AQUA LIONS X1+"
+  },
+  {
+    "manufacturer": "Intex",
     "market_name": "INTEX AQUA NOTE 5.5",
     "codename": "AQUA_NOTE_5_5",
     "model": "INTEX AQUA NOTE 5.5"
@@ -34903,6 +35407,30 @@
   },
   {
     "manufacturer": "Irbis",
+    "market_name": "IRBIS TZ178",
+    "codename": "TZ178",
+    "model": "TZ178"
+  },
+  {
+    "manufacturer": "Irbis",
+    "market_name": "IRBIS TZ737",
+    "codename": "TZ737",
+    "model": "TZ737"
+  },
+  {
+    "manufacturer": "Irbis",
+    "market_name": "IRBIS TZ747",
+    "codename": "TZ747",
+    "model": "TZ747"
+  },
+  {
+    "manufacturer": "Irbis",
+    "market_name": "IRBIS TZ752",
+    "codename": "TZ752",
+    "model": "TZ752"
+  },
+  {
+    "manufacturer": "Irbis",
     "market_name": "SP454",
     "codename": "SP454",
     "model": "SP454"
@@ -34933,9 +35461,21 @@
   },
   {
     "manufacturer": "Irbis",
+    "market_name": "TZ177",
+    "codename": "TZ177",
+    "model": "TZ177"
+  },
+  {
+    "manufacturer": "Irbis",
     "market_name": "TZ55",
     "codename": "TZ55",
     "model": "TZ55"
+  },
+  {
+    "manufacturer": "Irbis",
+    "market_name": "TZ720",
+    "codename": "TZ720",
+    "model": "TZ720"
   },
   {
     "manufacturer": "Irbis",
@@ -34945,15 +35485,39 @@
   },
   {
     "manufacturer": "Irbis",
+    "market_name": "TZ831",
+    "codename": "TZ831",
+    "model": "TZ831"
+  },
+  {
+    "manufacturer": "Irbis",
+    "market_name": "TZ841",
+    "codename": "TZ841",
+    "model": "TZ841"
+  },
+  {
+    "manufacturer": "Irbis",
     "market_name": "TZ877",
     "codename": "TZ877",
     "model": "TZ877"
   },
   {
     "manufacturer": "Irbis",
+    "market_name": "TZ885",
+    "codename": "TZ885",
+    "model": "TZ885"
+  },
+  {
+    "manufacturer": "Irbis",
     "market_name": "TZ890",
     "codename": "TZ890",
     "model": "TZ890"
+  },
+  {
+    "manufacturer": "Irbis",
+    "market_name": "TZ960",
+    "codename": "TZ960",
+    "model": "TZ960"
   },
   {
     "manufacturer": "Itel",
@@ -34993,6 +35557,12 @@
   },
   {
     "manufacturer": "Itel",
+    "market_name": "A43",
+    "codename": "itel-A43",
+    "model": "itel A43"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "A51",
     "codename": "itel_A51",
     "model": "itel A51"
@@ -35011,9 +35581,21 @@
   },
   {
     "manufacturer": "Itel",
+    "market_name": "P31",
+    "codename": "itel-P31",
+    "model": "itel P31"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "P51",
     "codename": "P51",
     "model": "itel P51"
+  },
+  {
+    "manufacturer": "Itel",
+    "market_name": "Prime 4",
+    "codename": "itel_Prime4",
+    "model": "itel Prime 4"
   },
   {
     "manufacturer": "Itel",
@@ -35032,6 +35614,12 @@
     "market_name": "S11 Plus",
     "codename": "S11Plus",
     "model": "itel S11Plus"
+  },
+  {
+    "manufacturer": "Itel",
+    "market_name": "S21",
+    "codename": "itel-S21",
+    "model": "itel S21"
   },
   {
     "manufacturer": "Itel",
@@ -35239,15 +35827,33 @@
   },
   {
     "manufacturer": "Itel",
+    "market_name": "itel A20",
+    "codename": "itel-A20",
+    "model": "itel A20"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "itel A31",
     "codename": "itel_A31",
     "model": "itel A31"
   },
   {
     "manufacturer": "Itel",
+    "market_name": "itel A40",
+    "codename": "itel-A40",
+    "model": "itel A40"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "itel A41",
     "codename": "itel_A41",
     "model": "itel A41"
+  },
+  {
+    "manufacturer": "Itel",
+    "market_name": "itel A42 Plus",
+    "codename": "itel-A42Plus",
+    "model": "itel A42 Plus"
   },
   {
     "manufacturer": "Itel",
@@ -35260,6 +35866,12 @@
     "market_name": "itel Prime 4",
     "codename": "itel_Prime4",
     "model": "itel Prime 4"
+  },
+  {
+    "manufacturer": "Itel",
+    "market_name": "itel S12",
+    "codename": "itel-S12",
+    "model": "itel S12"
   },
   {
     "manufacturer": "Itworks",
@@ -35742,18 +36354,6 @@
     "model": "STW2000"
   },
   {
-    "manufacturer": "KLIPAD",
-    "market_name": "KLIPAD_SMART_D71",
-    "codename": "KLIPAD_SMART_D71",
-    "model": "KLIPAD_SMART_D71"
-  },
-  {
-    "manufacturer": "KLIPAD",
-    "market_name": "SMART_D791",
-    "codename": "KLIPAD_SMART_D791",
-    "model": "KLIPAD_SMART_D791"
-  },
-  {
     "manufacturer": "KOOOK",
     "market_name": "C600",
     "codename": "GBC_bravo",
@@ -35876,6 +36476,12 @@
   {
     "manufacturer": "Karbonn",
     "market_name": "Aura Power 4G",
+    "codename": "AuraPower4G",
+    "model": "Aura Power 4G"
+  },
+  {
+    "manufacturer": "Karbonn",
+    "market_name": "Aura Power 4G",
     "codename": "Aura_Power_4G_Plus",
     "model": "Aura Power 4G Plus"
   },
@@ -35929,6 +36535,12 @@
   },
   {
     "manufacturer": "Karbonn",
+    "market_name": "Karbonn K9 Music 4G",
+    "codename": "K9Music4G",
+    "model": "K9 Music 4G"
+  },
+  {
+    "manufacturer": "Karbonn",
     "market_name": "Karbonn Yuva2",
     "codename": "Karbonn_Yuva_2",
     "model": "Karbonn Yuva 2"
@@ -35944,6 +36556,12 @@
     "market_name": "Titanium Jumbo",
     "codename": "Titanium_Jumbo",
     "model": "Titanium Jumbo"
+  },
+  {
+    "manufacturer": "Karbonn",
+    "market_name": "Titanium Jumbo 2",
+    "codename": "Titanium_Jumbo_2",
+    "model": "Titanium Jumbo 2"
   },
   {
     "manufacturer": "Karbonn",
@@ -36013,9 +36631,21 @@
   },
   {
     "manufacturer": "Klipad",
+    "market_name": "KLIPAD_SMART_D71",
+    "codename": "KLIPAD_SMART_D71",
+    "model": "KLIPAD_SMART_D71"
+  },
+  {
+    "manufacturer": "Klipad",
     "market_name": "PRO_I746",
     "codename": "KLIPAD_PRO_I746",
     "model": "KLIPAD_PRO_I746"
+  },
+  {
+    "manufacturer": "Klipad",
+    "market_name": "SMART_D791",
+    "codename": "KLIPAD_SMART_D791",
+    "model": "KLIPAD_SMART_D791"
   },
   {
     "manufacturer": "Klipad",
@@ -36118,6 +36748,12 @@
     "market_name": "EAGLE 804",
     "codename": "EAGLE_KM0804_1",
     "model": "KM0804_1"
+  },
+  {
+    "manufacturer": "Kruger\u0026Matz",
+    "market_name": "EAGLE 805",
+    "codename": "EAGLE_KM0805_1",
+    "model": "KM0805_1"
   },
   {
     "manufacturer": "Kruger\u0026Matz",
@@ -39663,6 +40299,12 @@
     "manufacturer": "LGE",
     "market_name": "LG G6",
     "codename": "lucye",
+    "model": "LG-H870I"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG G6",
+    "codename": "lucye",
     "model": "LG-H870S"
   },
   {
@@ -41194,6 +41836,18 @@
     "market_name": "LG Q6",
     "codename": "mhn",
     "model": "LG-M700"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Q6",
+    "codename": "mhn",
+    "model": "LG-M703"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG Q6",
+    "codename": "mhn",
+    "model": "LG-US700"
   },
   {
     "manufacturer": "LGE",
@@ -43501,6 +44155,12 @@
   },
   {
     "manufacturer": "LGE",
+    "market_name": "X charge",
+    "codename": "mlv7",
+    "model": "LG-SP320"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "Y25",
     "codename": "y25",
     "model": "LGL15G"
@@ -43576,18 +44236,6 @@
     "market_name": "F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE",
     "codename": "F-7HD2CORE",
     "model": "LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE"
-  },
-  {
-    "manufacturer": "LT",
-    "market_name": "LT610",
-    "codename": "LT610",
-    "model": "LT610"
-  },
-  {
-    "manufacturer": "LT",
-    "market_name": "W2",
-    "codename": "EG606_YE",
-    "model": "W2"
   },
   {
     "manufacturer": "LT Electronics",
@@ -44359,6 +45007,12 @@
   },
   {
     "manufacturer": "Lava",
+    "market_name": "XOLO ERA 3X",
+    "codename": "Era_3X",
+    "model": "era3x"
+  },
+  {
+    "manufacturer": "Lava",
     "market_name": "XOLO LT900",
     "codename": "LT900",
     "model": "LT900"
@@ -44404,6 +45058,30 @@
     "market_name": "Z25",
     "codename": "Z25",
     "model": "Z25"
+  },
+  {
+    "manufacturer": "Lava",
+    "market_name": "Z60",
+    "codename": "Z60",
+    "model": "Z60"
+  },
+  {
+    "manufacturer": "Lava",
+    "market_name": "Z70",
+    "codename": "Z70",
+    "model": "Z70"
+  },
+  {
+    "manufacturer": "Lava",
+    "market_name": "Z80",
+    "codename": "Z80",
+    "model": "Z80"
+  },
+  {
+    "manufacturer": "Lava",
+    "market_name": "Z90",
+    "codename": "Z90",
+    "model": "Z90"
   },
   {
     "manufacturer": "Lava",
@@ -44650,6 +45328,12 @@
     "market_name": "LIVE 4 KM0438",
     "codename": "LIVE4_KM0438",
     "model": "LIVE4_KM0438"
+  },
+  {
+    "manufacturer": "Lechpol",
+    "market_name": "LIVE 4 KM0439",
+    "codename": "LIVE4_KM0439",
+    "model": "KrugerMatz_LIVE4"
   },
   {
     "manufacturer": "Lechpol",
@@ -46408,6 +47092,12 @@
     "market_name": "EveryPad",
     "codename": "A3000",
     "model": "IdeaTab A3000-F"
+  },
+  {
+    "manufacturer": "Lenovo",
+    "market_name": "EveryPad2",
+    "codename": "A3500F",
+    "model": "EveryPad2"
   },
   {
     "manufacturer": "Lenovo",
@@ -49056,18 +49746,6 @@
     "model": "M4 SS4457-R"
   },
   {
-    "manufacturer": "MAD CATZ",
-    "market_name": "M.O.J.O.",
-    "codename": "mojo",
-    "model": "Mad Catz M.O.J.O."
-  },
-  {
-    "manufacturer": "MG Series",
-    "market_name": "Any 302",
-    "codename": "TR10CS1_15",
-    "model": "TR10CS1"
-  },
-  {
     "manufacturer": "MG Series",
     "market_name": "Any 302",
     "codename": "TR10CS2_3",
@@ -49076,7 +49754,19 @@
   {
     "manufacturer": "MG series",
     "market_name": "Any 302",
+    "codename": "TR10CS1_15",
+    "model": "TR10CS1"
+  },
+  {
+    "manufacturer": "MG series",
+    "market_name": "Any 302",
     "codename": "TR10CS2_2",
+    "model": "TR10CS2"
+  },
+  {
+    "manufacturer": "MG series",
+    "market_name": "Any 302",
+    "codename": "TR10CS2_3",
     "model": "TR10CS2"
   },
   {
@@ -49816,18 +50506,6 @@
     "market_name": "MTAB-09541AB",
     "codename": "MTAB-09541AB",
     "model": "MTAB-09541AB"
-  },
-  {
-    "manufacturer": "Mexico SEP tender",
-    "market_name": "TR10CS1",
-    "codename": "TR10CS1_7",
-    "model": "TR10CS1"
-  },
-  {
-    "manufacturer": "Mexico SEP tender",
-    "market_name": "TR10CS1",
-    "codename": "TR10CS1_8",
-    "model": "TR10CS1"
   },
   {
     "manufacturer": "Micromax",
@@ -51120,6 +51798,12 @@
     "model": "YU5050"
   },
   {
+    "manufacturer": "Microtech",
+    "market_name": "e-tab_style_rev.3",
+    "codename": "e-tab_style_REV3",
+    "model": "e-tab_style_REV3"
+  },
+  {
     "manufacturer": "MiiA",
     "market_name": "MT-733G",
     "codename": "MT-733G",
@@ -51379,6 +52063,12 @@
   },
   {
     "manufacturer": "Mobicell",
+    "market_name": "Retro",
+    "codename": "Retro",
+    "model": "Retro"
+  },
+  {
+    "manufacturer": "Mobicell",
     "market_name": "SHIFT",
     "codename": "SHIFT",
     "model": "SHIFT"
@@ -51445,6 +52135,12 @@
   },
   {
     "manufacturer": "MobiiStar",
+    "market_name": "LAI Z1 4G",
+    "codename": "LAI_Z1_4G",
+    "model": "mobiistar LAI Z1 4G"
+  },
+  {
+    "manufacturer": "MobiiStar",
     "market_name": "LAI Z2",
     "codename": "mobiistar_LAI_Z2",
     "model": "mobiistar_LAI_Z2"
@@ -51484,6 +52180,12 @@
     "market_name": "ZUMBO S2",
     "codename": "mobiistar_Zumbo_S2",
     "model": "mobiistar Zumbo S2"
+  },
+  {
+    "manufacturer": "MobiiStar",
+    "market_name": "ZUMBO_S2_Dual",
+    "codename": "ZUMBO_S2_Dual",
+    "model": "mobiistar ZUMBO S2 Dual"
   },
   {
     "manufacturer": "MobileTeleSystem",
@@ -51526,6 +52228,12 @@
     "market_name": "MDB342X",
     "codename": "qnbml",
     "model": "MDB342X"
+  },
+  {
+    "manufacturer": "Mobiola",
+    "market_name": "Gaia",
+    "codename": "MOBIOLA_MS55L1",
+    "model": "MS55L1"
   },
   {
     "manufacturer": "Mobistel",
@@ -53299,6 +54007,18 @@
   },
   {
     "manufacturer": "Motorola",
+    "market_name": "Moto X (4)",
+    "codename": "payton",
+    "model": "XT1789-05"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X (4)",
+    "codename": "payton",
+    "model": "moto x4"
+  },
+  {
+    "manufacturer": "Motorola",
     "market_name": "Moto X Force",
     "codename": "kinzie",
     "model": "XT1580"
@@ -53314,6 +54034,12 @@
     "market_name": "Moto X Force",
     "codename": "kinzie_uds",
     "model": "XT1581"
+  },
+  {
+    "manufacturer": "Motorola",
+    "market_name": "Moto X Play",
+    "codename": "lux",
+    "model": "Moto X Play"
   },
   {
     "manufacturer": "Motorola",
@@ -54289,9 +55015,45 @@
   },
   {
     "manufacturer": "Myria",
+    "market_name": "Cozy MY8302",
+    "codename": "MY8302",
+    "model": "Cozy"
+  },
+  {
+    "manufacturer": "Myria",
     "market_name": "Fancy",
     "codename": "Myria_Fancy",
     "model": "Fancy"
+  },
+  {
+    "manufacturer": "Myria",
+    "market_name": "Myria 4G MY8303",
+    "codename": "MY8303",
+    "model": "4G"
+  },
+  {
+    "manufacturer": "Myria",
+    "market_name": "Myria Giant MY8304",
+    "codename": "MY8304",
+    "model": "Giant"
+  },
+  {
+    "manufacturer": "Myria",
+    "market_name": "Myria Grand 4G",
+    "codename": "Myria_Grand_4G",
+    "model": "Myria_Grand_4G"
+  },
+  {
+    "manufacturer": "Myria",
+    "market_name": "Myria Wide 2",
+    "codename": "Myria_Wide_2",
+    "model": "Myria_Wide_2"
+  },
+  {
+    "manufacturer": "Myria",
+    "market_name": "Myria Wide 4G",
+    "codename": "Myria_Wide_4G",
+    "model": "Myria_Wide_4G"
   },
   {
     "manufacturer": "NASCO",
@@ -54316,12 +55078,6 @@
     "market_name": "NID_7010",
     "codename": "NID_7010",
     "model": "NID_7010"
-  },
-  {
-    "manufacturer": "NCREDIBLE",
-    "market_name": "NV8-HD",
-    "codename": "NV8-HD",
-    "model": "NV8"
   },
   {
     "manufacturer": "NEC",
@@ -55075,6 +55831,12 @@
   },
   {
     "manufacturer": "NYX Mobile",
+    "market_name": "GLAM",
+    "codename": "GLAM",
+    "model": "GLAM"
+  },
+  {
+    "manufacturer": "NYX Mobile",
     "market_name": "HIT",
     "codename": "NYX_HIT",
     "model": "NYX_HIT"
@@ -55084,6 +55846,12 @@
     "market_name": "KiN",
     "codename": "KiN",
     "model": "KiN"
+  },
+  {
+    "manufacturer": "NYX Mobile",
+    "market_name": "NOBA",
+    "codename": "NOBA",
+    "model": "NOBA"
   },
   {
     "manufacturer": "NYX Mobile",
@@ -55174,6 +55942,12 @@
     "market_name": "Nuvola NP-1",
     "codename": "nuvola",
     "model": "Nuvola NP-1"
+  },
+  {
+    "manufacturer": "Navitel",
+    "market_name": "Navitel T700 3G Navi",
+    "codename": "NAVITEL_T700_3G_NAVI",
+    "model": "NAVITEL T700 3G NAVI"
   },
   {
     "manufacturer": "Navitel",
@@ -55287,6 +56061,12 @@
     "manufacturer": "Ncredible",
     "market_name": "NV8",
     "codename": "NV8",
+    "model": "NV8"
+  },
+  {
+    "manufacturer": "Ncredible",
+    "market_name": "NV8-HD",
+    "codename": "NV8-HD",
     "model": "NV8"
   },
   {
@@ -55723,6 +56503,12 @@
   },
   {
     "manufacturer": "Nomi",
+    "market_name": "Nomi C070011",
+    "codename": "Nomi_C070011",
+    "model": "Nomi C070011"
+  },
+  {
+    "manufacturer": "Nomi",
     "market_name": "Nomi C080010",
     "codename": "Nomi_C080010_Libra2",
     "model": "Nomi C080010 Libra2"
@@ -55732,6 +56518,12 @@
     "market_name": "Nomi C101010",
     "codename": "Nomi_C101010_Ultra2",
     "model": "C101010 Ultra2"
+  },
+  {
+    "manufacturer": "Nomi",
+    "market_name": "Nomi i5013",
+    "codename": "i5013",
+    "model": "i5013"
   },
   {
     "manufacturer": "Nomi",
@@ -55948,12 +56740,6 @@
     "market_name": "TM800A740M",
     "codename": "TM800AM",
     "model": "TM800A740M"
-  },
-  {
-    "manufacturer": "Nyx mobile",
-    "market_name": "NOBA",
-    "codename": "NOBA",
-    "model": "NOBA"
   },
   {
     "manufacturer": "ODYS",
@@ -57583,6 +58369,12 @@
   },
   {
     "manufacturer": "Orange",
+    "market_name": "Doro 8042",
+    "codename": "DSB0110",
+    "model": "Doro 8042"
+  },
+  {
+    "manufacturer": "Orange",
     "market_name": "Five",
     "codename": "OrangeFive",
     "model": "OrangeFive"
@@ -57697,6 +58489,12 @@
   },
   {
     "manufacturer": "Oukitel",
+    "market_name": "C6 Pro",
+    "codename": "C6_Pro",
+    "model": "C6 Pro"
+  },
+  {
+    "manufacturer": "Oukitel",
     "market_name": "K10000 Pro",
     "codename": "K10000_Pro",
     "model": "K10000 Pro"
@@ -57706,6 +58504,12 @@
     "market_name": "K6000 Plus",
     "codename": "K6000_Plus",
     "model": "K6000 Plus"
+  },
+  {
+    "manufacturer": "Oukitel",
+    "market_name": "U20_Plus",
+    "codename": "U20_Plus",
+    "model": "U20_Plus"
   },
   {
     "manufacturer": "OwnMobile",
@@ -57724,6 +58528,12 @@
     "market_name": "SMART 8",
     "codename": "Smart8",
     "model": "Smart8"
+  },
+  {
+    "manufacturer": "OwnMobile",
+    "market_name": "Smart Plus Lte",
+    "codename": "SMART_PLUS_LTE",
+    "model": "SMART PLUS LTE"
   },
   {
     "manufacturer": "Oysters",
@@ -59467,6 +60277,12 @@
   },
   {
     "manufacturer": "Philips",
+    "market_name": "Philips V787",
+    "codename": "Philips_Xenium_V787",
+    "model": "Philips Xenium V787"
+  },
+  {
+    "manufacturer": "Philips",
     "market_name": "Philips X598",
     "codename": "Philips_X598",
     "model": "Philips X598"
@@ -59881,6 +60697,12 @@
   },
   {
     "manufacturer": "Plaisio",
+    "market_name": "Turbox_A3",
+    "codename": "Turbox_A3",
+    "model": "Turbox_A3"
+  },
+  {
+    "manufacturer": "Plaisio",
     "market_name": "lamda",
     "codename": "Turbo-X_lamda",
     "model": "Turbo-X lamda"
@@ -60061,6 +60883,12 @@
   },
   {
     "manufacturer": "Polaroid",
+    "market_name": "Cosmo P5s",
+    "codename": "P5046A",
+    "model": "P5046A"
+  },
+  {
+    "manufacturer": "Polaroid",
     "market_name": "Cosmo Z",
     "codename": "P5047A",
     "model": "P5047A"
@@ -60130,6 +60958,12 @@
     "market_name": "P5006A",
     "codename": "P5006A",
     "model": "P5006A"
+  },
+  {
+    "manufacturer": "Polaroid",
+    "market_name": "P5526A",
+    "codename": "P5526A",
+    "model": "P5526A"
   },
   {
     "manufacturer": "Polaroid",
@@ -60244,6 +61078,18 @@
     "market_name": "P500",
     "codename": "P500",
     "model": "P500"
+  },
+  {
+    "manufacturer": "Polytron",
+    "market_name": "POLYTRON R2509",
+    "codename": "POLYTRON_R2509",
+    "model": "POLYTRON R2509"
+  },
+  {
+    "manufacturer": "Polytron",
+    "market_name": "POLYTRON R2509SE",
+    "codename": "POLYTRON_R2509SE",
+    "model": "POLYTRON R2509SE"
   },
   {
     "manufacturer": "Porsche",
@@ -60853,6 +61699,12 @@
   },
   {
     "manufacturer": "Positivo BGH",
+    "market_name": "Positivo BGH +Simple",
+    "codename": "C805",
+    "model": "Positivo BGH +Simple"
+  },
+  {
+    "manufacturer": "Positivo BGH",
     "market_name": "Y1000",
     "codename": "Y1000",
     "model": "Y1000"
@@ -60874,6 +61726,24 @@
     "market_name": "Ypy Kids",
     "codename": "YPY_L700",
     "model": "Positivo BGH Ypy L700 Kids"
+  },
+  {
+    "manufacturer": "Premio",
+    "market_name": "P520",
+    "codename": "P520",
+    "model": "P520"
+  },
+  {
+    "manufacturer": "Premio",
+    "market_name": "P540",
+    "codename": "P540",
+    "model": "P540"
+  },
+  {
+    "manufacturer": "Premio",
+    "market_name": "PREMIO P450",
+    "codename": "P450",
+    "model": "P450"
   },
   {
     "manufacturer": "Prestige",
@@ -61951,6 +62821,12 @@
   },
   {
     "manufacturer": "QMobile",
+    "market_name": "E3 Dual",
+    "codename": "E3_Dual",
+    "model": "E3 Dual"
+  },
+  {
+    "manufacturer": "QMobile",
     "market_name": "E8",
     "codename": "GBL5805QM",
     "model": "E8"
@@ -62113,9 +62989,21 @@
   },
   {
     "manufacturer": "QMobile",
+    "market_name": "Noir S9",
+    "codename": "QMobile_Noir_S9",
+    "model": "QMobile Noir S9"
+  },
+  {
+    "manufacturer": "QMobile",
     "market_name": "Pakistan",
     "codename": "A1_sprout",
     "model": "QMobile A1"
+  },
+  {
+    "manufacturer": "QMobile",
+    "market_name": "Q Infinity",
+    "codename": "Q_Infinity",
+    "model": "Q Infinity"
   },
   {
     "manufacturer": "QMobile",
@@ -62532,12 +63420,6 @@
     "model": "QMobile I9i"
   },
   {
-    "manufacturer": "RAINBOW",
-    "market_name": "WIKO",
-    "codename": "s5501",
-    "model": "RAINBOW"
-  },
-  {
     "manufacturer": "RCA",
     "market_name": "10 Viking II",
     "codename": "RCT6603W47M7",
@@ -62617,6 +63499,12 @@
   },
   {
     "manufacturer": "RCA",
+    "market_name": "Atlas 10",
+    "codename": "RCT6703W12",
+    "model": "RCT6703W12"
+  },
+  {
+    "manufacturer": "RCA",
     "market_name": "BNT-710",
     "codename": "BNT-710",
     "model": "BNT-710"
@@ -62650,6 +63538,30 @@
     "market_name": "Pro12",
     "codename": "RCT6223W87",
     "model": "RCT6223W87"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA RCT6213W22",
+    "codename": "RCT6213W22",
+    "model": "RCT6213W22"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA RCT6213W23",
+    "codename": "RCT6213W23",
+    "model": "RCT6213W23"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA RCT6213W24",
+    "codename": "RCT6213W24",
+    "model": "RCT6213W24"
+  },
+  {
+    "manufacturer": "RCA",
+    "market_name": "RCA RCT6703W13",
+    "codename": "RCT6703W13",
+    "model": "RCT6703W13"
   },
   {
     "manufacturer": "RCA",
@@ -62785,6 +63697,12 @@
   },
   {
     "manufacturer": "RCA",
+    "market_name": "Voyager Pro",
+    "codename": "RCT6873W42M_F7",
+    "model": "RCT6873W42M_F7"
+  },
+  {
+    "manufacturer": "RCA",
     "market_name": "XLD Series",
     "codename": "XLDRCAV1",
     "model": "XLDRCAV1"
@@ -62794,6 +63712,12 @@
     "market_name": "Q882",
     "codename": "Q882",
     "model": "Q882"
+  },
+  {
+    "manufacturer": "Rainbow",
+    "market_name": "WIKO",
+    "codename": "s5501",
+    "model": "RAINBOW"
   },
   {
     "manufacturer": "Razer",
@@ -62842,6 +63766,12 @@
     "market_name": "T8",
     "codename": "reeder_T8",
     "model": "reeder_T8"
+  },
+  {
+    "manufacturer": "Reeder",
+    "market_name": "reeder P12",
+    "codename": "P12",
+    "model": "P12"
   },
   {
     "manufacturer": "Reliance",
@@ -62986,12 +63916,6 @@
     "market_name": "MID_9526CM",
     "codename": "MID_9526CM",
     "model": "S952"
-  },
-  {
-    "manufacturer": "SENSEIT",
-    "market_name": "L301",
-    "codename": "SENSEIT-L301",
-    "model": "SENSEIT L301"
   },
   {
     "manufacturer": "SFR",
@@ -63156,12 +64080,6 @@
     "model": "icube-830"
   },
   {
-    "manufacturer": "SMARTAB",
-    "market_name": "ST700",
-    "codename": "ST700",
-    "model": "ST700"
-  },
-  {
     "manufacturer": "SOSMART",
     "market_name": "T5",
     "codename": "SOSMART_T5",
@@ -63181,6 +64099,18 @@
   },
   {
     "manufacturer": "SPC Mobile",
+    "market_name": "L51 PRO",
+    "codename": "L51_Pro",
+    "model": "L51 Pro"
+  },
+  {
+    "manufacturer": "SPC Mobile",
+    "market_name": "L52 PRO",
+    "codename": "L52_Pro",
+    "model": "L52 Pro"
+  },
+  {
+    "manufacturer": "SPC Mobile",
     "market_name": "L52 STEEL+",
     "codename": "L52",
     "model": "L52"
@@ -63190,6 +64120,12 @@
     "market_name": "Fractal",
     "codename": "Fractal",
     "model": "Fractal"
+  },
+  {
+    "manufacturer": "STF Mobile",
+    "market_name": "NATIVO",
+    "codename": "NATIVO",
+    "model": "NATIVO"
   },
   {
     "manufacturer": "STK(Santok)",
@@ -64946,12 +65882,6 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy C8",
-    "codename": "jadelte",
-    "model": "SM-C710F"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy C8",
     "codename": "jadeltechn",
     "model": "SM-C7100"
   },
@@ -66590,6 +67520,12 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy J3",
+    "codename": "j3popelteue",
+    "model": "SM-J327U"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J3",
     "codename": "j3x3g",
     "model": "SM-J320H"
   },
@@ -66614,14 +67550,14 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy J3 Pop",
-    "codename": "j3popeltetfntmo",
-    "model": "SM-S337TL"
+    "codename": "j3popeltecan",
+    "model": "SM-J327W"
   },
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy J3 Pop",
-    "codename": "j3popelteue",
-    "model": "SM-J327U"
+    "codename": "j3popeltetfntmo",
+    "model": "SM-S337TL"
   },
   {
     "manufacturer": "Samsung",
@@ -67282,6 +68218,12 @@
     "market_name": "Galaxy J7(2017)",
     "codename": "j7y17ltektt",
     "model": "SM-J730K"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7+",
+    "codename": "jadelte",
+    "model": "SM-C710F"
   },
   {
     "manufacturer": "Samsung",
@@ -72416,8 +73358,26 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy Tab A2 8.0",
+    "codename": "gta2slte",
+    "model": "SM-T385M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab A2 8.0",
+    "codename": "gta2sltechn",
+    "model": "SM-T385C"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab A2 8.0",
     "codename": "gta2swifi",
     "model": "SM-T380"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy Tab A2 8.0",
+    "codename": "gta2swifichn",
+    "model": "SM-T380C"
   },
   {
     "manufacturer": "Samsung",
@@ -74676,6 +75636,12 @@
     "model": "SENSEIT_A109"
   },
   {
+    "manufacturer": "Senseit",
+    "market_name": "L301",
+    "codename": "SENSEIT-L301",
+    "model": "SENSEIT L301"
+  },
+  {
     "manufacturer": "Sharp",
     "market_name": "",
     "codename": "SH7218T",
@@ -75577,6 +76543,12 @@
   },
   {
     "manufacturer": "Sharp",
+    "market_name": "LC-UA6800X/LC-UA8000X",
+    "codename": "lc_theux",
+    "model": "AQUOS-4KTVX17"
+  },
+  {
+    "manufacturer": "Sharp",
     "market_name": "LC-XU35T",
     "codename": "lc_xu35t",
     "model": "LC-XU35T"
@@ -75613,6 +76585,18 @@
   },
   {
     "manufacturer": "Sharp",
+    "market_name": "LCD-45SF470A",
+    "codename": "cv6a648_base",
+    "model": "LCD_xxSFFOC470A"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "LCD-45SF475A",
+    "codename": "Lcd_xxsffoc475a",
+    "model": "LCD_xxSFFOC475A"
+  },
+  {
+    "manufacturer": "Sharp",
     "market_name": "LCD-45T45A/LCD-45T46A/LCD-45T47A",
     "codename": "Lcd_foc36a",
     "model": "LCD_FOC36A"
@@ -75622,6 +76606,24 @@
     "market_name": "LCD-45TX3000A",
     "codename": "Lcd_45foc3000a",
     "model": "LCD_45FOC3000A"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "LCD-50MY4000A/TX4000A/50SU470A",
+    "codename": "Lcd_50foc4000a",
+    "model": "LCD_50FOC4000A"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "LCD-60SU470A",
+    "codename": "cv6a648_4K_base",
+    "model": "LCD_xxSUFOC470A"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "LCD-60SU475A",
+    "codename": "Lcd_xxsufoc475a",
+    "model": "LCD_xxSUFOC475A"
   },
   {
     "manufacturer": "Sharp",
@@ -75670,6 +76672,12 @@
     "market_name": "LCD-SU870A",
     "codename": "lcd_xxbel8a_b",
     "model": "LCD-xxBEL8A-B"
+  },
+  {
+    "manufacturer": "Sharp",
+    "market_name": "LCD-TX5000A",
+    "codename": "lcd_xxcae5a_d",
+    "model": "LCD-xxCAE5A-D"
   },
   {
     "manufacturer": "Sharp",
@@ -76000,6 +77008,12 @@
     "market_name": "SRF79",
     "codename": "SRF79",
     "model": "SRF79"
+  },
+  {
+    "manufacturer": "Smartab",
+    "market_name": "ST700",
+    "codename": "ST700",
+    "model": "ST700"
   },
   {
     "manufacturer": "Smartab",
@@ -77095,6 +78109,36 @@
   },
   {
     "manufacturer": "Sony",
+    "market_name": "Xperia XA1 Plus",
+    "codename": "G3412",
+    "model": "G3412"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia XA1 Plus",
+    "codename": "G3416",
+    "model": "G3416"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia XA1 Plus",
+    "codename": "G3421",
+    "model": "G3421"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia XA1 Plus",
+    "codename": "G3423",
+    "model": "G3423"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia XA1 Plus",
+    "codename": "G3426",
+    "model": "G3426"
+  },
+  {
+    "manufacturer": "Sony",
     "market_name": "Xperia XA1 Ultra",
     "codename": "G3212",
     "model": "G3212"
@@ -77176,6 +78220,18 @@
     "market_name": "Xperia XZ1",
     "codename": "G8342",
     "model": "G8342"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia XZ1",
+    "codename": "G8343",
+    "model": "G8343"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia XZ1 Compact",
+    "codename": "G8441",
+    "model": "G8441"
   },
   {
     "manufacturer": "Sony",
@@ -79398,6 +80454,12 @@
     "model": "TAG Heuer"
   },
   {
+    "manufacturer": "TAG Heuer",
+    "market_name": "Connected Modular 45 (China)",
+    "codename": "anthracite",
+    "model": "TAG Heuer"
+  },
+  {
     "manufacturer": "TCL",
     "market_name": "L55E6700UDS",
     "codename": "movo_la",
@@ -81064,6 +82126,12 @@
     "market_name": "A30",
     "codename": "MICKEY6US",
     "model": "5046G"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "A30",
+    "codename": "Mickey6RW",
+    "model": "A576RW"
   },
   {
     "manufacturer": "TCT (Alcatel)",
@@ -85560,18 +86628,6 @@
     "model": "Shortcut"
   },
   {
-    "manufacturer": "Techno",
-    "market_name": "H7S",
-    "codename": "qp16_tecno_h7s",
-    "model": "H7S"
-  },
-  {
-    "manufacturer": "Techno",
-    "market_name": "P5",
-    "codename": "up08_tecno_p5s",
-    "model": "TECNO P5S"
-  },
-  {
     "manufacturer": "Techpad",
     "market_name": "TechPad_3Gx",
     "codename": "TechPad_3Gx",
@@ -85702,6 +86758,12 @@
     "market_name": "H5S",
     "codename": "up09_tecno_h5s",
     "model": "TECNO H5S"
+  },
+  {
+    "manufacturer": "Tecno",
+    "market_name": "H7S",
+    "codename": "qp16_tecno_h7s",
+    "model": "H7S"
   },
   {
     "manufacturer": "Tecno",
@@ -85837,6 +86899,12 @@
   },
   {
     "manufacturer": "Tecno",
+    "market_name": "P5",
+    "codename": "up08_tecno_p5s",
+    "model": "TECNO P5S"
+  },
+  {
+    "manufacturer": "Tecno",
     "market_name": "P702AS",
     "codename": "TECNO-P702",
     "model": "TECNO P702AS"
@@ -85963,9 +87031,21 @@
   },
   {
     "manufacturer": "Tecno",
+    "market_name": "TECNO L9",
+    "codename": "TECNO-L9",
+    "model": "TECNO L9"
+  },
+  {
+    "manufacturer": "Tecno",
     "market_name": "TECNO P904",
     "codename": "TECNO-P904",
     "model": "TECNO P904"
+  },
+  {
+    "manufacturer": "Tecno",
+    "market_name": "TECNO R6",
+    "codename": "TECNO-R6",
+    "model": "TECNO R6"
   },
   {
     "manufacturer": "Tecno",
@@ -85978,6 +87058,12 @@
     "market_name": "TECNO S1 Lite",
     "codename": "TECNO-S1Lite",
     "model": "TECNO S1 Lite"
+  },
+  {
+    "manufacturer": "Tecno",
+    "market_name": "TECNO S6S",
+    "codename": "TECNO-S6S",
+    "model": "TECNO S6S"
   },
   {
     "manufacturer": "Tecno",
@@ -86035,6 +87121,12 @@
   },
   {
     "manufacturer": "Tecno",
+    "market_name": "W3 Pro",
+    "codename": "TECNO-W3Pro",
+    "model": "TECNO W3 Pro"
+  },
+  {
+    "manufacturer": "Tecno",
     "market_name": "W3LTE",
     "codename": "TECNO-W3LTE",
     "model": "TECNO-W3LTE"
@@ -86062,6 +87154,12 @@
     "market_name": "WX3",
     "codename": "TECNO-WX3",
     "model": "TECNO WX3"
+  },
+  {
+    "manufacturer": "Tecno",
+    "market_name": "WX3F LTE",
+    "codename": "TECNO-WX3FLTE",
+    "model": "TECNO WX3F LTE"
   },
   {
     "manufacturer": "Tecno",
@@ -87198,6 +88296,18 @@
     "model": "visionbook P55 LTE"
   },
   {
+    "manufacturer": "Umax",
+    "market_name": "VisionBook10Q",
+    "codename": "VB_10Q_Plus",
+    "model": "VB_10Q_Plus"
+  },
+  {
+    "manufacturer": "Umax",
+    "market_name": "VisionBook_P55_LTE_Pro",
+    "codename": "VisionBook_P55_LTE_Pro",
+    "model": "VisionBook P55 LTE Pro"
+  },
+  {
     "manufacturer": "Umx(Ultimate Mobile Experience)",
     "market_name": "U2VR",
     "codename": "U2VR",
@@ -87628,6 +88738,12 @@
     "market_name": "Farabi",
     "codename": "frb3g",
     "model": "Farabi"
+  },
+  {
+    "manufacturer": "Vestel",
+    "market_name": "Riga",
+    "codename": "Riga",
+    "model": "Venus E3"
   },
   {
     "manufacturer": "Vestel",
@@ -88555,6 +89671,12 @@
   },
   {
     "manufacturer": "Vivo",
+    "market_name": "vivo X20",
+    "codename": "PD1709",
+    "model": "vivo PD1709"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "vivo X9Plus",
     "codename": "PD1619",
     "model": "vivo X9Plus"
@@ -88741,6 +89863,12 @@
   },
   {
     "manufacturer": "Vodafone",
+    "market_name": "Tab mini 7",
+    "codename": "Tab7",
+    "model": "VFD 1100"
+  },
+  {
+    "manufacturer": "Vodafone",
     "market_name": "VDF 600",
     "codename": "P809V50",
     "model": "VFD 600"
@@ -88786,12 +89914,6 @@
     "market_name": "VFD 200",
     "codename": "P731V35",
     "model": "VFD 200"
-  },
-  {
-    "manufacturer": "Vodafone",
-    "market_name": "VFD1100",
-    "codename": "Tab7",
-    "model": "VFD 1100"
   },
   {
     "manufacturer": "Vodafone",
@@ -89065,6 +90187,18 @@
   },
   {
     "manufacturer": "Vsun",
+    "market_name": "MARS Nocam",
+    "codename": "MARS_NOCAM",
+    "model": "MARS NOCAM"
+  },
+  {
+    "manufacturer": "Vsun",
+    "market_name": "MARS Note",
+    "codename": "MARS_NOTE",
+    "model": "MARS NOTE"
+  },
+  {
+    "manufacturer": "Vsun",
     "market_name": "MERCURY Tough",
     "codename": "MERCURY_Tough",
     "model": "MERCURY Tough"
@@ -89203,6 +90337,12 @@
   },
   {
     "manufacturer": "Walton",
+    "market_name": "Primo F7s",
+    "codename": "Primo_F7s",
+    "model": "Primo F7s"
+  },
+  {
+    "manufacturer": "Walton",
     "market_name": "Primo GH5",
     "codename": "WBW5615WA",
     "model": "Primo GH5"
@@ -89212,6 +90352,18 @@
     "market_name": "Primo GH5 mini",
     "codename": "Primo_GH5_mini",
     "model": "Primo GH5 mini"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "Primo HM4",
+    "codename": "Primo_HM4",
+    "model": "Primo HM4"
+  },
+  {
+    "manufacturer": "Walton",
+    "market_name": "Primo NF3",
+    "codename": "Primo_NF3",
+    "model": "Primo NF3"
   },
   {
     "manufacturer": "Walton",
@@ -90457,6 +91609,12 @@
   },
   {
     "manufacturer": "Xiaomi",
+    "market_name": "MIX 2",
+    "codename": "chiron",
+    "model": "Mi MIX 2"
+  },
+  {
+    "manufacturer": "Xiaomi",
     "market_name": "Mi 3",
     "codename": "pisces",
     "model": "MI 3"
@@ -90644,6 +91802,12 @@
   {
     "manufacturer": "Xiaomi",
     "market_name": "Redmi Note 5A",
+    "codename": "ugg",
+    "model": "Redmi Y1"
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "market_name": "Redmi Note 5A",
     "codename": "ugglite",
     "model": "Redmi Note 5A"
   },
@@ -90670,6 +91834,18 @@
     "market_name": "Era 2X 3GB",
     "codename": "XE2X3GB",
     "model": "Era 2X 3GB"
+  },
+  {
+    "manufacturer": "Xolo",
+    "market_name": "Era3",
+    "codename": "Era_3",
+    "model": "Era 3"
+  },
+  {
+    "manufacturer": "Xolo",
+    "market_name": "XOLO ERA 2V",
+    "codename": "Era_2V",
+    "model": "Era 2V"
   },
   {
     "manufacturer": "Xolo",
@@ -98406,6 +99582,18 @@
     "model": "Zilo"
   },
   {
+    "manufacturer": "Ziox",
+    "market_name": "Astra Curve 4G",
+    "codename": "Astra_Curve_4G",
+    "model": "Astra Curve 4G"
+  },
+  {
+    "manufacturer": "Ziox",
+    "market_name": "Astra NXT Pro",
+    "codename": "Astra_NXT_Pro",
+    "model": "Astra NXT Pro"
+  },
+  {
     "manufacturer": "Zopo",
     "market_name": "L63",
     "codename": "INHOh_L63",
@@ -98623,6 +99811,12 @@
   },
   {
     "manufacturer": "bq",
+    "market_name": "Aquaris V",
+    "codename": "nappa",
+    "model": "Aquaris V"
+  },
+  {
+    "manufacturer": "bq",
     "market_name": "Aquaris X",
     "codename": "bardock",
     "model": "Aquaris X"
@@ -98668,36 +99862,6 @@
     "market_name": "M8",
     "codename": "Aquaris_M8",
     "model": "Aquaris M8"
-  },
-  {
-    "manufacturer": "essentielb",
-    "market_name": "Black Diamond",
-    "codename": "bird77_a_cu_ics2",
-    "model": "Essentielb-Black Diamond"
-  },
-  {
-    "manufacturer": "essentielb",
-    "market_name": "Pyxis",
-    "codename": "pyxis_boulanger",
-    "model": "Essentielb-Pixis"
-  },
-  {
-    "manufacturer": "essentielb",
-    "market_name": "ST7001 Tablet",
-    "codename": "ST7001",
-    "model": "ST7001"
-  },
-  {
-    "manufacturer": "harris",
-    "market_name": "RF-3590-RT",
-    "codename": "msm8660_cougar",
-    "model": "Harris 12131-1000"
-  },
-  {
-    "manufacturer": "hisense",
-    "market_name": "lt971",
-    "codename": "LT971",
-    "model": "LT971"
   },
   {
     "manufacturer": "i-Buddie",
@@ -99166,12 +100330,6 @@
     "market_name": "Me 5",
     "codename": "Me_5",
     "model": "Me 5"
-  },
-  {
-    "manufacturer": "mobicel",
-    "market_name": "Retro",
-    "codename": "Retro",
-    "model": "Retro"
   },
   {
     "manufacturer": "pendo",

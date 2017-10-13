@@ -2,59 +2,130 @@
   "manufacturer": "Irbis",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "IRBIS TZ175",
       "codename": "TZ175",
       "model": "TZ175"
     },
     {
+      "manufacturer": "",
       "market_name": "IRBIS TZ176",
       "codename": "TZ176",
       "model": "TZ176"
     },
     {
+      "manufacturer": "",
+      "market_name": "IRBIS TZ178",
+      "codename": "TZ178",
+      "model": "TZ178"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRBIS TZ737",
+      "codename": "TZ737",
+      "model": "TZ737"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRBIS TZ747",
+      "codename": "TZ747",
+      "model": "TZ747"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRBIS TZ752",
+      "codename": "TZ752",
+      "model": "TZ752"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP454",
       "codename": "SP454",
       "model": "SP454"
     },
     {
+      "manufacturer": "",
       "market_name": "SP455",
       "codename": "SP455",
       "model": "SP455"
     },
     {
+      "manufacturer": "",
       "market_name": "SP510",
       "codename": "SP510",
       "model": "SP510"
     },
     {
+      "manufacturer": "",
       "market_name": "SP550",
       "codename": "SP550",
       "model": "SP550"
     },
     {
+      "manufacturer": "",
       "market_name": "SP551",
       "codename": "SP551",
       "model": "SP551"
     },
     {
+      "manufacturer": "",
+      "market_name": "TZ177",
+      "codename": "TZ177",
+      "model": "TZ177"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ55",
       "codename": "TZ55",
       "model": "TZ55"
     },
     {
+      "manufacturer": "",
+      "market_name": "TZ720",
+      "codename": "TZ720",
+      "model": "TZ720"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ777",
       "codename": "TZ777",
       "model": "TZ777"
     },
     {
+      "manufacturer": "",
+      "market_name": "TZ831",
+      "codename": "TZ831",
+      "model": "TZ831"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ841",
+      "codename": "TZ841",
+      "model": "TZ841"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ877",
       "codename": "TZ877",
       "model": "TZ877"
     },
     {
+      "manufacturer": "",
+      "market_name": "TZ885",
+      "codename": "TZ885",
+      "model": "TZ885"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ890",
       "codename": "TZ890",
       "model": "TZ890"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ960",
+      "codename": "TZ960",
+      "model": "TZ960"
     }
   ]
 }

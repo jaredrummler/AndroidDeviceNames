@@ -2,41 +2,49 @@
   "manufacturer": "Cat",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "B15",
       "codename": "TOUGH",
       "model": "B15"
     },
     {
+      "manufacturer": "",
       "market_name": "B15Q",
       "codename": "B15Q",
       "model": "B15Q"
     },
     {
+      "manufacturer": "",
       "market_name": "B15Q",
       "codename": "CatB15Q",
       "model": "B15Q"
     },
     {
+      "manufacturer": "",
       "market_name": "Cat S41",
       "codename": "CatS41",
       "model": "S41"
     },
     {
+      "manufacturer": "",
       "market_name": "CatS50c",
       "codename": "CatS50c",
       "model": "S50c"
     },
     {
+      "manufacturer": "",
       "market_name": "S30",
       "codename": "CatS30",
       "model": "S30"
     },
     {
+      "manufacturer": "",
       "market_name": "S40",
       "codename": "CatS40",
       "model": "S40"
     },
     {
+      "manufacturer": "",
       "market_name": "S50",
       "codename": "CatS50",
       "model": "S50"

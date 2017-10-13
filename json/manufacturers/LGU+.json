@@ -2,36 +2,43 @@
   "manufacturer": "LGU+",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "TV G",
       "codename": "smartbox",
       "model": "TI320-DU"
     },
     {
+      "manufacturer": "",
       "market_name": "U+ tv UHD",
       "codename": "tvg2",
       "model": "ST940I-UP"
     },
     {
+      "manufacturer": "",
       "market_name": "U+ tv woofer",
       "codename": "hg2",
       "model": "LAP250U"
     },
     {
+      "manufacturer": "",
       "market_name": "U+ tv woofer 1.5",
       "codename": "hg2_iot",
       "model": "LAP255U"
     },
     {
+      "manufacturer": "",
       "market_name": "U+tv UHD2",
       "codename": "tvg2a",
       "model": "S60UPI"
     },
     {
+      "manufacturer": "",
       "market_name": "U+tv soundbar",
       "codename": "woofer2",
       "model": "S60UPA"
     },
     {
+      "manufacturer": "",
       "market_name": "WA-U420D",
       "codename": "WA-U420D",
       "model": "WA-U420D"

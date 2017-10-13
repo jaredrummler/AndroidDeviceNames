@@ -2,9 +2,16 @@
   "manufacturer": "Senseit",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "A109",
       "codename": "SENSEIT_A109",
       "model": "SENSEIT_A109"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L301",
+      "codename": "SENSEIT-L301",
+      "model": "SENSEIT L301"
     }
   ]
 }

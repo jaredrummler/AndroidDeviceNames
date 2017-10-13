@@ -2,16 +2,19 @@
   "manufacturer": "Cipherlab",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "RS30",
       "codename": "Mercury",
       "model": "CipherLab RS30"
     },
     {
+      "manufacturer": "",
       "market_name": "RS31",
       "codename": "RS31",
       "model": "RS31"
     },
     {
+      "manufacturer": "",
       "market_name": "Saturn",
       "codename": "RS50",
       "model": "RS50"

@@ -2,21 +2,25 @@
   "manufacturer": "Thomson",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "PRIMO7 Tablet",
       "codename": "PRIMO7",
       "model": "PRIMO7"
     },
     {
+      "manufacturer": "",
       "market_name": "PRIMO8 Tablet",
       "codename": "AMLMY8306P",
       "model": "PRIMO8"
     },
     {
+      "manufacturer": "",
       "market_name": "TCL  Percee TV",
       "codename": "tcl_eu",
       "model": "Percee TV"
     },
     {
+      "manufacturer": "",
       "market_name": "TLink 455",
       "codename": "TLINK455",
       "model": "TLINK455"

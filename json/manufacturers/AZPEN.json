@@ -2,11 +2,13 @@
   "manufacturer": "AZPEN",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "A720",
       "codename": "wing-inet",
       "model": "A720"
     },
     {
+      "manufacturer": "",
       "market_name": "A920",
       "codename": "wing-ibt",
       "model": "A920"

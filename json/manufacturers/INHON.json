@@ -2,16 +2,19 @@
   "manufacturer": "Inhon",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "L35",
       "codename": "L35",
       "model": "L35"
     },
     {
+      "manufacturer": "",
       "market_name": "L55",
       "codename": "L55",
       "model": "L55"
     },
     {
+      "manufacturer": "",
       "market_name": "V6",
       "codename": "V6",
       "model": "Inhon_V6"

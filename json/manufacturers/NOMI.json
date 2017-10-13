@@ -2,41 +2,61 @@
   "manufacturer": "Nomi",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "I5032",
       "codename": "Nomi_i5032",
       "model": "i5032"
     },
     {
+      "manufacturer": "",
+      "market_name": "Nomi C070011",
+      "codename": "Nomi_C070011",
+      "model": "Nomi C070011"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nomi C080010",
       "codename": "Nomi_C080010_Libra2",
       "model": "Nomi C080010 Libra2"
     },
     {
+      "manufacturer": "",
       "market_name": "Nomi C101010",
       "codename": "Nomi_C101010_Ultra2",
       "model": "C101010 Ultra2"
     },
     {
+      "manufacturer": "",
+      "market_name": "Nomi i5013",
+      "codename": "i5013",
+      "model": "i5013"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nomi i5050",
       "codename": "i5050",
       "model": "i5050"
     },
     {
+      "manufacturer": "",
       "market_name": "Nomi i5510",
       "codename": "Nomi_i5510",
       "model": "i5510"
     },
     {
+      "manufacturer": "",
       "market_name": "Nomi i5532",
       "codename": "Nomi_i5532",
       "model": "i5532"
     },
     {
+      "manufacturer": "",
       "market_name": "Nomi i6030",
       "codename": "i6030",
       "model": "Nomi i6030"
     },
     {
+      "manufacturer": "",
       "market_name": "i5012",
       "codename": "i5012",
       "model": "i5012"

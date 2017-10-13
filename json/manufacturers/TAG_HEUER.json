@@ -2,12 +2,20 @@
   "manufacturer": "TAG Heuer",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "Connected",
       "codename": "glacier",
       "model": "TAG Heuer"
     },
     {
+      "manufacturer": "",
       "market_name": "Connected Modular 45",
+      "codename": "anthracite",
+      "model": "TAG Heuer"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Connected Modular 45 (China)",
       "codename": "anthracite",
       "model": "TAG Heuer"
     }

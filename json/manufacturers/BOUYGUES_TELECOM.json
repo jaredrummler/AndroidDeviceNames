@@ -2,11 +2,13 @@
   "manufacturer": "Bouygues Telecom",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "Bbox Miami",
       "codename": "HMB4213H",
       "model": "BouygtelTV"
     },
     {
+      "manufacturer": "",
       "market_name": "Bs 451",
       "codename": "Bs_451",
       "model": "Bs 451"

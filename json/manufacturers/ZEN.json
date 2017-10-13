@@ -2,16 +2,19 @@
   "manufacturer": "Zen",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "ZEN ADMIRE NEO PLUS",
       "codename": "ZEN_ADMIRE_NEO_PLUS",
       "model": "ADMIRE NEO+"
     },
     {
+      "manufacturer": "",
       "market_name": "ZEN ADMIRE UNITY",
       "codename": "ZEN_ADMIRE_UNITY",
       "model": "ADMIRE_UNITY"
     },
     {
+      "manufacturer": "",
       "market_name": "Zen Admire Curve +",
       "codename": "ZEN_ADMIRE_CURVE_PLUS",
       "model": "ADMIRE_CURVE+"

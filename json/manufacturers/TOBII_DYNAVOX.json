@@ -2,11 +2,13 @@
   "manufacturer": "Tobii DynaVox",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "T10+",
       "codename": "T10plus",
       "model": "T10+"
     },
     {
+      "manufacturer": "",
       "market_name": "T7",
       "codename": "T7",
       "model": "T7"

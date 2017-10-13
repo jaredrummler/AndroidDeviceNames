@@ -2,6 +2,19 @@
   "manufacturer": "Comio",
   "devices": [
     {
+      "manufacturer": "",
+      "market_name": "AD7003",
+      "codename": "AD7003",
+      "model": "AD7003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COMIO C2",
+      "codename": "ComioC2",
+      "model": "COMIO C2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "COMIO S1",
       "codename": "ComioS1",
       "model": "COMIO S1"

@@ -2,9 +2,22 @@
   "manufacturer": "Umax",
   "devices": [
     {
+      "manufacturer": "",
       "market_name": "UMAX",
       "codename": "visionbook_P55_LTE",
       "model": "visionbook P55 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VisionBook10Q",
+      "codename": "VB_10Q_Plus",
+      "model": "VB_10Q_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VisionBook_P55_LTE_Pro",
+      "codename": "VisionBook_P55_LTE_Pro",
+      "model": "VisionBook P55 LTE Pro"
     }
   ]
 }

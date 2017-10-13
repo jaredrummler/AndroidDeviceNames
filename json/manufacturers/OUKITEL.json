@@ -2,14 +2,28 @@
   "manufacturer": "Oukitel",
   "devices": [
     {
+      "manufacturer": "",
+      "market_name": "C6 Pro",
+      "codename": "C6_Pro",
+      "model": "C6 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K10000 Pro",
       "codename": "K10000_Pro",
       "model": "K10000 Pro"
     },
     {
+      "manufacturer": "",
       "market_name": "K6000 Plus",
       "codename": "K6000_Plus",
       "model": "K6000 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U20_Plus",
+      "codename": "U20_Plus",
+      "model": "U20_Plus"
     }
   ]
 }
