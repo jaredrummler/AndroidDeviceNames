@@ -315,6 +315,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Logikids 3",
+      "codename": "Logikids_3",
+      "model": "Logikids_3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M bot 51",
       "codename": "Mbot51",
       "model": "M bot 51"
@@ -336,6 +342,12 @@
       "market_name": "M bot Tab 103",
       "codename": "MbotTab103",
       "model": "M bot Tab 103"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M bot Tab 1150",
+      "codename": "M_bot_tab_1150",
+      "model": "M_bot_tab_1150"
     },
     {
       "manufacturer": "",

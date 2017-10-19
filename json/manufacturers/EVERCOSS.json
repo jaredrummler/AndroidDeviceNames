@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M50",
+      "codename": "EVERCOSS_M50",
+      "model": "M50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "One X",
       "codename": "A65_sprout",
       "model": "EVERCOSS A65"
@@ -54,6 +60,12 @@
       "market_name": "S50",
       "codename": "EVERCOSS_S50",
       "model": "S50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S55A",
+      "codename": "S55A",
+      "model": "S55A"
     },
     {
       "manufacturer": "",

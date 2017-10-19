@@ -2943,6 +2943,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HUAWEI Y6 2017",
+      "codename": "HWMYA-L6737",
+      "model": "MYA-L11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HUAWEI Y6II",
       "codename": "HWCAM-H",
       "model": "HUAWEI CAM-L53"
@@ -5736,12 +5742,6 @@
       "market_name": "Y6",
       "codename": "hwSCLU-Q",
       "model": "SCL-U23"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Y6 2017",
-      "codename": "HWMYA-L6737",
-      "model": "MYA-L11"
     },
     {
       "manufacturer": "",

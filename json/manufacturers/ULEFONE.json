@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MIX",
+      "codename": "t816_gq_ulefone",
+      "model": "MIX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Power 2",
       "codename": "Power_2",
       "model": "Power_2"

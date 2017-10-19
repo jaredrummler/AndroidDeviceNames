@@ -147,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare S6",
+      "codename": "Cherry_Flare_S6",
+      "model": "Flare S6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare X",
       "codename": "Flare_X",
       "model": "Flare_X_V2"
@@ -186,6 +192,12 @@
       "market_name": "Omega HD 3S",
       "codename": "H115",
       "model": "OMEGA HD 3S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Omega HD 4",
+      "codename": "Cherry_Omega_HD_4",
+      "model": "Omega_HD_4"
     },
     {
       "manufacturer": "",

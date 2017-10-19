@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TechPad_10x",
+      "codename": "TechPad_10x",
+      "model": "TechPad_10x"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TechPad_3Gx",
       "codename": "TechPad_3Gx",
       "model": "TechPad_3Gx"

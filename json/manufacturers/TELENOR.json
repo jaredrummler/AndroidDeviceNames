@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Infinity K",
+      "codename": "Infinity_K",
+      "model": "Infinity_K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinity a2",
       "codename": "b3680",
       "model": "Infinity_a2"

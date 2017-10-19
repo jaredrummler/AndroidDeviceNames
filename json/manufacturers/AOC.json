@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A110_E",
+      "codename": "A110_E",
+      "model": "A110_E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AOC",
       "codename": "A731",
       "model": "A731"
