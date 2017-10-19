@@ -19,10 +19,10 @@ package com.jaredrummler.androiddevicenames
 fun main(args: Array<String>) {
   // Get the devices supported by Google Play
   val devices = getDevices()
-
+  // Create the database
+  DatabaseGenerator(devices).generate()
   // Generate all the JSON files
   JsonGenerator(devices).generate()
-
   // Create the method used in DeviceName.java.
   MethodGenerator(devices).generate()
 }

@@ -135,7 +135,7 @@ class JsonGenerator(private val devices: List<Device>, directory: String = "json
 
 }
 
-class Device(
+data class Device(
     /** Retail branding  */
     val manufacturer: String,
     /** The consumer friendly name of the device  */
