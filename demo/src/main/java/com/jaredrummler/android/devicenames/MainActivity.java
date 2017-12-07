@@ -26,8 +26,10 @@ import android.text.TextUtils;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
-
 import com.jaredrummler.android.device.DeviceName;
+import com.jaredrummler.androiddevicenames.AndroidDeviceNames;
+import com.jaredrummler.androiddevicenames.DeviceNamesDatabase;
+import java.io.IOException;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -51,6 +53,23 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     editTextModel.setText(Build.MODEL);
 
     findViewById(R.id.btn).setOnClickListener(this);
+
+    new Thread(new Runnable() {
+      @Override public void run() {
+        try {
+          DeviceNamesDatabase database = DeviceNamesDatabase.open(MainActivity.this);
+          try {
+            AndroidDeviceNames deviceNames = new AndroidDeviceNames(database);
+            String deviceName = deviceNames.getDeviceName();
+          } finally {
+            database.close();
+          }
+        } catch (IOException e) {
+          e.printStackTrace();
+        }
+      }
+    }).start();
+
   }
 
   @Override public void onClick(final View v) {
