@@ -1209,9 +1209,87 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Acces 101 3G",
+      "codename": "ac101as3gv2",
+      "model": "Archos Access 101 3G V2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Access 101 3G",
+      "codename": "ac101as3g",
+      "model": "Archos Access 101 3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Access 40 3G",
       "codename": "ac40as3g",
       "model": "Archos Access 40 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Access 40 4G",
+      "codename": "ac40as4g",
+      "model": "Archos Access 40 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Access 45 4G",
+      "codename": "ac45as4g",
+      "model": "Archos Access 45 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Access 50 3G",
+      "codename": "ac50as3g",
+      "model": "Archos Access 50 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Access 50 4G",
+      "codename": "ac50as4g",
+      "model": "Archos Access 50 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Access 50 Color 3G",
+      "codename": "ac50asclr3g",
+      "model": "Archos Access 50 Color 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Access 50 Color 4G",
+      "codename": "ac50asclr4g",
+      "model": "Archos Access 50 Color 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Access 55 3G",
+      "codename": "ac55as3g",
+      "model": "Archos Access 55 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Access 70 3G",
+      "codename": "ac70as3g",
+      "model": "Archos Access 70 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Core 101 3G",
+      "codename": "ac101cr3g",
+      "model": "Archos Core 101 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Core 101 4G",
+      "codename": "ac101cr4g",
+      "model": "Archos Core 101 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Core 50 4G",
+      "codename": "ac50cr4g",
+      "model": "Archos Core 50 4G"
     },
     {
       "manufacturer": "",
@@ -1227,6 +1305,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Core 55 4G",
+      "codename": "ac55cr4g",
+      "model": "Archos Core 55 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Core 55P",
       "codename": "ac55crp",
       "model": "Archos Core 55P"
@@ -1239,9 +1323,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Sense 101X",
+      "codename": "ac101xse",
+      "model": "Archos Sense 101 X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Sense 47 X",
+      "codename": "ac47xse",
+      "model": "Archos Sense 47 X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Sense 50 DC",
       "codename": "ac50sedc",
       "model": "Archos Sense 50 DC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Sense 50X",
+      "codename": "ac50xse",
+      "model": "Archos Sense 50X"
     },
     {
       "manufacturer": "",
@@ -1254,6 +1356,12 @@
       "market_name": "Archos Sense 55 DC",
       "codename": "ac55sedcv2",
       "model": "Archos Phone"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Sense 55 S",
+      "codename": "ac55ses",
+      "model": "Archos Sense 55 S"
     },
     {
       "manufacturer": "",
@@ -1542,6 +1650,12 @@
       "market_name": "Kuno",
       "codename": "KUNO4",
       "model": "KUNO4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Logic Instrument Fieldbook F1B",
+      "codename": "lifbf1b",
+      "model": "Logic Instrument Fieldbook F1B"
     },
     {
       "manufacturer": "",

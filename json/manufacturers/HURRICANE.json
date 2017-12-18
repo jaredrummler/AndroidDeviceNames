@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Atlas",
+      "codename": "Atlas",
+      "model": "Atlas"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Beam",
       "codename": "Beam",
       "model": "Beam"
@@ -33,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blaze",
+      "codename": "Blaze",
+      "model": "Blaze"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bolt",
       "codename": "Bolt",
       "model": "Hurricane_Bolt"
@@ -42,6 +54,12 @@
       "market_name": "Charge",
       "codename": "Charge",
       "model": "Charge"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Edge",
+      "codename": "Edge",
+      "model": "Edge"
     },
     {
       "manufacturer": "",
@@ -90,6 +108,18 @@
       "market_name": "Giga",
       "codename": "HURRICANE_GIGA",
       "model": "HURRICANE_GIGA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Icon",
+      "codename": "Icon",
+      "model": "Icon"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ridge",
+      "codename": "Ridge",
+      "model": "Ridge"
     },
     {
       "manufacturer": "",

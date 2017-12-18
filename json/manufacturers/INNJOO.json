@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Halo 4 LTE",
+      "codename": "Halo_4_LTE",
+      "model": "Halo 4 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Halo2 3G",
+      "codename": "Halo2_3G",
+      "model": "Halo2 3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Halo2 LTE",
       "codename": "Halo2_LTE",
       "model": "Halo2 LTE"
@@ -24,6 +36,12 @@
       "market_name": "Max3 LTE",
       "codename": "Max3_LTE",
       "model": "Max3_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VISION LTE",
+      "codename": "VISION_LTE",
+      "model": "VISION LTE"
     }
   ]
 }

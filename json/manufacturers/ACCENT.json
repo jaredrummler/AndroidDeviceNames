@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "FAST7 3G",
+      "codename": "FAST7_3G",
+      "model": "FAST7 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pearl_A4",
+      "codename": "Pearl_A4",
+      "model": "Pearl A4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SPEED S8",
       "codename": "SPEED_S8",
       "model": "SPEED_S8"

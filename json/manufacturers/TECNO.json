@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CAMON CM",
+      "codename": "TECNO-CA6",
+      "model": "TECNO CA6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Camon CX",
       "codename": "TECNO-CX",
       "model": "TECNO Camon CX"
@@ -57,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Camon I",
+      "codename": "TECNO-IN5",
+      "model": "TECNO IN5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DP10APro-SLA1",
       "codename": "DP10APro",
       "model": "DP10APro"
@@ -72,6 +84,12 @@
       "market_name": "DroiPad 10 Pro\\xe2\\x85\\xa1",
       "codename": "DP10APro",
       "model": "DP10APro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DroiPad 10D",
+      "codename": "TECNO-P904",
+      "model": "TECNO P904"
     },
     {
       "manufacturer": "",
@@ -303,6 +321,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Phantom8",
+      "codename": "TECNO-AX8",
+      "model": "TECNO AX8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PhonePad 3",
       "codename": "TECNO-PP7FPro",
       "model": "TECNO PhonePad 3"
@@ -351,6 +375,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S1E Pro",
+      "codename": "TECNO-S1-Pro",
+      "model": "TECNO S1E Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S6S",
       "codename": "TECNO-S6S",
       "model": "TECNO S6S"
@@ -366,6 +396,12 @@
       "market_name": "SPARK Plus",
       "codename": "TECNO-K9",
       "model": "TECNO K9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPARK Pro",
+      "codename": "TECNO-K8",
+      "model": "TECNO K8"
     },
     {
       "manufacturer": "",
@@ -390,12 +426,6 @@
       "market_name": "TECNO K9",
       "codename": "TECNO-K9",
       "model": "TECNO K9"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TECNO L9",
-      "codename": "TECNO-L9",
-      "model": "TECNO L9"
     },
     {
       "manufacturer": "",
@@ -519,6 +549,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WX3 LTE",
+      "codename": "TECNO-WX3LTE",
+      "model": "TECNO WX3LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WX3F LTE",
       "codename": "TECNO-WX3FLTE",
       "model": "TECNO WX3F LTE"
@@ -546,6 +582,12 @@
       "market_name": "WX4 Pro",
       "codename": "TECNO-WX4-Pro",
       "model": "TECNO WX4 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WX4 Pro S",
+      "codename": "TECNO-WX4-Pro",
+      "model": "TECNO WX4 Pro S"
     },
     {
       "manufacturer": "",
@@ -594,6 +636,12 @@
       "market_name": "i3",
       "codename": "TECNO-i3",
       "model": "TECNO i3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i3 Pro",
+      "codename": "TECNO-i3-Pro",
+      "model": "TECNO i3 Pro"
     },
     {
       "manufacturer": "",

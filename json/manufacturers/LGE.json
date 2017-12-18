@@ -2211,6 +2211,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG G Pad F2 8.0",
+      "codename": "mth8",
+      "model": "LG-LK460"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG G Pad F7.0",
       "codename": "e7iilte",
       "model": "LGLK430"
@@ -4509,6 +4515,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG Smart Folder",
+      "codename": "cf2",
+      "model": "LGM-X100L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Smart Folder",
+      "codename": "cf2",
+      "model": "LGM-X100S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG Spectrum",
       "codename": "VS920",
       "model": "VS920 4G"
@@ -6653,6 +6671,12 @@
       "manufacturer": "",
       "market_name": "V30",
       "codename": "joan",
+      "model": "LG-AS998"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V30",
+      "codename": "joan",
       "model": "LG-H930"
     },
     {
@@ -6732,6 +6756,12 @@
       "market_name": "VU3",
       "codename": "vu3",
       "model": "LG-F300S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WM-LG8200",
+      "codename": "b6",
+      "model": "WM-LG8200"
     },
     {
       "manufacturer": "",

@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CUBOT H3",
+      "codename": "CUBOT_H3",
+      "model": "CUBOT H3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CUBOT MAGIC",
       "codename": "CUBOT_MAGIC",
       "model": "CUBOT MAGIC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CUBOT MAGIC",
+      "codename": "CUBOT_R9",
+      "model": "CUBOT R9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CUBOT NOTE Plus",
+      "codename": "CUBOT_NOTE_Plus",
+      "model": "CUBOT NOTE Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CUBOT X18",
+      "codename": "CUBOT_X18",
+      "model": "CUBOT X18"
     },
     {
       "manufacturer": "",

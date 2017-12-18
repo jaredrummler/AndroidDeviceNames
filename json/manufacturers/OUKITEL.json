@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Coosea",
+      "codename": "K3",
+      "model": "K3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K10000 Pro",
       "codename": "K10000_Pro",
       "model": "K10000 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K10000_Max",
+      "codename": "K10000_Max",
+      "model": "K10000 Max"
     },
     {
       "manufacturer": "",
@@ -21,9 +33,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K8000",
+      "codename": "K8000",
+      "model": "K8000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U20_Plus",
       "codename": "U20_Plus",
       "model": "U20_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U22",
+      "codename": "U22",
+      "model": "U22"
     }
   ]
 }

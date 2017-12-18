@@ -83,6 +83,12 @@
       "manufacturer": "",
       "market_name": "Chromebook Flip C101PA",
       "codename": "bob_cheets",
+      "model": "ASUS Chromebook Flip C101PA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook Flip C101PA",
+      "codename": "bob_cheets",
       "model": "bob"
     },
     {
@@ -1102,6 +1108,12 @@
     {
       "manufacturer": "",
       "market_name": "ZenFone 4 (ZE554KL)",
+      "codename": "ASUS_Z01KDA",
+      "model": "ASUS_Z01KS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone 4 (ZE554KL)",
       "codename": "ASUS_Z01KD_1",
       "model": "ASUS_Z01KDA"
     },
@@ -1176,6 +1188,12 @@
       "market_name": "ZenFone 4 Selfie Pro (ZD552KL)",
       "codename": "ASUS_Z01M_1",
       "model": "ASUS_Z01MD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone 4 Selfie Pro (ZD552KL)",
+      "codename": "ASUS_Z01M_1",
+      "model": "ASUS_Z01MDA"
     },
     {
       "manufacturer": "",
@@ -1365,6 +1383,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZenFone Max Plus M1 (ZB570TL)",
+      "codename": "ASUS_X018_1",
+      "model": "ASUS_X018D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max Plus M1 (ZB570TL)",
+      "codename": "ASUS_X018_4",
+      "model": "ASUS_X018D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZenFone Selfie (ZD551KL)",
       "codename": "ASUS_Z00U_1",
       "model": "ASUS_Z00UD"
@@ -1416,6 +1446,12 @@
       "market_name": "ZenFone Zoom (ZX551ML)",
       "codename": "Z00X_2",
       "model": "ASUS_Z00XS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone4 (ZE554KL)",
+      "codename": "ASUS_Z01KD_3",
+      "model": "ASUS_Z01KD"
     },
     {
       "manufacturer": "",

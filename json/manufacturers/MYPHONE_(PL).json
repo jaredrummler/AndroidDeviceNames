@@ -15,15 +15,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fun_LTE",
+      "codename": "Fun_LTE",
+      "model": "myPhone Fun LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HAMMER BOLT",
+      "codename": "Hammer_Bolt",
+      "model": "Bolt"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer AXE PRO",
       "codename": "Hammer_AXE_Pro_OPM",
       "model": "Hammer AXE Pro"
     },
     {
       "manufacturer": "",
+      "market_name": "Hammer Blade",
+      "codename": "Hammer_Blade",
+      "model": "Blade"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hammer Titan 2",
+      "codename": "Hammer_Titan_2",
+      "model": "Hammer Titan 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer_Active",
       "codename": "HammerActive",
       "model": "Hammer Active"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hammer_Energy_3G",
+      "codename": "Hammer_Energy_3G",
+      "model": "Hammer Energy 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hammer_Iron_2",
+      "codename": "Hammer_Iron_2",
+      "model": "Hammer Iron 2"
     },
     {
       "manufacturer": "",
@@ -42,6 +78,12 @@
       "market_name": "myPhone",
       "codename": "Q_Smart_BE",
       "model": "Q_Smart_BE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myPhone  Q-Smart III Plus",
+      "codename": "Q-Smart_III_Plus",
+      "model": "Q-Smart_III_Plus"
     },
     {
       "manufacturer": "",
@@ -114,6 +156,12 @@
       "market_name": "myPhone_Fun5",
       "codename": "myPhone_Fun5",
       "model": "Fun5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myPhone_Prime_2",
+      "codename": "myPhone_Prime_2",
+      "model": "Prime 2"
     }
   ]
 }

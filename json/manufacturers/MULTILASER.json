@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M10A-Lite",
+      "codename": "M10A-Lite",
+      "model": "M10A-Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7-3G PLUS",
+      "codename": "ML-JI-M7_3G_PLUS",
+      "model": "ML-JI-M7_3G_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7-3G PLUS",
+      "codename": "ML-WI-M7_3G_PLUS",
+      "model": "ML-WI-M7_3G_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7I-3G",
       "codename": "M7I-3G",
       "model": "M7I-3G"
@@ -18,6 +36,12 @@
       "market_name": "M7I-3G",
       "codename": "astar-ococci",
       "model": "ML01-M7S-Quad-Core"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7SQC Plus",
+      "codename": "M7SQC_Plus",
+      "model": "M7SQC_Plus"
     },
     {
       "manufacturer": "",
@@ -42,6 +66,24 @@
       "market_name": "M9-3G-2",
       "codename": "M9-3G_2",
       "model": "M9-3G_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ML-SO-M7_3G_PLUS",
+      "codename": "ML-SO-M7_3G_PLUS",
+      "model": "ML-SO-M7_3G_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ML-SO-MLX1",
+      "codename": "ML-SO-MLX1",
+      "model": "ML-SO-MLX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MLX8",
+      "codename": "MLX8",
+      "model": "MLX8"
     },
     {
       "manufacturer": "",
@@ -87,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MS50L 4G",
+      "codename": "MS50L_4G",
+      "model": "MS50L_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS50M",
       "codename": "MS50M",
       "model": "MS50M"
@@ -123,9 +171,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MS60F",
+      "codename": "MS60F",
+      "model": "MS60F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS60F Plus",
+      "codename": "MS60F_PLUS",
+      "model": "MS60F_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS70",
       "codename": "MS70",
       "model": "MS70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS80",
+      "codename": "ML-TI-MS80",
+      "model": "ML-TI-MS80"
     },
     {
       "manufacturer": "",

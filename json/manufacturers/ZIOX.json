@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Astra Blaze",
+      "codename": "Astra_Blaze",
+      "model": "Astra Blaze"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Astra Curve 4G",
       "codename": "Astra_Curve_4G",
       "model": "Astra Curve 4G"
@@ -15,9 +21,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Astra Star",
+      "codename": "Astra_Star",
+      "model": "Astra Star"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Astra Young Pro",
       "codename": "Astra_Young_Pro",
       "model": "Astra Young Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Duopix F1",
+      "codename": "Duopix_F1",
+      "model": "Duopix F1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Duopix R1",
+      "codename": "Duopix_R1",
+      "model": "Duopix R1"
     }
   ]
 }

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CloudFone Next Infinity Plus",
+      "codename": "Next_Infinity_Plus",
+      "model": "Next Infinity Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CloudFone Thrill Plus 2",
+      "codename": "Thrill_Plus_2",
+      "model": "Thrill Plus 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CloudFone Thrill Snap",
+      "codename": "Thrill_Snap",
+      "model": "Thrill Snap"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cloudpad One 6.95",
       "codename": "one695_1_coho",
       "model": "one695_1"
@@ -42,6 +60,24 @@
       "market_name": "Excite Prime 2",
       "codename": "Excite_Prime_2",
       "model": "Excite Prime 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Excite Prime 2 Pro",
+      "codename": "Excite_Prime_2_Pro",
+      "model": "Excite Prime 2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Next Infinity",
+      "codename": "Next_Infinity",
+      "model": "Next Infinity"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Next Infinity Quattro",
+      "codename": "Next_Infinity_4",
+      "model": "Next Infinity Quattro"
     },
     {
       "manufacturer": "",

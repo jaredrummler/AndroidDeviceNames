@@ -1845,6 +1845,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALCATEL 3C",
+      "codename": "A3A_XL_3G",
+      "model": "5026A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALCATEL 3C",
+      "codename": "A3A_XL_3G",
+      "model": "5026D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALCATEL 4015T",
       "codename": "Yaris35_GSM",
       "model": "ALCATEL 4015T"
@@ -3402,6 +3414,12 @@
       "market_name": "Alcatel_4060A",
       "codename": "Pop445",
       "model": "Alcatel_4060A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel_5044C",
+      "codename": "BUZZ6T4GCRICKET",
+      "model": "Alcatel_5044C"
     },
     {
       "manufacturer": "",

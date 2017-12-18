@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P9+",
+      "codename": "P9_Plus",
+      "model": "P9 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R100",
       "codename": "R100",
       "model": "Symphony R100"
@@ -63,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R30",
+      "codename": "R30",
+      "model": "R30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Roar A50",
       "codename": "Roar_A50_sprout",
       "model": "Roar_A50"
@@ -72,6 +84,12 @@
       "market_name": "SYMTAB25",
       "codename": "SYMTAB25",
       "model": "SYMTAB25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SYMTAB60",
+      "codename": "SYMTAB60",
+      "model": "SYMTAB60"
     },
     {
       "manufacturer": "",
@@ -120,6 +138,12 @@
       "market_name": "V75",
       "codename": "V75",
       "model": "V75"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V75m",
+      "codename": "V75m",
+      "model": "V75m"
     },
     {
       "manufacturer": "",
@@ -174,6 +198,24 @@
       "market_name": "i50",
       "codename": "i50",
       "model": "i50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i60",
+      "codename": "i60",
+      "model": "i60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i90",
+      "codename": "i90",
+      "model": "i90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "roarV95",
+      "codename": "roarV95",
+      "model": "roarV95"
     }
   ]
 }

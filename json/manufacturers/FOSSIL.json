@@ -3,30 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Fossil Q Explorist / Michael Kors Grayson / Emporio Armani Connected / Diesel Full Guard",
-      "codename": "bluegill",
-      "model": "Alberto"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Fossil Q Explorist / Michael Kors Grayson / Emporio Armani Connected / Diesel Full Guard",
-      "codename": "bluegill",
-      "model": "EA Connected"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Fossil Q Venture",
-      "codename": "shiner",
-      "model": "Sofie"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Misfit Vapor",
-      "codename": "mullet",
-      "model": "Vapor"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Q Founder",
       "codename": "grant",
       "model": "Q Founder"
@@ -48,6 +24,12 @@
       "market_name": "Q Wander / Q Marshal / Q Founder 2.0 / Bradshaw / Dylan",
       "codename": "gar",
       "model": "Q Wander"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wear",
+      "codename": "mullet",
+      "model": "Vapor"
     }
   ]
 }

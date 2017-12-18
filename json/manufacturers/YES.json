@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Altitude 2",
+      "codename": "M651G_MY",
+      "model": "M651G_MY"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M631Y",
       "codename": "M631Y",
       "model": "M631Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STING",
+      "codename": "dwi765yes",
+      "model": "STING"
     }
   ]
 }

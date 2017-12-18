@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EVOLVEO StrongPhone G2",
+      "codename": "EVOLVEOG2",
+      "model": "EVOLVEO StrongPhone G2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EVOLVEO StrongPhone G4",
+      "codename": "EVOLVEOG4",
+      "model": "EVOLVEO StrongPhone G4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "StrongPhone Q9",
       "codename": "StrongPhoneQ9",
       "model": "StrongPhoneQ9"

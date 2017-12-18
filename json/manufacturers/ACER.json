@@ -285,6 +285,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C01",
+      "codename": "acer_c01",
+      "model": "C01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C01 (PA)",
+      "codename": "acer_c01",
+      "model": "C01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CW01",
+      "codename": "acer_cw01",
+      "model": "CW01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Chromebook 14 for work",
       "codename": "lars_cheets",
       "model": "Chromebook 14 for work (CP5-471)"
@@ -462,6 +480,12 @@
       "market_name": "Iconia One 8",
       "codename": "acer_FrenzyRefresh",
       "model": "B1-860A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Iconia One 8",
+      "codename": "acer_Zipp",
+      "model": "B1-870"
     },
     {
       "manufacturer": "",

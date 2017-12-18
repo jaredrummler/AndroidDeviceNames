@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F-01K",
+      "codename": "F01K",
+      "model": "F-01K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F-02F",
       "codename": "F02F",
       "model": "F-02F"
@@ -234,6 +240,12 @@
       "market_name": "F-02H",
       "codename": "F02H",
       "model": "F-02H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F-02K",
+      "codename": "F02K",
+      "model": "F-02K"
     },
     {
       "manufacturer": "",
@@ -498,6 +510,12 @@
       "market_name": "arrows M04",
       "codename": "M04",
       "model": "arrowsM04"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "arrows M04 PREMIUM",
+      "codename": "M04P",
+      "model": "arrowsM04-PREMIUM"
     },
     {
       "manufacturer": "",

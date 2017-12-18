@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Armor 2",
+      "codename": "Armor_2",
+      "model": "Armor_2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MIX",
       "codename": "t816_gq_ulefone",
       "model": "MIX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MIX_2",
+      "codename": "MIX_2",
+      "model": "MIX_2"
     },
     {
       "manufacturer": "",
@@ -15,9 +27,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S7",
+      "codename": "t662_gq_n1616_we",
+      "model": "Ulefone S7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S7",
+      "codename": "t662_gq_ulefone",
+      "model": "Ulefone S7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8",
+      "codename": "S8",
+      "model": "Ulefone S8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S8 Pro",
       "codename": "S8_Pro",
       "model": "S8_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8_",
+      "codename": "S8",
+      "model": "Ulefone S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T1",
+      "codename": "Ulefone_T1",
+      "model": "T1"
     }
   ]
 }

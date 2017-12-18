@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MW16Q9-4G",
+      "codename": "MW16Q9_4G",
+      "model": "MW16Q9_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEI11011",
       "codename": "TEI11011MST",
       "model": "TEI11011MST"
@@ -48,6 +54,12 @@
       "market_name": "TF10EA2",
       "codename": "TF10EA2_11",
       "model": "TF10EA2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TF10MK1",
+      "codename": "TF10MK1_2",
+      "model": "TF10MK1"
     }
   ]
 }

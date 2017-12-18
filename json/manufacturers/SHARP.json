@@ -453,6 +453,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R compact 701SH",
+      "codename": "SG701SH",
+      "model": "701SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R compact SH-M06",
+      "codename": "SH-M06",
+      "model": "SH-M06"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R compact SHV41",
+      "codename": "JWT",
+      "model": "SHV41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS S3mini (SG1)",
+      "codename": "SG1",
+      "model": "FS8018"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS SERIE SHL25",
       "codename": "SHL25",
       "model": "SHL25"
@@ -600,6 +624,30 @@
       "market_name": "AQUOS mini SH-M03",
       "codename": "SH-M03",
       "model": "SH-M03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense",
+      "codename": "KXU_u",
+      "model": "SHV40_u"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense SH-01K",
+      "codename": "SH-01K",
+      "model": "SH-01K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense SHV40",
+      "codename": "KXU",
+      "model": "SHV40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense lite (SH-M05)",
+      "codename": "SH-M05",
+      "model": "SH-M05"
     },
     {
       "manufacturer": "",
@@ -885,7 +933,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LC-S4H/LC-S45H",
+      "market_name": "LC-S4H/LC-S45H/LC-S50H",
       "codename": "lc_xxcae5h",
       "model": "LC-xxCAE5H"
     },
@@ -906,6 +954,12 @@
       "market_name": "LC-UA6800X/LC-UA8000X",
       "codename": "lc_theux",
       "model": "AQUOS-4KTVX17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LC-US5/LC-UH5/4T-C**AJ1/4T-C70AU1",
+      "codename": "lc_sunuj",
+      "model": "AQUOS-4KTVJ17"
     },
     {
       "manufacturer": "",
@@ -1065,6 +1119,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LCD-xxMY8009A",
+      "codename": "lcd_xxbel7a_d",
+      "model": "LCD-xxBEL7A-D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LCD-xxSU670A/xxMY6100A/xxSU675A/xxSU775A/xxSU875A",
+      "codename": "lcd_xxdem6a",
+      "model": "LCD-xxDEM6A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LCD-xxSU671A",
+      "codename": "Lcd_xxsufoc5a",
+      "model": "LCD_xxSUFOC5A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LCD-xxSU775A;LCD-xxMY7100A",
+      "codename": "lcd_xxdem7a",
+      "model": "LCD-xxDEM7A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LCD-xxSU875A;LCD-xxSU675A;LCD-xxMY8100A",
+      "codename": "lcd_xxdem8a",
+      "model": "LCD-xxDEM8A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LC_50FOC45H",
       "codename": "Lc_50foc45h",
       "model": "LC_50FOC45H"
@@ -1101,6 +1185,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PN-B501/PN-B401",
+      "codename": "PN_B_series",
+      "model": "PN_B_series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PN-B501/PN-B401",
+      "codename": "PN_B_series_w",
+      "model": "PN_B_series"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q-pot.Phone SH-04D",
       "codename": "SH04D",
       "model": "SH-04D"
@@ -1110,6 +1206,18 @@
       "market_name": "RW107",
       "codename": "RW107",
       "model": "RW107"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RZ-E302",
+      "codename": "rk3188_10P_A",
+      "model": "RZ-E302"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S3",
+      "codename": "rome_sprout",
+      "model": "S3-SH"
     },
     {
       "manufacturer": "",
@@ -1211,7 +1319,25 @@
       "manufacturer": "",
       "market_name": "SHARP AQUOS S2 Plus",
       "codename": "SAT",
+      "model": "FS8008"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP AQUOS S2 Plus",
+      "codename": "SAT",
       "model": "FS8016"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp Pi",
+      "codename": "AG3",
+      "model": "IF9007"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp R1",
+      "codename": "SE3_VN",
+      "model": "FS8014"
     },
     {
       "manufacturer": "",

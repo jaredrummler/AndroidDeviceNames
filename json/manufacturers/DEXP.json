@@ -3,15 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DEXP Ixion X150",
+      "codename": "Ixion_X150",
+      "model": "Ixion X150"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DEXP P170",
       "codename": "P170",
       "model": "P170"
     },
     {
       "manufacturer": "",
+      "market_name": "DEXP_B160",
+      "codename": "B160",
+      "model": "B160"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EL450",
       "codename": "EL450",
       "model": "Ixion EL450"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ERA",
+      "codename": "MS550",
+      "model": "MS550"
     },
     {
       "manufacturer": "",
@@ -72,6 +90,12 @@
       "market_name": "MS650",
       "codename": "MS650",
       "model": "MS650"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XL155",
+      "codename": "XL155",
+      "model": "Ixion XL155"
     },
     {
       "manufacturer": "",

@@ -3,9 +3,51 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Android Wear",
+      "codename": "bluegill",
+      "model": "Alberto"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android Wear",
+      "codename": "bluegill",
+      "model": "EA Connected"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android Wear",
+      "codename": "glowlight",
+      "model": "GUESS Connect"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android Wear",
+      "codename": "shiner",
+      "model": "Sofie"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
+      "codename": "edgar_cheets",
+      "model": "Chromebook 14 (CB3-431)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Chromebook",
       "codename": "hana_cheets",
       "model": "Lenovo N23 Yoga/Flex 11 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
+      "codename": "jerry_cheets",
+      "model": "RK3288 Chrome OS Device"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
+      "codename": "mighty_cheets",
+      "model": "RK3288 Chrome OS Device"
     },
     {
       "manufacturer": "",
@@ -66,6 +108,12 @@
       "market_name": "Pixel XL",
       "codename": "marlin",
       "model": "Pixel XL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixelbook",
+      "codename": "eve_cheets",
+      "model": "Google Pixelbook"
     },
     {
       "manufacturer": "",

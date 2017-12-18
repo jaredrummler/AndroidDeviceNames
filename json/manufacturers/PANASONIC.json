@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELUGA C",
+      "codename": "Panasonic_ELUGA_C",
+      "model": "Panasonic_ELUGA_C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELUGA I",
       "codename": "ELUGA_I",
       "model": "Panasonic ELUGA I"
@@ -285,6 +291,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Eco10 v3",
+      "codename": "ecov310",
+      "model": "Eco v3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eco10 v3 Plus",
+      "codename": "ecov3p10",
+      "model": "Eco v3 plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Eco11 v2",
       "codename": "Eco11v2",
       "model": "Eco11 v2"
@@ -294,6 +312,12 @@
       "market_name": "Eco12 v3",
       "codename": "ecov312",
       "model": "Eco v3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eco12 v3 Plus",
+      "codename": "ecov3p12",
+      "model": "Eco v3 plus"
     },
     {
       "manufacturer": "",
@@ -330,6 +354,12 @@
       "market_name": "Elite 12 v3",
       "codename": "Elitev3_12",
       "model": "Elitev3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite 12 v3.1",
+      "codename": "elitev3a_cam",
+      "model": "Elite v3a with camera"
     },
     {
       "manufacturer": "",
@@ -567,6 +597,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IPSC 4",
+      "codename": "ipsc4",
+      "model": "IPSC4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JT-B1",
       "codename": "B1",
       "model": "JT-B1"
@@ -749,7 +785,25 @@
       "manufacturer": "",
       "market_name": "Panasonic P100",
       "codename": "P100",
+      "model": "P100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panasonic P100",
+      "codename": "P100",
       "model": "Panasonic P100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panasonic P90",
+      "codename": "Panasonic_P90",
+      "model": "Panasonic P90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panasonic P95",
+      "codename": "P95",
+      "model": "Panasonic P95"
     },
     {
       "manufacturer": "",
@@ -885,6 +939,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Theater v3",
+      "codename": "theaterv3",
+      "model": "theaterv3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Translation device",
       "codename": "WA-P7",
       "model": "WA-P7"
@@ -918,6 +978,12 @@
       "market_name": "WSCU",
       "codename": "wscu",
       "model": "WSCU3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Yaris M",
+      "codename": "T31",
+      "model": "Panasonic T31"
     }
   ]
 }

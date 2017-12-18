@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "LUNA G60",
+      "codename": "G60",
+      "model": "LUNA G60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R50A",
       "codename": "R50A",
       "model": "R50A"

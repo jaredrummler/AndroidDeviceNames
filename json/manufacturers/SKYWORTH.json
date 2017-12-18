@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Europe",
+      "codename": "globe_eu",
+      "model": "globe"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "North America",
+      "codename": "globe_na",
+      "model": "globe"
+    },
+    {
+      "manufacturer": "",
       "market_name": "South America",
       "codename": "globe_sa",
       "model": "globe"

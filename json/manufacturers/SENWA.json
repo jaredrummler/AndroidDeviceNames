@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Senwa",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "LS5",
+      "codename": "Telcel_LS5",
+      "model": "LS5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Telcel_LS50",
+      "codename": "Telcel_LS50",
+      "model": "LS50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Telcel_LS55",
+      "codename": "Telcel_LS55",
+      "model": "LS55"
+    }
+  ]
+}

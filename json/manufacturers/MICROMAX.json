@@ -316,6 +316,12 @@
     {
       "manufacturer": "",
       "market_name": "Bolt",
+      "codename": "Q3001",
+      "model": "Micromax Q3001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bolt",
       "codename": "Q301",
       "model": "Micromax Q301"
     },
@@ -426,6 +432,12 @@
       "market_name": "Bolt Pace",
       "codename": "Q402",
       "model": "Micromax Q402"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bolt Q3301",
+      "codename": "Q3301",
+      "model": "Micromax Q3301"
     },
     {
       "manufacturer": "",
@@ -726,6 +738,12 @@
       "market_name": "Canvas Hue 2",
       "codename": "A316",
       "model": "Micromax A316"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Canvas Infinity",
+      "codename": "HS2",
+      "model": "Micromax HS2"
     },
     {
       "manufacturer": "",
@@ -1101,6 +1119,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EVOK DUAL NOTE",
+      "codename": "E4815",
+      "model": "Micromax E4815"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Evok Dual Note",
+      "codename": "E4817",
+      "model": "Micromax E4817"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Evok Note",
       "codename": "E453",
       "model": "Micromax E453"
@@ -1119,15 +1149,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MIcromax Bharat 4",
+      "codename": "Q440",
+      "model": "Micromax Q440"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Micromax Canvas 1",
       "codename": "C1",
       "model": "Micromax C1"
     },
     {
       "manufacturer": "",
+      "market_name": "Micromax Canvas Music M1",
+      "codename": "Q4261",
+      "model": "Micromax Q4261"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Micromax Selfie 2",
       "codename": "Q4311",
       "model": "Micromax Q4311"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Micromax Selfie 2 Note",
+      "codename": "Q4601",
+      "model": "Micromax Q4601"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Micromax Spark 4G Prime(2017)",
+      "codename": "Q452",
+      "model": "Micromax Q452"
     },
     {
       "manufacturer": "",
@@ -1182,6 +1236,12 @@
       "market_name": "Selfie 2",
       "codename": "Q340",
       "model": "Micromax Q340"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Selfie 3",
+      "codename": "E460",
+      "model": "Micromax E460"
     },
     {
       "manufacturer": "",
@@ -1278,6 +1338,12 @@
       "market_name": "YUREKA S",
       "codename": "YUREKA2",
       "model": "YU5551"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Yunique 2 Plus",
+      "codename": "YU5012",
+      "model": "YU5012"
     },
     {
       "manufacturer": "",

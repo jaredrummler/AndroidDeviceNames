@@ -1,0 +1,23 @@
+{
+  "manufacturer": "FPT Trading",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "FPT X10",
+      "codename": "X10",
+      "model": "FPT_X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FPT X3",
+      "codename": "FPT_X3",
+      "model": "FPT X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FPT X9",
+      "codename": "X9",
+      "model": "FPT_X9"
+    }
+  ]
+}

@@ -89,6 +89,12 @@
       "manufacturer": "",
       "market_name": "BQ-5201",
       "codename": "BQru-5201",
+      "model": "BQ-5201"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-5201",
+      "codename": "BQru-5201",
       "model": "BQru-5201"
     },
     {
@@ -111,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5500L Advance",
+      "codename": "BQru-5500L",
+      "model": "BQ-5500L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-5504\\xc2\\xa0Strike\\xc2\\xa0Selfie\\xc2\\xa0Max",
       "codename": "BQru_5504",
       "model": "BQru-5504"
@@ -129,9 +141,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5522\\xc2\\xa0Next",
+      "codename": "BQru-5522",
+      "model": "BQ-5522"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-5590 Spring",
       "codename": "BQru_5590",
       "model": "BQru_5590"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-5700L Space X",
+      "codename": "BQru-5700L",
+      "model": "BQ-5700L"
     },
     {
       "manufacturer": "",

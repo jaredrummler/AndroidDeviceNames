@@ -3,9 +3,45 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BL5000",
+      "codename": "BL5000",
+      "model": "BL5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL7000",
+      "codename": "BL7000",
+      "model": "BL7000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mix",
+      "codename": "MIX",
+      "model": "MIX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S30",
+      "codename": "S30",
+      "model": "S30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S60",
+      "codename": "S60",
+      "model": "S60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Shoot_ 1",
       "codename": "Shoot_1",
       "model": "Shoot_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T5",
+      "codename": "T5",
+      "model": "T5"
     },
     {
       "manufacturer": "",
@@ -18,6 +54,12 @@
       "market_name": "X10",
       "codename": "doogee-X10",
       "model": "DOOGEE X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X20",
+      "codename": "X20",
+      "model": "X20"
     },
     {
       "manufacturer": "",
@@ -96,6 +138,12 @@
       "market_name": "Y6 C",
       "codename": "Y6C",
       "model": "Y6C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y6 Max",
+      "codename": "Y6_Max",
+      "model": "Y6 Max"
     },
     {
       "manufacturer": "",

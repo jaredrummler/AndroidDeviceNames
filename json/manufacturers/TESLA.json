@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tesla SP3.3 Lite",
+      "codename": "Tesla_SP3_3Lite",
+      "model": "Tesla_SP3.3 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tesla Smartphone 3.3",
       "codename": "Tesla_SP3_3",
       "model": "Tesla_SP3.3"
@@ -22,6 +28,12 @@
     {
       "manufacturer": "",
       "market_name": "Tesla Smartphone 9.1",
+      "codename": "L6195",
+      "model": "Tesla_SP9.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tesla_SP9.1",
       "codename": "L6195",
       "model": "Tesla_SP9.1"
     }

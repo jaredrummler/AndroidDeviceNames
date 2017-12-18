@@ -99,9 +99,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L500U",
+      "codename": "L500U",
+      "model": "L500U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L501",
+      "codename": "L501",
+      "model": "L501"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L575",
       "codename": "L575",
       "model": "L575"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Seoul_S8",
+      "codename": "Seoul_S8",
+      "model": "Seoul S8"
     },
     {
       "manufacturer": "",
@@ -153,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ultra Shine",
+      "codename": "Ultra_Shine",
+      "model": "Ultra Shine"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ultra Storm",
       "codename": "Ultra_Storm",
       "model": "Ultra Storm"
@@ -180,6 +204,12 @@
       "market_name": "e551",
       "codename": "e551",
       "model": "e551"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "e551 Lite",
+      "codename": "e551_Lite",
+      "model": "e551 Lite"
     }
   ]
 }

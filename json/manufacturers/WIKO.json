@@ -411,6 +411,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ROBBY2",
+      "codename": "V3921",
+      "model": "ROBBY2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SELFY",
       "codename": "SELFY",
       "model": "SELFY"
@@ -618,6 +624,18 @@
       "market_name": "U PULSE LITE",
       "codename": "v3971",
       "model": "U PULSE LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIEW",
+      "codename": "v12dnlite",
+      "model": "View"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIEW",
+      "codename": "v12enlite",
+      "model": "View"
     },
     {
       "manufacturer": "",

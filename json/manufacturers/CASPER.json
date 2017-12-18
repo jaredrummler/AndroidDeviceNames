@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIA A2",
+      "codename": "CASPER_VIA_A2",
+      "model": "CASPER_VIA_A2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA G1",
+      "codename": "CASPER_VIA_G1",
+      "model": "CASPER_VIA_G1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA G1 Plus",
+      "codename": "CASPER_VIA_G1_Plus",
+      "model": "CASPER_VIA_G1_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIA M3",
       "codename": "CASPER_VIA_M3",
       "model": "CASPER_VIA_M3"

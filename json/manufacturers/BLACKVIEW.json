@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A7PRO",
+      "codename": "A7Pro",
+      "model": "A7Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A8 MAX",
       "codename": "A8_MAX",
       "model": "A8 MAX"
@@ -24,6 +30,12 @@
       "market_name": "A9 Pro",
       "codename": "A9_Pro",
       "model": "A9_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV4000",
+      "codename": "BV4000",
+      "model": "BV4000"
     },
     {
       "manufacturer": "",
@@ -57,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blackview A10",
+      "codename": "A10",
+      "model": "A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blackview BV4000Pro",
+      "codename": "BV4000Pro",
+      "model": "BV4000Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blackview P2",
       "codename": "P2",
       "model": "P2"
@@ -72,6 +96,12 @@
       "market_name": "P2 Lite",
       "codename": "P2Lite",
       "model": "P2Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8",
+      "codename": "S8",
+      "model": "S8"
     }
   ]
 }

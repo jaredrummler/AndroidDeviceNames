@@ -21,24 +21,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "IRBIS TZ737",
-      "codename": "TZ737",
-      "model": "TZ737"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "IRBIS TZ747",
-      "codename": "TZ747",
-      "model": "TZ747"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "IRBIS TZ752",
-      "codename": "TZ752",
-      "model": "TZ752"
-    },
-    {
-      "manufacturer": "",
       "market_name": "SP454",
       "codename": "SP454",
       "model": "SP454"
@@ -87,9 +69,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TZ762",
+      "codename": "TZ762",
+      "model": "TZ762"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ771",
+      "codename": "TZ771",
+      "model": "TZ771"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ777",
       "codename": "TZ777",
       "model": "TZ777"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ794",
+      "codename": "TZ794",
+      "model": "TZ794"
     },
     {
       "manufacturer": "",
@@ -123,9 +123,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TZ892",
+      "codename": "TZ892",
+      "model": "TZ892"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ960",
       "codename": "TZ960",
       "model": "TZ960"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ961",
+      "codename": "TZ961",
+      "model": "TZ961"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ962",
+      "codename": "TZ962",
+      "model": "TZ962"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ965",
+      "codename": "TZ965",
+      "model": "TZ965"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ969",
+      "codename": "TZ969",
+      "model": "TZ969"
     }
   ]
 }

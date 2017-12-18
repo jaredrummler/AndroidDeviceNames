@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Champ",
+      "codename": "Champ",
+      "model": "FS529"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cirrus 11",
       "codename": "Cirrus_11",
       "model": "FS517"
@@ -36,6 +42,12 @@
       "market_name": "Cirrus 16",
       "codename": "Cirrus_16",
       "model": "FS523"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cirrus 17",
+      "codename": "Cirrus_17",
+      "model": "FS525"
     },
     {
       "manufacturer": "",
@@ -417,6 +429,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Memory Plus",
+      "codename": "Memory_Plus",
+      "model": "FS528"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nimbus 10",
       "codename": "Nimbus_10",
       "model": "FS512"
@@ -450,6 +468,12 @@
       "market_name": "Nimbus 16",
       "codename": "Nimbus_16",
       "model": "FS459"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nimbus 17",
+      "codename": "Nimbus_17",
+      "model": "FS527"
     },
     {
       "manufacturer": "",
@@ -501,9 +525,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Power Plus 2",
+      "codename": "Power_Plus_2",
+      "model": "FS526"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Power Plus FHD",
       "codename": "Power_Plus_FHD",
       "model": "FS554"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power Plus XXL",
+      "codename": "Power_Plus_XXL",
+      "model": "FS530"
     },
     {
       "manufacturer": "",

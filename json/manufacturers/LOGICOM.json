@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C bot tab 100",
+      "codename": "CBotTab100",
+      "model": "C Bot Tab 100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C bot tab 70",
       "codename": "C_Bot_Tab_70",
       "model": "C Bot Tab 70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT1080",
+      "codename": "CT1080",
+      "model": "CT1080"
     },
     {
       "manufacturer": "",
@@ -66,6 +78,12 @@
       "market_name": "ID bot 553+",
       "codename": "IDbot553PLUS",
       "model": "IDbot553PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ID bot 56",
+      "codename": "ID_bot_56",
+      "model": "ID bot 56"
     },
     {
       "manufacturer": "",
@@ -429,6 +447,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Touch Tablet CT730",
+      "codename": "CT730",
+      "model": "CT730"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VRBOT552",
       "codename": "VRBOT552",
       "model": "VR BOT 552"
@@ -438,6 +462,12 @@
       "market_name": "VRBOT552PLUS",
       "codename": "VRBOT552PLUS",
       "model": "VR BOT 552 PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Volt-R",
+      "codename": "Volt-R",
+      "model": "Volt-R"
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "MeanIT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "C4",
+      "codename": "C4",
+      "model": "C4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meanIT C80C81",
+      "codename": "meanIT_C80C81",
+      "model": "meanIT_C80C81"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meanIT_C10C11",
+      "codename": "meanIT_C10C11",
+      "model": "meanIT_C10C11"
+    }
+  ]
+}

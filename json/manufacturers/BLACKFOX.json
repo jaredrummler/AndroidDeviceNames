@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Blackfox",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BMM541D",
+      "codename": "BMM541D",
+      "model": "BMM541D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BMM542D",
+      "codename": "BMM542D",
+      "model": "BMM542D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BMM_533D",
+      "codename": "BMM_533D",
+      "model": "BMM_533D"
+    }
+  ]
+}

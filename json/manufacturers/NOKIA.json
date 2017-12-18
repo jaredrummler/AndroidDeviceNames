@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 2",
+      "codename": "E1M",
+      "model": "Nokia 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 3",
       "codename": "NE1",
       "model": "TA-1020"
@@ -70,6 +76,12 @@
     {
       "manufacturer": "",
       "market_name": "Nokia 6",
+      "codename": "PL2",
+      "model": "TA-1054"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 6",
       "codename": "PLE",
       "model": "TA-1021"
     },
@@ -90,6 +102,12 @@
       "market_name": "Nokia 6",
       "codename": "PLE",
       "model": "TA-1039"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 7",
+      "codename": "C1N",
+      "model": "TA-1041"
     },
     {
       "manufacturer": "",

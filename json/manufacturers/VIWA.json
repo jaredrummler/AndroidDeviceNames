@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "LIGHT ONE",
+      "codename": "VIWA_LIGHT_ONE",
+      "model": "LIGHT ONE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X2",
       "codename": "VIWA_X2",
       "model": "X2"

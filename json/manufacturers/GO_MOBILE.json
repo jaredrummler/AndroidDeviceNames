@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Go Mobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GO Onyx",
+      "codename": "GO_Onyx_LTE",
+      "model": "GO Onyx LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GO1004",
+      "codename": "GO1004",
+      "model": "GO1004"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GO1402S",
+      "codename": "GO1402S",
+      "model": "GO1402S"
+    }
+  ]
+}

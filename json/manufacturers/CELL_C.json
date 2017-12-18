@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Eclipse",
+      "codename": "Eclipse",
+      "model": "Eclipse"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fantasy",
       "codename": "Cell_C",
       "model": "Fantasy"
@@ -33,9 +39,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Jewel",
+      "codename": "Jewel",
+      "model": "Jewel"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Luna",
+      "codename": "Luna",
+      "model": "Luna"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Summit",
       "codename": "Cell_C",
       "model": "Summit"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Summit Plus",
+      "codename": "Summit_Plus",
+      "model": "Cell_C_Summit_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Titan",
+      "codename": "Titan",
+      "model": "Titan"
     },
     {
       "manufacturer": "",

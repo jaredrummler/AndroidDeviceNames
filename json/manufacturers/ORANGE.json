@@ -3,18 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "ALCATEL PIXI 4 (5)",
-      "codename": "PIXI4_5_4G",
-      "model": "Orange-Rise51"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "ALCATEL PIXI 4 (5)",
-      "codename": "PIXI4_5_4G",
-      "model": "Orange-Rise51B"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Dive 30",
       "codename": "P635E40",
       "model": "Orange Dive 30"
@@ -99,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Orange Rise 33",
+      "codename": "Rise33",
+      "model": "Orange_Rise_33"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Rise 30",
       "codename": "Pixi3-4",
       "model": "Orange Rise 30"
@@ -138,6 +132,12 @@
       "market_name": "Rise51",
       "codename": "PIXI4_5_4G",
       "model": "Orange-Rise51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rise51",
+      "codename": "PIXI4_5_4G",
+      "model": "Orange-Rise51B"
     },
     {
       "manufacturer": "",

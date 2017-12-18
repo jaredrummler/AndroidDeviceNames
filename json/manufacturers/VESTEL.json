@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Teos",
+      "codename": "Teos",
+      "model": "Venus V5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "\"V TAB 7\"\" LITE II\"",
       "codename": "V_TAB_7_LITE_II",
       "model": "VTAB7LITEII"
@@ -300,6 +306,12 @@
       "market_name": "VTAB 1040",
       "codename": "V_TAB_1040",
       "model": "V_TAB_1040"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Venus E2 Plus",
+      "codename": "Ada",
+      "model": "Venus E2 Plus"
     },
     {
       "manufacturer": "",

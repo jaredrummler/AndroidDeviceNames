@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1",
+      "codename": "LAVAA1",
+      "model": "LAVAA1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "LAVA_A3",
       "model": "LAVA_A3"
@@ -210,6 +216,12 @@
       "market_name": "R1",
       "codename": "LAVA_R1",
       "model": "LAVA_R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R1LITE",
+      "codename": "R1_Lite",
+      "model": "R1_Lite"
     },
     {
       "manufacturer": "",

@@ -69,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Superme_Max",
+      "codename": "Superme_Max",
+      "model": "Superme_Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Supreme Chief",
+      "codename": "Supreme_Chief",
+      "model": "Supreme Chief"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Supreme Fine",
       "codename": "Supreme_Fine",
       "model": "Supreme_Fine"
@@ -78,6 +90,24 @@
       "market_name": "Supreme Fine Mini",
       "codename": "Supreme_Fine_Mini",
       "model": "Supreme_Fine_Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Supreme Fine Plus",
+      "codename": "Supreme_Fine_Plus",
+      "model": "Supreme Fine Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Supreme Pro",
+      "codename": "Supreme_Pro",
+      "model": "Supreme_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Supreme_Fine_Micro",
+      "codename": "Supreme_Fine_Micro",
+      "model": "Supreme_Fine_Micro"
     },
     {
       "manufacturer": "",
@@ -102,6 +132,18 @@
       "market_name": "T503",
       "codename": "T503",
       "model": "T503"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision Tab 10",
+      "codename": "Vision_Tab_10",
+      "model": "Vision_Tab_10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision_Tab_7",
+      "codename": "Vision_Tab_7",
+      "model": "Vision_Tab_7"
     }
   ]
 }

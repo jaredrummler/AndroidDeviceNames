@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Advance 5.2",
+      "codename": "A230Q",
+      "model": "Advance 5.2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Advance A5 LTE",
       "codename": "A0010WW",
       "model": "Advance A5 LTE"
@@ -48,6 +54,12 @@
       "market_name": "Advance\\xc2\\xa0A5\\xc2\\xa0Plus\\xc2\\xa0LTE",
       "codename": "A0031WW",
       "model": "Advance A5 Plus LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLU Studio G3",
+      "codename": "S770P",
+      "model": "Studio G3"
     },
     {
       "manufacturer": "",
@@ -234,6 +246,18 @@
       "market_name": "Grand XL",
       "codename": "Grand_XL",
       "model": "Grand XL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grand_M2",
+      "codename": "G190",
+      "model": "Grand M2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grand_X",
+      "codename": "Grand_X",
+      "model": "Grand X"
     },
     {
       "manufacturer": "",

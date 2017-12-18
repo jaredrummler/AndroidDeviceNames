@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT5 Lite",
+      "codename": "X557",
+      "model": "Infinix HOT 4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinix",
       "codename": "Infinix_X510_sprout",
       "model": "Infinix X510"
@@ -450,6 +456,24 @@
       "market_name": "Zero 4 Plus",
       "codename": "X602",
       "model": "Infinix Zero 4 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zero 5",
+      "codename": "Infinix-X603",
+      "model": "Infinix X603"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zero 5 Pro",
+      "codename": "Infinix-X603",
+      "model": "Infinix X603"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zero 5 Pro",
+      "codename": "Infinix-X603",
+      "model": "Infinix X603-LTE"
     }
   ]
 }

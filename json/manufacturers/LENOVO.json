@@ -2115,6 +2115,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo TAB4",
+      "codename": "701LV",
+      "model": "701LV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo TAB4",
+      "codename": "702LV",
+      "model": "702LV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab 7 Essential",
       "codename": "7304I",
       "model": "Lenovo TB-7304I"
@@ -2226,6 +2238,12 @@
       "market_name": "LenovoTV 50S52;AQUOS LCD-50S1A",
       "codename": "bumblebee",
       "model": "LenovoTV 50S52"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo_K320t",
+      "codename": "Lenovo_K320t",
+      "model": "Lenovo K320t"
     },
     {
       "manufacturer": "",
@@ -3159,6 +3177,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ThinkPad 11e Chromebook 3rd Gen",
+      "codename": "ultima_cheets",
+      "model": "ThinkPad 11e Chromebook 3rd Gen (Yoga/Clamshell)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ThinkVision28",
       "codename": "ThinkVision28",
       "model": "ThinkVision28"
@@ -3168,6 +3192,12 @@
       "market_name": "Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)",
       "codename": "pyro_cheets",
       "model": "Lenovo Thinkpad 11e Chromebook (4th Gen)/Lenovo Thinkpad Yoga 11e Chromebook (4th Gen)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Thinkpad 13 Chromebook",
+      "codename": "sentry_cheets",
+      "model": "Thinkpad 13 Chromebook"
     },
     {
       "manufacturer": "",
@@ -3516,6 +3546,12 @@
       "market_name": "ideatvK82 60LX750A  52LX750A  46LX750A  60LX850A  70LX850A 80LX850A",
       "codename": "ideatv_K82",
       "model": "ideatv K82"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\xb0\\x8f\\xe6\\x96\\xb0\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf",
+      "codename": "X804F",
+      "model": "Lenovo TB-X804F"
     }
   ]
 }

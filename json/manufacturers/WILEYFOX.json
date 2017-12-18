@@ -21,7 +21,19 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Spark Add-X",
+      "codename": "porridge",
+      "model": "Wileyfox Spark"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Spark X",
+      "codename": "porridgek3",
+      "model": "Wileyfox Spark X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Spark X Add-X",
       "codename": "porridgek3",
       "model": "Wileyfox Spark X"
     },
@@ -60,6 +72,12 @@
       "market_name": "Swift 2",
       "codename": "marmite",
       "model": "Wileyfox Swift 2 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swift2 Add-X",
+      "codename": "marmite",
+      "model": "Swift 2 Plus"
     }
   ]
 }

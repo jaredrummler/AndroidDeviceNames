@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "B-52",
+      "codename": "176HS1050232",
+      "model": "176HS1050232"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DRONE",
       "codename": "FMT-NM7108-01",
       "model": "FMT-NM7108-01"
@@ -12,6 +18,12 @@
       "market_name": "Dual 8",
       "codename": "FMT-NT8A42-01",
       "model": "FMT-NT8A42-01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eagle",
+      "codename": "175WT1050231",
+      "model": "175WT1050231"
     },
     {
       "manufacturer": "",
@@ -33,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Falcon",
+      "codename": "176HS1050531",
+      "model": "176HS1050531"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flash",
       "codename": "FMT-NM7058-02",
       "model": "FMT-NM7058-02"
@@ -48,6 +66,18 @@
       "market_name": "Netsurfer TYPHOON",
       "codename": "16M5HI105023",
       "model": "16M5HI105023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tomcat",
+      "codename": "175HS1050231",
+      "model": "175HS1050231"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Viper",
+      "codename": "175FT1050241",
+      "model": "175FT1050241"
     },
     {
       "manufacturer": "",

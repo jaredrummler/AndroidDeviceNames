@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "FERO ROYALE Y2",
+      "codename": "Royale_Y2",
+      "model": "Royale Y2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POWER 3",
+      "codename": "Power_3",
+      "model": "Power 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Royale X2",
       "codename": "Royale_X2",
       "model": "Royale_X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Royale Y2 Lite",
+      "codename": "Royale_Y2_Lite",
+      "model": "Royale Y2 Lite"
     }
   ]
 }

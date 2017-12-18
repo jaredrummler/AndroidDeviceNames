@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Friendly TH101",
+      "codename": "Friendly_TH101",
+      "model": "Friendly_TH101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PRIMO7 Tablet",
       "codename": "PRIMO7",
       "model": "PRIMO7"

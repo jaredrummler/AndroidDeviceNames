@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Meizu",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M6",
+      "codename": "meizu_M6",
+      "model": "M6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M6",
+      "codename": "meizu_M6",
+      "model": "MEIZU M6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M6 Note",
+      "codename": "M6Note",
+      "model": "M6 Note"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRO 7",
+      "codename": "PRO7S",
+      "model": "PRO 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRO 7 Plus",
+      "codename": "PRO7Plus",
+      "model": "PRO 7 Plus"
+    }
+  ]
+}

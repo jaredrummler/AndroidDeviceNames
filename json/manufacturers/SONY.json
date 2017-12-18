@@ -387,6 +387,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xperia Hello",
+      "codename": "G1209",
+      "model": "G1209"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xperia J",
       "codename": "ST26a",
       "model": "ST26a"
@@ -564,6 +570,18 @@
       "market_name": "Xperia PLAY",
       "codename": "R800i",
       "model": "R800i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia R1",
+      "codename": "G2199",
+      "model": "G2199"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia R1 Plus",
+      "codename": "G2299",
+      "model": "G2299"
     },
     {
       "manufacturer": "",
@@ -1000,8 +1018,20 @@
     {
       "manufacturer": "",
       "market_name": "Xperia XZ Premium",
+      "codename": "G8188",
+      "model": "G8188"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia XZ Premium",
       "codename": "SO-04J",
       "model": "SO-04J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia XZ1",
+      "codename": "701SO",
+      "model": "701SO"
     },
     {
       "manufacturer": "",
@@ -1023,9 +1053,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xperia XZ1",
+      "codename": "SO-01K",
+      "model": "SO-01K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia XZ1",
+      "codename": "SOV36",
+      "model": "SOV36"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xperia XZ1 Compact",
       "codename": "G8441",
       "model": "G8441"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia XZ1 Compact",
+      "codename": "SO-02K",
+      "model": "SO-02K"
     },
     {
       "manufacturer": "",

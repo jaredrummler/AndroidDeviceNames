@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Centric L3",
+      "codename": "L3",
+      "model": "Centric CM3331"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1",
+      "codename": "CM4331",
+      "model": "CM4331"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G1",
       "codename": "CM4331",
       "model": "G1"

@@ -159,6 +159,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GIONEE GN5007",
+      "codename": "GIONEE_BJ17G16",
+      "model": "GIONEE GN5007"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE GN5007L",
+      "codename": "GIONEE_BJ17G16",
+      "model": "GIONEE GN5007L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE M7L",
+      "codename": "GIONEE_SW17G07",
+      "model": "GIONEE M7L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE X1",
+      "codename": "GIONEE_SWW1631",
+      "model": "GIONEE X1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GN152",
       "codename": "GiONEE_CBL7320",
       "model": "GN152"
@@ -429,6 +453,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M7",
+      "codename": "GIONEE_SW17G07",
+      "model": "GIONEE M7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P2M",
       "codename": "GiONEE_WBW5612",
       "model": "P2M"
@@ -630,6 +660,12 @@
       "market_name": "S9",
       "codename": "GIONEE_GBL7558",
       "model": "S9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S_plus",
+      "codename": "GiONEE_WBL7511",
+      "model": "S_plus"
     },
     {
       "manufacturer": "",

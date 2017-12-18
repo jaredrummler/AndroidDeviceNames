@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TECHPAD X5",
+      "codename": "F518",
+      "model": "Techpad X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TechPad",
+      "codename": "TechPad_916",
+      "model": "916"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TechPad_10x",
       "codename": "TechPad_10x",
       "model": "TechPad_10x"

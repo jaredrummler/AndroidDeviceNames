@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Fabulous",
+      "codename": "NS5005",
+      "model": "NS5005"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NS5002",
       "codename": "NS5002",
       "model": "NS5002"

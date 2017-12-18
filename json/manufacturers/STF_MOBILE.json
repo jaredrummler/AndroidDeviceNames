@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AERIAL",
+      "codename": "STFAERIAL",
+      "model": "AERIAL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AERIAL PLUS",
+      "codename": "AERIAL",
+      "model": "AERIAL PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DUO",
+      "codename": "DUO",
+      "model": "DUO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fractal",
       "codename": "Fractal",
       "model": "Fractal"
@@ -15,9 +33,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IO",
+      "codename": "IO",
+      "model": "IO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Joy Pro",
+      "codename": "Joy_Pro",
+      "model": "Joy Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NATIVO",
       "codename": "NATIVO",
       "model": "NATIVO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Origins Pro",
+      "codename": "Origins_Pro",
+      "model": "Origins Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STF-BLOCK",
+      "codename": "Block",
+      "model": "Block"
     }
   ]
 }

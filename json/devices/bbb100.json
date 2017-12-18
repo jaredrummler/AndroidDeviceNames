@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "BlackBerry",
+    "market_name": "BlackBerry KEYone",
+    "codename": "bbb100",
+    "model": "BBB100-7"
+  },
+  {
+    "manufacturer": "BlackBerry",
     "market_name": "Blackberry Keyone",
     "codename": "bbb100",
     "model": "BBB100-7"

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGMA CITI 7507 4G CS7113PL",
+      "codename": "CS7113PL",
+      "model": "CITI_7507_4G_CS7113PL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA CITI 7543 3G CS7153MG",
       "codename": "CS7153MG",
       "model": "CITI_7543_3G_CS7153MG"
@@ -39,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGMA Plane 1538E 3G PS1150ML",
+      "codename": "PS1150ML",
+      "model": "Plane_1538E_4G_PS1150ML"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA Plane 1550S 3G PS1163MG",
       "codename": "PS1163MG",
       "model": "Plane_1550S_3G_PS1163MG"
@@ -63,6 +75,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGMA Plane 7545V 3G PS7151MG",
+      "codename": "PS7151MG",
+      "model": "Plane_7545V_3G_PS7151MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 8540E 4G PS8156ML",
+      "codename": "PS8156ML",
+      "model": "Plane_8540E_4G_PS8156ML"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA VOX Flash 4G VS5015ML",
       "codename": "VS5015ML",
       "model": "VOX Flash 4G VS5015ML"
@@ -78,6 +102,12 @@
       "market_name": "DIGMA VOX G501 4G VS5033ML",
       "codename": "VS5033ML",
       "model": "VOX_G501_4G_VS5033ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA VOX S513 4G VS5035ML",
+      "codename": "VS5035ML",
+      "model": "VOX_S513_4G_VS5035ML"
     },
     {
       "manufacturer": "",
@@ -105,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Plane 8555M 4G PS8168ML",
+      "codename": "PS8168ML",
+      "model": "Plane 8555M 4G PS8168ML"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Plane_7548S_4G_PS7160PL",
       "codename": "PS7160PL",
       "model": "Plane_7548S_4G_PS7160PL"
@@ -120,6 +156,18 @@
       "market_name": "Plane_8549S_4G",
       "codename": "PS8162PL",
       "model": "Plane_8549S_4G_PS8162PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VOX E502 4G VS5036PL",
+      "codename": "VS5036PL",
+      "model": "VOX E502 4G VS5036PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VOX FIRE 4G VS5037PL",
+      "codename": "VS5037PL",
+      "model": "VOX FIRE 4G VS5037PL"
     },
     {
       "manufacturer": "",

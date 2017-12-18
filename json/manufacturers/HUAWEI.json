@@ -3249,6 +3249,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Honor V10",
+      "codename": "HWBKL",
+      "model": "BKL-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor V10",
+      "codename": "HWBKL",
+      "model": "BKL-AL20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor V10",
+      "codename": "HWBKL",
+      "model": "BKL-TL10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Honor V8",
       "codename": "HWKNT",
       "model": "KNT-AL10"
@@ -3282,6 +3300,12 @@
       "market_name": "Honor V9",
       "codename": "HWDUK",
       "model": "DUK-TL30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor View 10",
+      "codename": "HWBKL",
+      "model": "BKL-L09"
     },
     {
       "manufacturer": "",
@@ -3534,6 +3558,78 @@
       "market_name": "Mate",
       "codename": "hwmt1-t00",
       "model": "HUAWEI MT1-T00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10",
+      "codename": "HWALP",
+      "model": "ALP-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10",
+      "codename": "HWALP",
+      "model": "ALP-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10",
+      "codename": "HWALP",
+      "model": "ALP-L29"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10",
+      "codename": "HWALP",
+      "model": "ALP-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10 Pro",
+      "codename": "HWBLA",
+      "model": "BLA-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10 Pro",
+      "codename": "HWBLA",
+      "model": "BLA-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10 Pro",
+      "codename": "HWBLA",
+      "model": "BLA-L29"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10 Pro",
+      "codename": "HWBLA",
+      "model": "BLA-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10 lite",
+      "codename": "HWRNE",
+      "model": "RNE-L01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10 lite",
+      "codename": "HWRNE",
+      "model": "RNE-L03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10 lite",
+      "codename": "HWRNE",
+      "model": "RNE-L21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10 lite",
+      "codename": "HWRNE",
+      "model": "RNE-L23"
     },
     {
       "manufacturer": "",
@@ -3903,6 +3999,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MediaPad M3 Lite 10",
+      "codename": "HWBAH-Q",
+      "model": "BAH-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MediaPad M3 Lite 10",
+      "codename": "HWBAH-Q",
+      "model": "BAH-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MediaPad M3 Lite 10",
+      "codename": "HWBAH-Q",
+      "model": "BAH-W09"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MediaPad T2 10.0 Pro",
       "codename": "hwfdr",
       "model": "605HW"
@@ -3966,6 +4080,18 @@
       "market_name": "MediaPad T2 8.0 Pro",
       "codename": "hwjdn",
       "model": "JDN-W09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MediaPad T3 7",
+      "codename": "HWBG2",
+      "model": "BG2-U01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MediaPad T3 7",
+      "codename": "hwbg2",
+      "model": "BG2-W09"
     },
     {
       "manufacturer": "",
@@ -6111,6 +6237,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "honor 6C Pro",
+      "codename": "HWJMM",
+      "model": "JMM-L22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "honor 6x",
       "codename": "HWBLN-H",
       "model": "BLN-L21"
@@ -6240,6 +6372,18 @@
       "market_name": "nova 2 Plus",
       "codename": "HWBAC",
       "model": "BAC-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nova 2i",
+      "codename": "HWRNE",
+      "model": "RNE-L02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nova 2i",
+      "codename": "HWRNE",
+      "model": "RNE-L22"
     },
     {
       "manufacturer": "",
@@ -6413,6 +6557,12 @@
       "manufacturer": "",
       "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfM3\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88 (8\\xe8\\x8b\\xb1\\xe5\\xaf\\xb8\\xef\\xbc\\x89",
       "codename": "HWCPN-Q",
+      "model": "702HW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfM3\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88 (8\\xe8\\x8b\\xb1\\xe5\\xaf\\xb8\\xef\\xbc\\x89",
+      "codename": "HWCPN-Q",
       "model": "CPN-AL00"
     },
     {
@@ -6426,6 +6576,18 @@
       "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfM3\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88 (8\\xe8\\x8b\\xb1\\xe5\\xaf\\xb8\\xef\\xbc\\x89",
       "codename": "HWCPN-Q",
       "model": "CPN-W09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfT3 8\\xe8\\xa1\\x8c\\xe4\\xb8\\x9a\\xe4\\xb8\\x93\\xe4\\xba\\xab\\xe7\\x89\\x88",
+      "codename": "HWBZK-Q",
+      "model": "BZK-L00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfT3 8\\xe8\\xa1\\x8c\\xe4\\xb8\\x9a\\xe4\\xb8\\x93\\xe4\\xba\\xab\\xe7\\x89\\x88",
+      "codename": "HWBZK-Q",
+      "model": "BZK-W00"
     },
     {
       "manufacturer": "",
@@ -6570,6 +6732,12 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
       "codename": "hwedison",
       "model": "EDI-DL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Waterplay",
+      "codename": "HWHDN-H",
+      "model": "HDN-L09"
     },
     {
       "manufacturer": "",
@@ -6759,6 +6927,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97X",
+      "codename": "HWBND-H",
+      "model": "BND-AL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97X",
+      "codename": "HWBND-H",
+      "model": "BND-TL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2",
+      "codename": "HWKobe-Q",
+      "model": "KOB-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2",
+      "codename": "HWKobe-Q",
+      "model": "KOB-W09"
+    },
+    {
+      "manufacturer": "",
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2 9.6",
       "codename": "HWAGS-Q",
       "model": "AGS-L03"
@@ -6774,6 +6966,18 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2 9.6",
       "codename": "HWAGS-Q",
       "model": "AGS-W09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2 9.6",
+      "codename": "HWBZA-Q",
+      "model": "BZA-L00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2 9.6",
+      "codename": "HWBZA-Q",
+      "model": "BZA-W00"
     },
     {
       "manufacturer": "",

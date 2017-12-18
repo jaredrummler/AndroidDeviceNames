@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Avvio A400",
+      "codename": "Avvio_A400",
+      "model": "Avvio_A400"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Avvio PRO450",
       "codename": "Avvio_Pro450",
       "model": "Avvio_Pro450"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Avvio PRO550",
+      "codename": "Avvio_Pro550",
+      "model": "Avvio_Pro550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Avvio Platinum A50",
+      "codename": "Avvio_A50",
+      "model": "Avvio_A50"
     }
   ]
 }

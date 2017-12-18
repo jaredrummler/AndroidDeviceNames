@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A31",
+      "codename": "itel_A31",
+      "model": "itel A31"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A41",
       "codename": "itel_A41",
       "model": "itel A41"
@@ -36,6 +42,12 @@
       "market_name": "A41 Plus",
       "codename": "itel_A41Plus",
       "model": "itel A41 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A42 Plus",
+      "codename": "itel-A42Plus",
+      "model": "itel A42 Plus"
     },
     {
       "manufacturer": "",
@@ -69,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P41",
+      "codename": "itel_P41",
+      "model": "itel P41"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P51",
       "codename": "P51",
       "model": "itel P51"
@@ -96,6 +114,12 @@
       "market_name": "S11 Plus",
       "codename": "S11Plus",
       "model": "itel S11Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S12",
+      "codename": "itel-S12",
+      "model": "itel S12"
     },
     {
       "manufacturer": "",
@@ -354,6 +378,12 @@
       "market_name": "itel S12",
       "codename": "itel-S12",
       "model": "itel S12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel S32LTE",
+      "codename": "itel-S32LTE",
+      "model": "itel S32LTE"
     }
   ]
 }

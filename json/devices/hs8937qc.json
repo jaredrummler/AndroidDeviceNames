@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Crosscall",
+    "market_name": "Action-X3",
+    "codename": "HS8937QC",
+    "model": "ACTION-X3"
+  },
+  {
+    "manufacturer": "Crosscall",
+    "market_name": "Action-X3",
+    "codename": "HS8937QC",
+    "model": "Action-X3"
+  },
+  {
     "manufacturer": "Hisense",
     "market_name": "A2",
     "codename": "HS8937QC",
@@ -31,6 +43,18 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "E77M",
+    "codename": "HS8937QC",
+    "model": "Hisense E77M"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "E77MINI",
+    "codename": "HS8937QC",
+    "model": "Hisense E77MINI"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "E9",
     "codename": "HS8937QC",
     "model": "Hisense E9"
@@ -58,6 +82,12 @@
     "market_name": "F32",
     "codename": "HS8937QC",
     "model": "Hisense F32"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "HLTE300T",
+    "codename": "HS8937QC",
+    "model": "HLTE300T"
   },
   {
     "manufacturer": "Hisense",
