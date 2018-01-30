@@ -8,6 +8,10 @@ android {
     minSdkVersion 7
     targetSdkVersion 25
   }
+
+  lintOptions {
+    abortOnError false
+  }
 }
 
 dependencies {
