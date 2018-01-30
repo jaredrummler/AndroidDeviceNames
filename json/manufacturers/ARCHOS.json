@@ -1131,6 +1131,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos 101b Oxygen",
+      "codename": "ac101boxv3",
+      "model": "Archos 101b Oxygen"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos 101b Xenon",
       "codename": "ac101bxev3",
       "model": "Archos 101b Xenon v3"
@@ -1281,6 +1287,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Core 101 3G",
+      "codename": "ac101cr3gv2",
+      "model": "Archos Core 101 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Core 101 3G",
+      "codename": "ac101cr3gv3",
+      "model": "Archos Core 101 3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Core 101 4G",
       "codename": "ac101cr4g",
       "model": "Archos Core 101 4G"
@@ -1317,8 +1335,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Core 57S",
+      "codename": "ac57crs",
+      "model": "Archos Core 57S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Core 70 3G",
       "codename": "ac70cr3g",
+      "model": "Archos Core 70 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Core 70 3G",
+      "codename": "ac70cr3gv2",
       "model": "Archos Core 70 3G"
     },
     {

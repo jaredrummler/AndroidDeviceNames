@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M4 B1",
+      "codename": "M4_B1",
+      "model": "M4_B1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M4 B2",
+      "codename": "M4_B2",
+      "model": "M4_B2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M4 B3",
+      "codename": "M4_B3",
+      "model": "M4_B3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M4 SS4450",
       "codename": "DREAMPLUS02A-S10A",
       "model": "M4 SS4450"

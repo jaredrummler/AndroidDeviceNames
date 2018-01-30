@@ -15,15 +15,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AT8B",
+      "codename": "AT8B",
+      "model": "AT8B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M50",
       "codename": "EVERCOSS_M50",
       "model": "M50"
     },
     {
       "manufacturer": "",
+      "market_name": "M50 MAX",
+      "codename": "EVERCOSS_M50_MAX",
+      "model": "M50 MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M50A",
       "codename": "EVERCOSS_M50A",
       "model": "M50A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M50A MAX",
+      "codename": "EVERCOSS_M50A_MAX",
+      "model": "M50A MAX"
     },
     {
       "manufacturer": "",
@@ -117,9 +135,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U60",
+      "codename": "EVERCOSS_U60",
+      "model": "U60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U70",
       "codename": "U70",
       "model": "U70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U70A",
+      "codename": "EVERCOSS_U70A",
+      "model": "U70A"
     }
   ]
 }

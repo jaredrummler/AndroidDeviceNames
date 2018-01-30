@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Cricket Wave",
+      "codename": "Cricket_Wave",
+      "model": "FTU18A00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FUN PLUS",
       "codename": "FUNPLUS",
       "model": "FUN PLUS"

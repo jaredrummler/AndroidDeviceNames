@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUA LIONS T1 LITE",
+      "codename": "AQUA_LIONS_T1_LITE",
+      "model": "INTEX AQUA LIONS T1 LITE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUA TREND LITE",
       "codename": "INTEX_AQUA_TREND_LITE",
       "model": "INTEX AQUA TREND LITE"
@@ -270,6 +276,18 @@
       "market_name": "INTEX Aqua Selfie",
       "codename": "INTEX_AQUA_SELFIE",
       "model": "INTEX AQUA SELFIE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INTEX_AQUA_S3",
+      "codename": "INTEX_AQUA_S3",
+      "model": "INTEX AQUA S3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i1",
+      "codename": "INTEX_i1",
+      "model": "INTEX i1"
     }
   ]
 }

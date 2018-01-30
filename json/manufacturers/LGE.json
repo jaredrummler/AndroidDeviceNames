@@ -717,6 +717,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "10SM3TB",
+      "codename": "lg_10sm3tb",
+      "model": "10sm3tb"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AKA",
       "codename": "aka",
       "model": "LG-F520L"
@@ -798,6 +804,12 @@
       "market_name": "DM-01G",
       "codename": "DM-01G",
       "model": "DM-01G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DM-01K",
+      "codename": "DM-01K",
+      "model": "DM-01K"
     },
     {
       "manufacturer": "",
@@ -3339,6 +3351,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG K8(2018)",
+      "codename": "cv1",
+      "model": "LM-X21(G)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG K8(2018)",
+      "codename": "cv1",
+      "model": "LM-X210(G)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG L39C",
       "codename": "l4ii_cdma",
       "model": "LGL39C"
@@ -4743,6 +4767,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG Tribute Dynasty",
+      "codename": "mcv150",
+      "model": "LG-SP200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG U",
       "codename": "bbg",
       "model": "LG-F820L"
@@ -5004,6 +5034,12 @@
       "market_name": "LG X power",
       "codename": "mk6pn",
       "model": "LG-K220"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG X power2",
+      "codename": "lv7",
+      "model": "LG-M320G"
     },
     {
       "manufacturer": "",
@@ -6741,6 +6777,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V30+",
+      "codename": "L-01K",
+      "model": "L-01K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V30+",
+      "codename": "joan",
+      "model": "LGV35"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VU3",
       "codename": "vu3",
       "model": "LG-F300K"
@@ -6756,6 +6804,12 @@
       "market_name": "VU3",
       "codename": "vu3",
       "model": "LG-F300S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WM-LG8200",
+      "codename": "b6",
+      "model": "LG-V425"
     },
     {
       "manufacturer": "",
@@ -6819,6 +6873,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X4",
+      "codename": "cv3n",
+      "model": "LM-X410K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X4",
+      "codename": "cv3n",
+      "model": "LM-X415K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X4+",
+      "codename": "cv3n",
+      "model": "LM-X410L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X4+",
+      "codename": "cv3n",
+      "model": "LM-X410S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X4+",
+      "codename": "cv3n",
+      "model": "LM-X415L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X4+",
+      "codename": "cv3n",
+      "model": "LM-X415S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y25",
       "codename": "y25",
       "model": "LGL15G"
@@ -6828,6 +6918,12 @@
       "market_name": "Y25",
       "codename": "y25c",
       "model": "LGL16C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZONE4",
+      "codename": "cv1",
+      "model": "LM-X210VPP"
     },
     {
       "manufacturer": "",

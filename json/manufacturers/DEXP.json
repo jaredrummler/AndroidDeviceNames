@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DEXP G150",
+      "codename": "G150",
+      "model": "G150"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DEXP Ixion X150",
       "codename": "Ixion_X150",
       "model": "Ixion X150"
@@ -96,6 +102,12 @@
       "market_name": "XL155",
       "codename": "XL155",
       "model": "Ixion XL155"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z155",
+      "codename": "Z155",
+      "model": "Z155"
     },
     {
       "manufacturer": "",

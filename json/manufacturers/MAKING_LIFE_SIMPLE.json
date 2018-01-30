@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "iQ1012N",
+      "codename": "iQ1012N",
+      "model": "iQ1012N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iQ1805N",
       "codename": "iQ1805N",
       "model": "iQ1805N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQ9013_4N",
+      "codename": "iQ9013_4N",
+      "model": "iQ9013_4N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQGW516",
+      "codename": "iQGW516",
+      "model": "iQGW516"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A102",
+      "codename": "A102",
+      "model": "A102"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TC80RA1",
       "codename": "TC80RA1_3",
       "model": "TC80RA1"

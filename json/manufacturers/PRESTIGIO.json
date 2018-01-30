@@ -363,6 +363,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT3718_3G",
+      "codename": "CF80A2G",
+      "model": "PMT3718_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT3767_3G",
       "codename": "PMT3777_3G",
       "model": "PMT3767_3G"
@@ -729,9 +735,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PSP5510DUO",
+      "codename": "EB50B2G",
+      "model": "PSP5510DUO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PSP5512DUO",
       "codename": "TE50B3G",
       "model": "PSP5512DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP5514DUO",
+      "codename": "EB50B2G",
+      "model": "PSP5514DUO"
     },
     {
       "manufacturer": "",
@@ -744,6 +762,18 @@
       "market_name": "PSP5519DUO",
       "codename": "TE50B4L",
       "model": "PSP5519DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP5520DUO",
+      "codename": "TE52B10G",
+      "model": "PSP5520DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP5521DUO",
+      "codename": "TE52B10G",
+      "model": "PSP5521DUO"
     },
     {
       "manufacturer": "",
@@ -783,9 +813,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PSP7510DUO",
+      "codename": "EB50B1L",
+      "model": "PSP7510DUO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PSP7511DUO",
       "codename": "DW50B5G",
       "model": "PSP7511DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP7512DUO",
+      "codename": "EB50B1L",
+      "model": "PSP7512DUO"
     },
     {
       "manufacturer": "",
@@ -810,6 +852,12 @@
       "market_name": "PSP7552DUO",
       "codename": "DW55B8L",
       "model": "PSP7552DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Prestigio Muze 3708 3G",
+      "codename": "CF80A2G",
+      "model": "PMT3708_3G"
     },
     {
       "manufacturer": "",

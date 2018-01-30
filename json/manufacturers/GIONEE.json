@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A1 lite",
+      "codename": "GIONEE_SWW1618",
+      "model": "A1 lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E8",
       "codename": "GiONEE_GN9008",
       "model": "E8"
@@ -111,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F205",
+      "codename": "GIONEE_SW17G18",
+      "model": "GIONEE F205"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F301",
       "codename": "F301",
       "model": "F301"
@@ -156,6 +168,12 @@
       "market_name": "GIONEE F109N",
       "codename": "GIONEE_SW17G09",
       "model": "GIONEE F109N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GIONEE F205L",
+      "codename": "GIONEE_SW17G18",
+      "model": "GIONEE F205L"
     },
     {
       "manufacturer": "",
@@ -459,6 +477,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M7Plus",
+      "codename": "GIONEE_BJ17G08A",
+      "model": "GIONEE M7Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P2M",
       "codename": "GiONEE_WBW5612",
       "model": "P2M"
@@ -567,6 +591,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S10 lite",
+      "codename": "GIONEE_SW17G02",
+      "model": "GIONEE S10 lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S10B",
       "codename": "GIONEE_SW17G01",
       "model": "GIONEE S10B"
@@ -594,6 +624,18 @@
       "market_name": "S10L",
       "codename": "GIONEE_SW17G04",
       "model": "GIONEE S10L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S11",
+      "codename": "GIONEE_SW17G13",
+      "model": "GIONEE S11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S11 lite",
+      "codename": "GIONEE_SW17G15",
+      "model": "GIONEE S11 lite"
     },
     {
       "manufacturer": "",
@@ -636,6 +678,12 @@
       "market_name": "S6 Pro",
       "codename": "GIONEE_GBL7529",
       "model": "S6 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S6Pro",
+      "codename": "GIONEE_GBL7529",
+      "model": "GN9012"
     },
     {
       "manufacturer": "",

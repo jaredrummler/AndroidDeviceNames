@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-1045G",
+      "codename": "BQru-1045",
+      "model": "BQ-1045"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-1056L",
       "codename": "BQru_1056L",
       "model": "BQru-1056L"
@@ -45,9 +51,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-4585 Fox View",
+      "codename": "BQru-4585",
+      "model": "BQ-4585"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-5000L",
       "codename": "BQru-5000",
       "model": "BQru-5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-5003L Shark Pro",
+      "codename": "BQru_5003L",
+      "model": "BQ-5003L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-5005L INTENSE",
+      "codename": "BQru_5005L",
+      "model": "BQ-5005L"
     },
     {
       "manufacturer": "",
@@ -129,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5508L",
+      "codename": "BQru-5508L",
+      "model": "BQ-5508L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-5510 Strike Power Max 4G",
       "codename": "BQru_5510",
       "model": "BQru-5510"
@@ -153,9 +183,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5591 Jeans",
+      "codename": "BQru-5591",
+      "model": "BQ-5591"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-5594 Strike Power Max",
+      "codename": "BQru_5594",
+      "model": "BQ-5594"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-5700L Space X",
       "codename": "BQru-5700L",
       "model": "BQ-5700L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-6000L Aurora",
+      "codename": "BQru-6000L",
+      "model": "BQ-6000L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-7022G",
+      "codename": "BQru-7022",
+      "model": "BQ-7022"
     },
     {
       "manufacturer": "",

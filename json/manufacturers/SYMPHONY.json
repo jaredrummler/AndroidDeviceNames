@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOVA",
+      "codename": "INOVA",
+      "model": "INOVA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P11",
+      "codename": "P11",
+      "model": "P11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P6 PRO",
       "codename": "P6_PRO",
       "model": "P6 PRO"
@@ -180,6 +192,12 @@
       "market_name": "i10 plus",
       "codename": "i10_plus",
       "model": "i10 plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i100",
+      "codename": "i100",
+      "model": "i100"
     },
     {
       "manufacturer": "",

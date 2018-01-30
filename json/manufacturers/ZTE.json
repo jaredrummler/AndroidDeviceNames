@@ -2007,6 +2007,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLADE V8Q",
+      "codename": "P817F01",
+      "model": "BLADE V8Q"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BOLTON",
       "codename": "bolton",
       "model": "N9560"
@@ -2490,6 +2496,12 @@
       "market_name": "Blade D6 Lite 4G",
       "codename": "P635A30",
       "model": "ZTE Blade D6 Lite 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blade Force",
+      "codename": "warp8",
+      "model": "N9517"
     },
     {
       "manufacturer": "",
@@ -3222,6 +3234,18 @@
       "market_name": "Cosmote Xplore",
       "codename": "Cosmote-Xplore",
       "model": "Cosmote Xplore"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DL2 PLUS",
+      "codename": "P637F02",
+      "model": "DL2 PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DL2 PLUS",
+      "codename": "P637F02",
+      "model": "Digicel DL2 XL"
     },
     {
       "manufacturer": "",
@@ -4623,9 +4647,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "NeXT X1",
-      "codename": "VFD710",
-      "model": "VFD 710"
+      "market_name": "OWN FUN 5(4G)",
+      "codename": "VFD511",
+      "model": "OWN FUN 5(4G)"
     },
     {
       "manufacturer": "",
@@ -6807,6 +6831,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z-01K",
+      "codename": "Z-01K",
+      "model": "Z-01K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z10",
       "codename": "P817E52",
       "model": "ZTE Z10"
@@ -7257,6 +7287,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE A0616",
+      "codename": "P637S15",
+      "model": "ZTE A0616"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE A0620",
+      "codename": "P840S13",
+      "model": "ZTE A0620"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE A0622",
+      "codename": "P817S13",
+      "model": "ZTE A0622"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE A2018",
       "codename": "candice",
       "model": "ZTE A2018"
@@ -7266,6 +7314,12 @@
       "market_name": "ZTE A520S",
       "codename": "P809S10",
       "model": "ZTE A520S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE AVID 4",
+      "codename": "calbee",
+      "model": "Z855"
     },
     {
       "manufacturer": "",
@@ -7296,6 +7350,12 @@
       "market_name": "ZTE BLADE A321",
       "codename": "VFD511",
       "model": "ZTE BLADE A321"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE BLADE A330",
+      "codename": "P809F30",
+      "model": "ZTE BLADE A330"
     },
     {
       "manufacturer": "",
@@ -7347,6 +7407,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE BLADE A910",
+      "codename": "P635A31",
+      "model": "ZTE BLADE A910"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE BLADE L111",
       "codename": "ZTE_BLADE_L110",
       "model": "ZTE BLADE B111"
@@ -7395,6 +7461,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE BLADE V0840",
+      "codename": "P817F01",
+      "model": "ZTE BLADE V0840"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE BLADE V0850",
       "codename": "ZTE_BLADE_V0850",
       "model": "ZTE BLADE V0850"
@@ -7425,9 +7497,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade L110",
+      "codename": "ZTE_BLADE_L110",
+      "model": "ZTE Blade L110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Blade L5",
       "codename": "P172A40",
       "model": "ZTE Blade L5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade V770",
+      "codename": "P852F52",
+      "model": "ZTE Blade V770"
     },
     {
       "manufacturer": "",

@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Griffe T3",
+      "codename": "SP414",
+      "model": "Griffe T3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HS-U939",
       "codename": "u939e_6",
       "model": "HS-U939"
@@ -231,6 +237,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Plume L1",
+      "codename": "SP622",
+      "model": "Plume L1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Plume P4 Plus",
       "codename": "PGN527",
       "model": "PGN527"
@@ -240,6 +252,12 @@
       "market_name": "Plume P6 Pro LTE",
       "codename": "PGN528",
       "model": "PGN528"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plume P8 Lite",
+      "codename": "PGN610",
+      "model": "PGN610"
     },
     {
       "manufacturer": "",
@@ -258,6 +276,24 @@
       "market_name": "T705",
       "codename": "TGW710G",
       "model": "TGW710G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB716",
+      "codename": "TB716",
+      "model": "TB716"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB717G",
+      "codename": "TB717G",
+      "model": "TB717G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB717L",
+      "codename": "TB717L",
+      "model": "TB717L"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,42 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ELITE 4.0S",
+      "codename": "Elite_4_0S_GT_Tigo",
+      "model": "Elite_4.0S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELITE 4T",
+      "codename": "Elite_4T_GT",
+      "model": "Elite 4T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELITE 5T",
+      "codename": "Elite_5T_GT",
+      "model": "Elite 5T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PLATINUM 4.0",
+      "codename": "Platinum_40",
+      "model": "Platinum 4.0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PLATINUM 4.0",
+      "codename": "Platinum_4_0",
+      "model": "Platinum 4.0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PLATINUM 4.0+",
+      "codename": "Platinum_4_0Plus",
+      "model": "Platinum_4_0Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PLATINUM 5.0M",
       "codename": "Platinum_5_0M",
       "model": "Platinum_5.0M"

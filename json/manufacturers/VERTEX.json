@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress Razor",
+      "codename": "Impress_Razor",
+      "model": "Impress_Razor"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress Saturn",
       "codename": "Impress_Saturn",
       "model": "Impress_Saturn"
@@ -90,6 +96,12 @@
       "market_name": "Impress Tor",
       "codename": "Impress_Tor",
       "model": "Impress_Tor"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Lagune",
+      "codename": "Impress_Lagune",
+      "model": "Impress_Lagune"
     }
   ]
 }

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL450",
+      "codename": "KL450",
+      "model": "KL450"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL600",
       "codename": "KLIPAD_KL600",
       "model": "KLIPAD_KL600"
@@ -54,6 +60,18 @@
       "market_name": "V355B",
       "codename": "V355B",
       "model": "KLIPAD_V355B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V51A",
+      "codename": "V51A",
+      "model": "V51A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V51B",
+      "codename": "V51B",
+      "model": "V51B"
     }
   ]
 }

@@ -165,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Acer Chromebook 11 (C740)",
+      "codename": "paine_cheets",
+      "model": "Acer Chromebook 11 (C740)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Acer Chromebook R13",
       "codename": "elm_cheets",
       "model": "Acer Chromebook R13 (CB5-312T)"
@@ -312,6 +318,12 @@
       "market_name": "Chromebook 15 (CB3-532)",
       "codename": "banon_cheets",
       "model": "Acer Chromebook 15 (CB3-532)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook 15 CB515-1HT/1H",
+      "codename": "sand_cheets",
+      "model": "Chromebook 15 CB515-1HT/1H"
     },
     {
       "manufacturer": "",
@@ -508,6 +520,12 @@
     {
       "manufacturer": "",
       "market_name": "Iconia Tab 10",
+      "codename": "acer_asgardfhd",
+      "model": "B3-A40FHD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Iconia Tab 10",
       "codename": "acer_harley",
       "model": "A3-A20"
     },
@@ -516,6 +534,12 @@
       "market_name": "Iconia Tab 10",
       "codename": "acer_harleyfhd",
       "model": "A3-A20FHD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Iconia Tab 10 (AsgardLTE)",
+      "codename": "acer_asgardlte",
+      "model": "B3-A42"
     },
     {
       "manufacturer": "",

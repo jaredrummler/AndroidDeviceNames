@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Alpha_950",
+      "codename": "Alpha_950",
+      "model": "Alpha 950"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alpha_950XL",
+      "codename": "Alpha_950XL",
+      "model": "Alpha 950XL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ILIUM L1000",
       "codename": "Ilium_L1000",
       "model": "ILIUM L1000"
@@ -105,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ilium L1400",
+      "codename": "Ilium_L1400",
+      "model": "Ilium L1400"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ilium L420",
       "codename": "Ilium_L420",
       "model": "Ilium L420"
@@ -174,6 +192,12 @@
       "market_name": "Ilium Pad T7X",
       "codename": "Ilium_Pad_T7X",
       "model": "Ilium Pad T7X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ilium X110",
+      "codename": "ILIUM_X110",
+      "model": "Ilium X110"
     },
     {
       "manufacturer": "",

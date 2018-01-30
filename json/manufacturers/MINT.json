@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Emerald",
+      "codename": "Emerald",
+      "model": "Emerald_M55CR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Emerald",
+      "codename": "Emerald",
+      "model": "Emerald_M55CRD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M3CR2",
       "codename": "Mint_Fox_Plus",
       "model": "Mint Fox+"
@@ -42,6 +54,12 @@
       "market_name": "MINT Pandora",
       "codename": "MINT_Pandora",
       "model": "MINT Pandora"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MINT_Pearl_plus",
+      "codename": "MINT_Pearl_plus",
+      "model": "Pearl+_M5PD"
     }
   ]
 }

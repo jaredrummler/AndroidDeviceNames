@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Camon CX",
+      "codename": "TECNO-CX",
+      "model": "TECNO Camon CXS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Camon CX Air",
       "codename": "TECNO-CX-Air",
       "model": "TECNO CX Air"
@@ -66,6 +72,12 @@
       "market_name": "Camon I",
       "codename": "TECNO-IN5",
       "model": "TECNO IN5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Camon I Air",
+      "codename": "TECNO-IN3",
+      "model": "TECNO IN3"
     },
     {
       "manufacturer": "",
@@ -135,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F2",
+      "codename": "TECNO-F2",
+      "model": "TECNO F2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H5S",
       "codename": "up09_tecno_h5s",
       "model": "TECNO H5S"
@@ -144,6 +162,12 @@
       "market_name": "H7S",
       "codename": "qp16_tecno_h7s",
       "model": "H7S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hot 4 Pro",
+      "codename": "Infinix-X5511-13M",
+      "model": "Infinix HOT 4 Pro"
     },
     {
       "manufacturer": "",
@@ -180,6 +204,12 @@
       "market_name": "L8 Lite",
       "codename": "L8Lite",
       "model": "TECNO L8 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L8 Plus",
+      "codename": "TECNO-L8",
+      "model": "TECNO-L8Plus"
     },
     {
       "manufacturer": "",
@@ -303,6 +333,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POWERMAX 1",
+      "codename": "TECNO-LA6",
+      "model": "TECNO LA6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Phantom6",
       "codename": "Phantom6",
       "model": "Phantom6"
@@ -351,6 +387,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R6",
+      "codename": "TECNO-R6",
+      "model": "TECNO R6S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S1",
       "codename": "TECNO-S1",
       "model": "TECNO S1"
@@ -390,6 +432,12 @@
       "market_name": "SPARK",
       "codename": "TECNO-K7",
       "model": "TECNO K7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPARK CM",
+      "codename": "TECNO-KA9",
+      "model": "TECNO KA9"
     },
     {
       "manufacturer": "",
@@ -435,12 +483,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "TECNO R6",
-      "codename": "TECNO-R6",
-      "model": "TECNO R6"
-    },
-    {
-      "manufacturer": "",
       "market_name": "TECNO R6S",
       "codename": "TECNO-R6",
       "model": "TECNO R6S"
@@ -468,12 +510,6 @@
       "market_name": "TECNO WX4 Pro S",
       "codename": "TECNO-WX4-Pro",
       "model": "TECNO WX4 Pro S"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TECNO i3",
-      "codename": "TECNO-i3",
-      "model": "TECNO i3"
     },
     {
       "manufacturer": "",

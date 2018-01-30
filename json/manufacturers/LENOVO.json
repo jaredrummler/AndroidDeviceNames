@@ -2175,6 +2175,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LenovoTB-8304F",
+      "codename": "TB-8304F",
+      "model": "Lenovo TB-8304F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LenovoTB-8704V",
       "codename": "TB-8704V",
       "model": "TB-8704V"
@@ -2550,12 +2556,6 @@
       "market_name": "S668t",
       "codename": "S668t",
       "model": "Lenovo S668t"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "S680",
-      "codename": "seoul",
-      "model": "Lenovo S680"
     },
     {
       "manufacturer": "",

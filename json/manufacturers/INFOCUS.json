@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IF9035_IN",
+      "codename": "A62",
+      "model": "IF9035"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IN260",
       "codename": "IN260",
       "model": "IN260"
@@ -119,6 +125,12 @@
       "manufacturer": "",
       "market_name": "InFocus M7 Lite",
       "codename": "A02",
+      "model": "IF9031"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "InFocus M7S",
+      "codename": "A08",
       "model": "IF9031"
     },
     {
@@ -414,6 +426,12 @@
       "market_name": "VZU",
       "codename": "VZH",
       "model": "VZU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vision 3 Pro",
+      "codename": "AY2",
+      "model": "IF9029"
     },
     {
       "manufacturer": "",

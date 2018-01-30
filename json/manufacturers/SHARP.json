@@ -951,7 +951,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "LC-UA6800X/LC-UA8000X",
+      "market_name": "LC-UA6800T/4T-C**AM1T",
+      "codename": "lc_theut",
+      "model": "AQUOS-4KTVT17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LC-UA6800X",
       "codename": "lc_theux",
       "model": "AQUOS-4KTVX17"
     },
@@ -1311,6 +1317,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARP A2 Lite",
+      "codename": "SJ3",
+      "model": "FS8026"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHARP AQUOS S2",
       "codename": "SS2",
       "model": "FS8010"
@@ -1329,9 +1341,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARP AQUOS S3",
+      "codename": "HH1",
+      "model": "FS8032"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP R1S",
+      "codename": "SK3",
+      "model": "FS8028"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp A Click",
+      "codename": "AH3",
+      "model": "IF9003"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sharp Pi",
       "codename": "AG3",
       "model": "IF9007"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp R1",
+      "codename": "SE3_TH",
+      "model": "FS8014"
     },
     {
       "manufacturer": "",

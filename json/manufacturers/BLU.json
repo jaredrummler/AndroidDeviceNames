@@ -51,15 +51,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Advance_A7",
+      "codename": "A210",
+      "model": "Advance A7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Advance\\xc2\\xa0A5\\xc2\\xa0Plus\\xc2\\xa0LTE",
       "codename": "A0031WW",
       "model": "Advance A5 Plus LTE"
     },
     {
       "manufacturer": "",
+      "market_name": "BLU S1",
+      "codename": "S0320WW",
+      "model": "BLU_S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLU STUDIO J8 LTE",
+      "codename": "Studio_J8_LTE",
+      "model": "Studio J8 LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLU Studio G3",
       "codename": "S770P",
       "model": "Studio G3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5",
+      "codename": "C010Q",
+      "model": "C5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5 LTE",
+      "codename": "C0010UU",
+      "model": "C5 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5X",
+      "codename": "C0000UU",
+      "model": "C5X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5X",
+      "codename": "C0010LL",
+      "model": "C5X"
     },
     {
       "manufacturer": "",
@@ -114,6 +156,30 @@
       "market_name": "Dash L3",
       "codename": "D931",
       "model": "Dash L3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dash L4 LTE",
+      "codename": "D0050",
+      "model": "Dash L4 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dash L4X",
+      "codename": "D0040UU",
+      "model": "Dash L4X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dash L5 LTE",
+      "codename": "D0090WW",
+      "model": "Dash L5 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dash L5X",
+      "codename": "D0070WW",
+      "model": "Dash L5X"
     },
     {
       "manufacturer": "",
@@ -201,6 +267,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Grand 5.5 HD II",
+      "codename": "G210Q",
+      "model": "Grand 5.5 HD II"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Grand Energy",
       "codename": "Grand_Energy",
       "model": "Grand Energy"
@@ -210,6 +282,12 @@
       "market_name": "Grand M",
       "codename": "Grand_M",
       "model": "Grand M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grand M2X",
+      "codename": "G0040UU",
+      "model": "Grand M2X"
     },
     {
       "manufacturer": "",
@@ -246,6 +324,12 @@
       "market_name": "Grand XL",
       "codename": "Grand_XL",
       "model": "Grand XL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grand XL LTE",
+      "codename": "G0030",
+      "model": "Grand XL LTE"
     },
     {
       "manufacturer": "",
@@ -300,6 +384,12 @@
       "market_name": "Life Max",
       "codename": "Life_Max",
       "model": "Life Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Life One X3",
+      "codename": "L0150WW",
+      "model": "Life One X3"
     },
     {
       "manufacturer": "",
@@ -396,6 +486,12 @@
       "market_name": "R2 LTE",
       "codename": "R0170WW",
       "model": "R2 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R2 Plus",
+      "codename": "R0190WW",
+      "model": "R2 Plus"
     },
     {
       "manufacturer": "",
@@ -633,6 +729,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Studio View XL",
+      "codename": "S790Q",
+      "model": "Studio View XL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Studio X Mini",
       "codename": "BLU_STUDIO_X_MINI",
       "model": "BLU STUDIO X MINI"
@@ -675,6 +777,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Touchbook M7 Pro",
+      "codename": "P290",
+      "model": "Touchbook M7 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIVO 5",
       "codename": "BLU_VIVO_5",
       "model": "VIVO 5"
@@ -712,8 +820,38 @@
     {
       "manufacturer": "",
       "market_name": "Vivo 8",
+      "codename": "V0150LL",
+      "model": "Vivo 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo 8",
       "codename": "V0150UU",
       "model": "Vivo 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo 8L",
+      "codename": "V0190UU",
+      "model": "Vivo 8L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo S",
+      "codename": "V0160WW",
+      "model": "Vivo S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo XL3 Plus",
+      "codename": "V0210WW",
+      "model": "Vivo XL3 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo_X_WW",
+      "codename": "V0230WW",
+      "model": "Vivo X"
     }
   ]
 }

@@ -2895,6 +2895,66 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HUAWEI MediaPad M3 Lite",
+      "codename": "HWCPN-Q",
+      "model": "701HW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI MediaPad M3 Lite",
+      "codename": "HWCPN-Q",
+      "model": "702HW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI MediaPad M3 Lite",
+      "codename": "HWCPN-Q",
+      "model": "CPN-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI MediaPad M3 Lite",
+      "codename": "HWCPN-Q",
+      "model": "CPN-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI MediaPad M3 Lite",
+      "codename": "HWCPN-Q",
+      "model": "CPN-W09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI MediaPad M3 Lite 10 wp",
+      "codename": "HWHDN-H",
+      "model": "HDN-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI MediaPad M3 Lite 10 wp",
+      "codename": "HWHDN-H",
+      "model": "HDN-W09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI MediaPad T3 10",
+      "codename": "HWAGS-Q",
+      "model": "AGS-L03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI MediaPad T3 10",
+      "codename": "HWAGS-Q",
+      "model": "AGS-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI MediaPad T3 10",
+      "codename": "HWAGS-Q",
+      "model": "AGS-W09"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HUAWEI Y3 2017",
       "codename": "HWCRO-L6737M",
       "model": "CRO-L02"
@@ -2964,6 +3024,18 @@
       "market_name": "HUAWEI nova 2 Plus",
       "codename": "HWBAC",
       "model": "BAC-L22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUWEI MediaPad T3",
+      "codename": "HWKobe-Q",
+      "model": "KOB-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUWEI MediaPad T3",
+      "codename": "HWKobe-Q",
+      "model": "KOB-W09"
     },
     {
       "manufacturer": "",
@@ -3120,6 +3192,18 @@
       "market_name": "Honor 7",
       "codename": "HWPLK",
       "model": "PLK-UL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 7X",
+      "codename": "HWBND-H",
+      "model": "BND-L21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 7X",
+      "codename": "HWBND-H",
+      "model": "BND-L24"
     },
     {
       "manufacturer": "",
@@ -3330,6 +3414,18 @@
       "market_name": "Honor3",
       "codename": "hwhn3-u01",
       "model": "HUAWEI HN3-U01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Huawei Ascend XT2\\xe2\\x84\\xa2",
+      "codename": "HWH1711-Q",
+      "model": "H1711"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Huawei Elate\\xe2\\x84\\xa2",
+      "codename": "HWH1711-Q",
+      "model": "H1711z"
     },
     {
       "manufacturer": "",
@@ -6387,6 +6483,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "nova 2s",
+      "codename": "HWHWI",
+      "model": "HWI-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nova 2s",
+      "codename": "HWHWI",
+      "model": "HWI-TL00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "nova lite",
       "codename": "HWPRA-H",
       "model": "PRA-LX2"
@@ -6549,36 +6657,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfM3\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88 (8\\xe8\\x8b\\xb1\\xe5\\xaf\\xb8\\xef\\xbc\\x89",
-      "codename": "HWCPN-Q",
-      "model": "701HW"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfM3\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88 (8\\xe8\\x8b\\xb1\\xe5\\xaf\\xb8\\xef\\xbc\\x89",
-      "codename": "HWCPN-Q",
-      "model": "702HW"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfM3\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88 (8\\xe8\\x8b\\xb1\\xe5\\xaf\\xb8\\xef\\xbc\\x89",
-      "codename": "HWCPN-Q",
-      "model": "CPN-AL00"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfM3\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88 (8\\xe8\\x8b\\xb1\\xe5\\xaf\\xb8\\xef\\xbc\\x89",
-      "codename": "HWCPN-Q",
-      "model": "CPN-L09"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfM3\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88 (8\\xe8\\x8b\\xb1\\xe5\\xaf\\xb8\\xef\\xbc\\x89",
-      "codename": "HWCPN-Q",
-      "model": "CPN-W09"
-    },
-    {
-      "manufacturer": "",
       "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbfT3 8\\xe8\\xa1\\x8c\\xe4\\xb8\\x9a\\xe4\\xb8\\x93\\xe4\\xba\\xab\\xe7\\x89\\x88",
       "codename": "HWBZK-Q",
       "model": "BZK-L00"
@@ -6642,6 +6720,30 @@
       "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7",
       "codename": "HWSLA-Q",
       "model": "SLA-TL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7S",
+      "codename": "HWFIG-H",
+      "model": "FIG-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7S",
+      "codename": "HWFIG-H",
+      "model": "FIG-AL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7S",
+      "codename": "HWFIG-H",
+      "model": "FIG-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab7S",
+      "codename": "HWFIG-H",
+      "model": "FIG-TL10"
     },
     {
       "manufacturer": "",
@@ -6723,6 +6825,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x809\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "codename": "HWLLD-H",
+      "model": "LLD-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x809\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "codename": "HWLLD-H",
+      "model": "LLD-AL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x809\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "codename": "HWLLD-H",
+      "model": "LLD-TL10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
       "codename": "hwedison",
       "model": "EDI-AL10"
@@ -6732,12 +6852,6 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
       "codename": "hwedison",
       "model": "EDI-DL00"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Waterplay",
-      "codename": "HWHDN-H",
-      "model": "HDN-L09"
     },
     {
       "manufacturer": "",
@@ -6929,6 +7043,12 @@
       "manufacturer": "",
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97X",
       "codename": "HWBND-H",
+      "model": "BND-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97X",
+      "codename": "HWBND-H",
       "model": "BND-AL10"
     },
     {
@@ -6936,36 +7056,6 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97X",
       "codename": "HWBND-H",
       "model": "BND-TL10"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2",
-      "codename": "HWKobe-Q",
-      "model": "KOB-L09"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2",
-      "codename": "HWKobe-Q",
-      "model": "KOB-W09"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2 9.6",
-      "codename": "HWAGS-Q",
-      "model": "AGS-L03"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2 9.6",
-      "codename": "HWAGS-Q",
-      "model": "AGS-L09"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf2 9.6",
-      "codename": "HWAGS-Q",
-      "model": "AGS-W09"
     },
     {
       "manufacturer": "",

@@ -12,6 +12,12 @@
     "model": "Action-X3"
   },
   {
+    "manufacturer": "Crosscall",
+    "market_name": "Action-X3",
+    "codename": "HS8937QC",
+    "model": "Action-X3 Pro"
+  },
+  {
     "manufacturer": "Hisense",
     "market_name": "A2",
     "codename": "HS8937QC",
@@ -82,6 +88,24 @@
     "market_name": "F32",
     "codename": "HS8937QC",
     "model": "Hisense F32"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "HLTE300E_ 02",
+    "codename": "HS8937QC",
+    "model": "HLTE300E"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "HLTE300E_ 02",
+    "codename": "HS8937QC",
+    "model": "HLTE300E_02"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "HLTE300E_ 02",
+    "codename": "HS8937QC",
+    "model": "Hisense Infinity H11"
   },
   {
     "manufacturer": "Hisense",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CORSA 3 LTE",
+      "codename": "Nomi_C070030",
+      "model": "Nomi_C070030"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Corsa 3 3G",
       "codename": "Nomi_C070012",
       "model": "Nomi_C070012"
@@ -51,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nomi i5071",
+      "codename": "Nomi_i5071",
+      "model": "Nomi i5071"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nomi i5510",
       "codename": "Nomi_i5510",
       "model": "i5510"
@@ -72,6 +84,12 @@
       "market_name": "ULTRA3 3G",
       "codename": "Nomi_C101012",
       "model": "Nomi_C101012"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ULTRA3 LTE PRO",
+      "codename": "Nomi_C101040",
+      "model": "Nomi_C101040"
     },
     {
       "manufacturer": "",

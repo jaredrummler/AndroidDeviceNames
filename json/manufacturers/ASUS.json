@@ -1083,6 +1083,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZenFone 3s Max (ZC521TL)",
+      "codename": "ASUS_X00G_1",
+      "model": "ASUS_X00GD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZenFone 4 (A400CG)",
       "codename": "ASUS_T00I",
       "model": "ASUS_T00I"
@@ -1125,31 +1131,19 @@
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone 4 Max",
+      "market_name": "ZenFone 4 Max (ZC520KL)",
       "codename": "ASUS_X00HD_1",
       "model": "ASUS_X00HD"
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone 4 Max",
+      "market_name": "ZenFone 4 Max (ZC520KL)",
       "codename": "ASUS_X00HD_2",
       "model": "ASUS_X00HD"
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone 4 Max",
-      "codename": "ASUS_X00HD_3",
-      "model": "ASUS_X00HD"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "ZenFone 4 Max",
-      "codename": "ASUS_X00HD_3",
-      "model": "ASUS_X00HDA"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "ZenFone 4 Max",
+      "market_name": "ZenFone 4 Max (ZC520KL)",
       "codename": "ASUS_X00HD_4",
       "model": "ASUS_X00HD"
     },
@@ -1182,6 +1176,18 @@
       "market_name": "ZenFone 4 Selfie (ZD553KL)",
       "codename": "ASUS_X00LD_1",
       "model": "ASUS_X00LD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone 4 Selfie Lite (ZB520KL)",
+      "codename": "ASUS_X00HD_3",
+      "model": "ASUS_X00HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone 4 Selfie Lite (ZB520KL)",
+      "codename": "ASUS_X00HD_3",
+      "model": "ASUS_X00HDA"
     },
     {
       "manufacturer": "",
@@ -1265,6 +1271,18 @@
       "manufacturer": "",
       "market_name": "ZenFone AR (ZS571KL)",
       "codename": "ASUS_A002",
+      "model": "ASUS_A002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Ares",
+      "codename": "ASUS_A002_2",
+      "model": "ASUS_A002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Ares (ZS572KL)",
+      "codename": "ASUS_A002_2",
       "model": "ASUS_A002"
     },
     {
@@ -1390,6 +1408,12 @@
     {
       "manufacturer": "",
       "market_name": "ZenFone Max Plus M1 (ZB570TL)",
+      "codename": "ASUS_X018_2",
+      "model": "ASUS_X018D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max Plus M1 (ZB570TL)",
       "codename": "ASUS_X018_4",
       "model": "ASUS_X018D"
     },
@@ -1410,6 +1434,12 @@
       "market_name": "ZenFone Selfie (ZD551KL)",
       "codename": "ASUS_Z00U_2",
       "model": "ASUS_Z00UD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone V Live",
+      "codename": "ASUS_A009",
+      "model": "ASUS_A009"
     },
     {
       "manufacturer": "",
@@ -1762,12 +1792,6 @@
     {
       "manufacturer": "",
       "market_name": "Zenfone MAX",
-      "codename": "ASUS_X00G_1",
-      "model": "ASUS_X00GD"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Zenfone MAX",
       "codename": "ASUS_Z010",
       "model": "ASUS_Z010DA"
     },
@@ -1800,12 +1824,6 @@
       "market_name": "Zenfone Max",
       "codename": "ASUS_Z010_2",
       "model": "ASUS_Z010DD"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Zenfone V Live (Verizon)",
-      "codename": "ASUS_A009",
-      "model": "ASUS_A009"
     },
     {
       "manufacturer": "",

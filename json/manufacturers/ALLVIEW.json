@@ -369,6 +369,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P8 Pro",
+      "codename": "P8_PRO",
+      "model": "P8_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P8 eMagic",
       "codename": "P8_eMagic",
       "model": "P8_eMagic"
@@ -420,6 +426,12 @@
       "market_name": "P9 Life",
       "codename": "P9_Life",
       "model": "P9_Life"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P9_Life_TM",
+      "codename": "P9_Life",
+      "model": "P9_Life_TM"
     },
     {
       "manufacturer": "",
@@ -735,9 +747,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X4 Soul Infinity L",
+      "codename": "X4_Soul_Infinity_LV",
+      "model": "X4_Soul_Infinity_L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X4 Soul Infinity N",
       "codename": "X4_Soul_Infinity_N",
       "model": "X4_Soul_Infinity_N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X4 Soul Infinity Plus",
+      "codename": "X4_Soul_Plus",
+      "model": "X4_Soul_Infinity_Plus"
     },
     {
       "manufacturer": "",

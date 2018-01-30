@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SMART 4G Adventure",
+      "codename": "SMART_4G_ADVENTURE",
+      "model": "SMART 4G Adventure"
+    },
+    {
+      "manufacturer": "",
       "market_name": "\"SMART 4G GEN C 4.0\"\"\"",
       "codename": "SMART_4G_GEN_C_4",
       "model": "SMART 4G GEN C 4.0"
@@ -36,6 +42,12 @@
       "market_name": "SMART TAB 4G M1",
       "codename": "SMART_TAB_4G_M1",
       "model": "SMART TAB 4G M1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_4G_GEN_C_5.5",
+      "codename": "SMART_4G_GEN_C_5_5",
+      "model": "SMART 4G GEN C 5.5"
     },
     {
       "manufacturer": "",

@@ -45,12 +45,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Doro 8042",
-      "codename": "DSB0110",
-      "model": "Doro 8042"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Five",
       "codename": "OrangeFive",
       "model": "OrangeFive"
@@ -90,6 +84,12 @@
       "market_name": "Orange Rise 33",
       "codename": "Rise33",
       "model": "Orange_Rise_33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Orange Rise 53",
+      "codename": "Rise_53",
+      "model": "Orange Rise 53"
     },
     {
       "manufacturer": "",

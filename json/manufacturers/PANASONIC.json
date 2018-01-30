@@ -213,6 +213,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELUGA Ray 550",
+      "codename": "ELUGA_Ray_550",
+      "model": "ELUGA Ray 550"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELUGA Ray 700",
       "codename": "Eluga_Ray_700",
       "model": "Eluga_Ray_700"
@@ -795,15 +801,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Panasonic P101",
+      "codename": "P101",
+      "model": "P101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Panasonic P90",
       "codename": "Panasonic_P90",
       "model": "Panasonic P90"
     },
     {
       "manufacturer": "",
+      "market_name": "Panasonic P90 3G",
+      "codename": "Panasonic_P90_3G",
+      "model": "Panasonic P90 3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Panasonic P95",
       "codename": "P95",
       "model": "Panasonic P95"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panasonic T70",
+      "codename": "T70",
+      "model": "Panasonic T70"
     },
     {
       "manufacturer": "",

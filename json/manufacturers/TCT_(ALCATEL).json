@@ -1857,6 +1857,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALCATEL 3C",
+      "codename": "A3A_XL_3G",
+      "model": "5026J"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALCATEL 4015T",
       "codename": "Yaris35_GSM",
       "model": "ALCATEL 4015T"
@@ -3393,6 +3399,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alcatel 3V",
+      "codename": "A3A_XL_4G",
+      "model": "5099A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3V",
+      "codename": "A3A_XL_4G",
+      "model": "5099D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3V",
+      "codename": "A3A_XL_4G",
+      "model": "5099U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 5",
+      "codename": "A5A_INFINI",
+      "model": "5086A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 5",
+      "codename": "A5A_INFINI",
+      "model": "5086D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alcatel Raven LTE",
       "codename": "BUZZ6T4GTFUMTS",
       "model": "A574BL"
@@ -3876,6 +3912,12 @@
       "market_name": "Moov2",
       "codename": "move_2_gsm",
       "model": "move 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NeXT M2",
+      "codename": "VFD610",
+      "model": "VFD 610"
     },
     {
       "manufacturer": "",

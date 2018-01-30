@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A13 Plus",
+      "codename": "itel-A13Plus",
+      "model": "itel A13Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A21",
       "codename": "itel_A21",
       "model": "itel A21"
@@ -30,6 +36,12 @@
       "market_name": "A31",
       "codename": "itel_A31",
       "model": "itel A31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A31 Plus",
+      "codename": "itel-A31Plus",
+      "model": "itel A31Plus"
     },
     {
       "manufacturer": "",
@@ -135,9 +147,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S32",
+      "codename": "itel-S32",
+      "model": "itel S32"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S41",
       "codename": "itel_S41",
       "model": "itel S41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S42",
+      "codename": "itel-S42",
+      "model": "itel S42"
     },
     {
       "manufacturer": "",
@@ -222,6 +246,12 @@
       "market_name": "it1508",
       "codename": "itel_it1508C",
       "model": "itel it1508"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "it1508",
+      "codename": "itel_it1508C",
+      "model": "itel it1508 GPS"
     },
     {
       "manufacturer": "",

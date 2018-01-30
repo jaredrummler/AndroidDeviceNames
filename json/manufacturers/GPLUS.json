@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F53",
+      "codename": "GPLUS_F53",
+      "model": "GPLUS F53"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FW6950",
       "codename": "GPLUS_FW6950",
       "model": "GPLUS_FW6950"

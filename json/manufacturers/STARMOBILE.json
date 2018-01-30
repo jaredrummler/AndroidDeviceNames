@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "UP Groove",
+      "codename": "UP_Groove",
+      "model": "UP_Groove"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UP Prime",
       "codename": "UP_Prime",
       "model": "UP Prime"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UP Selfie",
+      "codename": "UP_Selfie",
+      "model": "UP_Selfie"
     }
   ]
 }

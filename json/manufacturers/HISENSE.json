@@ -969,15 +969,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HLTE200M",
+      "codename": "HS8917QC",
+      "model": "HLTE200M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HLTE200T",
       "codename": "HS8917QC",
       "model": "HLTE200T"
     },
     {
       "manufacturer": "",
+      "market_name": "HLTE300E_ 02",
+      "codename": "HS8937QC",
+      "model": "HLTE300E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HLTE300E_ 02",
+      "codename": "HS8937QC",
+      "model": "HLTE300E_02"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HLTE300E_ 02",
+      "codename": "HS8937QC",
+      "model": "Hisense Infinity H11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HLTE300T",
       "codename": "HS8937QC",
       "model": "HLTE300T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HLTE500T",
+      "codename": "HSSDM630QC",
+      "model": "HLTE500T"
     },
     {
       "manufacturer": "",
@@ -1431,6 +1461,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense  Hi  2",
+      "codename": "HS6737MT",
+      "model": "Hisense Hi 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense E76MINIM",
       "codename": "HS8937QC",
       "model": "Hisense E76MINIM"
@@ -1470,6 +1506,12 @@
       "market_name": "Hisense T5",
       "codename": "HS6737MT",
       "model": "Hisense T5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense T5 Pro",
+      "codename": "HS6737MT",
+      "model": "Hisense T5 Pro"
     },
     {
       "manufacturer": "",
@@ -2517,6 +2559,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S41",
+      "codename": "HS6737MT",
+      "model": "S41"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S51",
       "codename": "HS6737MT",
       "model": "S51"
@@ -2658,6 +2706,12 @@
       "market_name": "U601S",
       "codename": "HS7731CSP",
       "model": "Hisense U601S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U601S  Pro",
+      "codename": "HS7731CSP",
+      "model": "U601S Pro"
     },
     {
       "manufacturer": "",
