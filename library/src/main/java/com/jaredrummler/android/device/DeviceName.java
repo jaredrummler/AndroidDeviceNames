@@ -192,6 +192,29 @@ public class DeviceName {
     }
     // ----------------------------------------------------------------------------
     // Huawei
+    if ((codename != null && (codename.equals("HWBND-H")))
+        || (model != null && (model.equals("BND-L21")
+        || model.equals("BND-L24")))) {
+      return "Honor 7X";
+    }
+    if ((codename != null && codename.equals("HWBKL"))
+        || (model != null && model.equals("BKL-L09"))) {
+      return "Honor View 10";
+    }
+    if ((codename != null && (codename.equals("HWALP")))
+        || (model != null && (model.equals("ALP-AL00")
+        || model.equals("ALP-L09")
+        || model.equals("ALP-L29")
+        || model.equals("ALP-TL00")))) {
+      return "Mate 10";
+    }
+    if ((codename != null && (codename.equals("HWMHA")))
+        || (model != null && (model.equals("MHA-AL00")
+        || model.equals("MHA-L09")
+        || model.equals("MHA-L29")
+        || model.equals("MHA-TL00")))) {
+      return "Mate 9";
+    }
     if ((codename != null && codename.equals("angler"))) {
       return "Nexus 6P";
     }
@@ -309,21 +332,21 @@ public class DeviceName {
     }
     // ----------------------------------------------------------------------------
     // OnePlus
-    if ((codename != null && codename.equals("OnePlus"))
-        || (model != null && model.equals("ONE E1003"))) {
-      return "OnePlus";
-    }
-    if ((codename != null && codename.equals("OnePlus2"))
-        || (model != null && model.equals("ONE A2003"))) {
-      return "OnePlus2";
-    }
     if ((codename != null && codename.equals("OnePlus3"))
         || (model != null && model.equals("ONEPLUS A3000"))) {
       return "OnePlus3";
     }
+    if ((codename != null && codename.equals("OnePlus3T"))
+        || (model != null && model.equals("ONEPLUS A3000"))) {
+      return "OnePlus3T";
+    }
     if ((codename != null && codename.equals("OnePlus5"))
         || (model != null && model.equals("ONEPLUS A5000"))) {
       return "OnePlus5";
+    }
+    if ((codename != null && codename.equals("OnePlus5T"))
+        || (model != null && model.equals("ONEPLUS A5010"))) {
+      return "OnePlus5T";
     }
     // ----------------------------------------------------------------------------
     // Samsung
@@ -882,20 +905,25 @@ public class DeviceName {
         || model.equals("SM-N930X")))) {
       return "Galaxy Note7";
     }
-    if ((codename != null && (codename.equals("greatlte")
+    if ((codename != null && (codename.equals("SC-01K")
+        || codename.equals("SCV37")
+        || codename.equals("greatlte")
         || codename.equals("greatlteks")
         || codename.equals("greatqlte")
         || codename.equals("greatqltechn")
         || codename.equals("greatqltecmcc")
         || codename.equals("greatqltecs")
         || codename.equals("greatqlteue")))
-        || (model != null && (model.equals("SM-N9500")
+        || (model != null && (model.equals("SC-01K")
+        || model.equals("SCV37")
+        || model.equals("SM-N9500")
         || model.equals("SM-N9508")
         || model.equals("SM-N950F")
         || model.equals("SM-N950N")
         || model.equals("SM-N950U")
         || model.equals("SM-N950U1")
-        || model.equals("SM-N950W")))) {
+        || model.equals("SM-N950W")
+        || model.equals("SM-N950XN")))) {
       return "Galaxy Note8";
     }
     if ((codename != null && (codename.equals("o5lte")
@@ -919,6 +947,50 @@ public class DeviceName {
         || model.equals("SM-G600F")
         || model.equals("SM-G600FY")))) {
       return "Galaxy On7";
+    }
+    if ((codename != null && (codename.equals("GT-I9000")
+        || codename.equals("GT-I9000B")
+        || codename.equals("GT-I9000M")
+        || codename.equals("GT-I9000T")
+        || codename.equals("GT-I9003")
+        || codename.equals("GT-I9003L")
+        || codename.equals("GT-I9008L")
+        || codename.equals("GT-I9010")
+        || codename.equals("GT-I9018")
+        || codename.equals("GT-I9050")
+        || codename.equals("SC-02B")
+        || codename.equals("SCH-I500")
+        || codename.equals("SCH-S950C")
+        || codename.equals("SCH-i909")
+        || codename.equals("SGH-I897")
+        || codename.equals("SGH-T959V")
+        || codename.equals("SGH-T959W")
+        || codename.equals("SHW-M110S")
+        || codename.equals("SHW-M190S")
+        || codename.equals("SPH-D700")
+        || codename.equals("loganlte")))
+        || (model != null && (model.equals("GT-I9000")
+        || model.equals("GT-I9000B")
+        || model.equals("GT-I9000M")
+        || model.equals("GT-I9000T")
+        || model.equals("GT-I9003")
+        || model.equals("GT-I9003L")
+        || model.equals("GT-I9008L")
+        || model.equals("GT-I9010")
+        || model.equals("GT-I9018")
+        || model.equals("GT-I9050")
+        || model.equals("GT-S7275")
+        || model.equals("SAMSUNG-SGH-I897")
+        || model.equals("SC-02B")
+        || model.equals("SCH-I500")
+        || model.equals("SCH-S950C")
+        || model.equals("SCH-i909")
+        || model.equals("SGH-T959V")
+        || model.equals("SGH-T959W")
+        || model.equals("SHW-M110S")
+        || model.equals("SHW-M190S")
+        || model.equals("SPH-D700")))) {
+      return "Galaxy S";
     }
     if ((codename != null && (codename.equals("kylechn")
         || codename.equals("kyleopen")
@@ -1535,26 +1607,6 @@ public class DeviceName {
         || model.equals("SM-T677")
         || model.equals("SM-T677V")))) {
       return "Galaxy View";
-    }
-    if ((codename != null && (codename.equals("GT-S5360")
-        || codename.equals("GT-S5360B")
-        || codename.equals("GT-S5360L")
-        || codename.equals("GT-S5360T")
-        || codename.equals("GT-S5363")
-        || codename.equals("GT-S5368")
-        || codename.equals("GT-S5369")
-        || codename.equals("SCH-I509")
-        || codename.equals("SCH-i509")))
-        || (model != null && (model.equals("GT-S5360")
-        || model.equals("GT-S5360B")
-        || model.equals("GT-S5360L")
-        || model.equals("GT-S5360T")
-        || model.equals("GT-S5363")
-        || model.equals("GT-S5368")
-        || model.equals("GT-S5369")
-        || model.equals("SCH-I509")
-        || model.equals("SCH-i509")))) {
-      return "Galaxy Y";
     }
     if ((codename != null && codename.equals("manta"))) {
       return "Nexus 10";

@@ -73,9 +73,75 @@
   },
   {
     "manufacturer": "Huawei",
+    "market_name": "Mate 9",
+    "codename": "HWMHA",
+    "model": "MHA-AL00"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Mate 9",
+    "codename": "HWMHA",
+    "model": "MHA-L09"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Mate 9",
+    "codename": "HWMHA",
+    "model": "MHA-L29"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Mate 9",
+    "codename": "HWMHA",
+    "model": "MHA-TL00"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Mate 10",
+    "codename": "HWALP",
+    "model": "ALP-AL00"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Mate 10",
+    "codename": "HWALP",
+    "model": "ALP-L09"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Mate 10",
+    "codename": "HWALP",
+    "model": "ALP-L29"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Mate 10",
+    "codename": "HWALP",
+    "model": "ALP-TL00"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "Nexus 6P",
     "codename": "angler",
     "model": "Nexus 6P"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Honor View 10",
+    "codename": "HWBKL",
+    "model": "BKL-L09"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Honor 7X",
+    "codename": "HWBND-H",
+    "model": "BND-L21"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Honor 7X",
+    "codename": "HWBND-H",
+    "model": "BND-L24"
   },
   {
     "manufacturer": "LGE",
@@ -589,18 +655,6 @@
   },
   {
     "manufacturer": "OnePlus",
-    "market_name": "OnePlus",
-    "codename": "OnePlus",
-    "model": "ONE E1003"
-  },
-  {
-    "manufacturer": "OnePlus",
-    "market_name": "OnePlus2",
-    "codename": "OnePlus2",
-    "model": "ONE A2003"
-  },
-  {
-    "manufacturer": "OnePlus",
     "market_name": "OnePlus3",
     "codename": "OnePlus3",
     "model": "ONEPLUS A3000"
@@ -610,6 +664,18 @@
     "market_name": "OnePlus5",
     "codename": "OnePlus5",
     "model": "ONEPLUS A5000"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus3T",
+    "codename": "OnePlus3T",
+    "model": "ONEPLUS A3000"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus5T",
+    "codename": "OnePlus5T",
+    "model": "ONEPLUS A5010"
   },
   {
     "manufacturer": "Samsung",
@@ -2530,6 +2596,132 @@
     "market_name": "Galaxy On7",
     "codename": "on7elte",
     "model": "SM-G600F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "GT-I9000",
+    "model": "GT-I9000"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "GT-I9000B",
+    "model": "GT-I9000B"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "GT-I9000M",
+    "model": "GT-I9000M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "GT-I9000T",
+    "model": "GT-I9000T"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "GT-I9003",
+    "model": "GT-I9003"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "GT-I9003L",
+    "model": "GT-I9003L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "GT-I9008L",
+    "model": "GT-I9008L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "GT-I9010",
+    "model": "GT-I9010"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "GT-I9018",
+    "model": "GT-I9018"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "GT-I9050",
+    "model": "GT-I9050"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "SC-02B",
+    "model": "SC-02B"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "SCH-I500",
+    "model": "SCH-I500"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "SCH-S950C",
+    "model": "SCH-S950C"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "SCH-i909",
+    "model": "SCH-i909"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "SGH-I897",
+    "model": "SAMSUNG-SGH-I897"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "SGH-T959V",
+    "model": "SGH-T959V"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "SGH-T959W",
+    "model": "SGH-T959W"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "SHW-M110S",
+    "model": "SHW-M110S"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "SHW-M190S",
+    "model": "SHW-M190S"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "SPH-D700",
+    "model": "SPH-D700"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S",
+    "codename": "loganlte",
+    "model": "GT-S7275"
   },
   {
     "manufacturer": "Samsung",
@@ -4474,60 +4666,6 @@
     "market_name": "Galaxy view",
     "codename": "gvltelgt",
     "model": "SM-T677NL"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Y",
-    "codename": "GT-S5360",
-    "model": "GT-S5360"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Y",
-    "codename": "GT-S5360B",
-    "model": "GT-S5360B"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Y",
-    "codename": "GT-S5360L",
-    "model": "GT-S5360L"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Y",
-    "codename": "GT-S5360T",
-    "model": "GT-S5360T"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Y",
-    "codename": "GT-S5363",
-    "model": "GT-S5363"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Y",
-    "codename": "GT-S5368",
-    "model": "GT-S5368"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Y",
-    "codename": "GT-S5369",
-    "model": "GT-S5369"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Y",
-    "codename": "SCH-I509",
-    "model": "SCH-I509"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy Y",
-    "codename": "SCH-i509",
-    "model": "SCH-i509"
   },
   {
     "manufacturer": "Samsung",

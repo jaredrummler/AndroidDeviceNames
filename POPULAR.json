@@ -18,7 +18,11 @@
     "Nexus 9"
   ],
   "Huawei": [
-    "Nexus 6P"
+    "Mate 9",
+    "Mate 10",
+    "Nexus 6P",
+    "Honor View 10",
+    "Honor 7X"
   ],
   "LGE": [
     "LG G2",
@@ -34,11 +38,10 @@
     "Nexus 6"
   ],
   "OnePlus": [
-    "OnePlus",
-    "OnePlus One",
-    "OnePlus2",
     "OnePlus3",
-    "OnePlus5"
+    "OnePlus5",
+    "OnePlus3T",
+    "OnePlus5T"
   ],
   "Samsung": [
     "Galaxy A5",
@@ -71,6 +74,7 @@
     "Galaxy Note8",
     "Galaxy On5",
     "Galaxy On7",
+    "Galaxy S",
     "Galaxy S Duos",
     "Galaxy S Duos2",
     "Galaxy S Duos3",
@@ -95,7 +99,6 @@
     "Galaxy Tab E 9.6",
     "Galaxy Tab4 7.0",
     "Galaxy View",
-    "Galaxy Y",
     "Nexus 10"
   ],
   "Sony": [
