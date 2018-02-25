@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'kotlin'
 
 dependencies {
-  compile "org.jetbrains.kotlin:kotlin-stdlib-jre8:$kotlin_version"
+  compile "org.jetbrains.kotlin:kotlin-stdlib-jre8:$kotlinVersion"
   compile 'com.google.code.gson:gson:2.7'
   compile 'org.xerial:sqlite-jdbc:3.20.1'
 }
