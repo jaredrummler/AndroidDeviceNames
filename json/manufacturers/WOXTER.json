@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Woxter",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Woxter",
+      "codename": "Woxter_N70",
+      "model": "Woxter_N70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Woxter_N100",
+      "codename": "Woxter_N100",
+      "model": "Woxter_N100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Woxter_N200",
+      "codename": "Woxter_N200",
+      "model": "Woxter_N200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Woxter_N90",
+      "codename": "Woxter_N90",
+      "model": "Woxter_N90"
+    }
+  ]
+}

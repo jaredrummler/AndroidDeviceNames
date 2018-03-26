@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Ipro",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Kylin 5.5",
+      "codename": "Kylin_55",
+      "model": "Kylin 5.5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kylin_5.0S",
+      "codename": "Kylin_5_0S",
+      "model": "Kylin_5.0S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHOENIX 5.0",
+      "codename": "PHOENIX_50",
+      "model": "PHOENIX 5.0"
+    }
+  ]
+}

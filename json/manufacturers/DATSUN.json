@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Datsun",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "D5000",
+      "codename": "D5000",
+      "model": "D5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Datsun_D5500",
+      "codename": "D5500",
+      "model": "DATSUN_D5500"
+    }
+  ]
+}

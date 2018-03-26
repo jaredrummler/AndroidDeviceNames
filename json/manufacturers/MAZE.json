@@ -1,0 +1,23 @@
+{
+  "manufacturer": "MAZE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Alpha",
+      "codename": "Alpha",
+      "model": "Alpha"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alpha_X",
+      "codename": "Alpha_X",
+      "model": "Alpha_X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Comet",
+      "codename": "Comet",
+      "model": "Comet"
+    }
+  ]
+}

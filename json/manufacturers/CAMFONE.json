@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Camfone",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "CamPad P7",
+      "codename": "CamPad_P7",
+      "model": "CamPad_P7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hero H7 Plus",
+      "codename": "Hero_H7_Plus",
+      "model": "Hero_H7_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hero X",
+      "codename": "Hero_X",
+      "model": "Hero X"
+    }
+  ]
+}

@@ -3,18 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "S5019",
-      "codename": "verykoolS5019",
-      "model": "verykoolS5019"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "S5019",
-      "codename": "verykoolS5019",
-      "model": "verykools5019"
-    },
-    {
-      "manufacturer": "",
       "market_name": "SL5029",
       "codename": "verykoolSL5029",
       "model": "verykoolSL5029"
@@ -126,6 +114,24 @@
       "market_name": "verykool s6005x",
       "codename": "verykools6005X",
       "model": "s6005X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "verykool s6005x",
+      "codename": "verykools6005X",
+      "model": "verykools6005X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "verykoolS5019",
+      "codename": "verykoolS5019",
+      "model": "verykoolS5019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "verykoolS5019",
+      "codename": "verykoolS5019",
+      "model": "verykools5019"
     },
     {
       "manufacturer": "",

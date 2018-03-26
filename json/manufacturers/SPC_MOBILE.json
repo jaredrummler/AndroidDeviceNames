@@ -33,9 +33,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L52F",
+      "codename": "L52F",
+      "model": "L52F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L53",
       "codename": "L53",
       "model": "L53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L54",
+      "codename": "L54",
+      "model": "L54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S19",
+      "codename": "S19",
+      "model": "S19"
     }
   ]
 }

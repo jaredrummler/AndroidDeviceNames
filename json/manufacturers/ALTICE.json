@@ -3,15 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "ALTICE S70",
-      "codename": "S70",
-      "model": "S70"
+      "market_name": "S31",
+      "codename": "S31",
+      "model": "S31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S41",
+      "codename": "HS6737MT",
+      "model": "S41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S51",
+      "codename": "HS6737MT",
+      "model": "S51"
     },
     {
       "manufacturer": "",
       "market_name": "S60",
       "codename": "S60",
       "model": "S60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S70",
+      "codename": "S70",
+      "model": "S70"
     },
     {
       "manufacturer": "",
@@ -42,6 +60,12 @@
       "market_name": "STARXTREM5",
       "codename": "STARXTREM5",
       "model": "STARXTREM5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SX41",
+      "codename": "HS6737MT",
+      "model": "SX41"
     },
     {
       "manufacturer": "",

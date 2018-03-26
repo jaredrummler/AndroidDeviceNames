@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Soda",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "E1",
+      "codename": "soda_CSW1702",
+      "model": "soda E1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "soda",
+      "codename": "soda_SW17W16",
+      "model": "soda S1"
+    }
+  ]
+}

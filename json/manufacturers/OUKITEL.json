@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K10000 Mix",
+      "codename": "K10000_Mix",
+      "model": "K10000 Mix"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K10000 Pro",
       "codename": "K10000_Pro",
       "model": "K10000 Pro"
@@ -54,6 +60,12 @@
       "market_name": "K5000",
       "codename": "K5000",
       "model": "K5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K6",
+      "codename": "K6",
+      "model": "K6"
     },
     {
       "manufacturer": "",
@@ -81,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U11_Plus",
+      "codename": "U11_Plus",
+      "model": "U11_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U16 Max",
+      "codename": "U16_Max",
+      "model": "U16 Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U20_Plus",
       "codename": "U20_Plus",
       "model": "U20_Plus"
@@ -90,6 +114,12 @@
       "market_name": "U22",
       "codename": "U22",
       "model": "U22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U7 Max",
+      "codename": "U7_Max",
+      "model": "U7 Max"
     },
     {
       "manufacturer": "",

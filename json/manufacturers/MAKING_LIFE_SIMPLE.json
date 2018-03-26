@@ -21,15 +21,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iQE200",
+      "codename": "iQE200",
+      "model": "iQE200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iQGW516",
       "codename": "iQGW516",
       "model": "iQGW516"
     },
     {
       "manufacturer": "",
+      "market_name": "iQS300",
+      "codename": "iQS300",
+      "model": "iQS300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQW503",
+      "codename": "iQW503",
+      "model": "iQW503"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iQW553N",
       "codename": "iQW553N",
       "model": "iQW553N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQW603",
+      "codename": "iQW603",
+      "model": "iQW603"
     }
   ]
 }

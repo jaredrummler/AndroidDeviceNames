@@ -321,6 +321,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Chromebook 15 (CB5-571)",
+      "codename": "yuna_cheets",
+      "model": "Acer Chromebook 15 (CB5-571)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Chromebook 15 CB515-1HT/1H",
       "codename": "sand_cheets",
       "model": "Chromebook 15 CB515-1HT/1H"
@@ -520,6 +526,12 @@
     {
       "manufacturer": "",
       "market_name": "Iconia Tab 10",
+      "codename": "acer_asgard",
+      "model": "B3-A40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Iconia Tab 10",
       "codename": "acer_asgardfhd",
       "model": "B3-A40FHD"
     },
@@ -642,6 +654,12 @@
       "market_name": "Iconia TalkTab 7",
       "codename": "acer_a1_724",
       "model": "A1-724"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J73G",
+      "codename": "J73G",
+      "model": "J73G"
     },
     {
       "manufacturer": "",

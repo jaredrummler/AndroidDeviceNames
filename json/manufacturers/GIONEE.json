@@ -117,6 +117,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F109L",
+      "codename": "GIONEE_SW17G09",
+      "model": "GIONEE F109L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F109N",
+      "codename": "GIONEE_SW17G09",
+      "model": "GIONEE F109N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F205",
       "codename": "GIONEE_SW17G18",
       "model": "GIONEE F205"
@@ -144,6 +156,18 @@
       "market_name": "F5L",
       "codename": "GIONEE_SWG1608",
       "model": "F5L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F6",
+      "codename": "GIONEE_SW17G15",
+      "model": "GIONEE F6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F6L",
+      "codename": "GIONEE_SW17G15",
+      "model": "GIONEE F6L"
     },
     {
       "manufacturer": "",
@@ -474,6 +498,12 @@
       "market_name": "M7",
       "codename": "GIONEE_SW17G07",
       "model": "GIONEE M7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7 Power",
+      "codename": "GIONEE_BJ17G16",
+      "model": "M7 Power"
     },
     {
       "manufacturer": "",

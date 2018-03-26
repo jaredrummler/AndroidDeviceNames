@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Invens",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Diamond",
+      "codename": "Diamond",
+      "model": "Diamond"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eager",
+      "codename": "Eager",
+      "model": "Eager"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F1",
+      "codename": "F1",
+      "model": "F1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F2",
+      "codename": "F2",
+      "model": "F2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fighter",
+      "codename": "Fighter",
+      "model": "Fighter"
+    }
+  ]
+}

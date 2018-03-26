@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Gini n9",
+      "codename": "Gini_n9",
+      "model": "Gini n9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gini s5Pro",
+      "codename": "Gini_s5Pro",
+      "model": "s5Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N6",
       "codename": "N6",
       "model": "N6"

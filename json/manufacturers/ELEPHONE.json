@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Elephone",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "P8 3D",
+      "codename": "P8_3D",
+      "model": "P8_3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P8 Max",
+      "codename": "P8_Max",
+      "model": "P8_Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U",
+      "codename": "Elephone_U",
+      "model": "U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U_Pro",
+      "codename": "U_Pro",
+      "model": "U_Pro"
+    }
+  ]
+}

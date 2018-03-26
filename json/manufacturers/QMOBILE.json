@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blue 5",
+      "codename": "QMobile_Blue_5",
+      "model": "QMobile Blue 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS1",
       "codename": "CS1",
       "model": "QMobile CS1"
@@ -249,9 +255,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q Infinity B",
+      "codename": "Q_Infinity_B",
+      "model": "QMobile Q Infinity B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q Infinity C",
+      "codename": "Q_Infinity_C",
+      "model": "QMobile Q Infinity C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q Infinity E",
+      "codename": "Q_Infinity_E",
+      "model": "QMobile Q Infinity E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "QNote",
       "codename": "QMobile_QNote",
       "model": "QMobile QNote"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Qmobile S8 Plus",
+      "codename": "QMobile_S8_Plus",
+      "model": "S8 Plus"
     },
     {
       "manufacturer": "",
@@ -318,6 +348,12 @@
       "market_name": "V100",
       "codename": "QTab_V100",
       "model": "V100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V200",
+      "codename": "QTab_V200",
+      "model": "V200"
     },
     {
       "manufacturer": "",
@@ -474,6 +510,12 @@
       "market_name": "i7i PRO",
       "codename": "i7i_PRO",
       "model": "QMobile i7i PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i8i PRO",
+      "codename": "i8i_PRO",
+      "model": "QMobile i8i PRO"
     }
   ]
 }

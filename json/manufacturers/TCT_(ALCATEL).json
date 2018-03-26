@@ -1863,6 +1863,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALCATEL 3V",
+      "codename": "A3A_XL_4G",
+      "model": "5099Y"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALCATEL 4015T",
       "codename": "Yaris35_GSM",
       "model": "ALCATEL 4015T"
@@ -3249,6 +3255,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALCATEL_ONETOUCH_5022D",
+      "codename": "PLAY-5",
+      "model": "ALCATEL_ONETOUCH_5022D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALCATEL_ONETOUCH_7053D",
       "codename": "X1",
       "model": "7053D"
@@ -3399,6 +3411,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alcatel 1C",
+      "codename": "U5A_PLUS_3G",
+      "model": "5009A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1C",
+      "codename": "U5A_PLUS_3G",
+      "model": "5009D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1C",
+      "codename": "U5A_PLUS_3G",
+      "model": "5009U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "A3A",
+      "model": "5052A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alcatel 3V",
       "codename": "A3A_XL_4G",
       "model": "5099A"
@@ -3413,7 +3449,49 @@
       "manufacturer": "",
       "market_name": "Alcatel 3V",
       "codename": "A3A_XL_4G",
+      "model": "5099D_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3V",
+      "codename": "A3A_XL_4G",
+      "model": "5099I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3V",
+      "codename": "A3A_XL_4G",
       "model": "5099U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "A3A_PLUS",
+      "model": "5058A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "A3A_PLUS",
+      "model": "5058I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "A3A_PLUS",
+      "model": "5058J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "A3A_PLUS",
+      "model": "5058T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "A3A_PLUS",
+      "model": "5058Y"
     },
     {
       "manufacturer": "",
@@ -3426,6 +3504,12 @@
       "market_name": "Alcatel 5",
       "codename": "A5A_INFINI",
       "model": "5086D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 5",
+      "codename": "A5A_INFINI",
+      "model": "5086Y"
     },
     {
       "manufacturer": "",
@@ -3534,6 +3618,18 @@
       "market_name": "Boost View 5.0",
       "codename": "YARISXL",
       "model": "Boost View 5.0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CTCC: TCL Y660/CMCC: TCL V760",
+      "codename": "A3A_PLUS",
+      "model": "TCL V760"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CTCC: TCL Y660/CMCC: TCL V760",
+      "codename": "A3A_PLUS",
+      "model": "TCL Y660"
     },
     {
       "manufacturer": "",

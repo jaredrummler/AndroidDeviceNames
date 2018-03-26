@@ -2955,6 +2955,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HUAWEI MediaPad T3 7",
+      "codename": "HWBG2",
+      "model": "BG2-U03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI P smart",
+      "codename": "HWFIG-H",
+      "model": "FIG-LX1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HUAWEI Y3 2017",
       "codename": "HWCRO-L6737M",
       "model": "CRO-L02"
@@ -3024,6 +3036,24 @@
       "market_name": "HUAWEI nova 2 Plus",
       "codename": "HWBAC",
       "model": "BAC-L22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI nova 3e",
+      "codename": "HWANE",
+      "model": "ANE-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI nova 3e",
+      "codename": "HWANE",
+      "model": "ANE-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI nova lite 2",
+      "codename": "HWFIG-H",
+      "model": "FIG-LA1"
     },
     {
       "manufacturer": "",
@@ -3678,6 +3708,12 @@
       "market_name": "Mate 10",
       "codename": "HWALP",
       "model": "ALP-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 10 Pro",
+      "codename": "HWBLA",
+      "model": "BLA-A09"
     },
     {
       "manufacturer": "",
@@ -6912,6 +6948,30 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 6X",
       "codename": "HWBLN-H",
       "model": "BLN-TL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 7C",
+      "codename": "HWLND-Q",
+      "model": "LND-AL30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 7C",
+      "codename": "HWLND-Q",
+      "model": "LND-AL40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 7C",
+      "codename": "HWLND-Q",
+      "model": "LND-TL30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa9 7C",
+      "codename": "HWLND-Q",
+      "model": "LND-TL40"
     },
     {
       "manufacturer": "",

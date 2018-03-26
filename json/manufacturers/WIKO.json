@@ -663,6 +663,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WC300",
+      "codename": "WC300",
+      "model": "WC300"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WC300SN",
       "codename": "WC300SN",
       "model": "WC300SN"
@@ -690,6 +696,12 @@
       "market_name": "WIM Lite",
       "codename": "p6901",
       "model": "WIM Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W_K600",
+      "codename": "W_K600",
+      "model": "W_K600"
     }
   ]
 }

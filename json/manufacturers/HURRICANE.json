@@ -111,9 +111,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Glaze",
+      "codename": "Glaze",
+      "model": "Glaze"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Icon",
       "codename": "Icon",
       "model": "Icon"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Onyx",
+      "codename": "Hurricane_Onyx",
+      "model": "Onyx"
     },
     {
       "manufacturer": "",
@@ -144,6 +156,12 @@
       "market_name": "Surge",
       "codename": "Surge",
       "model": "Surge"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ultra",
+      "codename": "Ultra",
+      "model": "Ultra"
     },
     {
       "manufacturer": "",

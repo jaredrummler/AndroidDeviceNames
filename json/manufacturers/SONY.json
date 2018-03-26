@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BRAVIA 4K GB ATV3",
+      "codename": "BRAVIA_ATV3_4K",
+      "model": "BRAVIA 4K GB ATV3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BRAVIA Smart Stick",
       "codename": "NSZGU1",
       "model": "NSZ-GU1"
@@ -1152,6 +1158,18 @@
       "market_name": "Xperia XZ1 Compact",
       "codename": "SO-02K",
       "model": "SO-02K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia XZ2",
+      "codename": "H8296",
+      "model": "H8296"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia XZ2 Compact",
+      "codename": "H8324",
+      "model": "H8324"
     },
     {
       "manufacturer": "",

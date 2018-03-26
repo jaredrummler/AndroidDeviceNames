@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 1",
+      "codename": "FRT",
+      "model": "Nokia 1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 2",
       "codename": "E1M",
       "model": "Nokia 2"
@@ -105,9 +111,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 6.1",
+      "codename": "PL2_sprout",
+      "model": "Nokia 6.1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 7",
       "codename": "C1N",
       "model": "TA-1041"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 7 plus",
+      "codename": "B2N",
+      "model": "Nokia 7 plus"
     },
     {
       "manufacturer": "",
@@ -126,6 +144,18 @@
       "market_name": "Nokia 8",
       "codename": "NB1",
       "model": "TA-1052"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 8 Sirocco",
+      "codename": "A1N",
+      "model": "Nokia 8 Sirocco"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 8 Sirocco",
+      "codename": "A1N_sprout",
+      "model": "Nokia 8 Sirocco"
     }
   ]
 }

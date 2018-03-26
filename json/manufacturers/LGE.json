@@ -1425,6 +1425,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JOJO",
+      "codename": "L-02K",
+      "model": "L-02K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K20",
       "codename": "lv517",
       "model": "RS501"
@@ -3359,7 +3365,25 @@
       "manufacturer": "",
       "market_name": "LG K8(2018)",
       "codename": "cv1",
+      "model": "LM-X210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG K8(2018)",
+      "codename": "cv1",
       "model": "LM-X210(G)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG K8(2018)",
+      "codename": "cv1",
+      "model": "LM-X212(G)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG K9",
+      "codename": "cv109",
+      "model": "LM-X210"
     },
     {
       "manufacturer": "",
@@ -4443,6 +4467,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG Phoenix 4",
+      "codename": "cv1",
+      "model": "LM-X210APM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG Power",
       "codename": "y50c",
       "model": "LGL22C"
@@ -5238,6 +5268,18 @@
       "market_name": "LGL22",
       "codename": "g2",
       "model": "LGL22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LML413DL",
+      "codename": "cv3",
+      "model": "LM-X410.F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LML413DL",
+      "codename": "cv3",
+      "model": "LML413DL"
     },
     {
       "manufacturer": "",

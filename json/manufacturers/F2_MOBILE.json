@@ -1,0 +1,29 @@
+{
+  "manufacturer": "F2 Mobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "F2 F80s_plus",
+      "codename": "F80s_plus",
+      "model": "F80s_plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F2_LT5216",
+      "codename": "LT5216",
+      "model": "LT5216"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT16",
+      "codename": "LT16",
+      "model": "LT16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT18",
+      "codename": "LT18",
+      "model": "LT18"
+    }
+  ]
+}

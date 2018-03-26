@@ -471,12 +471,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "AQUOS S3mini (SG1)",
-      "codename": "SG1",
-      "model": "FS8018"
-    },
-    {
-      "manufacturer": "",
       "market_name": "AQUOS SERIE SHL25",
       "codename": "SHL25",
       "model": "SHL25"
@@ -642,6 +636,12 @@
       "market_name": "AQUOS sense SHV40",
       "codename": "KXU",
       "model": "SHV40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense basic",
+      "codename": "SG702SH",
+      "model": "702SH"
     },
     {
       "manufacturer": "",
@@ -981,9 +981,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LC-xxUD50H",
+      "codename": "lc_xxbel8h_c",
+      "model": "LC-xxBEL8H-C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LC-xxUE630X",
       "codename": "lc_ue630x",
       "model": "LC-UE630X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LC-xxUX50H",
+      "codename": "lc_xxbel9h",
+      "model": "LC-xxBEL9H"
     },
     {
       "manufacturer": "",
@@ -1029,6 +1041,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LCD-45X518H1A",
+      "codename": "cv6a648_base",
+      "model": "LCD-45FOC518H1A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LCD-50MY4000A/TX4000A/50SU470A",
       "codename": "Lcd_50foc4000a",
       "model": "LCD_50FOC4000A"
@@ -1044,6 +1062,12 @@
       "market_name": "LCD-60SU475A",
       "codename": "Lcd_xxsufoc475a",
       "model": "LCD_xxSUFOC475A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LCD-60X518H1A",
+      "codename": "cv6a648_4K_base",
+      "model": "LCD-60FOC518H1A"
     },
     {
       "manufacturer": "",
@@ -1143,6 +1167,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LCD-xxSU672A",
+      "codename": "Lcd_xxsufoc6a",
+      "model": "LCD_xxSUFOC6A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LCD-xxSU775A;LCD-xxMY7100A",
       "codename": "lcd_xxdem7a",
       "model": "LCD-xxDEM7A"
@@ -1200,6 +1230,18 @@
       "market_name": "PN-B501/PN-B401",
       "codename": "PN_B_series_w",
       "model": "PN_B_series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PN-M501/PN-M401",
+      "codename": "PN_M_series",
+      "model": "PN_M_series"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PN-M501/PN-M401",
+      "codename": "PN_M_series_w",
+      "model": "PN_M_series"
     },
     {
       "manufacturer": "",
@@ -1344,6 +1386,12 @@
       "market_name": "SHARP AQUOS S3",
       "codename": "HH1",
       "model": "FS8032"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP AQUOS V1mini",
+      "codename": "SG1",
+      "model": "FS8018"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Jinga Joy",
+      "codename": "JI55A_189BW",
+      "model": "Joy"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pass",
+      "codename": "Pass",
+      "model": "Pass"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartPRO",
+      "codename": "JI55_216M",
+      "model": "SmartPRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Start 3G",
+      "codename": "Start3G",
+      "model": "Start3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Touch 4G",
       "codename": "Touch4G",
       "model": "Touch4G"

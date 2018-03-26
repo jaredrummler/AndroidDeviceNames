@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Smart",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Advance Pro",
+      "codename": "Advance_Pro",
+      "model": "Advance Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Coral 4",
+      "codename": "Coral_4",
+      "model": "Coral 4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FW503KH",
+      "codename": "FW503KH",
+      "model": "FW503KH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Slide Lite",
+      "codename": "Slide_Lite",
+      "model": "Slide Lite"
+    }
+  ]
+}

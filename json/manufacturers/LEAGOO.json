@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Leagoo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "KIICAA MIX",
+      "codename": "KIICAA_MIX",
+      "model": "KIICAA MIX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIICAA POWER",
+      "codename": "KIICAA_POWER",
+      "model": "KIICAA POWER"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M9",
+      "codename": "M9",
+      "model": "M9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T5",
+      "codename": "T5",
+      "model": "T5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z7",
+      "codename": "Z7",
+      "model": "Z7"
+    }
+  ]
+}

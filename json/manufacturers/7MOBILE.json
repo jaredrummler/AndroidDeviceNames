@@ -1,0 +1,23 @@
+{
+  "manufacturer": "7mobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DRENA",
+      "codename": "DRENA",
+      "model": "DRENA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KAMBA",
+      "codename": "KAMBA",
+      "model": "KAMBA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SWEGUE",
+      "codename": "SWEGUE",
+      "model": "SWEGUE"
+    }
+  ]
+}

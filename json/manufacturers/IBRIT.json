@@ -1,0 +1,35 @@
+{
+  "manufacturer": "iBRIT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Alpha",
+      "codename": "AF51",
+      "model": "AF51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IBRIT_I5",
+      "codename": "i5",
+      "model": "IBRIT_I5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IBRIT_I7",
+      "codename": "i7",
+      "model": "IBRIT_I7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Speed_Pro_Plus",
+      "codename": "SF56",
+      "model": "SF56"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iBRIT SpeedX",
+      "codename": "SpeedX",
+      "model": "SpeedX"
+    }
+  ]
+}

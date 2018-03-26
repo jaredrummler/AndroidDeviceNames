@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4E",
+      "codename": "4E",
+      "model": "4E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "5.5M",
       "codename": "5_5M",
       "model": "5.5M"
@@ -12,6 +18,12 @@
       "market_name": "5E",
       "codename": "5E",
       "model": "5E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "5E4",
+      "codename": "5E4",
+      "model": "5E4"
     }
   ]
 }

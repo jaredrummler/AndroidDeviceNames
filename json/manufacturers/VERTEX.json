@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EF",
+      "codename": "EF",
+      "model": "EF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EO",
+      "codename": "EO",
+      "model": "EO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ET",
+      "codename": "ET",
+      "model": "ET"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress Action",
       "codename": "Impress_Action",
       "model": "Impress_Action"
@@ -87,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress Sun",
+      "codename": "Sun",
+      "model": "Sun"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress Tiger",
       "codename": "Tiger",
       "model": "Tiger"
@@ -102,6 +126,30 @@
       "market_name": "Impress_Lagune",
       "codename": "Impress_Lagune",
       "model": "Impress_Lagune"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Wolf",
+      "codename": "Impress_Wolf",
+      "model": "Impress_Wolf"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lion_Dual",
+      "codename": "Lion_Dual",
+      "model": "Lion_Dual"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_4G_10_1",
+      "codename": "Tab_4G_10-1",
+      "model": "Tab 4G 10-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_4G_8-1",
+      "codename": "Tab_4G_8-1",
+      "model": "Tab 4G 8-1"
     }
   ]
 }

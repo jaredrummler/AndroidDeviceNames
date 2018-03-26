@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "ZTE",
+    "market_name": "ACT",
+    "codename": "B860H_V1",
+    "model": "B860H"
+  },
+  {
+    "manufacturer": "ZTE",
     "market_name": "B860H",
     "codename": "B860H_V1",
     "model": "B860H"

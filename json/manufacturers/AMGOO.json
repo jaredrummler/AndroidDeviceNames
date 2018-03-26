@@ -57,12 +57,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "AM518",
-      "codename": "AM518",
-      "model": "AM518"
-    },
-    {
-      "manufacturer": "",
       "market_name": "AM520",
       "codename": "AM520",
       "model": "AM520"
@@ -78,6 +72,12 @@
       "market_name": "AM535",
       "codename": "AM535",
       "model": "AM535"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amgoo",
+      "codename": "AM518",
+      "model": "AM518"
     }
   ]
 }

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TBT6700",
+      "codename": "TN800A1",
+      "model": "TN800A1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TN500A1",
       "codename": "TN500A1",
       "model": "TN500A1"
@@ -18,12 +24,6 @@
       "market_name": "TN500A2",
       "codename": "TN500A2",
       "model": "TN500A2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TurboTab E1",
-      "codename": "TN800A1",
-      "model": "TN800A1"
     }
   ]
 }

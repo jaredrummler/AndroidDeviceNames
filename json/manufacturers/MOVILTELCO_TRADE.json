@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A58B",
+      "codename": "A58B",
+      "model": "A58B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "mtt L509",
       "codename": "L509",
       "model": "MTT_L509"

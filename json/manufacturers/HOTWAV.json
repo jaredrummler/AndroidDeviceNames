@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Magic 13",
+      "codename": "Magic_13",
+      "model": "Magic 13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Magic 6",
       "codename": "Magic_6",
       "model": "Magic 6"
@@ -18,6 +24,18 @@
       "market_name": "Magic 8",
       "codename": "Magic_8",
       "model": "Magic 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Magic Q8",
+      "codename": "Magic_Q8",
+      "model": "Magic Q8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Symbol M1",
+      "codename": "Symbol_M1",
+      "model": "Symbol M1"
     }
   ]
 }

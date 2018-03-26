@@ -1,5 +1,23 @@
 [
   {
+    "manufacturer": "Altice",
+    "market_name": "S41",
+    "codename": "HS6737MT",
+    "model": "S41"
+  },
+  {
+    "manufacturer": "Altice",
+    "market_name": "S51",
+    "codename": "HS6737MT",
+    "model": "S51"
+  },
+  {
+    "manufacturer": "Altice",
+    "market_name": "SX41",
+    "codename": "HS6737MT",
+    "model": "SX41"
+  },
+  {
     "manufacturer": "Hisense",
     "market_name": "C30 Lite",
     "codename": "HS6737MT",
@@ -109,18 +127,6 @@
   },
   {
     "manufacturer": "Hisense",
-    "market_name": "S41",
-    "codename": "HS6737MT",
-    "model": "S41"
-  },
-  {
-    "manufacturer": "Hisense",
-    "market_name": "S51",
-    "codename": "HS6737MT",
-    "model": "S51"
-  },
-  {
-    "manufacturer": "Hisense",
     "market_name": "STARTRAIL  9",
     "codename": "HS6737MT",
     "model": "S40"
@@ -130,11 +136,5 @@
     "market_name": "STARTRAIL  9",
     "codename": "HS6737MT",
     "model": "STARTRAIL 9"
-  },
-  {
-    "manufacturer": "Hisense",
-    "market_name": "SX41",
-    "codename": "HS6737MT",
-    "model": "SX41"
   }
 ]

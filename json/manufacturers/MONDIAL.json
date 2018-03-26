@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Mondial",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TB-MONDIAL",
+      "codename": "TB_MONDIAL",
+      "model": "TB_MONDIAL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB_MONDIAL_KID",
+      "codename": "TB_MONDIAL_KID",
+      "model": "TB_MONDIAL_KID"
+    }
+  ]
+}

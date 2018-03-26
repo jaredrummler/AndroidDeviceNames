@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DIGMA CITI 1508 4G CS1114ML",
+      "codename": "CS1114ML",
+      "model": "CITI_1508_4G_CS1114ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA CITI 1532 3G CS1144MG",
+      "codename": "CS1144MG",
+      "model": "CITI 1532 3G CS1144MG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA CITI 1544 3G CS1154MG",
       "codename": "CS1154MG",
       "model": "CITI_1544_3G_CS1154MG"
@@ -27,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGMA CITI 8531 3G CS8143MG",
+      "codename": "CS8143MG",
+      "model": "CITI 8531 3G CS8143MG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA CITI 8542 4G CS8152ML",
       "codename": "CS8152ML",
       "model": "CITI_8542_4G_CS8152ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA HIT Q401 3G HT4039PG",
+      "codename": "HT4039PG",
+      "model": "HIT Q401 3G HT4039PG"
     },
     {
       "manufacturer": "",
@@ -39,9 +63,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGMA LINX A453 3G LT4038PG",
+      "codename": "LT4038PG",
+      "model": "LINX A453 3G LT4038PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA LINX B510 3G LT5037MG",
+      "codename": "LT5037MG",
+      "model": "LINX B510 3G LT5037MG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA Optima Prime 3 3G TS7131MG",
       "codename": "TS7131MG",
       "model": "Optima_Prime_3_3G_TS7131MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Optima Prime 4 3G TT7174PG",
+      "codename": "TT7174PG",
+      "model": "Optima Prime 4 3G TT7174PG"
     },
     {
       "manufacturer": "",
@@ -51,9 +93,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGMA Plane 1524 3G PS1136MG",
+      "codename": "PS1136MG",
+      "model": "Plane_1524_3G_PS1136MG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA Plane 1525 3G PS1137MG",
       "codename": "PS1137MG",
       "model": "Plane_1525_3G_PS1137MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 1526 4G PS1138ML",
+      "codename": "PS1138ML",
+      "model": "Plane_1526_4G_PS1138ML"
     },
     {
       "manufacturer": "",
@@ -69,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGMA Plane 1541E 4G PS1157ML",
+      "codename": "PS1157ML",
+      "model": "Plane_1541E_4G_PS1157ML"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA Plane 1550S 3G PS1163MG",
       "codename": "PS1163MG",
       "model": "Plane_1550S_3G_PS1163MG"
@@ -78,6 +138,30 @@
       "market_name": "DIGMA Plane 1551S 4G PS1164ML",
       "codename": "PS1164ML",
       "model": "Plane_1551S_4G_PS1164ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 1553M 4G PS1166ML",
+      "codename": "PS1166ML",
+      "model": "Plane_1553M_4G_PS1166ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 1559 4G PS1173PL",
+      "codename": "PS1173PL",
+      "model": "Plane_1559_4G_PS1173PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 1713T 3G PT1138MG",
+      "codename": "PT1138MG",
+      "model": "Plane 1713T 3G PT1138MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 1715T 4G PT1139PL",
+      "codename": "PT1139PL",
+      "model": "Plane 1715T 4G PT1139PL"
     },
     {
       "manufacturer": "",
@@ -105,15 +189,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGMA Plane 7552M 3G PS7165MG",
+      "codename": "PS7165MG",
+      "model": "Plane_7552M_3G_PS7165MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 7556 3G PS7170MG",
+      "codename": "PS7170MG",
+      "model": "Plane_7556_3G_PS7170MG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA Plane 7557 4G PS7171PL",
       "codename": "PS7171PL",
       "model": "Plane_7557_4G_PS7171PL"
     },
     {
       "manufacturer": "",
+      "market_name": "DIGMA Plane 7574S 4G PS7191PL",
+      "codename": "PS7191PL",
+      "model": "Plane 7574S 4G PS7191PL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA Plane 8540E 4G PS8156ML",
       "codename": "PS8156ML",
       "model": "Plane_8540E_4G_PS8156ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 8558 4G PS8172PL",
+      "codename": "PS8172PL",
+      "model": "Plane_8558_4G_PS8172PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 9634 3G PS9146MG",
+      "codename": "PS9146MG",
+      "model": "Plane_9634_3G_PS9146MG"
     },
     {
       "manufacturer": "",
@@ -153,6 +267,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Plane 7012M 3G PS7082MG",
+      "codename": "PS7082MG",
+      "model": "Plane_7012M_3G_PS7082MG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Plane 7546S 3G",
       "codename": "PS7158PG",
       "model": "Plane_7546S_3G_PS7158PG"
@@ -162,6 +282,12 @@
       "market_name": "Plane 7547S 3G",
       "codename": "PS7159PG",
       "model": "Plane_7547S_3G_PS7159PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plane 8522 3G PS8135MG",
+      "codename": "PS8135MG",
+      "model": "Plane_8522_3G_PS8135MG"
     },
     {
       "manufacturer": "",

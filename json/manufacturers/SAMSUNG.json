@@ -1030,6 +1030,12 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy A8(2018)",
+      "codename": "jackpotltecan",
+      "model": "SM-A530W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A8(2018)",
       "codename": "jackpotlteks",
       "model": "SM-A530N"
     },
@@ -2535,6 +2541,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy Folder2",
+      "codename": "elitexlte",
+      "model": "SM-G1650"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy Fresh",
       "codename": "kylevess",
       "model": "GT-S7390"
@@ -3381,6 +3393,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy J2(2018) Ph Sepco",
+      "codename": "j2y18lte",
+      "model": "SM-J250G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy J3",
       "codename": "j3ltectc",
       "model": "SM-J3109"
@@ -3990,6 +4008,12 @@
       "market_name": "Galaxy J7 Prime",
       "codename": "on7xltechn",
       "model": "SM-G6100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7 Prime2",
+      "codename": "on7xreflteins",
+      "model": "SM-G611FF"
     },
     {
       "manufacturer": "",
@@ -5829,9 +5853,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy On7 Prime",
+      "codename": "on7xreflte",
+      "model": "SM-G611F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy On7 Pro",
       "codename": "o7prolte",
       "model": "SM-G600FY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy On7 Refresh",
+      "codename": "on7xrefltektt",
+      "model": "SM-G611K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy On7 Refresh",
+      "codename": "on7xrefltelgt",
+      "model": "SM-G611L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy On7 Refresh",
+      "codename": "on7xreflteskt",
+      "model": "SM-G611S"
     },
     {
       "manufacturer": "",
@@ -8475,6 +8523,84 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy S9",
+      "codename": "starlte",
+      "model": "SM-G960F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9",
+      "codename": "starlteks",
+      "model": "SM-G960N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9",
+      "codename": "starqltechn",
+      "model": "SM-G9600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9",
+      "codename": "starqltecmcc",
+      "model": "SM-G9608"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9",
+      "codename": "starqltecs",
+      "model": "SM-G960W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9",
+      "codename": "starqltesq",
+      "model": "SM-G960U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9",
+      "codename": "starqlteue",
+      "model": "SM-G960U1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9+",
+      "codename": "star2lte",
+      "model": "SM-G965F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9+",
+      "codename": "star2lteks",
+      "model": "SM-G965N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9+",
+      "codename": "star2qltechn",
+      "model": "SM-G9650"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9+",
+      "codename": "star2qltecs",
+      "model": "SM-G965W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9+",
+      "codename": "star2qltesq",
+      "model": "SM-G965U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9+",
+      "codename": "star2qlteue",
+      "model": "SM-G965U1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy Spica",
       "codename": "GT-I5700",
       "model": "GT-I5700"
@@ -9318,6 +9444,12 @@
       "market_name": "Galaxy Tab Active2",
       "codename": "gtactive2ltekx",
       "model": "SM-T395N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab Active2",
+      "codename": "gtactive2lteue",
+      "model": "SM-T397U"
     },
     {
       "manufacturer": "",

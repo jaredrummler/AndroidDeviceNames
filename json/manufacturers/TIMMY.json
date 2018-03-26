@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Timmy",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M40_pro",
+      "codename": "M40_pro",
+      "model": "M40_pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M68_Plus",
+      "codename": "M68_Plus",
+      "model": "M68_Plus"
+    }
+  ]
+}

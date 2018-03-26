@@ -321,6 +321,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AGM  X2",
+      "codename": "HS8976QC",
+      "model": "X2_SE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AGM A7",
       "codename": "HS8909QC",
       "model": "AGM A7"
@@ -2553,21 +2559,15 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PX9",
+      "codename": "PX9",
+      "model": "PX9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S1",
       "codename": "HS8937QC",
       "model": "S1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "S41",
-      "codename": "HS6737MT",
-      "model": "S41"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "S51",
-      "codename": "HS6737MT",
-      "model": "S51"
     },
     {
       "manufacturer": "",
@@ -2598,12 +2598,6 @@
       "market_name": "STARTRAIL 6 4G",
       "codename": "L681",
       "model": "STARTRAIL 6 4G"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "SX41",
-      "codename": "HS6737MT",
-      "model": "SX41"
     },
     {
       "manufacturer": "",
@@ -2873,6 +2867,12 @@
       "manufacturer": "",
       "market_name": "VIDAA_TV",
       "codename": "Hi3751v620",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "MSD6A348",
       "model": "VIDAA_TV"
     },
     {

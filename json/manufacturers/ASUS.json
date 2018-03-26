@@ -957,6 +957,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZenFone 3 (ZE552KL)",
+      "codename": "ASUS_Z012D",
+      "model": "ASUS_Z012S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZenFone 3 Deluxe (ZS550KL)",
       "codename": "ASUS_Z01F_1",
       "model": "ASUS_Z01FD"
@@ -1149,6 +1155,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZenFone 4 Max (ZC520KL)",
+      "codename": "ASUS_X00HD_5",
+      "model": "ASUS_X00HD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZenFone 4 Max (ZC554KL)",
       "codename": "ASUS_X00ID",
       "model": "ASUS_X00ID"
@@ -1239,9 +1251,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZenFone 5 (ZE620KL)",
+      "codename": "ASUS_X00QD",
+      "model": "ASUS_X00QD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZenFone 5 LTE (A500KL)",
       "codename": "ASUS_T00P",
       "model": "ASUS_T00P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone 5 Lite (ZC600KL)",
+      "codename": "ASUS_X017D_2",
+      "model": "ASUS_X017DA"
     },
     {
       "manufacturer": "",

@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L-EMENT 401",
+      "codename": "L-EMENT401",
+      "model": "L-EMENT401"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L-EMENT 403",
       "codename": "L-EMENT_403",
       "model": "L-EMENT_403"
@@ -126,6 +132,12 @@
       "market_name": "L-EMENT TAB 1040",
       "codename": "generic",
       "model": "L-EMENT_TAB1040"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L-EMENT TAB 1043 BTK",
+      "codename": "L-EMENT_1043_BTK",
+      "model": "L-EMENT_1043_BTK"
     },
     {
       "manufacturer": "",
@@ -231,6 +243,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L-ITE 552 HD",
+      "codename": "L-ITE552HD",
+      "model": "L-ITE 552 HD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L-ITE Tab 870 LTE",
       "codename": "L-ITETAB870LTE",
       "model": "L-ITE Tab 870 LTE"
@@ -291,6 +309,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L351",
+      "codename": "L-EMENT351",
+      "model": "L-EMENT351"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L743",
       "codename": "L-EMENT743",
       "model": "L-EMENT743"
@@ -315,15 +339,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LIXIR1044",
+      "codename": "LIXIR1044",
+      "model": "LIXIR1044"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L_IXIR_TAB_1047HD",
       "codename": "L_IXIR_TAB_1047HD",
       "model": "L_IXIR_TAB_1047HD"
     },
     {
       "manufacturer": "",
+      "market_name": "La Tab 106",
+      "codename": "LaTab106",
+      "model": "La Tab 106"
+    },
+    {
+      "manufacturer": "",
       "market_name": "La Tab Full HD",
       "codename": "La_Tab_Full_HD",
       "model": "La Tab Full HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le Starter L",
+      "codename": "Le_Starter_L",
+      "model": "Le Starter L"
     },
     {
       "manufacturer": "",
@@ -348,6 +390,12 @@
       "market_name": "M bot 51",
       "codename": "Mbot51",
       "model": "M bot 51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M bot 54",
+      "codename": "M_bot_54",
+      "model": "M bot 54"
     },
     {
       "manufacturer": "",

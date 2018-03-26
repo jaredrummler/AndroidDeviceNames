@@ -574,12 +574,6 @@
     {
       "manufacturer": "",
       "market_name": "FZ-X1",
-      "codename": "FZ-N1VUC",
-      "model": "FZ-N1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "FZ-X1",
       "codename": "FZ-X1",
       "model": "FZ-X1"
     },
@@ -807,6 +801,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Panasonic P85 NXT",
+      "codename": "P85Nxt",
+      "model": "Panasonic P85 NXT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Panasonic P90",
       "codename": "Panasonic_P90",
       "model": "Panasonic P90"
@@ -1008,6 +1008,12 @@
       "market_name": "Yaris M",
       "codename": "T31",
       "model": "Panasonic T31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "fz_b2dh",
+      "codename": "fz_b2d",
+      "model": "FZ-B2D"
     }
   ]
 }

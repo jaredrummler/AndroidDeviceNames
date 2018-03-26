@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "610",
+      "codename": "610",
+      "model": "610"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PCD508",
       "codename": "PCD508",
       "model": "PCD508"
@@ -12,6 +18,18 @@
       "market_name": "PCD509",
       "codename": "PCD509",
       "model": "PCD509"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PH5003",
+      "codename": "PH5003",
+      "model": "PH5003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PL5003",
+      "codename": "PL5003",
+      "model": "PL5003"
     }
   ]
 }

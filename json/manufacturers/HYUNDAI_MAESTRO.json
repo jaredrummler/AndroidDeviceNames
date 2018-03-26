@@ -1,0 +1,23 @@
+{
+  "manufacturer": "HYUNDAI_MAESTRO",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "HDT_1064GS",
+      "codename": "HDT_1064GS",
+      "model": "HDT_1064GS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HDT_7427G",
+      "codename": "HDT_7427G",
+      "model": "HDT_7427G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HDT_7427G_PLUS",
+      "codename": "HDT_7427G_PLUS",
+      "model": "HDT_7427G_PLUS"
+    }
+  ]
+}

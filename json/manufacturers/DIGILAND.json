@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Compumax Blue",
+      "codename": "mid1016_ma",
+      "model": "Compumax Blue"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CompumaxBlue",
       "codename": "mid1024_e",
       "model": "Compumax_Blue_6030-805-0001"

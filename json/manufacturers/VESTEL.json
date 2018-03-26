@@ -15,12 +15,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "5000_2gb",
-      "codename": "Leo_2GB",
-      "model": "Vestel_5000_2gb"
-    },
-    {
-      "manufacturer": "",
       "market_name": "5530",
       "codename": "Pars",
       "model": "Vestel_5530"
@@ -33,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ada",
+      "codename": "Ada",
+      "model": "Venus E2 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Farabi",
       "codename": "frb3g",
       "model": "Farabi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Leo_2GB",
+      "codename": "Leo_2GB",
+      "model": "Vestel_5000_2gb"
     },
     {
       "manufacturer": "",
@@ -48,12 +54,6 @@
       "market_name": "S7252",
       "codename": "BCM7252S",
       "model": "S7252"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Teos",
-      "codename": "Teos",
-      "model": "Venus V5"
     },
     {
       "manufacturer": "",
@@ -90,6 +90,12 @@
       "market_name": "V TAB 7020A",
       "codename": "V_TAB_7020A",
       "model": "V_TAB_7020A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V TAB 7020B",
+      "codename": "V_TAB_7020B",
+      "model": "V_TAB_7020B"
     },
     {
       "manufacturer": "",
@@ -132,6 +138,12 @@
       "market_name": "V3 5580 Dual",
       "codename": "Orsa",
       "model": "V3_5580_Dual"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V4",
+      "codename": "V4",
+      "model": "Venus_V4"
     },
     {
       "manufacturer": "",
@@ -309,9 +321,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Venus E2 Plus",
-      "codename": "Ada",
-      "model": "Venus E2 Plus"
+      "market_name": "VTAB 7040",
+      "codename": "V_TAB_7040",
+      "model": "V_TAB_7040"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VTAB 8059",
+      "codename": "V_TAB_8059",
+      "model": "V_TAB_8059"
     },
     {
       "manufacturer": "",
@@ -363,9 +381,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Venus V4",
-      "codename": "V4",
-      "model": "Venus_V4"
+      "market_name": "Venus V5",
+      "codename": "Teos",
+      "model": "Venus V5"
     },
     {
       "manufacturer": "",

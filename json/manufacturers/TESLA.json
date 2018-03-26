@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M8.1 3G",
+      "codename": "TTM813G",
+      "model": "TTM813G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tablet_L7_1",
       "codename": "Tablet_L7_1",
       "model": "Tesla L7.1"
@@ -36,6 +42,18 @@
       "market_name": "Tesla Smartphone 9.1 Lite",
       "codename": "Tesla_SP9_1_Lite",
       "model": "Tesla_SP9.1L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tesla Tablet L8.1",
+      "codename": "Tesla_L8_1",
+      "model": "Tesla L8.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tesla_SP3_3Lite",
+      "codename": "Tesla_SP3_3Lite",
+      "model": "Tesla_SP3.3 Lite"
     },
     {
       "manufacturer": "",

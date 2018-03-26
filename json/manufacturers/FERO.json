@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A5000",
+      "codename": "A5000",
+      "model": "A5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A5500",
+      "codename": "A5500",
+      "model": "A5500"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FERO ROYALE Y2",
       "codename": "Royale_Y2",
       "model": "Royale Y2"

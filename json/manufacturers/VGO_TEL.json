@@ -9,15 +9,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ocean 8",
+      "codename": "Ocean_8",
+      "model": "Ocean_8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ocean 9",
       "codename": "Ocean_9",
       "model": "Ocean_9"
     },
     {
       "manufacturer": "",
+      "market_name": "Ocean9L",
+      "codename": "Ocean9L",
+      "model": "Ocean9L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VENTURE V12",
       "codename": "Venture_V12",
       "model": "Venture V12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Venture V8",
+      "codename": "VentureV8",
+      "model": "Venture V8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i Smart",
+      "codename": "i_Smart",
+      "model": "i_Smart"
     }
   ]
 }

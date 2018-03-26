@@ -1,0 +1,29 @@
+{
+  "manufacturer": "mytel",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M9502",
+      "codename": "M9501",
+      "model": "M9501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M9502",
+      "codename": "M9502",
+      "model": "M9502"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M9503",
+      "codename": "M9503",
+      "model": "M9503"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Msuper",
+      "codename": "Msuper",
+      "model": "Msuper"
+    }
+  ]
+}

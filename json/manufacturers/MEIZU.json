@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M15",
+      "codename": "M15",
+      "model": "M15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M6",
       "codename": "meizu_M6",
       "model": "M6"
@@ -30,6 +36,12 @@
       "market_name": "M6s",
       "codename": "MeizumbluS6",
       "model": "Meizu mblu S6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Meizu S6",
+      "codename": "MeizuS6",
+      "model": "M712C"
     },
     {
       "manufacturer": "",

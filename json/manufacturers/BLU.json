@@ -33,12 +33,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Advance 5.2",
-      "codename": "A230Q",
-      "model": "Advance 5.2"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Advance A5 LTE",
       "codename": "A0010WW",
       "model": "Advance A5 LTE"
@@ -48,6 +42,12 @@
       "market_name": "Advance A6",
       "codename": "A190",
       "model": "Advance A6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Advance_5_2",
+      "codename": "A230Q",
+      "model": "Advance 5.2"
     },
     {
       "manufacturer": "",
@@ -75,9 +75,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "BLU Studio G3",
-      "codename": "S770P",
-      "model": "Studio G3"
+      "market_name": "BLU_STUDIO_G2",
+      "codename": "BLU_STUDIO_G2",
+      "model": "BLU STUDIO G2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLU_Studio_G_Max",
+      "codename": "Studio_G_Max",
+      "model": "Studio G Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLU_Vivo_XL2",
+      "codename": "BLU_Vivo_XL2",
+      "model": "Vivo XL2"
     },
     {
       "manufacturer": "",
@@ -471,12 +483,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "R2",
-      "codename": "R010P",
-      "model": "R2 3G"
-    },
-    {
-      "manufacturer": "",
       "market_name": "R2 LTE",
       "codename": "R0150EE",
       "model": "R2 LTE"
@@ -492,6 +498,12 @@
       "market_name": "R2 Plus",
       "codename": "R0190WW",
       "model": "R2 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R2_3G",
+      "codename": "R010P",
+      "model": "R2 3G"
     },
     {
       "manufacturer": "",
@@ -531,12 +543,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "STUDIO G MAX",
-      "codename": "Studio_G_Max",
-      "model": "Studio G Max"
-    },
-    {
-      "manufacturer": "",
       "market_name": "STUDIO G PLUS",
       "codename": "Studio_G_Plus",
       "model": "BLU STUDIO G PLUS"
@@ -546,12 +552,6 @@
       "market_name": "STUDIO G PLUS HD",
       "codename": "Studio_G_Plus_HD",
       "model": "Studio G Plus HD"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "STUDIO G2",
-      "codename": "BLU_STUDIO_G2",
-      "model": "BLU STUDIO G2"
     },
     {
       "manufacturer": "",
@@ -651,6 +651,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Studio G3",
+      "codename": "S770P",
+      "model": "Studio G3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Studio J1",
       "codename": "Studio_J1",
       "model": "Advance A4"
@@ -741,13 +747,19 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Studio XL 2",
+      "market_name": "Studio_J8M",
+      "codename": "S0450WW",
+      "model": "Studio J8M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Studio_XL_2",
       "codename": "Studio_XL_2",
       "model": "Studio M6 LTE"
     },
     {
       "manufacturer": "",
-      "market_name": "Studio XL 2",
+      "market_name": "Studio_XL_2",
       "codename": "Studio_XL_2",
       "model": "Studio XL 2"
     },
@@ -807,21 +819,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "VIVO XL2",
-      "codename": "BLU_Vivo_XL2",
-      "model": "Vivo XL2"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Vivo 5 Mini",
       "codename": "Vivo_5_Mini",
       "model": "Vivo 5 Mini"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Vivo 8",
-      "codename": "V0150LL",
-      "model": "Vivo 8"
     },
     {
       "manufacturer": "",
@@ -831,9 +831,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Vivo 8L",
-      "codename": "V0190UU",
-      "model": "Vivo 8L"
+      "market_name": "Vivo ONE",
+      "codename": "V0270WW",
+      "model": "Vivo ONE"
     },
     {
       "manufacturer": "",
@@ -843,9 +843,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Vivo X",
+      "codename": "V0230WW",
+      "model": "Vivo X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo XL3",
+      "codename": "V0250WW",
+      "model": "Vivo XL3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vivo XL3 Plus",
       "codename": "V0210WW",
       "model": "Vivo XL3 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo_8L_UU",
+      "codename": "V0190UU",
+      "model": "Vivo 8L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo_8_LL",
+      "codename": "V0150LL",
+      "model": "Vivo 8"
     },
     {
       "manufacturer": "",

@@ -1365,6 +1365,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ACT",
+      "codename": "B860H_V1",
+      "model": "B860H"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AV-ATB100",
       "codename": "B800S2_V1",
       "model": "AV-ATB100"
@@ -1749,6 +1755,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLADE A512",
+      "codename": "P817E52",
+      "model": "ZTE Z10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLADE A520",
       "codename": "P637F10",
       "model": "BLADE A520"
@@ -1776,6 +1788,12 @@
       "market_name": "BLADE A6",
       "codename": "P840F13",
       "model": "BLADE A6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLADE A6 MAX",
+      "codename": "P809F15",
+      "model": "BLADE A6 MAX"
     },
     {
       "manufacturer": "",
@@ -3252,6 +3270,12 @@
       "market_name": "Dialog Q143L",
       "codename": "frosty",
       "model": "Dialog Q143L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Digicel DL2 XL",
+      "codename": "P637F02",
+      "model": "Digicel DL2 XL"
     },
     {
       "manufacturer": "",
@@ -5283,6 +5307,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Sirius",
+      "codename": "msm8937",
+      "model": "Z610DL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Skate",
       "codename": "skate",
       "model": "ZTE Skate"
@@ -6850,6 +6880,12 @@
     {
       "manufacturer": "",
       "market_name": "Z557BL",
+      "codename": "lewis",
+      "model": "Z557BL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z557BL",
       "codename": "msm8909",
       "model": "Z557BL"
     },
@@ -7323,6 +7359,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE BLADE A0605",
+      "codename": "P809F15",
+      "model": "ZTE BLADE A0605"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE BLADE A0620",
       "codename": "P840F12",
       "model": "ZTE BLADE A0620"
@@ -7473,6 +7515,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE BLADE V0900",
+      "codename": "P450F10",
+      "model": "ZTE BLADE V0900"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE BLADE V0900",
+      "codename": "P450F10",
+      "model": "ZTE BLADE V9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE BLADE V7 PLUS",
       "codename": "P653A11",
       "model": "ZTE BLADE V7 PLUS"
@@ -7551,6 +7605,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE ZFive C LTE",
+      "codename": "msm8909",
+      "model": "Z558VL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTU31",
       "codename": "P852F52",
       "model": "ZTU31"
@@ -7620,6 +7680,12 @@
       "market_name": "nubia Z5",
       "codename": "NX501",
       "model": "nubia Z5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "sapphire lte",
+      "codename": "sapphire4g",
+      "model": "Z3001S"
     },
     {
       "manufacturer": "",

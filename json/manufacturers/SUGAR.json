@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "SUGAR C11",
+      "codename": "v12bns",
+      "model": "SUGAR C11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sugar",
       "codename": "s9121",
       "model": "SUGAR"

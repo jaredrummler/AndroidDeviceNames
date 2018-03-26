@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DEXP Ixion M850",
+      "codename": "M850",
+      "model": "Ixion M850"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DEXP Ixion X150",
       "codename": "Ixion_X150",
       "model": "Ixion X150"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DEXP Ixion_ES1050",
+      "codename": "ES1050",
+      "model": "DEXP_ES1050"
     },
     {
       "manufacturer": "",
@@ -21,15 +33,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DEXP Ursus P310",
+      "codename": "P310",
+      "model": "P310"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DEXP Ursus S169",
+      "codename": "S169",
+      "model": "S169"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DEXP_B160",
       "codename": "B160",
       "model": "B160"
     },
     {
       "manufacturer": "",
+      "market_name": "DNS_DEXP XL150 Project",
+      "codename": "XL150",
+      "model": "XL150"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dexp Ursus P210",
+      "codename": "P210",
+      "model": "P210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dexp Ursus S170i",
+      "codename": "S170i",
+      "model": "S170i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EL450",
       "codename": "EL450",
       "model": "Ixion EL450"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ERA",
+      "codename": "G155",
+      "model": "G155"
     },
     {
       "manufacturer": "",
@@ -51,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ES750",
+      "codename": "ES750",
+      "model": "ES750"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ES850",
       "codename": "ES850",
       "model": "Ixion ES850"
@@ -66,6 +120,18 @@
       "market_name": "Ixion ML350",
       "codename": "ML350",
       "model": "Ixion ML350"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ixion ML450",
+      "codename": "ML450",
+      "model": "ML450"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ixion P350",
+      "codename": "P350",
+      "model": "Ixion P350"
     },
     {
       "manufacturer": "",
@@ -99,9 +165,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N280",
+      "codename": "N280",
+      "model": "N280"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P280",
+      "codename": "P280",
+      "model": "P280"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XL155",
       "codename": "XL155",
       "model": "Ixion XL155"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z150",
+      "codename": "Z150",
+      "model": "Z150"
     },
     {
       "manufacturer": "",

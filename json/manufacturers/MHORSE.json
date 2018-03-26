@@ -1,0 +1,17 @@
+{
+  "manufacturer": "M-Horse",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M-HORSE",
+      "codename": "Pure1",
+      "model": "Pure1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pure 2",
+      "codename": "Pure-2",
+      "model": "Pure 2"
+    }
+  ]
+}

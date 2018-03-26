@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S40 LTE",
+      "codename": "ADVAN_i4U",
+      "model": "i4U"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S45E",
       "codename": "ADVAN_S45E",
       "model": "S45E"
@@ -120,6 +126,12 @@
       "market_name": "S4Z",
       "codename": "ADVAN_S4Z",
       "model": "S4Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5E FULL VIEW",
+      "codename": "ADVAN_S5E_FULL_VIEW",
+      "model": "5062"
     },
     {
       "manufacturer": "",
@@ -165,6 +177,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "i55D",
+      "codename": "ADVAN_i55D",
+      "model": "i55D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i55K",
+      "codename": "ADVAN_i55K",
+      "model": "i55K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i5C",
       "codename": "i5C",
       "model": "i5C"
@@ -186,6 +210,12 @@
       "market_name": "i7A",
       "codename": "ADVAN_i7A",
       "model": "i7A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i7U",
+      "codename": "ADVAN_i_Lite",
+      "model": "i7U"
     }
   ]
 }

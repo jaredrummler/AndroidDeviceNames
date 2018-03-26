@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEXT P",
+      "codename": "NEXT_P",
+      "model": "NEXT_P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT P+",
+      "codename": "NEXT_P_PLUS",
+      "model": "NEXT P+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NEXT U",
+      "codename": "NEXT_U",
+      "model": "NEXT U"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VOX  4s",
       "codename": "VOX_4s",
       "model": "VOX 4s"
@@ -23,6 +41,12 @@
       "manufacturer": "",
       "market_name": "VOX  STEEL Plus",
       "codename": "VOX_STEEL_Plus",
+      "model": "VOX STEEL Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VOX  STEEL Plus",
+      "codename": "VOX_STEEL_Plus_V2",
       "model": "VOX STEEL Plus"
     }
   ]

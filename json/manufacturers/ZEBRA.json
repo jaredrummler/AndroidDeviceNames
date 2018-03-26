@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MC330K",
+      "codename": "MC33",
+      "model": "MC33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MC330K",
+      "codename": "MC33C",
+      "model": "MC33"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MC36",
       "codename": "cardhu",
       "model": "MC36"
@@ -71,6 +83,12 @@
       "manufacturer": "",
       "market_name": "TC20",
       "codename": "TC20RT",
+      "model": "TC20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TC20KB",
+      "codename": "TC20KB",
       "model": "TC20"
     },
     {
@@ -126,6 +144,12 @@
       "market_name": "TC8000",
       "codename": "TC8000",
       "model": "TC8000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VC80x",
+      "codename": "VC80x",
+      "model": "VC80x"
     },
     {
       "manufacturer": "",

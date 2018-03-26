@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "Gionee",
+    "market_name": "F109L",
+    "codename": "GIONEE_SW17G09",
+    "model": "GIONEE F109L"
+  },
+  {
+    "manufacturer": "Gionee",
+    "market_name": "F109N",
+    "codename": "GIONEE_SW17G09",
+    "model": "GIONEE F109N"
+  },
+  {
+    "manufacturer": "Gionee",
     "market_name": "GIONEE F109",
     "codename": "GIONEE_SW17G09",
     "model": "GIONEE F109"

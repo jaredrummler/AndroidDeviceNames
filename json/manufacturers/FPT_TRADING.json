@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A15",
+      "codename": "A15_01",
+      "model": "A15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FPT S68 4G",
+      "codename": "FPT_S68_4G",
+      "model": "FPT S68 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FPT X10",
       "codename": "X10",
       "model": "FPT_X10"
@@ -18,6 +30,12 @@
       "market_name": "FPT X9",
       "codename": "X9",
       "model": "FPT_X9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X50",
+      "codename": "FPT_X50",
+      "model": "FPT X50"
     }
   ]
 }

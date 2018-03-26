@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DURA FORCE PRO",
+      "codename": "KC-S702",
+      "model": "KC-S702"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DuraForce",
       "codename": "E6560",
       "model": "KYOCERA-E6560"
@@ -411,6 +417,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Qua phone QZ",
+      "codename": "KYV44",
+      "model": "KYV44"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Qua phone QZ",
+      "codename": "KYV44",
+      "model": "KYV44_u"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Qua tab QZ10",
+      "codename": "KYT33",
+      "model": "KYT33"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Qua tab QZ8",
       "codename": "KYT32",
       "model": "KYT32"
@@ -432,6 +456,12 @@
       "market_name": "S301",
       "codename": "KC-S301AE",
       "model": "KC-S301AE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S4",
+      "codename": "S4-KC_sprout",
+      "model": "S4-KC"
     },
     {
       "manufacturer": "",

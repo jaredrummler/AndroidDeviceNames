@@ -1,17 +1,23 @@
 {
-  "manufacturer": "NAXA",
+  "manufacturer": "Naxa",
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "NID-7011",
-      "codename": "NID-7011",
-      "model": "NID-7011"
+      "market_name": "NID1009",
+      "codename": "NID1009",
+      "model": "NID-1009"
     },
     {
       "manufacturer": "",
-      "market_name": "NID_7010",
-      "codename": "NID_7010",
-      "model": "NID_7010"
+      "market_name": "NID7019",
+      "codename": "NID7019",
+      "model": "NID-7019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NID9009",
+      "codename": "NID9009",
+      "model": "NID-9009"
     }
   ]
 }

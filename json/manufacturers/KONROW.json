@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KONROW",
+      "codename": "KONROW_701X",
+      "model": "KONROW_701X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LINK55",
       "codename": "LINK55",
       "model": "LINK55"
@@ -12,6 +18,12 @@
       "market_name": "Primo",
       "codename": "PRIMO",
       "model": "PRIMO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sky",
+      "codename": "Sky",
+      "model": "Sky"
     },
     {
       "manufacturer": "",

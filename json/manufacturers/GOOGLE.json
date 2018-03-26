@@ -23,7 +23,25 @@
       "manufacturer": "",
       "market_name": "Android Wear",
       "codename": "shiner",
+      "model": "Riley Touch"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android Wear",
+      "codename": "shiner",
+      "model": "Riley Touchscreen"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android Wear",
+      "codename": "shiner",
       "model": "Sofie"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
+      "codename": "coral_cheets",
+      "model": "coral"
     },
     {
       "manufacturer": "",
@@ -46,8 +64,26 @@
     {
       "manufacturer": "",
       "market_name": "Chromebook",
+      "codename": "jerry_cheets",
+      "model": "Rockchip RK3288 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
       "codename": "mighty_cheets",
       "model": "RK3288 Chrome OS Device"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
+      "codename": "mighty_cheets",
+      "model": "Rockchip RK3288 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
+      "codename": "reef_cheets",
+      "model": "Intel Apollo Lake Chromebook"
     },
     {
       "manufacturer": "",
@@ -60,6 +96,18 @@
       "market_name": "Chromebook",
       "codename": "relm_cheets",
       "model": "Braswell Chrome OS Device"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
+      "codename": "relm_cheets",
+      "model": "Intel Braswell Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
+      "codename": "wizpig_cheets",
+      "model": "Intel Braswell Chromebook"
     },
     {
       "manufacturer": "",
