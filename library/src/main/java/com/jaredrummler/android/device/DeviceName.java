@@ -1487,6 +1487,36 @@ public class DeviceName {
         || model.equals("SM-G955W")))) {
       return "Galaxy S8+";
     }
+    if ((codename != null && (codename.equals("starlte")
+        || codename.equals("starlteks")
+        || codename.equals("starqltechn")
+        || codename.equals("starqltecmcc")
+        || codename.equals("starqltecs")
+        || codename.equals("starqltesq")
+        || codename.equals("starqlteue")))
+        || (model != null && (model.equals("SM-G9600")
+        || model.equals("SM-G9608")
+        || model.equals("SM-G960F")
+        || model.equals("SM-G960N")
+        || model.equals("SM-G960U")
+        || model.equals("SM-G960U1")
+        || model.equals("SM-G960W")))) {
+      return "Galaxy S9";
+    }
+    if ((codename != null && (codename.equals("star2lte")
+        || codename.equals("star2lteks")
+        || codename.equals("star2qltechn")
+        || codename.equals("star2qltecs")
+        || codename.equals("star2qltesq")
+        || codename.equals("star2qlteue")))
+        || (model != null && (model.equals("SM-G9650")
+        || model.equals("SM-G965F")
+        || model.equals("SM-G965N")
+        || model.equals("SM-G965U")
+        || model.equals("SM-G965U1")
+        || model.equals("SM-G965W")))) {
+      return "Galaxy S9+";
+    }
     if ((codename != null && (codename.equals("GT-P7500")
         || codename.equals("GT-P7500D")
         || codename.equals("GT-P7503")
