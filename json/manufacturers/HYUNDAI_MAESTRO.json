@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HDT-9421G",
+      "codename": "HDT-9421G",
+      "model": "HDT-9421G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HDT-9433X",
+      "codename": "HDT-9433X",
+      "model": "HDT-9433X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HDT-A421GU",
+      "codename": "HDT-A421GU",
+      "model": "HDT-A421GU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HDT-A435G4",
+      "codename": "HDT_A435G4",
+      "model": "HDT-A435G4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HDT_1064GS",
       "codename": "HDT_1064GS",
       "model": "HDT_1064GS"
@@ -18,6 +42,12 @@
       "market_name": "HDT_7427G_PLUS",
       "codename": "HDT_7427G_PLUS",
       "model": "HDT_7427G_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HDT_7433H_PLUS",
+      "codename": "HDT_7433H_PLUS",
+      "model": "HDT_7433H_PLUS"
     }
   ]
 }

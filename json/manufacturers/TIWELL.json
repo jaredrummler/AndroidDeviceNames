@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AP-115G",
+      "codename": "AP-115G",
+      "model": "AP-115G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AS-501",
       "codename": "AS_501",
       "model": "AS_501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS-502",
+      "codename": "t662_dh4_tiwell",
+      "model": "AS-502"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS-503",
+      "codename": "t662_gq_tiwell",
+      "model": "AS-503"
     }
   ]
 }

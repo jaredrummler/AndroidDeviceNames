@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "freedom turbo",
+      "codename": "SFT5216",
+      "model": "freedom turbo"
+    },
+    {
+      "manufacturer": "",
       "market_name": "mini_SM7216",
       "codename": "SM7216",
       "model": "SM7216"

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fit",
+      "codename": "QF73",
+      "model": "Quantum Fit"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Go",
       "codename": "Q1",
       "model": "Quantum Go"
@@ -54,6 +60,12 @@
       "market_name": "MUV UP",
       "codename": "Q13",
       "model": "Quantum MUV UP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mini",
+      "codename": "S431",
+      "model": "Quantum Mini"
     },
     {
       "manufacturer": "",

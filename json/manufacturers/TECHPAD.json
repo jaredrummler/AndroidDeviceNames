@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M6",
+      "codename": "M6",
+      "model": "M6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M6 Plus",
+      "codename": "M6Plus",
+      "model": "M6Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECHPAD X5",
       "codename": "F518",
       "model": "Techpad X5"
@@ -21,9 +33,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TechPad 10Y",
+      "codename": "TechPad_10Y",
+      "model": "TechPad_10Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TechPad 9x",
+      "codename": "TechPad_9x",
+      "model": "TechPad_9x"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TechPad_10x",
       "codename": "TechPad_10x",
       "model": "TechPad_10x"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TechPad_10xx",
+      "codename": "TechPad_10xx",
+      "model": "TechPad_10xx"
     },
     {
       "manufacturer": "",
@@ -36,6 +66,12 @@
       "market_name": "TechPad_716",
       "codename": "TechPad_716",
       "model": "716"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TechPad_i700",
+      "codename": "Techpad_i700",
+      "model": "Techpad_i700"
     }
   ]
 }

@@ -759,6 +759,54 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Desire 12",
+      "codename": "htc_breeze_dugl",
+      "model": "HTC 2Q5V1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire 12",
+      "codename": "htc_breeze_dugl",
+      "model": "HTC Desire 12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire 12",
+      "codename": "htc_breeze_ul",
+      "model": "HTC 2Q5V200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire 12",
+      "codename": "htc_breeze_ul",
+      "model": "HTC Desire 12 (2Q5V200)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire 12+",
+      "codename": "htc_brepdugl",
+      "model": "HTC 2Q5W1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire 12+",
+      "codename": "htc_brepdugl",
+      "model": "HTC 2Q5W2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire 12+",
+      "codename": "htc_brepdugl",
+      "model": "HTC Desire 12+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire 12+",
+      "codename": "htc_brepdugl",
+      "model": "HTC ZQ5W10000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Desire 200",
       "codename": "gtou",
       "model": "HTC Desire 200"
@@ -2247,6 +2295,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HTC 10 evo",
+      "codename": "htc_acawhl",
+      "model": "HTC 10 evo"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HTC Desire 610",
       "codename": "htc_a3ul",
       "model": "HTC Desire 610"
@@ -2304,6 +2358,12 @@
       "market_name": "HTC U11 EYEs",
       "codename": "htc_haydugl",
       "model": "HTC 2Q4R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC U11 EYEs",
+      "codename": "htc_haydugl",
+      "model": "HTC 2Q4R100"
     },
     {
       "manufacturer": "",
@@ -3795,6 +3855,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U12 +",
+      "codename": "htc_imedtwl",
+      "model": "HTC 2Q55300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U12+",
+      "codename": "htc_imedugl",
+      "model": "HTC 2Q551"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U12+",
+      "codename": "htc_imedugl",
+      "model": "HTC 2Q551+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U12+",
+      "codename": "htc_imedugl",
+      "model": "HTC 2Q55100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U12+",
+      "codename": "htc_imedugl",
+      "model": "HTC U12+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U12+",
+      "codename": "htc_imeuhl",
+      "model": "HTC 2Q552"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U12+",
+      "codename": "htc_imeuhl",
+      "model": "HTC U12+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Velocity 4G",
       "codename": "holiday",
       "model": "HTC PH39100"
@@ -3894,6 +3996,18 @@
       "market_name": "X2-HT",
       "codename": "htc_ocla1_sprout",
       "model": "X2-HT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "breeze",
+      "codename": "htc_breeze_dugl",
+      "model": "HTC 2Q5V1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "breeze",
+      "codename": "htc_breeze_dugl",
+      "model": "HTC Desire 12"
     },
     {
       "manufacturer": "",

@@ -129,6 +129,12 @@
     "manufacturer": "Huawei",
     "market_name": "Honor View 10",
     "codename": "HWBKL",
+    "model": "BKL-L04"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Honor View 10",
+    "codename": "HWBKL",
     "model": "BKL-L09"
   },
   {
@@ -142,6 +148,12 @@
     "market_name": "Honor 7X",
     "codename": "HWBND-H",
     "model": "BND-L24"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Honor 7X",
+    "codename": "HWBND-H",
+    "model": "BND-L31"
   },
   {
     "manufacturer": "LGE",
@@ -4286,6 +4298,18 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S9",
+    "codename": "SC-02K",
+    "model": "SC-02K"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S9",
+    "codename": "SCV38",
+    "model": "SCV38"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S9",
     "codename": "starlte",
     "model": "SM-G960F"
   },
@@ -4324,6 +4348,18 @@
     "market_name": "Galaxy S9",
     "codename": "starqlteue",
     "model": "SM-G960U1"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S9+",
+    "codename": "SC-03K",
+    "model": "SC-03K"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S9+",
+    "codename": "SCV39",
+    "model": "SCV39"
   },
   {
     "manufacturer": "Samsung",

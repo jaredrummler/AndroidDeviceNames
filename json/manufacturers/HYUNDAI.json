@@ -75,6 +75,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HDT-7433H",
+      "codename": "HDT-7433H",
+      "model": "HDT-7433H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HDT-7433X",
+      "codename": "HDT-7433X",
+      "model": "HDT-7433X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HT0702W08",
       "codename": "HT0702W08",
       "model": "HT0702W08"
@@ -126,6 +138,12 @@
       "market_name": "L575",
       "codename": "L575",
       "model": "L575"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Seoul 9",
+      "codename": "Seoul_9",
+      "model": "Seoul 9"
     },
     {
       "manufacturer": "",
@@ -204,6 +222,12 @@
       "market_name": "Ultra Sync",
       "codename": "Ultra_Sync",
       "model": "Ultra Sync"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ultra Trend",
+      "codename": "Ultra_Trend",
+      "model": "Ultra Trend"
     },
     {
       "manufacturer": "",

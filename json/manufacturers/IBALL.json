@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "iBall",
+      "codename": "iBall_Slide_Brace_XJ",
+      "model": "iBall Slide Brace XJ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iBall",
+      "codename": "iBall_Slide_Dazzle_i7",
+      "model": "iBall Slide Dazzle i7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iBall Slide Imprint 4G",
       "codename": "Imprint_4G",
       "model": "iBall_Slide_Imprint_4G"
@@ -18,6 +30,24 @@
       "market_name": "iBall Slide Snap 4G2",
       "codename": "Snap_4G2",
       "model": "Snap_4G2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iBall Slide Twinkle i5",
+      "codename": "Twinkle_i5",
+      "model": "Twinkle_i5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iBall Slide Wings 4GP",
+      "codename": "Slide_Wings_4GP",
+      "model": "iBall_Slide_Wings_4GP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iBallSlide_Wings",
+      "codename": "iBallSlide_Wings",
+      "model": "Wings"
     }
   ]
 }

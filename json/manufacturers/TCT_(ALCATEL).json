@@ -1185,6 +1185,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "6062W",
+      "codename": "A70AXLTMO",
+      "model": "6062W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "7040N",
       "codename": "Yaris5TMO",
       "model": "7040N"
@@ -1515,6 +1521,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A1 Smart N9",
+      "codename": "VFD720",
+      "model": "VFD 720"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "mickey6",
       "model": "5046A"
@@ -1842,6 +1854,12 @@
       "market_name": "A851L",
       "codename": "Viper_gsm",
       "model": "Alcatel A851L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALCATEL 1T 10",
+      "codename": "U3A_10_WIFI",
+      "model": "8082"
     },
     {
       "manufacturer": "",
@@ -3425,13 +3443,103 @@
       "manufacturer": "",
       "market_name": "Alcatel 1C",
       "codename": "U5A_PLUS_3G",
+      "model": "5009D_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1C",
+      "codename": "U5A_PLUS_3G",
       "model": "5009U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1X",
+      "codename": "U5A_PLUS_4G",
+      "model": "5059A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1X",
+      "codename": "U5A_PLUS_4G",
+      "model": "5059D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1X",
+      "codename": "U5A_PLUS_4G",
+      "model": "5059D_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1X",
+      "codename": "U5A_PLUS_4G",
+      "model": "5059I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1X",
+      "codename": "U5A_PLUS_4G",
+      "model": "5059J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1X",
+      "codename": "U5A_PLUS_4G",
+      "model": "5059T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1X",
+      "codename": "U5A_PLUS_4G",
+      "model": "5059X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1X",
+      "codename": "U5A_PLUS_4G",
+      "model": "5059Y"
     },
     {
       "manufacturer": "",
       "market_name": "Alcatel 3",
       "codename": "A3A",
       "model": "5052A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "A3A",
+      "model": "5052D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "A3A",
+      "model": "5052D_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "A3A",
+      "model": "5052Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "Dive_73",
+      "model": "Orange Dive 73"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3L",
+      "codename": "A3A_LITE",
+      "model": "5034D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3L",
+      "codename": "A3A_LITE",
+      "model": "5034D_RU"
     },
     {
       "manufacturer": "",
@@ -3479,6 +3587,12 @@
       "manufacturer": "",
       "market_name": "Alcatel 3X",
       "codename": "A3A_PLUS",
+      "model": "5058I_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "A3A_PLUS",
       "model": "5058J"
     },
     {
@@ -3492,6 +3606,12 @@
       "market_name": "Alcatel 3X",
       "codename": "A3A_PLUS",
       "model": "5058Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "A3A_PLUS",
+      "model": "5158A"
     },
     {
       "manufacturer": "",
@@ -3510,6 +3630,12 @@
       "market_name": "Alcatel 5",
       "codename": "A5A_INFINI",
       "model": "5086Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 5",
+      "codename": "A5A_INFINI",
+      "model": "5186A"
     },
     {
       "manufacturer": "",
@@ -4008,12 +4134,6 @@
       "market_name": "Moov2",
       "codename": "move_2_gsm",
       "model": "move 2"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "NeXT M2",
-      "codename": "VFD610",
-      "model": "VFD 610"
     },
     {
       "manufacturer": "",
@@ -5268,6 +5388,18 @@
       "market_name": "T10",
       "codename": "T10",
       "model": "one touch T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T2",
+      "codename": "HANDYT2",
+      "model": "T700A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T2",
+      "codename": "HANDYT2",
+      "model": "T700X"
     },
     {
       "manufacturer": "",

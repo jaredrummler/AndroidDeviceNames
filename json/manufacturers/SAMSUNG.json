@@ -825,6 +825,60 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy A6",
+      "codename": "a6lte",
+      "model": "SM-A600F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A6",
+      "codename": "a6lte",
+      "model": "SM-A600FN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A6",
+      "codename": "a6lte",
+      "model": "SM-A600G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A6",
+      "codename": "a6lte",
+      "model": "SM-A600GN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A6 Plus",
+      "codename": "a6plte",
+      "model": "SM-A605F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A6 Plus",
+      "codename": "a6plte",
+      "model": "SM-A605FN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A6 Plus",
+      "codename": "a6plte",
+      "model": "SM-A605GN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A6+",
+      "codename": "a6plte",
+      "model": "SM-A605FN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A6+",
+      "codename": "a6plte",
+      "model": "SM-A605G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy A7",
       "codename": "a73g",
       "model": "SM-A700H"
@@ -1062,6 +1116,24 @@
       "market_name": "Galaxy A9 Pro",
       "codename": "a9xproltesea",
       "model": "SM-A910F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A9 Star Lite",
+      "codename": "a6pltechn",
+      "model": "SM-A6050"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A9 Star Lite",
+      "codename": "a6pltechn",
+      "model": "SM-A605XC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A9 Star Lite",
+      "codename": "a6pltecmcc",
+      "model": "SM-A6058"
     },
     {
       "manufacturer": "",
@@ -2967,6 +3039,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy Grand Prime Plus",
+      "codename": "grandpplte",
+      "model": "SM-G532F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Grand Prime Plus",
+      "codename": "grandpplte",
+      "model": "SM-G532G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Grand Prime Plus",
+      "codename": "grandppltedtv",
+      "model": "SM-G532MT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy Grand Prime Pro",
       "codename": "j2y18lte",
       "model": "SM-J250F"
@@ -3357,6 +3447,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy J2",
+      "codename": "j2y18lte",
+      "model": "SM-J250Y"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy J2 (2018)",
       "codename": "j2y18lte",
       "model": "SM-J250F"
@@ -3531,6 +3627,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy J3 Top",
+      "codename": "j3toplteatt",
+      "model": "SM-J337A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J3 Top",
+      "codename": "j3topltetmo",
+      "model": "SM-J337T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy J3(2016)",
       "codename": "j3ltekx",
       "model": "SM-J320N0"
@@ -3660,6 +3768,24 @@
       "market_name": "Galaxy J3(2017)",
       "codename": "j3y17qltecmcc",
       "model": "SM-J3308"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J4",
+      "codename": "j4lte",
+      "model": "SM-J400F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J4",
+      "codename": "j4lte",
+      "model": "SM-J400G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J4",
+      "codename": "j4lte",
+      "model": "SM-J400M"
     },
     {
       "manufacturer": "",
@@ -3867,6 +3993,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy J6",
+      "codename": "j6lte",
+      "model": "SM-J600F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J6",
+      "codename": "j6lte",
+      "model": "SM-J600FN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J6",
+      "codename": "j6lte",
+      "model": "SM-J600G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J6",
+      "codename": "j6lte",
+      "model": "SM-J600GT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy J7",
       "codename": "j75ltektt",
       "model": "SM-J700K"
@@ -3897,6 +4047,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy J7 Duo",
+      "codename": "j7duolte",
+      "model": "SM-J720F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7 Duo",
+      "codename": "j7duolte",
+      "model": "SM-J720M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy J7 Max",
       "codename": "j7maxlte",
       "model": "SM-G615F"
@@ -3918,6 +4080,12 @@
       "market_name": "Galaxy J7 Neo",
       "codename": "j7velte",
       "model": "SM-J701MT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7 Neo2",
+      "codename": "j7toplteskt",
+      "model": "SM-J737S"
     },
     {
       "manufacturer": "",
@@ -4008,6 +4176,24 @@
       "market_name": "Galaxy J7 Prime",
       "codename": "on7xltechn",
       "model": "SM-G6100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7 Prime2",
+      "codename": "on7xreflte",
+      "model": "SM-G611F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7 Prime2",
+      "codename": "on7xreflte",
+      "model": "SM-G611M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7 Prime2",
+      "codename": "on7xreflte",
+      "model": "SM-G611MT"
     },
     {
       "manufacturer": "",
@@ -5850,12 +6036,6 @@
       "market_name": "Galaxy On7",
       "codename": "on7elte",
       "model": "SM-G600F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy On7 Prime",
-      "codename": "on7xreflte",
-      "model": "SM-G611F"
     },
     {
       "manufacturer": "",
@@ -8524,6 +8704,18 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy S9",
+      "codename": "SC-02K",
+      "model": "SC-02K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9",
+      "codename": "SCV38",
+      "model": "SCV38"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9",
       "codename": "starlte",
       "model": "SM-G960F"
     },
@@ -8562,6 +8754,18 @@
       "market_name": "Galaxy S9",
       "codename": "starqlteue",
       "model": "SM-G960U1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9+",
+      "codename": "SC-03K",
+      "model": "SC-03K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S9+",
+      "codename": "SCV39",
+      "model": "SCV39"
     },
     {
       "manufacturer": "",
@@ -9402,12 +9606,6 @@
       "market_name": "Galaxy Tab A S 8.0",
       "codename": "gt58ltebmc",
       "model": "SM-T357W"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A2 8.0",
-      "codename": "gta2slte",
-      "model": "SM-T385"
     },
     {
       "manufacturer": "",
@@ -11406,24 +11604,6 @@
       "market_name": "Gem",
       "codename": "SCH-I100",
       "model": "SCH-I100"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Grand Prime Plus",
-      "codename": "grandpplte",
-      "model": "SM-G532F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Grand Prime Plus",
-      "codename": "grandpplte",
-      "model": "SM-G532G"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Grand Prime Plus",
-      "codename": "grandppltedtv",
-      "model": "SM-G532MT"
     },
     {
       "manufacturer": "",

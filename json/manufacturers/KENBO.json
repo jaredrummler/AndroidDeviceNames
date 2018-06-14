@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "E111",
+      "codename": "E111",
+      "model": "E111"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E121",
+      "codename": "E121",
+      "model": "E121"
+    },
+    {
+      "manufacturer": "",
       "market_name": "O51",
       "codename": "O51",
       "model": "O51"

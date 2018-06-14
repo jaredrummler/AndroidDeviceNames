@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "B350",
+      "codename": "B350",
+      "model": "B350"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BS250",
+      "codename": "BS250",
+      "model": "BS250"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DEXP B145",
+      "codename": "B145",
+      "model": "B145"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DEXP G150",
       "codename": "G150",
       "model": "G150"
@@ -30,6 +48,12 @@
       "market_name": "DEXP P170",
       "codename": "P170",
       "model": "P170"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DEXP Ursus N169",
+      "codename": "N169",
+      "model": "N169"
     },
     {
       "manufacturer": "",
@@ -63,9 +87,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dexp Ursus P380",
+      "codename": "P380",
+      "model": "P380"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Dexp Ursus S170i",
       "codename": "S170i",
       "model": "S170i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dexp Ursus S270",
+      "codename": "S270",
+      "model": "S270"
     },
     {
       "manufacturer": "",
@@ -108,6 +144,18 @@
       "market_name": "ES850",
       "codename": "ES850",
       "model": "Ixion ES850"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G250",
+      "codename": "G250",
+      "model": "G250"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GL255",
+      "codename": "GL255",
+      "model": "GL255"
     },
     {
       "manufacturer": "",
@@ -177,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S190",
+      "codename": "S190",
+      "model": "S190"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XL155",
       "codename": "XL155",
       "model": "Ixion XL155"
@@ -192,6 +246,12 @@
       "market_name": "Z155",
       "codename": "Z155",
       "model": "Z155"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z255",
+      "codename": "Z255",
+      "model": "Z255"
     },
     {
       "manufacturer": "",

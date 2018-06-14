@@ -1,13 +1,37 @@
 [
   {
     "manufacturer": "Huawei",
-    "market_name": "HUAWEI nova 3e",
+    "market_name": "HUAWEI P20 Lite",
+    "codename": "HWANE",
+    "model": "ANE-LX2J"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "P20 lite",
+    "codename": "HWANE",
+    "model": "ANE-LX1"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "P20 lite",
+    "codename": "HWANE",
+    "model": "ANE-LX2"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "P20 lite",
+    "codename": "HWANE",
+    "model": "ANE-LX3"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "nova 3e",
     "codename": "HWANE",
     "model": "ANE-AL00"
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "HUAWEI nova 3e",
+    "market_name": "nova 3e",
     "codename": "HWANE",
     "model": "ANE-TL00"
   }

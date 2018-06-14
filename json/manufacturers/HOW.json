@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "705-G",
+      "codename": "705-G",
+      "model": "705-G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HT-704",
       "codename": "HT704",
       "model": "HT-704"
@@ -30,6 +36,12 @@
       "market_name": "HT704-G",
       "codename": "704-G",
       "model": "704-G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "kids 3g",
+      "codename": "sp7731c_1h10",
+      "model": "kids 3g"
     }
   ]
 }

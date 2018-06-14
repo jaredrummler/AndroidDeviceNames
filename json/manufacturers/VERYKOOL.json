@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "s5204",
+      "codename": "verykools5204",
+      "model": "verykools5204"
+    },
+    {
+      "manufacturer": "",
       "market_name": "s5526",
       "codename": "verykools5526",
       "model": "verykools5526"
@@ -108,6 +114,18 @@
       "market_name": "s5528",
       "codename": "verykools5528",
       "model": "verykools5528"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "verykool s5036",
+      "codename": "verykools5036",
+      "model": "verykools5036"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "verykool s5037",
+      "codename": "verykools5037",
+      "model": "verykools5037"
     },
     {
       "manufacturer": "",
@@ -150,6 +168,12 @@
       "market_name": "verykools5528Jr",
       "codename": "verykools5528Jr",
       "model": "verykools5528Jr"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "verykools5702",
+      "codename": "verykools5702",
+      "model": "verykools5702"
     }
   ]
 }

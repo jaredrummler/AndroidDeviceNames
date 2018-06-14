@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLU Grand M3",
+      "codename": "G0070WW",
+      "model": "Grand M3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLU S1",
       "codename": "S0320WW",
       "model": "BLU_S1"
@@ -168,6 +174,12 @@
       "market_name": "Dash L3",
       "codename": "D931",
       "model": "Dash L3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Dash L4",
+      "codename": "D131",
+      "model": "Dash L4"
     },
     {
       "manufacturer": "",
@@ -297,6 +309,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Grand M2 LTE",
+      "codename": "G0040LL",
+      "model": "Grand M2 LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Grand M2X",
       "codename": "G0040UU",
       "model": "Grand M2X"
@@ -348,6 +366,12 @@
       "market_name": "Grand_M2",
       "codename": "G190",
       "model": "Grand M2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grand_M2_LTE",
+      "codename": "G0050",
+      "model": "Grand M2 LTE"
     },
     {
       "manufacturer": "",
@@ -456,6 +480,12 @@
       "market_name": "PURE XR",
       "codename": "BLU_Pure_XR",
       "model": "Pure XR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pure_View",
+      "codename": "P0050WW",
+      "model": "Pure View"
     },
     {
       "manufacturer": "",
@@ -753,6 +783,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Studio_View",
+      "codename": "S810P",
+      "model": "Studio View"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Studio_XL_2",
       "codename": "Studio_XL_2",
       "model": "Studio M6 LTE"
@@ -849,6 +885,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Vivo X WW",
+      "codename": "V0230WW",
+      "model": "Vivo X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vivo XL3",
       "codename": "V0250WW",
       "model": "Vivo XL3"
@@ -873,9 +915,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Vivo_X_WW",
-      "codename": "V0230WW",
-      "model": "Vivo X"
+      "market_name": "Vivo_One_Plus",
+      "codename": "V0290WW",
+      "model": "Vivo One Plus"
     }
   ]
 }

@@ -225,6 +225,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MI 6X",
+      "codename": "wayne",
+      "model": "MI 6X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MI MAX",
       "codename": "helium",
       "model": "MI MAX"
@@ -240,6 +246,12 @@
       "market_name": "MI MAX 2",
       "codename": "oxygen",
       "model": "MI MAX 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI MIX 2S",
+      "codename": "polaris",
+      "model": "Mi MIX 2S"
     },
     {
       "manufacturer": "",
@@ -330,6 +342,18 @@
       "market_name": "MIX 2",
       "codename": "chiron",
       "model": "Mi MIX 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MIX 2S",
+      "codename": "polaris",
+      "model": "MIX 2S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MIX 2S",
+      "codename": "polaris",
+      "model": "Mi MIX 2S"
     },
     {
       "manufacturer": "",
@@ -426,6 +450,12 @@
       "market_name": "Redmi",
       "codename": "HM2013023",
       "model": "2013023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi  S2",
+      "codename": "ysl",
+      "model": "Redmi S2"
     },
     {
       "manufacturer": "",
@@ -537,6 +567,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi Note 5",
+      "codename": "whyred",
+      "model": "Redmi Note 5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi Note 5 Pro",
       "codename": "whyred",
       "model": "Redmi Note 5"
@@ -570,6 +606,12 @@
       "market_name": "Redmi Pro",
       "codename": "omega",
       "model": "Redmi Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi S2",
+      "codename": "ysl",
+      "model": "Redmi S2"
     },
     {
       "manufacturer": "",

@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S3 Dual",
+      "codename": "S3_Dual",
+      "model": "S3 Dual"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XQ Dual",
       "codename": "XQ_Dual",
       "model": "XQ Dual"
@@ -84,6 +90,18 @@
       "market_name": "ZUMBO_S2_Dual",
       "codename": "ZUMBO_S2_Dual",
       "model": "mobiistar ZUMBO S2 Dual"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "mobiistar",
+      "codename": "CQ",
+      "model": "CQ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "mobiistar E Selfie",
+      "codename": "mobiistar_E_Selfie",
+      "model": "mobiistar E Selfie"
     }
   ]
 }

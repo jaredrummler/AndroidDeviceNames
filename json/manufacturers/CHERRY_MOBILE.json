@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare J2 Lite",
+      "codename": "Flare_J2_Lite",
+      "model": "Flare_J2_Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare J2 Mini",
       "codename": "Flare_J2_Mini",
       "model": "Flare J2 Mini"
@@ -126,6 +132,24 @@
       "market_name": "Flare P1 Plus",
       "codename": "Flare_P1_Plus",
       "model": "Flare P1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare P3",
+      "codename": "Flare_P3",
+      "model": "Flare_P3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare P3 Plus",
+      "codename": "Flare_P3_Plus",
+      "model": "Flare_P3_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare P3 lite",
+      "codename": "Flare_P3_lite",
+      "model": "Flare_P3_lite"
     },
     {
       "manufacturer": "",
@@ -246,6 +270,12 @@
       "market_name": "Omega Lite 3C",
       "codename": "Omega_Lite_3C",
       "model": "Omega_Lite_3C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Omega Lite 4",
+      "codename": "omega_lite_4",
+      "model": "omega_lite_4"
     },
     {
       "manufacturer": "",

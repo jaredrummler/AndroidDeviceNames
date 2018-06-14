@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Turbopad",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "S5",
+      "codename": "S5",
+      "model": "S5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TurboX",
+      "codename": "TurboX_Ray",
+      "model": "TurboX_Ray"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turbopad1016",
+      "codename": "Turbopad1016",
+      "model": "Turbopad1016"
+    }
+  ]
+}

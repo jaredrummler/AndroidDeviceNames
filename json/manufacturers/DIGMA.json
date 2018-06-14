@@ -75,6 +75,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DIGMA Optima 1026N 3G TT1192PG",
+      "codename": "TT1192PG",
+      "model": "Optima 1026N 3G TT1192PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Optima 7017N 3G TS7177MG",
+      "codename": "TS7177MG",
+      "model": "Optima 7017N 3G TS7177MG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA Optima Prime 3 3G TS7131MG",
       "codename": "TS7131MG",
       "model": "Optima_Prime_3_3G_TS7131MG"
@@ -150,6 +162,12 @@
       "market_name": "DIGMA Plane 1559 4G PS1173PL",
       "codename": "PS1173PL",
       "model": "Plane_1559_4G_PS1173PL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIGMA Plane 1570N 3G PS1185MG",
+      "codename": "PS1185MG",
+      "model": "Plane 1570N 3G PS1185MG"
     },
     {
       "manufacturer": "",

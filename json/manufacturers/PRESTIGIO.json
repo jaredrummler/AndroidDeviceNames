@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GRACE P5",
+      "codename": "HT50B2G",
+      "model": "PSP5515DUO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GV7790",
       "codename": "GV7790",
       "model": "GV7790"
@@ -561,6 +567,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PSP3470DUO",
+      "codename": "TL47B1G",
+      "model": "PSP3470DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP3471DUO",
+      "codename": "TL47B1G",
+      "model": "PSP3471DUO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PSP3502DUO",
       "codename": "PSP3502DUO",
       "model": "PSP3502DUO"
@@ -738,6 +756,12 @@
       "market_name": "PSP5510DUO",
       "codename": "EB50B2G",
       "model": "PSP5510DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP5511DUO",
+      "codename": "IN50B1L",
+      "model": "PSP5511DUO"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BL12000",
+      "codename": "Selfie",
+      "model": "BL12000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL12000 PRO",
+      "codename": "t758_dg_a67t_n",
+      "model": "BL12000 PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BL5000",
       "codename": "BL5000",
       "model": "BL5000"
@@ -12,6 +24,12 @@
       "market_name": "BL7000",
       "codename": "BL7000",
       "model": "BL7000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MIX Lite",
+      "codename": "t766_dg_a66",
+      "model": "MIX Lite"
     },
     {
       "manufacturer": "",
@@ -27,9 +45,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S50",
+      "codename": "t758_dg_m3t_n",
+      "model": "S50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S60",
       "codename": "S60",
       "model": "S60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S60 Lite",
+      "codename": "t777_dg_m1_65_n",
+      "model": "S60 Lite"
     },
     {
       "manufacturer": "",
@@ -84,6 +114,30 @@
       "market_name": "X5 max pro",
       "codename": "X5max_PRO",
       "model": "X5max_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X53",
+      "codename": "X53",
+      "model": "X53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X55",
+      "codename": "X55",
+      "model": "X55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X60L",
+      "codename": "t596_dg_d5506_x60l",
+      "model": "X60L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X60L",
+      "codename": "t596_dg_x60l",
+      "model": "X60L"
     },
     {
       "manufacturer": "",

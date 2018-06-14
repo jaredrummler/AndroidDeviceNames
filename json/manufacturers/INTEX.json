@@ -201,21 +201,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "ELYT DUAL",
-      "codename": "INTEX_ELYT_DUAL",
-      "model": "INTEX ELYT DUAL"
-    },
-    {
-      "manufacturer": "",
       "market_name": "ELYT E1",
       "codename": "INTEX_ELYT_E1",
       "model": "INTEX ELYT E1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "ELYT E6",
-      "codename": "INTEX_ELYT_E6",
-      "model": "INTEX ELYT E6"
     },
     {
       "manufacturer": "",
@@ -231,6 +219,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INDIE 15",
+      "codename": "AQUA_LIONS_X1",
+      "model": "INTEX AQUA LIONS X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INDIE 5",
+      "codename": "INTEX_AQUA_LIONS_3",
+      "model": "INTEX AQUA LIONS 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INTEX  AQUA Lions T1",
       "codename": "AQUA_LIONS_T1",
       "model": "INTEX AQUA LIONS T1"
@@ -240,18 +240,6 @@
       "market_name": "INTEX AQUA AMAZE+",
       "codename": "INTEX_AQUA_AMAZE_PLUS",
       "model": "INTEX AQUA AMAZE+"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "INTEX AQUA LIONS X1",
-      "codename": "AQUA_LIONS_X1",
-      "model": "INTEX AQUA LIONS X1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "INTEX AQUA LIONS X1+",
-      "codename": "AQUA_LIONS_X1_PLUS",
-      "model": "INTEX AQUA LIONS X1+"
     },
     {
       "manufacturer": "",
@@ -282,6 +270,30 @@
       "market_name": "INTEX_AQUA_S3",
       "codename": "INTEX_AQUA_S3",
       "model": "INTEX AQUA S3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Intex Aqua FulVU e5",
+      "codename": "AQUA_FulVU_e5",
+      "model": "INTEX AQUA FulVU e5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STAARi 10",
+      "codename": "AQUA_LIONS_X1_PLUS",
+      "model": "INTEX AQUA LIONS X1+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STAARi 12",
+      "codename": "INTEX_ELYT_E6",
+      "model": "INTEX ELYT E6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T1 Plus",
+      "codename": "INTEX_ELYT_DUAL",
+      "model": "INTEX ELYT DUAL"
     },
     {
       "manufacturer": "",

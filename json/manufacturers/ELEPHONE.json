@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A4",
+      "codename": "A4",
+      "model": "A4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elephone S8",
+      "codename": "S8",
+      "model": "S8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P8 3D",
       "codename": "P8_3D",
       "model": "P8_3D"

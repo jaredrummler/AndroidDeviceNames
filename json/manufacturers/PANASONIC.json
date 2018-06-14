@@ -171,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELUGA I7",
+      "codename": "ELUGA_I7",
+      "model": "ELUGA I7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELUGA I9",
       "codename": "ELUGA_I9",
       "model": "Eluga I9"
@@ -216,6 +222,12 @@
       "market_name": "ELUGA Ray 550",
       "codename": "ELUGA_Ray_550",
       "model": "ELUGA Ray 550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELUGA Ray 600",
+      "codename": "ELUGA_Ray_600",
+      "model": "ELUGA Ray 600"
     },
     {
       "manufacturer": "",
@@ -375,6 +387,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite 16 v2",
+      "codename": "Elite16",
+      "model": "Elite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite 18",
       "codename": "Elite18",
       "model": "Elite"
@@ -456,6 +474,18 @@
       "market_name": "Eluga Ray",
       "codename": "ELUGA_Ray",
       "model": "ELUGA Ray"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eluga Ray 530",
+      "codename": "ELUGA_Ray_530",
+      "model": "ELUGA Ray 530"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Eluga Ray 800",
+      "codename": "Eluga_Ray_800",
+      "model": "Eluga_Ray_800"
     },
     {
       "manufacturer": "",
@@ -567,8 +597,8 @@
     },
     {
       "manufacturer": "",
-      "market_name": "FZ-N1VUCL",
-      "codename": "FZ-N1VUCL",
+      "market_name": "FZ-N1F",
+      "codename": "FZ-N1F",
       "model": "FZ-N1"
     },
     {
@@ -798,6 +828,18 @@
       "market_name": "Panasonic P101",
       "codename": "P101",
       "model": "P101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panasonic P55 NXT",
+      "codename": "P55Nxt",
+      "model": "Panasonic P55 NXT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panasonic P7",
+      "codename": "Panasonic_P7",
+      "model": "Panasonic P7"
     },
     {
       "manufacturer": "",

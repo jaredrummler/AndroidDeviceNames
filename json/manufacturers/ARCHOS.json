@@ -1179,6 +1179,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos 70 Oxygen",
+      "codename": "ac70oxv2",
+      "model": "Archos 70 Oxygen"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos 70 platinum",
       "codename": "ac70plv5",
       "model": "Archos 70 Platinum"
@@ -1341,9 +1347,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Core 55S",
+      "codename": "ac55crs",
+      "model": "Archos Core 55S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Core 57S",
       "codename": "ac57crs",
       "model": "Archos Core 57S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Core 60S",
+      "codename": "ac60crs",
+      "model": "Archos Core 60S"
     },
     {
       "manufacturer": "",
@@ -1356,6 +1374,12 @@
       "market_name": "Archos Core 70 3G",
       "codename": "ac70cr3gv2",
       "model": "Archos Core 70 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Saphir 50X",
+      "codename": "ac50sax",
+      "model": "Archos Saphir 50X"
     },
     {
       "manufacturer": "",

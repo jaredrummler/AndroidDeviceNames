@@ -51,21 +51,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Halona",
-      "codename": "Halona",
-      "model": "Halona"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Hawk from EE",
       "codename": "Hawk_from_EE",
       "model": "Hawk_from_EE"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Kaya",
-      "codename": "Kaya_EU_SKU1",
-      "model": "KAYA"
     },
     {
       "manufacturer": "",
@@ -90,6 +78,24 @@
       "market_name": "Kwanita",
       "codename": "Kwanita",
       "model": "KWANITA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MobiWire Halona",
+      "codename": "Halona",
+      "model": "Halona"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MobiWire Kaya",
+      "codename": "Kaya_EU_SKU1",
+      "model": "KAYA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MobiWire Kosumi",
+      "codename": "Kosumi",
+      "model": "Kosumi"
     },
     {
       "manufacturer": "",

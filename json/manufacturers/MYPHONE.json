@@ -3,15 +3,51 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CITY XL",
+      "codename": "myPhone_CityXL",
+      "model": "CityXL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CITY XL",
+      "codename": "myPhone_CityXL",
+      "model": "myPhone CityXL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CUBE",
       "codename": "myphone_cube",
       "model": "myPhone Cube"
     },
     {
       "manufacturer": "",
+      "market_name": "Fusion5_F803B",
+      "codename": "Fusion5_F803B",
+      "model": "Fusion5_F803B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HAMMER BOLT",
+      "codename": "Hammer_Bolt",
+      "model": "Bolt"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer AXE M LTE",
       "codename": "AXE_M_LTE_OPM",
       "model": "HAMMER_AXE_M_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hammer Blade",
+      "codename": "Hammer_Blade",
+      "model": "Blade"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hammer Iron 3 LTE",
+      "codename": "Hammer_Iron_3_LTE",
+      "model": "Hammer_Iron_3_LTE"
     },
     {
       "manufacturer": "",
@@ -30,6 +66,66 @@
       "market_name": "My phone PRIME PLUS",
       "codename": "Prime_Plus_EN",
       "model": "Prime_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NB106M",
+      "codename": "NB106M",
+      "model": "NB106M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NB754",
+      "codename": "NB754",
+      "model": "NB754"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NB961",
+      "codename": "NB961",
+      "model": "NB961"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pocket 18X9",
+      "codename": "myPhone_Pocket_18x9",
+      "model": "myPhone_Pocket_18x9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pocket18X9 LTE",
+      "codename": "Pocket_18x9_LTE",
+      "model": "Pocket_18x9_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Prime 18x9",
+      "codename": "Prime_18x9",
+      "model": "Prime_18x9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q-Smart_III",
+      "codename": "myPhone_Q-Smart_III",
+      "model": "myPhone_Q-Smart_III"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartView_7_3G",
+      "codename": "SmartView_7_3G",
+      "model": "SmartView_7_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartView_8",
+      "codename": "SmartView_8_LTE",
+      "model": "SmartView_8_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SmartView_9.6",
+      "codename": "SmartView_9_6_3G",
+      "model": "SmartView_9_6_3G"
     },
     {
       "manufacturer": "",
@@ -213,9 +309,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "myA9 DTV",
+      "market_name": "myA9_DTV",
       "codename": "myA9_DTV",
       "model": "myA9 DTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myPhone  Q-Smart III Plus",
+      "codename": "Q-Smart_III_Plus",
+      "model": "Q-Smart_III_Plus"
     },
     {
       "manufacturer": "",
@@ -228,6 +330,24 @@
       "market_name": "myT5 DTV",
       "codename": "myT5_DTV",
       "model": "myT5 DTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myX1",
+      "codename": "MY807",
+      "model": "MY807"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myX8",
+      "codename": "myX8",
+      "model": "myX8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "neocore_E1R1",
+      "codename": "neocore_E1R1",
+      "model": "neocore_E1R1"
     }
   ]
 }

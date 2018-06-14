@@ -1785,6 +1785,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLADE A530",
+      "codename": "P639F10",
+      "model": "BLADE A530"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLADE A6",
       "codename": "P840F13",
       "model": "BLADE A6"
@@ -6912,6 +6918,12 @@
       "market_name": "Z667T",
       "codename": "bonnie",
       "model": "Z667T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z669",
+      "codename": "demi",
+      "model": "Z669"
     },
     {
       "manufacturer": "",

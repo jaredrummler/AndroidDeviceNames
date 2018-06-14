@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G3",
+      "codename": "ADVAN_G3",
+      "model": "6001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I Tab",
       "codename": "ADVAN_i_Tab",
       "model": "i7_Plus"
@@ -198,6 +204,12 @@
       "market_name": "i5C plus",
       "codename": "ADVAN_i5C_Plus",
       "model": "5058"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i5D",
+      "codename": "ADVAN_i5D",
+      "model": "i5D"
     },
     {
       "manufacturer": "",

@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Cobra",
+      "codename": "Cobra",
+      "model": "Cobra"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Edge",
       "codename": "Edge",
       "model": "Edge"
@@ -123,9 +129,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lynx",
+      "codename": "Lynx",
+      "model": "Lynx"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Onyx",
       "codename": "Hurricane_Onyx",
       "model": "Onyx"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Panther",
+      "codename": "Panther",
+      "model": "Panther"
     },
     {
       "manufacturer": "",
@@ -138,6 +156,12 @@
       "market_name": "Rush",
       "codename": "Hurricane",
       "model": "Rush"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S43",
+      "codename": "S43",
+      "model": "S43"
     },
     {
       "manufacturer": "",

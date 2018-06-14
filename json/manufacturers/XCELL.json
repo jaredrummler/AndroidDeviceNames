@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Xcell",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Enia",
+      "codename": "Xcell_Enia",
+      "model": "Enia"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zoom",
+      "codename": "Xcell_Zoom",
+      "model": "Zoom"
+    }
+  ]
+}

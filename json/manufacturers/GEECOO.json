@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G1",
+      "codename": "G1",
+      "model": "G1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2",
+      "codename": "G2",
+      "model": "G2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G3",
       "codename": "G3",
       "model": "G3"

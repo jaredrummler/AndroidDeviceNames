@@ -15,15 +15,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C450",
+      "codename": "C450",
+      "model": "C450"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C500",
+      "codename": "C500",
+      "model": "C500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Click",
+      "codename": "Click",
+      "model": "Click"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FIT",
+      "codename": "FIT",
+      "model": "FIT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GLAM",
       "codename": "GLAM",
       "model": "GLAM"
     },
     {
       "manufacturer": "",
+      "market_name": "GO-X",
+      "codename": "GO-X",
+      "model": "GO-X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HIT",
       "codename": "NYX_HIT",
       "model": "NYX_HIT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ICE",
+      "codename": "ICE",
+      "model": "ICE"
     },
     {
       "manufacturer": "",
@@ -51,9 +87,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SEVEN",
+      "codename": "SEVEN",
+      "model": "SEVEN"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHADE",
       "codename": "NYX_SHADE",
       "model": "NYX_SHADE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TQ14",
+      "codename": "TQ14",
+      "model": "TQ14"
     }
   ]
 }

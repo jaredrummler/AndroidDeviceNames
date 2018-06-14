@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AV Receiver",
+      "codename": "AVH_W4400NEX",
+      "model": "Jupiter"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B.PRO\\xe3\\x82\\xab\\xe3\\x83\\xbc\\xe3\\x83\\x8a\\xe3\\x83\\x93",
       "codename": "AVIC_BX500",
       "model": "jupiter"
@@ -12,6 +18,30 @@
       "market_name": "B.PRO\\xe3\\x82\\xab\\xe3\\x83\\xbc\\xe3\\x83\\x8a\\xe3\\x83\\x93",
       "codename": "AVIC_BZ500",
       "model": "jupiter"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Car Navigation",
+      "codename": "AVIC_W6400NEX",
+      "model": "Jupiter"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Car Navigation",
+      "codename": "AVIC_W8400NEX",
+      "model": "Jupiter"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Car Navigation",
+      "codename": "AVIC_Z710DAB",
+      "model": "Jupiter"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Car Navigation",
+      "codename": "AVIC_Z910DAB",
+      "model": "Jupiter"
     },
     {
       "manufacturer": "",

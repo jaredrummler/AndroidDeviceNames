@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Doppio SL548",
+      "codename": "Doppio_SL548",
+      "model": "SL548"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Doppio_SL505",
       "codename": "Doppio_SL505",
       "model": "SL505"

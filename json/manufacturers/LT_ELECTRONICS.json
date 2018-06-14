@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LT_C2200",
+      "codename": "LT_C2200",
+      "model": "LT C2200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT_C3300",
+      "codename": "LT_C3300",
+      "model": "LT_C3300"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT_S9_NOTE",
       "codename": "LT_S9_NOTE",
       "model": "LT_S9_NOTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT_X5",
+      "codename": "LT_X5",
+      "model": "LT_X5"
     }
   ]
 }

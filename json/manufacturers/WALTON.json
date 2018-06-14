@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo GF7",
+      "codename": "Primo_GF7",
+      "model": "Primo GF7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo GH5",
       "codename": "WBW5615WA",
       "model": "Primo GH5"
@@ -75,6 +81,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo GM3",
+      "codename": "Primo_GM3",
+      "model": "Primo GM3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo GM3+",
+      "codename": "Primo_GM3_plus",
+      "model": "Primo GM3 plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo H6+",
       "codename": "Primo_H6_Plus",
       "model": "Primo H6 Plus"
@@ -87,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo H7s",
+      "codename": "Primo_H7s",
+      "model": "Primo H7s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo HM4",
       "codename": "Primo_HM4",
       "model": "Primo HM4"
@@ -96,6 +120,12 @@
       "market_name": "Primo HM4+",
       "codename": "Primo_HM4_PLUS",
       "model": "Primo HM4+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo HM4i",
+      "codename": "Primo_HM4i",
+      "model": "Primo HM4i"
     },
     {
       "manufacturer": "",
@@ -159,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo R5",
+      "codename": "Primo_R5",
+      "model": "Primo R5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo RH3",
       "codename": "Primo_RH3",
       "model": "Primo RH3"
@@ -174,6 +210,12 @@
       "market_name": "Primo RX5",
       "codename": "Primo_RX5",
       "model": "Primo RX5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo RX6",
+      "codename": "Primo_RX6",
+      "model": "Primo RX6"
     },
     {
       "manufacturer": "",
@@ -234,6 +276,12 @@
       "market_name": "Primo_RM3",
       "codename": "Primo_RM3",
       "model": "Primo RM3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo\\xc2\\xa0S6\\xc2\\xa0Dual",
+      "codename": "Primo_S6_Dual",
+      "model": "Primo S6 Dual"
     }
   ]
 }

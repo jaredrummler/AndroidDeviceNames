@@ -1,8 +1,20 @@
 [
   {
     "manufacturer": "Samsung",
-    "market_name": "Galaxy On7 Prime",
+    "market_name": "Galaxy J7 Prime2",
     "codename": "on7xreflte",
     "model": "SM-G611F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7 Prime2",
+    "codename": "on7xreflte",
+    "model": "SM-G611M"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7 Prime2",
+    "codename": "on7xreflte",
+    "model": "SM-G611MT"
   }
 ]

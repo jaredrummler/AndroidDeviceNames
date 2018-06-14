@@ -15,15 +15,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A62",
+      "codename": "A62",
+      "model": "A62"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A67",
+      "codename": "A67",
+      "model": "Mito A67"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A880",
+      "codename": "A880",
+      "model": "MITO A880"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MITO A17",
       "codename": "MITO_A17",
       "model": "MITO A17"
     },
     {
       "manufacturer": "",
+      "market_name": "MITO A21",
+      "codename": "A21",
+      "model": "MITO A21"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MITO A39",
       "codename": "A39",
       "model": "mito A39"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MITO T8",
+      "codename": "MITO_T8",
+      "model": "MITO T8"
     },
     {
       "manufacturer": "",
@@ -36,6 +66,12 @@
       "market_name": "MITO_A19_2GB",
       "codename": "MITO_A19_2GB",
       "model": "MITO_A19_2GB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T5091A",
+      "codename": "MITO_A16",
+      "model": "MITO A16"
     }
   ]
 }

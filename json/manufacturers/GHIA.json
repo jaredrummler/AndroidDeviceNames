@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GTKIDS7R",
+      "codename": "GTKIDS7R",
+      "model": "GTKIDS7R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GTKIDS7V",
+      "codename": "GTKIDS7V",
+      "model": "GTKIDS7V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZEUS 3G",
       "codename": "N2",
       "model": "GHIA_ZEUS_3G"

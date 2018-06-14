@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Evertek",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "V4",
+      "codename": "V4",
+      "model": "EVERTEK V4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V4 Nano",
+      "codename": "V4_Nano",
+      "model": "V4 Nano"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V4+",
+      "codename": "V4_Plus",
+      "model": "V4+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V6",
+      "codename": "V6",
+      "model": "V6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V8",
+      "codename": "V8",
+      "model": "V8"
+    }
+  ]
+}

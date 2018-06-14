@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Navcity",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NAVCITY NP-752",
+      "codename": "NP_752",
+      "model": "NP-752"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NAVCITY NP-852",
+      "codename": "NP-852",
+      "model": "NP-852"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NAVCITY NP-855",
+      "codename": "NP_855",
+      "model": "NP-855"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NT-1714",
+      "codename": "NT1714",
+      "model": "NT-1714"
+    }
+  ]
+}

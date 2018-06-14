@@ -21,9 +21,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RG720",
+      "codename": "RG720",
+      "model": "RG720"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RG730",
       "codename": "rg730",
       "model": "RugGear RG730"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RG740B",
+      "codename": "RG740B",
+      "model": "RG740B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RG760",
+      "codename": "RG760",
+      "model": "RG760"
     }
   ]
 }

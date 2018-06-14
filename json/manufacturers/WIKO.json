@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C800",
+      "codename": "W_C800S",
+      "model": "W_C800S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C860",
+      "codename": "W_C860",
+      "model": "W_C860"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CINK SLIM 2",
       "codename": "s8074",
       "model": "CINK SLIM 2"
@@ -555,6 +567,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tommy3",
+      "codename": "W_C201",
+      "model": "Tommy3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U FEEL",
       "codename": "P6601AE",
       "model": "U FEEL"
@@ -645,6 +663,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "View Max",
+      "codename": "W_P200",
+      "model": "View Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "View Prime",
       "codename": "v12bn",
       "model": "View Prime"
@@ -699,9 +723,57 @@
     },
     {
       "manufacturer": "",
+      "market_name": "W_C200SN",
+      "codename": "W_C200SN",
+      "model": "W_C200SN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W_C800",
+      "codename": "W_C800",
+      "model": "W_C800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W_K300",
+      "codename": "W_K300",
+      "model": "W_K300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W_K400",
+      "codename": "W_K400",
+      "model": "W_K400"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W_K600",
       "codename": "W_K600",
       "model": "W_K600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W_P130",
+      "codename": "W_P130",
+      "model": "W_P130"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W_P200",
+      "codename": "W_P200",
+      "model": "W_P200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W_P200CM",
+      "codename": "W_P200CM",
+      "model": "View Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W_P200CM",
+      "codename": "W_P200CM",
+      "model": "W_P200CM"
     }
   ]
 }

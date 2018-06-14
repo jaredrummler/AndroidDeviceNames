@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "7Q105",
+      "codename": "SENCOR_7Q105",
+      "model": "SENCOR_7Q105"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P5504",
+      "codename": "P5504",
+      "model": "P5504"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SENCOR_10_1Q102",
       "codename": "SENCOR_10_1Q102",
       "model": "SENCOR_10_1Q102"

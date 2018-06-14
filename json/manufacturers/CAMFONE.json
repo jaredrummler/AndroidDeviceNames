@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hero H9",
+      "codename": "Hero_H9",
+      "model": "Hero_H9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hero X",
       "codename": "Hero_X",
       "model": "Hero X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hero_SX",
+      "codename": "Hero_SX",
+      "model": "Hero SX"
     }
   ]
 }

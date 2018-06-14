@@ -9,9 +9,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M578",
+      "codename": "M578",
+      "model": "M578"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M580",
+      "codename": "M580",
+      "model": "M580"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M655",
+      "codename": "M655",
+      "model": "M655"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P750i",
+      "codename": "P750i",
+      "model": "P750i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P771",
       "codename": "S-TELL",
       "model": "P771"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P850",
+      "codename": "P850",
+      "model": "P850"
     }
   ]
 }

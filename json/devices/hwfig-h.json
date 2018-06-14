@@ -1,15 +1,27 @@
 [
   {
     "manufacturer": "Huawei",
-    "market_name": "HUAWEI P smart",
+    "market_name": "FIG-LX1",
     "codename": "HWFIG-H",
     "model": "FIG-LX1"
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "HUAWEI nova lite 2",
+    "market_name": "HUAWEI P smart",
     "codename": "HWFIG-H",
     "model": "FIG-LA1"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P smart",
+    "codename": "HWFIG-H",
+    "model": "FIG-LX2"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P smart",
+    "codename": "HWFIG-H",
+    "model": "FIG-LX3"
   },
   {
     "manufacturer": "Huawei",

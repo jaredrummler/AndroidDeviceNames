@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Ingenico",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "AXIUM D7",
+      "codename": "axium",
+      "model": "IngenicoAxium"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Moby-M70",
+      "codename": "Moby-M70",
+      "model": "IMS-M70-V02"
+    }
+  ]
+}

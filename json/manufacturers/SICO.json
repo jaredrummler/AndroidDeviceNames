@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Nile X",
+      "codename": "Nile_X",
+      "model": "Nile X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PLUS2",
       "codename": "Plus2",
       "model": "Plus2"

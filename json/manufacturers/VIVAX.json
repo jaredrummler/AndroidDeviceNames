@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "FUN S20",
+      "codename": "FUN_S20",
+      "model": "FUN_S20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Point X502",
+      "codename": "Point_X502",
+      "model": "Point X502"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIVAX_Fly_V1",
       "codename": "VIVAX_Fly_V1",
       "model": "VIVAX_Fly_V1"

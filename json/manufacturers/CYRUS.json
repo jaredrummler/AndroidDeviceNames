@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CM17",
+      "codename": "CM17",
+      "model": "CM17"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS22",
       "codename": "CS22",
       "model": "CS22"

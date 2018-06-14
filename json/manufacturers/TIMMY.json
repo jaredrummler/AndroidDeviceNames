@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M40_plus",
+      "codename": "M40_plus",
+      "model": "M40_plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M40_pro",
       "codename": "M40_pro",
       "model": "M40_pro"

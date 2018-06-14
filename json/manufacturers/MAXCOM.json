@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MS453",
+      "codename": "MS453",
+      "model": "MS453"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS457",
       "codename": "MS457",
       "model": "MS457"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS457PLUS",
+      "codename": "MS457PLUS",
+      "model": "MS457PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS459",
+      "codename": "MS459",
+      "model": "MS459"
     },
     {
       "manufacturer": "",

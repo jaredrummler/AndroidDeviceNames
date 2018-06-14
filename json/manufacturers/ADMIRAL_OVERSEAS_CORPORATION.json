@@ -39,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fire",
+      "codename": "Fire",
+      "model": "Fire"
+    },
+    {
+      "manufacturer": "",
       "market_name": "O7",
       "codename": "O7",
       "model": "O7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "One",
+      "codename": "One",
+      "model": "One"
     }
   ]
 }

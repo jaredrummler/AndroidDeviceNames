@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Tambo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "TA-2",
+      "codename": "TA-2",
+      "model": "TA-2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TA-3",
+      "codename": "TA-3",
+      "model": "TA-3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TA-4",
+      "codename": "TA-4",
+      "model": "TA-4"
+    }
+  ]
+}

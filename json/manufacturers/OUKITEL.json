@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OKC8 4G",
+      "codename": "OKC8_4G",
+      "model": "OKC8 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U11_Plus",
       "codename": "U11_Plus",
       "model": "U11_Plus"
@@ -102,6 +108,18 @@
       "market_name": "U16 Max",
       "codename": "U16_Max",
       "model": "U16 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U17",
+      "codename": "U17",
+      "model": "U17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U18",
+      "codename": "U18",
+      "model": "U18"
     },
     {
       "manufacturer": "",
@@ -126,6 +144,12 @@
       "market_name": "U7 Plus",
       "codename": "U7_Plus",
       "model": "U7 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP5000",
+      "codename": "WP5000",
+      "model": "WP5000"
     }
   ]
 }

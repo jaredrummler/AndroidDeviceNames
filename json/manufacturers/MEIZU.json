@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "15",
+      "codename": "15",
+      "model": "15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "15 Lite",
+      "codename": "15Lite",
+      "model": "15 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "15 Plus",
+      "codename": "15Plus",
+      "model": "15 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E3",
+      "codename": "MeizuE3",
+      "model": "MEIZU E3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M15",
       "codename": "M15",
       "model": "M15"
@@ -36,6 +60,12 @@
       "market_name": "M6s",
       "codename": "MeizumbluS6",
       "model": "Meizu mblu S6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M712C",
+      "codename": "M712C",
+      "model": "M712C"
     },
     {
       "manufacturer": "",

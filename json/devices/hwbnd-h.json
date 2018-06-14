@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Huawei",
+    "market_name": "HUAWEI Mate SE",
+    "codename": "HWBND-H",
+    "model": "BND-L34"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "Honor 7X",
     "codename": "HWBND-H",
     "model": "BND-L21"
@@ -10,6 +16,12 @@
     "market_name": "Honor 7X",
     "codename": "HWBND-H",
     "model": "BND-L24"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Honor 7X",
+    "codename": "HWBND-H",
+    "model": "BND-L31"
   },
   {
     "manufacturer": "Huawei",

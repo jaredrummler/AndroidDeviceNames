@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M6",
+      "codename": "M6",
+      "model": "M6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MIX 2",
+      "codename": "M2",
+      "model": "M2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MIX 2",
+      "codename": "M2_PRO",
+      "model": "M2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Thor E",
       "codename": "Thor_E",
       "model": "Thor E"
@@ -18,6 +36,24 @@
       "market_name": "Thor Plus",
       "codename": "Thor_Plus",
       "model": "Thor Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1",
+      "codename": "V1",
+      "model": "V1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1",
+      "codename": "X1",
+      "model": "X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1",
+      "codename": "X1_PRO",
+      "model": "X1"
     }
   ]
 }

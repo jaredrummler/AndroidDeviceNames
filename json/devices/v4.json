@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Evertek",
+    "market_name": "V4",
+    "codename": "V4",
+    "model": "EVERTEK V4"
+  },
+  {
     "manufacturer": "Meitu",
     "market_name": "V4",
     "codename": "V4",
@@ -7,7 +13,7 @@
   },
   {
     "manufacturer": "Vestel",
-    "market_name": "V4",
+    "market_name": "Venus_V4",
     "codename": "V4",
     "model": "Venus_V4"
   }

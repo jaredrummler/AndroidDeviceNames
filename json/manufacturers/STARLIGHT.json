@@ -3,9 +3,39 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Future",
+      "codename": "Future",
+      "model": "Future"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I STAR PLUS",
       "codename": "I_STAR_PLUS",
       "model": "I_STAR_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Madrid",
+      "codename": "Madrid",
+      "model": "Madrid"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STAR_MIX",
+      "codename": "STAR_MIX",
+      "model": "STAR_MIX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Starplus 7",
+      "codename": "STARPLUS7",
+      "model": "STARPLUS7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UMI_G",
+      "codename": "UMI_G",
+      "model": "UMI_G"
     }
   ]
 }

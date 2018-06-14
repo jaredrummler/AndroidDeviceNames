@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "RK25",
+      "codename": "RK25",
+      "model": "RK25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RK25WO",
+      "codename": "RK25WO",
+      "model": "RK25WO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RS30",
       "codename": "Mercury",
       "model": "CipherLab RS30"

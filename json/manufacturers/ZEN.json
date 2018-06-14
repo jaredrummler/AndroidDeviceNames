@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ADMIRE CURVE NEO",
+      "codename": "ZEN_ADMIRE_CURVE_NEO",
+      "model": "ADMIRE_CURVE_NEO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ADMIRE SHINE",
+      "codename": "ADMIRE_SHINE",
+      "model": "ADMIRE SHINE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZEN ADMIRE NEO PLUS",
       "codename": "ZEN_ADMIRE_NEO_PLUS",
       "model": "ADMIRE NEO+"
@@ -12,6 +24,18 @@
       "market_name": "ZEN ADMIRE UNITY",
       "codename": "ZEN_ADMIRE_UNITY",
       "model": "ADMIRE_UNITY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZEN_ADMIRE_INFINITY",
+      "codename": "ZEN_ADMIRE_INFINITY",
+      "model": "ADMIRE_INFINITY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZEN_CINEMAX_INFINITY",
+      "codename": "ZEN_CINEMAX_INFINITY",
+      "model": "CINEMAX_INFINITY"
     },
     {
       "manufacturer": "",
@@ -39,9 +63,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Zen Admire Strong",
+      "codename": "ZEN_ADMIRE_STRONG",
+      "model": "ADMIRE STRONG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Zen Admire Swadesh+",
       "codename": "ADMIRE_SWADESH_PLUS",
       "model": "ADMIRE SWADESH+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zen Cinemax Prime",
+      "codename": "ZEN_CINEMAX_PRIME",
+      "model": "CINEMAX_PRIME"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BLK3D",
+      "codename": "BLK3D",
+      "model": "BLK3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS24",
+      "codename": "CS24",
+      "model": "CS24"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS28",
+      "codename": "CS28",
+      "model": "CS28"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EF",
       "codename": "EF",
       "model": "EF"
@@ -24,6 +42,12 @@
       "market_name": "Impress Action",
       "codename": "Impress_Action",
       "model": "Impress_Action"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress Click (3G)",
+      "codename": "IMPRESS_CLICK",
+      "model": "IMPRESS CLICK"
     },
     {
       "manufacturer": "",
@@ -87,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress Play (4G)",
+      "codename": "Impress_Play",
+      "model": "Impress_Play"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress Ra (4G)",
       "codename": "Impress_Ra",
       "model": "Impress_Ra"
@@ -105,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress Spring (4G)",
+      "codename": "Impress_Spring",
+      "model": "Impress_Spring"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress Sun",
       "codename": "Sun",
       "model": "Sun"
@@ -120,6 +156,24 @@
       "market_name": "Impress Tor",
       "codename": "Impress_Tor",
       "model": "Impress_Tor"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Bear",
+      "codename": "Impress_Bear",
+      "model": "Impress_Bear"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Disco",
+      "codename": "Impress_Disco",
+      "model": "Impress Disco"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Frost",
+      "codename": "Impress_Frost",
+      "model": "Impress_Frost"
     },
     {
       "manufacturer": "",
@@ -150,6 +204,18 @@
       "market_name": "Tab_4G_8-1",
       "codename": "Tab_4G_8-1",
       "model": "Tab 4G 8-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vertex Tab 3G 7-1",
+      "codename": "Tab_3G_7_1",
+      "model": "Tab_3G_7-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vertex Tab 3G 7-2",
+      "codename": "Vertex_Tab",
+      "model": "Tab 3G 7-2"
     }
   ]
 }

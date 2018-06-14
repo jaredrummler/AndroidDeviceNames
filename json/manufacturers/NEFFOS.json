@@ -45,6 +45,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Neffos N1",
+      "codename": "N1",
+      "model": "Neffos N1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neffos X1",
+      "codename": "X1",
+      "model": "Neffos X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neffos X1 Max",
+      "codename": "X1_Max",
+      "model": "Neffos X1 Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Neffos Y5i",
       "codename": "Y5i",
       "model": "Neffos Y5i"
@@ -63,27 +81,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Neffos Y7",
+      "codename": "Y7",
+      "model": "Neffos Y7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TP703A",
       "codename": "C5a",
       "model": "Neffos C5a"
     },
     {
       "manufacturer": "",
-      "market_name": "TP902A",
-      "codename": "X1",
-      "model": "Neffos X1"
+      "market_name": "TP704A",
+      "codename": "C5s",
+      "model": "Neffos C5s"
     },
     {
       "manufacturer": "",
-      "market_name": "TP903A",
-      "codename": "X1_Max",
-      "model": "Neffos X1 Max"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TP908A",
-      "codename": "N1",
-      "model": "Neffos N1"
+      "market_name": "TP704A",
+      "codename": "Y5_Lite",
+      "model": "Neffos Y5 Lite"
     },
     {
       "manufacturer": "",

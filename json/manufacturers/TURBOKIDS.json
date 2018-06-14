@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Princess",
+      "codename": "Princess",
+      "model": "Princess"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turbokids-TMNT",
+      "codename": "Turbokids_TMNT",
+      "model": "Turbokids-TMNT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TurbokidsP",
       "codename": "TurbokidsP",
       "model": "TurbokidsP"

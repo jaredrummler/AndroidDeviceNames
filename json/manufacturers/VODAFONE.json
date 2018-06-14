@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart_N9_Lite",
+      "codename": "VFD620",
+      "model": "VFD 620"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart_Tab_3G",
       "codename": "Vodafone_Smart_Tab_3G",
       "model": "Vodafone Smart Tab 3G"
@@ -213,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Vodafone Smart N9",
+      "codename": "VFD720",
+      "model": "VFD 720"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vodafone Smart mini",
       "codename": "Vodafone_875",
       "model": "Vodafone 875"
@@ -228,6 +240,12 @@
       "market_name": "Vodafone Smart mini 7 ve dual",
       "codename": "U3_3G",
       "model": "VFD 311"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vodafone TV",
+      "codename": "uiw4030vha",
+      "model": "Vodafone TV"
     }
   ]
 }

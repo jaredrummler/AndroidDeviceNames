@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ALTICE S60",
+      "codename": "S60",
+      "model": "S60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALTICE S70",
+      "codename": "S70",
+      "model": "S70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S31",
+      "codename": "S31",
+      "model": "Altice_S31"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S31",
       "codename": "S31",
       "model": "S31"
@@ -18,18 +36,6 @@
       "market_name": "S51",
       "codename": "HS6737MT",
       "model": "S51"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "S60",
-      "codename": "S60",
-      "model": "S60"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "S70",
-      "codename": "S70",
-      "model": "S70"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ELEMENT_PRO",
+      "codename": "ELEMENT_PRO",
+      "model": "ELEMENT_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Klic",
       "codename": "SA",
       "model": "K4-02 4G"

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C-One",
+      "codename": "C-One_v2",
+      "model": "C-One"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C-One",
+      "codename": "C-One_v2_NFC",
+      "model": "C-One"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C-eight",
+      "codename": "C-eight",
+      "model": "C-eight"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C-five",
       "codename": "C-five",
       "model": "C-five"
@@ -12,12 +30,6 @@
       "market_name": "C-five",
       "codename": "C-five-WIFI",
       "model": "C-five"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TBT6700",
-      "codename": "C-eight",
-      "model": "C-eight"
     }
   ]
 }

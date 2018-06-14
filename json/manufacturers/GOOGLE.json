@@ -58,6 +58,12 @@
     {
       "manufacturer": "",
       "market_name": "Chromebook",
+      "codename": "hana_cheets",
+      "model": "Mediatek MTK8173 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
       "codename": "jerry_cheets",
       "model": "RK3288 Chrome OS Device"
     },
@@ -78,6 +84,12 @@
       "market_name": "Chromebook",
       "codename": "mighty_cheets",
       "model": "Rockchip RK3288 Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
+      "codename": "reef_cheets",
+      "model": "ASUS Chromebook C213NA"
     },
     {
       "manufacturer": "",
@@ -114,6 +126,12 @@
       "market_name": "Chromebook Pixel (2015)",
       "codename": "samus_cheets",
       "model": "Google Chromebook Pixel (2015)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebox",
+      "codename": "fizz_cheets",
+      "model": "fizz"
     },
     {
       "manufacturer": "",

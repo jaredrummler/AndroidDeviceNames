@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AX1016",
+      "codename": "Bmobile_AX1016",
+      "model": "AX1016"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AX1020",
       "codename": "Bmobile",
       "model": "AX1020"
@@ -251,6 +257,12 @@
       "manufacturer": "",
       "market_name": "AX823",
       "codename": "Bmobile_AX823",
+      "model": "AX823"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX823",
+      "codename": "Bmobile_AX823a",
       "model": "AX823"
     },
     {

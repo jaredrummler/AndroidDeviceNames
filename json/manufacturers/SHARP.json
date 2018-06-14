@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4T-C50AG1T",
+      "codename": "LCD_50FOCAG1T",
+      "model": "LCD_50FOCAG1T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "507SH",
       "codename": "eve_sprout",
       "model": "507SH"
@@ -471,6 +477,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R2",
+      "codename": "SG706SH",
+      "model": "706SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R2 SH-03K",
+      "codename": "SH-03K",
+      "model": "SH-03K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R2 SHV42",
+      "codename": "LYV",
+      "model": "SHV42"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS SERIE SHL25",
       "codename": "SHL25",
       "model": "SHL25"
@@ -663,6 +687,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B10",
+      "codename": "SH-A01",
+      "model": "SH-A01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BASIO2 SHV36",
       "codename": "SHV36",
       "model": "SHV36"
@@ -816,12 +846,6 @@
       "market_name": "LC-**UH30U",
       "codename": "sharp_2k15_us_android",
       "model": "LC-Ux30US"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LC-40SF466T",
-      "codename": "Lc_40foc466t",
-      "model": "LC_40FOC466T"
     },
     {
       "manufacturer": "",
@@ -1365,6 +1389,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARP A2 Mini",
+      "codename": "HQ3",
+      "model": "IF9009"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP AQUOS S2",
+      "codename": "SH-Z01",
+      "model": "SH-Z01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHARP AQUOS S2",
       "codename": "SS2",
       "model": "FS8010"
@@ -1389,6 +1425,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARP AQUOS S3",
+      "codename": "SD1",
+      "model": "FS8015"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHARP AQUOS V1mini",
       "codename": "SG1",
       "model": "FS8018"
@@ -1398,6 +1440,12 @@
       "market_name": "SHARP R1S",
       "codename": "SK3",
       "model": "FS8028"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHARP TBC",
+      "codename": "SI3",
+      "model": "FS8025"
     },
     {
       "manufacturer": "",
@@ -1461,6 +1509,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X4",
+      "codename": "vespa_sprout",
+      "model": "X4-SH"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Yahoo! Phone SoftBank 009SH Y",
       "codename": "SBM009SHY",
       "model": "SBM009SHY"
@@ -1506,6 +1560,12 @@
       "market_name": "\\xe3\\x83\\xad\\xe3\\x83\\x9c\\xe3\\x83\\x9b\\xe3\\x83\\xb3",
       "codename": "SR02MW",
       "model": "SR02MW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe3\\x83\\xad\\xe3\\x83\\x9c\\xe3\\x83\\x9b\\xe3\\x83\\xb3",
+      "codename": "SRX002",
+      "model": "SRX002"
     }
   ]
 }

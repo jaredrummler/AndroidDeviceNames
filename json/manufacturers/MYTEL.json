@@ -3,7 +3,7 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "M9502",
+      "market_name": "M9501",
       "codename": "M9501",
       "model": "M9501"
     },
@@ -21,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M9602",
+      "codename": "M9602",
+      "model": "M9602"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Msuper",
       "codename": "Msuper",
       "model": "Msuper"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mytel M9601",
+      "codename": "Mytel_M9601",
+      "model": "M9601"
     }
   ]
 }

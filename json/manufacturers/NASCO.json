@@ -12,6 +12,30 @@
       "market_name": "Magic",
       "codename": "Magic",
       "model": "Magic"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power Plus",
+      "codename": "Power_Plus",
+      "model": "Power Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power Plus Pro",
+      "codename": "PowerPlusPro",
+      "model": "Power Plus Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SNAP",
+      "codename": "SNAP",
+      "model": "SNAP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SNAP PRO",
+      "codename": "SNAP_PRO",
+      "model": "SNAP_PRO"
     }
   ]
 }

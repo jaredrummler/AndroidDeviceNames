@@ -323,6 +323,12 @@
       "manufacturer": "",
       "market_name": "AGM  X2",
       "codename": "HS8976QC",
+      "model": "X2 SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM  X2",
+      "codename": "HS8976QC",
       "model": "X2_SE"
     },
     {
@@ -330,6 +336,12 @@
       "market_name": "AGM A7",
       "codename": "HS8909QC",
       "model": "AGM A7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AGM X1",
+      "codename": "HS8952QC",
+      "model": "AGM X1"
     },
     {
       "manufacturer": "",
@@ -969,6 +981,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HITV300C",
+      "codename": "HS8937QC",
+      "model": "HITV300C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HLTE100M",
       "codename": "HS9850SC",
       "model": "HLTE100M"
@@ -984,6 +1002,12 @@
       "market_name": "HLTE200T",
       "codename": "HS8917QC",
       "model": "HLTE200T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HLTE212T",
+      "codename": "HS8917QC",
+      "model": "HLTE212T"
     },
     {
       "manufacturer": "",
@@ -1014,6 +1038,12 @@
       "market_name": "HLTE500T",
       "codename": "HSSDM630QC",
       "model": "HLTE500T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HLTE501N",
+      "codename": "HSSDM660QC",
+      "model": "HLTE501N"
     },
     {
       "manufacturer": "",
@@ -1467,9 +1497,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense  E7  Pro",
+      "codename": "HS6739MT",
+      "model": "Hisense E7 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense  F17  Pro",
+      "codename": "HS6739MT",
+      "model": "Hisense F17 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense  F23  PLUS",
+      "codename": "HS6739MT",
+      "model": "Hisense F23 PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense  Hi  2",
       "codename": "HS6737MT",
       "model": "Hisense Hi 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense  Infinity  F17",
+      "codename": "HS6739MT",
+      "model": "Hisense Infinity F17"
     },
     {
       "manufacturer": "",
@@ -1482,6 +1536,18 @@
       "market_name": "Hisense E77",
       "codename": "HS8937QC",
       "model": "Hisense E77"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense F17",
+      "codename": "HS6580MT",
+      "model": "Hisense F17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense F17",
+      "codename": "HS6580MT",
+      "model": "Hisense Infinity E7"
     },
     {
       "manufacturer": "",
@@ -1506,6 +1572,12 @@
       "market_name": "Hisense P1",
       "codename": "HS8953QC",
       "model": "Hisense P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense T17",
+      "codename": "HS6580MT",
+      "model": "Hisense T17"
     },
     {
       "manufacturer": "",
@@ -2872,6 +2944,12 @@
     {
       "manufacturer": "",
       "market_name": "VIDAA_TV",
+      "codename": "Hi3751v811",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
       "codename": "MSD6A348",
       "model": "VIDAA_TV"
     },
@@ -3018,6 +3096,12 @@
       "market_name": "l830",
       "codename": "HS8937QC",
       "model": "STARXTREM 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "laoshan",
+      "codename": "laoshan",
+      "model": "HAT4KDTV"
     },
     {
       "manufacturer": "",

@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A9  Plus",
+      "codename": "A9_Plus",
+      "model": "A9_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A9 Lite",
       "codename": "A9_Lite",
       "model": "A9_Lite"
@@ -90,6 +96,12 @@
       "market_name": "AX501Q",
       "codename": "AX501Q",
       "model": "AX501Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX502",
+      "codename": "AX502",
+      "model": "AX502"
     },
     {
       "manufacturer": "",
@@ -777,8 +789,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X4 Soul Infinity SV",
+      "codename": "X4_Soul_Infinity_SV",
+      "model": "X4_Soul_Infinity_S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X4 Soul Infinity Z",
       "codename": "X4_Soul_Infinity_Z",
+      "model": "X4_Soul_Infinity_Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X4 Soul Infinity Z",
+      "codename": "X4_Soul_Infinity_ZV",
       "model": "X4_Soul_Infinity_Z"
     },
     {

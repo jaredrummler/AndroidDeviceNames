@@ -10,6 +10,12 @@
     {
       "manufacturer": "",
       "market_name": "STK Ace Plus",
+      "codename": "Ace_Plus",
+      "model": "STK Ace Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STK Ace Plus",
       "codename": "STK_Ace_Plus",
       "model": "STK Ace Plus"
     },
@@ -39,9 +45,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "STK Life 7 3G",
+      "codename": "Life_7_3G",
+      "model": "STK Life 7 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STK Life 7 4G",
+      "codename": "STK_Life_7_4G",
+      "model": "STK Life 7 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STK Life 8",
       "codename": "STK_Life_8",
       "model": "STK Life 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STK Life Plus S",
+      "codename": "Life_Plus_S",
+      "model": "STK Life Plus S"
     },
     {
       "manufacturer": "",

@@ -45,9 +45,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ULTRA Z",
+      "codename": "Ultra_Z",
+      "model": "ULTRA Z"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZUUM AKUS",
       "codename": "AKUS",
       "model": "AKUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZUUM MAGNO PLUS",
+      "codename": "MAGNO_PLUS",
+      "model": "MAGNO PLUS"
     }
   ]
 }

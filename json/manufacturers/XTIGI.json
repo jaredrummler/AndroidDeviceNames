@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "V21",
+      "codename": "X-TIGI_V21",
+      "model": "X-TIGI_V21"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V3+",
       "codename": "X-TIGI_V3_Plus",
       "model": "X-TIGI_V3+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X-TIGI_V13",
+      "codename": "X-TIGI_V13",
+      "model": "X-TIGI_V13"
     },
     {
       "manufacturer": "",
@@ -24,6 +36,12 @@
       "market_name": "X_TIGI_A1Plus",
       "codename": "X_TIGI_A1Plus",
       "model": "X_TIGI_A1Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X_TIGI_A2",
+      "codename": "X_TIGI_A2",
+      "model": "X_TIGI_A2"
     }
   ]
 }

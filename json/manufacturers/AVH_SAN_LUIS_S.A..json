@@ -1,0 +1,23 @@
+{
+  "manufacturer": "AVH San Luis S.A.",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ActionKids3.0",
+      "codename": "ActionKids3_0",
+      "model": "ActionKids3.0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ExcerG5.6",
+      "codename": "ExcerG5_6",
+      "model": "ExcerG5.6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vortech3.0",
+      "codename": "Vortech3_0",
+      "model": "Vortech3.0"
+    }
+  ]
+}

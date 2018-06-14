@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "5701A",
+      "codename": "5701A",
+      "model": "5701A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M50E-1A",
       "codename": "M50E-1A",
       "model": "M50E-1A"

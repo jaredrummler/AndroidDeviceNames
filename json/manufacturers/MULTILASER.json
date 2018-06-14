@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Discovery",
+      "codename": "Discovery",
+      "model": "Discovery"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kidpad-3G",
+      "codename": "Kidpad-3G",
+      "model": "Kidpad-3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10A",
       "codename": "M10A",
       "model": "M10A"
@@ -24,6 +36,12 @@
       "market_name": "M7-3G PLUS",
       "codename": "ML-WI-M7_3G_PLUS",
       "model": "ML-WI-M7_3G_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7-4G",
+      "codename": "ML-JI-M7-4G",
+      "model": "ML-JI-M7-4G"
     },
     {
       "manufacturer": "",
@@ -63,9 +81,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M9-3G",
+      "codename": "ML-SO-M9-3G",
+      "model": "ML-SO-M9-3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M9-3G",
+      "codename": "ML-WI-M9-3G",
+      "model": "ML-WI-M9-3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M9-3G-2",
       "codename": "M9-3G_2",
       "model": "M9-3G_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ML-JI11-M7_3G_PLUS",
+      "codename": "ML-JI11-M7_3G_PLUS",
+      "model": "ML-JI11-M7_3G_PLUS"
     },
     {
       "manufacturer": "",
@@ -183,7 +219,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "MS60F_PLUS",
+      "market_name": "MS60F Plus",
       "codename": "MS60F_PLUS",
       "model": "MS60F_PLUS"
     },

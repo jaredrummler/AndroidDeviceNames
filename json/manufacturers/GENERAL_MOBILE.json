@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GM 6 s",
+      "codename": "GM6_s_sprout",
+      "model": "GM6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GM5 Plus",
       "codename": "gm5plus_s_sprout",
       "model": "GM 5 Plus"
@@ -90,6 +96,18 @@
       "market_name": "GM8",
       "codename": "GM8_sprout",
       "model": "GM 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM8 Go",
+      "codename": "GM8_go",
+      "model": "GM8 go"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GM8 Go",
+      "codename": "GM8_go_sc",
+      "model": "GM8 go"
     },
     {
       "manufacturer": "",

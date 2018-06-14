@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Seeken",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SG2",
+      "codename": "SG2",
+      "model": "SG2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SG3",
+      "codename": "Seeken_SG3",
+      "model": "SG3"
+    }
+  ]
+}

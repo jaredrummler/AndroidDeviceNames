@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Juno_Q6",
+      "codename": "Masstel_Juno_Q6",
+      "model": "Juno Q6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT52",
       "codename": "Masstel_LT52",
       "model": "Masstel LT52"
@@ -18,6 +24,12 @@
       "market_name": "Masstel Juno Q5 Plus",
       "codename": "Masstel_Juno_Q5Plus",
       "model": "Masstel_Juno_Q5Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Masstel Juno Q7",
+      "codename": "Masstel_Juno_Q7",
+      "model": "Juno Q7"
     },
     {
       "manufacturer": "",

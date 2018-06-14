@@ -51,9 +51,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L60",
+      "codename": "SPC_L60",
+      "model": "L60"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S19",
       "codename": "S19",
       "model": "S19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1",
+      "codename": "SPC_X1",
+      "model": "X1"
     }
   ]
 }

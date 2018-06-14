@@ -21,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SENSEIT W289",
+      "codename": "SENSEIT_W289",
+      "model": "SENSEIT W289"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SENSEIT_A247",
       "codename": "SENSEIT_A247",
       "model": "SENSEIT A247"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Senseit N151",
+      "codename": "SENSEIT_N151",
+      "model": "SENSEIT N151"
     }
   ]
 }

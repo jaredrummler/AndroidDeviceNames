@@ -39,9 +39,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV4000Pro_RU",
+      "codename": "BV4000Pro",
+      "model": "BV4000Pro-RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV6000",
       "codename": "Blackview",
       "model": "BV6000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV6000",
+      "codename": "SOLID_4G1",
+      "model": "SOLID_4G1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV6000S_RU",
+      "codename": "BV6000S_RU",
+      "model": "BV6000S_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV6000_RU",
+      "codename": "BV6000_RU",
+      "model": "BV6000_RU"
     },
     {
       "manufacturer": "",
@@ -63,15 +87,75 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV7000Pro_RU",
+      "codename": "BV7000_Pro",
+      "model": "BV7000 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV7000_RU",
+      "codename": "BV7000",
+      "model": "BV7000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV8000 Pro",
       "codename": "BV8000Pro",
       "model": "BV8000Pro"
     },
     {
       "manufacturer": "",
+      "market_name": "BV8000Pro_RU",
+      "codename": "BV8000Pro_RU",
+      "model": "BV8000Pro_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV9000",
+      "codename": "BV9000",
+      "model": "BV9000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV9000 Pro",
+      "codename": "BV9000Pro",
+      "model": "BV9000Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV9000 Pro-F",
+      "codename": "BV9000Pro-F",
+      "model": "BV9000Pro-F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV9000-F",
+      "codename": "BV9000-F",
+      "model": "BV9000-F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV9000-RU",
+      "codename": "BV9000-RU",
+      "model": "BV9000-RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV9000-RU",
+      "codename": "BV9000Pro-RU",
+      "model": "BV9000Pro-RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blackview A10",
       "codename": "A10",
       "model": "A10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blackview BV4000",
+      "codename": "BV4000",
+      "model": "BV4000"
     },
     {
       "manufacturer": "",
@@ -87,9 +171,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Business_4_G1",
+      "codename": "Business_4_G1",
+      "model": "Business_4_G1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E7S",
       "codename": "E7s",
       "model": "E7s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10000 Pro",
+      "codename": "P10000_Pro",
+      "model": "P10000 Pro"
     },
     {
       "manufacturer": "",
@@ -105,9 +201,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S6",
+      "codename": "S6",
+      "model": "S6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S8",
       "codename": "S8",
       "model": "S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8_RU",
+      "codename": "S8",
+      "model": "S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SOLID-4G3",
+      "codename": "SOLID_4G3",
+      "model": "SOLID_4G3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SOLID_4_G2",
+      "codename": "SOLID_4_G2",
+      "model": "SOLID 4 G2"
     }
   ]
 }

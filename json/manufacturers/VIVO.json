@@ -105,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V9",
+      "codename": "1727ID",
+      "model": "vivo 1727"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X5",
       "codename": "X5",
       "model": "vivo X5"
@@ -387,6 +393,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y71",
+      "codename": "1801",
+      "model": "vivo 1801"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y79A",
       "codename": "PD1708",
       "model": "vivo PD1708"
@@ -402,6 +414,18 @@
       "market_name": "Y937",
       "codename": "PD1503",
       "model": "vivo Y937"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo  X21i  A",
+      "codename": "PD1801",
+      "model": "vivo X21i A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo  Y85A",
+      "codename": "PD1730",
+      "model": "vivo Y85A"
     },
     {
       "manufacturer": "",
@@ -441,15 +465,63 @@
     },
     {
       "manufacturer": "",
+      "market_name": "vivo 1723",
+      "codename": "1723",
+      "model": "vivo 1723"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1724",
+      "codename": "1724",
+      "model": "vivo 1724"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1725",
+      "codename": "1725",
+      "model": "vivo 1725"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1726",
+      "codename": "1726",
+      "model": "vivo 1726"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1727",
+      "codename": "1727",
+      "model": "vivo 1727"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1802",
+      "codename": "1802",
+      "model": "vivo 1802"
+    },
+    {
+      "manufacturer": "",
       "market_name": "vivo X20",
       "codename": "PD1709",
       "model": "vivo PD1709"
     },
     {
       "manufacturer": "",
+      "market_name": "vivo X20",
+      "codename": "PD1709",
+      "model": "vivo X20A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "vivo X20Plus",
       "codename": "PD1710",
       "model": "vivo PD1710"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo X20Plus",
+      "codename": "PD1710",
+      "model": "vivo X20Plus A"
     },
     {
       "manufacturer": "",
@@ -519,9 +591,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "vivo Y69A",
+      "codename": "PD1705",
+      "model": "vivo Y69A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo Y71A",
+      "codename": "PD1731",
+      "model": "vivo Y71A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "vivo Y75A",
       "codename": "PD1718",
       "model": "vivo Y75A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo Y83A",
+      "codename": "PD1803",
+      "model": "vivo Y83A"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Qtouch",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Q01A",
+      "codename": "Q01A",
+      "model": "Q01A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q05A",
+      "codename": "Q05A",
+      "model": "Q05A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QS701",
+      "codename": "QS701",
+      "model": "QS701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QS702",
+      "codename": "QTOUCH-QS702",
+      "model": "QS702"
+    }
+  ]
+}

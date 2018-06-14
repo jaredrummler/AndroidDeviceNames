@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Grand",
+      "codename": "Grand",
+      "model": "Grand"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MDC GrandPro",
+      "codename": "MDC_Grand_Pro",
+      "model": "Grand Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nova",
+      "codename": "Nova",
+      "model": "Nova"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Optima",
       "codename": "Optima",
       "model": "Optima"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Prime_S",
+      "codename": "Prime_S",
+      "model": "Prime_S"
     }
   ]
 }

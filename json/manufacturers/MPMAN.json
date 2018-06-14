@@ -1,17 +1,11 @@
 {
-  "manufacturer": "MPman",
+  "manufacturer": "Mpman",
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "MPDC1006",
-      "codename": "MPDC1006",
-      "model": "MPDC1006"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "MPDC706",
-      "codename": "MPDC706",
-      "model": "MPDC706"
+      "market_name": "PH604",
+      "codename": "PH604",
+      "model": "PH604"
     }
   ]
 }

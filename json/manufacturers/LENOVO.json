@@ -1833,6 +1833,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K350t",
+      "codename": "K350t",
+      "model": "K350t"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K5",
       "codename": "A6020a40",
       "model": "Lenovo A6020a40"
@@ -1902,6 +1908,18 @@
       "market_name": "K50-T5",
       "codename": "aio_otfp_m",
       "model": "Lenovo K50-t5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K520",
+      "codename": "seoul",
+      "model": "Lenovo K520"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K520",
+      "codename": "seoul",
+      "model": "Lenovo S680"
     },
     {
       "manufacturer": "",
@@ -1989,6 +2007,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L38011",
+      "codename": "k5",
+      "model": "Lenovo L38011"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LIFETAB E10310",
       "codename": "LIFETAB_E10310",
       "model": "LIFETAB_E10310"
@@ -2070,6 +2094,12 @@
       "market_name": "Lenovo K8 Plus",
       "codename": "marino_f",
       "model": "Lenovo K8 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Mirage Solo",
+      "codename": "vega",
+      "model": "VR-1541F"
     },
     {
       "manufacturer": "",
@@ -2436,6 +2466,12 @@
       "market_name": "PB2 plus",
       "codename": "PB2-670M",
       "model": "Lenovo PB2-670M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PB2 plus",
+      "codename": "PB2-670M1",
+      "model": "Lenovo PB2-670M1"
     },
     {
       "manufacturer": "",
@@ -3006,6 +3042,12 @@
       "market_name": "TAB4 10 Plus",
       "codename": "X704N",
       "model": "Lenovo TB-X704N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB4 10 Plus",
+      "codename": "X704N",
+      "model": "TB-X704N"
     },
     {
       "manufacturer": "",

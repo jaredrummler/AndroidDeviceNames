@@ -1,0 +1,23 @@
+{
+  "manufacturer": "OTOT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "E1",
+      "codename": "EOS",
+      "model": "OTOT_E1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8",
+      "codename": "S8",
+      "model": "S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V350",
+      "codename": "V350",
+      "model": "V350"
+    }
+  ]
+}

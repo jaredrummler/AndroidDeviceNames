@@ -87,6 +87,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Energy\\xc2\\xa0X10\\xc2\\xa04G",
+      "codename": "Energy_X10_4G",
+      "model": "QMobile Energy X10 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Energy\\xc2\\xa0X5 4G",
+      "codename": "Energy_X5_4G",
+      "model": "QMobile Energy X5 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Evok Power",
       "codename": "QMobile_Evok_Power",
       "model": "QMobile Evok Power"
@@ -267,9 +279,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q Infinity D",
+      "codename": "Q_Infinity_D",
+      "model": "QMobile Q Infinity D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q Infinity E",
       "codename": "Q_Infinity_E",
       "model": "QMobile Q Infinity E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q Infinity E Lite",
+      "codename": "Q_Infinity_E_Lite",
+      "model": "QMobile Q Infinity E Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QMobile S15",
+      "codename": "S15",
+      "model": "QMobile S15"
     },
     {
       "manufacturer": "",
@@ -336,6 +366,12 @@
       "market_name": "S8",
       "codename": "QMobile_S8",
       "model": "S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8_Lite",
+      "codename": "QMobile_S8_Lite",
+      "model": "S8_Lite"
     },
     {
       "manufacturer": "",

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Figi",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "FIGI Fone",
+      "codename": "Fone",
+      "model": "Fone"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FIGI Ftwo",
+      "codename": "Ftwo",
+      "model": "Ftwo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FIGI Gone",
+      "codename": "Gone",
+      "model": "Gone"
+    }
+  ]
+}
