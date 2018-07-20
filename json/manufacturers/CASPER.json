@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CASPER_L10_4_5G",
+      "codename": "CASPER_L10_4_5G",
+      "model": "CASPER_L10_4.5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TA80CA2",
       "codename": "TA80CA2_1",
       "model": "TA80CA2"

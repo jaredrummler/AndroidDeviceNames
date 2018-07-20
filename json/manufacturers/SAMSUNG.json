@@ -357,6 +357,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Chromebook Plus (V2)",
+      "codename": "nautilus_cheets",
+      "model": "nautilus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Chromebook Pro",
       "codename": "caroline_cheets",
       "model": "Samsung Chromebook Pro"
@@ -711,6 +717,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy A5 (2016)",
+      "codename": "a5xeltextc",
+      "model": "SM-A510Y"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy A5(2016)",
       "codename": "a5xelte",
       "model": "SM-A510F"
@@ -819,12 +831,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy A5x(2016)",
-      "codename": "a5xeltextc",
-      "model": "SM-A510Y"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Galaxy A6",
       "codename": "a6lte",
       "model": "SM-A600F"
@@ -849,6 +855,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy A6",
+      "codename": "a6lteks",
+      "model": "SM-A600N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy A6 Plus",
       "codename": "a6plte",
       "model": "SM-A605F"
@@ -856,14 +868,8 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy A6 Plus",
-      "codename": "a6plte",
-      "model": "SM-A605FN"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy A6 Plus",
-      "codename": "a6plte",
-      "model": "SM-A605GN"
+      "codename": "a6pltechn",
+      "model": "SM-A6050"
     },
     {
       "manufacturer": "",
@@ -876,6 +882,12 @@
       "market_name": "Galaxy A6+",
       "codename": "a6plte",
       "model": "SM-A605G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A6+",
+      "codename": "a6plte",
+      "model": "SM-A605GN"
     },
     {
       "manufacturer": "",
@@ -1053,6 +1065,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy A8 Star",
+      "codename": "astarqlte",
+      "model": "SM-G885F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A8 Star",
+      "codename": "astarqlte",
+      "model": "SM-G885Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A8 Star",
+      "codename": "astarqltechn",
+      "model": "SM-G8850"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A8 Star",
+      "codename": "astarqlteskt",
+      "model": "SM-G885S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy A8(2016)",
       "codename": "a8xelte",
       "model": "SM-A810F"
@@ -1116,6 +1152,18 @@
       "market_name": "Galaxy A9 Pro",
       "codename": "a9xproltesea",
       "model": "SM-A910F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A9 Star",
+      "codename": "astarqltechn",
+      "model": "SM-G8850"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A9 Star",
+      "codename": "astarqltecmcc",
+      "model": "SM-G8858"
     },
     {
       "manufacturer": "",
@@ -3471,6 +3519,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy J2 Pro",
+      "codename": "j2y18lte",
+      "model": "SM-J250G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J2 Pro",
+      "codename": "j2y18lte",
+      "model": "SM-J250M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy J2(2016)",
       "codename": "j2xlte",
       "model": "SM-J210F"
@@ -3480,18 +3540,6 @@
       "market_name": "Galaxy J2(2016)",
       "codename": "j2xlteins",
       "model": "SM-J210F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J2(2018)",
-      "codename": "j2y18lte",
-      "model": "SM-J250M"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J2(2018) Ph Sepco",
-      "codename": "j2y18lte",
-      "model": "SM-J250G"
     },
     {
       "manufacturer": "",
@@ -3514,8 +3562,38 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy J3",
+      "codename": "j3topeltevzw",
+      "model": "SM-J337VPP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J3",
       "codename": "j3x3g",
       "model": "SM-J320H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J3",
+      "codename": "j3y17qltecmcc",
+      "model": "SM-J3300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J3",
+      "codename": "j3y17qltecmcc",
+      "model": "SM-J3308"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J3 Achieve",
+      "codename": "j3topeltespr",
+      "model": "SM-J337P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J3 Emerge",
+      "codename": "j3popltespr",
+      "model": "SM-J327P"
     },
     {
       "manufacturer": "",
@@ -3558,12 +3636,6 @@
       "market_name": "Galaxy J3 Pop",
       "codename": "j3popltelra",
       "model": "SM-J327R6"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J3 Pop",
-      "codename": "j3popltespr",
-      "model": "SM-J327P"
     },
     {
       "manufacturer": "",
@@ -3627,15 +3699,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy J3 Star",
+      "codename": "j3topltetmo",
+      "model": "SM-J337T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J3 Top",
+      "codename": "j3toplteaio",
+      "model": "SM-J336AZ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J3 Top",
+      "codename": "j3toplteaio",
+      "model": "SM-J337AZ"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy J3 Top",
       "codename": "j3toplteatt",
       "model": "SM-J337A"
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy J3 Top",
-      "codename": "j3topltetmo",
-      "model": "SM-J337T"
+      "market_name": "Galaxy J3 V",
+      "codename": "j3topeltevzw",
+      "model": "SM-J337V"
     },
     {
       "manufacturer": "",
@@ -3759,18 +3849,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy J3(2017)",
-      "codename": "j3y17qltecmcc",
-      "model": "SM-J3300"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J3(2017)",
-      "codename": "j3y17qltecmcc",
-      "model": "SM-J3308"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Galaxy J4",
       "codename": "j4lte",
       "model": "SM-J400F"
@@ -3838,6 +3916,36 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy J5",
+      "codename": "j5y17lte",
+      "model": "SM-J530F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J5",
+      "codename": "j5y17lte",
+      "model": "SM-J530FM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J5",
+      "codename": "j5y17ltektt",
+      "model": "SM-J530K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J5",
+      "codename": "j5y17ltelgt",
+      "model": "SM-J530L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J5",
+      "codename": "j5y17lteskt",
+      "model": "SM-J530S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J5",
       "codename": "j5ylte",
       "model": "SM-J500Y"
     },
@@ -3870,6 +3978,18 @@
       "market_name": "Galaxy J5 Prime",
       "codename": "on5xltechn",
       "model": "SM-G5700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J5 Pro",
+      "codename": "j5y17lte",
+      "model": "SM-J530G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J5 Pro",
+      "codename": "j5y17lte",
+      "model": "SM-J530GM"
     },
     {
       "manufacturer": "",
@@ -3951,48 +4071,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy J5(2017)",
-      "codename": "j5y17lte",
-      "model": "SM-J530F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J5(2017)",
-      "codename": "j5y17lte",
-      "model": "SM-J530FM"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J5(2017)",
-      "codename": "j5y17lte",
-      "model": "SM-J530G"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J5(2017)",
-      "codename": "j5y17lte",
-      "model": "SM-J530GM"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J5(2017)",
-      "codename": "j5y17ltektt",
-      "model": "SM-J530K"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J5(2017)",
-      "codename": "j5y17ltelgt",
-      "model": "SM-J530L"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J5(2017)",
-      "codename": "j5y17lteskt",
-      "model": "SM-J530S"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Galaxy J6",
       "codename": "j6lte",
       "model": "SM-J600F"
@@ -4014,6 +4092,18 @@
       "market_name": "Galaxy J6",
       "codename": "j6lte",
       "model": "SM-J600GT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J6",
+      "codename": "j6ltekx",
+      "model": "SM-J600N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J6",
+      "codename": "j6ltelgt",
+      "model": "SM-J600L"
     },
     {
       "manufacturer": "",
@@ -4044,6 +4134,24 @@
       "market_name": "Galaxy J7",
       "codename": "j7ltechn",
       "model": "SM-J7008"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7",
+      "codename": "j7topeltevzw",
+      "model": "SM-J737VPP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7",
+      "codename": "j7y17lte",
+      "model": "SM-J730F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7",
+      "codename": "j7y17lte",
+      "model": "SM-J730FM"
     },
     {
       "manufacturer": "",
@@ -4080,12 +4188,6 @@
       "market_name": "Galaxy J7 Neo",
       "codename": "j7velte",
       "model": "SM-J701MT"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J7 Neo2",
-      "codename": "j7toplteskt",
-      "model": "SM-J737S"
     },
     {
       "manufacturer": "",
@@ -4181,12 +4283,6 @@
       "manufacturer": "",
       "market_name": "Galaxy J7 Prime2",
       "codename": "on7xreflte",
-      "model": "SM-G611F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J7 Prime2",
-      "codename": "on7xreflte",
       "model": "SM-G611M"
     },
     {
@@ -4212,6 +4308,30 @@
       "market_name": "Galaxy J7 Pro",
       "codename": "j7y17lte",
       "model": "SM-J730GM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7 Refine",
+      "codename": "j7topeltespr",
+      "model": "SM-J737P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7 Star",
+      "codename": "j7topltetmo",
+      "model": "SM-J737T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7 Top",
+      "codename": "j7toplteatt",
+      "model": "SM-J737A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J7 V",
+      "codename": "j7topeltevzw",
+      "model": "SM-J737V"
     },
     {
       "manufacturer": "",
@@ -4276,30 +4396,6 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy J7(2017)",
-      "codename": "j7y17lte",
-      "model": "SM-J730F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J7(2017)",
-      "codename": "j7y17lte",
-      "model": "SM-J730FM"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J7(2017)",
-      "codename": "j7y17lte",
-      "model": "SM-J730G"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J7(2017)",
-      "codename": "j7y17lte",
-      "model": "SM-J730GM"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J7(2017)",
       "codename": "j7y17ltektt",
       "model": "SM-J730K"
     },
@@ -4308,6 +4404,36 @@
       "market_name": "Galaxy J7+",
       "codename": "jadelte",
       "model": "SM-C710F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J8",
+      "codename": "j8y18lte",
+      "model": "SM-J810F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J8",
+      "codename": "j8y18lte",
+      "model": "SM-J810G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J8",
+      "codename": "j8y18lte",
+      "model": "SM-J810M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J8",
+      "codename": "j8y18lte",
+      "model": "SM-J810Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Jean",
+      "codename": "a6pltektt",
+      "model": "SM-A605K"
     },
     {
       "manufacturer": "",
@@ -5968,12 +6094,6 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy On5",
-      "codename": "o5prolte",
-      "model": "SM-G550FY"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy On5",
       "codename": "on5ltemtr",
       "model": "SM-G550T1"
     },
@@ -5994,6 +6114,12 @@
       "market_name": "Galaxy On5",
       "codename": "on5ltetmo",
       "model": "SM-G550T2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy On5 Pro",
+      "codename": "o5prolte",
+      "model": "SM-G550FY"
     },
     {
       "manufacturer": "",
@@ -6021,6 +6147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy On6",
+      "codename": "j6lte",
+      "model": "SM-J600GF"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy On7",
       "codename": "o7lte",
       "model": "SM-G600FY"
@@ -6036,6 +6168,12 @@
       "market_name": "Galaxy On7",
       "codename": "on7elte",
       "model": "SM-G600F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy On7 Prime",
+      "codename": "on7xreflte",
+      "model": "SM-G611F"
     },
     {
       "manufacturer": "",
@@ -6090,6 +6228,12 @@
       "market_name": "Galaxy On8",
       "codename": "j7xlte",
       "model": "SM-J710FN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy On8",
+      "codename": "j8y18lte",
+      "model": "SM-J810GF"
     },
     {
       "manufacturer": "",
@@ -6732,6 +6876,12 @@
       "market_name": "Galaxy S duos",
       "codename": "kyleichn",
       "model": "GT-S7566"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S \\xe8\\xbd\\xbb\\xe5\\xa5\\xa2\\xe7\\x89\\x88",
+      "codename": "dreamliteqltechn",
+      "model": "SM-G8750"
     },
     {
       "manufacturer": "",
@@ -7948,18 +8098,6 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy S5 Mini",
-      "codename": "kminilte",
-      "model": "SM-G800F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy S5 Mini",
-      "codename": "kminilte",
-      "model": "SM-G800Y"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy S5 Mini",
       "codename": "kminilteusc",
       "model": "SM-G800R4"
     },
@@ -7991,7 +8129,19 @@
       "manufacturer": "",
       "market_name": "Galaxy S5 mini",
       "codename": "kminilte",
+      "model": "SM-G800F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S5 mini",
+      "codename": "kminilte",
       "model": "SM-G800M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S5 mini",
+      "codename": "kminilte",
+      "model": "SM-G800Y"
     },
     {
       "manufacturer": "",
@@ -8004,12 +8154,6 @@
       "market_name": "Galaxy S5 mini",
       "codename": "kminiwifi",
       "model": "SM-G800X"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy S5 mini LTE",
-      "codename": "kminilte",
-      "model": "SM-G800Y"
     },
     {
       "manufacturer": "",
@@ -8171,12 +8315,6 @@
       "manufacturer": "",
       "market_name": "Galaxy S6 Edge",
       "codename": "zerolte",
-      "model": "SM-G925F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy S6 Edge",
-      "codename": "zerolte",
       "model": "SM-G925I"
     },
     {
@@ -8218,12 +8356,6 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy S6 Edge",
-      "codename": "zeroltelgt",
-      "model": "SM-G925L"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy S6 Edge",
       "codename": "zeroltelra",
       "model": "SM-G925R6"
     },
@@ -8261,12 +8393,6 @@
       "manufacturer": "",
       "market_name": "Galaxy S6 Edge+",
       "codename": "zenlte",
-      "model": "SM-G9287"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy S6 Edge+",
-      "codename": "zenlte",
       "model": "SM-G9287C"
     },
     {
@@ -8274,12 +8400,6 @@
       "market_name": "Galaxy S6 Edge+",
       "codename": "zenlte",
       "model": "SM-G928C"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy S6 Edge+",
-      "codename": "zenlte",
-      "model": "SM-G928F"
     },
     {
       "manufacturer": "",
@@ -8364,6 +8484,36 @@
       "market_name": "Galaxy S6 Edge+",
       "codename": "zenltevzw",
       "model": "SM-G928V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S6 edge",
+      "codename": "zerolte",
+      "model": "SM-G925F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S6 edge",
+      "codename": "zeroltelgt",
+      "model": "SM-G925L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S6 edge+",
+      "codename": "zenlte",
+      "model": "SM-G9287"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S6 edge+",
+      "codename": "zenlte",
+      "model": "SM-G928F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S6 edge+",
+      "codename": "zenlte",
+      "model": "SM-G928G"
     },
     {
       "manufacturer": "",
@@ -8507,12 +8657,6 @@
       "manufacturer": "",
       "market_name": "Galaxy S7 Edge",
       "codename": "hero2lte",
-      "model": "SM-G935F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy S7 Edge",
-      "codename": "hero2lte",
       "model": "SM-G935X"
     },
     {
@@ -8526,12 +8670,6 @@
       "market_name": "Galaxy S7 Edge",
       "codename": "hero2ltektt",
       "model": "SM-G935K"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy S7 Edge",
-      "codename": "hero2ltelgt",
-      "model": "SM-G935L"
     },
     {
       "manufacturer": "",
@@ -8554,12 +8692,6 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy S7 Edge",
-      "codename": "hero2qltechn",
-      "model": "SM-G9350"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy S7 Edge",
       "codename": "hero2qltespr",
       "model": "SM-G935P"
     },
@@ -8572,12 +8704,6 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy S7 Edge",
-      "codename": "hero2qlteue",
-      "model": "SM-G935U"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy S7 Edge",
       "codename": "hero2qlteusc",
       "model": "SM-G935R4"
     },
@@ -8586,6 +8712,30 @@
       "market_name": "Galaxy S7 Edge",
       "codename": "hero2qltevzw",
       "model": "SM-G935V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S7 edge",
+      "codename": "hero2lte",
+      "model": "SM-G935F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S7 edge",
+      "codename": "hero2ltelgt",
+      "model": "SM-G935L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S7 edge",
+      "codename": "hero2qltechn",
+      "model": "SM-G9350"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy S7 edge",
+      "codename": "hero2qlteue",
+      "model": "SM-G935U"
     },
     {
       "manufacturer": "",
@@ -8904,6 +9054,12 @@
       "market_name": "Galaxy Style Duos",
       "codename": "aruba3gduosctc",
       "model": "SCH-I829"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy TAB Active2",
+      "codename": "gtactive2lteue",
+      "model": "SM-T397U"
     },
     {
       "manufacturer": "",
@@ -9297,9 +9453,87 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy Tab A",
+      "codename": "gt510lte",
+      "model": "SM-T555"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A",
+      "codename": "gt510wifi",
+      "model": "SM-T550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A",
+      "codename": "gt5note10lte",
+      "model": "SM-P555M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A",
+      "codename": "gt5note10wifi",
+      "model": "SM-P550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A",
+      "codename": "gt5note8lte",
+      "model": "SM-P355M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A",
+      "codename": "gt5note8ltechn",
+      "model": "SM-P355C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A (2016)",
+      "codename": "gtaxllte",
+      "model": "SM-T585"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A (2016)",
+      "codename": "gtaxlltechn",
+      "model": "SM-T585C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A (2016)",
+      "codename": "gtaxlwifi",
+      "model": "SM-T580"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A (2016)",
+      "codename": "gtaxlwifichn",
+      "model": "SM-T580"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A (2016) with S Pen",
+      "codename": "gtanotexlwifikx",
+      "model": "SM-P580"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy Tab A (2017)",
       "codename": "gta2slte",
       "model": "SM-T385"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A (2017)",
+      "codename": "gta2slte",
+      "model": "SM-T385M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A (2017)",
+      "codename": "gta2sltechn",
+      "model": "SM-T385C"
     },
     {
       "manufacturer": "",
@@ -9334,8 +9568,8 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Tab A 10.1",
-      "codename": "gtaxllte",
-      "model": "SM-T585"
+      "codename": "gtaxladwifikx",
+      "model": "SM-T583"
     },
     {
       "manufacturer": "",
@@ -9352,12 +9586,6 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Tab A 10.1",
-      "codename": "gtaxlltechn",
-      "model": "SM-T585C"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A 10.1",
       "codename": "gtaxlltekx",
       "model": "SM-T585N0"
     },
@@ -9365,19 +9593,7 @@
       "manufacturer": "",
       "market_name": "Galaxy Tab A 10.1",
       "codename": "gtaxlwifi",
-      "model": "SM-T580"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A 10.1",
-      "codename": "gtaxlwifi",
       "model": "SM-T580X"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A 10.1",
-      "codename": "gtaxlwifichn",
-      "model": "SM-T580"
     },
     {
       "manufacturer": "",
@@ -9484,18 +9700,6 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Tab A 8.0",
-      "codename": "gt5note8lte",
-      "model": "SM-P355M"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A 8.0",
-      "codename": "gt5note8ltechn",
-      "model": "SM-P355C"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A 8.0",
       "codename": "gt5note8ltechn",
       "model": "SM-P355Y"
     },
@@ -9514,20 +9718,8 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Tab A 9.7",
-      "codename": "gt510lte",
-      "model": "SM-T555"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A 9.7",
       "codename": "gt510ltechn",
       "model": "SM-T555C"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A 9.7",
-      "codename": "gt510wifi",
-      "model": "SM-T550"
     },
     {
       "manufacturer": "",
@@ -9552,12 +9744,6 @@
       "market_name": "Galaxy Tab A 9.7",
       "codename": "gt5note10lte",
       "model": "SM-P555"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A 9.7",
-      "codename": "gt5note10lte",
-      "model": "SM-P555M"
     },
     {
       "manufacturer": "",
@@ -9606,18 +9792,6 @@
       "market_name": "Galaxy Tab A S 8.0",
       "codename": "gt58ltebmc",
       "model": "SM-T357W"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A2 8.0",
-      "codename": "gta2slte",
-      "model": "SM-T385M"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A2 8.0",
-      "codename": "gta2sltechn",
-      "model": "SM-T385C"
     },
     {
       "manufacturer": "",
@@ -9891,15 +10065,75 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy Tab S2 8.0",
+      "market_name": "Galaxy Tab S2",
       "codename": "gts210lte",
       "model": "SM-T815"
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy Tab S2 8.0",
+      "market_name": "Galaxy Tab S2",
+      "codename": "gts210velte",
+      "model": "SM-T819"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S2",
+      "codename": "gts210veltechn",
+      "model": "SM-T819C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S2",
+      "codename": "gts210vewifi",
+      "model": "SM-T813"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S2",
+      "codename": "gts210wifi",
+      "model": "SM-T810"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S2",
       "codename": "gts28lte",
       "model": "SM-T715"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S2",
+      "codename": "gts28velte",
+      "model": "SM-T719"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S2",
+      "codename": "gts28velte",
+      "model": "SM-T719Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S2",
+      "codename": "gts28veltechn",
+      "model": "SM-T719C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S2",
+      "codename": "gts28vewifi",
+      "model": "SM-T713"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S2",
+      "codename": "gts28vewifichn",
+      "model": "SM-T713"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S2",
+      "codename": "gts28wifi",
+      "model": "SM-T710"
     },
     {
       "manufacturer": "",
@@ -9922,31 +10156,7 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Tab S2 8.0",
-      "codename": "gts28velte",
-      "model": "SM-T719"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab S2 8.0",
-      "codename": "gts28velte",
-      "model": "SM-T719Y"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab S2 8.0",
-      "codename": "gts28veltechn",
-      "model": "SM-T719C"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab S2 8.0",
       "codename": "gts28vewifi",
-      "model": "SM-T713"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab S2 8.0",
-      "codename": "gts28vewifichn",
       "model": "SM-T713"
     },
     {
@@ -10032,12 +10242,6 @@
       "market_name": "Galaxy Tab S2 9.7",
       "codename": "gts210velte",
       "model": "SM-T818"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab S2 9.7",
-      "codename": "gts210velte",
-      "model": "SM-T819"
     },
     {
       "manufacturer": "",
@@ -10500,6 +10704,12 @@
       "market_name": "Galaxy Tab4 10.1",
       "codename": "matissewifiue",
       "model": "SM-T530NU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab4 7",
+      "codename": "degasy18wifi",
+      "model": "SM-T230NZ"
     },
     {
       "manufacturer": "",
@@ -11193,6 +11403,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy Wide3",
+      "codename": "j7toplteskt",
+      "model": "SM-J737S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy Win",
       "codename": "delos3gcmcc",
       "model": "GT-I8558"
@@ -11727,15 +11943,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "SM G9298",
-      "codename": "venenoltechn",
-      "model": "SM-G9298"
-    },
-    {
-      "manufacturer": "",
       "market_name": "SM-G9198",
       "codename": "philippeltechn",
       "model": "SM-G9198"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SM-T230NZ",
+      "codename": "degasy18wifichn",
+      "model": "SM-T230NZ"
     },
     {
       "manufacturer": "",
@@ -11808,6 +12024,12 @@
       "market_name": "olleh",
       "codename": "ik1",
       "model": "SMT-E5015"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe9\\xa2\\x86\\xe4\\xb8\\x96\\xe6\\x97\\x97\\xe8\\x88\\xb08",
+      "codename": "venenoltechn",
+      "model": "SM-G9298"
     }
   ]
 }

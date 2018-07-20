@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ILIUM_PADE7",
+      "codename": "ILIUM_PADE7V10",
+      "model": "ILIUM_PADE7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ilium Alpha 3",
       "codename": "Ilium_Alpha_3",
       "model": "Ilium Alpha 3"
@@ -321,6 +327,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LANIX_PAD_E7",
+      "codename": "ILIUM_PADE7V11",
+      "model": "LANIX_PAD_E7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Llium L910",
       "codename": "Ilium_L910",
       "model": "Ilium L910"
@@ -372,6 +384,12 @@
       "market_name": "ilium Pad E7",
       "codename": "ilium_Pad_E7",
       "model": "ilium_Pad_E7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ilium_PADE10",
+      "codename": "ilium_PADE10",
+      "model": "ilium_PADE10"
     },
     {
       "manufacturer": "",

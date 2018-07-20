@@ -7,18 +7,6 @@
   },
   {
     "manufacturer": "Samsung",
-    "market_name": "Galaxy A6 Plus",
-    "codename": "a6plte",
-    "model": "SM-A605FN"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy A6 Plus",
-    "codename": "a6plte",
-    "model": "SM-A605GN"
-  },
-  {
-    "manufacturer": "Samsung",
     "market_name": "Galaxy A6+",
     "codename": "a6plte",
     "model": "SM-A605FN"
@@ -28,5 +16,11 @@
     "market_name": "Galaxy A6+",
     "codename": "a6plte",
     "model": "SM-A605G"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A6+",
+    "codename": "a6plte",
+    "model": "SM-A605GN"
   }
 ]

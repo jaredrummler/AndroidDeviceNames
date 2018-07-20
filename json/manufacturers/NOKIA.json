@@ -58,6 +58,12 @@
     {
       "manufacturer": "",
       "market_name": "Nokia 5",
+      "codename": "CO2N_sprout",
+      "model": "Nokia 5.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 5",
       "codename": "ND1",
       "model": "TA-1024"
     },
@@ -126,6 +132,12 @@
       "market_name": "Nokia 6",
       "codename": "PLE",
       "model": "TA-1039"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 6 Plus",
+      "codename": "DRG_sprout",
+      "model": "Nokia 6.1 Plus"
     },
     {
       "manufacturer": "",

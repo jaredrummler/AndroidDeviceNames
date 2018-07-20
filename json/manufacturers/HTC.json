@@ -807,6 +807,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Desire 12+",
+      "codename": "htc_brepuhl",
+      "model": "HTC Desire 12+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Desire 200",
       "codename": "gtou",
       "model": "HTC Desire 200"
@@ -3893,6 +3899,12 @@
       "manufacturer": "",
       "market_name": "U12+",
       "codename": "htc_imeuhl",
+      "model": "HTC U12+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U12+",
+      "codename": "htc_imeuhljp",
       "model": "HTC U12+"
     },
     {

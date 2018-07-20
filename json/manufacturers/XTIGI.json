@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "JOY7_TV",
+      "codename": "JOY7_TV",
+      "model": "X_TIGI_JOY7_TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V21",
       "codename": "X-TIGI_V21",
       "model": "X-TIGI_V21"
@@ -12,6 +18,18 @@
       "market_name": "V3+",
       "codename": "X-TIGI_V3_Plus",
       "model": "X-TIGI_V3+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X-TIGI_JOY7_MAX",
+      "codename": "X-TIGI_JOY7_MAX",
+      "model": "X-TIGI_JOY7_MAX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X-TIGI_V11",
+      "codename": "X-TIGI_V11",
+      "model": "X-TIGI_V11"
     },
     {
       "manufacturer": "",

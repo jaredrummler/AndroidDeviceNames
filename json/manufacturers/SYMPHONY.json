@@ -141,9 +141,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V140",
+      "codename": "V140",
+      "model": "V140"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V34",
       "codename": "V34",
       "model": "V34"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V44",
+      "codename": "V44",
+      "model": "V44"
     },
     {
       "manufacturer": "",
@@ -174,6 +186,18 @@
       "market_name": "V85",
       "codename": "V85",
       "model": "V85"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V92",
+      "codename": "V92",
+      "model": "V92"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V96",
+      "codename": "V96",
+      "model": "V96"
     },
     {
       "manufacturer": "",

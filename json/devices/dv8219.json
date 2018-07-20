@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Akari",
+    "market_name": "AX-117ATV",
+    "codename": "DV8219",
+    "model": "AX-117ATV"
+  },
+  {
     "manufacturer": "KTV",
     "market_name": "PureKTV",
     "codename": "DV8219",
@@ -10,5 +16,11 @@
     "market_name": "Telkom",
     "codename": "DV8219",
     "model": "TVB-100"
+  },
+  {
+    "manufacturer": "techBITE",
+    "market_name": "Flix  TV  Box",
+    "codename": "DV8219",
+    "model": "Flix TV Box"
   }
 ]

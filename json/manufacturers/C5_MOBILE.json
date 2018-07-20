@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NOATAB",
+      "codename": "NOATAB",
+      "model": "NOATAB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Noa X Power",
       "codename": "noaXPower",
       "model": "noaXPower"

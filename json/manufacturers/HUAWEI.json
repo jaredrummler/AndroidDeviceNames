@@ -2961,25 +2961,25 @@
     },
     {
       "manufacturer": "",
-      "market_name": "HUAWEI MediaPad M5",
+      "market_name": "\"HUAWEI MediaPad M5 10.8\"\"\"",
       "codename": "HWCMR09",
       "model": "CMR-AL09"
     },
     {
       "manufacturer": "",
-      "market_name": "HUAWEI MediaPad M5",
+      "market_name": "\"HUAWEI MediaPad M5 10.8\"\"\"",
       "codename": "HWCMR09",
       "model": "CMR-W09"
     },
     {
       "manufacturer": "",
-      "market_name": "HUAWEI MediaPad M5",
+      "market_name": "\"HUAWEI MediaPad M5 8.4\"\"\"",
       "codename": "HWSHT",
       "model": "SHT-AL09"
     },
     {
       "manufacturer": "",
-      "market_name": "HUAWEI MediaPad M5",
+      "market_name": "\"HUAWEI MediaPad M5 8.4\"\"\"",
       "codename": "HWSHT",
       "model": "SHT-W09"
     },
@@ -3045,6 +3045,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HUAWEI P20 Lite",
+      "codename": "HWANE",
+      "model": "HWV32"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HUAWEI P9 lite mini",
       "codename": "HWSLA-Q",
       "model": "SLA-L02"
@@ -3096,6 +3102,36 @@
       "market_name": "HUAWEI Y3 2018",
       "codename": "HWCAG-L6737M",
       "model": "CAG-L22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y5 2018",
+      "codename": "HWDRA-M",
+      "model": "DRA-L01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y5 2018",
+      "codename": "HWDRA-M",
+      "model": "DRA-L21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y5 2018",
+      "codename": "HWDRA-M",
+      "model": "DRA-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y5 2018",
+      "codename": "HWDRA-MG",
+      "model": "DRA-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y5 Prime 2018",
+      "codename": "HWDRA-M",
+      "model": "DRA-LX2"
     },
     {
       "manufacturer": "",
@@ -3240,6 +3276,12 @@
       "market_name": "HUAWEI nova 2 lite",
       "codename": "HWLDN-Q",
       "model": "LDN-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI nova lite 2",
+      "codename": "HWFIG-H",
+      "model": "704HW"
     },
     {
       "manufacturer": "",
@@ -3461,6 +3503,12 @@
       "manufacturer": "",
       "market_name": "Honor 7A",
       "codename": "HWAUM-Q",
+      "model": "AUM-L33"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 7A",
+      "codename": "HWAUM-Q",
       "model": "AUM-TL00"
     },
     {
@@ -3468,6 +3516,12 @@
       "market_name": "Honor 7A",
       "codename": "HWAUM-Q",
       "model": "AUM-TL20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 7A",
+      "codename": "HWDUA-M",
+      "model": "DUA-L22"
     },
     {
       "manufacturer": "",
@@ -3504,6 +3558,24 @@
       "market_name": "Honor 7C",
       "codename": "HWLND-Q",
       "model": "LND-TL40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 7S",
+      "codename": "HWDUA-M",
+      "model": "DUA-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 7S",
+      "codename": "HWDUA-M",
+      "model": "DUA-L22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 7S",
+      "codename": "HWDUA-M",
+      "model": "DUA-LX3"
     },
     {
       "manufacturer": "",
@@ -3588,6 +3660,12 @@
       "market_name": "Honor 8",
       "codename": "HWFRD",
       "model": "FRD-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 8 Lite",
+      "codename": "HWPRA-H",
+      "model": "PRA-LX1"
     },
     {
       "manufacturer": "",
@@ -3678,6 +3756,12 @@
       "market_name": "Honor Play",
       "codename": "HWCOR",
       "model": "COR-AL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor Play",
+      "codename": "HWCOR",
+      "model": "COR-L29"
     },
     {
       "manufacturer": "",
@@ -6981,6 +7065,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "nova 3",
+      "codename": "HWPAR",
+      "model": "PAR-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nova 3",
+      "codename": "HWPAR",
+      "model": "PAR-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nova 3",
+      "codename": "HWPAR",
+      "model": "PAR-LX1M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nova 3",
+      "codename": "HWPAR",
+      "model": "PAR-LX9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nova 3",
+      "codename": "HWPAR",
+      "model": "PAR-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nova 3",
+      "codename": "HWPAR",
+      "model": "PAR-TL20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "nova 3e",
       "codename": "HWANE",
       "model": "ANE-AL00"
@@ -7152,6 +7272,24 @@
       "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xbaG9\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
       "codename": "HWVNS-H",
       "model": "HUAWEI VNS-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+      "codename": "HWBZT",
+      "model": "BZT-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+      "codename": "HWBZT",
+      "model": "BZT-AL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf C5",
+      "codename": "HWBZT",
+      "model": "BZT-W09"
     },
     {
       "manufacturer": "",

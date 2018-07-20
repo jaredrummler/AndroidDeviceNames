@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hero 11",
+      "codename": "Hero_11",
+      "model": "Hero 11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hero H7 Plus",
       "codename": "Hero_H7_Plus",
       "model": "Hero_H7_Plus"
@@ -30,6 +36,12 @@
       "market_name": "Hero_SX",
       "codename": "Hero_SX",
       "model": "Hero SX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honey Y1",
+      "codename": "Honey_Y1",
+      "model": "Honey Y1"
     }
   ]
 }

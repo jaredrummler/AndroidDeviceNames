@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A20",
+      "codename": "A20",
+      "model": "A20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A5",
       "codename": "A5",
       "model": "A5"
@@ -42,6 +48,12 @@
       "market_name": "BV4000Pro_RU",
       "codename": "BV4000Pro",
       "model": "BV4000Pro-RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV5800PRO",
+      "codename": "BV5800_PRO",
+      "model": "BV5800 PRO"
     },
     {
       "manufacturer": "",

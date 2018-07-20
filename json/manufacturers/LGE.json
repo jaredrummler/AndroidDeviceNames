@@ -1545,6 +1545,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L-03K",
+      "codename": "L-03K",
+      "model": "L-03K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L20",
       "codename": "luv20ds",
       "model": "LG-D105"
@@ -4587,6 +4593,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG Premier Pro",
+      "codename": "cv3",
+      "model": "LM-X410(FG)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Premier Pro",
+      "codename": "cv3",
+      "model": "LM-X410.F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Premier Pro",
+      "codename": "cv3",
+      "model": "LM-X410.FG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Premier Pro",
+      "codename": "cv3",
+      "model": "LM-X410.FGN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Premier Pro",
+      "codename": "cv3",
+      "model": "LML413DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Premier Pro",
+      "codename": "cv3",
+      "model": "LML414DL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG Prime II",
       "codename": "v10",
       "model": "LG-X170fTV"
@@ -4648,6 +4690,12 @@
     {
       "manufacturer": "",
       "market_name": "LG Q7",
+      "codename": "cv5a",
+      "model": "LM-Q610(FGN)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q7",
       "codename": "mcv5a",
       "model": "LM-Q610.FG"
     },
@@ -4656,6 +4704,24 @@
       "market_name": "LG Q7",
       "codename": "mcv5a",
       "model": "LM-Q610.FGN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q7+",
+      "codename": "cv5an",
+      "model": "LM-Q725K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q7+",
+      "codename": "cv5an",
+      "model": "LM-Q725L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q7+",
+      "codename": "cv5an",
+      "model": "LM-Q725S"
     },
     {
       "manufacturer": "",
@@ -4811,7 +4877,25 @@
       "manufacturer": "",
       "market_name": "LG Stylo 4",
       "codename": "cv7a",
+      "model": "LM-Q710.FGN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Stylo 4",
+      "codename": "cv7a",
       "model": "LML713DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Stylo 4",
+      "codename": "mcv7a",
+      "model": "LG-Q710AL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Stylo 4",
+      "codename": "mcv7a",
+      "model": "LG-Q710PL"
     },
     {
       "manufacturer": "",
@@ -5241,6 +5325,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LG X power2",
+      "codename": "lv7",
+      "model": "LM-X510WM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LG X screen",
       "codename": "k5",
       "model": "LG-F650K"
@@ -5472,42 +5562,6 @@
       "market_name": "LGL22",
       "codename": "g2",
       "model": "LGL22"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LML413DL",
-      "codename": "cv3",
-      "model": "LM-X410(FG)"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LML413DL",
-      "codename": "cv3",
-      "model": "LM-X410.F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LML413DL",
-      "codename": "cv3",
-      "model": "LM-X410.FG"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LML413DL",
-      "codename": "cv3",
-      "model": "LM-X410.FGN"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LML413DL",
-      "codename": "cv3",
-      "model": "LML413DL"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LML413DL",
-      "codename": "cv3",
-      "model": "LML414DL"
     },
     {
       "manufacturer": "",
@@ -6687,21 +6741,27 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Q8+",
+      "market_name": "Q8",
       "codename": "cv7an",
       "model": "LM-Q815L"
     },
     {
       "manufacturer": "",
-      "market_name": "Q8+",
+      "market_name": "Q8",
       "codename": "cv7an",
       "model": "LM-Q815S"
     },
     {
       "manufacturer": "",
-      "market_name": "QStylus Plus",
+      "market_name": "QStylus",
       "codename": "mcv7a",
       "model": "LM-Q710.FG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QStylus",
+      "codename": "mcv7a",
+      "model": "LM-Q710.FGN"
     },
     {
       "manufacturer": "",

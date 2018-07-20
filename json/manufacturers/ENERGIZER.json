@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "EnergyE500",
+      "codename": "EnergyE500",
+      "model": "EnergyE500"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H550S",
       "codename": "HARDCASEH550S",
       "model": "HARDCASEH550S"

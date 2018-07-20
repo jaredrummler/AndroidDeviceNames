@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AS160",
+      "codename": "AS160",
+      "model": "AS160"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B350",
       "codename": "B350",
       "model": "B350"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B450",
+      "codename": "B450",
+      "model": "B450"
     },
     {
       "manufacturer": "",
@@ -228,6 +240,12 @@
       "market_name": "S190",
       "codename": "S190",
       "model": "S190"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S290",
+      "codename": "S290",
+      "model": "S290"
     },
     {
       "manufacturer": "",

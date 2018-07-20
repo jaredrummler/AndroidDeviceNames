@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Vmobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A10_Y",
+      "codename": "A10_Y",
+      "model": "A10_Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A11_Y",
+      "codename": "A11_Y",
+      "model": "A11_Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A13",
+      "codename": "A13",
+      "model": "A13"
+    }
+  ]
+}

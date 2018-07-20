@@ -1,0 +1,23 @@
+{
+  "manufacturer": "EPIKONE",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "K400",
+      "codename": "K400",
+      "model": "K400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K502",
+      "codename": "K502",
+      "model": "K502"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X500",
+      "codename": "X500",
+      "model": "X500"
+    }
+  ]
+}

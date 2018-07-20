@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Baccara",
+      "codename": "Baccara",
+      "model": "Baccara"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS24",
       "codename": "CS24",
       "model": "CS24"
@@ -18,6 +24,12 @@
       "market_name": "CS28",
       "codename": "CS28",
       "model": "CS28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Calypso",
+      "codename": "Calypso",
+      "model": "Impress_Calypso"
     },
     {
       "manufacturer": "",
@@ -60,6 +72,12 @@
       "market_name": "Impress Eagle",
       "codename": "Impress_Eagle",
       "model": "Impress_Eagle"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress Eclipse (4G)",
+      "codename": "IMPRESS_ECLIPSE",
+      "model": "IMPRESS ECLIPSE"
     },
     {
       "manufacturer": "",
@@ -159,6 +177,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress Vega (4G)",
+      "codename": "Impress_Vega",
+      "model": "Impress_Vega"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress_Bear",
       "codename": "Impress_Bear",
       "model": "Impress_Bear"
@@ -171,15 +195,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress_Energy",
+      "codename": "Impress_Energy",
+      "model": "Impress_Energy"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress_Frost",
       "codename": "Impress_Frost",
       "model": "Impress_Frost"
     },
     {
       "manufacturer": "",
+      "market_name": "Impress_Game",
+      "codename": "Impress_Game",
+      "model": "Impress_Game"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress_Lagune",
       "codename": "Impress_Lagune",
       "model": "Impress_Lagune"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Nero",
+      "codename": "Impress_Nero",
+      "model": "Impress_Nero"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_New",
+      "codename": "Impress_New",
+      "model": "Impress_New"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Pear",
+      "codename": "Impress_Pear",
+      "model": "Impress_Pear"
     },
     {
       "manufacturer": "",
@@ -192,6 +246,12 @@
       "market_name": "Lion_Dual",
       "codename": "Lion_Dual",
       "model": "Lion_Dual"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S1",
+      "codename": "GlocalMe_S1",
+      "model": "G1701"
     },
     {
       "manufacturer": "",

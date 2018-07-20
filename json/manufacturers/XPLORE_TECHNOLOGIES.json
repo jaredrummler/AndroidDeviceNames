@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M6",
+      "codename": "M6",
+      "model": "M6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RangerX",
       "codename": "iX101T1",
       "model": "iX101T1"

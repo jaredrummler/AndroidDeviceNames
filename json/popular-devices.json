@@ -1766,6 +1766,36 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy J5",
+    "codename": "j5y17lte",
+    "model": "SM-J530F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5y17lte",
+    "model": "SM-J530FM"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5y17ltektt",
+    "model": "SM-J530K"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5y17ltelgt",
+    "model": "SM-J530L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
+    "codename": "j5y17lteskt",
+    "model": "SM-J530S"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J5",
     "codename": "j5ylte",
     "model": "SM-J500Y"
   },
@@ -1798,6 +1828,24 @@
     "market_name": "Galaxy J7",
     "codename": "j7ltechn",
     "model": "SM-J7008"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7",
+    "codename": "j7topeltevzw",
+    "model": "SM-J737VPP"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7",
+    "codename": "j7y17lte",
+    "model": "SM-J730F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7",
+    "codename": "j7y17lte",
+    "model": "SM-J730FM"
   },
   {
     "manufacturer": "Samsung",
@@ -2560,12 +2608,6 @@
     "market_name": "Galaxy On5",
     "codename": "o5ltechn",
     "model": "SM-G5500"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy On5",
-    "codename": "o5prolte",
-    "model": "SM-G550FY"
   },
   {
     "manufacturer": "Samsung",
@@ -3783,12 +3825,6 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy S6 Edge",
     "codename": "zerolte",
-    "model": "SM-G925F"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S6 Edge",
-    "codename": "zerolte",
     "model": "SM-G925I"
   },
   {
@@ -3830,12 +3866,6 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S6 Edge",
-    "codename": "zeroltelgt",
-    "model": "SM-G925L"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S6 Edge",
     "codename": "zeroltelra",
     "model": "SM-G925R6"
   },
@@ -3871,9 +3901,15 @@
   },
   {
     "manufacturer": "Samsung",
-    "market_name": "Galaxy S6 Edge+",
-    "codename": "zenlte",
-    "model": "SM-G9287"
+    "market_name": "Galaxy S6 edge",
+    "codename": "zerolte",
+    "model": "SM-G925F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S6 edge",
+    "codename": "zeroltelgt",
+    "model": "SM-G925L"
   },
   {
     "manufacturer": "Samsung",
@@ -3886,12 +3922,6 @@
     "market_name": "Galaxy S6 Edge+",
     "codename": "zenlte",
     "model": "SM-G928C"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S6 Edge+",
-    "codename": "zenlte",
-    "model": "SM-G928F"
   },
   {
     "manufacturer": "Samsung",
@@ -3976,6 +4006,24 @@
     "market_name": "Galaxy S6 Edge+",
     "codename": "zenltevzw",
     "model": "SM-G928V"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S6 edge+",
+    "codename": "zenlte",
+    "model": "SM-G9287"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S6 edge+",
+    "codename": "zenlte",
+    "model": "SM-G928F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S6 edge+",
+    "codename": "zenlte",
+    "model": "SM-G928G"
   },
   {
     "manufacturer": "Samsung",
@@ -4113,12 +4161,6 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy S7 Edge",
     "codename": "hero2lte",
-    "model": "SM-G935F"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S7 Edge",
-    "codename": "hero2lte",
     "model": "SM-G935X"
   },
   {
@@ -4132,12 +4174,6 @@
     "market_name": "Galaxy S7 Edge",
     "codename": "hero2ltektt",
     "model": "SM-G935K"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S7 Edge",
-    "codename": "hero2ltelgt",
-    "model": "SM-G935L"
   },
   {
     "manufacturer": "Samsung",
@@ -4160,12 +4196,6 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S7 Edge",
-    "codename": "hero2qltechn",
-    "model": "SM-G9350"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S7 Edge",
     "codename": "hero2qltespr",
     "model": "SM-G935P"
   },
@@ -4178,12 +4208,6 @@
   {
     "manufacturer": "Samsung",
     "market_name": "Galaxy S7 Edge",
-    "codename": "hero2qlteue",
-    "model": "SM-G935U"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S7 Edge",
     "codename": "hero2qlteusc",
     "model": "SM-G935R4"
   },
@@ -4192,6 +4216,30 @@
     "market_name": "Galaxy S7 Edge",
     "codename": "hero2qltevzw",
     "model": "SM-G935V"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 edge",
+    "codename": "hero2lte",
+    "model": "SM-G935F"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 edge",
+    "codename": "hero2ltelgt",
+    "model": "SM-G935L"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 edge",
+    "codename": "hero2qltechn",
+    "model": "SM-G9350"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S7 edge",
+    "codename": "hero2qlteue",
+    "model": "SM-G935U"
   },
   {
     "manufacturer": "Samsung",

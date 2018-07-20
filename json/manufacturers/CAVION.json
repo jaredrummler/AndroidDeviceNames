@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Base_5.0",
+      "codename": "Cavion_Base_5_0",
+      "model": "Cavion_Base_5_0"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M1092Q",
       "codename": "M1092Q",
       "model": "M1092Q"

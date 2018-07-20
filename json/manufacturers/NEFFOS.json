@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Neffos C9A",
+      "codename": "C9A",
+      "model": "Neffos_C9A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Neffos N1",
       "codename": "N1",
       "model": "Neffos N1"
@@ -60,6 +66,12 @@
       "market_name": "Neffos X1 Max",
       "codename": "X1_Max",
       "model": "Neffos X1 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neffos X9",
+      "codename": "X9",
+      "model": "Neffos_X9"
     },
     {
       "manufacturer": "",
@@ -102,6 +114,12 @@
       "market_name": "TP704A",
       "codename": "Y5_Lite",
       "model": "Neffos Y5 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TP705",
+      "codename": "C7A",
+      "model": "Neffos_C7A"
     },
     {
       "manufacturer": "",

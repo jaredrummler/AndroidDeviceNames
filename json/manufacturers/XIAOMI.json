@@ -231,6 +231,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MI 8",
+      "codename": "dipper",
+      "model": "MI 8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI 8 SE",
+      "codename": "sirius",
+      "model": "MI 8 SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI 8 SE",
+      "codename": "sirius",
+      "model": "sirius"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MI MAX",
       "codename": "helium",
       "model": "MI MAX"
@@ -282,6 +300,12 @@
       "market_name": "MI PAD 3",
       "codename": "cappu",
       "model": "MI PAD 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI PAD 4",
+      "codename": "clover",
+      "model": "MI PAD 4"
     },
     {
       "manufacturer": "",
@@ -528,6 +552,24 @@
       "market_name": "Redmi 5A",
       "codename": "riva",
       "model": "Redmi 5A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 6",
+      "codename": "cereus",
+      "model": "Redmi 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 6A",
+      "codename": "cactus",
+      "model": "Redmi 6A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 6Pro",
+      "codename": "sakura",
+      "model": "Redmi 6 Pro"
     },
     {
       "manufacturer": "",

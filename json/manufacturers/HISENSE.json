@@ -1035,6 +1035,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HLTE310M",
+      "codename": "HSSDM450QC",
+      "model": "HLTE310M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HLTE310T",
+      "codename": "HSSDM450QC",
+      "model": "HLTE310T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HLTE500T",
       "codename": "HSSDM630QC",
       "model": "HLTE500T"
@@ -1527,6 +1539,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense  Infinity  H12",
+      "codename": "HSSDM450QC",
+      "model": "Hisense Infinity H12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense E76MINIM",
       "codename": "HS8937QC",
       "model": "Hisense E76MINIM"
@@ -1560,6 +1578,12 @@
       "market_name": "Hisense F8 MINI",
       "codename": "HSSC9850",
       "model": "Hisense F8 MINI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense H20",
+      "codename": "HSSDM636QC",
+      "model": "HLTE510T"
     },
     {
       "manufacturer": "",

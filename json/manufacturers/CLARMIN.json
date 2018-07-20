@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "B5Pro",
+      "codename": "B5Pro",
+      "model": "B5Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B8",
       "codename": "B8",
       "model": "B8"

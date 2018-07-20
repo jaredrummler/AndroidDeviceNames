@@ -1521,12 +1521,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "A1 Smart N9",
-      "codename": "VFD720",
-      "model": "VFD 720"
-    },
-    {
-      "manufacturer": "",
       "market_name": "A3",
       "codename": "mickey6",
       "model": "5046A"
@@ -3429,6 +3423,54 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033O"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "Alcatel T 5033T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alcatel 1C",
       "codename": "U5A_PLUS_3G",
       "model": "5009A"
@@ -3498,6 +3540,18 @@
       "market_name": "Alcatel 1X",
       "codename": "U5A_PLUS_4G",
       "model": "5059Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1X",
+      "codename": "U5A_PLUS_4G",
+      "model": "5159A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1X",
+      "codename": "U5A_PLUS_4G",
+      "model": "5159J"
     },
     {
       "manufacturer": "",
@@ -3636,6 +3690,24 @@
       "market_name": "Alcatel 5",
       "codename": "A5A_INFINI",
       "model": "5186A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 5V",
+      "codename": "A5X",
+      "model": "5060A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 5V",
+      "codename": "A5X",
+      "model": "5060D_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 5X",
+      "codename": "A5X",
+      "model": "5060D"
     },
     {
       "manufacturer": "",
@@ -5691,6 +5763,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL LX",
+      "codename": "U50A_PLUS_TF",
+      "model": "A502DL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL M2M",
       "codename": "CROSS2",
       "model": "TCL M2M"
@@ -6024,6 +6102,12 @@
       "market_name": "TCL_Xess_P17AA_OS",
       "codename": "Xess",
       "model": "TCL Xess P17AA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TETRA",
+      "codename": "U50A_ATT",
+      "model": "5041C"
     },
     {
       "manufacturer": "",

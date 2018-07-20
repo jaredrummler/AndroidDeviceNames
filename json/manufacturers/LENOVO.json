@@ -1876,6 +1876,12 @@
     {
       "manufacturer": "",
       "market_name": "K5 Note",
+      "codename": "austin2018",
+      "model": "Lenovo L38012"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K5 Note",
       "codename": "k52_e78",
       "model": "Lenovo K52e78"
     },
@@ -2061,6 +2067,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo A5",
+      "codename": "L18011",
+      "model": "L18011"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo K8",
       "codename": "brady_f",
       "model": "Lenovo K"
@@ -2136,6 +2148,12 @@
       "market_name": "Lenovo TAB 7",
       "codename": "TB-7504F",
       "model": "Lenovo TB-7504F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo TAB 7",
+      "codename": "TB-7504F",
+      "model": "PC-TE507JAW"
     },
     {
       "manufacturer": "",
@@ -2217,9 +2235,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo tab P10",
+      "codename": "X705F",
+      "model": "Lenovo TB-X705F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LenovoTAB2 A7-30DC",
       "codename": "A7-30HC",
       "model": "Lenovo TAB 2 A7-30DC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LenovoTB-7104F",
+      "codename": "TB7104F",
+      "model": "Lenovo TB-7104F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LenovoTB-7104I",
+      "codename": "TB7104I",
+      "model": "Lenovo TB-7104I"
     },
     {
       "manufacturer": "",
@@ -3582,6 +3618,12 @@
       "market_name": "Z2w",
       "codename": "z2w",
       "model": "Lenovo Z2w"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z5",
+      "codename": "jd2018",
+      "model": "Lenovo L78011"
     },
     {
       "manufacturer": "",

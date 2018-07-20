@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Luna",
+      "codename": "Luna",
+      "model": "Luna"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S551",
       "codename": "STYLO_S551",
       "model": "STYLO S551"
@@ -30,6 +36,12 @@
       "market_name": "STYLO_S61",
       "codename": "STYLO_S61",
       "model": "STYLO SV61 VECTOR+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ultra",
+      "codename": "Ultra",
+      "model": "Ultra"
     },
     {
       "manufacturer": "",

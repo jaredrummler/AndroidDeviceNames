@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4T-C**AM1",
+      "codename": "tcsu2uj",
+      "model": "AQUOS-TVJ18"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4T-C50AG1T",
       "codename": "LCD_50FOCAG1T",
       "model": "LCD_50FOCAG1T"
@@ -675,6 +681,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS sense plus (SH-M07)",
+      "codename": "SH-M07",
+      "model": "SH-M07"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS \\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\xa4 SH-06G",
       "codename": "SH-06G",
       "model": "SH-06G"
@@ -1035,6 +1047,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LCD-40SF480A",
+      "codename": "Lcd_xxsffoc480a",
+      "model": "LCD_xxSFFOC480A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LCD-45SF460A",
       "codename": "Lcd_45foc46a",
       "model": "LCD_45FOC46A"
@@ -1080,6 +1098,12 @@
       "market_name": "LCD-60SU470A",
       "codename": "cv6a648_4K_base",
       "model": "LCD_xxSUFOC470A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LCD-60SU471A",
+      "codename": "Lcd_xxsufoc471a",
+      "model": "LCD_xxSUFOC471A"
     },
     {
       "manufacturer": "",
@@ -1395,6 +1419,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHARP AQUOS D10",
+      "codename": "SH-D01",
+      "model": "SH-D01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHARP AQUOS S2",
       "codename": "SH-Z01",
       "model": "SH-Z01"
@@ -1452,6 +1482,12 @@
       "market_name": "Sharp A Click",
       "codename": "AH3",
       "model": "IF9003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sharp HH6",
+      "codename": "HH6_sprout",
+      "model": "FS8032"
     },
     {
       "manufacturer": "",
@@ -1515,6 +1551,54 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XLED-40Z4808A",
+      "codename": "Lcd_xxffoczq48a",
+      "model": "LCD_xxFFOCZQ48A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XLED-50SU480A",
+      "codename": "Lcd_50sufoc480a",
+      "model": "LCD_50SUFOC480A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XLED-50SU583A",
+      "codename": "Lcd_xxfoc580a2",
+      "model": "LCD_xxFOC580A2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XLED-50Z4808A",
+      "codename": "Lcd_50ufoczq48a",
+      "model": "LCD_50UFOCZQ48A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XLED-60SU485A",
+      "codename": "Lcd_60sufoc485a",
+      "model": "LCD_60SUFOC485A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XLED-65SU480A",
+      "codename": "Lcd_xxsufoc480a",
+      "model": "LCD_xxSUFOC480A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XLED-65SU583A",
+      "codename": "Lcd_xxfoc580a1",
+      "model": "LCD_xxFOC580A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XLED-65Z4808A",
+      "codename": "Lcd_xxufoczq48a",
+      "model": "LCD_xxUFOCZQ48A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Yahoo! Phone SoftBank 009SH Y",
       "codename": "SBM009SHY",
       "model": "SBM009SHY"
@@ -1548,6 +1632,12 @@
       "market_name": "\\xe3\\x82\\xb7\\xe3\\x83\\xb3\\xe3\\x83\\x97\\xe3\\x83\\xab\\xe3\\x82\\xb9\\xe3\\x83\\x9e\\xe3\\x83\\x9b\\xef\\xbc\\x93",
       "codename": "SG509SH",
       "model": "509SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe3\\x82\\xb7\\xe3\\x83\\xb3\\xe3\\x83\\x97\\xe3\\x83\\xab\\xe3\\x82\\xb9\\xe3\\x83\\x9e\\xe3\\x83\\x9b\\xef\\xbc\\x94",
+      "codename": "SG704SH",
+      "model": "704SH"
     },
     {
       "manufacturer": "",

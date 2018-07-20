@@ -51,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X1 Dual",
+      "codename": "X1_Dual",
+      "model": "X1 Dual"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1 Selfie",
+      "codename": "X1_Selfie",
+      "model": "X1 Selfie"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XQ Dual",
       "codename": "XQ_Dual",
       "model": "XQ Dual"
@@ -99,9 +111,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "mobiistar C1",
+      "codename": "mobiistar_C1",
+      "model": "mobiistar C1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "mobiistar E Selfie",
       "codename": "mobiistar_E_Selfie",
       "model": "mobiistar E Selfie"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "mobiistar E1",
+      "codename": "mobiistar_E1",
+      "model": "mobiistar E1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "mobiistar E1 Selfie",
+      "codename": "E1_Selfie",
+      "model": "E1 Selfie"
     }
   ]
 }

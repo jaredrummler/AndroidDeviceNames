@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fun 18x9",
+      "codename": "FUN_18x9",
+      "model": "FUN_18x9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fusion5_F803B",
       "codename": "Fusion5_F803B",
       "model": "Fusion5_F803B"
@@ -48,6 +54,12 @@
       "market_name": "Hammer Iron 3 LTE",
       "codename": "Hammer_Iron_3_LTE",
       "model": "Hammer_Iron_3_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hammer energy 18x9",
+      "codename": "Hammer_Energy_18x9",
+      "model": "Hammer_Energy_18x9"
     },
     {
       "manufacturer": "",
@@ -273,6 +285,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "myA11",
+      "codename": "MYA11",
+      "model": "MYA11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myA13",
+      "codename": "MYA13",
+      "model": "MYA13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "myA2",
       "codename": "MY802",
       "model": "MY802"
@@ -336,6 +360,12 @@
       "market_name": "myX1",
       "codename": "MY807",
       "model": "MY807"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myX2",
+      "codename": "myX2",
+      "model": "myX2"
     },
     {
       "manufacturer": "",

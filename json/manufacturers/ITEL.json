@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A22",
+      "codename": "itel-A22",
+      "model": "itel A22"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A31 Plus",
       "codename": "itel-A31Plus",
       "model": "itel A31Plus"
@@ -87,6 +93,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A62",
+      "codename": "itel-A62",
+      "model": "itel A62"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F311",
+      "codename": "Spice-F311",
+      "model": "Spice F311"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P11",
       "codename": "itel_P11",
       "model": "itel P11"
@@ -96,6 +114,12 @@
       "market_name": "P12",
       "codename": "itel_P12",
       "model": "itel P12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13",
+      "codename": "itel-P13",
+      "model": "itel P13"
     },
     {
       "manufacturer": "",
@@ -138,6 +162,12 @@
       "market_name": "S11 Plus",
       "codename": "S11Plus",
       "model": "itel S11Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S11 Pro",
+      "codename": "itel-S11-Pro",
+      "model": "itel S11 Pro"
     },
     {
       "manufacturer": "",
@@ -414,6 +444,12 @@
       "market_name": "itel A45",
       "codename": "itel-A45",
       "model": "itel A45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A52",
+      "codename": "itel-A52",
+      "model": "itel A52"
     },
     {
       "manufacturer": "",

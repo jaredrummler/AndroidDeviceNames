@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ADVAN G2 plus",
+      "codename": "ADVAN_5701",
+      "model": "5701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ADVAN S50 4G",
+      "codename": "ADVAN_i5G",
+      "model": "i5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E1C",
       "codename": "ADVAN_E1C_3G",
       "model": "E1C_3G"
@@ -210,6 +222,12 @@
       "market_name": "i5D",
       "codename": "ADVAN_i5D",
       "model": "i5D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i6A",
+      "codename": "ADVAN_5501",
+      "model": "5501"
     },
     {
       "manufacturer": "",

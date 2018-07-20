@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M5",
+      "codename": "M5",
+      "model": "M5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M5i",
+      "codename": "M5i",
+      "model": "M5i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Magic 13",
       "codename": "Magic_13",
       "model": "Magic 13"
@@ -60,6 +72,12 @@
       "market_name": "Symbol M1",
       "codename": "Symbol_M1",
       "model": "Symbol M1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Symbol X",
+      "codename": "Symbol_X",
+      "model": "Symbol X"
     }
   ]
 }

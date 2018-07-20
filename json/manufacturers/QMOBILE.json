@@ -279,6 +279,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Q Infinity Cinema",
+      "codename": "Q_Infinity_Cinema",
+      "model": "QMobile_Q_Infinity_Cinema"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q Infinity D",
       "codename": "Q_Infinity_D",
       "model": "QMobile Q Infinity D"
@@ -294,6 +300,12 @@
       "market_name": "Q Infinity E Lite",
       "codename": "Q_Infinity_E_Lite",
       "model": "QMobile Q Infinity E Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q Infinity Prime",
+      "codename": "Q_Infinity_Prime",
+      "model": "QMobile Q Infinity Prime"
     },
     {
       "manufacturer": "",
@@ -468,6 +480,12 @@
       "market_name": "X75",
       "codename": "WBW5613QM",
       "model": "X75"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XLi",
+      "codename": "QMobile_XLi",
+      "model": "QMobile XLi"
     },
     {
       "manufacturer": "",

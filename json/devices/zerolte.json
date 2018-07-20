@@ -3,12 +3,6 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy S6 Edge",
     "codename": "zerolte",
-    "model": "SM-G925F"
-  },
-  {
-    "manufacturer": "Samsung",
-    "market_name": "Galaxy S6 Edge",
-    "codename": "zerolte",
     "model": "SM-G925I"
   },
   {
@@ -16,5 +10,11 @@
     "market_name": "Galaxy S6 Edge",
     "codename": "zerolte",
     "model": "SM-G925X"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S6 edge",
+    "codename": "zerolte",
+    "model": "SM-G925F"
   }
 ]
