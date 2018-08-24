@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F3Prime",
+      "codename": "F3Prime",
+      "model": "F3Prime"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEAM_7_3G",
       "codename": "TEAM_7_3G",
       "model": "TEAM_7_3G"

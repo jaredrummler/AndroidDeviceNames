@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor X",
+      "codename": "Armor_X",
+      "model": "Armor_X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MIX",
       "codename": "t816_gq_ulefone",
       "model": "MIX"
@@ -48,6 +54,12 @@
       "market_name": "Power 3S",
       "codename": "Power_3S",
       "model": "Power 3S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 5",
+      "codename": "Power_5",
+      "model": "Power_5"
     },
     {
       "manufacturer": "",
@@ -96,6 +108,12 @@
       "market_name": "T1",
       "codename": "Ulefone_T1",
       "model": "T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ulefone_X",
+      "codename": "Ulefone_X",
+      "model": "Ulefone_X"
     }
   ]
 }

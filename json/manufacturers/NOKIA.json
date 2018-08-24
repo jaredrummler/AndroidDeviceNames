@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 2.1",
+      "codename": "E2M",
+      "model": "Nokia 2.1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 3",
       "codename": "NE1",
       "model": "TA-1020"
@@ -58,12 +64,6 @@
     {
       "manufacturer": "",
       "market_name": "Nokia 5",
-      "codename": "CO2N_sprout",
-      "model": "Nokia 5.1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Nokia 5",
       "codename": "ND1",
       "model": "TA-1024"
     },
@@ -88,8 +88,20 @@
     {
       "manufacturer": "",
       "market_name": "Nokia 5.1",
+      "codename": "CO2N_sprout",
+      "model": "Nokia 5.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 5.1",
       "codename": "CO2_sprout",
       "model": "Nokia 5.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 5.1 Plus",
+      "codename": "PDA_sprout",
+      "model": "Nokia 5.1 Plus"
     },
     {
       "manufacturer": "",
@@ -135,12 +147,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Nokia 6 Plus",
-      "codename": "DRG_sprout",
-      "model": "Nokia 6.1 Plus"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Nokia 6.1",
       "codename": "PL2",
       "model": "Nokia 6.1"
@@ -150,6 +156,12 @@
       "market_name": "Nokia 6.1",
       "codename": "PL2_sprout",
       "model": "Nokia 6.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 6.1 Plus",
+      "codename": "DRG_sprout",
+      "model": "Nokia 6.1 Plus"
     },
     {
       "manufacturer": "",
@@ -198,6 +210,12 @@
       "market_name": "Nokia 8 Sirocco",
       "codename": "A1N_sprout",
       "model": "Nokia 8 Sirocco"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia X5",
+      "codename": "PDA",
+      "model": "Nokia X5"
     },
     {
       "manufacturer": "",

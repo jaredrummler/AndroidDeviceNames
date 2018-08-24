@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IS2PLUS",
+      "codename": "IS2PLUS",
+      "model": "IS2PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IS2S",
       "codename": "IS2S",
       "model": "IS2S"
@@ -54,6 +60,12 @@
       "market_name": "VOX  STEEL Plus",
       "codename": "VOX_STEEL_Plus_V2",
       "model": "VOX STEEL Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VOX POP plus",
+      "codename": "VOX_POP_plus",
+      "model": "VOX POP plus"
     },
     {
       "manufacturer": "",

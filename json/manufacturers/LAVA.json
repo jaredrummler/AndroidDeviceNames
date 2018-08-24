@@ -441,6 +441,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z61",
+      "codename": "Z61",
+      "model": "Z61"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z70",
       "codename": "Z70",
       "model": "Z70"
@@ -555,6 +561,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iris65",
+      "codename": "iris65",
+      "model": "iris65"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iris702",
       "codename": "iris702",
       "model": "iris702"
@@ -570,6 +582,12 @@
       "market_name": "iris870",
       "codename": "iris870",
       "model": "iris870"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iris88_go",
+      "codename": "iris88_go",
+      "model": "iris88_go"
     }
   ]
 }

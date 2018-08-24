@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GHIA_VECTOR_3G",
+      "codename": "GHIA_VECTOR_3G",
+      "model": "GHIA_VECTOR_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GTABPND",
+      "codename": "GTABPND",
+      "model": "GTABPND"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GTKIDS7R",
       "codename": "GTKIDS7R",
       "model": "GTKIDS7R"

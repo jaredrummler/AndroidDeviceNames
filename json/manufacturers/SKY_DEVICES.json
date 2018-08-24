@@ -111,9 +111,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PLATINUM B5",
+      "codename": "Platinum_B5",
+      "model": "Platinum_B5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PLATINUM M4",
       "codename": "Platinum_M4_SV",
       "model": "Platinum M4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Platinum M5",
+      "codename": "Platinum_M5",
+      "model": "Platinum_M5"
     },
     {
       "manufacturer": "",
@@ -132,6 +144,12 @@
       "market_name": "SKY 55M",
       "codename": "SKY_55M",
       "model": "SKY 55M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SKY VISION1",
+      "codename": "SKYVISION",
+      "model": "SKYVISION"
     },
     {
       "manufacturer": "",

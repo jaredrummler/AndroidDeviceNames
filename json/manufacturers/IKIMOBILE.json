@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GO4.5S",
+      "codename": "GO4_5S",
+      "model": "GO4.5S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KF45",
       "codename": "KF45",
       "model": "KF45"

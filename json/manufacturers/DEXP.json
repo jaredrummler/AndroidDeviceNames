@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BS650",
+      "codename": "BS650",
+      "model": "BS650"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DEXP B145",
       "codename": "B145",
       "model": "B145"
@@ -165,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G255",
+      "codename": "G255",
+      "model": "G255"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GL255",
       "codename": "GL255",
       "model": "GL255"
@@ -270,6 +282,12 @@
       "market_name": "Z255",
       "codename": "Z255",
       "model": "Z255"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z355",
+      "codename": "Z355",
+      "model": "Z355"
     },
     {
       "manufacturer": "",

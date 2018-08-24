@@ -147,6 +147,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MI  8  Explorer  Edition",
+      "codename": "ursa",
+      "model": "MI 8 Explorer Edition"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MI 2",
       "codename": "aries",
       "model": "MI 2"
@@ -264,6 +270,12 @@
       "market_name": "MI MAX 2",
       "codename": "oxygen",
       "model": "MI MAX 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI MAX 3",
+      "codename": "nitrogen",
+      "model": "MI MAX 3"
     },
     {
       "manufacturer": "",
@@ -420,6 +432,18 @@
       "market_name": "Mi A1",
       "codename": "tissot_sprout",
       "model": "Mi A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi A2",
+      "codename": "jasmine_sprout",
+      "model": "Mi A2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi A2 Lite",
+      "codename": "daisy_sprout",
+      "model": "Mi A2 Lite"
     },
     {
       "manufacturer": "",

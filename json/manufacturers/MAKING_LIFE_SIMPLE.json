@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MLS_iQT800",
+      "codename": "iQT800",
+      "model": "iQT800"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Stage",
       "codename": "iQM1001",
       "model": "iQM1001"
@@ -96,12 +102,6 @@
       "market_name": "iQS300",
       "codename": "iQS300",
       "model": "iQS300"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "iQT800",
-      "codename": "iQT800",
-      "model": "iQT800"
     },
     {
       "manufacturer": "",

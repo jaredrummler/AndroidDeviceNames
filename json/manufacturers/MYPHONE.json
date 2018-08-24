@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fun 6 Lite",
+      "codename": "Fun6Lite",
+      "model": "myPhone_Fun6Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fusion5_F803B",
       "codename": "Fusion5_F803B",
       "model": "Fusion5_F803B"
@@ -114,6 +120,12 @@
       "market_name": "Prime 18x9",
       "codename": "Prime_18x9",
       "model": "Prime_18x9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Prime 18x9 LTE",
+      "codename": "Prime_18x9_LTE",
+      "model": "Prime_18x9_LTE"
     },
     {
       "manufacturer": "",
@@ -291,6 +303,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "myA12",
+      "codename": "myA12",
+      "model": "myA12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "myA13",
       "codename": "MYA13",
       "model": "MYA13"
@@ -366,6 +384,12 @@
       "market_name": "myX2",
       "codename": "myX2",
       "model": "myX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myX3",
+      "codename": "MYX3",
+      "model": "MYX3"
     },
     {
       "manufacturer": "",

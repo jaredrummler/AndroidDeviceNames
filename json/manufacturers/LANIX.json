@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ilium Alpha 9",
+      "codename": "Ilium_Alpha_9",
+      "model": "Ilium Alpha 9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ilium L1050",
       "codename": "Ilium_L1050",
       "model": "Ilium L1050"
@@ -255,6 +261,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ilium X120C",
+      "codename": "X120C",
+      "model": "X120C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ilium X200",
       "codename": "Ilium_X200",
       "model": "Ilium X200"
@@ -303,6 +315,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ilium_Alpha7",
+      "codename": "Ilium_Alpha7",
+      "model": "Ilium Alpha 7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ilium_L1100",
       "codename": "Ilium_L1100",
       "model": "ILIUM L1100"
@@ -345,9 +363,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X230",
+      "codename": "X230",
+      "model": "X230"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X400",
       "codename": "Ilium_X400",
       "model": "ILIUM X400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X530",
+      "codename": "X530",
+      "model": "X530"
     },
     {
       "manufacturer": "",

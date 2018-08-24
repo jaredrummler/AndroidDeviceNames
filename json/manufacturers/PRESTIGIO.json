@@ -207,6 +207,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT1177_ 4G",
+      "codename": "LS70A6L",
+      "model": "PMT1177_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT1177_3G",
+      "codename": "LS70A5G",
+      "model": "PMT1177_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT3008_Wi",
       "codename": "PMT3008_Wi_C",
       "model": "PMT3008_Wi_C"
@@ -273,6 +285,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT3151_3G",
+      "codename": "WT10A1G",
+      "model": "PMT3151_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT3157_3G",
       "codename": "LS70A5G",
       "model": "PMT3157_3G"
@@ -282,6 +300,18 @@
       "market_name": "PMT3157_4G",
       "codename": "LS70A6L",
       "model": "PMT3157_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3161_3G",
+      "codename": "WT10A1G",
+      "model": "PMT3161_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3171_3G",
+      "codename": "WT10A1G",
+      "model": "PMT3171_3G"
     },
     {
       "manufacturer": "",
@@ -327,6 +357,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT3317_3G",
+      "codename": "LS70A5G",
+      "model": "PMT3317_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3327_3G",
+      "codename": "LS70A5G",
+      "model": "PMT3327_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT3351_3G",
       "codename": "PN10A01G",
       "model": "PMT3351_3G"
@@ -339,15 +381,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT3427_3G",
+      "codename": "LS70A5G",
+      "model": "PMT3427_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT3437_3G",
       "codename": "JP70A1W",
       "model": "PMT3437_3G"
     },
     {
       "manufacturer": "",
+      "market_name": "PMT3437_4G",
+      "codename": "LS70A6L",
+      "model": "PMT3437_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT3507_4G",
       "codename": "WT70A1L",
       "model": "PMT3507_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3537_4G",
+      "codename": "LS70A6L",
+      "model": "PMT3537_4G"
     },
     {
       "manufacturer": "",
@@ -360,6 +420,12 @@
       "market_name": "PMT3608_4G",
       "codename": "LS80A1L",
       "model": "PMT3608_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3637_4G",
+      "codename": "LS70A6L",
+      "model": "PMT3637_4G"
     },
     {
       "manufacturer": "",

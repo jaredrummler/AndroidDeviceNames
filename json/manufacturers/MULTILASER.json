@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MS40G",
+      "codename": "ML-TI-MS40G",
+      "model": "MS40G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS40S",
       "codename": "MS40S",
       "model": "MS40S"
@@ -165,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MS50G",
+      "codename": "ML-TI-MS50G",
+      "model": "MS50G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS50L",
       "codename": "MS50L",
       "model": "MS50L"
@@ -186,6 +198,12 @@
       "market_name": "MS50S",
       "codename": "MS50S",
       "model": "MS50S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS50X",
+      "codename": "ML-TI-MS50X",
+      "model": "MS50X"
     },
     {
       "manufacturer": "",

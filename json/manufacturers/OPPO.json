@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A3",
+      "codename": "PBAM00",
+      "model": "PBAM00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A31",
       "codename": "A31t",
       "model": "A31"
@@ -615,6 +621,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CPH1803RU",
+      "codename": "CPH1803",
+      "model": "CPH1803"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CPH1807",
       "codename": "CPH1807",
       "model": "CPH1807"
@@ -645,6 +657,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CPH1833",
+      "codename": "CPH1833",
+      "model": "CPH1833"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CPH1835",
       "codename": "CPH1835",
       "model": "CPH1835"
@@ -657,6 +675,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CPH1851",
+      "codename": "CPH1851",
+      "model": "CPH1851"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CPH1859",
       "codename": "CPH1859",
       "model": "CPH1859"
@@ -666,6 +690,12 @@
       "market_name": "CPH1861",
       "codename": "CPH1861",
       "model": "CPH1861"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH1871",
+      "codename": "CPH1871",
+      "model": "CPH1871"
     },
     {
       "manufacturer": "",
@@ -822,6 +852,30 @@
       "market_name": "PADT00",
       "codename": "PADT00",
       "model": "PADT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PAFM00",
+      "codename": "PAFM00",
+      "model": "PAFM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PAFT00",
+      "codename": "PAFT00",
+      "model": "PAFT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PAHM00",
+      "codename": "PAHM00",
+      "model": "PAHM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBAT00",
+      "codename": "PBAT00",
+      "model": "PBAT00"
     },
     {
       "manufacturer": "",

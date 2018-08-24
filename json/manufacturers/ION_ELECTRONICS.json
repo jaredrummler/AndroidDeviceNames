@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Gravity",
+      "codename": "Gravity",
+      "model": "Gravity"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kids",
       "codename": "Kids",
       "model": "Kids"

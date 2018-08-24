@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "One_Mundial",
+      "codename": "One_Mundial",
+      "model": "One_Mundial"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PROTON_JADE_2_PRO",
       "codename": "PROTON_JADE_2_PRO",
       "model": "PROTON_JADE_2_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SAPPHIRE_HDLT",
+      "codename": "SAPPHIRE_HDLT",
+      "model": "SAPPHIRE_HDLT"
     }
   ]
 }

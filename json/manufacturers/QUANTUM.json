@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Quantum M",
+      "codename": "QM83",
+      "model": "Quantum M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sky",
       "codename": "QX1",
       "model": "Sky"
@@ -120,6 +126,12 @@
       "market_name": "You",
       "codename": "Q17",
       "model": "You"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "You 2",
+      "codename": "QE83",
+      "model": "Quantum You 2"
     },
     {
       "manufacturer": "",

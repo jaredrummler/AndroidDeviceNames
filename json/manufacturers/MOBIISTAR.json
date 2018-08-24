@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C1 Lite",
+      "codename": "C1_Lite",
+      "model": "C1 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LAI YUNA 1",
       "codename": "LAI_YUNA_1",
       "model": "mobiistar LAI YUNA 1"
@@ -117,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "mobiistar C2",
+      "codename": "mobiistar_C2",
+      "model": "mobiistar C2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "mobiistar E Selfie",
       "codename": "mobiistar_E_Selfie",
       "model": "mobiistar E Selfie"
@@ -132,6 +144,12 @@
       "market_name": "mobiistar E1 Selfie",
       "codename": "E1_Selfie",
       "model": "E1 Selfie"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "mobiistar X",
+      "codename": "mobiistar_X",
+      "model": "mobiistar X"
     }
   ]
 }

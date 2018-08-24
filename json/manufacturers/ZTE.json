@@ -1791,6 +1791,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLADE A530",
+      "codename": "P639F10L",
+      "model": "BLADE A530"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLADE A6",
       "codename": "P840F13",
       "model": "BLADE A6"
@@ -1935,6 +1941,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLADE L7A",
+      "codename": "P731F12",
+      "model": "BLADE L7A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLADE V0710",
       "codename": "ZTE_BLADE_V0710",
       "model": "ZTE BLADE V0710"
@@ -2034,6 +2046,18 @@
       "market_name": "BLADE V8Q",
       "codename": "P817F01",
       "model": "BLADE V8Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLADE V9",
+      "codename": "P450L10",
+      "model": "BLADE V9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BLADE V9 VITA",
+      "codename": "P840F03",
+      "model": "BLADE V9 VITA"
     },
     {
       "manufacturer": "",
@@ -3078,6 +3102,12 @@
       "market_name": "Blade X Max",
       "codename": "stollen",
       "model": "Z983"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blade X2 Max",
+      "codename": "Z6400",
+      "model": "Z6400C"
     },
     {
       "manufacturer": "",
@@ -4239,6 +4269,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N9137",
+      "codename": "msm8909go",
+      "model": "N9137"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N9180",
       "codename": "N9180",
       "model": "N9180"
@@ -4668,6 +4704,12 @@
       "market_name": "NX601J",
       "codename": "NX601J",
       "model": "NX601J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NX612J",
+      "codename": "NX612J",
+      "model": "NX612J"
     },
     {
       "manufacturer": "",
@@ -6801,6 +6843,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VFD 520",
+      "codename": "VFD520",
+      "model": "VFD 520"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VFD 820",
+      "codename": "VFD820",
+      "model": "VFD 820"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vesta",
       "codename": "proline",
       "model": "Z965"
@@ -7131,6 +7185,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z839V",
+      "codename": "sweet",
+      "model": "Z839V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z850",
       "codename": "sif",
       "model": "Z850"
@@ -7353,6 +7413,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE A2017G",
+      "codename": "ailsa_ii",
+      "model": "ZTE A2017G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE A2018",
       "codename": "candice",
       "model": "ZTE A2018"
@@ -7365,6 +7431,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE A530",
+      "codename": "P639T10",
+      "model": "ZTE A530"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE A606",
+      "codename": "P639S10",
+      "model": "ZTE A606"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE AVID 4",
       "codename": "calbee",
       "model": "Z855"
@@ -7374,6 +7452,12 @@
       "market_name": "ZTE BLADE A0605",
       "codename": "P809F15",
       "model": "ZTE BLADE A0605"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE BLADE A0605",
+      "codename": "P809F15",
+      "model": "ZTE BLADE A6 MAX"
     },
     {
       "manufacturer": "",
@@ -7437,9 +7521,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE BLADE A530",
+      "codename": "P639F10",
+      "model": "ZTE BLADE A530"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE BLADE A6",
       "codename": "P840F13",
       "model": "ZTE BLADE A6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE BLADE A6 MAX",
+      "codename": "P809F15",
+      "model": "ZTE BLADE A6 MAX"
     },
     {
       "manufacturer": "",
@@ -7491,6 +7587,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE BLADE L7A",
+      "codename": "P731F12",
+      "model": "ZTE BLADE L7A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE BLADE L8",
+      "codename": "P731F12",
+      "model": "ZTE BLADE L8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE BLADE V0710",
       "codename": "ZTE_BLADE_V0710",
       "model": "ZTE BLADE V0710"
@@ -7527,21 +7635,27 @@
     },
     {
       "manufacturer": "",
-      "market_name": "ZTE BLADE V0900",
-      "codename": "P450F10",
-      "model": "ZTE BLADE V0900"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "ZTE BLADE V0900",
-      "codename": "P450F10",
-      "model": "ZTE BLADE V9"
+      "market_name": "ZTE BLADE V0920",
+      "codename": "P840F03",
+      "model": "ZTE BLADE V0920"
     },
     {
       "manufacturer": "",
       "market_name": "ZTE BLADE V7 PLUS",
       "codename": "P653A11",
       "model": "ZTE BLADE V7 PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE BLADE V9",
+      "codename": "P450F10",
+      "model": "ZTE BLADE V0900"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE BLADE V9",
+      "codename": "P450F10",
+      "model": "ZTE BLADE V9"
     },
     {
       "manufacturer": "",
@@ -7587,6 +7701,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade V9",
+      "codename": "P450S10",
+      "model": "ZTE V0900"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE C2017",
       "codename": "alice",
       "model": "ZTE C2017"
@@ -7614,6 +7734,18 @@
       "market_name": "ZTE V0840",
       "codename": "P817S01",
       "model": "ZTE V0840"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE V0920",
+      "codename": "P840S03",
+      "model": "ZTE V0920"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE V890",
+      "codename": "sdm660_64",
+      "model": "ZTE V890"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C_Note",
+      "codename": "C_Note",
+      "model": "C_Note"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Future",
       "codename": "Future",
       "model": "Future"
@@ -24,6 +30,12 @@
       "market_name": "STAR_MIX",
       "codename": "STAR_MIX",
       "model": "STAR_MIX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Safari",
+      "codename": "Safari",
+      "model": "Safari"
     },
     {
       "manufacturer": "",

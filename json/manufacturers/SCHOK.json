@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "FreedomTurboXL",
+      "codename": "SFT57216",
+      "model": "FreedomTurboXL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "freedom turbo",
       "codename": "SFT5216",
       "model": "freedom turbo"

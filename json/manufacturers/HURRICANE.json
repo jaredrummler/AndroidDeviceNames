@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fuel",
+      "codename": "Fuel",
+      "model": "Fuel"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fuse",
       "codename": "Fuse",
       "model": "Fuse"
@@ -168,6 +174,12 @@
       "market_name": "SWIRL",
       "codename": "Swirl",
       "model": "Swirl"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Splash",
+      "codename": "Splash",
+      "model": "Splash"
     },
     {
       "manufacturer": "",

@@ -285,6 +285,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELUGA X1",
+      "codename": "ELUGA_X1",
+      "model": "ELUGA X1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELUGA dL1",
       "codename": "pana2_4v",
       "model": "Panasonic_dL1"
@@ -563,6 +569,12 @@
       "manufacturer": "",
       "market_name": "FZ-N1",
       "codename": "FZ-N1CL",
+      "model": "FZ-N1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-N1",
+      "codename": "FZ-N1EVU",
       "model": "FZ-N1"
     },
     {

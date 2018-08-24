@@ -51,9 +51,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BV5800",
+      "codename": "BV5800",
+      "model": "BV5800"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BV5800PRO",
       "codename": "BV5800_PRO",
       "model": "BV5800 PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV5800PRO_RU",
+      "codename": "BV5800Pro_RU",
+      "model": "BV5800Pro_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV5800_RU",
+      "codename": "BV5800_RU",
+      "model": "BV5800_RU"
     },
     {
       "manufacturer": "",
@@ -165,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blackview A20 Pro",
+      "codename": "A20Pro",
+      "model": "A20Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blackview BV4000",
       "codename": "BV4000",
       "model": "BV4000"
@@ -198,6 +222,12 @@
       "market_name": "P10000 Pro",
       "codename": "P10000_Pro",
       "model": "P10000 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10000 Pro",
+      "codename": "P10000_Pro",
+      "model": "P10000_Pro"
     },
     {
       "manufacturer": "",

@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "JOY7_Mate",
+      "codename": "JOY7_Mate",
+      "model": "X_TIGI_JOY7_Mate"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JOY7_TV",
       "codename": "JOY7_TV",
       "model": "X_TIGI_JOY7_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V18",
+      "codename": "X_TIGI_V18",
+      "model": "X_TIGI_V18"
     },
     {
       "manufacturer": "",

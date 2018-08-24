@@ -111,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V9 6GB",
+      "codename": "1723CF",
+      "model": "vivo 1723"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X5",
       "codename": "X5",
       "model": "vivo X5"
@@ -513,6 +519,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "vivo 1803",
+      "codename": "1803",
+      "model": "vivo 1803"
+    },
+    {
+      "manufacturer": "",
       "market_name": "vivo 1805",
       "codename": "1805",
       "model": "vivo 1805"
@@ -648,6 +660,18 @@
       "market_name": "vivo Y83A",
       "codename": "PD1803",
       "model": "vivo Y83A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo Z1i",
+      "codename": "PD1730D",
+      "model": "vivo Y89"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo Z1i",
+      "codename": "PD1730D",
+      "model": "vivo Z1i"
     }
   ]
 }

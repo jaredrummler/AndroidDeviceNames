@@ -1125,6 +1125,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Moto E3",
+      "codename": "taidos_row",
+      "model": "XT1700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Moto E3 Power",
+      "codename": "taido_row",
+      "model": "XT1706"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Moto E4",
       "codename": "perry_f",
       "model": "Moto E (4)"
@@ -1773,6 +1785,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Moto Z(3)",
+      "codename": "messi",
+      "model": "Moto Z (2)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Moto Z(3)",
+      "codename": "messi",
+      "model": "XT1929-15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Moto Z(3)",
+      "codename": "messi",
+      "model": "moto z3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Motoluxe",
       "codename": "XT611",
       "model": "XT611"
@@ -2085,6 +2115,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto P30 NOTE",
+      "codename": "chef",
+      "model": "XT1942-1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto e(5) cruise",
       "codename": "james",
       "model": "moto e5 cruise"
@@ -2116,6 +2152,24 @@
     {
       "manufacturer": "",
       "market_name": "moto e5 play",
+      "codename": "james",
+      "model": "moto e5 play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e5 play",
+      "codename": "pettyl",
+      "model": "Moto E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e5 play",
+      "codename": "pettyl",
+      "model": "moto e5 play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e5 play",
       "codename": "rjames_f",
       "model": "Moto E"
     },
@@ -2130,6 +2184,12 @@
       "market_name": "moto e5 plus",
       "codename": "ahannah",
       "model": "Moto E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e5 plus",
+      "codename": "ahannah",
+      "model": "XT1924-9"
     },
     {
       "manufacturer": "",

@@ -15,6 +15,12 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 1",
     "codename": "U3A_PLUS_4G",
+    "model": "5033D_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "U3A_PLUS_4G",
     "model": "5033J"
   },
   {
@@ -46,5 +52,11 @@
     "market_name": "Alcatel 1",
     "codename": "U3A_PLUS_4G",
     "model": "Alcatel T 5033T"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "TCL L5",
+    "codename": "U3A_PLUS_4G",
+    "model": "5133A"
   }
 ]

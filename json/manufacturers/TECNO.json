@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CAMON iSky2",
+      "codename": "TECNO-IN1-Pro",
+      "model": "TECNO IN1 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "COMAN CM",
       "codename": "TECNO-CA6",
       "model": "TECNO CA6S"
@@ -197,6 +203,12 @@
       "manufacturer": "",
       "market_name": "F1",
       "codename": "TECNO-F1",
+      "model": "TECNO F1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F1",
+      "codename": "TECNO-F1-PRO",
       "model": "TECNO F1"
     },
     {
@@ -405,6 +417,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POP 1s Pro",
+      "codename": "TECNO-F4Pro",
+      "model": "TECNO F4 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POP1",
       "codename": "TECNO-F3",
       "model": "TECNO F3"
@@ -576,6 +594,12 @@
       "market_name": "SPARK 2",
       "codename": "TECNO-KA7-GO",
       "model": "TECNO KA7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SPARK 2",
+      "codename": "TECNO-KA7-O",
+      "model": "TECNO KA7O"
     },
     {
       "manufacturer": "",

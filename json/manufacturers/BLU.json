@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C6",
+      "codename": "C031P",
+      "model": "C6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DASH L2",
       "codename": "BLU_DASH_L2",
       "model": "BLU DASH L2"
@@ -687,6 +693,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Studio G4",
+      "codename": "S870Q",
+      "model": "Studio G4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Studio J1",
       "codename": "Studio_J1",
       "model": "Advance A4"
@@ -762,6 +774,12 @@
       "market_name": "Studio Selfie LTE",
       "codename": "BLU_STUDIO_SELFIE_LTE",
       "model": "BLU STUDIO SELFIE LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Studio View",
+      "codename": "S810",
+      "model": "Studio View"
     },
     {
       "manufacturer": "",
@@ -888,6 +906,12 @@
       "market_name": "Vivo X WW",
       "codename": "V0230WW",
       "model": "Vivo X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo XI",
+      "codename": "V0330WW",
+      "model": "Vivo XI"
     },
     {
       "manufacturer": "",

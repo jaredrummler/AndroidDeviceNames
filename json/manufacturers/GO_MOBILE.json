@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GO Onyx mini",
+      "codename": "GO_Onyx_mini",
+      "model": "GO Onyx mini"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GO1004",
       "codename": "GO1004",
       "model": "GO1004"
@@ -24,6 +30,12 @@
       "market_name": "GO1402S",
       "codename": "GO1402S",
       "model": "GO1402S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GO1452",
+      "codename": "GO1452",
+      "model": "GO1452"
     }
   ]
 }

@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Destiny",
+      "codename": "Destiny",
+      "model": "Destiny"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Luna",
       "codename": "Luna",
       "model": "Luna"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Onyx",
+      "codename": "Onyx",
+      "model": "Onyx"
     },
     {
       "manufacturer": "",
@@ -42,6 +54,12 @@
       "market_name": "Ultra",
       "codename": "Ultra",
       "model": "Ultra"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V",
+      "codename": "V",
+      "model": "V"
     },
     {
       "manufacturer": "",

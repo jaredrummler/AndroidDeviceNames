@@ -141,6 +141,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CN80",
+      "codename": "CN80-L0-C",
+      "model": "CN80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CN80",
+      "codename": "CN80-L0-N",
+      "model": "CN80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CN80",
+      "codename": "CN80-L1-C",
+      "model": "CN80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CN80",
+      "codename": "CN80-L1-N",
+      "model": "CN80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT40",
+      "codename": "CT40-L0-C",
+      "model": "CT40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT40",
+      "codename": "CT40-L1-C",
+      "model": "CT40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CT50",
       "codename": "CT50L0N-CS12S",
       "model": "CT50"

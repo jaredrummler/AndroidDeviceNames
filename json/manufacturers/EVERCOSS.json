@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S57",
+      "codename": "S57",
+      "model": "S57"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U50",
       "codename": "U50",
       "model": "U50"
@@ -174,6 +180,12 @@
       "market_name": "U6",
       "codename": "EVERCOSS_U6",
       "model": "U6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U6 PRIME",
+      "codename": "EVERCOSS_U6_PRIME",
+      "model": "U6 PRIME"
     },
     {
       "manufacturer": "",
