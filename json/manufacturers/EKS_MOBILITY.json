@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "S45U",
+      "codename": "S45U",
+      "model": "EKS S45U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5LS",
+      "codename": "S5LS",
+      "model": "S5LS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5US",
+      "codename": "S5US",
+      "model": "S5US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X4U+",
       "codename": "X4UPlus",
       "model": "X4UPlus"

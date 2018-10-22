@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "One",
+      "codename": "One",
+      "model": "One"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "One Pro",
+      "codename": "One_Pro",
+      "model": "One Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S2PRO",
       "codename": "S2_PRO",
       "model": "S2_PRO"
@@ -12,6 +24,12 @@
       "market_name": "Z2",
       "codename": "Z2",
       "model": "Z2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z2 Pro",
+      "codename": "Z2_PRO",
+      "model": "Z2_PRO"
     }
   ]
 }

@@ -51,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V1732A",
+      "codename": "PD1732",
+      "model": "V1732A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1809A",
+      "codename": "PD1809",
+      "model": "V1809A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V1Max",
       "codename": "Y37",
       "model": "vivo Y37"
@@ -423,9 +435,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y97",
+      "codename": "PD1813",
+      "model": "V1813A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z1",
       "codename": "PD1730C",
       "model": "vivo Z1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z3i",
+      "codename": "PD1813C",
+      "model": "V1813A"
     },
     {
       "manufacturer": "",
@@ -528,6 +552,12 @@
       "market_name": "vivo 1805",
       "codename": "1805",
       "model": "vivo 1805"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1806",
+      "codename": "1806",
+      "model": "vivo 1806"
     },
     {
       "manufacturer": "",

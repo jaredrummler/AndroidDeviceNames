@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "TCL",
+    "market_name": "TCL L5",
+    "codename": "U3A_PLUS_4G",
+    "model": "5133A"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 1",
     "codename": "U3A_PLUS_4G",
@@ -55,8 +61,8 @@
   },
   {
     "manufacturer": "TCT (Alcatel)",
-    "market_name": "TCL L5",
+    "market_name": "Alcatel 1",
     "codename": "U3A_PLUS_4G",
-    "model": "5133A"
+    "model": "Optus X Start"
   }
 ]

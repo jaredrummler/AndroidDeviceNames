@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CloudFone Excite Prime 2",
+      "codename": "Excite_Prime_2",
+      "model": "Excite Prime 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CloudFone Next Infinity Plus",
       "codename": "Next_Infinity_Plus",
       "model": "Next Infinity Plus"
@@ -81,6 +87,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Go Connect Lite 2",
+      "codename": "Go_Connect_Lite_2",
+      "model": "Go Connect Lite 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Go SP 2",
+      "codename": "Go_SP_2",
+      "model": "Go SP 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Next Infinity",
       "codename": "Next_Infinity",
       "model": "Next Infinity"
@@ -120,6 +138,12 @@
       "market_name": "Thrill View",
       "codename": "Thrill_View",
       "model": "Thrill View"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ThrillBoost2Plus",
+      "codename": "ThrillBoost2Plus",
+      "model": "Thrill Boost 2 Plus"
     }
   ]
 }

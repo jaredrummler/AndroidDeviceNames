@@ -1,14 +1,32 @@
 [
   {
-    "manufacturer": "Thomson",
-    "market_name": "TCL  Percee TV",
+    "manufacturer": "TCL",
+    "market_name": "Percee TV",
+    "codename": "tcl_eu",
+    "model": "BPL TV"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "Percee TV",
+    "codename": "tcl_eu",
+    "model": "MICROMAX TV"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "Percee TV",
     "codename": "tcl_eu",
     "model": "PANASONIC TV"
   },
   {
-    "manufacturer": "Thomson",
-    "market_name": "TCL  Percee TV",
+    "manufacturer": "TCL",
+    "market_name": "Percee TV",
     "codename": "tcl_eu",
     "model": "Percee TV"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "Percee TV",
+    "codename": "tcl_eu",
+    "model": "SANYO TV"
   }
 ]

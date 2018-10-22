@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Cobalt",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "SM5",
+      "codename": "Cobalt_SM_5",
+      "model": "Cobalt_SM_5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SM55",
+      "codename": "Cobalt_SM_55",
+      "model": "Cobalt_SM_55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SM6",
+      "codename": "Cobalt_SM_6",
+      "model": "Cobalt_SM_6"
+    }
+  ]
+}

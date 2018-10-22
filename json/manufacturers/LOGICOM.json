@@ -321,6 +321,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LA_TAB_LINK71",
+      "codename": "LA_TAB_LINK71",
+      "model": "LOGICOM_LA_TAB_LINK_71"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LEMENT TAB 740",
       "codename": "LEMENTTAB740",
       "model": "L-EMENT 740"
@@ -351,9 +357,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "La Tab 105",
+      "codename": "La_Tab_105",
+      "model": "La Tab 105"
+    },
+    {
+      "manufacturer": "",
       "market_name": "La Tab 106",
       "codename": "LaTab106",
       "model": "La Tab 106"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "La Tab 107 HD",
+      "codename": "La_Tab_107",
+      "model": "La Tab 107"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "La Tab 72",
+      "codename": "La_Tab_72",
+      "model": "La Tab 72"
     },
     {
       "manufacturer": "",
@@ -363,15 +387,51 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LaTab109HD",
+      "codename": "LaTab109HD",
+      "model": "La Tab 109 HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le HELLO",
+      "codename": "Le_Hello",
+      "model": "Le_Hello"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le Hop",
+      "codename": "Logicom_LeHop",
+      "model": "Le Hop"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Le Lift",
       "codename": "LeLift",
       "model": "Le Lift"
     },
     {
       "manufacturer": "",
+      "market_name": "Le Must",
+      "codename": "LeMust",
+      "model": "Le Must"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le Smooth",
+      "codename": "Le_Smooth",
+      "model": "Le Smooth"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Le Starter L",
       "codename": "Le_Starter_L",
       "model": "Le Starter L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Le UP",
+      "codename": "LeUp",
+      "model": "Le Up"
     },
     {
       "manufacturer": "",
@@ -390,6 +450,12 @@
       "market_name": "Logikids 3",
       "codename": "Logikids_3",
       "model": "Logikids_3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Logikids 4",
+      "codename": "logikids4",
+      "model": "logikids4"
     },
     {
       "manufacturer": "",
@@ -534,6 +600,12 @@
       "market_name": "Volt-R",
       "codename": "Volt-R",
       "model": "Volt-R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "le Moov",
+      "codename": "LeMoov",
+      "model": "LeMoov"
     }
   ]
 }

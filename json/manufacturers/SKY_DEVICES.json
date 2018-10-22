@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PLATINUM 4.0",
+      "codename": "Platinum_4_0_CD",
+      "model": "Platinum 4.0"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PLATINUM 4.0+",
       "codename": "Platinum_4_0Plus",
       "model": "Platinum_4_0Plus"
@@ -105,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PLATINUM A55",
+      "codename": "Platinum_A55",
+      "model": "Platinum_A55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PLATINUM A57",
       "codename": "Platinum_A57_OP",
       "model": "Platinum A57"
@@ -120,6 +132,12 @@
       "market_name": "PLATINUM M4",
       "codename": "Platinum_M4_SV",
       "model": "Platinum M4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PLATINUM VIEW",
+      "codename": "PLATINUMVIEW",
+      "model": "PLATINUMVIEW"
     },
     {
       "manufacturer": "",

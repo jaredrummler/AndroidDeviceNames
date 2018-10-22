@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "T8408",
+      "codename": "Telemor_T8408",
+      "model": "T8408"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T9501",
       "codename": "T9501",
       "model": "T9501"

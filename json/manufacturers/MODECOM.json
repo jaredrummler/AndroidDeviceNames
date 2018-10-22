@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ECHO LOLLY",
+      "codename": "ECHO_LOLLY",
+      "model": "ECHO LOLLY"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FreeTAB 10.1 Silver",
       "codename": "silver",
       "model": "FreeTAB 10.1 Silver"
@@ -12,6 +18,12 @@
       "market_name": "FreeTAB 8015 IPS X4 LTE",
       "codename": "reverie",
       "model": "FreeTAB 8015 IPS X4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Horizon Lite Plus",
+      "codename": "HORIZON_LITE_PLUS",
+      "model": "HORIZON LITE PLUS"
     },
     {
       "manufacturer": "",

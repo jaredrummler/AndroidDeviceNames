@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Altus 32",
+      "codename": "Altus32",
+      "model": "Altus 32"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Boukenkun-reciever",
       "codename": "VW_RCBKK1",
       "model": "VW_RCBKK1"
@@ -291,6 +297,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELUGA Y",
+      "codename": "ELUGA_Y",
+      "model": "ELUGA_Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELUGA Y Pro",
+      "codename": "ELUGA_Y_Pro",
+      "model": "ELUGA_Y_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELUGA Z1",
+      "codename": "ELUGA_Z1",
+      "model": "ELUGA Z1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELUGA dL1",
       "codename": "pana2_4v",
       "model": "Panasonic_dL1"
@@ -402,6 +426,12 @@
       "market_name": "Elite 18",
       "codename": "Elite18",
       "model": "Elite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite 22",
+      "codename": "elitev3p22",
+      "model": "Elite v3p22"
     },
     {
       "manufacturer": "",
@@ -574,6 +604,12 @@
     {
       "manufacturer": "",
       "market_name": "FZ-N1",
+      "codename": "FZ-N1E",
+      "model": "FZ-N1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-N1",
       "codename": "FZ-N1EVU",
       "model": "FZ-N1"
     },
@@ -621,6 +657,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FZ-N1VU",
+      "codename": "FZ-N1VU",
+      "model": "FZ-N1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-T1",
+      "codename": "FZ-T1VUN",
+      "model": "FZ-T1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FZ-X1",
       "codename": "FZ-X1",
       "model": "FZ-X1"
@@ -642,6 +690,18 @@
       "market_name": "HDPSEB v2",
       "codename": "HDPSEBv2",
       "model": "HD PSEB v2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HDPSEB v3",
+      "codename": "HDPSEBv3",
+      "model": "HD PSEB v3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HDPSEB v4",
+      "codename": "HDPSEBv4",
+      "model": "HD PSEB v4"
     },
     {
       "manufacturer": "",
@@ -831,6 +891,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POE-SMB400-PS1",
+      "codename": "kadoma",
+      "model": "POE-SMB400-PS1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Panasonic P100",
       "codename": "P100",
       "model": "P100"
@@ -888,6 +954,12 @@
       "market_name": "Panasonic T70",
       "codename": "T70",
       "model": "Panasonic T70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RSE1708",
+      "codename": "RSE1708",
+      "model": "RSE1708"
     },
     {
       "manufacturer": "",

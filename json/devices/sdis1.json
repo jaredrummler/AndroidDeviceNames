@@ -12,6 +12,18 @@
     "model": "Audi tablet"
   },
   {
+    "manufacturer": "Audi AG",
+    "market_name": "SDIS1",
+    "codename": "sdis1",
+    "model": "Audi tablet"
+  },
+  {
+    "manufacturer": "Bentley",
+    "market_name": "SDIS1",
+    "codename": "sdis1",
+    "model": "BENTLEY ENTERTAINMENT TABLET"
+  },
+  {
     "manufacturer": "Bentley",
     "market_name": "Tab",
     "codename": "sdis1",
@@ -22,6 +34,12 @@
     "market_name": "SDIS1",
     "codename": "sdis1",
     "model": "Lamborghini tablet"
+  },
+  {
+    "manufacturer": "Porsche",
+    "market_name": "Porsche",
+    "codename": "sdis1",
+    "model": "Porsche Rear Seat Entertainment"
   },
   {
     "manufacturer": "Porsche",

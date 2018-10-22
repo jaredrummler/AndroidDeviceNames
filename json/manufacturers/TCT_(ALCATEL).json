@@ -933,6 +933,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "5059Z",
+      "codename": "U50APLUSTMO",
+      "model": "5059Z"
+    },
+    {
+      "manufacturer": "",
       "market_name": "5065A",
       "codename": "Pop35",
       "model": "5065A"
@@ -3483,6 +3489,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "Optus X Start"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alcatel 1C",
       "codename": "U5A_PLUS_3G",
       "model": "5009A"
@@ -3557,13 +3569,7 @@
       "manufacturer": "",
       "market_name": "Alcatel 1X",
       "codename": "U5A_PLUS_4G",
-      "model": "5159A"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Alcatel 1X",
-      "codename": "U5A_PLUS_4G",
-      "model": "5159J"
+      "model": "HEYOU3"
     },
     {
       "manufacturer": "",
@@ -3675,12 +3681,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Alcatel 3X",
-      "codename": "A3A_PLUS",
-      "model": "5158A"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Alcatel 5",
       "codename": "A5A_INFINI",
       "model": "5086A"
@@ -3689,25 +3689,7 @@
       "manufacturer": "",
       "market_name": "Alcatel 5",
       "codename": "A5A_INFINI",
-      "model": "5086D"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Alcatel 5",
-      "codename": "A5A_INFINI",
       "model": "5086Y"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Alcatel 5",
-      "codename": "A5A_INFINI",
-      "model": "5186A"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Alcatel 5",
-      "codename": "A5A_INFINI",
-      "model": "5186D"
     },
     {
       "manufacturer": "",
@@ -5307,12 +5289,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Rise_54",
-      "codename": "Rise_54",
-      "model": "Orange Rise 54"
-    },
-    {
-      "manufacturer": "",
       "market_name": "S4035_4G",
       "codename": "Pop355",
       "model": "S4035_4G"
@@ -5364,6 +5340,18 @@
       "market_name": "SOUL 4.5",
       "codename": "SOUL45_GSM",
       "model": "5038X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smartphone",
+      "codename": "A5A_INFINI",
+      "model": "5086D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smartphone",
+      "codename": "A5A_INFINI",
+      "model": "5186D"
     },
     {
       "manufacturer": "",
@@ -5784,12 +5772,6 @@
       "market_name": "TCL J938M",
       "codename": "RIO55_LTE",
       "model": "TCL J938M"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TCL L5",
-      "codename": "U3A_PLUS_4G",
-      "model": "5133A"
     },
     {
       "manufacturer": "",
@@ -6312,6 +6294,42 @@
       "market_name": "Xess-mini",
       "codename": "Xess-mini",
       "model": "TCL Xess C15BA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "alcatel 1X",
+      "codename": "Edison",
+      "model": "5008A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "alcatel 1X",
+      "codename": "Edison",
+      "model": "5008D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "alcatel 1X",
+      "codename": "Edison",
+      "model": "5008T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "alcatel 1X",
+      "codename": "Edison",
+      "model": "5008U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "alcatel 1X",
+      "codename": "Edison",
+      "model": "5008Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "alcatel 1X",
+      "codename": "Edison",
+      "model": "5008Y_RU"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BE dg",
+      "codename": "BE_dg",
+      "model": "BE_dg"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BE_et",
+      "codename": "BE_et",
+      "model": "BE_et"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BE_se",
+      "codename": "BE_se",
+      "model": "BE_se"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELEMENT",
       "codename": "ELEMENT",
       "model": "ELEMENT"

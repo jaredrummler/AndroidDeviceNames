@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TIGER X7",
+      "codename": "TIGER_X7",
+      "model": "TIGER X7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tiger X4",
       "codename": "TIGER_X4",
       "model": "TIGER X4"

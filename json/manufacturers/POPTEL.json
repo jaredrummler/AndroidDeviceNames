@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P8",
+      "codename": "P8",
+      "model": "P8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P9000 MAX",
       "codename": "P9000_MAX",
       "model": "P9000_MAX"

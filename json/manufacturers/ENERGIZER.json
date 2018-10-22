@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EnergyE500S_EU",
+      "codename": "EnergyE500S_EU",
+      "model": "EnergyE500S_EU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EnergyE500S_US",
+      "codename": "EnergyE500S_US",
+      "model": "EnergyE500S_US"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H550S",
       "codename": "HARDCASEH550S",
       "model": "HARDCASEH550S"
@@ -18,6 +30,12 @@
       "market_name": "HARDCASEH500S",
       "codename": "HARDCASEH500S",
       "model": "HARDCASEH500S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PowerMaxP490",
+      "codename": "PowerMaxP490",
+      "model": "PowerMaxP490"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F-01J",
+      "codename": "F01J",
+      "model": "F-01J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F-01K",
+      "codename": "F01K",
+      "model": "F-01K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F-02K",
+      "codename": "F02K",
+      "model": "F-02K"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F-03H",
       "codename": "F03H",
       "model": "F-03H"

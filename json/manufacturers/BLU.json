@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A200",
+      "codename": "A200",
+      "model": "A200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A250",
+      "codename": "A250",
+      "model": "A250"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ADVANCE 4.0 L2",
       "codename": "BLU_ADVANCE_4_0_L2",
       "model": "BLU ADVANCE 4.0 L2"
@@ -33,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Advance 5.2",
+      "codename": "A290Q",
+      "model": "Advance 5.2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Advance A5 LTE",
       "codename": "A0010WW",
       "model": "Advance A5 LTE"
@@ -42,6 +60,12 @@
       "market_name": "Advance A6",
       "codename": "A190",
       "model": "Advance A6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Advance L4",
+      "codename": "A350A",
+      "model": "Advance L4"
     },
     {
       "manufacturer": "",
@@ -99,8 +123,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C4",
+      "codename": "C050",
+      "model": "C4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5",
       "codename": "C010Q",
+      "model": "C5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5",
+      "codename": "C014",
       "model": "C5"
     },
     {
@@ -126,6 +162,18 @@
       "market_name": "C6",
       "codename": "C031P",
       "model": "C6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D500",
+      "codename": "D500",
+      "model": "D500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D600",
+      "codename": "D600",
+      "model": "D600"
     },
     {
       "manufacturer": "",
@@ -240,6 +288,12 @@
       "market_name": "Dash_L3",
       "codename": "Dash_L3",
       "model": "Dash L3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E100",
+      "codename": "E_100",
+      "model": "E100"
     },
     {
       "manufacturer": "",
@@ -754,8 +808,20 @@
     {
       "manufacturer": "",
       "market_name": "Studio Mega",
+      "codename": "S910Q",
+      "model": "Studio Mega"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Studio Mega",
       "codename": "Studio_Mega",
       "model": "Studio Mega"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Studio Mega LTE",
+      "codename": "S0470WW",
+      "model": "Studio Mega LTE"
     },
     {
       "manufacturer": "",
@@ -930,6 +996,12 @@
       "market_name": "Vivo XL3 Plus",
       "codename": "V0210WW",
       "model": "Vivo XL3 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo XL4",
+      "codename": "V0350WW",
+      "model": "Vivo XL4"
     },
     {
       "manufacturer": "",

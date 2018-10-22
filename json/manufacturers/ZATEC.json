@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Zatec",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "ZATEC_Play_series",
+      "codename": "ZATEC_Play",
+      "model": "Play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZPLAY1_2018",
+      "codename": "Zatec_Zplay",
+      "model": "ZPLAY1_2018"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zpower_Plus",
+      "codename": "Zpower_Plus",
+      "model": "Zpower_Plus"
+    }
+  ]
+}

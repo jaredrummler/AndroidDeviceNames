@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Greentel",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "X1 Light",
+      "codename": "X1_Light",
+      "model": "X1_Light"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xmini",
+      "codename": "Xmini",
+      "model": "Xmini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xmini4G",
+      "codename": "Xmini4G",
+      "model": "Xmini4G"
+    }
+  ]
+}

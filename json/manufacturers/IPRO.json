@@ -3,9 +3,39 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Jade7s",
+      "codename": "Jade7s",
+      "model": "Jade7s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KYLIN40",
+      "codename": "KYLIN40",
+      "model": "KYLIN40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kylin 5.0",
+      "codename": "Kylin_50",
+      "model": "Kylin 5.0"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kylin 5.5",
       "codename": "Kylin_55",
       "model": "Kylin 5.5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kylin 5.5S",
+      "codename": "Kylin_55S",
+      "model": "Kylin 5.5S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Kylin50i",
+      "codename": "Kylin50i",
+      "model": "Kylin50i"
     },
     {
       "manufacturer": "",

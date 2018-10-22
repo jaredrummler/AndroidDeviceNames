@@ -21,6 +21,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V5",
+      "codename": "V5",
+      "model": "V5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V5 Nano",
+      "codename": "V5_Nano",
+      "model": "V5_Nano"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V5+",
+      "codename": "V5_Plus",
+      "model": "V5+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V6",
       "codename": "V6",
       "model": "V6"
@@ -30,6 +48,12 @@
       "market_name": "V8",
       "codename": "V8",
       "model": "V8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V9+",
+      "codename": "V9_Plus",
+      "model": "V9+"
     }
   ]
 }

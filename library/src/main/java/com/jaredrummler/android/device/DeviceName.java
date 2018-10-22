@@ -174,11 +174,17 @@ public class DeviceName {
     if ((codename != null && codename.equals("sailfish"))) {
       return "Pixel";
     }
-    if ((codename != null && codename.equals("walleye"))) {
+    if ((codename != null && (codename.equals("walleye")))) {
       return "Pixel 2";
     }
     if ((codename != null && codename.equals("taimen"))) {
       return "Pixel 2 XL";
+    }
+    if ((codename != null && codename.equals("blueline"))) {
+      return "Pixel 3";
+    }
+    if ((codename != null && codename.equals("crosshatch"))) {
+      return "Pixel 3 XL";
     }
     if ((codename != null && codename.equals("dragon"))) {
       return "Pixel C";
@@ -195,11 +201,13 @@ public class DeviceName {
     // Huawei
     if ((codename != null && (codename.equals("HWBND-H")))
         || (model != null && (model.equals("BND-L21")
-        || model.equals("BND-L24")))) {
+        || model.equals("BND-L24")
+        || model.equals("BND-L31")))) {
       return "Honor 7X";
     }
-    if ((codename != null && codename.equals("HWBKL"))
-        || (model != null && model.equals("BKL-L09"))) {
+    if ((codename != null && (codename.equals("HWBKL")))
+        || (model != null && (model.equals("BKL-L04")
+        || model.equals("BKL-L09")))) {
       return "Honor View 10";
     }
     if ((codename != null && (codename.equals("HWALP")))
@@ -306,6 +314,7 @@ public class DeviceName {
         || model.equals("LG-H870I")
         || model.equals("LG-H870S")
         || model.equals("LG-H871")
+        || model.equals("LG-H871S")
         || model.equals("LG-H872")
         || model.equals("LG-H872PR")
         || model.equals("LG-H873")
@@ -671,6 +680,10 @@ public class DeviceName {
         || codename.equals("j5ltechn")
         || codename.equals("j5ltekx")
         || codename.equals("j5nlte")
+        || codename.equals("j5y17lte")
+        || codename.equals("j5y17ltektt")
+        || codename.equals("j5y17ltelgt")
+        || codename.equals("j5y17lteskt")
         || codename.equals("j5ylte")))
         || (model != null && (model.equals("SM-J5007")
         || model.equals("SM-J5008")
@@ -680,18 +693,38 @@ public class DeviceName {
         || model.equals("SM-J500H")
         || model.equals("SM-J500M")
         || model.equals("SM-J500N0")
-        || model.equals("SM-J500Y")))) {
+        || model.equals("SM-J500Y")
+        || model.equals("SM-J530F")
+        || model.equals("SM-J530FM")
+        || model.equals("SM-J530K")
+        || model.equals("SM-J530L")
+        || model.equals("SM-J530S")))) {
       return "Galaxy J5";
     }
     if ((codename != null && (codename.equals("j75ltektt")
         || codename.equals("j7e3g")
         || codename.equals("j7elte")
-        || codename.equals("j7ltechn")))
+        || codename.equals("j7ltechn")
+        || codename.equals("j7popelteue")
+        || codename.equals("j7poplteusc")
+        || codename.equals("j7popltevzw")
+        || codename.equals("j7topeltevzw")
+        || codename.equals("j7toplteatt")
+        || codename.equals("j7toplteue")
+        || codename.equals("j7y17lte")))
         || (model != null && (model.equals("SM-J7008")
         || model.equals("SM-J700F")
         || model.equals("SM-J700H")
         || model.equals("SM-J700K")
-        || model.equals("SM-J700M")))) {
+        || model.equals("SM-J700M")
+        || model.equals("SM-J727R4")
+        || model.equals("SM-J727U")
+        || model.equals("SM-J727VPP")
+        || model.equals("SM-J730F")
+        || model.equals("SM-J730FM")
+        || model.equals("SM-J737A")
+        || model.equals("SM-J737U")
+        || model.equals("SM-J737VPP")))) {
       return "Galaxy J7";
     }
     if ((codename != null && (codename.equals("maguro")
@@ -929,7 +962,6 @@ public class DeviceName {
     }
     if ((codename != null && (codename.equals("o5lte")
         || codename.equals("o5ltechn")
-        || codename.equals("o5prolte")
         || codename.equals("on5ltemtr")
         || codename.equals("on5ltetfntmo")
         || codename.equals("on5ltetmo")))
@@ -1318,7 +1350,6 @@ public class DeviceName {
         || codename.equals("zeroltebmc")
         || codename.equals("zeroltechn")
         || codename.equals("zeroltektt")
-        || codename.equals("zeroltelgt")
         || codename.equals("zeroltelra")
         || codename.equals("zerolteskt")
         || codename.equals("zeroltespr")
@@ -1330,10 +1361,8 @@ public class DeviceName {
         || model.equals("SC-04G")
         || model.equals("SCV31")
         || model.equals("SM-G9250")
-        || model.equals("SM-G925F")
         || model.equals("SM-G925I")
         || model.equals("SM-G925K")
-        || model.equals("SM-G925L")
         || model.equals("SM-G925P")
         || model.equals("SM-G925R4")
         || model.equals("SM-G925R6")
@@ -1359,10 +1388,8 @@ public class DeviceName {
         || codename.equals("zenltevzw")))
         || (model != null && (model.equals("SAMSUNG-SM-G928A")
         || model.equals("SM-G9280")
-        || model.equals("SM-G9287")
         || model.equals("SM-G9287C")
         || model.equals("SM-G928C")
-        || model.equals("SM-G928F")
         || model.equals("SM-G928G")
         || model.equals("SM-G928I")
         || model.equals("SM-G928K")
@@ -1422,28 +1449,21 @@ public class DeviceName {
         || codename.equals("hero2lte")
         || codename.equals("hero2ltebmc")
         || codename.equals("hero2ltektt")
-        || codename.equals("hero2ltelgt")
         || codename.equals("hero2lteskt")
         || codename.equals("hero2qlteatt")
         || codename.equals("hero2qltecctvzw")
-        || codename.equals("hero2qltechn")
         || codename.equals("hero2qltespr")
         || codename.equals("hero2qltetmo")
-        || codename.equals("hero2qlteue")
         || codename.equals("hero2qlteusc")
         || codename.equals("hero2qltevzw")))
         || (model != null && (model.equals("SAMSUNG-SM-G935A")
         || model.equals("SC-02H")
         || model.equals("SCV33")
-        || model.equals("SM-G9350")
-        || model.equals("SM-G935F")
         || model.equals("SM-G935K")
-        || model.equals("SM-G935L")
         || model.equals("SM-G935P")
         || model.equals("SM-G935R4")
         || model.equals("SM-G935S")
         || model.equals("SM-G935T")
-        || model.equals("SM-G935U")
         || model.equals("SM-G935V")
         || model.equals("SM-G935VC")
         || model.equals("SM-G935W8")
@@ -1488,14 +1508,18 @@ public class DeviceName {
         || model.equals("SM-G955W")))) {
       return "Galaxy S8+";
     }
-    if ((codename != null && (codename.equals("starlte")
+    if ((codename != null && (codename.equals("SC-02K")
+        || codename.equals("SCV38")
+        || codename.equals("starlte")
         || codename.equals("starlteks")
         || codename.equals("starqltechn")
         || codename.equals("starqltecmcc")
         || codename.equals("starqltecs")
         || codename.equals("starqltesq")
         || codename.equals("starqlteue")))
-        || (model != null && (model.equals("SM-G9600")
+        || (model != null && (model.equals("SC-02K")
+        || model.equals("SCV38")
+        || model.equals("SM-G9600")
         || model.equals("SM-G9608")
         || model.equals("SM-G960F")
         || model.equals("SM-G960N")
@@ -1504,13 +1528,17 @@ public class DeviceName {
         || model.equals("SM-G960W")))) {
       return "Galaxy S9";
     }
-    if ((codename != null && (codename.equals("star2lte")
+    if ((codename != null && (codename.equals("SC-03K")
+        || codename.equals("SCV39")
+        || codename.equals("star2lte")
         || codename.equals("star2lteks")
         || codename.equals("star2qltechn")
         || codename.equals("star2qltecs")
         || codename.equals("star2qltesq")
         || codename.equals("star2qlteue")))
-        || (model != null && (model.equals("SM-G9650")
+        || (model != null && (model.equals("SC-03K")
+        || model.equals("SCV39")
+        || model.equals("SM-G9650")
         || model.equals("SM-G965F")
         || model.equals("SM-G965N")
         || model.equals("SM-G965U")

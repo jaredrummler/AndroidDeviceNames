@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Diamond 2",
+      "codename": "Diamond_2",
+      "model": "Diamond 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "More_3",
+      "codename": "More_3",
+      "model": "More_3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nile X",
       "codename": "Nile_X",
       "model": "Nile X"
@@ -15,9 +27,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PLUS2",
+      "codename": "Plus2",
+      "model": "SICO_Plus2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PLUS2 4G",
       "codename": "Plus2_4G",
       "model": "Plus2 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plus3_4G",
+      "codename": "Plus3_4G",
+      "model": "Plus3_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SICO Mega2",
+      "codename": "sp9832a_2h11",
+      "model": "Sico Mega2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sico Express 3",
+      "codename": "SICO_Express3",
+      "model": "Express3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sico Sapphire",
+      "codename": "Sapphire",
+      "model": "Sapphire"
     },
     {
       "manufacturer": "",

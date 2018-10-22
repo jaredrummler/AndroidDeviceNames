@@ -297,6 +297,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "700T",
+      "codename": "HSSDM660QC",
+      "model": "HLTE700T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A2",
       "codename": "HS8937QC",
       "model": "Hisense A2"
@@ -1005,6 +1011,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HLTE210T",
+      "codename": "HS8937QC",
+      "model": "HLTE210T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HLTE212T",
       "codename": "HS8917QC",
       "model": "HLTE212T"
@@ -1056,6 +1068,12 @@
       "market_name": "HLTE501N",
       "codename": "HSSDM660QC",
       "model": "HLTE501N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HLTE510M",
+      "codename": "HSSDM636QC",
+      "model": "HLTE510M"
     },
     {
       "manufacturer": "",
@@ -1515,6 +1533,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense  E7  Pro",
+      "codename": "HS6739MT",
+      "model": "Hisense F17 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense  F17  Pro",
       "codename": "HS6739MT",
       "model": "Hisense F17 Pro"
@@ -1536,6 +1560,12 @@
       "market_name": "Hisense  Infinity  F17",
       "codename": "HS6739MT",
       "model": "Hisense Infinity F17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense  Infinity  H12",
+      "codename": "HSSDM450QC",
+      "model": "Hisense H12"
     },
     {
       "manufacturer": "",
@@ -1575,6 +1605,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense F28M",
+      "codename": "HS8937QC",
+      "model": "HLTE210M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense F8 MINI",
       "codename": "HSSC9850",
       "model": "Hisense F8 MINI"
@@ -1584,6 +1620,12 @@
       "market_name": "Hisense H20",
       "codename": "HSSDM636QC",
       "model": "HLTE510T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense Infinity H12 Pro",
+      "codename": "HSSDM636QC",
+      "model": "Hisense Infinity H12 Pro"
     },
     {
       "manufacturer": "",
@@ -1614,6 +1656,18 @@
       "market_name": "Hisense T5 Pro",
       "codename": "HS6737MT",
       "model": "Hisense T5 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense T965",
+      "codename": "HS6580MT",
+      "model": "Hisense T965"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense U965",
+      "codename": "HS6580MT",
+      "model": "Hisense Hi 1 PRO"
     },
     {
       "manufacturer": "",
@@ -3011,6 +3065,12 @@
       "manufacturer": "",
       "market_name": "VIDAA_TV",
       "codename": "MSD6A938",
+      "model": "VIDAA_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDAA_TV",
+      "codename": "NOVA72673",
       "model": "VIDAA_TV"
     },
     {

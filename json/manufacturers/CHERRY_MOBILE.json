@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DOH01",
+      "codename": "DOH01",
+      "model": "DOH01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire R6",
+      "codename": "Desire_R6",
+      "model": "Desire R6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Desire R6 Lite",
       "codename": "Desire_R6_Lite",
       "model": "Desire_R6_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Desire R6 Plus",
+      "codename": "Desire_R6_plus",
+      "model": "Desire R6 plus"
     },
     {
       "manufacturer": "",
@@ -75,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare J1 Lite",
+      "codename": "Flare_J1_Lite",
+      "model": "Flare J1 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare J2 2018",
       "codename": "Flare_J2_2018",
       "model": "Flare_J2_2018"
@@ -84,6 +108,12 @@
       "market_name": "Flare J2 Lite",
       "codename": "Flare_J2_Lite",
       "model": "Flare_J2_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare J2 Max",
+      "codename": "Flare_J2_Max",
+      "model": "Flare_J2_Max"
     },
     {
       "manufacturer": "",
@@ -120,6 +150,36 @@
       "market_name": "Flare J3 Plus",
       "codename": "H620",
       "model": "Flare_J3_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare J3s",
+      "codename": "Flare_J3s",
+      "model": "Flare J3s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare J5 Mini",
+      "codename": "Flare_J5_Mini",
+      "model": "Flare J5 Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare J5s",
+      "codename": "Flare_J5s",
+      "model": "Flare J5s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare J6",
+      "codename": "Flare_J6",
+      "model": "Flare J6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare J6 mini",
+      "codename": "Flare_J6_mini",
+      "model": "Flare_J6_mini"
     },
     {
       "manufacturer": "",
@@ -231,9 +291,63 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare S7",
+      "codename": "Flare_S7",
+      "model": "Flare_S7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare S7 Deluxe",
+      "codename": "Flare_S7_Deluxe",
+      "model": "Flare_S7_Deluxe"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare S7 Lite",
+      "codename": "Flare_S7_Lite",
+      "model": "Flare S7 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare S7 Max",
+      "codename": "Flare_S7_Max",
+      "model": "Flare S7 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare S7 Mini",
+      "codename": "Flare_S7_Mini",
+      "model": "Flare_S7_Mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare S7 Plus",
+      "codename": "Flare_S7_Plus",
+      "model": "Flare S7 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare X",
       "codename": "Flare_X",
       "model": "Flare_X_V2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare Y3",
+      "codename": "FlareY3",
+      "model": "Flare_Y3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare Y3 mini",
+      "codename": "Flare_Y3_mini",
+      "model": "Flare Y3 mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare Y6",
+      "codename": "Flare_Y6",
+      "model": "Flare Y6"
     },
     {
       "manufacturer": "",
@@ -246,6 +360,12 @@
       "market_name": "Flare_S6_Lite",
       "codename": "Flare_S6_Lite",
       "model": "Flare_S6_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare_S7_Prime",
+      "codename": "Flare_S7_Prime",
+      "model": "Flare_S7_Prime"
     },
     {
       "manufacturer": "",

@@ -129,6 +129,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AX1073+",
+      "codename": "Bmobile_AX1073Plus",
+      "model": "AX1073+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1074",
+      "codename": "Bmobile_AX1074",
+      "model": "AX1074"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AX1075",
       "codename": "Bmobile_AX1075",
       "model": "AX1075"
@@ -195,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AX684A",
+      "codename": "Bmobile_AX684A",
+      "model": "AX684"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AX685",
       "codename": "Bmobile_AX685",
       "model": "AX685"
@@ -216,6 +234,12 @@
       "market_name": "AX700",
       "codename": "Bmobile",
       "model": "AX7OO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX751",
+      "codename": "Bmobile_AX751",
+      "model": "AX751"
     },
     {
       "manufacturer": "",
@@ -297,15 +321,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AX925",
+      "codename": "Bmobile_AX925",
+      "model": "AX925"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AX950",
       "codename": "Bmobile_AX950",
       "model": "AX950"
     },
     {
       "manufacturer": "",
+      "market_name": "AX951",
+      "codename": "Bmobile_AX951",
+      "model": "AX951"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bmobile AX683",
       "codename": "Bmobile_AX683",
       "model": "AX683"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bmoblie AX683",
+      "codename": "Bmobile_AX683_MV04",
+      "model": "AX683"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FUN 4",
+      "codename": "Bmobile_FUN_4_2018",
+      "model": "FUN 4 2018"
     }
   ]
 }

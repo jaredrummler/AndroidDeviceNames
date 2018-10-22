@@ -9,6 +9,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SDQ-55044L",
+      "codename": "SDQ-55044L",
+      "model": "SDQ-55044L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SDQ-57004L",
+      "codename": "SDQ-57004L",
+      "model": "SDQ-57004L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SDQ_52001G",
+      "codename": "SDQ_52001G",
+      "model": "SDQ_52001G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SDQ_52004L",
       "codename": "SDQ_52004L",
       "model": "SDQ_52004L"
@@ -24,6 +42,30 @@
       "market_name": "TAQ-102",
       "codename": "TAQ102",
       "model": "TAQ-102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAQ-90",
+      "codename": "TAQ90",
+      "model": "TAQ-90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAQ_10G",
+      "codename": "TAQ_10G",
+      "model": "TAQ_10G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TIQ-102",
+      "codename": "TIQ102",
+      "model": "TIQ-102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TIQ-104",
+      "codename": "TIQ104",
+      "model": "TIQ-104"
     }
   ]
 }

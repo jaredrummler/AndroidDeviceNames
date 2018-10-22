@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CUBOT CHEETAH 2",
+      "codename": "CUBOT_CHEETAH_2",
+      "model": "CUBOT CHEETAH 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CUBOT H3",
       "codename": "CUBOT_H3",
       "model": "CUBOT H3"
@@ -39,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CUBOT_A5",
+      "codename": "CUBOT_A5",
+      "model": "CUBOT A5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CUBOT_J3_PRO",
       "codename": "CUBOT_J3_PRO",
       "model": "CUBOT J3 PRO"
@@ -66,6 +78,12 @@
       "market_name": "ECHO",
       "codename": "CUBOT_ECHO",
       "model": "CUBOT ECHO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KING_KONG_3",
+      "codename": "KING_KONG_3",
+      "model": "KING_KONG_3"
     },
     {
       "manufacturer": "",

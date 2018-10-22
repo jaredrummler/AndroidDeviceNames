@@ -3,15 +3,45 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Black",
+      "codename": "Black",
+      "model": "Black"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELEMENT PLUS",
+      "codename": "ELEMENT_PLUS",
+      "model": "ELEMENT PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELEMENT_PRO",
       "codename": "ELEMENT_PRO",
       "model": "ELEMENT_PRO"
     },
     {
       "manufacturer": "",
+      "market_name": "Gold Pro",
+      "codename": "GOLD_PRO",
+      "model": "GOLD_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K-BOOK73G",
+      "codename": "K_BOOK73G",
+      "model": "K-BOOK73G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Klic",
       "codename": "SA",
       "model": "K4-02 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Silver P5",
+      "codename": "P5",
+      "model": "P5"
     }
   ]
 }

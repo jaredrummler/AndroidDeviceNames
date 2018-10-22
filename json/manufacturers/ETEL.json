@@ -1,0 +1,23 @@
+{
+  "manufacturer": "E-Tel",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Q25",
+      "codename": "Q25",
+      "model": "Q25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q30",
+      "codename": "Q30",
+      "model": "Q30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i240",
+      "codename": "i240",
+      "model": "E-tel i240"
+    }
+  ]
+}

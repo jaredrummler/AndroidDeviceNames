@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "BMM531A",
+      "codename": "BMM531A",
+      "model": "BMM531A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BMM541A",
+      "codename": "BMM541A",
+      "model": "BMM541A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BMM541D",
       "codename": "BMM541D",
       "model": "BMM541D"

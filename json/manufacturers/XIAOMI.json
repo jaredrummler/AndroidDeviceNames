@@ -147,6 +147,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hongmi 6",
+      "codename": "cereus",
+      "model": "Redmi 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hongmi 6A",
+      "codename": "cactus",
+      "model": "Redmi 6A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MI  8  Explorer  Edition",
       "codename": "ursa",
       "model": "MI 8 Explorer Edition"
@@ -243,6 +255,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MI 8 Lite",
+      "codename": "platina",
+      "model": "MI 8 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI 8 Lite",
+      "codename": "platina",
+      "model": "Platina"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MI 8 SE",
       "codename": "sirius",
       "model": "MI 8 SE"
@@ -252,6 +276,24 @@
       "market_name": "MI 8 SE",
       "codename": "sirius",
       "model": "sirius"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI 8 UD",
+      "codename": "equuleus",
+      "model": "MI 8 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI 8 UD",
+      "codename": "equuleus",
+      "model": "MI 8 UD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI 8 UD",
+      "codename": "equuleus",
+      "model": "equuleus"
     },
     {
       "manufacturer": "",
@@ -399,6 +441,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mi 4 PRO",
+      "codename": "dangalUHD",
+      "model": "MiTV-AXSO2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 4A PRO",
+      "codename": "dangalFHD",
+      "model": "MiTV-AXSO1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mi 4C PRO",
+      "codename": "dangal",
+      "model": "MiTV-AXSO0"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mi 4c",
       "codename": "libra",
       "model": "Mi-4c"
@@ -453,6 +513,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "\"Mi Laser Projector 150\"\"\"",
+      "codename": "anglee",
+      "model": "MiProjA1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mi Note",
       "codename": "virgo",
       "model": "MI NOTE LTE"
@@ -489,9 +555,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MiBox S",
+      "codename": "oneday",
+      "model": "MIBOX4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MiTV2",
       "codename": "entrapment",
       "model": "MiTV2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POCO F1",
+      "codename": "beryllium",
+      "model": "POCOPHONE F1"
     },
     {
       "manufacturer": "",
@@ -582,6 +660,12 @@
       "market_name": "Redmi 6",
       "codename": "cereus",
       "model": "Redmi 6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 6 Pro",
+      "codename": "sakura_india",
+      "model": "Redmi 6 Pro"
     },
     {
       "manufacturer": "",

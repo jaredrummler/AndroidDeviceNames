@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "TCL",
+    "market_name": "TCL L9",
+    "codename": "U5A_PLUS_4G",
+    "model": "5159A"
+  },
+  {
+    "manufacturer": "TCL",
+    "market_name": "TCL L9",
+    "codename": "U5A_PLUS_4G",
+    "model": "5159J"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 1X",
     "codename": "U5A_PLUS_4G",
@@ -51,12 +63,6 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 1X",
     "codename": "U5A_PLUS_4G",
-    "model": "5159A"
-  },
-  {
-    "manufacturer": "TCT (Alcatel)",
-    "market_name": "Alcatel 1X",
-    "codename": "U5A_PLUS_4G",
-    "model": "5159J"
+    "model": "HEYOU3"
   }
 ]

@@ -393,9 +393,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Smart_Power",
+      "codename": "Smart_Power",
+      "model": "QMobile Smart Power"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V100",
       "codename": "QTab_V100",
       "model": "V100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V2 2018",
+      "codename": "V2_2018",
+      "model": "V2 2018"
     },
     {
       "manufacturer": "",
@@ -408,6 +420,12 @@
       "market_name": "V500",
       "codename": "QTab_V500",
       "model": "V500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V8 Plus",
+      "codename": "V8_Plus",
+      "model": "V8 Plus"
     },
     {
       "manufacturer": "",
@@ -543,6 +561,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "i6 Metal 2018",
+      "codename": "i6_Metal_2018",
+      "model": "QMobile i6 Metal 2018"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i6 Metal HD",
       "codename": "i6_Metal_HD",
       "model": "i6 Metal HD"
@@ -567,9 +591,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "i8i",
+      "codename": "i8i",
+      "model": "QMobile i8i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i8i PRO",
       "codename": "i8i_PRO",
       "model": "QMobile i8i PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i8i_Pro_\\xe2\\x85\\xa1",
+      "codename": "i8i_Pro_II",
+      "model": "QMobile i8i Pro II"
     }
   ]
 }

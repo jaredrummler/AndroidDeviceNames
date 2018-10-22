@@ -183,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 7.1",
+      "codename": "CTL_sprout",
+      "model": "Nokia 7.1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 8",
       "codename": "NB1",
       "model": "TA-1004"
@@ -222,6 +228,12 @@
       "market_name": "Nokia X6",
       "codename": "DRG",
       "model": "Nokia X6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia X7",
+      "codename": "PNX",
+      "model": "Nokia X7"
     }
   ]
 }

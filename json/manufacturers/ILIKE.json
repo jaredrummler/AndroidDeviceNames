@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P3",
+      "codename": "P3",
+      "model": "P3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X3_PRO_SLIM",
       "codename": "X3_PRO_SLIM",
       "model": "X3 PRO SLIM"

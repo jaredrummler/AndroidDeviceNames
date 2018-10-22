@@ -3,12 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Alcatel 3",
-      "codename": "A3A",
-      "model": "5152D"
-    },
-    {
-      "manufacturer": "",
       "market_name": "L55E6700UDS",
       "codename": "movo_la",
       "model": "movo_la"
@@ -22,6 +16,36 @@
     {
       "manufacturer": "",
       "market_name": "Percee TV",
+      "codename": "tcl_eu",
+      "model": "BPL TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Percee TV",
+      "codename": "tcl_eu",
+      "model": "MICROMAX TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Percee TV",
+      "codename": "tcl_eu",
+      "model": "PANASONIC TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Percee TV",
+      "codename": "tcl_eu",
+      "model": "Percee TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Percee TV",
+      "codename": "tcl_eu",
+      "model": "SANYO TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Percee TV",
       "codename": "tcl_sa",
       "model": "Percee TV"
     },
@@ -30,6 +54,42 @@
       "market_name": "South America",
       "codename": "tcl",
       "model": "Percee TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL C5",
+      "codename": "A3A",
+      "model": "5152D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL C7",
+      "codename": "A3A_PLUS",
+      "model": "5158A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L5",
+      "codename": "U3A_PLUS_4G",
+      "model": "5133A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L9",
+      "codename": "U5A_PLUS_4G",
+      "model": "5159A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L9",
+      "codename": "U5A_PLUS_4G",
+      "model": "5159J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL T7",
+      "codename": "A5A_INFINI",
+      "model": "5186A"
     }
   ]
 }

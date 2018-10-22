@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AL140",
+      "codename": "AL140",
+      "model": "AL140"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AS160",
       "codename": "AS160",
       "model": "AS160"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS260",
+      "codename": "AS260",
+      "model": "AS260"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B140",
+      "codename": "B140",
+      "model": "B140"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B155",
+      "codename": "B155",
+      "model": "B155"
     },
     {
       "manufacturer": "",
@@ -21,9 +45,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BL150",
+      "codename": "BL150",
+      "model": "BL150"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BL250",
+      "codename": "BL250",
+      "model": "BL250"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BS155",
+      "codename": "BS155",
+      "model": "BS155"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BS250",
       "codename": "BS250",
       "model": "BS250"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BS550",
+      "codename": "BS550",
+      "model": "BS550"
     },
     {
       "manufacturer": "",
@@ -36,6 +84,12 @@
       "market_name": "DEXP B145",
       "codename": "B145",
       "model": "B145"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DEXP B255",
+      "codename": "B255",
+      "model": "B255"
     },
     {
       "manufacturer": "",
@@ -66,6 +120,12 @@
       "market_name": "DEXP P170",
       "codename": "P170",
       "model": "P170"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DEXP S110",
+      "codename": "S110",
+      "model": "S110"
     },
     {
       "manufacturer": "",
@@ -183,6 +243,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H170",
+      "codename": "H170",
+      "model": "H170"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ixion M355",
       "codename": "M355",
       "model": "Ixion M355"
@@ -204,6 +270,18 @@
       "market_name": "Ixion P350",
       "codename": "P350",
       "model": "Ixion P350"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L110",
+      "codename": "L110",
+      "model": "L110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L170",
+      "codename": "L170",
+      "model": "L170"
     },
     {
       "manufacturer": "",
@@ -249,6 +327,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P380i",
+      "codename": "P380i",
+      "model": "P380i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S190",
       "codename": "S190",
       "model": "S190"
@@ -258,6 +342,18 @@
       "market_name": "S290",
       "codename": "S290",
       "model": "S290"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S370",
+      "codename": "S370",
+      "model": "S370"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T155",
+      "codename": "T155",
+      "model": "T155"
     },
     {
       "manufacturer": "",
@@ -276,6 +372,12 @@
       "market_name": "Z155",
       "codename": "Z155",
       "model": "Z155"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z250",
+      "codename": "Z250",
+      "model": "Z250"
     },
     {
       "manufacturer": "",

@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BRAVIA 4K UR1",
+      "codename": "BRAVIA_UR1_4K",
+      "model": "BRAVIA 4K UR1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BRAVIA Smart Stick",
       "codename": "NSZGU1",
       "model": "NSZ-GU1"
@@ -1266,6 +1272,24 @@
       "market_name": "Xperia XZ2 Premium",
       "codename": "SOV38",
       "model": "SOV38"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia XZ3",
+      "codename": "H8416",
+      "model": "H8416"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia XZ3",
+      "codename": "H9436",
+      "model": "H9436"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia XZ3",
+      "codename": "H9493",
+      "model": "H9493"
     },
     {
       "manufacturer": "",

@@ -153,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P10_Style",
+      "codename": "P10_Style",
+      "model": "P10_Style"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P4 Pro",
       "codename": "P4_Pro",
       "model": "P4_Pro"
@@ -858,6 +864,18 @@
       "market_name": "X5 Soul Pro",
       "codename": "X5_Soul_Pro",
       "model": "X5_Soul_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X5_Soul",
+      "codename": "X5_Soul",
+      "model": "X5_Soul"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X5_Soul_Style",
+      "codename": "X5_Soul_Style",
+      "model": "X5_Soul_Style"
     }
   ]
 }

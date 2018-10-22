@@ -1,0 +1,29 @@
+{
+  "manufacturer": "KRIP",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "K5",
+      "codename": "K5",
+      "model": "K5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K6",
+      "codename": "K6",
+      "model": "K6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KRIP_K4",
+      "codename": "KRIP_K4",
+      "model": "KRIP_K4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KRIP_K55",
+      "codename": "KRIP_K55",
+      "model": "KRIP_K55"
+    }
+  ]
+}

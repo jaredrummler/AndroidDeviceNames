@@ -27,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S61_JAZZ",
+      "codename": "S61_JAZZ",
+      "model": "S61 JAZZ"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S9 TOPAZ",
+      "codename": "S9_TOPAZ",
+      "model": "STYLO_S9_TOPAZ"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STYLO MAX",
       "codename": "Stylo_Max",
       "model": "MAX"
@@ -51,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAB2",
+      "codename": "TAB2",
+      "model": "TAB2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ultra",
       "codename": "Ultra",
       "model": "Ultra"
@@ -66,6 +84,12 @@
       "market_name": "VS5502",
       "codename": "VS5502",
       "model": "VS5502"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VS571",
+      "codename": "VS571",
+      "model": "VS571"
     }
   ]
 }

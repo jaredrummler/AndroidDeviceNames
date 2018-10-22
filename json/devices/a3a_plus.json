@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "TCL",
+    "market_name": "TCL C7",
+    "codename": "A3A_PLUS",
+    "model": "5158A"
+  },
+  {
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 3X",
     "codename": "A3A_PLUS",
@@ -34,12 +40,6 @@
     "market_name": "Alcatel 3X",
     "codename": "A3A_PLUS",
     "model": "5058Y"
-  },
-  {
-    "manufacturer": "TCT (Alcatel)",
-    "market_name": "Alcatel 3X",
-    "codename": "A3A_PLUS",
-    "model": "5158A"
   },
   {
     "manufacturer": "TCT (Alcatel)",

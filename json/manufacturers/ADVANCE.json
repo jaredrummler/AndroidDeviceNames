@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HL4736",
+      "codename": "HL4736",
+      "model": "HL4736"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HL5576",
       "codename": "HL5576",
       "model": "HL5576"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HL5585",
+      "codename": "HL5585",
+      "model": "HL5585"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HL5677",
+      "codename": "HL5677",
+      "model": "HL5677"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HL6256",
+      "codename": "HL6256",
+      "model": "HL6256"
     },
     {
       "manufacturer": "",
@@ -24,6 +48,12 @@
       "market_name": "Pr6150",
       "codename": "Pr6150",
       "model": "Pr6150"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tr4986",
+      "codename": "Tablet_adv_v1",
+      "model": "ADVANCE"
     }
   ]
 }

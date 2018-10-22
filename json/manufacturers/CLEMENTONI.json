@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CLEMPAD_2018",
+      "codename": "CLEMPAD_2018",
+      "model": "CLEMPAD_2018"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Clempad 4.4 Basic Special",
       "codename": "Clempad2_special",
       "model": "Clempad2_special"
@@ -84,6 +90,18 @@
       "market_name": "Clemphone 7.0",
       "codename": "ClemPhone_7",
       "model": "ClemPhone_7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MFC_2018",
+      "codename": "MFC_2018",
+      "model": "MFC_2018"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MFC_8",
+      "codename": "MFC_8",
+      "model": "MFC_8"
     },
     {
       "manufacturer": "",

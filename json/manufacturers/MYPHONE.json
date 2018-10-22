@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hammer Energy",
+      "codename": "Hammer_Energy",
+      "model": "Hammer Energy"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer Iron 3 LTE",
       "codename": "Hammer_Iron_3_LTE",
       "model": "Hammer_Iron_3_LTE"
@@ -303,6 +309,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "myA11i",
+      "codename": "myA11i",
+      "model": "myA11i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "myA12",
       "codename": "myA12",
       "model": "myA12"
@@ -312,6 +324,18 @@
       "market_name": "myA13",
       "codename": "MYA13",
       "model": "MYA13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myA15",
+      "codename": "myA15",
+      "model": "myA15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myA16",
+      "codename": "myA16",
+      "model": "myA16"
     },
     {
       "manufacturer": "",
@@ -390,6 +414,12 @@
       "market_name": "myX3",
       "codename": "MYX3",
       "model": "MYX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myX5",
+      "codename": "myX5",
+      "model": "myX5"
     },
     {
       "manufacturer": "",

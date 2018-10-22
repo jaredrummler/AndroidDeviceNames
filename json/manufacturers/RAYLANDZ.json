@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Raylandz",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "H1 PLUS",
+      "codename": "PHOENIX_H1PLUS",
+      "model": "PHOENIX_H1PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20 PLUS",
+      "codename": "RAYLAN_P20_Plus",
+      "model": "P20 PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P5000",
+      "codename": "P5000",
+      "model": "P5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PHOENIX_N1",
+      "codename": "PHOENIX_N1",
+      "model": "PHOENIX N1"
+    }
+  ]
+}

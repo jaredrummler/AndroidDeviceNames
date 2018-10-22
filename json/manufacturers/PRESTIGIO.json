@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MUZE V3",
+      "codename": "TL49B4L",
+      "model": "PSP3495DUO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MultiPad Thunder 7.0i",
       "codename": "g01p",
       "model": "PMT3377_Wi"
@@ -513,6 +519,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT5588_4G",
+      "codename": "CF80A5L",
+      "model": "PMT5588_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT5718_4G",
+      "codename": "CF80A5L",
+      "model": "PMT5718_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT5777_3G",
       "codename": "PMT5777_3G",
       "model": "PMT5777_3G"
@@ -564,6 +582,12 @@
       "market_name": "PMT7787_3G",
       "codename": "PMT7787_3G",
       "model": "PMT7787_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT7788_4G",
+      "codename": "CF80A5L",
+      "model": "PMT7788_4G"
     },
     {
       "manufacturer": "",

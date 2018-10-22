@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nomi i5001 Plus",
+      "codename": "Nomi_i5001",
+      "model": "Nomi_i5001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nomi i5013",
       "codename": "i5013",
       "model": "i5013"
@@ -93,6 +99,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nomi_C070034",
+      "codename": "Nomi_C070034",
+      "model": "Nomi_C070034"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nomi_C101034",
+      "codename": "Nomi_C101034",
+      "model": "Nomi_C101034"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nomi_C101044",
+      "codename": "Nomi_C101044",
+      "model": "Nomi_C101044"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nomi_Corsa 4 light 3G",
+      "codename": "Nomi_C070014L",
+      "model": "Nomi_C070014L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nomi_Corsa4 3G",
+      "codename": "Nomi_C070014",
+      "model": "Nomi_C070014"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nomi_Libra4 3G",
+      "codename": "Nomi_C080014",
+      "model": "Nomi_C080014"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nomi_i5730",
       "codename": "Nomi_i5730",
       "model": "Nomi_i5730"
@@ -120,6 +162,12 @@
       "market_name": "i5012",
       "codename": "i5012",
       "model": "i5012"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i5014",
+      "codename": "i5014",
+      "model": "i5014"
     }
   ]
 }

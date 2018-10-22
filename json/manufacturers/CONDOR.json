@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Allure M3 lite",
+      "codename": "Allure_M3_Lite",
+      "model": "Allure M3 Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C1+",
       "codename": "C1Plus",
       "model": "C1+"
@@ -255,6 +261,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Plume A8 Plus",
+      "codename": "PGN612",
+      "model": "PGN612"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Plume L1",
       "codename": "SP622",
       "model": "Plume L1"
@@ -264,6 +276,12 @@
       "market_name": "Plume L1 Plus",
       "codename": "Plume_L1_Plus",
       "model": "Plume L1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plume L2",
+      "codename": "Plume_L2",
+      "model": "Plume L2"
     },
     {
       "manufacturer": "",

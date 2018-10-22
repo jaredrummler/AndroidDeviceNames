@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A510_Jeans_4G",
+      "codename": "A510_Jeans_4G",
+      "model": "A510_Jeans_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N1-570 Space",
+      "codename": "N1-570-Space",
+      "model": "N1-570 Space"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N1_550_Cruiser",
+      "codename": "N1_550_Cruiser",
+      "model": "N1_550_Cruiser"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NB108",
+      "codename": "NB108",
+      "model": "NB108"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NB753",
       "codename": "NB753",
       "model": "NB753"
@@ -12,6 +36,12 @@
       "market_name": "NB76",
       "codename": "NB76",
       "model": "NB76"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NB851",
+      "codename": "NB851",
+      "model": "NB851"
     },
     {
       "manufacturer": "",

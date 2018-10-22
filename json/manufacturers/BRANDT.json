@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Brandt",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BSTAR",
+      "codename": "BSTAR",
+      "model": "BSTAR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BSTAR+",
+      "codename": "BSTAR_PLUS",
+      "model": "BSTAR+"
+    }
+  ]
+}

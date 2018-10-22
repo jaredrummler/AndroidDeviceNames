@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AZUMI KIREI A5D",
+      "codename": "KIREI_A5_D",
+      "model": "Azumi KIREI A5 D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AZUMI_Daburu_A55O",
       "codename": "Daburu_A55O",
       "model": "Azumi_Daburu_A55O"
@@ -165,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K5QL",
+      "codename": "Azumi_K5QL",
+      "model": "Azumi K5QL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KINZO A55 OLi",
       "codename": "KINZO_A55_OLi",
       "model": "Azumi_KINZO_A55_OLi"
@@ -180,6 +192,24 @@
       "market_name": "KINZO ICHI A5 QL",
       "codename": "KINZO_ichi_A5_QL_NA",
       "model": "KINZO_ichi_A5_QL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nobu A55",
+      "codename": "NOBU_A55",
+      "model": "Azumi NOBU A55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Speed 4",
+      "codename": "Azumi_Speed_4",
+      "model": "Azumi Speed 4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Speed 5",
+      "codename": "Azumi_Speed_5B",
+      "model": "Azumi Speed 5"
     },
     {
       "manufacturer": "",

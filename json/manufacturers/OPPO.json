@@ -627,9 +627,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CPH1805",
+      "codename": "CPH1805",
+      "model": "CPH1805"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CPH1807",
       "codename": "CPH1807",
       "model": "CPH1807"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH1809",
+      "codename": "CPH1809",
+      "model": "CPH1809"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH1809RU",
+      "codename": "CPH1809",
+      "model": "CPH1809"
     },
     {
       "manufacturer": "",
@@ -642,6 +660,18 @@
       "market_name": "CPH1821",
       "codename": "CPH1821",
       "model": "CPH1821"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH1823",
+      "codename": "CPH1823",
+      "model": "CPH1823"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH1825",
+      "codename": "CPH1825",
+      "model": "CPH1825"
     },
     {
       "manufacturer": "",
@@ -681,6 +711,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CPH1853",
+      "codename": "CPH1853",
+      "model": "CPH1853"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH1853RU",
+      "codename": "CPH1853",
+      "model": "CPH1853"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CPH1859",
       "codename": "CPH1859",
       "model": "CPH1859"
@@ -696,6 +738,30 @@
       "market_name": "CPH1871",
       "codename": "CPH1871",
       "model": "CPH1871"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH1875",
+      "codename": "CPH1875",
+      "model": "CPH1875"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH1881",
+      "codename": "CPH1881",
+      "model": "CPH1881"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH1893",
+      "codename": "CPH1893",
+      "model": "CPH1893"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CPH1893RU",
+      "codename": "CPH1893",
+      "model": "CPH1893"
     },
     {
       "manufacturer": "",
@@ -876,6 +942,48 @@
       "market_name": "PBAT00",
       "codename": "PBAT00",
       "model": "PBAT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBBM00",
+      "codename": "PBBM00",
+      "model": "PBBM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBBT00",
+      "codename": "PBBT00",
+      "model": "PBBT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBCM10",
+      "codename": "PBCM10",
+      "model": "PBCM10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBCM30",
+      "codename": "PBCM30",
+      "model": "PBCM30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBCT10",
+      "codename": "PBCT10",
+      "model": "PBCT10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBEM00",
+      "codename": "PBEM00",
+      "model": "PBEM00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PBET00",
+      "codename": "PBET00",
+      "model": "PBET00"
     },
     {
       "manufacturer": "",
@@ -1542,6 +1650,42 @@
       "market_name": "R9tm",
       "codename": "R9",
       "model": "OPPO R9tm"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX1801",
+      "codename": "RMX1801",
+      "model": "RMX1801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX1803",
+      "codename": "RMX1803",
+      "model": "RMX1803"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX1805",
+      "codename": "RMX1805",
+      "model": "RMX1805"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX1807",
+      "codename": "RMX1807",
+      "model": "RMX1807"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX1809",
+      "codename": "RMX1809",
+      "model": "RMX1809"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RMX1811",
+      "codename": "RMX1811",
+      "model": "RMX1811"
     },
     {
       "manufacturer": "",

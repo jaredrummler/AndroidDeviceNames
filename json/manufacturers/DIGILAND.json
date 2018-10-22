@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DL1016",
+      "codename": "mid1016",
+      "model": "DL1016"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DL1018A",
       "codename": "mid1024_e",
       "model": "DL1018A"
@@ -132,6 +138,12 @@
       "market_name": "NS-P16AT785HD",
       "codename": "MID7802RA",
       "model": "NS-P16AT785HD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TP1_N",
+      "codename": "TP1_N",
+      "model": "TP1_N"
     }
   ]
 }

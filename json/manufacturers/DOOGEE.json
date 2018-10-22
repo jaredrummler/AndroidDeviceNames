@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X11",
+      "codename": "X11",
+      "model": "X11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X20",
       "codename": "X20",
       "model": "X20"
@@ -168,6 +174,12 @@
       "market_name": "X7Pro",
       "codename": "x6069_dg_a50_37m65",
       "model": "X7pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X80",
+      "codename": "X80",
+      "model": "X80"
     },
     {
       "manufacturer": "",

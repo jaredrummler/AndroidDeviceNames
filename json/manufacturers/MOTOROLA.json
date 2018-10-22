@@ -2127,6 +2127,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto e(5) cruise",
+      "codename": "james",
+      "model": "moto e5 play"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto e(5) play",
       "codename": "james",
       "model": "moto e5 play"
@@ -2325,9 +2331,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto p30 play",
+      "codename": "deen",
+      "model": "XT1941-2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto z3 play",
       "codename": "beckham",
       "model": "Moto Z3 Play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one",
+      "codename": "deen_sprout",
+      "model": "motorola one"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one power",
+      "codename": "chef_sprout",
+      "model": "moto x4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one power",
+      "codename": "chef_sprout",
+      "model": "motorola one power"
     }
   ]
 }

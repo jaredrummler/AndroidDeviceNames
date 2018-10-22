@@ -39,9 +39,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P12 Curve",
+      "codename": "P12Curve",
+      "model": "P12Curve"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13",
+      "codename": "P13",
+      "model": "P13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P13_Black",
+      "codename": "P13_Black",
+      "model": "P13_Black"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P9C",
       "codename": "P9C",
       "model": "P9C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Preo P3",
+      "codename": "Preo_P3",
+      "model": "Preo P3"
     },
     {
       "manufacturer": "",
@@ -78,6 +102,12 @@
       "market_name": "reeder P12",
       "codename": "P12",
       "model": "P12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "reeder P12S",
+      "codename": "P12S",
+      "model": "P12S"
     }
   ]
 }

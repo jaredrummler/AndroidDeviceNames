@@ -3,7 +3,19 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "XG200",
+      "codename": "XG200",
+      "model": "XG200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XM75",
+      "codename": "XM75",
+      "model": "XM75"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XT100",
       "codename": "XM75",
       "model": "XM75"
     },

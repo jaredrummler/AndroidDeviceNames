@@ -603,6 +603,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ROG Phone",
+      "codename": "ASUS_Z01QD_1",
+      "model": "ASUS_Z01QD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RTC-700A",
       "codename": "RTC-tablet",
       "model": "RTC-tablet"
@@ -1443,9 +1449,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZenFone Lite L1 (ZA551KL)",
+      "codename": "ASUS_X00R_5",
+      "model": "ASUS_X00RD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZenFone Live (ZB501KL)",
       "codename": "ASUS_A007",
       "model": "ASUS_A007"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Live L1 (ZA550KL)",
+      "codename": "ASUS_X00R_1",
+      "model": "ASUS_X00RD"
     },
     {
       "manufacturer": "",
@@ -1564,8 +1582,26 @@
     {
       "manufacturer": "",
       "market_name": "ZenFone Max M1 (ZB555KL)",
+      "codename": "ASUS_X00P_4",
+      "model": "ASUS_X00PD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max M1 (ZB555KL)",
       "codename": "ASUS_X00P_6",
       "model": "ASUS_X00PD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max M1 (ZB555KL)",
+      "codename": "ASUS_X00P_8",
+      "model": "ASUS_X00PD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max M1 (ZB555KL)",
+      "codename": "ASUS_X00P_8",
+      "model": "ZB555KL"
     },
     {
       "manufacturer": "",
@@ -1620,6 +1656,12 @@
       "market_name": "ZenFone Max Pro (M1)",
       "codename": "ASUS_X00T_6",
       "model": "ZB602KL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max Pro (M1)",
+      "codename": "ASUS_X00T_8",
+      "model": "ASUS_X00TDB"
     },
     {
       "manufacturer": "",

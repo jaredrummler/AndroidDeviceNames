@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "10 Viking",
+      "codename": "RCT6A03W13",
+      "model": "RCT6A03W13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "10 Viking II",
       "codename": "RCT6603W47M7",
       "model": "RCT6603W47M7"
@@ -93,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Atlas 10",
+      "codename": "RCT6B03W13",
+      "model": "RCT6B03W13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BNT-710",
       "codename": "BNT-710",
       "model": "BNT-710"
@@ -156,6 +168,12 @@
       "market_name": "RCA RCT6B03W12",
       "codename": "RCT6B03W12",
       "model": "RCT6B03W12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA RCT6B03W13",
+      "codename": "RCT6B03W13",
+      "model": "RCT6B03W13"
     },
     {
       "manufacturer": "",
@@ -318,6 +336,12 @@
       "market_name": "RLTP5573",
       "codename": "RLTP5573",
       "model": "RLTP5573"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Voyager",
+      "codename": "RCT6873W42BMF8",
+      "model": "RCT6873W42BMF8"
     },
     {
       "manufacturer": "",

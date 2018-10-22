@@ -2987,6 +2987,12 @@
       "manufacturer": "",
       "market_name": "LG G6",
       "codename": "lucye",
+      "model": "LG-H871S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG G6",
+      "codename": "lucye",
       "model": "LG-H872"
     },
     {
@@ -3060,6 +3066,12 @@
       "market_name": "LG G7 ThinQ",
       "codename": "judyln",
       "model": "LM-G710VM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG G7 fit",
+      "codename": "falcon",
+      "model": "LM-Q850"
     },
     {
       "manufacturer": "",
@@ -3300,6 +3312,12 @@
       "market_name": "LG K30",
       "codename": "cv3",
       "model": "LM-X410UM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG K30",
+      "codename": "mcv3",
+      "model": "LM-X410PM"
     },
     {
       "manufacturer": "",
@@ -4690,12 +4708,6 @@
     {
       "manufacturer": "",
       "market_name": "LG Q7",
-      "codename": "cv5a",
-      "model": "LM-Q610(FGN)"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "LG Q7",
       "codename": "mcv5a",
       "model": "LM-Q610.FG"
     },
@@ -4704,6 +4716,18 @@
       "market_name": "LG Q7",
       "codename": "mcv5a",
       "model": "LM-Q610.FGN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q7",
+      "codename": "mcv5a",
+      "model": "LM-Q617.FGN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q7+",
+      "codename": "cv5a",
+      "model": "LM-Q610(FGN)"
     },
     {
       "manufacturer": "",
@@ -4722,6 +4746,24 @@
       "market_name": "LG Q7+",
       "codename": "cv5an",
       "model": "LM-Q725S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q7+",
+      "codename": "cv5an",
+      "model": "LM-Q727K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q7+",
+      "codename": "cv5an",
+      "model": "LM-Q727L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q7+",
+      "codename": "cv5an",
+      "model": "LM-Q727S"
     },
     {
       "manufacturer": "",
@@ -5250,6 +5292,12 @@
       "market_name": "LG X charge",
       "codename": "mlv7",
       "model": "LG-M320"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG X charge",
+      "codename": "mlv7",
+      "model": "LG-US601"
     },
     {
       "manufacturer": "",
@@ -7140,6 +7188,18 @@
       "market_name": "V30+",
       "codename": "joan",
       "model": "LGV35"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V40 ThinQ",
+      "codename": "judypn",
+      "model": "LM-V405"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V40 ThinQ",
+      "codename": "judypn",
+      "model": "LM-V409N"
     },
     {
       "manufacturer": "",

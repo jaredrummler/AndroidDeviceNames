@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PLAY Click LTE",
+      "codename": "PLAY_Click_LTE",
+      "model": "PLAY Click LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UP Groove",
       "codename": "UP_Groove",
       "model": "UP_Groove"
@@ -24,6 +30,12 @@
       "market_name": "UP Xtreme",
       "codename": "UP_Xtreme",
       "model": "UP_Xtreme"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UP_XL",
+      "codename": "UP_XL",
+      "model": "UP_XL"
     }
   ]
 }

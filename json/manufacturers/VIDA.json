@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GINI_D9",
+      "codename": "GINI_D9",
+      "model": "GINI_D9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V401",
+      "codename": "VIDA_V401",
+      "model": "VIDA-V401"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIDA - i512",
       "codename": "i512",
       "model": "VIDA_i512"
@@ -12,6 +24,18 @@
       "market_name": "VIDA_i450",
       "codename": "VIDA_i450",
       "model": "VIDA_i450"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIDA_i501",
+      "codename": "VIDA_i501",
+      "model": "VIDA_i501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i401",
+      "codename": "VIDA-i401",
+      "model": "VIDA-i401"
     }
   ]
 }

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Axe",
+      "codename": "HMR5510",
+      "model": "Axe"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P490",
+      "codename": "P490",
+      "model": "P490"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P520",
       "codename": "P520",
       "model": "P520"
@@ -24,6 +36,12 @@
       "market_name": "PREMIO P450",
       "codename": "P450",
       "model": "P450"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Premio P420",
+      "codename": "Premio_P420",
+      "model": "Premio P420"
     },
     {
       "manufacturer": "",

@@ -117,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ITELL_K4700Q",
+      "codename": "ITELL_K4700Q",
+      "model": "ITELL K4700Q"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P11",
       "codename": "itel_P11",
       "model": "itel P11"
@@ -198,6 +204,12 @@
       "market_name": "S13",
       "codename": "itel-S13",
       "model": "itel S13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S13",
+      "codename": "itel-S13Pro",
+      "model": "itel S13 Pro"
     },
     {
       "manufacturer": "",
@@ -435,9 +447,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A14",
+      "codename": "itel-A14",
+      "model": "itel A14"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A16",
+      "codename": "itel-A16",
+      "model": "itel A16"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel A20",
       "codename": "itel-A20",
       "model": "itel A20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A23",
+      "codename": "itel-A23",
+      "model": "itel A23"
     },
     {
       "manufacturer": "",

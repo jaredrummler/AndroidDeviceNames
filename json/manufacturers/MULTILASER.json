@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KIDPAD 3G",
+      "codename": "ML-JI21-M7-3G-PLUS-KIDPAD",
+      "model": "KIDPAD-3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kidpad-3G",
       "codename": "Kidpad-3G",
       "model": "Kidpad-3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10-4G",
+      "codename": "ML-JI03-M10-4G",
+      "model": "M10-4G"
     },
     {
       "manufacturer": "",
@@ -34,6 +46,12 @@
     {
       "manufacturer": "",
       "market_name": "M7-3G PLUS",
+      "codename": "ML-JI21-M7-3G-PLUS",
+      "model": "M7-3G-PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7-3G PLUS",
       "codename": "ML-WI-M7_3G_PLUS",
       "model": "ML-WI-M7_3G_PLUS"
     },
@@ -42,6 +60,12 @@
       "market_name": "M7-4G",
       "codename": "ML-JI-M7-4G",
       "model": "ML-JI-M7-4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7-4G",
+      "codename": "ML-JI04-M7-4G",
+      "model": "M7-4G"
     },
     {
       "manufacturer": "",
@@ -240,6 +264,12 @@
       "market_name": "MS60F Plus",
       "codename": "MS60F_PLUS",
       "model": "MS60F_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS60X",
+      "codename": "ML-TI0A-MS60X",
+      "model": "MS60X"
     },
     {
       "manufacturer": "",

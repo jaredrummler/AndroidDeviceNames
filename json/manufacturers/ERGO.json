@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "B502 Basic",
+      "codename": "B502_Basic",
+      "model": "B502 Basic"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B505_Unit_4G",
+      "codename": "B505_Unit_4G",
+      "model": "B505_Unit_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ERGO B500",
       "codename": "B500",
       "model": "ERGO B500 First"
@@ -15,9 +27,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ERGO V551 Aura",
+      "codename": "V551_Aura",
+      "model": "V551 Aura"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ERGO_A556",
       "codename": "ERGO_A556",
       "model": "ERGO_A556"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V540_Level",
+      "codename": "V540_Level",
+      "model": "V540_Level"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V550_Vision",
+      "codename": "V550_Vision",
+      "model": "V550_Vision"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V570_BIG_BEN",
+      "codename": "V570_BIG_BEN",
+      "model": "V570_BIG_BEN"
     }
   ]
 }

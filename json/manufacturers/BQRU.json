@@ -63,9 +63,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-4501G",
+      "codename": "BQru-4501G",
+      "model": "BQ-4501G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-4585 Fox View",
       "codename": "BQru-4585",
       "model": "BQ-4585"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-5000G",
+      "codename": "BQru-5000G",
+      "model": "BQ-5000G"
     },
     {
       "manufacturer": "",
@@ -207,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5300G",
+      "codename": "BQru-5300G",
+      "model": "BQ-5300G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-5301",
       "codename": "BQru-5301",
       "model": "BQ-5301"
@@ -264,6 +282,12 @@
       "market_name": "BQ-5517L TWIN PRO",
       "codename": "BQru-5517L",
       "model": "BQ-5517L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-5520L Silk",
+      "codename": "BQru-5520L",
+      "model": "BQ-5520L"
     },
     {
       "manufacturer": "",
@@ -330,6 +354,12 @@
       "market_name": "BQ-6015L Universe",
       "codename": "BQru-6015L",
       "model": "BQ-6015L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-6200L Aurora",
+      "codename": "BQru-6200L",
+      "model": "BQ-6200L"
     },
     {
       "manufacturer": "",

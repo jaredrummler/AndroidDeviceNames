@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "B10",
+      "codename": "B10",
+      "model": "B10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E1",
       "codename": "EOS",
       "model": "OTOT_E1"
@@ -12,6 +18,18 @@
       "market_name": "H10",
       "codename": "H10",
       "model": "H10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PS8",
+      "codename": "PS8",
+      "model": "PS8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S11",
+      "codename": "S11",
+      "model": "S11"
     },
     {
       "manufacturer": "",

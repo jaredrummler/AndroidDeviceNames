@@ -4725,6 +4725,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "OWN FUN 5(4G)",
+      "codename": "VFD511",
+      "model": "ZTE BLADE A321"
+    },
+    {
+      "manufacturer": "",
       "market_name": "OWN One Plus",
       "codename": "ZTE_Blade_V580",
       "model": "OWN One Plus"
@@ -6849,12 +6855,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "VFD 820",
-      "codename": "VFD820",
-      "model": "VFD 820"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Vesta",
       "codename": "proline",
       "model": "Z965"
@@ -7413,6 +7413,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE A0722",
+      "codename": "P840S18",
+      "model": "ZTE A0722"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE A2017",
+      "codename": "msm8996",
+      "model": "ZTE A2017"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE A2017G",
       "codename": "ailsa_ii",
       "model": "ZTE A2017G"
@@ -7422,6 +7434,18 @@
       "market_name": "ZTE A2018",
       "codename": "candice",
       "model": "ZTE A2018"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE A2019 Pro",
+      "codename": "P845A02",
+      "model": "ZTE A2019 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE A2019G Pro",
+      "codename": "P845A01",
+      "model": "ZTE A2019G Pro"
     },
     {
       "manufacturer": "",
@@ -7523,6 +7547,12 @@
       "manufacturer": "",
       "market_name": "ZTE BLADE A530",
       "codename": "P639F10",
+      "model": "ZTE BLADE A530"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE BLADE A530",
+      "codename": "P639F10L",
       "model": "ZTE BLADE A530"
     },
     {
@@ -7656,6 +7686,12 @@
       "market_name": "ZTE BLADE V9",
       "codename": "P450F10",
       "model": "ZTE BLADE V9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE BLADE V9 VITA",
+      "codename": "P840F03",
+      "model": "ZTE BLADE V9 VITA"
     },
     {
       "manufacturer": "",

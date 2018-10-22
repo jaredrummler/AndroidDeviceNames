@@ -2901,6 +2901,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HUAWEI Mate 20",
+      "codename": "HWHMA",
+      "model": "HMA-L29"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Mate 20 Pro",
+      "codename": "HWLYA",
+      "model": "LYA-L29"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Mate 20 lite",
+      "codename": "HWSNE",
+      "model": "SNE-LX1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HUAWEI Mate 9 lite",
       "codename": "HWBLN-H",
       "model": "BLL-L23"
@@ -2916,6 +2934,12 @@
       "market_name": "HUAWEI Mate SE",
       "codename": "HWBND-H",
       "model": "BND-L34"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI MedaiPad M5 10.8",
+      "codename": "HWCMR09",
+      "model": "CMR-W09"
     },
     {
       "manufacturer": "",
@@ -2961,25 +2985,25 @@
     },
     {
       "manufacturer": "",
-      "market_name": "\"HUAWEI MediaPad M5 10.8\"\"\"",
+      "market_name": "HUAWEI MediaPad M5 10.8",
       "codename": "HWCMR09",
       "model": "CMR-AL09"
     },
     {
       "manufacturer": "",
-      "market_name": "\"HUAWEI MediaPad M5 10.8\"\"\"",
+      "market_name": "HUAWEI MediaPad M5 10.8",
       "codename": "HWCMR09",
       "model": "CMR-W09"
     },
     {
       "manufacturer": "",
-      "market_name": "\"HUAWEI MediaPad M5 8.4\"\"\"",
+      "market_name": "HUAWEI MediaPad M5 8.4",
       "codename": "HWSHT",
       "model": "SHT-AL09"
     },
     {
       "manufacturer": "",
-      "market_name": "\"HUAWEI MediaPad M5 8.4\"\"\"",
+      "market_name": "HUAWEI MediaPad M5 8.4",
       "codename": "HWSHT",
       "model": "SHT-W09"
     },
@@ -3030,6 +3054,12 @@
       "market_name": "HUAWEI MediaPad T3 7",
       "codename": "HWBG2",
       "model": "BG2-U03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI MediaPad T5",
+      "codename": "HWAGS2",
+      "model": "AGS2-W09"
     },
     {
       "manufacturer": "",
@@ -3144,6 +3174,12 @@
       "market_name": "HUAWEI Y5 Prime 2018",
       "codename": "HWDRA-M",
       "model": "DRA-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y5 lite",
+      "codename": "HWDRA-MG",
+      "model": "DRA-LX5"
     },
     {
       "manufacturer": "",
@@ -3270,6 +3306,24 @@
       "market_name": "HUAWEI Y9 2018",
       "codename": "HWFLA-H",
       "model": "FLA-LX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y9 2019",
+      "codename": "HWJKM-H",
+      "model": "JKM-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y9 2019",
+      "codename": "HWJKM-H",
+      "model": "JKM-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y9 2019",
+      "codename": "HWJKM-H",
+      "model": "JKM-LX3"
     },
     {
       "manufacturer": "",
@@ -4083,6 +4137,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAIMANG 7",
+      "codename": "HWSNE",
+      "model": "SNE-AL00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MS4C",
       "codename": "hwMS4C",
       "model": "MS4C"
@@ -4206,6 +4266,102 @@
       "market_name": "Mate 10 lite",
       "codename": "HWRNE",
       "model": "RNE-L23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20",
+      "codename": "HWHMA",
+      "model": "HMA-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20",
+      "codename": "HWHMA",
+      "model": "HMA-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20",
+      "codename": "HWHMA",
+      "model": "HMA-L29"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20",
+      "codename": "HWHMA",
+      "model": "HMA-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 Pro",
+      "codename": "HWLYA",
+      "model": "LYA-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 Pro",
+      "codename": "HWLYA",
+      "model": "LYA-AL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 Pro",
+      "codename": "HWLYA",
+      "model": "LYA-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 Pro",
+      "codename": "HWLYA",
+      "model": "LYA-L29"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 Pro",
+      "codename": "HWLYA",
+      "model": "LYA-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 RS",
+      "codename": "HWLYA",
+      "model": "LYA-AL00P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 X",
+      "codename": "HWEVR",
+      "model": "EVR-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 X",
+      "codename": "HWEVR",
+      "model": "EVR-L29"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 X",
+      "codename": "HWEVR",
+      "model": "EVR-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 lite",
+      "codename": "HWSNE",
+      "model": "SNE-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 lite",
+      "codename": "HWSNE",
+      "model": "SNE-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mate 20 lite",
+      "codename": "HWSNE",
+      "model": "SNE-LX3"
     },
     {
       "manufacturer": "",
@@ -4854,6 +5010,12 @@
       "market_name": "P20 Pro",
       "codename": "HWCLT",
       "model": "CLT-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P20 Pro",
+      "codename": "HWCLT",
+      "model": "CLT-AL00l"
     },
     {
       "manufacturer": "",
@@ -7419,6 +7581,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab MAX",
+      "codename": "HWARS-Q",
+      "model": "ARS-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab MAX",
+      "codename": "HWARS-Q",
+      "model": "ARS-TL00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab6",
       "codename": "HWNCE-L6750",
       "model": "NCE-AL00"
@@ -7563,6 +7737,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9 Plus",
+      "codename": "HWJKM-H",
+      "model": "JKM-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9 Plus",
+      "codename": "HWJKM-H",
+      "model": "JKM-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9 Plus",
+      "codename": "HWJKM-HM",
+      "model": "JKM-AL00a"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9 Plus",
+      "codename": "HWJKM-HM",
+      "model": "JKM-AL00b"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 8X",
+      "codename": "HWJSN-H",
+      "model": "JSN-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 8X",
+      "codename": "HWJSN-H",
+      "model": "JSN-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 8X",
+      "codename": "HWJSN-HM",
+      "model": "JSN-AL00a"
+    },
+    {
+      "manufacturer": "",
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 V9 play",
       "codename": "HWJMM-Q",
       "model": "JMM-AL00"
@@ -7623,6 +7839,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808X Max",
+      "codename": "HWARE-Q",
+      "model": "ARE-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808X Max",
+      "codename": "HWARE-Q",
+      "model": "ARE-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808X Max",
+      "codename": "HWARE-QC",
+      "model": "ARE-AL10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x808\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
       "codename": "HWPRA-H",
       "model": "PRA-AL00"
@@ -7680,6 +7914,18 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80Note8",
       "codename": "hwedison",
       "model": "EDI-DL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf5",
+      "codename": "HWAGS2",
+      "model": "AGS2-AL00HN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf5",
+      "codename": "HWAGS2",
+      "model": "AGS2-W09HN"
     },
     {
       "manufacturer": "",
@@ -7896,6 +8142,24 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97X",
       "codename": "HWBND-H",
       "model": "BND-TL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98C",
+      "codename": "HWBKK-Q",
+      "model": "BKK-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98C",
+      "codename": "HWBKK-Q",
+      "model": "BKK-AL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98C",
+      "codename": "HWBKK-Q",
+      "model": "BKK-TL00"
     },
     {
       "manufacturer": "",

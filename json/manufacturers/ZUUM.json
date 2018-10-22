@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "COVET Z",
+      "codename": "COVET_Z",
+      "model": "COVET Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COVET mini",
+      "codename": "Covet_Mini",
+      "model": "COVET mini"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GRANT",
       "codename": "GRANT",
       "model": "GRANT"
@@ -45,9 +57,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ONIX S",
+      "codename": "ONIX_S",
+      "model": "ONIX S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STELLAR",
       "codename": "STELLAR",
       "model": "STELLAR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STELLAR MINI",
+      "codename": "STELLAR_MINI",
+      "model": "STELLAR MINI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STELLAR Z",
+      "codename": "STELLAR_Z",
+      "model": "STELLAR Z"
     },
     {
       "manufacturer": "",

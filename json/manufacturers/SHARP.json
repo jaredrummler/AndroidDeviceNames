@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "2T-C40ACxA; 2T-C45ACxA; 2T-C45ADxA",
+      "codename": "Lcd_xxsffocca_c",
+      "model": "LCD_xxSFFOCCA_C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "306SH",
       "codename": "SG306SH",
       "model": "306SH"
@@ -42,12 +48,6 @@
       "market_name": "401SH",
       "codename": "SG401SH",
       "model": "401SH"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "4T-C**AM1",
-      "codename": "tcsu2uj",
-      "model": "AQUOS-TVJ18"
     },
     {
       "manufacturer": "",
@@ -1293,6 +1293,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PN-ZC02",
+      "codename": "PN_ZC02",
+      "model": "PN-ZC02"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q-pot.Phone SH-04D",
       "codename": "SH04D",
       "model": "SH-04D"
@@ -1572,12 +1578,6 @@
       "market_name": "XLED-50Z4808A",
       "codename": "Lcd_50ufoczq48a",
       "model": "LCD_50UFOCZQ48A"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "XLED-60SU485A",
-      "codename": "Lcd_60sufoc485a",
-      "model": "LCD_60SUFOC485A"
     },
     {
       "manufacturer": "",

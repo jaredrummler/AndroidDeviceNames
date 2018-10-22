@@ -441,9 +441,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z60s",
+      "codename": "Z60s",
+      "model": "Z60s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z61",
       "codename": "Z61",
       "model": "Z61"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z61_2GB",
+      "codename": "Z61_2GB",
+      "model": "Z61_2GB"
     },
     {
       "manufacturer": "",
@@ -456,6 +468,12 @@
       "market_name": "Z80",
       "codename": "Z80",
       "model": "Z80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z81",
+      "codename": "Z81",
+      "model": "Z81"
     },
     {
       "manufacturer": "",
@@ -516,6 +534,12 @@
       "market_name": "iris50",
       "codename": "iris50",
       "model": "iris50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iris51",
+      "codename": "iris51",
+      "model": "iris51"
     },
     {
       "manufacturer": "",
@@ -588,6 +612,12 @@
       "market_name": "iris88_go",
       "codename": "iris88_go",
       "model": "iris88_go"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iris88_lite",
+      "codename": "iris88_lite",
+      "model": "iris88_lite"
     }
   ]
 }

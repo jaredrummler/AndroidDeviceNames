@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Slide_Dazzle_3500",
+      "codename": "Slide_Dazzle_3500",
+      "model": "Slide_Dazzle_3500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Slide_Elan_3x32",
+      "codename": "Slide_Elan_3x32",
+      "model": "iBall_Slide_Elan_3x32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Slide_Elan_4G2_Plus",
+      "codename": "Slide_Elan_4G2_Plus",
+      "model": "iBall_Slide_Elan_4G2_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iBall",
       "codename": "iBall_Slide_Brace_XJ",
       "model": "iBall Slide Brace XJ"
@@ -12,6 +30,12 @@
       "market_name": "iBall",
       "codename": "iBall_Slide_Dazzle_i7",
       "model": "iBall Slide Dazzle i7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iBall Slide Gorgeo 4GL",
+      "codename": "Gorgeo_4GL",
+      "model": "Gorgeo_4GL"
     },
     {
       "manufacturer": "",
@@ -54,6 +78,12 @@
       "market_name": "iBallSlide_Wings",
       "codename": "iBallSlide_Wings",
       "model": "Wings"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iBall_Slide_Skye_03",
+      "codename": "Slide_Skye_03",
+      "model": "Slide_Skye_03"
     }
   ]
 }

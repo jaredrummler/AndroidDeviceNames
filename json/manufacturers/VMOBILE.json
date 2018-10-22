@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A11_N",
+      "codename": "A11_N",
+      "model": "A11_N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A11_Y",
       "codename": "A11_Y",
       "model": "A11_Y"
@@ -24,6 +30,12 @@
       "market_name": "A13_Y",
       "codename": "A13_Y",
       "model": "A13_Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A15",
+      "codename": "A15",
+      "model": "A15"
     }
   ]
 }

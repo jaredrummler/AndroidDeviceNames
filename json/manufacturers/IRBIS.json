@@ -123,6 +123,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP554",
+      "codename": "SP554",
+      "model": "SP554"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SP571",
+      "codename": "SP571",
+      "model": "SP571"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TZ150",
       "codename": "TZ150",
       "model": "TZ150"
@@ -138,6 +150,12 @@
       "market_name": "TZ177",
       "codename": "TZ177",
       "model": "TZ177"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ179",
+      "codename": "TZ179",
+      "model": "TZ179"
     },
     {
       "manufacturer": "",
@@ -240,6 +258,12 @@
       "market_name": "TZ794",
       "codename": "TZ794",
       "model": "TZ794"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TZ797",
+      "codename": "TZ797",
+      "model": "TZ797"
     },
     {
       "manufacturer": "",

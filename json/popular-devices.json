@@ -61,9 +61,27 @@
   },
   {
     "manufacturer": "Google",
+    "market_name": "Pixel 2",
+    "codename": "walleye",
+    "model": "Pixel 2"
+  },
+  {
+    "manufacturer": "Google",
     "market_name": "Pixel 2 XL",
     "codename": "taimen",
     "model": "Pixel 2 XL"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "Pixel 3",
+    "codename": "blueline",
+    "model": "Pixel 3"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "Pixel 3 XL",
+    "codename": "crosshatch",
+    "model": "Pixel 3 XL"
   },
   {
     "manufacturer": "HTC",
@@ -586,6 +604,12 @@
     "market_name": "LG G6",
     "codename": "lucye",
     "model": "LG-H871"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LG G6",
+    "codename": "lucye",
+    "model": "LG-H871S"
   },
   {
     "manufacturer": "LGE",
@@ -1852,6 +1876,18 @@
     "market_name": "Galaxy J7",
     "codename": "j7topeltevzw",
     "model": "SM-J737VPP"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7",
+    "codename": "j7toplteatt",
+    "model": "SM-J737A"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy J7",
+    "codename": "j7toplteue",
+    "model": "SM-J737U"
   },
   {
     "manufacturer": "Samsung",

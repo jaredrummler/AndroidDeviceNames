@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ALIGATOR S5070",
+      "codename": "ALIGATOR_S5070",
+      "model": "ALIGATOR S5070"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX460",
+      "codename": "RX460",
+      "model": "RX460"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX600",
+      "codename": "RX600",
+      "model": "RX600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RX700",
+      "codename": "RX700",
+      "model": "RX700"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S5065",
       "codename": "ALIGATORS5065",
       "model": "ALIGATOR S5065"

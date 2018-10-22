@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M9A Pro",
+      "codename": "M9A_Pro",
+      "model": "M9A Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P1",
       "codename": "P1",
       "model": "P1"
@@ -36,6 +42,18 @@
       "market_name": "P1 Pro",
       "codename": "P1_Pro",
       "model": "P1 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 2",
+      "codename": "Power_2",
+      "model": "Power 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power 2 Pro",
+      "codename": "Power_2_Pro",
+      "model": "Power 2 Pro"
     },
     {
       "manufacturer": "",
@@ -87,9 +105,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "XRover C",
+      "codename": "XRover_C",
+      "model": "XRover C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z7",
       "codename": "Z7",
       "model": "Z7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z9",
+      "codename": "Z9",
+      "model": "Z9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z9A",
+      "codename": "Z9A",
+      "model": "Z9A"
     }
   ]
 }

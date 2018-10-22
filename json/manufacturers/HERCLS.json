@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HERCLS A15",
+      "codename": "A15",
+      "model": "A15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HERCLS L925",
       "codename": "L925",
       "model": "L925"

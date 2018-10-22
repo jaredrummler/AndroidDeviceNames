@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hola",
+      "codename": "Hola",
+      "model": "Hola"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mone",
       "codename": "Mone",
       "model": "Mone"
@@ -30,6 +36,12 @@
       "market_name": "Mtwo",
       "codename": "Mtwo",
       "model": "Mtwo"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nopal",
+      "codename": "Nopal",
+      "model": "Nopal"
     }
   ]
 }

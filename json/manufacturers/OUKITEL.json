@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C10",
+      "codename": "C10",
+      "model": "C10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C11 Pro",
+      "codename": "C11_Pro",
+      "model": "C11_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C12 Pro",
+      "codename": "C12_Pro",
+      "model": "C12 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6 Pro",
       "codename": "C6_Pro",
       "model": "C6 Pro"
@@ -54,6 +72,12 @@
       "market_name": "K10000_Max",
       "codename": "K10000_Max",
       "model": "K10000 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K3",
+      "codename": "K3",
+      "model": "K3"
     },
     {
       "manufacturer": "",

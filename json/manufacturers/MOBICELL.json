@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BERRY1",
+      "codename": "BERRY1",
+      "model": "BERRY1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CHERRY",
       "codename": "CHERRY",
       "model": "CHERRY"
@@ -63,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EGO",
+      "codename": "EGO",
+      "model": "EGO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FEVER",
       "codename": "FEVER",
       "model": "FEVER"
@@ -78,6 +90,12 @@
       "market_name": "HERO X",
       "codename": "HERO_X",
       "model": "HERO_X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HYPE",
+      "codename": "HYPE",
+      "model": "HYPE"
     },
     {
       "manufacturer": "",
@@ -183,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R9_LITE",
+      "codename": "R9_LITE",
+      "model": "R9 LITE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "REBEL",
       "codename": "REBEL",
       "model": "REBEL"
@@ -213,9 +237,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SWITCH1",
+      "codename": "SWITCH1",
+      "model": "SWITCH1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Samba",
       "codename": "Samba",
       "model": "Samba"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TANGO_LITE",
+      "codename": "TANGO_LITE",
+      "model": "TANGO_LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TRENDY_LITE",
+      "codename": "TRENDY_LITE",
+      "model": "TRENDY_LITE"
     },
     {
       "manufacturer": "",
@@ -249,6 +291,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ULTRA",
+      "codename": "ULTRA",
+      "model": "ULTRA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V1",
       "codename": "V1",
       "model": "V1"
@@ -261,9 +309,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V4",
+      "codename": "V4",
+      "model": "V4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VEGA",
       "codename": "VEGA",
       "model": "VEGA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X4",
+      "codename": "X4",
+      "model": "X4"
     },
     {
       "manufacturer": "",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI 5 Pro",
+      "codename": "INOI_5_Pro",
+      "model": "INOI_5_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI_2",
       "codename": "INOI_2",
       "model": "INOI_2"
@@ -21,15 +27,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI_3",
+      "codename": "INOI_3",
+      "model": "INOI_3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI_3_LITE",
       "codename": "INOI_3_LITE",
       "model": "INOI_3_LITE"
     },
     {
       "manufacturer": "",
+      "market_name": "INOI_3_POWER",
+      "codename": "INOI_3_POWER",
+      "model": "INOI_3_POWER"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI_5i_Lite",
+      "codename": "INOI_5i_Lite",
+      "model": "INOI_5i_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI_6",
+      "codename": "INOI_6",
+      "model": "INOI_6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI_6_LITE",
       "codename": "INOI_6_Lite",
       "model": "INOI_6_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI_7_LITE",
+      "codename": "INOI_7_LITE",
+      "model": "INOI_7_LITE"
     }
   ]
 }

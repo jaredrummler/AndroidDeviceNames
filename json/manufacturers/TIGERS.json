@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TIS001",
+      "codename": "TIS001",
+      "model": "TIS001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TIS001A",
+      "codename": "TIS001A",
+      "model": "TIS001A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TIS_001",
       "codename": "TIS_001",
       "model": "TIS_001"

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Aquaris C",
+      "codename": "jeice",
+      "model": "Aquaris C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Aquaris E10",
       "codename": "Aquaris_E10",
       "model": "Aquaris E10"
@@ -216,6 +222,12 @@
       "market_name": "BQ-5516L TWIN",
       "codename": "BQru-5516L",
       "model": "BQ-5516L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQ-6016L Mercury",
+      "codename": "BQru-6016L",
+      "model": "BQ-6016L"
     },
     {
       "manufacturer": "",
