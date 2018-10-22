@@ -1,12 +1,12 @@
 apply plugin: 'com.android.library'
 
 android {
-  compileSdkVersion 27
-  buildToolsVersion "27.0.3"
+  compileSdkVersion 28
+  buildToolsVersion "28.0.3"
 
   defaultConfig {
-    minSdkVersion 7
-    targetSdkVersion 27
+    minSdkVersion 14
+    targetSdkVersion 28
   }
 
   lintOptions {
@@ -15,7 +15,7 @@ android {
 }
 
 dependencies {
-  compile 'com.android.support:support-annotations:27.0.2'
+  implementation 'androidx.annotation:annotation:1.0.0'
 }
 
 apply from: rootProject.file('gradle/maven-push.gradle')

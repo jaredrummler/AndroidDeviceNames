@@ -18,15 +18,14 @@ package com.jaredrummler.android.devicenames;
 
 import android.os.Build;
 import android.os.Bundle;
-import android.support.design.widget.Snackbar;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
 import android.text.Html;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
-
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
+import com.google.android.material.snackbar.Snackbar;
 import com.jaredrummler.android.device.DeviceName;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {

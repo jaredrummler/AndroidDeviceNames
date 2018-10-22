@@ -17,6 +17,7 @@
 package com.jaredrummler.android.device;
 
 import android.Manifest;
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
@@ -25,8 +26,8 @@ import android.net.NetworkInfo;
 import android.os.Build;
 import android.os.Handler;
 import android.os.Looper;
-import android.support.annotation.WorkerThread;
 import android.text.TextUtils;
+import androidx.annotation.WorkerThread;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -1834,6 +1835,7 @@ public class DeviceName {
     if (ret == PackageManager.PERMISSION_GRANTED) {
       ConnectivityManager connMgr = (ConnectivityManager)
           context.getSystemService(Context.CONNECTIVITY_SERVICE);
+      @SuppressLint("MissingPermission")
       NetworkInfo networkInfo = connMgr.getActiveNetworkInfo();
       if (networkInfo != null && networkInfo.isConnected()) {
         isConnectedToNetwork = true;
@@ -1857,11 +1859,7 @@ public class DeviceName {
             // Save to SharedPreferences so we don't need to make another request.
             SharedPreferences.Editor editor = prefs.edit();
             editor.putString(key, json.toString());
-            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.GINGERBREAD) {
-              editor.apply();
-            } else {
-              editor.commit();
-            }
+            editor.apply();
             return info;
           }
         }
@@ -1870,7 +1868,7 @@ public class DeviceName {
       }
     }
 
-    if (codename.equals(Build.DEVICE) && model.equals(Build.MODEL)) {
+    if (codename.equals(Build.DEVICE) && Build.MODEL.equals(model)) {
       return new DeviceInfo(Build.MANUFACTURER, getDeviceName(), codename, model); // current device
     }
 
