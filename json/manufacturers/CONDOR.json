@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Allure M2",
+      "codename": "Allure_M2",
+      "model": "Allure M2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Allure M3",
       "codename": "Allure_M3",
       "model": "Allure M3"
@@ -108,6 +114,12 @@
       "market_name": "Griffe T3",
       "codename": "SP414",
       "model": "Griffe T3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Griffe T6",
+      "codename": "Griffe_T6",
+      "model": "Griffe T6"
     },
     {
       "manufacturer": "",
@@ -282,6 +294,12 @@
       "market_name": "Plume L2",
       "codename": "Plume_L2",
       "model": "Plume L2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plume L2 Pro",
+      "codename": "Plume_L2_Pro",
+      "model": "Plume L2 Pro"
     },
     {
       "manufacturer": "",

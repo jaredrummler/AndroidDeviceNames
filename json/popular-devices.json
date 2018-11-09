@@ -691,27 +691,33 @@
   },
   {
     "manufacturer": "OnePlus",
-    "market_name": "OnePlus3",
-    "codename": "OnePlus3",
-    "model": "ONEPLUS A3000"
-  },
-  {
-    "manufacturer": "OnePlus",
-    "market_name": "OnePlus5",
+    "market_name": "OnePlus 5",
     "codename": "OnePlus5",
     "model": "ONEPLUS A5000"
   },
   {
     "manufacturer": "OnePlus",
-    "market_name": "OnePlus3T",
-    "codename": "OnePlus3T",
-    "model": "ONEPLUS A3000"
+    "market_name": "OnePlus 5T",
+    "codename": "OnePlus5T",
+    "model": "ONEPLUS A5010"
   },
   {
     "manufacturer": "OnePlus",
-    "market_name": "OnePlus5T",
-    "codename": "OnePlus5T",
-    "model": "ONEPLUS A5010"
+    "market_name": "OnePlus 6",
+    "codename": "OnePlus6",
+    "model": "ONEPLUS A6003"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 6T",
+    "codename": "OnePlus6T",
+    "model": "ONEPLUS A6013"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 6T",
+    "codename": "OnePlus6TSingle",
+    "model": "ONEPLUS A6013"
   },
   {
     "manufacturer": "Samsung",

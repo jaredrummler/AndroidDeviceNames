@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Alien X",
+      "codename": "Alien_X",
+      "model": "Alien_X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Like 4U",
       "codename": "Like_4U",
       "model": "Like_4U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TITAN P11000 PRO",
+      "codename": "TITAN_P11000_PRO",
+      "model": "TITAN_P11000_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TitanP6000",
+      "codename": "TitanP6000",
+      "model": "TitanP6000"
     }
   ]
 }

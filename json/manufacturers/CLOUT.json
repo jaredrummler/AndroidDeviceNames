@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Hind 5.1",
+      "codename": "Hind_5_1",
+      "model": "Hind 5.1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X425 Shavit",
       "codename": "X425_Shavit",
       "model": "X425 Shavit"

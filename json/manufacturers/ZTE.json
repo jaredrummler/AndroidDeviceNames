@@ -1701,6 +1701,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLADE A3",
+      "codename": "P809F40",
+      "model": "BLADE A3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLADE A310",
       "codename": "P809A50",
       "model": "Blade A310"
@@ -7431,6 +7437,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE A2017U",
+      "codename": "ailsa_ii",
+      "model": "ZTE A2017U"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE A2018",
       "codename": "candice",
       "model": "ZTE A2018"
@@ -7704,6 +7716,12 @@
       "market_name": "ZTE BV0870",
       "codename": "P840V71",
       "model": "ZTE BV0870"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A0722",
+      "codename": "P817F18",
+      "model": "ZTE Blade A0722"
     },
     {
       "manufacturer": "",

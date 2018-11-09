@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C9",
+      "codename": "A3A_XL_4G",
+      "model": "5199I"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L55E6700UDS",
       "codename": "movo_la",
       "model": "movo_la"
@@ -57,6 +63,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL",
+      "codename": "A5A_INFINI",
+      "model": "5086D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL",
+      "codename": "A5A_INFINI",
+      "model": "5186D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL C5",
       "codename": "A3A",
       "model": "5152D"
@@ -90,6 +108,12 @@
       "market_name": "TCL T7",
       "codename": "A5A_INFINI",
       "model": "5186A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Union TV",
+      "codename": "UnionTV",
+      "model": "UnionTV"
     }
   ]
 }

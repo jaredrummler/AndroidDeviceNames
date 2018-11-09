@@ -51,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CAMON 11",
+      "codename": "TECNO-CF7k",
+      "model": "TECNO CF7k"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CAMON 11 Pro",
+      "codename": "TECNO-CF8",
+      "model": "TECNO CF8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CAMON C7",
       "codename": "TECNO-C7",
       "model": "TECNO-C7"
@@ -477,6 +489,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "POP 2",
+      "codename": "TECNO-B1",
+      "model": "TECNO B1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "POP 2 Power",
+      "codename": "TECNO-B1p",
+      "model": "TECNO B1p"
+    },
+    {
+      "manufacturer": "",
       "market_name": "POP1",
       "codename": "TECNO-F3",
       "model": "TECNO F3"
@@ -552,6 +576,12 @@
       "market_name": "R6",
       "codename": "TECNO-R6",
       "model": "TECNO R6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R6+",
+      "codename": "TECNO-RA6",
+      "model": "TECNO RA6"
     },
     {
       "manufacturer": "",

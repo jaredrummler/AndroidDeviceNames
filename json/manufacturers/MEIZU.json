@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "16",
+      "codename": "16",
+      "model": "16"
+    },
+    {
+      "manufacturer": "",
       "market_name": "16 X",
       "codename": "16X",
       "model": "16 X"
@@ -60,6 +66,18 @@
       "market_name": "M1816",
       "codename": "M1816",
       "model": "M1816"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M1822",
+      "codename": "M1822",
+      "model": "M1822"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M1852",
+      "codename": "M1852",
+      "model": "M1852"
     },
     {
       "manufacturer": "",
@@ -150,6 +168,18 @@
       "market_name": "PRO 7 Plus",
       "codename": "PRO7Plus",
       "model": "PRO 7 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meizu C9",
+      "codename": "meizuC9",
+      "model": "meizu C9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meizu X8",
+      "codename": "X8",
+      "model": "meizu X8"
     }
   ]
 }

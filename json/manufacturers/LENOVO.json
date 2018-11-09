@@ -1899,6 +1899,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K5 S",
+      "codename": "K5S",
+      "model": "Lenovo L38031"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K50",
       "codename": "K50-t5",
       "model": "Lenovo K50-t5"
@@ -1938,6 +1944,12 @@
       "market_name": "K52t38",
       "codename": "k52_t38",
       "model": "Lenovo k52t38"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K5X",
+      "codename": "kunlun",
+      "model": "Lenovo L38041"
     },
     {
       "manufacturer": "",
@@ -2079,6 +2091,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo A5",
+      "codename": "L18021",
+      "model": "Lenovo L18021"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo K8",
       "codename": "brady_f",
       "model": "Lenovo K"
@@ -2115,6 +2133,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo K9",
+      "codename": "K9",
+      "model": "Lenovo L38043"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Mirage Solo",
       "codename": "vega",
       "model": "VR-1541F"
@@ -2136,6 +2160,12 @@
       "market_name": "Lenovo N300",
       "codename": "Lindos2",
       "model": "Lenovo N300"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo S5 Pro",
+      "codename": "sprout",
+      "model": "Lenovo L58041"
     },
     {
       "manufacturer": "",
@@ -2253,6 +2283,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo Tab M10",
+      "codename": "X705L",
+      "model": "Lenovo TB-X705L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo Tab4 10 Plus",
       "codename": "X704A",
       "model": "TB-X704A"
@@ -2271,9 +2307,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo tab M10",
+      "codename": "X605M",
+      "model": "Lenovo TB-X605M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo tab P10",
       "codename": "X705F",
       "model": "Lenovo TB-X705F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo tab P10",
+      "codename": "X705M",
+      "model": "Lenovo TB-X705M"
     },
     {
       "manufacturer": "",

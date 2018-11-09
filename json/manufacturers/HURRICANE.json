@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Curve",
+      "codename": "Curve",
+      "model": "Curve"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Edge",
       "codename": "Edge",
       "model": "Edge"
@@ -129,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INFINITY",
+      "codename": "INFINITY",
+      "model": "INFINITY"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Icon",
       "codename": "Icon",
       "model": "Icon"
@@ -171,9 +183,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SAGE",
+      "codename": "SAGE",
+      "model": "SAGE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STELLA",
+      "codename": "STELLA",
+      "model": "STELLA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SWIRL",
       "codename": "Swirl",
       "model": "Swirl"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Slam",
+      "codename": "Slam",
+      "model": "Slam"
     },
     {
       "manufacturer": "",
@@ -192,6 +222,12 @@
       "market_name": "Surge",
       "codename": "Surge",
       "model": "Surge"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swift",
+      "codename": "Swift",
+      "model": "Swift"
     },
     {
       "manufacturer": "",

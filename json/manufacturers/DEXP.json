@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B245",
+      "codename": "B245",
+      "model": "B245"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B350",
       "codename": "B350",
       "model": "B350"
@@ -237,6 +243,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G355",
+      "codename": "G355",
+      "model": "G355"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GL255",
       "codename": "GL255",
       "model": "GL255"
@@ -282,6 +294,12 @@
       "market_name": "L170",
       "codename": "L170",
       "model": "L170"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L180",
+      "codename": "L180",
+      "model": "L180"
     },
     {
       "manufacturer": "",
@@ -390,6 +408,12 @@
       "market_name": "Z355",
       "codename": "Z355",
       "model": "Z355"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z455",
+      "codename": "Z455",
+      "model": "Z455"
     },
     {
       "manufacturer": "",

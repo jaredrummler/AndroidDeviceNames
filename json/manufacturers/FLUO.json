@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F2",
+      "codename": "F2",
+      "model": "F2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fluo",
       "codename": "S504050",
       "model": "S504050"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S554020",
+      "codename": "S554020",
+      "model": "S554020"
     }
   ]
 }

@@ -123,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare J2 Prime",
+      "codename": "Flare_J2_Prime",
+      "model": "Flare_J2_Prime"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare J2S",
       "codename": "Flare_J2S",
       "model": "Flare J2S"
@@ -138,6 +144,12 @@
       "market_name": "Flare J3",
       "codename": "H680",
       "model": "Flare_J3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare J3 Max",
+      "codename": "Flare_J3_Max",
+      "model": "Flare J3 Max"
     },
     {
       "manufacturer": "",
@@ -327,6 +339,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare S7 Power",
+      "codename": "Flare_S7_Power",
+      "model": "Flare_S7_Power"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare X",
       "codename": "Flare_X",
       "model": "Flare_X_V2"
@@ -432,6 +450,12 @@
       "market_name": "Omega Lite 3C",
       "codename": "Omega_Lite_3C",
       "model": "Omega_Lite_3C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Omega Lite 3s",
+      "codename": "Omega_Lite_3s",
+      "model": "Omega Lite 3s"
     },
     {
       "manufacturer": "",

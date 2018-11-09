@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Allure M2",
+      "codename": "Doppio_DP355",
+      "model": "Doppio DP355"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Doppio SL548",
       "codename": "Doppio_SL548",
       "model": "SL548"
@@ -60,6 +66,12 @@
       "market_name": "U500",
       "codename": "U500",
       "model": "U500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U503",
+      "codename": "U503",
+      "model": "U503"
     }
   ]
 }

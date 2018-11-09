@@ -1113,6 +1113,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos",
+      "codename": "ac101aswf",
+      "model": "Archos Access 101 Wifi"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos",
+      "codename": "ac101hello",
+      "model": "Archos Hello 10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos",
+      "codename": "ac57as3g",
+      "model": "Archos Access 57 3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos 101 Platinum 3G",
       "codename": "ac101pl3g",
       "model": "Archos 101 Platinium 3G"
@@ -1287,6 +1305,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Access 57 4G",
+      "codename": "ac57as4g",
+      "model": "Archos Access 57 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Access 70 3G",
       "codename": "ac70as3g",
       "model": "Archos Access 70 3G"
@@ -1386,6 +1410,12 @@
       "market_name": "Archos Core 70 3G",
       "codename": "ac70cr3gv2",
       "model": "Archos Core 70 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Hello 7",
+      "codename": "ac70hello",
+      "model": "Archos Hello 7"
     },
     {
       "manufacturer": "",

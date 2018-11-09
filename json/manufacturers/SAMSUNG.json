@@ -844,8 +844,20 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy A6",
+      "codename": "a6eltemtr",
+      "model": "SM-A600T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A6",
       "codename": "a6eltespr",
       "model": "SM-A600P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A6",
+      "codename": "a6eltetmo",
+      "model": "SM-A600T"
     },
     {
       "manufacturer": "",
@@ -984,6 +996,12 @@
       "market_name": "Galaxy A7 (2018)",
       "codename": "a7y18lte",
       "model": "SM-A750GN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A7 (2018)",
+      "codename": "a7y18lteks",
+      "model": "SM-A750N"
     },
     {
       "manufacturer": "",
@@ -3646,6 +3664,12 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy J3",
+      "codename": "j3topelteacg",
+      "model": "SM-J337R7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J3",
       "codename": "j3topeltevzw",
       "model": "SM-J337VPP"
     },
@@ -3678,6 +3702,12 @@
       "market_name": "Galaxy J3 Achieve",
       "codename": "j3topeltespr",
       "model": "SM-J337P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J3 Aura",
+      "codename": "j3topelteusc",
+      "model": "SM-J337R4"
     },
     {
       "manufacturer": "",
@@ -3786,18 +3816,6 @@
       "market_name": "Galaxy J3 Star",
       "codename": "j3topltetmo",
       "model": "SM-J337T"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J3 Top",
-      "codename": "j3topelteacg",
-      "model": "SM-J337R7"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy J3 Top",
-      "codename": "j3topelteusc",
-      "model": "SM-J337R4"
     },
     {
       "manufacturer": "",
@@ -6393,27 +6411,27 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy On7 Pro",
-      "codename": "o7prolte",
-      "model": "SM-G600FY"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy On7 Refresh",
+      "market_name": "Galaxy On7 Prime",
       "codename": "on7xrefltektt",
       "model": "SM-G611K"
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy On7 Refresh",
+      "market_name": "Galaxy On7 Prime",
       "codename": "on7xrefltelgt",
       "model": "SM-G611L"
     },
     {
       "manufacturer": "",
-      "market_name": "Galaxy On7 Refresh",
+      "market_name": "Galaxy On7 Prime",
       "codename": "on7xreflteskt",
       "model": "SM-G611S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy On7 Pro",
+      "codename": "o7prolte",
+      "model": "SM-G600FY"
     },
     {
       "manufacturer": "",
@@ -9730,6 +9748,12 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Tab A (2016)",
+      "codename": "gtaxlltekx",
+      "model": "SM-T585N0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A (2016)",
       "codename": "gtaxlwifi",
       "model": "SM-T580"
     },
@@ -9750,6 +9774,18 @@
       "market_name": "Galaxy Tab A (2016) with S Pen",
       "codename": "gtanotexllte",
       "model": "SM-P585M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A (2016) with S Pen",
+      "codename": "gtanotexllte",
+      "model": "SM-P585Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A (2016) with S Pen",
+      "codename": "gtanotexllte",
+      "model": "SM-P587"
     },
     {
       "manufacturer": "",
@@ -9850,12 +9886,6 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Tab A 10.1",
-      "codename": "gtaxlltekx",
-      "model": "SM-T585N0"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A 10.1",
       "codename": "gtaxlwifi",
       "model": "SM-T580X"
     },
@@ -9864,12 +9894,6 @@
       "market_name": "Galaxy Tab A 10.1",
       "codename": "gtaxlwifichn",
       "model": "SM-T580X"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab A 10.1(2016)",
-      "codename": "gtanotexllte",
-      "model": "SM-P585Y"
     },
     {
       "manufacturer": "",
@@ -10050,6 +10074,12 @@
       "market_name": "Galaxy Tab A 9.7",
       "codename": "gt5note10wifichn",
       "model": "SM-P550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab A Lite",
+      "codename": "gtaslitelteatt",
+      "model": "SM-T387AA"
     },
     {
       "manufacturer": "",
@@ -11262,12 +11292,6 @@
       "market_name": "Galaxy Tab4 Nook 10.1",
       "codename": "matissewifiopenbnn",
       "model": "SM-T530NU"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy TabA Plus 10.1",
-      "codename": "gtanotexllte",
-      "model": "SM-P587"
     },
     {
       "manufacturer": "",

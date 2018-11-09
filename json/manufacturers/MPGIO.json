@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ATHENA_A10",
+      "codename": "ATHENA_A10",
+      "model": "ATHENA_A10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LEGEND_R",
       "codename": "LEGEND_R",
       "model": "LEGEND_R"

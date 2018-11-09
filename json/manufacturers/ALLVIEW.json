@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A10 Lite",
+      "codename": "A10_Lite",
+      "model": "A10_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A10 Plus",
+      "codename": "A10_Plus",
+      "model": "A10_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A5 Easy",
       "codename": "A5_Easy",
       "model": "A5_Easy"

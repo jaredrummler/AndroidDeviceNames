@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PolarH4",
+      "codename": "PolarH4",
+      "model": "PolarH4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TIGER X7",
       "codename": "TIGER_X7",
       "model": "TIGER X7"

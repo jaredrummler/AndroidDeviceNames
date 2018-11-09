@@ -1407,6 +1407,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G7 One",
+      "codename": "phoenix_sprout",
+      "model": "LM-Q910"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GA7800",
       "codename": "eden",
       "model": "LG Android TV V4"
@@ -4764,6 +4770,18 @@
       "market_name": "LG Q7+",
       "codename": "cv5an",
       "model": "LM-Q727S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q9",
+      "codename": "falcon",
+      "model": "LM-Q925L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q9",
+      "codename": "falcon",
+      "model": "LM-Q925S"
     },
     {
       "manufacturer": "",

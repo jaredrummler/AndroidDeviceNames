@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GHIA_AXIS7P",
+      "codename": "GHIA_AXIS7P",
+      "model": "GHIA_AXIS7P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GHIA_VECTOR_3G",
       "codename": "GHIA_VECTOR_3G",
       "model": "GHIA_VECTOR_3G"
@@ -42,6 +48,12 @@
       "market_name": "GTKIDS7V",
       "codename": "GTKIDS7V",
       "model": "GTKIDS7V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TREO_TAB8G",
+      "codename": "TREO_TAB8G",
+      "model": "TREO_TAB8G"
     },
     {
       "manufacturer": "",

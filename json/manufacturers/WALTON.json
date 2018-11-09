@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo G8i 4G",
+      "codename": "Primo_G8i_4G",
+      "model": "Primo G8i 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo GF6",
       "codename": "Primo_GF6",
       "model": "Primo GF6"
@@ -300,6 +306,12 @@
       "market_name": "Primo\\xc2\\xa0S6\\xc2\\xa0Dual",
       "codename": "Primo_S6_Dual",
       "model": "Primo S6 Dual"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Walton Primo X5",
+      "codename": "Primo_X5",
+      "model": "Walton Primo X5"
     }
   ]
 }

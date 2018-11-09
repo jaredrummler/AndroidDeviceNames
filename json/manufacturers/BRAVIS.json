@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A509_Jeans",
+      "codename": "A509_Jeans",
+      "model": "A509_Jeans"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A510_Jeans_4G",
       "codename": "A510_Jeans_4G",
       "model": "A510_Jeans_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A511 Harmony",
+      "codename": "A511_Harmony",
+      "model": "A511 Harmony"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A512 Harmony Pro",
+      "codename": "A512_Harmony_Pro",
+      "model": "A512 Harmony Pro"
     },
     {
       "manufacturer": "",
@@ -42,6 +60,12 @@
       "market_name": "NB851",
       "codename": "NB851",
       "model": "NB851"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NB871",
+      "codename": "NB871",
+      "model": "NB871"
     },
     {
       "manufacturer": "",

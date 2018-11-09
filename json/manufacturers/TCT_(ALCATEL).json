@@ -5343,18 +5343,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Smartphone",
-      "codename": "A5A_INFINI",
-      "model": "5086D"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Smartphone",
-      "codename": "A5A_INFINI",
-      "model": "5186D"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Smartphone Android by SFR STARADDICT II",
       "codename": "one_touch_996_gsm",
       "model": "Smartphone Android by SFR STARADDICT II"
@@ -6009,6 +5997,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TCL XL2",
+      "codename": "EDISON_TF",
+      "model": "A503DL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TCL Y900",
       "codename": "Scribe5HD_GSM",
       "model": "TCL Y900"
@@ -6420,6 +6414,12 @@
       "market_name": "onetouch_P689L",
       "codename": "POLO55",
       "model": "onetouch_P689L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "tbd",
+      "codename": "FERMI_TF",
+      "model": "A501DL"
     },
     {
       "manufacturer": "",

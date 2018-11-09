@@ -1,0 +1,23 @@
+{
+  "manufacturer": "ACE France",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "BUZZ_1_Lite",
+      "codename": "BUZZ_1_Lite",
+      "model": "BUZZ 1 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BUZZ_1_Plus",
+      "codename": "BUZZ_1_Plus",
+      "model": "BUZZ 1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "URBAN 1",
+      "codename": "URBAN_1",
+      "model": "URBAN 1"
+    }
+  ]
+}

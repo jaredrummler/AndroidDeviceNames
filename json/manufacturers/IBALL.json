@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Avid",
+      "codename": "Avid",
+      "model": "Avid"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blaze_V4",
+      "codename": "Blaze_V4",
+      "model": "Blaze_V4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nova_4G",
+      "codename": "Nova_4G",
+      "model": "Nova_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Slide_Dazzle_3500",
       "codename": "Slide_Dazzle_3500",
       "model": "Slide_Dazzle_3500"
@@ -18,6 +36,12 @@
       "market_name": "Slide_Elan_4G2_Plus",
       "codename": "Slide_Elan_4G2_Plus",
       "model": "iBall_Slide_Elan_4G2_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Spirit_X2",
+      "codename": "Spirit_X2",
+      "model": "Spirit_X2"
     },
     {
       "manufacturer": "",

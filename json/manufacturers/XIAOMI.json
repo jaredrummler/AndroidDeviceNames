@@ -165,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MI  MAX  3",
+      "codename": "nitrogen",
+      "model": "MI MAX 3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MI 2",
       "codename": "aries",
       "model": "MI 2"
@@ -432,6 +438,18 @@
       "market_name": "MIX 2S",
       "codename": "polaris",
       "model": "Mi MIX 2S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MIX 3",
+      "codename": "perseus",
+      "model": "MIX 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MIX 3",
+      "codename": "perseus",
+      "model": "Mi MIX 3"
     },
     {
       "manufacturer": "",
