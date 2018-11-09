@@ -26,26 +26,26 @@ import java.sql.SQLException
 import java.util.zip.ZipEntry
 import java.util.zip.ZipOutputStream
 
-private val SQL_DROP = "DROP TABLE IF EXISTS devices;"
-private val SQL_CREATE = "CREATE TABLE devices (\n" +
+private const val SQL_INSERT = "INSERT INTO devices (name, codename, model) VALUES (?, ?, ?)"
+private const val SQL_DROP = "DROP TABLE IF EXISTS devices;"
+private const val SQL_CREATE = "CREATE TABLE devices (\n" +
     "_id INTEGER PRIMARY KEY,\n" +
     "name TEXT,\n" +
     "codename TEXT,\n" +
     "model TEXT\n" +
     ");"
-private val SQL_INSERT = "INSERT INTO devices (name, codename, model) VALUES (?, ?, ?)"
 
 class DatabaseGenerator(private val devices: List<Device>,
     private val databasename: String = "database/android-devices.db",
     private val zipname: String = "database/android-devices.zip") {
 
   fun generate() {
-    val url = "jdbc:sqlite:" + databasename
+    val url = "jdbc:sqlite:$databasename"
 
     try {
       File(databasename).parentFile?.mkdirs()
 
-      DriverManager.getConnection(url).use({ conn ->
+      DriverManager.getConnection(url).use { conn ->
         conn.createStatement().execute(SQL_DROP)
         conn.createStatement().execute(SQL_CREATE)
         val statement = conn.prepareStatement(SQL_INSERT)
@@ -56,7 +56,7 @@ class DatabaseGenerator(private val devices: List<Device>,
           statement.addBatch()
         }
         statement.executeBatch()
-      })
+      }
 
       ZipOutputStream(BufferedOutputStream(FileOutputStream(zipname))).use { out ->
         FileInputStream(databasename).use { fi ->
@@ -69,7 +69,7 @@ class DatabaseGenerator(private val devices: List<Device>,
       }
 
     } catch (e: SQLException) {
-      println(e.message)
+      e.printStackTrace()
     }
   }
 

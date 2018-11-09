@@ -28,9 +28,9 @@ import java.nio.file.Paths
 import java.util.TreeMap
 import java.util.stream.Collectors
 
-private val URL = "https://storage.googleapis.com/play_public/supported_devices.csv"
+private const val URL = "https://storage.googleapis.com/play_public/supported_devices.csv"
 
-fun getDevices(): List<Device> {
+fun getDevices(): MutableList<Device> {
   val devices = mutableListOf<Device>()
   val url = java.net.URL(URL)
   val conn = url.openConnection()
@@ -52,15 +52,22 @@ fun getDevices(): List<Device> {
 
 fun getPopularDeviceNames(): List<String> {
   val names = mutableListOf<String>()
-  JsonParser().parse(File("POPULAR.json").reader()).asJsonObject.entrySet().forEach {
-    (it.value as JsonArray).forEach {
-      names.add(it.asString)
+  JsonParser().parse(File("POPULAR.json").reader()).asJsonObject.entrySet().forEach { entry ->
+    (entry.value as JsonArray).forEach { element ->
+      names.add(element.asString)
     }
   }
   return names
 }
 
 class JsonGenerator(private val devices: List<Device>, directory: String = "json") {
+
+  private val gson = GsonBuilder().setPrettyPrinting().create()
+  private val rootDir = File(directory)
+  private val devicesDir = File(rootDir, "devices")
+  private val oemDir = File(rootDir, "manufacturers")
+  private val devicesJson = File(rootDir, "devices.json")
+  private val popularJson = File(rootDir, "popular-devices.json")
 
   /**
    * Create all the JSON files from the devices list
@@ -72,7 +79,7 @@ class JsonGenerator(private val devices: List<Device>, directory: String = "json
     createOemJsonFiles()
   }
 
-  private fun createMainJsonFile() = createJsonFile(DEVICES_JSON, GSON.toJson(devices))
+  private fun createMainJsonFile() = createJsonFile(devicesJson, gson.toJson(devices))
 
   private fun createDeviceJsonFiles() {
     val codenames = hashMapOf<String, MutableList<Device>>()
@@ -81,11 +88,11 @@ class JsonGenerator(private val devices: List<Device>, directory: String = "json
         val key = device.codename.toLowerCase()
         val list = codenames[key] ?: mutableListOf()
         list.add(device)
-        codenames.put(key, list)
+        codenames[key] = list
       }
     }
     for ((key, value) in codenames) {
-      createJsonFile(File(DEVICES_DIR, key + ".json"), GSON.toJson(value))
+      createJsonFile(File(devicesDir, "$key.json"), gson.toJson(value))
     }
   }
 
@@ -98,7 +105,7 @@ class JsonGenerator(private val devices: List<Device>, directory: String = "json
         }
       }
     }
-    createJsonFile(POPULAR_JSON, GSON.toJson(popular))
+    createJsonFile(popularJson, gson.toJson(popular))
   }
 
   private fun createOemJsonFiles() {
@@ -109,7 +116,7 @@ class JsonGenerator(private val devices: List<Device>, directory: String = "json
         val deviceList = map[device.manufacturer] ?: mutableListOf()
         deviceList.add(Device("", device.marketName, device.codename,
             device.model))
-        map.put(device.manufacturer, deviceList)
+        map[device.manufacturer] = deviceList
       }
     }
     manufacturers.addAll(map.entries.stream()
@@ -117,7 +124,7 @@ class JsonGenerator(private val devices: List<Device>, directory: String = "json
         .collect(Collectors.toList<OEM>()))
     manufacturers.forEach { oem ->
       val filename = oem.manufacturer.toUpperCase().replace(" ", "_").replace("\\.", "").replace("-", "") + ".json"
-      createJsonFile(File(OEM_DIR, filename), GSON.toJson(oem))
+      createJsonFile(File(oemDir, filename), gson.toJson(oem))
     }
   }
 
@@ -125,13 +132,6 @@ class JsonGenerator(private val devices: List<Device>, directory: String = "json
     file.parentFile?.mkdirs()
     Files.write(Paths.get(file.absolutePath), json.toByteArray())
   }
-
-  private val GSON = GsonBuilder().setPrettyPrinting().create()
-  private val ROOT_DIR = File(directory)
-  private val DEVICES_DIR = File(ROOT_DIR, "devices")
-  private val OEM_DIR = File(ROOT_DIR, "manufacturers")
-  private val DEVICES_JSON = File(ROOT_DIR, "devices.json")
-  private val POPULAR_JSON = File(ROOT_DIR, "popular-devices.json")
 
 }
 
