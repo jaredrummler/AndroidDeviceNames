@@ -342,21 +342,22 @@ public class DeviceName {
     }
     // ----------------------------------------------------------------------------
     // OnePlus
-    if ((codename != null && codename.equals("OnePlus3"))
-        || (model != null && model.equals("ONEPLUS A3000"))) {
-      return "OnePlus3";
-    }
-    if ((codename != null && codename.equals("OnePlus3T"))
-        || (model != null && model.equals("ONEPLUS A3000"))) {
-      return "OnePlus3T";
-    }
     if ((codename != null && codename.equals("OnePlus5"))
         || (model != null && model.equals("ONEPLUS A5000"))) {
-      return "OnePlus5";
+      return "OnePlus 5";
     }
     if ((codename != null && codename.equals("OnePlus5T"))
         || (model != null && model.equals("ONEPLUS A5010"))) {
-      return "OnePlus5T";
+      return "OnePlus 5T";
+    }
+    if ((codename != null && codename.equals("OnePlus6"))
+        || (model != null && model.equals("ONEPLUS A6003"))) {
+      return "OnePlus 6";
+    }
+    if ((codename != null && (codename.equals("OnePlus6T")
+        || codename.equals("OnePlus6TSingle")))
+        || (model != null && (model.equals("ONEPLUS A6013")))) {
+      return "OnePlus 6T";
     }
     // ----------------------------------------------------------------------------
     // Samsung
