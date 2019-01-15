@@ -213,6 +213,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fly View Max",
+      "codename": "ViewMax",
+      "model": "View Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flylife Connect 10.1",
       "codename": "Flylife_Connect_101_3G_2",
       "model": "Flylife Connect 10.1 3G 2"
@@ -441,6 +447,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Life Jet",
+      "codename": "LifeJet",
+      "model": "Life Jet"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Life Mega",
       "codename": "Life_Mega",
       "model": "Mega"
@@ -585,6 +597,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Slimline",
+      "codename": "Slimline",
+      "model": "Slimline"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Stratus",
       "codename": "Stratus_6",
       "model": "FS407"
@@ -648,6 +666,12 @@
       "market_name": "Tornado One",
       "codename": "IQ4511_Octa",
       "model": "IQ4511 TR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View",
+      "codename": "View",
+      "model": "View"
     }
   ]
 }

@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TicWatch C2",
+      "codename": "skipjack",
+      "model": "TicWatch C2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TicWatch Pro",
       "codename": "catfish",
       "model": "TicWatch Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TicWatch Pro 4G",
+      "codename": "catshark",
+      "model": "TicWatch Pro 4G"
     },
     {
       "manufacturer": "",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AP-727G",
+      "codename": "AP-727G",
+      "model": "AP-727G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AS-501",
       "codename": "AS_501",
       "model": "AS_501"
@@ -24,6 +30,18 @@
       "market_name": "AS-503",
       "codename": "t662_gq_tiwell",
       "model": "AS-503"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS_401L",
+      "codename": "AS_401L",
+      "model": "AS_401L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS_601L",
+      "codename": "AS_601L",
+      "model": "AS_601L"
     }
   ]
 }

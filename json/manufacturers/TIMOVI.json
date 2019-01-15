@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Epix",
+      "codename": "Epix",
+      "model": "Epix"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinit Lite 2",
       "codename": "Timovi_Infinit_Lite_2",
       "model": "Infinit_Lite_2"
@@ -54,6 +60,12 @@
       "market_name": "VISION ULTRA",
       "codename": "VISION_ULTRA",
       "model": "VISION ULTRA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Yeah_Go",
+      "codename": "Yeah_Go",
+      "model": "Yeah_Go"
     }
   ]
 }

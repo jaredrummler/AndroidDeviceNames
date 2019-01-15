@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "I star",
+      "codename": "I_star",
+      "model": "I star"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I star two",
+      "codename": "I_star_two",
+      "model": "I star two"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I_Star_Plus",
       "codename": "I_Star_Plus",
       "model": "I_Star_Plus"
@@ -39,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "STAR PRO",
+      "codename": "STAR_PRO",
+      "model": "STAR PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STAR_MIX",
       "codename": "STAR_MIX",
       "model": "STAR_MIX"
@@ -48,6 +66,18 @@
       "market_name": "Safari",
       "codename": "Safari",
       "model": "Safari"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Star Two",
+      "codename": "star_two",
+      "model": "star_two"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Star-Plus7",
+      "codename": "Star-Plus7",
+      "model": "Star-Plus7"
     },
     {
       "manufacturer": "",
@@ -66,6 +96,18 @@
       "market_name": "UMI_G",
       "codename": "UMI_G",
       "model": "UMI_G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "star_phone_x",
+      "codename": "star_phone_x",
+      "model": "star_phone_x"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "star_plus_plus",
+      "codename": "star_plus_plus",
+      "model": "star_plus_plus"
     }
   ]
 }

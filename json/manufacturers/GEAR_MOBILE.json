@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Feel_1008S",
+      "codename": "Feel_1008S",
+      "model": "1008S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Feel_7013N",
+      "codename": "Feel_7013N",
+      "model": "Feel_7013N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Feel_8002N",
+      "codename": "Feel_8002N",
+      "model": "8002N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GM7",
       "codename": "GM7",
       "model": "GM7"

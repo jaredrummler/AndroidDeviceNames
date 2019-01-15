@@ -1,0 +1,23 @@
+{
+  "manufacturer": "koobee",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "F2",
+      "codename": "koobee_F2",
+      "model": "F2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F2_Plus",
+      "codename": "koobee_F2_Plus",
+      "model": "F2_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S12",
+      "codename": "koobee_S12",
+      "model": "S12"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "ROKiT",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "IO 3D",
+      "codename": "Dingo",
+      "model": "IO 3D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IO Light",
+      "codename": "Chinchilla",
+      "model": "IO Light"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IO Pro",
+      "codename": "Emu",
+      "model": "IO Pro"
+    }
+  ]
+}

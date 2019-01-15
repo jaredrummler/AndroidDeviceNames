@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "X-Style_S5501",
+      "codename": "X-Style_S5501",
+      "model": "X-Style_S5501"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X-TREME PQ24",
       "codename": "X-treme_PQ24",
       "model": "X-treme_PQ24"
@@ -33,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X-treme PQ29",
+      "codename": "X-treme_PQ29",
+      "model": "X-treme_PQ29"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X-treme PQ53",
       "codename": "X-treme_PQ53",
       "model": "X-treme PQ53"
@@ -48,6 +60,12 @@
       "market_name": "X_Style_Tab_A103",
       "codename": "X_Style_Tab_A103",
       "model": "X_Style_Tab_A103"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X_Style_Tab_A104",
+      "codename": "X_Style_Tab_A104",
+      "model": "X_Style_Tab_A104"
     }
   ]
 }

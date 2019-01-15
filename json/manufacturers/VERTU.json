@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ASTER  P",
+      "codename": "ASTER_P",
+      "model": "ASTER P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Aster",
       "codename": "alexa",
       "model": "Aster"

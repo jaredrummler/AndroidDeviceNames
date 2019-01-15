@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Gravity_Max",
+      "codename": "Gravity_Max",
+      "model": "Gravity Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L50",
       "codename": "SPC_L50",
       "model": "L50"
@@ -87,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L55",
+      "codename": "L55",
+      "model": "L55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L60",
       "codename": "L60",
       "model": "L60"
@@ -105,9 +117,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L60 Turbo",
+      "codename": "L60_Turbo",
+      "model": "L60 Turbo"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LAIKA",
       "codename": "LAIKA",
       "model": "LAIKA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lightyear",
+      "codename": "Lightyear",
+      "model": "Lightyear"
     },
     {
       "manufacturer": "",

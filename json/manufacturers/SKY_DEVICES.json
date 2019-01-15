@@ -69,6 +69,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite M45",
+      "codename": "Elite_M45",
+      "model": "Elite M45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite M5Plus",
+      "codename": "Elite_M5Plus",
+      "model": "Elite M5Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite M5Plus",
+      "codename": "Elite_M5Plus_SAL",
+      "model": "Elite M5Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite T45",
+      "codename": "Elite_T45",
+      "model": "Elite T45"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fuego 4.0T",
       "codename": "Fuego_4_0T_EC",
       "model": "Fuego 4.0T"
@@ -129,6 +153,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PLATINUM D5",
+      "codename": "Platinum_D5",
+      "model": "Platinum D5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PLATINUM D5",
+      "codename": "Platinum_D5_CA",
+      "model": "Platinum D5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PLATINUM M4",
       "codename": "Platinum_M4_SV",
       "model": "Platinum M4"
@@ -138,6 +174,12 @@
       "market_name": "PLATINUM VIEW",
       "codename": "PLATINUMVIEW",
       "model": "PLATINUMVIEW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PLATINUM_E5",
+      "codename": "Platinum_E5",
+      "model": "Platinum_E5"
     },
     {
       "manufacturer": "",

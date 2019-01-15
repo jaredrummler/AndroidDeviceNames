@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blade_C6",
+      "codename": "Blade_C6",
+      "model": "Blade_C6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blade_C7",
+      "codename": "Blade_C7",
+      "model": "Blade_C7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CAR AVN SYSTEM",
       "codename": "koecn",
       "model": "TCC893X_EVM"
@@ -42,6 +54,12 @@
       "market_name": "E503F",
       "codename": "E503F",
       "model": "E503F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E601F",
+      "codename": "E601F",
+      "model": "E601F"
     },
     {
       "manufacturer": "",
@@ -141,6 +159,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hyundai Koral_7M4",
+      "codename": "HT0704K08",
+      "model": "HT0704K08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral 10W2",
+      "codename": "HT1003W16",
+      "model": "HT1003W16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral 10XL",
+      "codename": "HT1004L16",
+      "model": "HT1004L16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Koral_10X2",
+      "codename": "HT1004X16",
+      "model": "Koral_10X2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L500U",
       "codename": "L500U",
       "model": "L500U"
@@ -165,9 +207,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "L503F Plus",
+      "codename": "L503F_Plus",
+      "model": "L503F Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L575",
       "codename": "L575",
       "model": "L575"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L601F",
+      "codename": "L601F",
+      "model": "L601F"
     },
     {
       "manufacturer": "",

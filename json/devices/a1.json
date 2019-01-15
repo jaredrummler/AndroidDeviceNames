@@ -18,6 +18,12 @@
     "model": "Liquid"
   },
   {
+    "manufacturer": "Asanzo",
+    "market_name": "A1",
+    "codename": "A1",
+    "model": "A1"
+  },
+  {
     "manufacturer": "Foxconn",
     "market_name": "",
     "codename": "A1",
@@ -32,6 +38,12 @@
   {
     "manufacturer": "Lava",
     "market_name": "iris atom",
+    "codename": "A1",
+    "model": "A1"
+  },
+  {
+    "manufacturer": "LeBest",
+    "market_name": "A1",
     "codename": "A1",
     "model": "A1"
   },

@@ -33,6 +33,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Gravity Life",
+      "codename": "Gravity_Life",
+      "model": "Gravity Life"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hidra Plus",
+      "codename": "Hidra_Plus",
+      "model": "Hidra Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LIMIT",
       "codename": "LIMIT",
       "model": "LIMIT"
@@ -48,6 +60,12 @@
       "market_name": "MAGNO",
       "codename": "ZUUM_MAGNO-S",
       "model": "MAGNO-S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MAGNO C",
+      "codename": "MAGNO_C",
+      "model": "MAGNO C"
     },
     {
       "manufacturer": "",
@@ -72,6 +90,18 @@
       "market_name": "STELLAR MINI",
       "codename": "STELLAR_MINI",
       "model": "STELLAR MINI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STELLAR PLUS",
+      "codename": "STELLAR_PLUS",
+      "model": "STELLAR PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STELLAR PRO",
+      "codename": "STELLAR_PRO",
+      "model": "STELLAR PRO"
     },
     {
       "manufacturer": "",

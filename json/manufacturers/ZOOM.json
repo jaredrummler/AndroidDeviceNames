@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "LitePro",
+      "codename": "LitePro",
+      "model": "LitePro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Social",
+      "codename": "SOCIAL",
+      "model": "SOCIAL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z101G",
       "codename": "Z101G",
       "model": "Z101G"

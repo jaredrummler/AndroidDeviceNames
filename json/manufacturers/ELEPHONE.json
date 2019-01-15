@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A2",
+      "codename": "A2",
+      "model": "A2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A4",
       "codename": "A4",
       "model": "A4"
@@ -15,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A5",
+      "codename": "A5",
+      "model": "A5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elephone S8",
       "codename": "S8",
       "model": "S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P11",
+      "codename": "P11",
+      "model": "P11"
     },
     {
       "manufacturer": "",

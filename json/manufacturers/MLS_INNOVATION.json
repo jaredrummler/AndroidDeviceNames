@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IQS805",
+      "codename": "iQS805",
+      "model": "iQS805"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PTB7QSG_3G",
       "codename": "iQE200",
       "model": "iQE200"

@@ -31,8 +31,32 @@
   },
   {
     "manufacturer": "Hisense",
+    "market_name": "Hisense F15",
+    "codename": "HS6739MT",
+    "model": "Hisense F15"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense F18",
+    "codename": "HS6739MT",
+    "model": "Hisense F18"
+  },
+  {
+    "manufacturer": "Hisense",
     "market_name": "Hisense F27",
     "codename": "HS6739MT",
     "model": "Hisense F27"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense F35",
+    "codename": "HS6739MT",
+    "model": "Hisense F28"
+  },
+  {
+    "manufacturer": "Hisense",
+    "market_name": "Hisense F35",
+    "codename": "HS6739MT",
+    "model": "Hisense F35"
   }
 ]

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G7060",
+      "codename": "G7060",
+      "model": "G7060"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IS2PLUS",
       "codename": "IS2PLUS",
       "model": "IS2PLUS"
@@ -39,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Next_P_PRO",
+      "codename": "Next_P_PRO",
+      "model": "Next_P_PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VOX  4s",
       "codename": "VOX_4s",
       "model": "VOX 4s"
@@ -60,6 +72,12 @@
       "market_name": "VOX  STEEL Plus",
       "codename": "VOX_STEEL_Plus_V2",
       "model": "VOX STEEL Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VOX Alpha",
+      "codename": "VOX_Alpha",
+      "model": "VOX Alpha"
     },
     {
       "manufacturer": "",

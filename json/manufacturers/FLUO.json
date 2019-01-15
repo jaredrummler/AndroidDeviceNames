@@ -27,9 +27,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N",
+      "codename": "N",
+      "model": "N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N",
+      "codename": "S574020S",
+      "model": "N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S554020",
       "codename": "S554020",
       "model": "S554020"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S574010S",
+      "codename": "S574010S",
+      "model": "S574010S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2 Max",
+      "codename": "S624010S",
+      "model": "X2 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2_Max",
+      "codename": "X2_Max",
+      "model": "X2 Max"
     }
   ]
 }

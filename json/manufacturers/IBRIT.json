@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alpha_Plus",
+      "codename": "Alpha_Plus",
+      "model": "Alpha_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IBRIT_I5",
       "codename": "i5",
       "model": "IBRIT_I5"
@@ -21,6 +27,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IBRIT_POWER6",
+      "codename": "iBRIT_POWER6",
+      "model": "iBRIT_POWER6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M4",
+      "codename": "M4",
+      "model": "M4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MAX7",
       "codename": "MAX7",
       "model": "MAX7"
@@ -30,6 +48,18 @@
       "market_name": "Speed_Pro_Plus",
       "codename": "SF56",
       "model": "SF56"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VEGA",
+      "codename": "VEGA",
+      "model": "VEGA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XL",
+      "codename": "XL",
+      "model": "XL"
     },
     {
       "manufacturer": "",

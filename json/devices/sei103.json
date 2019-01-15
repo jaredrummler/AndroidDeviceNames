@@ -1,5 +1,17 @@
 [
   {
+    "manufacturer": "Dialog",
+    "market_name": "SEI103DL",
+    "codename": "SEI103",
+    "model": "SEI103DL"
+  },
+  {
+    "manufacturer": "Elsys",
+    "market_name": "ETRI10",
+    "codename": "SEI103",
+    "model": "ETRI01"
+  },
+  {
     "manufacturer": "Hathway",
     "market_name": "OTH-100",
     "codename": "SEI103",

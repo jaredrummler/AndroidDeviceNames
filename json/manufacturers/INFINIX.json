@@ -129,6 +129,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT 7",
+      "codename": "Infinix-X624",
+      "model": "Infinix X624"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 7",
+      "codename": "Infinix-X624B",
+      "model": "Infinix X624B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT NOTE",
       "codename": "Infinix-X551",
       "model": "Infinix-X551"
@@ -189,9 +201,33 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Infinix",
-      "codename": "Infinix_X510_sprout",
-      "model": "Infinix X510"
+      "market_name": "Infinix HOT 6X",
+      "codename": "Infinix-X623",
+      "model": "Infinix X623"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix HOT 6X",
+      "codename": "Infinix-X623",
+      "model": "Infinix X623B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 5",
+      "codename": "Infinix-X604_sprout",
+      "model": "Infinix X604"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 5",
+      "codename": "Infinix-X604_sprout",
+      "model": "Infinix X604B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinix NOTE 5 Stylus",
+      "codename": "Infinix-X605_sprout",
+      "model": "Infinix X605"
     },
     {
       "manufacturer": "",
@@ -282,12 +318,6 @@
       "market_name": "NOTE 4 Pro",
       "codename": "Infinix-X571",
       "model": "Infinix X571-LTE"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "NOTE 5 Stylus",
-      "codename": "Infinix-X605_sprout",
-      "model": "Infinix X605"
     },
     {
       "manufacturer": "",

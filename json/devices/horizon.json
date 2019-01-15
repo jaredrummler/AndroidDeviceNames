@@ -7,8 +7,14 @@
   },
   {
     "manufacturer": "Inco",
-    "market_name": "INCO",
+    "market_name": "Horizon",
     "codename": "HORIZON",
     "model": "HORIZON"
+  },
+  {
+    "manufacturer": "Inco",
+    "market_name": "Horizon +",
+    "codename": "Horizon",
+    "model": "Horizon +"
   }
 ]

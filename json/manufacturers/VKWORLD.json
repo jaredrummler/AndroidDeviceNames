@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "K1",
+      "codename": "K1",
+      "model": "K1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mix3",
       "codename": "Mix3",
       "model": "Mix3"
@@ -18,6 +24,18 @@
       "market_name": "S8",
       "codename": "vkworld_S8",
       "model": "S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S8Lite",
+      "codename": "S8Lite",
+      "model": "S8Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S9",
+      "codename": "S9",
+      "model": "S9"
     },
     {
       "manufacturer": "",

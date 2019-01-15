@@ -1863,6 +1863,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ALCATEL 1T 7 3G",
+      "codename": "U3A_7_3G",
+      "model": "9009G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ALCATEL 3C",
       "codename": "A3A_XL_3G",
       "model": "5026A"
@@ -3449,6 +3455,12 @@
       "manufacturer": "",
       "market_name": "Alcatel 1",
       "codename": "U3A_PLUS_4G",
+      "model": "5033D_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
       "model": "5033D_RU"
     },
     {
@@ -3467,6 +3479,12 @@
       "manufacturer": "",
       "market_name": "Alcatel 1",
       "codename": "U3A_PLUS_4G",
+      "model": "5033S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
       "model": "5033T"
     },
     {
@@ -3479,7 +3497,19 @@
       "manufacturer": "",
       "market_name": "Alcatel 1",
       "codename": "U3A_PLUS_4G",
+      "model": "5033X_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
       "model": "5033Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033Y_EEA"
     },
     {
       "manufacturer": "",
@@ -3492,6 +3522,18 @@
       "market_name": "Alcatel 1",
       "codename": "U3A_PLUS_4G",
       "model": "Optus X Start"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1C",
+      "codename": "Curie",
+      "model": "5003D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1C",
+      "codename": "Curie",
+      "model": "5003D_EEA"
     },
     {
       "manufacturer": "",
@@ -3587,6 +3629,12 @@
       "manufacturer": "",
       "market_name": "Alcatel 3",
       "codename": "A3A",
+      "model": "5052D_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "A3A",
       "model": "5052D_RU"
     },
     {
@@ -3594,6 +3642,12 @@
       "market_name": "Alcatel 3",
       "codename": "A3A",
       "model": "5052Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "A3A",
+      "model": "5052Y_EEA"
     },
     {
       "manufacturer": "",
@@ -3611,7 +3665,43 @@
       "manufacturer": "",
       "market_name": "Alcatel 3L",
       "codename": "A3A_LITE",
+      "model": "5034D_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3L",
+      "codename": "A3A_LITE",
       "model": "5034D_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3L",
+      "codename": "A3A_LITE",
+      "model": "HEYOU5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3T 8",
+      "codename": "A3A_8_4G",
+      "model": "9027F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3T 8",
+      "codename": "A3A_8_4G",
+      "model": "9027Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3T 8",
+      "codename": "A3A_8_4G",
+      "model": "9027T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3T 8",
+      "codename": "A3A_8_4G",
+      "model": "9027X"
     },
     {
       "manufacturer": "",
@@ -3708,6 +3798,18 @@
       "market_name": "Alcatel 5X",
       "codename": "A5X",
       "model": "5060D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 5X",
+      "codename": "A5X",
+      "model": "5060D_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 5X",
+      "codename": "A5X",
+      "model": "5060J"
     },
     {
       "manufacturer": "",
@@ -6300,6 +6402,12 @@
       "market_name": "alcatel 1X",
       "codename": "Edison",
       "model": "5008D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "alcatel 1X",
+      "codename": "Edison",
+      "model": "5008D_EEA"
     },
     {
       "manufacturer": "",

@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GRACE V7 LTE",
+      "codename": "CF59B6L",
+      "model": "PSP7590DUO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GV7790",
       "codename": "GV7790",
       "model": "GV7790"
@@ -537,6 +543,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT5771_4G",
+      "codename": "LS10A8L",
+      "model": "PMT5771_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT5777_3G",
       "codename": "PMT5777_3G",
       "model": "PMT5777_3G"
@@ -993,9 +1005,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Prestigio X pro",
+      "codename": "KN54B1L",
+      "model": "PSP7546DUO_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WIZE A3",
       "codename": "PSP3453DUO",
       "model": "PSP3453DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WIZE Y3",
+      "codename": "IN39B3G",
+      "model": "PSP3406DUO"
     },
     {
       "manufacturer": "",
@@ -1020,6 +1044,12 @@
       "market_name": "Wize 3401 3G",
       "codename": "JU10A3G",
       "model": "PMT3401_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wize 3771 3G",
+      "codename": "CD10A2G",
+      "model": "PMT3771_3G"
     }
   ]
 }

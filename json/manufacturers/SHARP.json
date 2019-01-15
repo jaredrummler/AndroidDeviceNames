@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "8T-CxxAXAA",
+      "codename": "lcd_xxgae9a",
+      "model": "LCD-xxGAE9A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A01SH",
       "codename": "A01SH",
       "model": "A01SH"
@@ -102,6 +108,18 @@
       "market_name": "AN-NP40",
       "codename": "an_np40",
       "model": "AN-NP40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS 4T/8T-C**AL1X/AL2X/AX1X",
+      "codename": "tcth2ux",
+      "model": "AQUOS-TVX18"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS 8T-**AX1T",
+      "codename": "tcth2ut",
+      "model": "AQUOS-TVT18"
     },
     {
       "manufacturer": "",
@@ -519,6 +537,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R2 compact 803SH",
+      "codename": "SG803SH",
+      "model": "803SH"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS SERIE SHL25",
       "codename": "SHL25",
       "model": "SHL25"
@@ -702,6 +726,42 @@
       "market_name": "AQUOS sense plus (SH-M07)",
       "codename": "SH-M07",
       "model": "SH-M07"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense2 (SH-M08)",
+      "codename": "SH-M08",
+      "model": "SH-M08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense2 SH-01L",
+      "codename": "SH-01L",
+      "model": "SH-01L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense2 SHV43",
+      "codename": "MZW",
+      "model": "SHV43"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense2 SHV43",
+      "codename": "MZW-u",
+      "model": "SHV43-u"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero",
+      "codename": "SG801SH",
+      "model": "801SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero",
+      "codename": "SH-Z10",
+      "model": "SH-Z10"
     },
     {
       "manufacturer": "",
@@ -1338,6 +1398,12 @@
       "market_name": "S3",
       "codename": "rome_sprout",
       "model": "S3-SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S5",
+      "codename": "zeon_sprout",
+      "model": "S5-SH"
     },
     {
       "manufacturer": "",

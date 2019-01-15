@@ -2229,6 +2229,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EXODUS 1",
+      "codename": "htc_exodugl",
+      "model": "EXODUS 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EXODUS 1",
+      "codename": "htc_exouhl",
+      "model": "EXODUS 1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Evo 4G",
       "codename": "supersonic",
       "model": "PC36100"
@@ -2304,18 +2316,6 @@
       "market_name": "HTC 10 evo",
       "codename": "htc_acawhl",
       "model": "HTC 10 evo"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "HTC 2Q6E1",
-      "codename": "htc_imldugl",
-      "model": "HTC 2Q6E1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "HTC 2Q6E1",
-      "codename": "htc_imldugl",
-      "model": "HTC U12 life"
     },
     {
       "manufacturer": "",
@@ -4032,18 +4032,6 @@
       "market_name": "X2-HT",
       "codename": "htc_ocla1_sprout",
       "model": "X2-HT"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "breeze",
-      "codename": "htc_breeze_dugl",
-      "model": "HTC 2Q5V1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "breeze",
-      "codename": "htc_breeze_dugl",
-      "model": "HTC Desire 12"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Dream",
+      "codename": "Dream",
+      "model": "Dream"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mercury",
+      "codename": "Mercury",
+      "model": "Mercury"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S5",
       "codename": "S5",
       "model": "S5"

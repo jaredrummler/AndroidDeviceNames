@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL3889",
+      "codename": "KL3889",
+      "model": "KL3889"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL450",
       "codename": "KL450",
       "model": "KL450"
@@ -48,6 +54,24 @@
       "market_name": "KL600B",
       "codename": "KLIPAD_KL600B",
       "model": "KL600B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL7590",
+      "codename": "KL7590",
+      "model": "KL7590"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL7591",
+      "codename": "KL7591",
+      "model": "KL7591"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL7599",
+      "codename": "KL7599",
+      "model": "KL7599"
     },
     {
       "manufacturer": "",
@@ -114,6 +138,18 @@
       "market_name": "V355B",
       "codename": "V355B",
       "model": "KLIPAD_V355B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V356",
+      "codename": "V356",
+      "model": "V356"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V356B",
+      "codename": "V356B",
+      "model": "V356B"
     },
     {
       "manufacturer": "",

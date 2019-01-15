@@ -9,9 +9,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FIREFLY MOBILE",
+      "codename": "AURII_XCITE",
+      "model": "AURII_XCITE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INTENSE_XT",
       "codename": "INTENSE_XT",
       "model": "INTENSE_XT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Inspire_4G",
+      "codename": "INSPIRE_4G",
+      "model": "INSPIRE_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SECRET_XR",
+      "codename": "SECRET_XR",
+      "model": "SECRET_XR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIVID_PRO",
+      "codename": "VIVID_PRO",
+      "model": "VIVID_PRO"
     }
   ]
 }

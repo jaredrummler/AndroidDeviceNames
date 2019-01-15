@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "10edge",
+      "codename": "10edge",
+      "model": "10edge"
+    },
+    {
+      "manufacturer": "",
       "market_name": "1AY",
       "codename": "1AY",
       "model": "1AY"

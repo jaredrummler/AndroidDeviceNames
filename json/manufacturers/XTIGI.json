@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "JOY10_LTE",
+      "codename": "MID",
+      "model": "JOY10_LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JOY7_Mate",
       "codename": "JOY7_Mate",
       "model": "X_TIGI_JOY7_Mate"
@@ -12,6 +18,18 @@
       "market_name": "JOY7_TV",
       "codename": "JOY7_TV",
       "model": "X_TIGI_JOY7_TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JOY8_LTE",
+      "codename": "MID",
+      "model": "JOY8_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "JOY8_Mate",
+      "codename": "JOY8_Mate",
+      "model": "X-TIGI_JOY8 Mate"
     },
     {
       "manufacturer": "",
@@ -51,6 +69,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V8",
+      "codename": "V8",
+      "model": "V8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X-TIGI P16",
+      "codename": "Photo_P16",
+      "model": "X_TIGI_Photo P16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X-TIGI V19",
+      "codename": "X_TIGI_V19",
+      "model": "X_TIGI_V19"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X-TIGI_JOY7_MAX",
       "codename": "X-TIGI_JOY7_MAX",
       "model": "X-TIGI_JOY7_MAX"
@@ -87,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X-TIGI_V5",
+      "codename": "X-TIGI_V5",
+      "model": "X-TIGI_V5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X_TIGI_A1",
       "codename": "X_TIGI_A1",
       "model": "X_TIGI_A1"
@@ -105,9 +147,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X_TIGI_Photo P20",
+      "codename": "X_TIGI_Photo_P20",
+      "model": "X_TIGI_Photo P20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X_TIGI_V16",
       "codename": "X_TIGI_V16",
       "model": "X_TIGI_V16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X_TIGI_V16_LTE",
+      "codename": "X_TIGI_V16_LTE",
+      "model": "X_TIGI_V16_LTE"
     }
   ]
 }

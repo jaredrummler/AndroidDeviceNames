@@ -87,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A44 Air",
+      "codename": "itel-L5502",
+      "model": "itel L5502"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A44 Pro",
       "codename": "itel-A44-Pro",
       "model": "itel A44 Pro"
@@ -120,6 +126,12 @@
       "market_name": "ITELL_K4700Q",
       "codename": "ITELL_K4700Q",
       "model": "ITELL K4700Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ITELMOBILE GP10X2019",
+      "codename": "GP10X2019",
+      "model": "GP10X2019"
     },
     {
       "manufacturer": "",
@@ -453,6 +465,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A14S",
+      "codename": "itel-A14S",
+      "model": "itel A14S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel A16",
       "codename": "itel-A16",
       "model": "itel A16"
@@ -467,6 +485,12 @@
       "manufacturer": "",
       "market_name": "itel A23",
       "codename": "itel-A23",
+      "model": "itel A23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A23",
+      "codename": "itel-A23F",
       "model": "itel A23"
     },
     {
@@ -528,6 +552,12 @@
       "market_name": "itel S32LTE",
       "codename": "itel-S32LTE",
       "model": "itel S32LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel W5503",
+      "codename": "itel-W5503",
+      "model": "itel W5503"
     }
   ]
 }

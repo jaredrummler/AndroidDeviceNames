@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MID169",
+      "codename": "MID169",
+      "model": "MID169"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MID210",
       "codename": "MID210",
       "model": "MID210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID225",
+      "codename": "MID225",
+      "model": "MID225"
     }
   ]
 }

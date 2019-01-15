@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A10 Lite 2019",
+      "codename": "A10_Lite_2019",
+      "model": "A10_Lite_2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A10 Lite 2GB",
+      "codename": "A10_Lite_2GB",
+      "model": "A10_Lite_2GB"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A10 Plus",
       "codename": "A10_Plus",
       "model": "A10_Plus"
@@ -117,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AX503",
+      "codename": "AX503",
+      "model": "AX503"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6 Duo",
       "codename": "C6_Duo",
       "model": "C6_Duo"
@@ -162,6 +180,18 @@
       "market_name": "E4 Lite",
       "codename": "E4_Lite",
       "model": "E4_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10 Life",
+      "codename": "P10_Life",
+      "model": "P10_Life"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P10 Pro",
+      "codename": "P10_Pro",
+      "model": "P10_Pro"
     },
     {
       "manufacturer": "",
@@ -791,6 +821,12 @@
       "manufacturer": "",
       "market_name": "X4 Soul Infinity N",
       "codename": "X4_Soul_Infinity_N",
+      "model": "X4_Soul_Infinity_N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X4 Soul Infinity N",
+      "codename": "X4_Soul_Infinity_NV",
       "model": "X4_Soul_Infinity_N"
     },
     {

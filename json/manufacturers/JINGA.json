@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Neon",
+      "codename": "Neon",
+      "model": "Neon"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Optim 4G",
       "codename": "Optim4G",
       "model": "Optim4G"
@@ -39,9 +45,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pass3G",
+      "codename": "JI50AG1_189HP",
+      "model": "Pass3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Picasso Note",
+      "codename": "PicassoNote",
+      "model": "PicassoNote"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SmartPRO",
       "codename": "JI55_216M",
       "model": "SmartPRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Start",
+      "codename": "JI50AG2_169HP",
+      "model": "Start"
     },
     {
       "manufacturer": "",
@@ -51,9 +75,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "StartLTE",
+      "codename": "JI50AG1_169HP",
+      "model": "StartLTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Touch 4G",
       "codename": "Touch4G",
       "model": "Touch4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WinPRO",
+      "codename": "WinPRO",
+      "model": "WinPRO"
     }
   ]
 }

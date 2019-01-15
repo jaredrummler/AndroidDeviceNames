@@ -171,6 +171,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IRIS88",
+      "codename": "iris88",
+      "model": "iris88"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IRIS88S",
+      "codename": "iris88s",
+      "model": "iris88s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Iris 505",
       "codename": "iris505",
       "model": "iris505"
@@ -180,6 +192,24 @@
       "market_name": "Iris820",
       "codename": "iris820",
       "model": "iris820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Iris90",
+      "codename": "iris90",
+      "model": "iris90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LE9810",
+      "codename": "LE9810",
+      "model": "LAVA LE9810"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LE9820",
+      "codename": "LE9820",
+      "model": "LAVA LE9820"
     },
     {
       "manufacturer": "",
@@ -435,9 +465,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z50_Pro",
+      "codename": "Z50_Pro",
+      "model": "Z50_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z60",
       "codename": "Z60",
       "model": "Z60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z60S",
+      "codename": "Z60s",
+      "model": "Z60s"
     },
     {
       "manufacturer": "",
@@ -450,6 +492,12 @@
       "market_name": "Z61",
       "codename": "Z61",
       "model": "Z61"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z61-2GB",
+      "codename": "Z61_2GB",
+      "model": "Z61_2GB"
     },
     {
       "manufacturer": "",
@@ -486,6 +534,18 @@
       "market_name": "Z91",
       "codename": "Z91",
       "model": "Z91"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z92",
+      "codename": "Z92",
+      "model": "Z92"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZX",
+      "codename": "ZX",
+      "model": "ZX"
     },
     {
       "manufacturer": "",
@@ -531,8 +591,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iris42",
+      "codename": "iris42",
+      "model": "iris42"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iris50",
       "codename": "iris50",
+      "model": "iris50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iris50c",
+      "codename": "iris50c",
       "model": "iris50"
     },
     {
@@ -603,9 +675,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iris821",
+      "codename": "iris821",
+      "model": "iris821"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iris870",
       "codename": "iris870",
       "model": "iris870"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iris880",
+      "codename": "iris880",
+      "model": "iris880"
     },
     {
       "manufacturer": "",

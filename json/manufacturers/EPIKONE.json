@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K405",
+      "codename": "K405",
+      "model": "K405"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K500",
       "codename": "K500",
       "model": "K500"
@@ -27,15 +33,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K504",
+      "codename": "K504",
+      "model": "K504"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K534",
+      "codename": "K534",
+      "model": "K534"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RS550",
       "codename": "RS550",
       "model": "RS550"
     },
     {
       "manufacturer": "",
+      "market_name": "T700",
+      "codename": "T700",
+      "model": "T700"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X500",
       "codename": "X500",
       "model": "X500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X572",
+      "codename": "X572",
+      "model": "X572"
     }
   ]
 }

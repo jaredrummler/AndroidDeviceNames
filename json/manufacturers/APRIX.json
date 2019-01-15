@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Aprix_Tab64_T2",
+      "codename": "Tab64_T2",
+      "model": "Tab64_T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Phat6",
       "codename": "Aprix_Phat6",
       "model": "Aprix_Phat6"

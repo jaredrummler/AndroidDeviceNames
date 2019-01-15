@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "H1s",
+      "codename": "H1s",
+      "model": "H1s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H2",
+      "codename": "Singtech_H2",
+      "model": "H2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinity_I1",
       "codename": "Infinity_I1",
       "model": "Infinity_I1"

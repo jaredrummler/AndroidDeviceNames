@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Elite57",
+      "codename": "Elite57",
+      "model": "Elite57"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinity K",
       "codename": "Infinity_K",
       "model": "Infinity_K"
@@ -84,6 +90,12 @@
       "market_name": "Smart4G",
       "codename": "Telenor_Smart_4G",
       "model": "Telenor_Smart_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V51",
+      "codename": "V51",
+      "model": "Infinity_i4"
     }
   ]
 }

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A4",
+      "codename": "A4",
+      "model": "Azumi A4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A4",
+      "codename": "A4_AC25",
+      "model": "Azumi A4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A40 Style Plus",
       "codename": "A40_Style_Plus",
       "model": "A40_Style_Plus"
@@ -27,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AT7",
+      "codename": "AT7",
+      "model": "AT7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AX5",
       "codename": "AX5",
       "model": "Azumi AX5"
@@ -42,6 +60,12 @@
       "market_name": "AZUMI_Daburu_A55O",
       "codename": "Daburu_A55O",
       "model": "Azumi_Daburu_A55O"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi A5",
+      "codename": "A5",
+      "model": "Azumi A5"
     },
     {
       "manufacturer": "",
@@ -84,6 +108,12 @@
       "market_name": "EXTEND 55 QL",
       "codename": "EXTEND_55_QL",
       "model": "EXTEND 55 QL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IKU A55",
+      "codename": "Azumi_IKU_A55",
+      "model": "Azumi IKU A55"
     },
     {
       "manufacturer": "",
@@ -192,6 +222,18 @@
       "market_name": "KINZO ICHI A5 QL",
       "codename": "KINZO_ichi_A5_QL_NA",
       "model": "KINZO_ichi_A5_QL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIREI A5Q PLUS",
+      "codename": "Azumi_KIREI_A5Q_PLUS_AC11",
+      "model": "KIREI A5Q PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOBU A55",
+      "codename": "NOBU_A55_AC01",
+      "model": "Azumi NOBU A55"
     },
     {
       "manufacturer": "",

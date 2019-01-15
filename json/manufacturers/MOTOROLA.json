@@ -1077,6 +1077,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Moto E (5) Play",
+      "codename": "rjames_f",
+      "model": "moto e5 play"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Moto E with 4G LTE (2nd Gen)",
       "codename": "surnia_cdma",
       "model": "MotoE2"
@@ -1875,6 +1881,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Motorola one",
+      "codename": "deen_sprout",
+      "model": "motorola one"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Motosmart",
       "codename": "XT389",
       "model": "XT389"
@@ -2352,12 +2364,6 @@
       "market_name": "moto z3 play",
       "codename": "beckham",
       "model": "Moto Z3 Play"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "motorola one",
-      "codename": "deen_sprout",
-      "model": "motorola one"
     },
     {
       "manufacturer": "",

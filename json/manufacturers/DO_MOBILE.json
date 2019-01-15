@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DO_Mate2",
+      "codename": "Mate2",
+      "model": "Mate2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mate1",
       "codename": "Mate1",
       "model": "DO_S1"

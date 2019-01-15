@@ -135,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hurricane_IGNITE",
+      "codename": "Hurricane_IGNITE",
+      "model": "Hurricane_IGNITE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INFINITY",
       "codename": "INFINITY",
       "model": "INFINITY"
@@ -147,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LINK",
+      "codename": "LINK",
+      "model": "LINK"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lynx",
       "codename": "Lynx",
       "model": "Lynx"
@@ -156,6 +168,12 @@
       "market_name": "Onyx",
       "codename": "Hurricane_Onyx",
       "model": "Onyx"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PULSE",
+      "codename": "pulse",
+      "model": "pulse"
     },
     {
       "manufacturer": "",
@@ -276,6 +294,12 @@
       "market_name": "Wave",
       "codename": "Hurricane",
       "model": "Wave"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wave_Plus",
+      "codename": "Wave_Plus",
+      "model": "Wave_Plus"
     }
   ]
 }

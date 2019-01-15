@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Kamba 2",
+      "codename": "7mobile_Kamba_2",
+      "model": "Kamba_2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SWEGUE",
       "codename": "SWEGUE",
       "model": "SWEGUE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Swegue 2",
+      "codename": "Swegue_2",
+      "model": "Swegue 2"
     }
   ]
 }

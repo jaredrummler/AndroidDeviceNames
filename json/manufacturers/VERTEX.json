@@ -63,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress Click NFC",
+      "codename": "Impress_Click_NFC",
+      "model": "Impress Click NFC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress Cube",
       "codename": "Impress_Cube",
       "model": "Impress_Cube"
@@ -114,6 +120,12 @@
       "market_name": "Impress Groove",
       "codename": "Impress_Groove",
       "model": "Impress_Groove"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress Life",
+      "codename": "Impress_Life",
+      "model": "Impress_Life"
     },
     {
       "manufacturer": "",
@@ -219,6 +231,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress_Aqua",
+      "codename": "Impress_Aqua",
+      "model": "Impress_Aqua"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Astra4G",
+      "codename": "Impress_Astra4G",
+      "model": "Impress_Astra4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress_Bear",
       "codename": "Impress_Bear",
       "model": "Impress_Bear"
@@ -240,6 +264,12 @@
       "market_name": "Impress_Disco",
       "codename": "Impress_Disco",
       "model": "Impress Disco"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Eagle_4G",
+      "codename": "Impress_Eagle4G",
+      "model": "Impress_Eagle4G"
     },
     {
       "manufacturer": "",
@@ -279,6 +309,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress_Luck4G_NFC",
+      "codename": "Impress_Luck4G_NFC",
+      "model": "Impress_Luck4G_NFC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress_Nero",
       "codename": "Impress_Nero",
       "model": "Impress_Nero"
@@ -297,15 +333,63 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Impress_Pluto",
+      "codename": "Impress_Pluto",
+      "model": "Impress_Pluto"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Rosso",
+      "codename": "Impress_Rosso",
+      "model": "Impress_Rosso"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Sunset4G",
+      "codename": "Impress_Sunset4G",
+      "model": "Impress_Sunset4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Vira",
+      "codename": "Impress_Vira",
+      "model": "Impress_Vira"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress_Wolf",
       "codename": "Impress_Wolf",
       "model": "Impress_Wolf"
     },
     {
       "manufacturer": "",
+      "market_name": "Impress_Zeon3G",
+      "codename": "Impress_Zeon3G",
+      "model": "Impress_Zeon3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress_Zeon4G",
+      "codename": "Impress_Zeon4G",
+      "model": "Impress_Zeon4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lion_Dual",
       "codename": "Lion_Dual",
       "model": "Lion_Dual"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Luck",
+      "codename": "Luck",
+      "model": "Luck"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pro_L_5045_4G",
+      "codename": "Pro_L_5045_4G",
+      "model": "Pro_L_5045_4G"
     },
     {
       "manufacturer": "",

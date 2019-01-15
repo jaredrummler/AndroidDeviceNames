@@ -797,6 +797,12 @@
       "manufacturer": "",
       "market_name": "B6",
       "codename": "b6",
+      "model": "LG-V426"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B6",
+      "codename": "b6",
       "model": "LGT02"
     },
     {
@@ -1407,9 +1413,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "G7 One",
-      "codename": "phoenix_sprout",
-      "model": "LM-Q910"
+      "market_name": "G7 fit",
+      "codename": "falcon",
+      "model": "LM-Q850"
     },
     {
       "manufacturer": "",
@@ -1908,6 +1914,12 @@
       "market_name": "LG Aristo",
       "codename": "lv3",
       "model": "LGMS210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Aristo 3",
+      "codename": "cv1s",
+      "model": "LM-X220"
     },
     {
       "manufacturer": "",
@@ -3048,6 +3060,12 @@
       "market_name": "LG G6",
       "codename": "lucye",
       "model": "VS988"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG G7 One",
+      "codename": "phoenix_sprout",
+      "model": "LM-Q910"
     },
     {
       "manufacturer": "",
@@ -4738,6 +4756,12 @@
     {
       "manufacturer": "",
       "market_name": "LG Q7+",
+      "codename": "cv5a",
+      "model": "LM-Q617.FGN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q7+",
       "codename": "cv5an",
       "model": "LM-Q725K"
     },
@@ -4770,6 +4794,12 @@
       "market_name": "LG Q7+",
       "codename": "cv5an",
       "model": "LM-Q727S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Q9",
+      "codename": "falcon",
+      "model": "LM-Q925K"
     },
     {
       "manufacturer": "",
@@ -5082,6 +5112,12 @@
       "market_name": "LG Tribute Dynasty",
       "codename": "mcv150",
       "model": "LG-SP200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG Tribute Empire",
+      "codename": "mcv1s",
+      "model": "LM-X220PM"
     },
     {
       "manufacturer": "",
@@ -5580,6 +5616,12 @@
       "market_name": "LG Zero",
       "codename": "c100",
       "model": "LG-H650"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LG it",
+      "codename": "cv1",
+      "model": "LGV36"
     },
     {
       "manufacturer": "",
@@ -6809,6 +6851,12 @@
       "manufacturer": "",
       "market_name": "Q8",
       "codename": "cv7an",
+      "model": "LM-Q815K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q8",
+      "codename": "cv7an",
       "model": "LM-Q815L"
     },
     {
@@ -6816,6 +6864,18 @@
       "market_name": "Q8",
       "codename": "cv7an",
       "model": "LM-Q815S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QStylus",
+      "codename": "cv7a",
+      "model": "801LG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QStylus",
+      "codename": "cv7a",
+      "model": "LM-Q710XM"
     },
     {
       "manufacturer": "",
@@ -7338,6 +7398,12 @@
       "market_name": "X4+",
       "codename": "cv3n",
       "model": "LM-X415S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X5",
+      "codename": "phoenix_sprout",
+      "model": "X5-LG"
     },
     {
       "manufacturer": "",

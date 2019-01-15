@@ -441,6 +441,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NEC PC-TE510BAL",
+      "codename": "PC-TE510BAL",
+      "model": "PC-TE510BAL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEC909e",
       "codename": "NEC909e",
       "model": "NEC909e"
@@ -471,9 +477,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PC-TE410JAW",
+      "codename": "PC-TE410JAW",
+      "model": "PC-TE410JAW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PC-TE508HAW",
       "codename": "PC-TE508HAW",
       "model": "PC-TE508HAW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PC-TE510JAW",
+      "codename": "PC-TE510JAW",
+      "model": "PC-TE510JAW"
     },
     {
       "manufacturer": "",

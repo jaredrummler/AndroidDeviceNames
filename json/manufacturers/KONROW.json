@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CITY",
+      "codename": "CITY",
+      "model": "CITY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EASY5",
+      "codename": "EASY5",
+      "model": "EASY5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KONROW",
       "codename": "KONROW_701X",
       "model": "KONROW_701X"

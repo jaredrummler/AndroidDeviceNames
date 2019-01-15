@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TAB1081",
+      "codename": "TAB1081",
+      "model": "TAB1081"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAB781",
       "codename": "TAB781",
       "model": "TAB781"

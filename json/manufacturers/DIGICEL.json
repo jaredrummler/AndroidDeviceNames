@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DL501",
+      "codename": "DL501",
+      "model": "DL501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Digi C1",
+      "codename": "Digi_C1",
+      "model": "Digi C1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Digi R1",
+      "codename": "Digi_R1",
+      "model": "Digi R1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GO Onyx",
       "codename": "GO_Onyx",
       "model": "GO Onyx"

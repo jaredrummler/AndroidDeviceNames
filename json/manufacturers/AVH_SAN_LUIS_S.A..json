@@ -15,9 +15,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Excer_P1",
+      "codename": "Excer_P1",
+      "model": "Excer_P1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Excer_T8",
+      "codename": "Excer_T8",
+      "model": "Excer_T8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vortech3.0",
       "codename": "Vortech3_0",
       "model": "Vortech3.0"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vortech_3_0",
+      "codename": "Vortech_3_0",
+      "model": "Vortech 3.0"
     }
   ]
 }

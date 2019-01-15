@@ -64,6 +64,12 @@
     {
       "manufacturer": "",
       "market_name": "Advance L4",
+      "codename": "A350",
+      "model": "Advance L4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Advance L4",
       "codename": "A350A",
       "model": "Advance L4"
     },
@@ -597,6 +603,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S5",
+      "codename": "S0480LL",
+      "model": "S5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STUDIO 7.0 LTE",
       "codename": "blu_s0010tw",
       "model": "BLU STUDIO 7.0 LTE"
@@ -820,6 +832,12 @@
     {
       "manufacturer": "",
       "market_name": "Studio Mega LTE",
+      "codename": "S0460WW",
+      "model": "Studio Mega LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Studio Mega LTE",
       "codename": "S0470WW",
       "model": "Studio Mega LTE"
     },
@@ -845,6 +863,12 @@
       "manufacturer": "",
       "market_name": "Studio View",
       "codename": "S810",
+      "model": "Studio View"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Studio View",
+      "codename": "S812P",
       "model": "Studio View"
     },
     {
@@ -933,6 +957,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIVO GO",
+      "codename": "V0390WW",
+      "model": "VIVO GO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIVO VI+",
+      "codename": "V0310WW",
+      "model": "Vivo XI+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VIVO XL",
       "codename": "BLU_VIVO_XL",
       "model": "VIVO XL"
@@ -957,6 +993,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Vivo One Plus 2019",
+      "codename": "V0370WW",
+      "model": "Vivo One Plus 2019"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vivo S",
       "codename": "V0160WW",
       "model": "Vivo S"
@@ -978,6 +1020,12 @@
       "market_name": "Vivo XI",
       "codename": "V0330WW",
       "model": "Vivo XI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vivo XI+",
+      "codename": "V0310WW",
+      "model": "Vivo XI PLUS"
     },
     {
       "manufacturer": "",

@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G-Tab",
+      "codename": "ADVAN_G_Tab",
+      "model": "8001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G1",
       "codename": "G1",
       "model": "G1"
@@ -159,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S6 Plus",
+      "codename": "ADVAN_S6_Plus",
+      "model": "5502"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S7A",
       "codename": "S7A",
       "model": "S7A"
@@ -186,6 +198,12 @@
       "market_name": "X7 Pro",
       "codename": "ADVAN_7008",
       "model": "7008"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7 Pro",
+      "codename": "ADVAN_X7_Pro",
+      "model": "X7 Pro"
     },
     {
       "manufacturer": "",
@@ -228,6 +246,12 @@
       "market_name": "i6A",
       "codename": "ADVAN_5501",
       "model": "5501"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i6c",
+      "codename": "ADVAN_i6C",
+      "model": "5503"
     },
     {
       "manufacturer": "",

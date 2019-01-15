@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ATV device",
+      "codename": "tcl_eu",
+      "model": "ATV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Advance Pro",
       "codename": "Advance_Pro",
       "model": "Advance Pro"

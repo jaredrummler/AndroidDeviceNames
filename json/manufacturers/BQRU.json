@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-5002G",
+      "codename": "BQru-5002G",
+      "model": "BQ-5002G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQ-5003L Shark Pro",
       "codename": "BQru_5003L",
       "model": "BQ-5003L"
@@ -393,6 +399,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BQ-8068L",
+      "codename": "BQru-8068L",
+      "model": "BQ-8068L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BQru-1077L",
       "codename": "BQru-1077L",
       "model": "BQ-1077L"
@@ -426,6 +438,18 @@
       "market_name": "BQru-5022",
       "codename": "BQru",
       "model": "BQru-5022"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQru-5514G",
+      "codename": "BQru-5514G",
+      "model": "BQ-5514G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BQru-5514L",
+      "codename": "BQru-5514L",
+      "model": "BQ-5514L"
     },
     {
       "manufacturer": "",

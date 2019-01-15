@@ -33,6 +33,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A5L+",
+      "codename": "N5501LE",
+      "model": "N5501L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A6L-C",
+      "codename": "A6L-C",
+      "model": "A6L-C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A6L-G",
+      "codename": "A6L-G",
+      "model": "A6L-G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G1",
       "codename": "N5704LA",
       "model": "N5704L"
@@ -69,6 +87,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NUU A3",
+      "codename": "N5001WA",
+      "model": "A3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NUU A3 (TC)",
+      "codename": "N5001WA",
+      "model": "A3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NUU G3",
       "codename": "N5702L",
       "model": "N5702L"
@@ -78,6 +108,12 @@
       "market_name": "NUU M4X_PRO",
       "codename": "S5701L",
       "model": "S5701L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NUU R1",
+      "codename": "R5001LA",
+      "model": "R5001L"
     },
     {
       "manufacturer": "",

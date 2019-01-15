@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B1s",
+      "codename": "B1s",
+      "model": "B1s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B2mini",
       "codename": "B2mini",
       "model": "B2mini"
@@ -33,9 +39,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Everest",
+      "codename": "Everest",
+      "model": "S9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FIXION",
       "codename": "HS8937QC",
       "model": "FIXION"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT16",
+      "codename": "HT16",
+      "model": "HT16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT28",
+      "codename": "B2Plus",
+      "model": "HT28"
     },
     {
       "manufacturer": "",
@@ -48,6 +72,12 @@
       "market_name": "PERLA",
       "codename": "PERLA",
       "model": "PERLA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S7",
+      "codename": "MIRROR",
+      "model": "S7"
     },
     {
       "manufacturer": "",

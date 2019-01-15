@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "V9",
+      "codename": "VOTO_V9",
+      "model": "V9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VOTO V2",
       "codename": "VOTO_V2",
       "model": "VOTO V2"
@@ -18,6 +24,12 @@
       "market_name": "VOTO V3",
       "codename": "VOTO_V3",
       "model": "VOTO V3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VX",
+      "codename": "VX",
+      "model": "VX"
     },
     {
       "manufacturer": "",

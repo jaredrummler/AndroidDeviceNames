@@ -15,15 +15,33 @@
     },
     {
       "manufacturer": "",
-      "market_name": "INCO",
+      "market_name": "Horizon",
       "codename": "HORIZON",
       "model": "HORIZON"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Horizon +",
+      "codename": "Horizon",
+      "model": "Horizon +"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Horizon_S",
+      "codename": "Horizon_S",
+      "model": "Horizon_S"
     },
     {
       "manufacturer": "",
       "market_name": "MINI",
       "codename": "MINI",
       "model": "MINI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Rouge1",
+      "codename": "Rouge1",
+      "model": "Rouge1"
     }
   ]
 }

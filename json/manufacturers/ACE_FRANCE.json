@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AS0218",
+      "codename": "AS0218",
+      "model": "BUZZ 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS0518",
+      "codename": "AS0518",
+      "model": "URBAN 1 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AS0618",
+      "codename": "AS0618",
+      "model": "CLEVER 1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BUZZ_1_Lite",
       "codename": "BUZZ_1_Lite",
       "model": "BUZZ 1 Lite"

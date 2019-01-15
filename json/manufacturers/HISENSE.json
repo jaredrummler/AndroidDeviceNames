@@ -351,6 +351,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AGM X3",
+      "codename": "HSSDM845QC",
+      "model": "AGM X3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AJM X2",
       "codename": "HS8976QC",
       "model": "AGM X2"
@@ -993,6 +999,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HITV512C",
+      "codename": "HSSDA450QC",
+      "model": "HITV512C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HLTE100M",
       "codename": "HS9850SC",
       "model": "HLTE100M"
@@ -1020,6 +1032,12 @@
       "market_name": "HLTE212T",
       "codename": "HS8917QC",
       "model": "HLTE212T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HLTE213T",
+      "codename": "HSSDM439QC",
+      "model": "HLTE213T"
     },
     {
       "manufacturer": "",
@@ -1056,6 +1074,12 @@
       "market_name": "HLTE310T",
       "codename": "HSSDM450QC",
       "model": "HLTE310T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HLTE311T",
+      "codename": "HSSDM636QC",
+      "model": "HLTE311T"
     },
     {
       "manufacturer": "",
@@ -1587,6 +1611,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hisense F15",
+      "codename": "HS6739MT",
+      "model": "Hisense F15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hisense F17",
       "codename": "HS6580MT",
       "model": "Hisense F17"
@@ -1596,6 +1626,12 @@
       "market_name": "Hisense F17",
       "codename": "HS6580MT",
       "model": "Hisense Infinity E7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense F18",
+      "codename": "HS6739MT",
+      "model": "Hisense F18"
     },
     {
       "manufacturer": "",
@@ -1614,6 +1650,18 @@
       "market_name": "Hisense F28M",
       "codename": "HS8937QC",
       "model": "HLTE210M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense F35",
+      "codename": "HS6739MT",
+      "model": "Hisense F28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hisense F35",
+      "codename": "HS6739MT",
+      "model": "Hisense F35"
     },
     {
       "manufacturer": "",

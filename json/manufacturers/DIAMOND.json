@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DIB100",
+      "codename": "DIB100",
+      "model": "DIB100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DIM100",
+      "codename": "DIM100",
+      "model": "DIM100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Luxuary-X",
       "codename": "Luxuary-X",
       "model": "Luxuary-X"

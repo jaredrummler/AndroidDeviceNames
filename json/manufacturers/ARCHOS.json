@@ -1131,6 +1131,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos 101 Oxygen 4G",
+      "codename": "ac101ox4g",
+      "model": "Archos 101 Oxygen 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos 101 Platinum 3G",
       "codename": "ac101pl3g",
       "model": "Archos 101 Platinium 3G"
@@ -1299,6 +1305,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Access 50S 4G",
+      "codename": "ac50ass4g",
+      "model": "Archos Access 50S 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Access 55 3G",
       "codename": "ac55as3g",
       "model": "Archos Access 55 3G"
@@ -1380,6 +1392,12 @@
       "market_name": "Archos Core 55S",
       "codename": "ac55crs",
       "model": "Archos Core 55S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Core 55S Ultra",
+      "codename": "ac55crsultra",
+      "model": "Archos Core 55S Ultra"
     },
     {
       "manufacturer": "",

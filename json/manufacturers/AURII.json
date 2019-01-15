@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AURII ULTRA",
+      "codename": "AURII_ULTRA",
+      "model": "AURII ULTRA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AURII_AMUSE_4G",
       "codename": "AURII_AMUSE_4G",
       "model": "AURII_AMUSE_4G"

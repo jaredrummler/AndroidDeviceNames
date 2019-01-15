@@ -1,0 +1,35 @@
+{
+  "manufacturer": "Kenxinda",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "K20M",
+      "codename": "K20M",
+      "model": "K20M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T50",
+      "codename": "T50",
+      "model": "T50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T50Y",
+      "codename": "T50Y",
+      "model": "T50Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T55",
+      "codename": "T55",
+      "model": "T55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y30",
+      "codename": "Y30",
+      "model": "Y30"
+    }
+  ]
+}

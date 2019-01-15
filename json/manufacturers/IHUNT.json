@@ -9,9 +9,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alien X Lite",
+      "codename": "Alien_X_Lite",
+      "model": "Alien X Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alien_X_ApeX",
+      "codename": "Alien_X_ApeX",
+      "model": "Alien_X_ApeX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Like 4U",
       "codename": "Like_4U",
       "model": "Like_4U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S100ApeX",
+      "codename": "S100ApeX",
+      "model": "S100ApeX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10_Tank_2019",
+      "codename": "S10_Tank_2019",
+      "model": "S10_Tank_2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S60_Discovery_2019",
+      "codename": "S60_Discovery_2019",
+      "model": "S60_Discovery_2019"
     },
     {
       "manufacturer": "",
@@ -21,9 +51,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tian_P3000",
+      "codename": "Tian_P3000",
+      "model": "Tian_P3000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tian_P7000",
+      "codename": "Tian_P7000",
+      "model": "Tian_P7000"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TitanP6000",
       "codename": "TitanP6000",
       "model": "TitanP6000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iHunt S90 Apex",
+      "codename": "S90_Apex",
+      "model": "S90_Apex"
     }
   ]
 }

@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SUGAR C13",
+      "codename": "p210cn",
+      "model": "SUGAR C13"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SUGAR F20",
+      "codename": "p700as",
+      "model": "SUGAR F20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SUGAR P1",
       "codename": "SUGAR_P1",
       "model": "SUGAR P1"
@@ -24,6 +36,12 @@
       "market_name": "SUGAR S11",
       "codename": "i9071ae",
       "model": "SUGAR S11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SUGAR S20",
+      "codename": "x600as_hk",
+      "model": "SUGAR S20"
     },
     {
       "manufacturer": "",
@@ -51,9 +69,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SUGAR Y16",
+      "codename": "SUGAR_Y16",
+      "model": "SUGAR Y16"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Sugar",
       "codename": "s9121",
       "model": "SUGAR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sugar S30",
+      "codename": "x800as",
+      "model": "SUGAR S30"
     }
   ]
 }

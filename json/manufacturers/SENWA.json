@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S40E_Claro_CO",
+      "codename": "S40E_Claro_CO",
+      "model": "S40E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S40E_Claro_EC",
+      "codename": "S40E_Claro_EC",
+      "model": "S40E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S45",
       "codename": "Senwa_S45",
       "model": "S45"
@@ -48,6 +60,12 @@
       "market_name": "S50",
       "codename": "Senwa_S50",
       "model": "S50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Senwa_S571",
+      "codename": "Senwa_S571",
+      "model": "S571"
     },
     {
       "manufacturer": "",

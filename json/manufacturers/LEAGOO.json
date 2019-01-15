@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M11",
+      "codename": "M11",
+      "model": "M11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M9",
       "codename": "M9",
       "model": "M9"
@@ -63,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Power 5 Lite",
+      "codename": "Power_5_Lite",
+      "model": "Power 5 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S10",
+      "codename": "S10",
+      "model": "S10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S8",
       "codename": "S8",
       "model": "S8"
@@ -90,6 +108,12 @@
       "market_name": "T5c",
       "codename": "T5c",
       "model": "T5c"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T8",
+      "codename": "T8",
+      "model": "T8"
     },
     {
       "manufacturer": "",

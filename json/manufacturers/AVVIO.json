@@ -33,9 +33,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CHIVAS 55",
+      "codename": "CHIVAS_55",
+      "model": "CHIVAS_55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mint_M353",
       "codename": "Mint_M353",
       "model": "Mint_M353"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Q503",
+      "codename": "Avvio_Q503",
+      "model": "Avvio_Q503"
     }
   ]
 }

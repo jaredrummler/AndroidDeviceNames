@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MPQC10",
+      "codename": "MPQC10",
+      "model": "MPQC10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PH604",
       "codename": "PH604",
       "model": "PH604"

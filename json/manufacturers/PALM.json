@@ -3,9 +3,15 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Palm",
+      "market_name": "PVG100",
       "codename": "Pepito",
       "model": "PVG100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PVG100E",
+      "codename": "Pepito",
+      "model": "PVG100E"
     }
   ]
 }

@@ -165,8 +165,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CN85",
+      "codename": "CN85-L1-C",
+      "model": "CN85"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CT40",
       "codename": "CT40-L0-C",
+      "model": "CT40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CT40",
+      "codename": "CT40-L0-CA",
       "model": "CT40"
     },
     {
@@ -327,6 +339,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EDA51",
+      "codename": "EDA51-0",
+      "model": "EDA51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EDA51",
+      "codename": "EDA51-1",
+      "model": "EDA51"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EDA70",
       "codename": "eda70-0",
       "model": "EDA70"
@@ -342,6 +366,18 @@
       "market_name": "EdA50",
       "codename": "eda50-211",
       "model": "EDA50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VM1A",
+      "codename": "VM1A-L0-N",
+      "model": "VM1A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VM1A",
+      "codename": "VM1A-L0-P",
+      "model": "VM1A"
     }
   ]
 }

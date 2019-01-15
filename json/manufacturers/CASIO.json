@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DT-X400",
+      "codename": "dtx400",
+      "model": "DT-X400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DT-X400R",
+      "codename": "dtx400r",
+      "model": "DT-X400R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IT-G400",
       "codename": "itg400",
       "model": "IT-G400"

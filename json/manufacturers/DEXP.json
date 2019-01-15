@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A150",
+      "codename": "A150",
+      "model": "A150"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AL140",
       "codename": "AL140",
       "model": "AL140"
@@ -39,9 +45,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B260",
+      "codename": "B260",
+      "model": "B260"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B340",
+      "codename": "B340",
+      "model": "B340"
+    },
+    {
+      "manufacturer": "",
       "market_name": "B350",
       "codename": "B350",
       "model": "B350"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B355",
+      "codename": "B355",
+      "model": "B355"
     },
     {
       "manufacturer": "",
@@ -120,6 +144,18 @@
       "market_name": "DEXP Ixion_ES1050",
       "codename": "ES1050",
       "model": "DEXP_ES1050"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DEXP M110",
+      "codename": "M110",
+      "model": "M110"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DEXP M210",
+      "codename": "M210",
+      "model": "M210"
     },
     {
       "manufacturer": "",
@@ -255,6 +291,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GL355",
+      "codename": "GL355",
+      "model": "GL355"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GS150",
+      "codename": "GS150",
+      "model": "GS150"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H170",
       "codename": "H170",
       "model": "H170"
@@ -333,9 +381,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N210",
+      "codename": "N210",
+      "model": "N210"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N280",
       "codename": "N280",
       "model": "N280"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N310",
+      "codename": "N310",
+      "model": "N310"
     },
     {
       "manufacturer": "",
@@ -351,9 +411,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S180",
+      "codename": "S180",
+      "model": "S180"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S190",
       "codename": "S190",
       "model": "S190"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S280",
+      "codename": "S280",
+      "model": "S280"
     },
     {
       "manufacturer": "",
@@ -372,6 +444,12 @@
       "market_name": "T155",
       "codename": "T155",
       "model": "T155"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "URSUS S180i",
+      "codename": "S180i",
+      "model": "S180i"
     },
     {
       "manufacturer": "",

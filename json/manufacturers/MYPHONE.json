@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hammer_Active2",
+      "codename": "Hammer_Active2",
+      "model": "Hammer_Active2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Iron 2",
       "codename": "IRON_2_EN",
       "model": "IRON_2"
@@ -186,6 +192,12 @@
       "market_name": "my28S Smart",
       "codename": "MyPhone_my28S_Smart",
       "model": "my28S Smart"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "my29S",
+      "codename": "my29S",
+      "model": "my29S"
     },
     {
       "manufacturer": "",
@@ -381,9 +393,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "myNX1",
+      "codename": "myNX1",
+      "model": "myNX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myPhone",
+      "codename": "Hammer_Active2_LTE",
+      "model": "Hammer_Active2_LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "myPhone  Q-Smart III Plus",
       "codename": "Q-Smart_III_Plus",
       "model": "Q-Smart_III_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myPhone FUN7 LTE",
+      "codename": "myPhone_Fun_7_LTE",
+      "model": "myPhone_Fun_7_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myPhone_Pocket_2",
+      "codename": "myPhone_Pocket_2",
+      "model": "Pocket_2"
     },
     {
       "manufacturer": "",
@@ -426,6 +462,12 @@
       "market_name": "myX8",
       "codename": "myX8",
       "model": "myX8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myX9",
+      "codename": "myX9",
+      "model": "myX9"
     },
     {
       "manufacturer": "",

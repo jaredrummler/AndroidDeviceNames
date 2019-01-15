@@ -57,9 +57,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Masstel_Juno_Q5",
+      "codename": "Masstel_Juno_Q5",
+      "model": "Masstel_Juno_Q5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Masstel_Tab10",
       "codename": "Masstel_Tab10",
       "model": "Masstel Tab10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Masstel_X6",
+      "codename": "Masstel_X6",
+      "model": "Masstel X6"
     },
     {
       "manufacturer": "",
@@ -78,6 +90,12 @@
       "market_name": "Tab7Plus",
       "codename": "Tab7Plus",
       "model": "Tab7Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab8plus",
+      "codename": "Tab8Plus",
+      "model": "Tab8Plus"
     }
   ]
 }

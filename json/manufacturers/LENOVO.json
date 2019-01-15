@@ -1977,6 +1977,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K9",
+      "codename": "K9",
+      "model": "Lenovo L38043"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K900",
       "codename": "K900",
       "model": "Lenovo K900"
@@ -2217,6 +2223,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo TAB4",
+      "codename": "X304F",
+      "model": "Lenovo TB-X304F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo TB-8304F1",
       "codename": "TB-8304F1",
       "model": "Lenovo TB-8304F1"
@@ -2325,6 +2337,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo-9",
+      "codename": "zap",
+      "model": "Lenovo L78031"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LenovoTAB2 A7-30DC",
       "codename": "A7-30HC",
       "model": "Lenovo TAB 2 A7-30DC"
@@ -2346,6 +2364,12 @@
       "market_name": "LenovoTB-8704V",
       "codename": "TB-8704V",
       "model": "TB-8704V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LenovoTB-X104L",
+      "codename": "X104L",
+      "model": "Lenovo TB-X104L"
     },
     {
       "manufacturer": "",
@@ -2592,18 +2616,6 @@
       "market_name": "PB2-650Y",
       "codename": "PB2",
       "model": "Lenovo PB2-650Y"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "PC-TE410JAW",
-      "codename": "PC-TE410JAW",
-      "model": "PC-TE410JAW"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "PC-TE410JAW",
-      "codename": "PC-TE510JAW",
-      "model": "PC-TE510JAW"
     },
     {
       "manufacturer": "",

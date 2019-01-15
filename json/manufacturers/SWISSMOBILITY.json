@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M9",
+      "codename": "M9",
+      "model": "M9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z7",
       "codename": "Z7",
       "model": "Z7"
@@ -18,6 +24,12 @@
       "market_name": "Z72",
       "codename": "Z72",
       "model": "Z72"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z9",
+      "codename": "Z9",
+      "model": "Z9"
     }
   ]
 }

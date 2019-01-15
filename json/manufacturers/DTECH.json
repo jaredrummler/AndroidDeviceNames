@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D5L",
+      "codename": "D5-L",
+      "model": "D5-L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H70_G",
       "codename": "H70_G",
       "model": "H70_G"

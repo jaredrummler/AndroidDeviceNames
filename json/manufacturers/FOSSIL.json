@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Fossil Sport",
+      "codename": "darter",
+      "model": "Q Sport 41"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Q Founder",
       "codename": "grant",
       "model": "Q Founder"
@@ -53,6 +59,12 @@
       "manufacturer": "",
       "market_name": "Wear",
       "codename": "firefish",
+      "model": "Q Explorist HR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wear",
+      "codename": "firefish",
       "model": "Vapor 2"
     },
     {
@@ -78,6 +90,12 @@
       "market_name": "Wear",
       "codename": "ray",
       "model": "Runway"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wear",
+      "codename": "ray",
+      "model": "scallop"
     },
     {
       "manufacturer": "",

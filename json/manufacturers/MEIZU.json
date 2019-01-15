@@ -177,9 +177,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "meizu C9 pro",
+      "codename": "meizuC9pro",
+      "model": "meizu C9 pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meizu M8",
+      "codename": "meizuM8",
+      "model": "meizu M8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "meizu X8",
       "codename": "X8",
       "model": "meizu X8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meizu note8",
+      "codename": "meizunote8",
+      "model": "meizu note8"
     }
   ]
 }

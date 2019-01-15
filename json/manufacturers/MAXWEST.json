@@ -45,9 +45,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nitro_5X",
+      "codename": "Nitro_5X",
+      "model": "Nitro_5X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nitro_Phablet_9s",
+      "codename": "Nitro_Phablet_9s",
+      "model": "Nitro_Phablet_9s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ranger 5",
       "codename": "Ranger_5",
       "model": "Ranger_5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAB-9G",
+      "codename": "TAB-9G",
+      "model": "TAB-9G"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Newland",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "NLS-MT6550-AM",
+      "codename": "NLS-MT6550-AM",
+      "model": "NLS-MT65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NLS-MT6552-EEA",
+      "codename": "NLS-MT6552-EEA",
+      "model": "NLS-MT65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NLS-MT6552-GL",
+      "codename": "NLS-MT6552-GL",
+      "model": "NLS-MT65"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NLS-MT6552-RU",
+      "codename": "NLS-MT6552-RU",
+      "model": "NLS-MT65"
+    }
+  ]
+}

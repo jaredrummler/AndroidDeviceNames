@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "D1",
+      "codename": "D1",
+      "model": "Maximus D1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D7",
+      "codename": "D7",
+      "model": "D7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Noir X",
       "codename": "Noir_X",
       "model": "Noir X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P1",
+      "codename": "MAXIMUS_P1",
+      "model": "P1"
     },
     {
       "manufacturer": "",
@@ -18,6 +36,12 @@
       "market_name": "P3",
       "codename": "P3",
       "model": "P3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P7",
+      "codename": "P7",
+      "model": "P7"
     }
   ]
 }

@@ -3,9 +3,39 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A3",
+      "codename": "A3",
+      "model": "A3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A3_Pro",
+      "codename": "A3_Pro",
+      "model": "A3_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "One",
       "codename": "One",
       "model": "One"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "One Max",
+      "codename": "One_Max",
+      "model": "One Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "One Max E",
+      "codename": "One_Max",
+      "model": "One Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "One Max RU",
+      "codename": "One_Max",
+      "model": "One Max"
     },
     {
       "manufacturer": "",

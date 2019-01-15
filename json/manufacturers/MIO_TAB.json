@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MI86",
+      "codename": "MI86",
+      "model": "MI86"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MioTab",
       "codename": "MioTab2016",
       "model": "MioTab 2016"

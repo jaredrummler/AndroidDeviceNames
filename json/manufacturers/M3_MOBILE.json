@@ -1,0 +1,29 @@
+{
+  "manufacturer": "M3 Mobile",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M3 SM15N",
+      "codename": "M3SM15N",
+      "model": "M3SM15N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3 SM15X",
+      "codename": "M3SM15X",
+      "model": "M3SM15X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3-SL10",
+      "codename": "M3-SL10",
+      "model": "M3-SL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M3SL10",
+      "codename": "M3SL10",
+      "model": "M3SL10"
+    }
+  ]
+}

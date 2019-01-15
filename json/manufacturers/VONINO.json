@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Jax_N",
+      "codename": "JAX_N",
+      "model": "JAX_N"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Jax_S",
       "codename": "Jax_S_A7",
       "model": "Jax_S_A7"
@@ -54,6 +60,12 @@
       "market_name": "Magnet_M1",
       "codename": "Magnet_M1",
       "model": "Magnet M1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Magnet_M10",
+      "codename": "Magnet_M10",
+      "model": "Magnet_M10"
     },
     {
       "manufacturer": "",
@@ -147,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pluri_M8",
+      "codename": "Pluri_M8",
+      "model": "Pluri_M8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Volt S",
       "codename": "Volt_S",
       "model": "Volt S"
@@ -204,6 +222,12 @@
       "market_name": "Xylo X A6",
       "codename": "Xylo_X",
       "model": "Xylo X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xylo_T",
+      "codename": "Xylo_T",
+      "model": "Xylo_T"
     },
     {
       "manufacturer": "",

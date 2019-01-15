@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LT10",
+      "codename": "U3A_10_WIFI",
+      "model": "8182"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LT7",
+      "codename": "U3A_7_WIFI",
+      "model": "8167"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Percee TV",
       "codename": "tcl_eu",
       "model": "BPL TV"
@@ -57,21 +69,21 @@
     },
     {
       "manufacturer": "",
-      "market_name": "South America",
-      "codename": "tcl",
-      "model": "Percee TV"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "TCL",
+      "market_name": "Smartphone",
       "codename": "A5A_INFINI",
       "model": "5086D"
     },
     {
       "manufacturer": "",
-      "market_name": "TCL",
+      "market_name": "Smartphone",
       "codename": "A5A_INFINI",
       "model": "5186D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "South America",
+      "codename": "tcl",
+      "model": "Percee TV"
     },
     {
       "manufacturer": "",

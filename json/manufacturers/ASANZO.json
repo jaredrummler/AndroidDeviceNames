@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1",
+      "codename": "A1",
+      "model": "A1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S3 Plus",
       "codename": "ASANZO_S3_PLUS",
       "model": "ASANZO_S3_PLUS"

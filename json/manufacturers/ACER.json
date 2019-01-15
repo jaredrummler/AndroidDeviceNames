@@ -183,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Acer One 7",
+      "codename": "Acer_One_7_4G",
+      "model": "Acer One 7 4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Acer One 7 4G",
       "codename": "Acer_One_7_4G",
       "model": "Acer One 7 4G"
@@ -329,7 +335,19 @@
       "manufacturer": "",
       "market_name": "Chromebook 15 (CB5-571)",
       "codename": "yuna_cheets",
+      "model": "Acer Chromebook 15 (C910 / CB5-571)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook 15 (CB5-571)",
+      "codename": "yuna_cheets",
       "model": "Acer Chromebook 15 (CB5-571)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook 15 CB515-1HT/1H",
+      "codename": "sand_cheets",
+      "model": "Chromebook 15 (CB515 - 1HT / 1H)"
     },
     {
       "manufacturer": "",
@@ -348,6 +366,12 @@
       "market_name": "Chromebook R11 (C738T)",
       "codename": "cyan_cheets",
       "model": "Acer Chromebook R11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook R11 (C738T)",
+      "codename": "cyan_cheets",
+      "model": "Acer Chromebook R11 (CB5-132T / C738T / CB3-132)"
     },
     {
       "manufacturer": "",

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "COMIO C1 Pro",
+      "codename": "ComioC1Pro",
+      "model": "Comio C1 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "COMIO C2",
       "codename": "ComioC2",
       "model": "COMIO C2"
@@ -42,6 +48,12 @@
       "market_name": "COMIO S1 Lite",
       "codename": "ComioS1Lite",
       "model": "COMIO S1 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COMIO X1",
+      "codename": "ComioX1",
+      "model": "Comio X1"
     }
   ]
 }

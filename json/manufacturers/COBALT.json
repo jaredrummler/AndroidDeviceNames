@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Cobalt-T7_3G",
+      "codename": "Cobalt-T7_3G",
+      "model": "Cobalt-T7_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SM5",
       "codename": "Cobalt_SM_5",
       "model": "Cobalt_SM_5"

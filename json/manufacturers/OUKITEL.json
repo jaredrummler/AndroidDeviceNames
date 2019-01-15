@@ -9,9 +9,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C10 Pro",
+      "codename": "C10_Pro",
+      "model": "C10 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C11",
+      "codename": "C11",
+      "model": "C11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C11 Pro",
       "codename": "C11_Pro",
       "model": "C11_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C11 S",
+      "codename": "C11_S",
+      "model": "C11_S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C12",
+      "codename": "C12",
+      "model": "C12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C12 Plus",
+      "codename": "C12_Plus",
+      "model": "C12 Plus"
     },
     {
       "manufacturer": "",
@@ -111,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K7 Power",
+      "codename": "K7_Power",
+      "model": "K7 Power"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K8",
       "codename": "K8",
       "model": "K8"
@@ -177,6 +213,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "U23",
+      "codename": "U23",
+      "model": "U23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U25",
+      "codename": "U25",
+      "model": "U25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U25 Pro",
+      "codename": "U25_Pro",
+      "model": "U25_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U7 Max",
       "codename": "U7_Max",
       "model": "U7 Max"
@@ -186,6 +240,18 @@
       "market_name": "U7 Plus",
       "codename": "U7_Plus",
       "model": "U7 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP1",
+      "codename": "OUKITEL_WP1",
+      "model": "WP1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WP2",
+      "codename": "WP2",
+      "model": "WP2"
     },
     {
       "manufacturer": "",

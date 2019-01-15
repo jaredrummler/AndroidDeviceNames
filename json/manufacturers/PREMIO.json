@@ -9,9 +9,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "186FT1080231",
+      "codename": "186FT1080231",
+      "model": "186FT1080231"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "186HS1050232",
+      "codename": "186HS1050232",
+      "model": "186HS1050232"
+    },
+    {
+      "manufacturer": "",
       "market_name": "186HS1050531",
       "codename": "186HS1050531",
       "model": "186HS1050531"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "186HS1080233",
+      "codename": "186HS1080233",
+      "model": "P570"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "187HT1020331",
+      "codename": "187HT1020331",
+      "model": "P710"
     },
     {
       "manufacturer": "",
@@ -66,6 +90,30 @@
       "market_name": "Premio P620",
       "codename": "Premio_P620",
       "model": "P620"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Premio_P451",
+      "codename": "Premio_P451",
+      "model": "Premio P451"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S40",
+      "codename": "S40",
+      "model": "S40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S71",
+      "codename": "S71",
+      "model": "S71"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1",
+      "codename": "186HS2080531",
+      "model": "186HS2080531"
     }
   ]
 }

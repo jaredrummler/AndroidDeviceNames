@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor 6",
+      "codename": "Armor_6",
+      "model": "Armor_6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor X",
       "codename": "Armor_X",
       "model": "Armor_X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor X2",
+      "codename": "Armor_X2",
+      "model": "Armor_X2"
     },
     {
       "manufacturer": "",
@@ -30,6 +42,18 @@
       "market_name": "Armor_5",
       "codename": "Ulefone_Armor_5",
       "model": "Ulefone_Armor_5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_6S",
+      "codename": "Armor_6S",
+      "model": "Armor_6S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_X2",
+      "codename": "Armor_X2",
+      "model": "Armor_X2"
     },
     {
       "manufacturer": "",
@@ -87,6 +111,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Power_3L",
+      "codename": "Power_3L",
+      "model": "Power_3L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power_3L_EEA",
+      "codename": "Power_3L_EEA",
+      "model": "Power_3L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S10_Pro",
       "codename": "S10_Pro",
       "model": "S10_Pro"
@@ -138,6 +174,12 @@
       "market_name": "T1",
       "codename": "Ulefone_T1",
       "model": "T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T2",
+      "codename": "T2",
+      "model": "T2"
     },
     {
       "manufacturer": "",

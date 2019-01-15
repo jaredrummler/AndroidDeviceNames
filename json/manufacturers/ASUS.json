@@ -609,6 +609,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ROG Phone",
+      "codename": "ASUS_Z01QD_1",
+      "model": "ZS600KL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RTC-700A",
       "codename": "RTC-tablet",
       "model": "RTC-tablet"
@@ -1449,7 +1455,7 @@
     },
     {
       "manufacturer": "",
-      "market_name": "ZenFone Lite L1 (ZA551KL)",
+      "market_name": "ZenFone Lite L1 (ZA551KL) / ZenFone Live L1/L2 (ZA550KL)",
       "codename": "ASUS_X00R_5",
       "model": "ASUS_X00RD"
     },
@@ -1571,12 +1577,6 @@
       "manufacturer": "",
       "market_name": "ZenFone Max M1 (ZB555KL)",
       "codename": "ASUS_X00P_3",
-      "model": "ASUS_X00PD"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "ZenFone Max M1 (ZB555KL)",
-      "codename": "ASUS_X00P_3",
       "model": "ZB555KL"
     },
     {
@@ -1602,6 +1602,24 @@
       "market_name": "ZenFone Max M1 (ZB555KL)",
       "codename": "ASUS_X00P_8",
       "model": "ZB555KL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max M1/M2 (ZB555KL)",
+      "codename": "ASUS_X00P_3",
+      "model": "ASUS_X00PD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max M2 (ZB632KL/ZB633KL)",
+      "codename": "ASUS_X01A_1",
+      "model": "ASUS_X01AD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max M2 (ZB632KL/ZB633KL)",
+      "codename": "ASUS_X01A_1",
+      "model": "ZB633KL"
     },
     {
       "manufacturer": "",
@@ -1662,6 +1680,24 @@
       "market_name": "ZenFone Max Pro (M1)",
       "codename": "ASUS_X00T_8",
       "model": "ASUS_X00TDB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max Pro M2 (ZB630KL/ZB631KL)",
+      "codename": "ASUS_X01BD_1",
+      "model": "ASUS_X01BDA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max Pro M2 (ZB630KL/ZB631KL)",
+      "codename": "ASUS_X01BD_1",
+      "model": "ZB631KL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max Pro M2 (ZB630KL/ZB631KL)",
+      "codename": "ASUS_X01BD_2",
+      "model": "ASUS_X01BDA"
     },
     {
       "manufacturer": "",
@@ -1798,13 +1834,13 @@
     {
       "manufacturer": "",
       "market_name": "ZenPad 3 8.0",
-      "codename": "P008_1",
+      "codename": "P008_2",
       "model": "P008"
     },
     {
       "manufacturer": "",
-      "market_name": "ZenPad 3 8.0",
-      "codename": "P008_2",
+      "market_name": "ZenPad 3 8.0 (Z581KL)",
+      "codename": "P008_1",
       "model": "P008"
     },
     {

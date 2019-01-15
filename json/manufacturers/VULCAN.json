@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Koral 7W4",
+      "codename": "HT0704W08",
+      "model": "HT0704W08"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Pulse 7",
       "codename": "VT0701A08",
       "model": "VT0701A08"
@@ -66,6 +72,12 @@
       "market_name": "Tempo 5",
       "codename": "VP5004A",
       "model": "VP5004A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VM5021",
+      "codename": "VM5021",
+      "model": "VM5021"
     },
     {
       "manufacturer": "",

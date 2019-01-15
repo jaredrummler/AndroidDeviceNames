@@ -21,6 +21,12 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 3",
     "codename": "A3A",
+    "model": "5052D_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3",
+    "codename": "A3A",
     "model": "5052D_RU"
   },
   {
@@ -28,5 +34,11 @@
     "market_name": "Alcatel 3",
     "codename": "A3A",
     "model": "5052Y"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3",
+    "codename": "A3A",
+    "model": "5052Y_EEA"
   }
 ]

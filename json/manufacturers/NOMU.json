@@ -15,9 +15,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S40",
+      "codename": "S40",
+      "model": "S40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S40+",
+      "codename": "S40",
+      "model": "S40E"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S50 Pro",
       "codename": "S50_Pro",
       "model": "S50_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T20",
+      "codename": "T20",
+      "model": "T20"
     }
   ]
 }

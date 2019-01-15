@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CherryRoam",
+      "codename": "CherryRoam",
+      "model": "CherryRoam"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DOH01",
       "codename": "DOH01",
       "model": "DOH01"
@@ -60,6 +66,12 @@
       "market_name": "Flare A1",
       "codename": "FlareA1",
       "model": "FlareA1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare A2",
+      "codename": "Flare_A2",
+      "model": "Flare_A2"
     },
     {
       "manufacturer": "",
@@ -147,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare J3 2019",
+      "codename": "Flare_J3_2019",
+      "model": "Flare J3 2019"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare J3 Max",
       "codename": "Flare_J3_Max",
       "model": "Flare J3 Max"
@@ -189,9 +207,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare J6 Plus",
+      "codename": "Flare_J6_Plus",
+      "model": "Flare J6 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare J6 mini",
       "codename": "Flare_J6_mini",
       "model": "Flare_J6_mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare J6S",
+      "codename": "Flare_J6s",
+      "model": "Flare_J6s"
     },
     {
       "manufacturer": "",
@@ -387,6 +417,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Fusion Aura 3s",
+      "codename": "Fusion_Aura_3s",
+      "model": "Fusion Aura 3s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H220",
       "codename": "ctih220_sprout",
       "model": "H220"
@@ -492,6 +528,12 @@
       "market_name": "Spin Max 2",
       "codename": "Spin_Max_2",
       "model": "Spin Max 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Superion Radar Deluxe 2",
+      "codename": "Radar_Deluxe_2",
+      "model": "Radar Deluxe 2"
     },
     {
       "manufacturer": "",

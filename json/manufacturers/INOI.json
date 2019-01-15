@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "INOI 1 Lite",
+      "codename": "INOI_1_Lite",
+      "model": "INOI_1_Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI 3 LITE",
       "codename": "INOI_3_LITE",
       "model": "INOI_3_LITE"
@@ -57,9 +63,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "INOI_5i",
+      "codename": "INOI_5i",
+      "model": "INOI_5i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INOI_5i_Lite",
       "codename": "INOI_5i_Lite",
       "model": "INOI_5i_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INOI_5i_Pro",
+      "codename": "INOI_5i_Pro",
+      "model": "INOI_5i_Pro"
     },
     {
       "manufacturer": "",

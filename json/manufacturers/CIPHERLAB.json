@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Hera51",
+      "codename": "Hera51",
+      "model": "Hera51"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RK25",
       "codename": "RK25",
       "model": "RK25"
@@ -24,6 +30,12 @@
       "market_name": "RS31",
       "codename": "RS31",
       "model": "RS31"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RS51_HS",
+      "codename": "RS51_HS",
+      "model": "RS51_HS"
     },
     {
       "manufacturer": "",

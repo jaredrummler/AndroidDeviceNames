@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 2 V",
+      "codename": "EVW",
+      "model": "Nokia 2 V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 2.1",
       "codename": "E2M",
       "model": "Nokia 2.1"
@@ -234,6 +240,12 @@
       "market_name": "Nokia 8 Sirocco",
       "codename": "A1N_sprout",
       "model": "Nokia 8 Sirocco"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 8.1",
+      "codename": "PNX_sprout",
+      "model": "Nokia 8.1"
     },
     {
       "manufacturer": "",

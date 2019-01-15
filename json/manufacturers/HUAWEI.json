@@ -2871,6 +2871,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HONOR V20",
+      "codename": "HWPCT",
+      "model": "PCT-AL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR V20",
+      "codename": "HWPCT",
+      "model": "PCT-TL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HONOR View20",
+      "codename": "HWPCT",
+      "model": "PCT-L29"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HUAWEI G Elite Plus",
       "codename": "HWSLA-Q",
       "model": "SLA-L03"
@@ -3108,6 +3126,12 @@
       "market_name": "HUAWEI P9 lite mini",
       "codename": "HWSLA-Q",
       "model": "SLA-L23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y MAX",
+      "codename": "HWARS-Q",
+      "model": "ARS-L22"
     },
     {
       "manufacturer": "",
@@ -3420,6 +3444,18 @@
       "market_name": "Honor 10",
       "codename": "HWCOL",
       "model": "COL-TL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 10 Lite",
+      "codename": "HWHRY-H",
+      "model": "HRY-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 10 Lite",
+      "codename": "HWHRY-HF",
+      "model": "HRY-AL00a"
     },
     {
       "manufacturer": "",
@@ -3965,7 +4001,19 @@
       "manufacturer": "",
       "market_name": "Huawei MediaPad T5",
       "codename": "HWAGS2",
+      "model": "AGS2-L03"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Huawei MediaPad T5",
+      "codename": "HWAGS2",
       "model": "AGS2-L09"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Huawei MediaPad T5",
+      "codename": "HWAGS2",
+      "model": "AGS2-W19"
     },
     {
       "manufacturer": "",
@@ -7119,6 +7167,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "honor 8C",
+      "codename": "HWBKK-Q",
+      "model": "BKK-AL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "honor 8C",
+      "codename": "HWBKK-Q",
+      "model": "BKK-L21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "honor 8C",
+      "codename": "HWBKK-Q",
+      "model": "BKK-L22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "honor 8C",
+      "codename": "HWBKK-Q",
+      "model": "BKK-LX2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "huawei nova 2",
       "codename": "HWPIC",
       "model": "HWV31"
@@ -7350,6 +7422,24 @@
       "market_name": "nova 3i",
       "codename": "HWINE",
       "model": "INE-TL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nova 4",
+      "codename": "HWVCE",
+      "model": "VCE-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nova 4",
+      "codename": "HWVCE",
+      "model": "VCE-L22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "nova 4",
+      "codename": "HWVCE",
+      "model": "VCE-TL00"
     },
     {
       "manufacturer": "",
@@ -7761,6 +7851,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
+      "codename": "HWDUB-Q",
+      "model": "DUB-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
+      "codename": "HWDUB-Q",
+      "model": "DUB-AL20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
+      "codename": "HWDUB-Q",
+      "model": "DUB-TL00"
+    },
+    {
+      "manufacturer": "",
       "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9 Plus",
       "codename": "HWJKM-H",
       "model": "JKM-AL00"
@@ -7782,6 +7890,12 @@
       "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9 Plus",
       "codename": "HWJKM-HM",
       "model": "JKM-AL00b"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab\\xe5\\xb9\\xb3\\xe6\\x9d\\xbf",
+      "codename": "HWAGS2",
+      "model": "AGS2-AL00"
     },
     {
       "manufacturer": "",
@@ -7824,6 +7938,12 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80 V9 play",
       "codename": "HWJMM-Q",
       "model": "JMM-TL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x8010\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "codename": "HWHRY-H",
+      "model": "HRY-TL00"
     },
     {
       "manufacturer": "",
@@ -8178,6 +8298,18 @@
       "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa97X",
       "codename": "HWBND-H",
       "model": "BND-TL10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98A",
+      "codename": "HWJAT-M",
+      "model": "JAT-AL00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x80\\xe7\\x95\\x85\\xe7\\x8e\\xa98A",
+      "codename": "HWJAT-M",
+      "model": "JAT-TL00"
     },
     {
       "manufacturer": "",

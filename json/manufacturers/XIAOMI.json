@@ -165,9 +165,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MI  8  Pro",
+      "codename": "equuleus",
+      "model": "MI 8 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MI  MAX  3",
       "codename": "nitrogen",
       "model": "MI MAX 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI  PLAY",
+      "codename": "lotus",
+      "model": "MI PLAY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI  PLAY",
+      "codename": "lotus",
+      "model": "lotus"
     },
     {
       "manufacturer": "",
@@ -594,6 +612,12 @@
       "market_name": "Redmi",
       "codename": "HM2013023",
       "model": "2013023"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi  Note  6  Pro",
+      "codename": "tulip",
+      "model": "Redmi Note 6 Pro"
     },
     {
       "manufacturer": "",

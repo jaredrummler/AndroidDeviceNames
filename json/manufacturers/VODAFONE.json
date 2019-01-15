@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GigaTV Net",
+      "codename": "diw362",
+      "model": "GigaTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Smart N8",
       "codename": "VFD610",
       "model": "VFD 610"
@@ -204,6 +210,12 @@
       "market_name": "Vodacom Kicka VE",
       "codename": "VFD100",
       "model": "VFD 100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vodacom Smart 4G",
+      "codename": "VFD525",
+      "model": "VFD 525"
     },
     {
       "manufacturer": "",
