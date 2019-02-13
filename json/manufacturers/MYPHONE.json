@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FUN_18x9",
+      "codename": "myPhone_FUN_18x9_EEA",
+      "model": "myPhone_FUN_18x9_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Fun 18x9",
       "codename": "FUN_18x9",
       "model": "FUN_18x9"
@@ -414,6 +420,12 @@
       "market_name": "myPhone FUN7 LTE",
       "codename": "myPhone_Fun_7_LTE",
       "model": "myPhone_Fun_7_LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myPhone_Fun_8",
+      "codename": "myPhone_Fun_8",
+      "model": "myPhone_Fun_8"
     },
     {
       "manufacturer": "",

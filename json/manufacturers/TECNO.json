@@ -573,6 +573,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Pouvoir 3",
+      "codename": "TECNO-LB7",
+      "model": "TECNO LB7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R6",
       "codename": "TECNO-R6",
       "model": "TECNO R6"
@@ -753,9 +759,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TECNO POP 2s Pro",
+      "codename": "TECNO-KB2j",
+      "model": "TECNO KB2j"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TECNO R6S",
       "codename": "TECNO-R6",
       "model": "TECNO R6S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TECNO RB7S",
+      "codename": "TECNO-RB7S",
+      "model": "TECNO RB7S"
     },
     {
       "manufacturer": "",

@@ -3099,6 +3099,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HUAWEI P smart 2019",
+      "codename": "HWPOT-H",
+      "model": "POT-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI P smart 2019",
+      "codename": "HWPOT-H",
+      "model": "POT-LX1AF"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI P smart 2019",
+      "codename": "HWPOT-H",
+      "model": "POT-LX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HUAWEI P20 Lite",
       "codename": "HWANE",
       "model": "ANE-LX2J"
@@ -3309,9 +3327,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HUAWEI Y7 2019",
+      "codename": "HWDUB-Q",
+      "model": "DUB-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y7 2019",
+      "codename": "HWDUB-Q",
+      "model": "DUB-LX3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HUAWEI Y7 Prime 2018",
       "codename": "HWLDN-Q",
       "model": "LDN-L21"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI Y7 Pro 2019",
+      "codename": "HWDUB-Q",
+      "model": "DUB-LX2"
     },
     {
       "manufacturer": "",
@@ -3372,6 +3408,12 @@
       "market_name": "HUAWEI nova lite 2",
       "codename": "HWFIG-H",
       "model": "704HW"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HUAWEI nova lite 3",
+      "codename": "HWPOT-H",
+      "model": "POT-LX2J"
     },
     {
       "manufacturer": "",
@@ -3780,6 +3822,12 @@
       "market_name": "Honor 8 Smart",
       "codename": "HWVNS-H",
       "model": "VEN-L22"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Honor 8A",
+      "codename": "HWJAT-M",
+      "model": "JAT-L29"
     },
     {
       "manufacturer": "",
@@ -7116,6 +7164,30 @@
       "market_name": "eH811",
       "codename": "hweH811",
       "model": "eH811"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "honor 10 Lite",
+      "codename": "HWHRY-H",
+      "model": "HRY-LX1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "honor 10 Lite",
+      "codename": "HWHRY-H",
+      "model": "HRY-LX1MEB"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "honor 10 Lite",
+      "codename": "HWHRY-H",
+      "model": "HRY-LX2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "honor 10 Lite",
+      "codename": "HWHRY-HF",
+      "model": "HRY-AL00"
     },
     {
       "manufacturer": "",

@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Asia",
+      "codename": "globe_ap",
+      "model": "PanasonicTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Boukenkun-reciever",
       "codename": "VW_RCBKK1",
       "model": "VW_RCBKK1"
@@ -597,6 +603,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FZ-L1",
+      "codename": "FZ-L1AUN_A",
+      "model": "FZ-L1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-L1",
+      "codename": "FZ-L1UN",
+      "model": "FZ-L1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-L1UN",
+      "codename": "FZ-L1UN",
+      "model": "FZ-L1 AOSP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FZ-N1",
       "codename": "FZ-N1",
       "model": "FZ-N1"
@@ -699,9 +723,15 @@
     },
     {
       "manufacturer": "",
-      "market_name": "FZ-T1",
-      "codename": "FZ-T1VUN",
-      "model": "FZ-T1 AOSP"
+      "market_name": "FZ-T1AN",
+      "codename": "FZ-T1AN",
+      "model": "FZ-T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-T1EUN",
+      "codename": "FZ-T1EUN",
+      "model": "FZ-T1"
     },
     {
       "manufacturer": "",
@@ -852,6 +882,12 @@
       "market_name": "P55 Novo",
       "codename": "P55_Novo_4G",
       "model": "P55 Novo 4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P6",
+      "codename": "P6",
+      "model": "Panasonic P6"
     },
     {
       "manufacturer": "",

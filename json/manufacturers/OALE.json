@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "APEX1",
+      "codename": "Apex1",
+      "model": "Apex1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Apex2",
       "codename": "Apex2",
       "model": "Apex2"
@@ -54,6 +60,12 @@
       "market_name": "P6",
       "codename": "P6",
       "model": "P6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P6S",
+      "codename": "P6S",
+      "model": "P6S"
     }
   ]
 }

@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL1088",
+      "codename": "KL1088",
+      "model": "KL1088"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL300",
       "codename": "KL300",
       "model": "KL300"
@@ -75,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL988HPC",
+      "codename": "KL988HPC",
+      "model": "KL988HPC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KLI750",
       "codename": "KLI750",
       "model": "KL I750"
@@ -126,6 +138,12 @@
       "market_name": "SMART_I745",
       "codename": "KLIPAD_SMART_I745",
       "model": "KLIPAD_SMART_I745"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V350",
+      "codename": "V350",
+      "model": "V350"
     },
     {
       "manufacturer": "",

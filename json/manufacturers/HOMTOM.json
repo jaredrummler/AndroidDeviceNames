@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C9",
+      "codename": "C9",
+      "model": "C9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H1",
       "codename": "H1",
       "model": "H1"
@@ -42,6 +48,12 @@
       "market_name": "S16",
       "codename": "S16",
       "model": "S16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S17",
+      "codename": "S17",
+      "model": "S17"
     },
     {
       "manufacturer": "",
@@ -78,6 +90,12 @@
       "market_name": "Z8",
       "codename": "Z8",
       "model": "Z8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "c1",
+      "codename": "C1",
+      "model": "C1"
     }
   ]
 }

@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FLARE S6 Lite",
+      "codename": "Flare_S6_Lite",
+      "model": "Flare_S6_Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare 5",
       "codename": "X630",
       "model": "Flare_5"
@@ -183,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare J3 mini",
+      "codename": "Flare_J3_mini",
+      "model": "Flare J3 mini"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare J3s",
       "codename": "Flare_J3s",
       "model": "Flare J3s"
@@ -228,6 +240,18 @@
       "market_name": "Flare J7",
       "codename": "Flare_J7",
       "model": "Flare J7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare J8",
+      "codename": "Flare_J8",
+      "model": "Flare J8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare J8 LTE",
+      "codename": "Flare_J8_LTE",
+      "model": "Flare J8 LTE"
     },
     {
       "manufacturer": "",
@@ -387,6 +411,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare Y3 Pro",
+      "codename": "Flare_Y3_Pro",
+      "model": "Flare Y3 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare Y3 mini",
       "codename": "Flare_Y3_mini",
       "model": "Flare Y3 mini"
@@ -396,6 +426,18 @@
       "market_name": "Flare Y6",
       "codename": "Flare_Y6",
       "model": "Flare Y6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare Y7",
+      "codename": "Flare_Y7",
+      "model": "Flare_Y7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare Y7 LTE",
+      "codename": "Flare_Y7_LTE",
+      "model": "Flare_Y7_LTE"
     },
     {
       "manufacturer": "",
@@ -498,6 +540,12 @@
       "market_name": "Omega Lite 4",
       "codename": "omega_lite_4",
       "model": "omega_lite_4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Omega Lite 4s",
+      "codename": "Omega_Lite_4s",
+      "model": "Omega Lite 4s"
     },
     {
       "manufacturer": "",

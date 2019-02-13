@@ -213,6 +213,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LH9810",
+      "codename": "LH9810",
+      "model": "LH9810"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LN9810",
+      "codename": "LN9810",
+      "model": "LAVA LN9810"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LN9820",
+      "codename": "LN9820",
+      "model": "LN9820"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P7",
       "codename": "P7",
       "model": "P7"
@@ -267,9 +285,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T101",
+      "codename": "T101",
+      "model": "T101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T71",
       "codename": "T71",
       "model": "T71"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T71_w",
+      "codename": "T71_w",
+      "model": "T71_w"
     },
     {
       "manufacturer": "",
@@ -471,6 +501,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z51",
+      "codename": "Z51",
+      "model": "Z51"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z60",
       "codename": "Z60",
       "model": "Z60"
@@ -585,6 +621,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iris31",
+      "codename": "iris31",
+      "model": "iris 31"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iris40",
       "codename": "iris40",
       "model": "iris40"
@@ -657,6 +699,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iris60c",
+      "codename": "iris60c",
+      "model": "iris60c"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iris65",
       "codename": "iris65",
       "model": "iris65"
@@ -684,6 +732,12 @@
       "market_name": "iris870",
       "codename": "iris870",
       "model": "iris870"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iris88",
+      "codename": "iris88",
+      "model": "iris88"
     },
     {
       "manufacturer": "",

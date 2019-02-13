@@ -21,9 +21,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S49 MONO",
+      "codename": "S49_MONO",
+      "model": "S49 MONO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S49_POISE",
+      "codename": "S49_POISE",
+      "model": "S49_POISE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S50_BOLD",
+      "codename": "S50_BOLD",
+      "model": "S50_BOLD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S53_STARK",
       "codename": "S53_STARK",
       "model": "S53_STARK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S54 Zen",
+      "codename": "CPE91",
+      "model": "CPE91"
     },
     {
       "manufacturer": "",
@@ -36,6 +60,12 @@
       "market_name": "S551",
       "codename": "STYLO_S551",
       "model": "STYLO S551"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S57_ALURE",
+      "codename": "S57_ALURE",
+      "model": "S57_ALURE"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "G100",
+      "codename": "G100",
+      "model": "Symphony G100"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H300",
       "codename": "H300",
       "model": "H300"
@@ -18,6 +24,12 @@
       "market_name": "H58",
       "codename": "H58",
       "model": "H58"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Helio S60",
+      "codename": "Helio_S60",
+      "model": "Helio S60"
     },
     {
       "manufacturer": "",
@@ -147,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V142",
+      "codename": "V142",
+      "model": "V142"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V155",
       "codename": "V155",
       "model": "V155"
@@ -252,6 +270,18 @@
       "market_name": "i100",
       "codename": "i100",
       "model": "i100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i120",
+      "codename": "i120",
+      "model": "i120"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i15",
+      "codename": "i15",
+      "model": "i15"
     },
     {
       "manufacturer": "",

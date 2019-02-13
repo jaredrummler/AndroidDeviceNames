@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Vsmart",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Active 1",
+      "codename": "PQ6001",
+      "model": "Active 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Active 1 +",
+      "codename": "PQ6002",
+      "model": "Active 1+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Joy 1",
+      "codename": "PQ4001",
+      "model": "Joy 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Joy 1 +",
+      "codename": "PQ4002",
+      "model": "Joy 1+"
+    }
+  ]
+}

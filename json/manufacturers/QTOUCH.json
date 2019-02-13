@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Qtouch_Q502",
+      "codename": "Qtouch_Q502",
+      "model": "Qtouch_Q502"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Qtouch_Q81",
       "codename": "Qtouch_Q81",
       "model": "Qtouch_Q81"
@@ -36,6 +42,18 @@
       "market_name": "Qtouch_Q85",
       "codename": "Qtouch_Q85",
       "model": "Qtouch_Q85"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Qtouch_Q88",
+      "codename": "Qtouch_Q88",
+      "model": "Qtouch_Q88"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Qtouch_QT10",
+      "codename": "Qtouch_QT10",
+      "model": "Qtouch_QT10"
     }
   ]
 }

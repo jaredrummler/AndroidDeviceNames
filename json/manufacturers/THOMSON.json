@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "5014G_EEA",
+      "codename": "5014G",
+      "model": "5014G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Delight TH201",
       "codename": "Delight_TH201",
       "model": "Delight TH201"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EBK_5014G",
+      "codename": "EBK_5014G",
+      "model": "EBK_5014G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EGO_5014G",
+      "codename": "EGO_5014G",
+      "model": "EGO_5014G"
     },
     {
       "manufacturer": "",
@@ -39,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TEO104G",
+      "codename": "TEO104G",
+      "model": "TEO104G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TEO13P",
       "codename": "TEO13P",
       "model": "TEO13P"
@@ -66,6 +90,12 @@
       "market_name": "TLink 455",
       "codename": "TLINK455",
       "model": "TLINK455"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Thomson T50",
+      "codename": "Thomson_T50",
+      "model": "Thomson T50"
     }
   ]
 }

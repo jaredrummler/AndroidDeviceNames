@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Masstel_X1",
+      "codename": "Masstel_X1",
+      "model": "Masstel X1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Masstel_X6",
       "codename": "Masstel_X6",
       "model": "Masstel X6"
@@ -96,6 +102,18 @@
       "market_name": "Tab8plus",
       "codename": "Tab8Plus",
       "model": "Tab8Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X3",
+      "codename": "Masstel_X3",
+      "model": "Masstel X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X8",
+      "codename": "Masstel_X8",
+      "model": "Masstel_X8"
     }
   ]
 }

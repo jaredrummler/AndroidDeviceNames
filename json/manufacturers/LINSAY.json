@@ -1,11 +1,17 @@
 {
-  "manufacturer": "LINSAY",
+  "manufacturer": "Linsay",
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "F-7HD2CORE / F-7HD4CORE / F-10HD2CORE /F-10XHD4CORE",
-      "codename": "F-7HD2CORE",
-      "model": "LINSAY F-7HD2CORE/F-7HD4CORE/F-10HD2CORE/F-10XHD4CORE"
+      "market_name": "LINSAY_F10XHD",
+      "codename": "LINSAY_F10XHD",
+      "model": "LINSAY_F10XHD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LINSAY_F10XIPS",
+      "codename": "LINSAY_F10XIPS",
+      "model": "LINSAY_F10XIPS"
     }
   ]
 }

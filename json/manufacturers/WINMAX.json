@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tiger X12",
+      "codename": "Tiger_X12",
+      "model": "Tiger X12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tiger X4",
       "codename": "TIGER_X4",
       "model": "TIGER X4"
@@ -30,6 +36,12 @@
       "market_name": "X50",
       "codename": "X50",
       "model": "X50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "x40",
+      "codename": "X40",
+      "model": "X40"
     }
   ]
 }

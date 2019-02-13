@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "M520",
+      "codename": "M520",
+      "model": "M520"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M700",
       "codename": "M700",
       "model": "M700"

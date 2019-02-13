@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DM-901",
+      "codename": "DM-901",
+      "model": "DM-901"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Impress_Aero",
       "codename": "Impress_Aero",
       "model": "Impress_Aero"

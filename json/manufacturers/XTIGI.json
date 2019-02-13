@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JOY10_Mate",
+      "codename": "JOY10_Mate",
+      "model": "X-TIGI_JOY10 Mate"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JOY7_Mate",
       "codename": "JOY7_Mate",
       "model": "X_TIGI_JOY7_Mate"
@@ -60,6 +66,12 @@
       "market_name": "V28",
       "codename": "V28",
       "model": "X-TIGI_V28"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V28 LTE",
+      "codename": "V28_LTE",
+      "model": "X-TIGI_V28 LTE"
     },
     {
       "manufacturer": "",

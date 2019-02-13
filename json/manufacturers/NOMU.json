@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S15",
+      "codename": "S15",
+      "model": "S15"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S40",
       "codename": "S40",
       "model": "S40"
@@ -36,6 +42,12 @@
       "market_name": "T20",
       "codename": "T20",
       "model": "T20"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T20E",
+      "codename": "T20",
+      "model": "T20E"
     }
   ]
 }

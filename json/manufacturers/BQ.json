@@ -3,18 +3,6 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "Active 1",
-      "codename": "PQ6001",
-      "model": "Active 1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Active 1 +",
-      "codename": "PQ6002",
-      "model": "Active 1+"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Aquaris A4.5",
       "codename": "Aquaris_A45_sprout",
       "model": "Aquaris A4.5"
@@ -258,18 +246,6 @@
       "market_name": "Edison_3_mini",
       "codename": "Edison_3_mini",
       "model": "Edison 3 mini"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Joy 1",
-      "codename": "PQ4001",
-      "model": "Joy 1"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Joy 1 +",
-      "codename": "PQ4002",
-      "model": "Joy 1+"
     },
     {
       "manufacturer": "",

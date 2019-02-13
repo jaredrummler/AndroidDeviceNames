@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P45",
+      "codename": "P45",
+      "model": "P45"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U901",
       "codename": "U901",
       "model": "U901"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U902",
+      "codename": "U902",
+      "model": "U902"
     }
   ]
 }

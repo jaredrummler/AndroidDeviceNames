@@ -1209,6 +1209,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy A8s",
+      "codename": "a8sqlte",
+      "model": "SM-G887F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A8s",
+      "codename": "a8sqltechn",
+      "model": "SM-G8870"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy A9 (2018)",
       "codename": "a9y18qlte",
       "model": "SM-A920F"
@@ -1224,6 +1236,12 @@
       "market_name": "Galaxy A9 2018",
       "codename": "a9y18qltekx",
       "model": "SM-A920N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy A9 Pro",
+      "codename": "a8sqlteks",
+      "model": "SM-G887N"
     },
     {
       "manufacturer": "",
@@ -3556,6 +3574,12 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy J2",
+      "codename": "j2corepltemtr",
+      "model": "SM-J260T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J2",
       "codename": "j2lte",
       "model": "SM-J200F"
     },
@@ -3660,6 +3684,12 @@
       "market_name": "Galaxy J2 Pro",
       "codename": "j2y18lte",
       "model": "SM-J250M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy J2 Pure",
+      "codename": "j2coreplteaio",
+      "model": "SM-J260AZ"
     },
     {
       "manufacturer": "",
@@ -4746,6 +4776,24 @@
       "market_name": "Galaxy M Style",
       "codename": "vastoicmcc",
       "model": "GT-I8258"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy M10",
+      "codename": "m10lte",
+      "model": "SM-M105F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy M20",
+      "codename": "m20lte",
+      "model": "SM-M205F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy M20",
+      "codename": "m20lte",
+      "model": "SM-M205G"
     },
     {
       "manufacturer": "",
@@ -10167,6 +10215,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Galaxy Tab A6",
+      "codename": "gtexswifi",
+      "model": "SM-T280"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Galaxy Tab A8",
       "codename": "gtaslitelteusc",
       "model": "SM-T387R4"
@@ -10492,6 +10546,12 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Tab S2",
+      "codename": "gts210vewifichn",
+      "model": "SM-T813"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Galaxy Tab S2",
       "codename": "gts210wifi",
       "model": "SM-T810"
     },
@@ -10654,12 +10714,6 @@
     {
       "manufacturer": "",
       "market_name": "Galaxy Tab S2 9.7",
-      "codename": "gts210veltechn",
-      "model": "SM-T819C"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab S2 9.7",
       "codename": "gts210veltetmo",
       "model": "SM-T818T"
     },
@@ -10667,12 +10721,6 @@
       "manufacturer": "",
       "market_name": "Galaxy Tab S2 9.7",
       "codename": "gts210vewifi",
-      "model": "SM-T813"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Galaxy Tab S2 9.7",
-      "codename": "gts210vewifichn",
       "model": "SM-T813"
     },
     {
@@ -12294,12 +12342,6 @@
       "market_name": "J1 Mini Prime",
       "codename": "j1minivelte",
       "model": "SM-J106F"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "J2 Core",
-      "codename": "j2corepltemtr",
-      "model": "SM-J260T1"
     },
     {
       "manufacturer": "",

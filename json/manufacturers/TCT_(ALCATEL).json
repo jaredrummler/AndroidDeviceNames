@@ -1509,6 +1509,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "9027W",
+      "codename": "A3A_8_4G_TMO",
+      "model": "9027W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "9030G",
       "codename": "POP4-10_4G",
       "model": "9030G"
@@ -3561,6 +3567,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alcatel 1S",
+      "codename": "Faraday",
+      "model": "5024A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alcatel 1X",
       "codename": "U5A_PLUS_4G",
       "model": "5059A"
@@ -3657,6 +3669,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "Gauss",
+      "model": "5053A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "Gauss",
+      "model": "5053D_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "Gauss",
+      "model": "5053K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "Gauss",
+      "model": "5053K_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "Gauss",
+      "model": "5053Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "Gauss",
+      "model": "5053Y_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alcatel 3L",
       "codename": "A3A_LITE",
       "model": "5034D"
@@ -3678,6 +3726,36 @@
       "market_name": "Alcatel 3L",
       "codename": "A3A_LITE",
       "model": "HEYOU5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3L",
+      "codename": "Benz",
+      "model": "5039D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3L",
+      "codename": "Benz",
+      "model": "5039D_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3L",
+      "codename": "Benz",
+      "model": "5039D_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3L",
+      "codename": "Benz",
+      "model": "5039U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3L",
+      "codename": "Benz",
+      "model": "5039Y_RU"
     },
     {
       "manufacturer": "",
@@ -3810,6 +3888,18 @@
       "market_name": "Alcatel 5X",
       "codename": "A5X",
       "model": "5060J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel ONYX",
+      "codename": "Edison_CKT",
+      "model": "5008R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel ONYX",
+      "codename": "Edison_CKT",
+      "model": "Alcatel_5008R"
     },
     {
       "manufacturer": "",
@@ -6426,6 +6516,12 @@
       "market_name": "alcatel 1X",
       "codename": "Edison",
       "model": "5008Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "alcatel 1X",
+      "codename": "Edison",
+      "model": "5008Y_EEA"
     },
     {
       "manufacturer": "",

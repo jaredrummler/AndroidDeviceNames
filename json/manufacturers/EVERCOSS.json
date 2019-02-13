@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S45B",
+      "codename": "S45B",
+      "model": "S45B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S50",
       "codename": "EVERCOSS_S50",
       "model": "S50"
@@ -222,6 +228,12 @@
       "market_name": "U6A",
       "codename": "EVERCOSS_U6A",
       "model": "U6A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U6B",
+      "codename": "U6B",
+      "model": "U6B"
     },
     {
       "manufacturer": "",

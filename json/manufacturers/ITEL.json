@@ -171,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P33",
+      "codename": "itel-W5504",
+      "model": "itel W5504"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P51",
       "codename": "P51",
       "model": "itel P51"
@@ -240,6 +246,12 @@
       "market_name": "S32",
       "codename": "itel-S32",
       "model": "itel S32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S32 Mini",
+      "codename": "itel-W5003",
+      "model": "itel W5003"
     },
     {
       "manufacturer": "",
@@ -477,6 +489,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A16",
+      "codename": "itel-A16-BD",
+      "model": "itel A16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A16 Plus",
+      "codename": "itel-A16-Plus",
+      "model": "itel A16 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A16 Plus",
+      "codename": "itel-A16-Plus-BD",
+      "model": "itel A16 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel A20",
       "codename": "itel-A20",
       "model": "itel A20"
@@ -519,6 +549,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "itel A44 Power",
+      "codename": "itel-A44-Power",
+      "model": "itel A44 Power"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itel A45",
       "codename": "itel-A45",
       "model": "itel A45"
@@ -528,6 +564,12 @@
       "market_name": "itel A52",
       "codename": "itel-A52",
       "model": "itel A52"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A52S Lite",
+      "codename": "itel-A52S-Lite",
+      "model": "itel A52S Lite"
     },
     {
       "manufacturer": "",
@@ -552,6 +594,18 @@
       "market_name": "itel S32LTE",
       "codename": "itel-S32LTE",
       "model": "itel S32LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel W4003",
+      "codename": "itel-W4003",
+      "model": "itel W4003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel W5001P",
+      "codename": "itel-W5001P",
+      "model": "itel W5001P"
     },
     {
       "manufacturer": "",

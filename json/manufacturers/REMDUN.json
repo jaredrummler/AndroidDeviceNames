@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "RD-52",
+      "codename": "RD52",
+      "model": "RD52"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RD52E",
       "codename": "RD52E",
       "model": "RD52E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RD62E",
+      "codename": "RD62E",
+      "model": "RD62E"
     },
     {
       "manufacturer": "",

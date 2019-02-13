@@ -2103,6 +2103,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo A5s",
+      "codename": "A5s",
+      "model": "Lenovo L18081"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo K8",
       "codename": "brady_f",
       "model": "Lenovo K"
@@ -2241,6 +2247,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo TB-X104X",
+      "codename": "X104X",
+      "model": "Lenovo TB-X104X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lenovo TB-X504F",
       "codename": "X504F",
       "model": "Lenovo TB-X504F"
@@ -2298,6 +2310,18 @@
       "market_name": "Lenovo Tab M10",
       "codename": "X705L",
       "model": "Lenovo TB-X705L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab V7",
+      "codename": "PB-6505M",
+      "model": "Lenovo PB-6505M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Lenovo Tab V7",
+      "codename": "PB-6505NC",
+      "model": "Lenovo PB-6505NC"
     },
     {
       "manufacturer": "",
@@ -2367,7 +2391,25 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LenovoTB-X104F1",
+      "codename": "X104F1",
+      "model": "Lenovo TB-X104F1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LenovoTB-X104F1_EEA",
+      "codename": "X104F1",
+      "model": "Lenovo TB-X104F1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LenovoTB-X104L",
+      "codename": "X104L",
+      "model": "Lenovo TB-X104L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LenovoTB-X104L_RU",
       "codename": "X104L",
       "model": "Lenovo TB-X104L"
     },
@@ -3264,6 +3306,18 @@
       "market_name": "TB-8X04F",
       "codename": "TB-8X04F",
       "model": "Lenovo TB-8X04F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB-X104F1",
+      "codename": "X104F1",
+      "model": "Lenovo TB-X104F1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB-X104N",
+      "codename": "X104N",
+      "model": "Lenovo TB-X104N"
     },
     {
       "manufacturer": "",

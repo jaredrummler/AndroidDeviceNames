@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blade_C5",
+      "codename": "Blade_C5",
+      "model": "Blade_C5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blade_C6",
       "codename": "Blade_C6",
       "model": "Blade_C6"
@@ -135,6 +141,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HT0705W08/Koral_7W4",
+      "codename": "HT0705W08",
+      "model": "Koral 7W4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HY1-5085",
       "codename": "HY1_5085",
       "model": "HY1-5085"
@@ -162,6 +174,12 @@
       "market_name": "Hyundai Koral_7M4",
       "codename": "HT0704K08",
       "model": "HT0704K08"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Hyundai Koral_7XL",
+      "codename": "HT0701L16",
+      "model": "HT0701L16"
     },
     {
       "manufacturer": "",

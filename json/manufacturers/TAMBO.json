@@ -9,15 +9,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TA-10",
+      "codename": "TA-10",
+      "model": "TA-10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TA-2",
       "codename": "TA-2",
       "model": "TA-2"
     },
     {
       "manufacturer": "",
+      "market_name": "TA-20",
+      "codename": "TA-20",
+      "model": "TA-20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TA-2_3G",
       "codename": "TA-2_3G",
       "model": "TA-2_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TA-2_Pro",
+      "codename": "TA-2_Pro",
+      "model": "TA-2_Pro"
     },
     {
       "manufacturer": "",
@@ -39,9 +57,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TA-40 3G",
+      "codename": "TA-40_3G",
+      "model": "TA-40 3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TA-55_Power",
       "codename": "TA-55_Power",
       "model": "TA-55_Power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TA-60",
+      "codename": "TA-60",
+      "model": "TA-60"
     }
   ]
 }

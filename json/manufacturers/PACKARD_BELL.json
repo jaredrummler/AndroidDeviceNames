@@ -3,6 +3,54 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A4000",
+      "codename": "A4000",
+      "model": "A4000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A5000",
+      "codename": "A5000",
+      "model": "A5000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A5700",
+      "codename": "A5700",
+      "model": "A5700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10400",
+      "codename": "M10400",
+      "model": "M10400"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10500",
+      "codename": "M10500",
+      "model": "M10500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M11550",
+      "codename": "M11550",
+      "model": "M11550"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7500",
+      "codename": "M7500",
+      "model": "M7500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7600-D",
+      "codename": "M7600-D",
+      "model": "M7600-D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PB1009",
       "codename": "PB1009",
       "model": "PB1009"

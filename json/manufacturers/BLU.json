@@ -135,6 +135,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C4 2019",
+      "codename": "C070",
+      "model": "C4 2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C5",
+      "codename": "C004",
+      "model": "C5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5",
       "codename": "C010Q",
       "model": "C5"
@@ -153,6 +165,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C5L",
+      "codename": "C0040",
+      "model": "C5L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5X",
       "codename": "C0000UU",
       "model": "C5X"
@@ -168,6 +186,12 @@
       "market_name": "C6",
       "codename": "C031P",
       "model": "C6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C6L",
+      "codename": "C0030",
+      "model": "C6L"
     },
     {
       "manufacturer": "",
@@ -882,6 +906,12 @@
       "market_name": "Studio X Mini",
       "codename": "BLU_STUDIO_X_MINI",
       "model": "BLU STUDIO X MINI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Studio X8 HD",
+      "codename": "S532",
+      "model": "Studio X8 HD"
     },
     {
       "manufacturer": "",

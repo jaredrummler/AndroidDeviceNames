@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GoalPlus",
+      "codename": "GoalPlus",
+      "model": "GoalPlus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Jinga Joy",
       "codename": "JI55A_189BW",
       "model": "Joy"

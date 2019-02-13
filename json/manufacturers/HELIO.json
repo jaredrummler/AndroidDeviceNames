@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Helio S5",
+      "codename": "Helio_S5",
+      "model": "Helio S5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S10",
       "codename": "S10",
       "model": "S10"

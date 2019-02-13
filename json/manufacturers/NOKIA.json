@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 1 Plus",
+      "codename": "ANT",
+      "model": "Nokia 1 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 2",
       "codename": "E1M",
       "model": "Nokia 2"
@@ -66,6 +72,12 @@
       "market_name": "Nokia 3.1",
       "codename": "ES2_sprout",
       "model": "Nokia 3.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 3.1 Plus",
+      "codename": "RHD",
+      "model": "Nokia 3.1 Plus"
     },
     {
       "manufacturer": "",
@@ -244,8 +256,26 @@
     {
       "manufacturer": "",
       "market_name": "Nokia 8.1",
+      "codename": "PNXN",
+      "model": "Nokia 8.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 8.1",
       "codename": "PNX_sprout",
       "model": "Nokia 8.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 9",
+      "codename": "AOP",
+      "model": "Nokia 9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 9",
+      "codename": "AOP_sprout",
+      "model": "Nokia 9"
     },
     {
       "manufacturer": "",

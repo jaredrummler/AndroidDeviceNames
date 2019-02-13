@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "K10",
+      "codename": "K10",
+      "model": "K10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K20M",
       "codename": "K20M",
       "model": "K20M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K30M",
+      "codename": "K30M",
+      "model": "K30M"
     },
     {
       "manufacturer": "",
@@ -24,6 +36,30 @@
       "market_name": "T55",
       "codename": "T55",
       "model": "T55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T55S",
+      "codename": "T55S",
+      "model": "T55S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W55M",
+      "codename": "W55M",
+      "model": "W55M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y10",
+      "codename": "Y10",
+      "model": "Y10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y20",
+      "codename": "Y20",
+      "model": "Y20"
     },
     {
       "manufacturer": "",

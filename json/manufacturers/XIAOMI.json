@@ -171,6 +171,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MI  8  Pro",
+      "codename": "equuleus",
+      "model": "MI 8 UD"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MI  MAX  3",
       "codename": "nitrogen",
       "model": "MI MAX 3"
@@ -618,6 +624,12 @@
       "market_name": "Redmi  Note  6  Pro",
       "codename": "tulip",
       "model": "Redmi Note 6 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi  Note  7",
+      "codename": "lavender",
+      "model": "Redmi Note 7"
     },
     {
       "manufacturer": "",

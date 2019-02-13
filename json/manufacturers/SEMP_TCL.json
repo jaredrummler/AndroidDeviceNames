@@ -1,0 +1,23 @@
+{
+  "manufacturer": "SEMP TCL",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "GO3C",
+      "codename": "GO3C",
+      "model": "GO3C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GO3E",
+      "codename": "GO3E",
+      "model": "GO3E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GO5E",
+      "codename": "GO5E",
+      "model": "GO5E"
+    }
+  ]
+}

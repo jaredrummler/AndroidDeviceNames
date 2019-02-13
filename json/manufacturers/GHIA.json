@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GHIA_A7",
+      "codename": "GHIA_A7",
+      "model": "GHIA_A7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GHIA_AXIS7P",
       "codename": "GHIA_AXIS7P",
       "model": "GHIA_AXIS7P"

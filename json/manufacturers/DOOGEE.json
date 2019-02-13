@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BL5500_Lite",
+      "codename": "BL5500_Lite",
+      "model": "BL5500_Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BL7000",
       "codename": "BL7000",
       "model": "BL7000"
@@ -51,6 +57,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S55",
+      "codename": "S55",
+      "model": "S55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S55_Lite",
+      "codename": "S55_Lite",
+      "model": "S55_Lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S60",
       "codename": "S60",
       "model": "S60"
@@ -60,6 +78,36 @@
       "market_name": "S60 Lite",
       "codename": "t777_dg_m1_65_n",
       "model": "S60 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S60Lite",
+      "codename": "S60Lite",
+      "model": "S60Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S70",
+      "codename": "S70",
+      "model": "S70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S70Lite",
+      "codename": "S70Lite",
+      "model": "S70Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S80",
+      "codename": "S80",
+      "model": "S80"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S80Lite",
+      "codename": "S80Lite",
+      "model": "S80Lite"
     },
     {
       "manufacturer": "",
@@ -84,6 +132,12 @@
       "market_name": "X10",
       "codename": "doogee-X10",
       "model": "DOOGEE X10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X100",
+      "codename": "X100",
+      "model": "X100"
     },
     {
       "manufacturer": "",
@@ -147,6 +201,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X60",
+      "codename": "X60",
+      "model": "X60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X60L",
+      "codename": "X60L",
+      "model": "X60L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X60L",
       "codename": "t596_dg_d5506_x60l",
       "model": "X60L"
@@ -168,6 +234,18 @@
       "market_name": "X7",
       "codename": "s6061_dg_a50_m",
       "model": "X7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X70",
+      "codename": "X70",
+      "model": "X70"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X70",
+      "codename": "X70_RU",
+      "model": "X70"
     },
     {
       "manufacturer": "",
@@ -222,6 +300,18 @@
       "market_name": "Y6 Max",
       "codename": "Y6_Max",
       "model": "Y6 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y7",
+      "codename": "Y7",
+      "model": "Y7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y7Plus",
+      "codename": "Y7Plus",
+      "model": "Y7Plus"
     },
     {
       "manufacturer": "",

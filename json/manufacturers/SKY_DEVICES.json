@@ -69,6 +69,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite Go",
+      "codename": "Elite_Go_HN",
+      "model": "Elite Go"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite Go",
+      "codename": "Elite_Go_SV",
+      "model": "Elite Go"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite M45",
       "codename": "Elite_M45",
       "model": "Elite M45"
@@ -87,9 +99,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Elite T4",
+      "codename": "Elite_T4",
+      "model": "Elite T4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Elite T45",
       "codename": "Elite_T45",
       "model": "Elite T45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite T55",
+      "codename": "Elite_T55_SV",
+      "model": "Elite T55"
     },
     {
       "manufacturer": "",
@@ -183,9 +207,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PLATINUM_F5",
+      "codename": "Platinum_F5",
+      "model": "Platinum_F5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Platinum C4",
+      "codename": "Platinum_C4",
+      "model": "Platinum C4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Platinum M5",
       "codename": "Platinum_M5",
       "model": "Platinum_M5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Platinum View2",
+      "codename": "PLATINUM_VIEW2",
+      "model": "PLATINUM_VIEW2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Platinum_UNO",
+      "codename": "Platinum_UNO",
+      "model": "Platinum_UNO"
     },
     {
       "manufacturer": "",
@@ -216,6 +264,12 @@
       "market_name": "SKY_Pro_III",
       "codename": "SKY_Pro_III",
       "model": "SKY_Pro_III"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sky Vision2",
+      "codename": "Sky_Vision2",
+      "model": "Sky Vision2"
     },
     {
       "manufacturer": "",
