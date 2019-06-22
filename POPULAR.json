@@ -1,24 +1,11 @@
 {
-  "Acer": [
-    "Liquid Jade Z",
-    "Liquid Zest Plus"
-  ],
-  "Asus": [
-    "Nexus 7 (2012)",
-    "Nexus 7 (2013)"
-  ],
   "Google": [
-    "Pixel",
-    "Pixel 2",
-    "Pixel C",
-    "Pixel XL",
     "Pixel 2",
     "Pixel 2 XL",
     "Pixel 3",
+    "Pixel 3a",
+    "Pixel 3a XL",
     "Pixel 3 XL"
-  ],
-  "HTC": [
-    "Nexus 9"
   ],
   "Huawei": [
     "Mate 9",
@@ -28,65 +15,29 @@
     "Honor 7X"
   ],
   "LGE": [
-    "LG G2",
-    "LG G3",
-    "LG G4",
     "LG G5",
     "LG G6",
     "Nexus 4",
     "Nexus 5",
-    "Nexus 5X"
+    "Nexus 5X",
+    "LG V50 ThinQ"
   ],
   "Motorola": [
-    "Nexus 6"
+    "Nexus 6",
+    "Moto Z"
   ],
   "OnePlus": [
-    "OnePlus 5",
-    "OnePlus 5T",
     "OnePlus 6",
-    "OnePlus 6T"
+    "OnePlus 6T",
+    "OnePlus 7",
+    "OnePlus 7 Pro"
   ],
   "Samsung": [
-    "Galaxy A5",
-    "Galaxy Ace 4",
-    "Galaxy Ace Duos",
-    "Galaxy Ace Plus",
-    "Galaxy Ace Style",
-    "Galaxy Ace4",
-    "Galaxy Core Prime",
-    "Galaxy Core2",
-    "Galaxy E5",
-    "Galaxy E7",
-    "Galaxy Fame",
-    "Galaxy Go Prime",
-    "Galaxy Grand Neo",
-    "Galaxy Grand Prime",
-    "Galaxy Grand2",
-    "Galaxy J1",
-    "Galaxy J1 Ace",
-    "Galaxy J5",
-    "Galaxy J7",
-    "Galaxy Nexus",
-    "Galaxy Note 10.1",
-    "Galaxy Note Edge",
-    "Galaxy Note Pro 12.2",
-    "Galaxy Note4",
-    "Galaxy Note5",
-    "Galaxy Note6",
+    "Galaxy A50",
+    "Galaxy A6",
     "Galaxy Note7",
     "Galaxy Note8",
-    "Galaxy On5",
-    "Galaxy On7",
-    "Galaxy S",
-    "Galaxy S Duos",
-    "Galaxy S Duos2",
-    "Galaxy S Duos3",
-    "Galaxy S3",
-    "Galaxy S3 Mini",
-    "Galaxy S3 Mini Value Edition",
-    "Galaxy S3 Neo",
-    "Galaxy S4",
-    "Galaxy S4 Mini",
+    "Galaxy Note9",
     "Galaxy S5",
     "Galaxy S5 Neo",
     "Galaxy S6",
@@ -98,26 +49,20 @@
     "Galaxy S8+",
     "Galaxy S9",
     "Galaxy S9+",
-    "Galaxy Tab 10.1",
-    "Galaxy Tab 7.0 Plus",
-    "Galaxy Tab E 8.0",
-    "Galaxy Tab E 9.6",
-    "Galaxy Tab4 7.0",
-    "Galaxy View",
-    "Nexus 10"
+    "Galaxy S10",
+    "Galaxy S10e",
+    "Galaxy S10+"
+  ],
+  "Nokia": [
+    "Nokia 3.1 Plus",
+    "Nokia 7.1"
   ],
   "Sony": [
-    "Xperia E1 dual",
-    "Xperia E3",
-    "Xperia M5",
-    "Xperia M5 Dual",
-    "Xperia S",
-    "Xperia T2 Ultra",
-    "Xperia Tablet S",
-    "Xperia Tablet Z",
-    "Xperia Z2",
-    "Xperia Z3",
-    "Xperia Z4",
-    "Xperia Z5 Compact"
+    "Xperia 1",
+    "Xperia 10",
+    "Xperia 10 Plus",
+    "Xperia XZ3",
+    "Xperia XZ2",
+    "Xperia XZ2 Premium"
   ]
 }
