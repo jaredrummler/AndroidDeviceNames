@@ -7,7 +7,7 @@ buildscript {
   }
 
   dependencies {
-    classpath 'com.android.tools.build:gradle:3.3.1'
+    classpath 'com.android.tools.build:gradle:3.4.1'
     classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
   }
 }
@@ -18,12 +18,12 @@ allprojects {
     jcenter()
   }
 }
-
-subprojects { subProject ->
-  afterEvaluate {
-    if (subProject.plugins.hasPlugin("kotlin") && subProject.plugins.hasPlugin("java-library")) {
-      subProject.kotlin.copyClassesToJavaOutput = true
-      subProject.jar.duplicatesStrategy = DuplicatesStrategy.EXCLUDE
-    }
-  }
-}
+//
+//subprojects { subProject ->
+//  afterEvaluate {
+//    if (subProject.plugins.hasPlugin("kotlin") && subProject.plugins.hasPlugin("java-library")) {
+//      subProject.kotlin.copyClassesToJavaOutput = true
+//      subProject.jar.duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+//    }
+//  }
+//}
