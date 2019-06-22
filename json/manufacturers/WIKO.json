@@ -117,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Gallardo",
+      "codename": "W-U300",
+      "model": "W-U300"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HARRY",
       "codename": "V3953AN25K",
       "model": "HARRY"
@@ -213,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Jerry4",
+      "codename": "W-K420",
+      "model": "W-K420-TVM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K-KOOL",
       "codename": "T2800AN",
       "model": "K-KOOL"
@@ -294,6 +306,12 @@
       "market_name": "MACARON",
       "codename": "l8401_international",
       "model": "MACARON"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P311",
+      "codename": "W-P311",
+      "model": "W-P311-EEA"
     },
     {
       "manufacturer": "",
@@ -627,6 +645,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Tone E19",
+      "codename": "TONE_e19",
+      "model": "TONE e19"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U FEEL",
       "codename": "P6601AE",
       "model": "U FEEL"
@@ -711,6 +735,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VIEW3",
+      "codename": "W-P311",
+      "model": "W-P311-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIEW3",
+      "codename": "W-P311",
+      "model": "W-P311-TVM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "View",
       "codename": "v12bnlite",
       "model": "View"
@@ -744,6 +780,48 @@
       "market_name": "View2 Plus",
       "codename": "W-P210",
       "model": "View2 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3",
+      "codename": "W-P311",
+      "model": "W-P311-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3 Lite",
+      "codename": "W-V800",
+      "model": "W-V800-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3 Lite",
+      "codename": "W-V800",
+      "model": "W-V800-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3 Lite",
+      "codename": "W-V800",
+      "model": "W-V800-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3 Pro",
+      "codename": "W-P611",
+      "model": "W-P611-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3 Pro",
+      "codename": "W-P611",
+      "model": "W-P611-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "View3 Pro",
+      "codename": "W-P611",
+      "model": "W-P611-TVM"
     },
     {
       "manufacturer": "",
@@ -807,6 +885,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "W_C860",
+      "codename": "W_C860",
+      "model": "W_C860"
+    },
+    {
+      "manufacturer": "",
       "market_name": "W_K120",
       "codename": "W_K120",
       "model": "Sunny3"
@@ -852,6 +936,72 @@
       "market_name": "W_P200CM",
       "codename": "W_P200CM",
       "model": "W_P200CM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y50",
+      "codename": "W-K420",
+      "model": "W-K420-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510",
+      "model": "W-K510-BYT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510",
+      "model": "W-K510-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510",
+      "model": "W-K510-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510",
+      "model": "W-K510-SFC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510",
+      "model": "W-K510-SUN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y60",
+      "codename": "W-K510",
+      "model": "W-K510-TVM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y80",
+      "codename": "W-V720",
+      "model": "W-V720-EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y80",
+      "codename": "W-V720",
+      "model": "W-V720-OPE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y80",
+      "codename": "W-V720",
+      "model": "W-V720-SUN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "sunny4 Plus",
+      "codename": "W-K360",
+      "model": "W-K360-TV"
     }
   ]
 }

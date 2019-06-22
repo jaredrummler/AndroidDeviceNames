@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Energy",
+      "codename": "Energy",
+      "model": "Energy"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Luna",
       "codename": "Luna",
       "model": "Luna"
@@ -21,9 +27,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S40 Vino",
+      "codename": "S40_Vino",
+      "model": "S40 Vino"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S40_EBONY",
+      "codename": "S40_EBONY",
+      "model": "S40_EBONY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S49 ECO",
+      "codename": "S49_ECO",
+      "model": "S49 ECO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S49 MONO",
       "codename": "S49_MONO",
       "model": "S49 MONO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S49_Cobalt",
+      "codename": "S49_cobalt",
+      "model": "S49 cobalt"
     },
     {
       "manufacturer": "",
@@ -69,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S57_AZURE",
+      "codename": "S57_AZURE",
+      "model": "S57_AZURE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S61_JAZZ",
       "codename": "S61_JAZZ",
       "model": "S61 JAZZ"
@@ -102,6 +138,12 @@
       "market_name": "STYLO_S61",
       "codename": "STYLO_S61",
       "model": "STYLO SV61 VECTOR+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Stylo S40",
+      "codename": "S40_Vida",
+      "model": "Stylo S40"
     },
     {
       "manufacturer": "",

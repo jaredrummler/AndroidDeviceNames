@@ -1120,6 +1120,12 @@
     {
       "manufacturer": "",
       "market_name": "Archos",
+      "codename": "ac101cr3gv5",
+      "model": "Archos Core 101 3G v5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos",
       "codename": "ac101hello",
       "model": "Archos Hello 10"
     },
@@ -1263,6 +1269,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Access 101 3G V3",
+      "codename": "ac101as3gv3",
+      "model": "Archos Access 101 3G v3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Access 101 Wifi v2",
+      "codename": "ac101aswfv2",
+      "model": "Archos Access 101 Wifi v2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Access 40 3G",
       "codename": "ac40as3g",
       "model": "Archos Access 40 3G"
@@ -1329,6 +1347,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Access 70 Wifi",
+      "codename": "ac70aswf",
+      "model": "Archos Access 70 Wifi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Core 101 3G",
       "codename": "ac101cr3g",
       "model": "Archos Core 101 3G"
@@ -1344,6 +1368,12 @@
       "market_name": "Archos Core 101 3G",
       "codename": "ac101cr3gv3",
       "model": "Archos Core 101 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Core 101 3G V4",
+      "codename": "ac101cr3gv4",
+      "model": "Archos Core 3g v4"
     },
     {
       "manufacturer": "",
@@ -1419,6 +1449,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Core 62S",
+      "codename": "ac62crs",
+      "model": "Archos Core 62S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Core 70 3G",
       "codename": "ac70cr3g",
       "model": "Archos Core 70 3G"
@@ -1431,6 +1467,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos Core 80 Wifi",
+      "codename": "ac80crwf",
+      "model": "Archos Core 80 Wifi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos Hello 5",
       "codename": "ac50hello",
       "model": "Archos Hello 5"
@@ -1440,6 +1482,18 @@
       "market_name": "Archos Hello 7",
       "codename": "ac70hello",
       "model": "Archos Hello 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Oxygen 57",
+      "codename": "ac57ox",
+      "model": "Archos Oxygen 57"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Oxygen 63",
+      "codename": "ac63ox",
+      "model": "Archos Oxygen 63"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Lephone P2",
+      "codename": "lephone_P2AF",
+      "model": "lephone P2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Lephone W8",
       "codename": "lephone_W8",
       "model": "lephone_W8"
@@ -18,6 +24,18 @@
       "market_name": "lephone P1",
       "codename": "lephoneP1",
       "model": "lephoneP1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "lephone P1",
+      "codename": "lephoneP1O",
+      "model": "lephoneP1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "lephone P1",
+      "codename": "lephone_P1",
+      "model": "lephone P1"
     },
     {
       "manufacturer": "",
@@ -45,8 +63,20 @@
     },
     {
       "manufacturer": "",
+      "market_name": "lephone W11",
+      "codename": "lephone_W11",
+      "model": "lephone_W11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "lephone W15",
       "codename": "lephone_W15",
+      "model": "lephone_W15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "lephone W15",
+      "codename": "lephone_W15a",
       "model": "lephone_W15"
     },
     {
@@ -66,6 +96,30 @@
       "market_name": "lephone W7",
       "codename": "lephone_W7s",
       "model": "lephone_W7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "lephone W7+",
+      "codename": "lephone_W7_plus",
+      "model": "lephone_W7_plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "lephone W7R",
+      "codename": "lephone_W7R",
+      "model": "lephone_W7R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "lephone_P2Plus",
+      "codename": "lephone_P2Plus",
+      "model": "lephone P2Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "lephone_W10b",
+      "codename": "lephone_W10b",
+      "model": "lephone_W10"
     }
   ]
 }

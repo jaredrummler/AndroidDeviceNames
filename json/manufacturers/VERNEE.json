@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M7_EEA",
+      "codename": "M7_EEA",
+      "model": "M7_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M8 Pro",
       "codename": "M8_Pro",
       "model": "M8 Pro"
@@ -90,6 +96,18 @@
       "market_name": "X1",
       "codename": "X1_PRO",
       "model": "X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2",
+      "codename": "X2",
+      "model": "X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X2_euro",
+      "codename": "X2_euro",
+      "model": "X2_euro"
     },
     {
       "manufacturer": "",

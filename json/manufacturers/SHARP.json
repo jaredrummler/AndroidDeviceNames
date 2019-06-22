@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "2T-B40BCH1; 2T-B40BCH3; 2T-B45BCH1; 2T-B45BCH3",
+      "codename": "Lcd_xxsffocbc_h",
+      "model": "LCD_xxSFFOCBC_H"
+    },
+    {
+      "manufacturer": "",
       "market_name": "2T-C12AF",
       "codename": "taurus_2tcxxaf",
       "model": "2T-C12AF"
@@ -537,9 +543,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R2 compact (SH-M09)",
+      "codename": "SH-M09",
+      "model": "SH-M09"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS R2 compact 803SH",
       "codename": "SG803SH",
       "model": "803SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R3 808SH",
+      "codename": "SG808SH",
+      "model": "808SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R3 SH-04L",
+      "codename": "SH-04L",
+      "model": "SH-04L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS R3 SHV44",
+      "codename": "NAX",
+      "model": "SHV44"
     },
     {
       "manufacturer": "",
@@ -762,6 +792,18 @@
       "market_name": "AQUOS zero",
       "codename": "SH-Z10",
       "model": "SH-Z10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero (SH-M10)",
+      "codename": "SH-M10",
+      "model": "SH-M10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS \\xe3\\x82\\xb1\\xe3\\x83\\xbc\\xe3\\x82\\xbf\\xe3\\x82\\xa4 SH-02L",
+      "codename": "SH-02L",
+      "model": "SH-02L"
     },
     {
       "manufacturer": "",

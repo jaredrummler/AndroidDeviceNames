@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Beyond TV",
+      "codename": "BeyondTV",
+      "model": "BeyondTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C9",
       "codename": "A3A_XL_4G",
       "model": "5199I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GO5c",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033E"
     },
     {
       "manufacturer": "",
@@ -108,6 +120,12 @@
       "market_name": "TCL C7",
       "codename": "A3A_PLUS",
       "model": "5158A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TCL L10",
+      "codename": "Faraday",
+      "model": "5124J"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "K100",
+      "codename": "K100",
+      "model": "K100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K200",
+      "codename": "K200",
+      "model": "K200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LT_C1500",
       "codename": "LT_C1500",
       "model": "LT_C1500"

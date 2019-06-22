@@ -94,6 +94,12 @@
     {
       "manufacturer": "",
       "market_name": "Elite M5Plus",
+      "codename": "Elite_M5Plus_PA",
+      "model": "Elite M5Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite M5Plus",
       "codename": "Elite_M5Plus_SAL",
       "model": "Elite M5Plus"
     },
@@ -108,6 +114,12 @@
       "market_name": "Elite T45",
       "codename": "Elite_T45",
       "model": "Elite T45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elite T55",
+      "codename": "Elite_T55_HN",
+      "model": "Elite T55"
     },
     {
       "manufacturer": "",
@@ -213,9 +225,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PLATINUM_O",
+      "codename": "PLATINUM_O",
+      "model": "PLATINUM_O"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PLATINUM_O_B1",
+      "codename": "PLATINUM_O",
+      "model": "PLATINUM_O"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Platinum B4",
+      "codename": "Platinum_B4",
+      "model": "Platinum B4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Platinum C4",
       "codename": "Platinum_C4",
       "model": "Platinum C4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Platinum C55",
+      "codename": "Platinum_C55",
+      "model": "Platinum C55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Platinum F5",
+      "codename": "Platinum_F5_2100",
+      "model": "Platinum_F5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Platinum G5",
+      "codename": "Platinum_G5",
+      "model": "Platinum_G5"
     },
     {
       "manufacturer": "",

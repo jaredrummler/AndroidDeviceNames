@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LeaPad X",
+      "codename": "LeaPad_X",
+      "model": "LeaPad_X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M10",
       "codename": "M10",
       "model": "M10"
@@ -30,6 +36,12 @@
       "market_name": "M11",
       "codename": "M11",
       "model": "M11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M13",
+      "codename": "M13",
+      "model": "M13"
     },
     {
       "manufacturer": "",
@@ -93,6 +105,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S11",
+      "codename": "S11",
+      "model": "S11"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S8",
       "codename": "S8",
       "model": "S8"
@@ -144,6 +162,12 @@
       "market_name": "XRover C",
       "codename": "XRover_C",
       "model": "XRover C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z10",
+      "codename": "Z10",
+      "model": "Z10"
     },
     {
       "manufacturer": "",

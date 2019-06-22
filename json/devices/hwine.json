@@ -1,6 +1,18 @@
 [
   {
     "manufacturer": "Huawei",
+    "market_name": "HUAWEI Nova 3i",
+    "codename": "HWINE",
+    "model": "INE-LX1"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Nova 3i",
+    "codename": "HWINE",
+    "model": "INE-LX2r"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "nova 3i",
     "codename": "HWINE",
     "model": "INE-AL00"
@@ -10,6 +22,12 @@
     "market_name": "nova 3i",
     "codename": "HWINE",
     "model": "INE-LX1"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "nova 3i",
+    "codename": "HWINE",
+    "model": "INE-LX1r"
   },
   {
     "manufacturer": "Huawei",

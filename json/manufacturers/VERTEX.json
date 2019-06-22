@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Click_M_4095_4G",
+      "codename": "Click_M_4095_4G",
+      "model": "Vertex_Click_M_4095_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EF",
       "codename": "EF",
       "model": "EF"
@@ -54,6 +60,12 @@
       "market_name": "Impress Action",
       "codename": "Impress_Action",
       "model": "Impress_Action"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Impress City",
+      "codename": "Impress_City",
+      "model": "Impress_City"
     },
     {
       "manufacturer": "",
@@ -396,6 +408,30 @@
       "market_name": "Luck",
       "codename": "Luck",
       "model": "Luck"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Luck_L_5045_3G",
+      "codename": "Luck_L_5045_3G",
+      "model": "Vertex_Luck_L_5045_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Luck_L_5045_4G",
+      "codename": "Luck_L_5045_4G",
+      "model": "Vertex_Luck_L_5045_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Luck_M_5000N_4G",
+      "codename": "Luck_M_5000N_4G",
+      "model": "Luck_M_5000N_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Luck_XS_3097_3G",
+      "codename": "Luck_XS_3097_3G",
+      "model": "Luck_XS_3097_3G"
     },
     {
       "manufacturer": "",

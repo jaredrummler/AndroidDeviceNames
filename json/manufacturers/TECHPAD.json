@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M6Plus",
+      "codename": "M6Plus",
+      "model": "M6Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S6",
       "codename": "S6",
       "model": "S6"
@@ -75,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TechPad_1032s",
+      "codename": "TechPad_1032s",
+      "model": "TechPad_1032s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TechPad_10x",
       "codename": "TechPad_10x",
       "model": "TechPad_10x"
@@ -102,6 +114,12 @@
       "market_name": "TechPad_i700",
       "codename": "Techpad_i700",
       "model": "Techpad_i700"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Techpad_Kids_7",
+      "codename": "Techpad_Kids_7",
+      "model": "Techpad_Kids_7"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "10or_G2",
+      "codename": "G2",
+      "model": "10or G2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D",
       "codename": "10or_D",
       "model": "D"
@@ -18,6 +24,12 @@
       "market_name": "G",
       "codename": "G",
       "model": "G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2",
+      "codename": "G2",
+      "model": "G2"
     }
   ]
 }

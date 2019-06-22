@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F2 Plus",
+      "codename": "koobee_F2_Plus",
+      "model": "F2_Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F2_Plus",
       "codename": "koobee_F2_Plus",
       "model": "F2_Plus"
@@ -18,6 +24,18 @@
       "market_name": "S12",
       "codename": "koobee_S12",
       "model": "S12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S16",
+      "codename": "koobee_S16",
+      "model": "S16"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "koobee_K10",
+      "codename": "koobee_K10",
+      "model": "K10"
     }
   ]
 }

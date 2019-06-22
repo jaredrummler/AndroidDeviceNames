@@ -2331,6 +2331,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HTC 5G HUB",
+      "codename": "htc_rtx",
+      "model": "HTC 5G Hub"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC 5G Hub",
+      "codename": "htc_rtxspcs",
+      "model": "HTC 5G Hub"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HTC Desire 610",
       "codename": "htc_a3ul",
       "model": "HTC Desire 610"
@@ -2346,6 +2358,18 @@
       "market_name": "HTC Desire 628 dual sim",
       "codename": "htc_v36bml_dugl",
       "model": "HTC Desire 628 dual sim"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire19+",
+      "codename": "htc_bre2pdugl",
+      "model": "2Q74100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC Desire19+",
+      "codename": "htc_bre2pdugl",
+      "model": "HTC Desire 19+"
     },
     {
       "manufacturer": "",
@@ -2436,6 +2460,12 @@
       "market_name": "HTC U11+",
       "codename": "htc_ocmdugl",
       "model": "HTC_2Q4D100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HTC U19e",
+      "codename": "htc_tetdugl",
+      "model": "HTC 2Q7A100"
     },
     {
       "manufacturer": "",

@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EAGLE_962",
+      "codename": "EAGLE_962",
+      "model": "EAGLE_962"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FLOW",
       "codename": "Kruger_Matz_FLOW",
       "model": "FLOW"
@@ -132,6 +138,12 @@
       "market_name": "MOVE8mini",
       "codename": "MOVE8mini",
       "model": "MOVE8mini"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MOVE_8.1",
+      "codename": "MOVE_8_1",
+      "model": "MOVE_8"
     }
   ]
 }

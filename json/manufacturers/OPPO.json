@@ -123,6 +123,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A1k",
+      "codename": "OP486C",
+      "model": "CPH1923"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A3",
+      "codename": "CPH1837",
+      "model": "CPH1837"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A3",
       "codename": "PADM00",
       "model": "PADM00"
@@ -282,6 +294,12 @@
       "market_name": "A39tm",
       "codename": "A39",
       "model": "OPPO A39tm"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A3s",
+      "codename": "CPH1803",
+      "model": "CPH1803"
     },
     {
       "manufacturer": "",
@@ -468,12 +486,6 @@
       "market_name": "A73",
       "codename": "A79",
       "model": "OPPO A73"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "A73",
-      "codename": "CPH1837",
-      "model": "CPH1837"
     },
     {
       "manufacturer": "",
@@ -693,12 +705,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "CPH1803",
-      "codename": "CPH1803",
-      "model": "CPH1803"
-    },
-    {
-      "manufacturer": "",
       "market_name": "CPH1803RU",
       "codename": "CPH1803",
       "model": "CPH1803"
@@ -729,15 +735,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "CPH1859",
-      "codename": "CPH1859",
-      "model": "CPH1859"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "CPH1861",
-      "codename": "CPH1861",
-      "model": "CPH1861"
+      "market_name": "CPH1853",
+      "codename": "CPH1853",
+      "model": "CPH1853"
     },
     {
       "manufacturer": "",
@@ -756,6 +756,36 @@
       "market_name": "CPH1903",
       "codename": "CPH1903",
       "model": "CPH1903"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F11",
+      "codename": "OP4883",
+      "model": "CPH1911"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F11",
+      "codename": "OP4883",
+      "model": "CPH1913"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F11",
+      "codename": "OP4883",
+      "model": "CPH1915"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F11 Pro",
+      "codename": "OP4863",
+      "model": "CPH1969"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F11 Pro",
+      "codename": "OP4863",
+      "model": "CPH1987"
     },
     {
       "manufacturer": "",
@@ -882,6 +912,12 @@
       "market_name": "K1",
       "codename": "PBCM30",
       "model": "PBCM30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K3",
+      "codename": "OP486B",
+      "model": "CPH1955"
     },
     {
       "manufacturer": "",
@@ -1030,12 +1066,6 @@
     {
       "manufacturer": "",
       "market_name": "R15",
-      "codename": "CPH1831",
-      "model": "CPH1831"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "R15",
       "codename": "CPH1833",
       "model": "CPH1833"
     },
@@ -1056,6 +1086,12 @@
       "market_name": "R15",
       "codename": "PACT00",
       "model": "PACT00"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R15 Pro",
+      "codename": "CPH1831",
+      "model": "CPH1831"
     },
     {
       "manufacturer": "",
@@ -1701,51 +1737,39 @@
     },
     {
       "manufacturer": "",
-      "market_name": "RMX1801",
-      "codename": "RMX1801",
-      "model": "RMX1801"
+      "market_name": "Reno",
+      "codename": "OP47DD",
+      "model": "CPH1917"
     },
     {
       "manufacturer": "",
-      "market_name": "RMX1803",
-      "codename": "RMX1803",
-      "model": "RMX1803"
+      "market_name": "Reno",
+      "codename": "OP47DDL1",
+      "model": "CPH1917"
     },
     {
       "manufacturer": "",
-      "market_name": "RMX1805",
-      "codename": "RMX1805",
-      "model": "RMX1805"
+      "market_name": "Reno 10x room",
+      "codename": "OP4847",
+      "model": "CPH1921"
     },
     {
       "manufacturer": "",
-      "market_name": "RMX1807",
-      "codename": "RMX1807",
-      "model": "RMX1807"
+      "market_name": "Reno 10x room",
+      "codename": "OP4847L1",
+      "model": "CPH1921"
     },
     {
       "manufacturer": "",
-      "market_name": "RMX1809",
-      "codename": "RMX1809",
-      "model": "RMX1809"
+      "market_name": "Reno \\xe6\\xa0\\x87\\xe5\\x87\\x86\\xe7\\x89\\x88",
+      "codename": "OP46B1",
+      "model": "PCAM00"
     },
     {
       "manufacturer": "",
-      "market_name": "RMX1811",
-      "codename": "RMX1811",
-      "model": "RMX1811"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "RMX1831",
-      "codename": "RMX1831",
-      "model": "RMX1831"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "RMX1833",
-      "codename": "RMX1833",
-      "model": "RMX1833"
+      "market_name": "Reno \\xe6\\xa0\\x87\\xe5\\x87\\x86\\xe7\\x89\\x88",
+      "codename": "OP46B1",
+      "model": "PCAT00"
     },
     {
       "manufacturer": "",
@@ -1860,6 +1884,132 @@
       "market_name": "X909",
       "codename": "X909T",
       "model": "X909T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 1",
+      "codename": "CPH1859",
+      "model": "CPH1859"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 1",
+      "codename": "CPH1861",
+      "model": "CPH1861"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 2",
+      "codename": "RMX1805",
+      "model": "RMX1805"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 2",
+      "codename": "RMX1809",
+      "model": "RMX1809"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 2 Pro",
+      "codename": "RMX1801",
+      "model": "RMX1801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 2 Pro",
+      "codename": "RMX1803",
+      "model": "RMX1803"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 2 Pro",
+      "codename": "RMX1807",
+      "model": "RMX1807"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 3",
+      "codename": "RMX1821",
+      "model": "RMX1821"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 3",
+      "codename": "RMX1822",
+      "model": "RMX1822"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 3",
+      "codename": "RMX1825",
+      "model": "RMX1825"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 3Pro",
+      "codename": "RMX1851",
+      "model": "RMX1851"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme 3Pro",
+      "codename": "RMX1853",
+      "model": "RMX1853"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme C1",
+      "codename": "RMX1811",
+      "model": "RMX1811"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme C2",
+      "codename": "RMX1941",
+      "model": "RMX1941"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme C2",
+      "codename": "RMX1942",
+      "model": "RMX1942"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme C2",
+      "codename": "RMX1943",
+      "model": "RMX1943"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme C2",
+      "codename": "RMX1945",
+      "model": "RMX1945"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme U1",
+      "codename": "RMX1831",
+      "model": "RMX1831"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme U1",
+      "codename": "RMX1833",
+      "model": "RMX1833"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X",
+      "codename": "RMX1901CN",
+      "model": "RMX1901"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "realme X\\xe9\\x9d\\x92\\xe6\\x98\\xa5\\xe7\\x89\\x88",
+      "codename": "RMX1851CN",
+      "model": "RMX1851"
     }
   ]
 }

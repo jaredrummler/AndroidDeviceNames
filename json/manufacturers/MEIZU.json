@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "16s",
+      "codename": "16s",
+      "model": "16s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "16th",
       "codename": "16th",
       "model": "16th"
@@ -147,6 +153,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note9",
+      "codename": "Note9",
+      "model": "Note9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PRO 7",
       "codename": "PRO7H",
       "model": "PRO 7-H"
@@ -171,6 +183,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "meizu 16Xs",
+      "codename": "meizu16Xs",
+      "model": "meizu 16Xs"
+    },
+    {
+      "manufacturer": "",
       "market_name": "meizu C9",
       "codename": "meizuC9",
       "model": "meizu C9"
@@ -189,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "meizu M8 lite",
+      "codename": "M8lite",
+      "model": "meizu M8 lite"
+    },
+    {
+      "manufacturer": "",
       "market_name": "meizu X8",
       "codename": "X8",
       "model": "meizu X8"
@@ -198,6 +222,12 @@
       "market_name": "meizu note8",
       "codename": "meizunote8",
       "model": "meizu note8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meizu note9",
+      "codename": "meizunote9",
+      "model": "meizu note9"
     }
   ]
 }

@@ -1,14 +1,38 @@
 [
   {
     "manufacturer": "Huawei",
+    "market_name": "HONOR 10i",
+    "codename": "HWHRY-HF",
+    "model": "HRY-LX1T"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HONOR 20i",
+    "codename": "HWHRY-HF",
+    "model": "HRY-AL00Ta"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "Honor 10 Lite",
     "codename": "HWHRY-HF",
     "model": "HRY-AL00a"
   },
   {
     "manufacturer": "Huawei",
+    "market_name": "Honor 20i",
+    "codename": "HWHRY-HF",
+    "model": "HRY-AL00Ta"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "honor 10 Lite",
     "codename": "HWHRY-HF",
     "model": "HRY-AL00"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "\\xe8\\x8d\\xa3\\xe8\\x80\\x8020i",
+    "codename": "HWHRY-HF",
+    "model": "HRY-TL00T"
   }
 ]

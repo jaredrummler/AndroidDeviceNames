@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ZKIDS",
+      "codename": "ZKIDS",
+      "model": "ZKIDS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZpadX7",
       "codename": "ZpadX7",
       "model": "ZpadX7"

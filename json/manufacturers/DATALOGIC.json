@@ -10,6 +10,12 @@
     {
       "manufacturer": "",
       "market_name": "MEMOR 1",
+      "codename": "M1_AOSP",
+      "model": "Memor 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MEMOR 1",
       "codename": "M1_HANDHELD",
       "model": "Memor 1"
     },

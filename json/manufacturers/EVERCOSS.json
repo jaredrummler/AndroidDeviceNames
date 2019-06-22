@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M50 PRO",
+      "codename": "M50_PRO",
+      "model": "M50 PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M50 STAR",
       "codename": "EVERCOSS_M50_STAR",
       "model": "M50 STAR"
@@ -66,6 +72,12 @@
       "market_name": "M55A",
       "codename": "M55A",
       "model": "M55A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M55B",
+      "codename": "M55B",
+      "model": "M55B"
     },
     {
       "manufacturer": "",
@@ -234,6 +246,12 @@
       "market_name": "U6B",
       "codename": "U6B",
       "model": "U6B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U6C",
+      "codename": "U6C",
+      "model": "U6C"
     },
     {
       "manufacturer": "",

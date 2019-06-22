@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "E90",
+      "codename": "E90",
+      "model": "E90"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G100",
       "codename": "G100",
       "model": "Symphony G100"
@@ -111,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S501",
+      "codename": "SYMPHONY_S501",
+      "model": "S501"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SYMTAB25",
       "codename": "SYMTAB25",
       "model": "SYMTAB25"
@@ -147,6 +159,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V125",
+      "codename": "V125",
+      "model": "V125"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V128",
+      "codename": "V128",
+      "model": "V128"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V130",
       "codename": "V130",
       "model": "V130"
@@ -162,6 +186,12 @@
       "market_name": "V142",
       "codename": "V142",
       "model": "V142"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V145",
+      "codename": "V145",
+      "model": "V145"
     },
     {
       "manufacturer": "",
@@ -225,6 +255,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V94",
+      "codename": "V94",
+      "model": "V94"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V96",
       "codename": "V96",
       "model": "V96"
@@ -234,6 +270,12 @@
       "market_name": "V97",
       "codename": "V97",
       "model": "V97"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V98",
+      "codename": "V98",
+      "model": "V98"
     },
     {
       "manufacturer": "",
@@ -318,6 +360,12 @@
       "market_name": "i90",
       "codename": "i90",
       "model": "i90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i95",
+      "codename": "i95",
+      "model": "i95"
     },
     {
       "manufacturer": "",

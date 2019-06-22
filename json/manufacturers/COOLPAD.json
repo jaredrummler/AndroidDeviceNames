@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1903",
+      "codename": "1903",
+      "model": "1903"
+    },
+    {
+      "manufacturer": "",
       "market_name": "3300A",
       "codename": "3300A",
       "model": "Coolpad 3300A"
@@ -306,6 +312,12 @@
       "market_name": "3700A",
       "codename": "3700A",
       "model": "CP3700A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "3705A",
+      "codename": "lithium",
+      "model": "cp3705A"
     },
     {
       "manufacturer": "",

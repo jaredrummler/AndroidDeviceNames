@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Algeria",
+      "codename": "ikebukuro",
+      "model": "AI PONT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Allure  M1",
       "codename": "Allure_M1",
       "model": "Allure M1"
@@ -54,6 +60,12 @@
       "market_name": "Allure M3 lite",
       "codename": "Allure_M3_Lite",
       "model": "Allure M3 Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Allure X",
+      "codename": "Allure_X",
+      "model": "Allure X"
     },
     {
       "manufacturer": "",
@@ -141,6 +153,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Griffe T8",
+      "codename": "Griffe_T8",
+      "model": "Griffe T8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Griffe T8 Plus",
+      "codename": "SP641",
+      "model": "Griffe T8 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Griffe_T5",
       "codename": "Griffe_T5",
       "model": "Griffe T5"
@@ -159,6 +183,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Infinity E5",
+      "codename": "Infinity_E5",
+      "model": "Infinity E5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinity E5 Pro",
+      "codename": "Infinity_E5_Pro",
+      "model": "Infinity e5 pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Infinity_E4",
       "codename": "Infinity_e4",
       "model": "Infinity e4"
@@ -168,6 +204,12 @@
       "market_name": "Infinity_a4",
       "codename": "Infinity_a4",
       "model": "Infinity a4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Infinity_i5",
+      "codename": "Infinity_i5",
+      "model": "Infinity_i5"
     },
     {
       "manufacturer": "",
@@ -382,6 +424,12 @@
     {
       "manufacturer": "",
       "market_name": "Plume_L2_Pro",
+      "codename": "Plume_L2_Pro",
+      "model": "Plume L2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plume_L2_Pro_EEA",
       "codename": "Plume_L2_Pro",
       "model": "Plume L2 Pro"
     },

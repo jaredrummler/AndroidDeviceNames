@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A60",
+      "codename": "A60",
+      "model": "A60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A60 Pro",
+      "codename": "A60Pro",
+      "model": "A60Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A7",
       "codename": "A7",
       "model": "A7"
@@ -60,6 +72,12 @@
       "market_name": "BV5500",
       "codename": "BV5500",
       "model": "BV5500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BV5500Pro",
+      "codename": "BV5500Pro",
+      "model": "BV5500Pro"
     },
     {
       "manufacturer": "",
@@ -252,6 +270,18 @@
       "market_name": "Blackview BV9500Pro",
       "codename": "BV9500Pro",
       "model": "BV9500Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blackview BV9700Pro",
+      "codename": "BV9700Pro",
+      "model": "BV9700Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blackview BV9700Pro_EEA",
+      "codename": "BV9700Pro",
+      "model": "BV9700Pro"
     },
     {
       "manufacturer": "",

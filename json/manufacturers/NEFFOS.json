@@ -57,9 +57,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Neffos C7",
-      "codename": "Y7",
-      "model": "Neffos_Y7"
+      "market_name": "Neffos C7 Lite",
+      "codename": "C7_Lite",
+      "model": "Neffos C7 Lite"
     },
     {
       "manufacturer": "",
@@ -120,6 +120,12 @@
       "market_name": "Neffos Y7",
       "codename": "Y7",
       "model": "Neffos Y7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Neffos Y7",
+      "codename": "Y7",
+      "model": "Neffos_Y7"
     },
     {
       "manufacturer": "",

@@ -15,9 +15,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KIDPAD LITE",
+      "codename": "ML-SO06-M7S-LITE-KIDPAD",
+      "model": "KIDPAD_LITE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Kidpad-3G",
       "codename": "Kidpad-3G",
       "model": "Kidpad-3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M10-3G",
+      "codename": "ML-JI06-M10-3G",
+      "model": "M10-3G"
     },
     {
       "manufacturer": "",
@@ -87,6 +99,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M7SQC_ Plus",
+      "codename": "ML-JI22-M7SQC_Plus",
+      "model": "M7SQC_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7S_LITE",
+      "codename": "ML-JI07-M7S-LITE",
+      "model": "M7S_LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7S_PLUS",
+      "codename": "ML-JI08-M7S-PLUS",
+      "model": "M7S_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7S_PLUS",
+      "codename": "ML-SO07-M7S-PLUS",
+      "model": "M7S_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7s Dual Core",
       "codename": "NB116_NB117_NB118",
       "model": "M7s Dual ML03"
@@ -113,6 +149,12 @@
       "manufacturer": "",
       "market_name": "M9-3G",
       "codename": "M9-3G",
+      "model": "M9-3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M9-3G",
+      "codename": "ML-JI05-M9-3G",
       "model": "M9-3G"
     },
     {
@@ -240,6 +282,12 @@
       "market_name": "MS50X",
       "codename": "ML-TI-MS50X",
       "model": "MS50X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS50X_VIVO",
+      "codename": "ML-TI-MS50X_VIVO",
+      "model": "MS50X_VIVO"
     },
     {
       "manufacturer": "",

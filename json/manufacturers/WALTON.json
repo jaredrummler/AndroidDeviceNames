@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PRIMO NH4",
+      "codename": "PRIMO_NH4",
+      "model": "PRIMO NH4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PRIMO_S7",
+      "codename": "Primo_S7",
+      "model": "Primo S7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo D9",
       "codename": "Primo_D9",
       "model": "Primo D9"
@@ -18,6 +30,12 @@
       "market_name": "Primo E8s",
       "codename": "Primo_E8s",
       "model": "Primo E8s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo E9",
+      "codename": "Primo_E9",
+      "model": "Primo E9"
     },
     {
       "manufacturer": "",
@@ -183,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Primo NF4",
+      "codename": "Primo_NF4",
+      "model": "Primo NF4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo NH3",
       "codename": "Primo_NH3",
       "model": "Primo NH3"
@@ -318,6 +342,12 @@
       "market_name": "Primo ZX3",
       "codename": "Primo_ZX3",
       "model": "Primo ZX3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Primo_EF9",
+      "codename": "Primo_EF9",
+      "model": "Primo EF9"
     },
     {
       "manufacturer": "",

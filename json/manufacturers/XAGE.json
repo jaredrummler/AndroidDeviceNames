@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G1",
+      "codename": "G1",
+      "model": "G1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G1LITE",
       "codename": "G1LITE",
       "model": "G1LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab40",
+      "codename": "Tab40",
+      "model": "Tab40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tab_31",
+      "codename": "Tab_31",
+      "model": "Tab_31"
     }
   ]
 }

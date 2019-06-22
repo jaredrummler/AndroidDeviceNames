@@ -51,6 +51,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C13 Pro",
+      "codename": "C13_Pro",
+      "model": "C13 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C15 Pro",
+      "codename": "C15_Pro",
+      "model": "C15 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C6 Pro",
       "codename": "C6_Pro",
       "model": "C6 Pro"
@@ -105,6 +117,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K12",
+      "codename": "K12",
+      "model": "K12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K3",
       "codename": "K3",
       "model": "K3"
@@ -156,6 +174,12 @@
       "market_name": "K8000",
       "codename": "K8000",
       "model": "K8000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K9",
+      "codename": "K9",
+      "model": "K9"
     },
     {
       "manufacturer": "",

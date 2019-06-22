@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C13",
+      "codename": "C13",
+      "model": "C13"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C2",
       "codename": "C2",
       "model": "C2"
@@ -36,6 +42,12 @@
       "market_name": "H5",
       "codename": "H5",
       "model": "H5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HT16S",
+      "codename": "HT16S",
+      "model": "HT16S"
     },
     {
       "manufacturer": "",

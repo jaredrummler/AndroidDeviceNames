@@ -1341,6 +1341,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZenFone 6 (ZS630KL)",
+      "codename": "ASUS_I01WD",
+      "model": "ASUS_I01WD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone 6 (ZS630KL)",
+      "codename": "ASUS_I01WD",
+      "model": "ZS630KL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZenFone AR",
       "codename": "ASUS_A002_1",
       "model": "ASUS_A002A"
@@ -1641,6 +1653,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZenFone Max Plus M2 (ZB634KL)",
+      "codename": "ASUS_A001D_1",
+      "model": "ASUS_A001D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZenFone Max Pro (M1)",
       "codename": "ASUS_X00T_2",
       "model": "ASUS_X00TD"
@@ -1698,6 +1716,12 @@
       "market_name": "ZenFone Max Pro M2 (ZB630KL/ZB631KL)",
       "codename": "ASUS_X01BD_2",
       "model": "ASUS_X01BDA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenFone Max Shot (ZB634KL)",
+      "codename": "ASUS_A001D_2",
+      "model": "ASUS_A001D"
     },
     {
       "manufacturer": "",
@@ -2004,6 +2028,12 @@
       "market_name": "ZenPad Z10",
       "codename": "P00I",
       "model": "P00I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZenPad Z8",
+      "codename": "P008",
+      "model": "P008"
     },
     {
       "manufacturer": "",

@@ -21,9 +21,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "T4",
+      "codename": "T4",
+      "model": "T4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X4U+",
       "codename": "X4UPlus",
       "model": "X4UPlus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z5",
+      "codename": "Z5",
+      "model": "Z5"
     }
   ]
 }

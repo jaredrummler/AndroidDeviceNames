@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "C8Finger",
+      "codename": "C8Finger",
+      "model": "C8Finger"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F2 F80s_plus",
       "codename": "F80s_plus",
       "model": "F80s_plus"

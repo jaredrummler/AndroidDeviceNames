@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "LGE",
+    "market_name": "LG K8s",
+    "codename": "mcv1s",
+    "model": "LM-X220QMA"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "LG Tribute Empire",
     "codename": "mcv1s",
     "model": "LM-X220PM"

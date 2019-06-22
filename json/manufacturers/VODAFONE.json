@@ -177,6 +177,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "VF-696",
+      "codename": "smart_grand",
+      "model": "VF-696"
+    },
+    {
+      "manufacturer": "",
       "market_name": "VF685",
       "codename": "VF685",
       "model": "VF685"
@@ -267,9 +273,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Vodafone Smart N10",
+      "codename": "VFD630",
+      "model": "VFD 630"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Vodafone Smart N9",
       "codename": "VFD720",
       "model": "VFD 720"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Vodafone Smart V10",
+      "codename": "VFD730",
+      "model": "VFD 730"
     },
     {
       "manufacturer": "",

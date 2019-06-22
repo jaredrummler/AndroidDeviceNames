@@ -147,18 +147,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Hongmi 6",
-      "codename": "cereus",
-      "model": "Redmi 6"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "Hongmi 6A",
-      "codename": "cactus",
-      "model": "Redmi 6A"
-    },
-    {
-      "manufacturer": "",
       "market_name": "MI  8  Explorer  Edition",
       "codename": "ursa",
       "model": "MI 8 Explorer Edition"
@@ -324,6 +312,24 @@
       "market_name": "MI 8 UD",
       "codename": "equuleus",
       "model": "equuleus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI 9",
+      "codename": "cepheus",
+      "model": "MI 9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI 9 SE",
+      "codename": "grus",
+      "model": "MI 9 SE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI 9 SE",
+      "codename": "grus",
+      "model": "Mi 9 SE"
     },
     {
       "manufacturer": "",
@@ -561,6 +567,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mi MIX 3 5G",
+      "codename": "andromeda",
+      "model": "Mi MIX 3 5G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Mi Note",
       "codename": "virgo",
       "model": "MI NOTE LTE"
@@ -621,15 +633,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Redmi  Go",
+      "codename": "tiare",
+      "model": "Redmi Go"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Redmi  Note  6  Pro",
       "codename": "tulip",
       "model": "Redmi Note 6 Pro"
     },
     {
       "manufacturer": "",
-      "market_name": "Redmi  Note  7",
-      "codename": "lavender",
-      "model": "Redmi Note 7"
+      "market_name": "Redmi  Note  7 Pro",
+      "codename": "violet",
+      "model": "Redmi Note 7 Pro"
     },
     {
       "manufacturer": "",
@@ -732,6 +750,24 @@
       "market_name": "Redmi 6Pro",
       "codename": "sakura",
       "model": "Redmi 6 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 7",
+      "codename": "onc",
+      "model": "ONC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi 7",
+      "codename": "onc",
+      "model": "Redmi 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Redmi Go",
+      "codename": "tiare",
+      "model": "Redmi Go"
     },
     {
       "manufacturer": "",

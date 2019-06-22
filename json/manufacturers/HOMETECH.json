@@ -3,6 +3,36 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ALFA 10RC",
+      "codename": "ALFA_10RC",
+      "model": "ALFA_10RC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALFA 8RC",
+      "codename": "ALFA_8RC",
+      "model": "ALFA_8RC"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALFA 8RX",
+      "codename": "ALFA_8RX",
+      "model": "ALFA_8RX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALFA_10RX",
+      "codename": "ALFA_10RX",
+      "model": "ALFA_10RX"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALFA_7RC",
+      "codename": "ALFA_7RC",
+      "model": "ALFA_7RC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HT_7RT Tablet PC",
       "codename": "HT_7RT",
       "model": "HT_7RT"

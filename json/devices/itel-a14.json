@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Itel",
+    "market_name": "A14",
+    "codename": "itel-A14",
+    "model": "itel A14RU"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "itel A14",
     "codename": "itel-A14",
     "model": "itel A14"

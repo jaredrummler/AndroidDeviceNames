@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HP2707",
+      "codename": "AirtelOTTBox",
+      "model": "HP2707"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SH960S-AT",
       "codename": "ganesa",
       "model": "SH960S-AT"

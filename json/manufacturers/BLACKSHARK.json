@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Black Shark 2",
+      "codename": "skywalker",
+      "model": "SKW-H0"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Shark",
       "codename": "shark",
       "model": "SKR-H0"

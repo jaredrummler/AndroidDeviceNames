@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "7GW_eea",
+      "codename": "7GW",
+      "model": "7GW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMB-H8009",
       "codename": "SMB-H8009",
       "model": "SMB-H8009"

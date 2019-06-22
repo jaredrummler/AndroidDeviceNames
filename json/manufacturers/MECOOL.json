@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KM3",
+      "codename": "KM3",
+      "model": "KM3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KM8",
       "codename": "KM8",
       "model": "KM8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KM9PRO",
+      "codename": "KM9PRO",
+      "model": "KM9PRO"
     }
   ]
 }

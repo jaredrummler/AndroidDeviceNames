@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ERGO",
+      "codename": "B506_Intro",
+      "model": "B506_Intro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ERGO B500",
       "codename": "B500",
       "model": "ERGO B500 First"
@@ -39,9 +45,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ERGO V552 Intense",
+      "codename": "ERGO_V552_Intense",
+      "model": "ERGO V552 Intense"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ERGO V600 Vega",
+      "codename": "ERGO_V600_Vega",
+      "model": "ERGO V600 Vega"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ERGO_A556",
       "codename": "ERGO_A556",
       "model": "ERGO_A556"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F501_Magic",
+      "codename": "F501_Magic",
+      "model": "F501_Magic"
     },
     {
       "manufacturer": "",

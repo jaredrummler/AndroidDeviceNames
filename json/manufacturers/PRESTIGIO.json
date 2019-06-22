@@ -39,15 +39,63 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Grace 3738 3G",
+      "codename": "CD80A1G",
+      "model": "PMT3738_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grace 3748 3G",
+      "codename": "CD80A1G",
+      "model": "PMT3748_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Grace 3758 3G",
       "codename": "CD80A1G",
       "model": "PMT3758_3G"
     },
     {
       "manufacturer": "",
+      "market_name": "Grace 3768 3G",
+      "codename": "CD80A1G",
+      "model": "PMT3768_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grace 3778 3G",
+      "codename": "CD80A1G",
+      "model": "PMT3778_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grace 3838 4G",
+      "codename": "CD80A3L",
+      "model": "PMT3838_4G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Grace 3848 4G",
       "codename": "CD80A3L",
       "model": "PMT3848_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grace 3858 4G",
+      "codename": "CD80A3L",
+      "model": "PMT3858_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grace 3868 4G",
+      "codename": "CD80A3L",
+      "model": "PMT3868_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Grace 3878 4G",
+      "codename": "CD80A3L",
+      "model": "PMT3878_4G_EU"
     },
     {
       "manufacturer": "",
@@ -72,6 +120,12 @@
       "market_name": "Grace Y7 LTE",
       "codename": "KN54B1L",
       "model": "PSP7546DUO_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LS96A7G",
+      "codename": "LS96A7G",
+      "model": "PMT3196_3G"
     },
     {
       "manufacturer": "",
@@ -261,6 +315,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PMT1196_3G",
+      "codename": "LS96A7G",
+      "model": "PMT1196_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PMT3008_Wi",
       "codename": "PMT3008_Wi_C",
       "model": "PMT3008_Wi_C"
@@ -312,6 +372,12 @@
       "market_name": "PMT3087_3G",
       "codename": "PMT3057_3G",
       "model": "PMT3087_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3096_3G",
+      "codename": "LS96A7G",
+      "model": "PMT3096_3G"
     },
     {
       "manufacturer": "",
@@ -498,6 +564,36 @@
       "market_name": "PMT3797_3G",
       "codename": "JU70A1G",
       "model": "PMT3797_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3831_4G",
+      "codename": "CD10A4L",
+      "model": "PMT3831_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3841_4G",
+      "codename": "CD10A4L",
+      "model": "PMT3841_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3851_4G",
+      "codename": "CD10A4L",
+      "model": "PMT3851_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3861_4G",
+      "codename": "CD10A4L",
+      "model": "PMT3861_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT3871_4G",
+      "codename": "CD10A4L",
+      "model": "PMT3871_4G"
     },
     {
       "manufacturer": "",
@@ -789,6 +885,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PSP3513DUO",
+      "codename": "HN50B1G",
+      "model": "PSP3513DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP3513DUO_RU",
+      "codename": "HN50B1G",
+      "model": "PSP3513DUO_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP3514DUO",
+      "codename": "TL50B9G",
+      "model": "PSP3514DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP3515DUO_RU",
+      "codename": "BW50B1L",
+      "model": "PSP3515DUO_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PSP3516DUO",
       "codename": "TE50B2G",
       "model": "PSP3516DUO"
@@ -804,6 +924,12 @@
       "market_name": "PSP3518DUO",
       "codename": "TE50B4G",
       "model": "PSP3518DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP3522DUO",
+      "codename": "TL50B10G",
+      "model": "PSP3522DUO"
     },
     {
       "manufacturer": "",
@@ -834,6 +960,12 @@
       "market_name": "PSP3533DUO",
       "codename": "DW53B6G",
       "model": "PSP3533DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP3534DUO_RU",
+      "codename": "HN53B2G",
+      "model": "PSP3534DUO_RU"
     },
     {
       "manufacturer": "",
@@ -933,6 +1065,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PSP5518DUO",
+      "codename": "IN50B2L",
+      "model": "PSP5518DUO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PSP5519DUO",
       "codename": "TE50B4L",
       "model": "PSP5519DUO"
@@ -951,6 +1089,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PSP5522DUO",
+      "codename": "TL52B5L",
+      "model": "PSP5522DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP5523DUO",
+      "codename": "TL52B5L",
+      "model": "PSP5523DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP5524DUO",
+      "codename": "TL52B7G",
+      "model": "PSP5524DUO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PSP5530DUO",
       "codename": "DW53B4G",
       "model": "PSP5530DUO"
@@ -960,6 +1116,12 @@
       "market_name": "PSP5531",
       "codename": "DW53B4G",
       "model": "PSP5531DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP5545DUO",
+      "codename": "TL55B3L",
+      "model": "PSP5545DUO"
     },
     {
       "manufacturer": "",
@@ -978,6 +1140,12 @@
       "market_name": "PSP5552DUO",
       "codename": "UE55B1L",
       "model": "PSP5552DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP5553DUO",
+      "codename": "TL55B3L",
+      "model": "PSP5553DUO"
     },
     {
       "manufacturer": "",
@@ -1029,9 +1197,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PSP7610DUO",
+      "codename": "TL61B8L",
+      "model": "PSP7610DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PSP7610DUO_RU",
+      "codename": "TL61B8L",
+      "model": "PSP7610DUO_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Prestigio Muze 3708 3G",
       "codename": "CF80A2G",
       "model": "PMT3708_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Prestigio SmartKids",
+      "codename": "HP70A1W",
+      "model": "PMT3997_W_RU"
     },
     {
       "manufacturer": "",
@@ -1053,6 +1239,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "WIZE U3",
+      "codename": "TL50B9G",
+      "model": "PSP3514DUO_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WIZE Y3",
       "codename": "IN39B3G",
       "model": "PSP3406DUO"
@@ -1062,6 +1254,12 @@
       "market_name": "WIZE YA3",
       "codename": "IN39B3G",
       "model": "PSP3416DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WIZE YA3",
+      "codename": "IN39B3G",
+      "model": "PSP3416DUO_EU"
     },
     {
       "manufacturer": "",
@@ -1083,6 +1281,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Wize 3731 3G",
+      "codename": "CD10A2G",
+      "model": "PMT3731_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wize 3741 3G",
+      "codename": "CD10A2G",
+      "model": "PMT3741_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wize 3751 3G",
+      "codename": "CD10A2G",
+      "model": "PMT3751_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wize 3761 3G",
       "codename": "CD10A2G",
       "model": "PMT3761_3G"
@@ -1092,6 +1308,24 @@
       "market_name": "Wize 3771 3G",
       "codename": "CD10A2G",
       "model": "PMT3771_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wize J3",
+      "codename": "TL50B10G",
+      "model": "PSP3522DUO_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wize W3",
+      "codename": "TL49B11G",
+      "model": "PSP3497DUO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wize W3",
+      "codename": "TL49B11G",
+      "model": "PSP3497DUO_RU"
     }
   ]
 }

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HZ0010",
+      "codename": "HZ0010",
+      "model": "HZ0010"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MR7863",
       "codename": "MR7863",
       "model": "MR7863"

@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Evo_2",
+      "codename": "Evo_2",
+      "model": "Evo 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hero X",
       "codename": "STK_Hero_X",
       "model": "STK_Hero_X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Life 8S",
+      "codename": "Life_8S",
+      "model": "Life 8S"
     },
     {
       "manufacturer": "",
@@ -126,6 +138,12 @@
       "market_name": "Transporter 1",
       "codename": "STK_Transporter_1",
       "model": "STK_Transporter_1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "cayenne",
+      "codename": "cayenne",
+      "model": "STK Ace"
     }
   ]
 }

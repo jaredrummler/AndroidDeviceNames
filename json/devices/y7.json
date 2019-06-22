@@ -1,20 +1,26 @@
 [
   {
     "manufacturer": "Doogee",
+    "market_name": "N10",
+    "codename": "Y7",
+    "model": "N10"
+  },
+  {
+    "manufacturer": "Doogee",
     "market_name": "Y7",
     "codename": "Y7",
     "model": "Y7"
   },
   {
     "manufacturer": "Neffos",
-    "market_name": "Neffos C7",
+    "market_name": "Neffos Y7",
     "codename": "Y7",
-    "model": "Neffos_Y7"
+    "model": "Neffos Y7"
   },
   {
     "manufacturer": "Neffos",
     "market_name": "Neffos Y7",
     "codename": "Y7",
-    "model": "Neffos Y7"
+    "model": "Neffos_Y7"
   }
 ]

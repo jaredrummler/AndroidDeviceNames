@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "iTabS10",
+      "codename": "iTabS10",
+      "model": "iTabS10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "itabx",
       "codename": "itabx",
       "model": "itabx"

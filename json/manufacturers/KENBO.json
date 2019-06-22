@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "B19",
+      "codename": "B19",
+      "model": "B19"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E111",
       "codename": "E111",
       "model": "E111"
@@ -33,9 +39,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K9",
+      "codename": "K9",
+      "model": "K9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "O51",
       "codename": "O51",
       "model": "O51"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "O61",
+      "codename": "O61",
+      "model": "O61"
     }
   ]
 }

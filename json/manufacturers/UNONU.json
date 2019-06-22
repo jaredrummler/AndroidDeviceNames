@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "UNONU X5C",
+      "codename": "X5C",
+      "model": "X5C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UNONU_L55D",
       "codename": "UNONU_L55D",
       "model": "UNONU_L55D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UNONU_N55S",
+      "codename": "UNONU_N55S",
+      "model": "UNONU N55S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "UT3G",
+      "codename": "UT3G",
+      "model": "UT3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W40L",
+      "codename": "W40L",
+      "model": "W40L"
     },
     {
       "manufacturer": "",

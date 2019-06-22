@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "UT10",
+      "codename": "UT10",
+      "model": "UT10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "UT12",
       "codename": "UT12",
       "model": "UT12"

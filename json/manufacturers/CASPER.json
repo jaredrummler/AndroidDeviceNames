@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S38",
+      "codename": "Casper_S38",
+      "model": "Casper_S38"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TA80CA2",
       "codename": "TA80CA2_1",
       "model": "TA80CA2"
@@ -90,6 +96,12 @@
       "market_name": "VIA_A3",
       "codename": "VIA_A3",
       "model": "VIA_A3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIA_F3",
+      "codename": "VIA_F3",
+      "model": "VIA_F3"
     },
     {
       "manufacturer": "",

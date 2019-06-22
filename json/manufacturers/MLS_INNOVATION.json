@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "IQW570",
+      "codename": "iQW570",
+      "model": "iQW570"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PTB7QSG_3G",
       "codename": "iQE200",
       "model": "iQE200"
@@ -21,15 +27,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "iQ411M",
+      "codename": "iQ411M",
+      "model": "iQ411M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iQ8011",
       "codename": "iQ8011",
       "model": "iQ8011"
     },
     {
       "manufacturer": "",
+      "market_name": "iQL550",
+      "codename": "iQL550",
+      "model": "iQL550"
+    },
+    {
+      "manufacturer": "",
       "market_name": "iQM960L",
       "codename": "iQM960L",
       "model": "iQM960L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQS1001",
+      "codename": "iQS1001",
+      "model": "iQS1001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQS801",
+      "codename": "iQS801",
+      "model": "iQS801"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iQW511T",
+      "codename": "iQW511T",
+      "model": "iQW511T"
     }
   ]
 }

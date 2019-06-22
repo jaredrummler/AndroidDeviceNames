@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "TCT (Alcatel)",
+    "market_name": "9027G",
+    "codename": "A3A_8_4G",
+    "model": "9027G"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 3T 8",
     "codename": "A3A_8_4G",
     "model": "9027F"

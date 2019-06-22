@@ -717,6 +717,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "5006",
+      "codename": "5006",
+      "model": "5006G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "5011A",
       "codename": "BUZZ6_55",
       "model": "5011A"
@@ -1506,6 +1512,12 @@
       "market_name": "9025Q",
       "codename": "POP4-7_4G",
       "model": "9025Q"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "9027G",
+      "codename": "A3A_8_4G",
+      "model": "9027G"
     },
     {
       "manufacturer": "",
@@ -3473,7 +3485,25 @@
       "manufacturer": "",
       "market_name": "Alcatel 1",
       "codename": "U3A_PLUS_4G",
+      "model": "5033F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033F_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
       "model": "5033J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033M"
     },
     {
       "manufacturer": "",
@@ -3567,9 +3597,69 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alcatel 1E",
+      "codename": "PIXI4-4C_GO",
+      "model": "4034T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alcatel 1S",
       "codename": "Faraday",
       "model": "5024A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1S",
+      "codename": "Faraday",
+      "model": "5024D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1S",
+      "codename": "Faraday",
+      "model": "5024D_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1S",
+      "codename": "Faraday",
+      "model": "5024D_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1S",
+      "codename": "Faraday",
+      "model": "5024F"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1S",
+      "codename": "Faraday",
+      "model": "5024F_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1S",
+      "codename": "Faraday",
+      "model": "5024I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1S",
+      "codename": "Faraday",
+      "model": "5024J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1T 7 WIFI",
+      "codename": "U3A_7_WIFI",
+      "model": "8068"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1V",
+      "codename": "Wright",
+      "model": "5001A"
     },
     {
       "manufacturer": "",
@@ -3677,6 +3767,12 @@
       "manufacturer": "",
       "market_name": "Alcatel 3",
       "codename": "Gauss",
+      "model": "5053D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "Gauss",
       "model": "5053D_EEA"
     },
     {
@@ -3695,6 +3791,12 @@
       "manufacturer": "",
       "market_name": "Alcatel 3",
       "codename": "Gauss",
+      "model": "5053K_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "Gauss",
       "model": "5053Y"
     },
     {
@@ -3702,6 +3804,12 @@
       "market_name": "Alcatel 3",
       "codename": "Gauss",
       "model": "5053Y_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3",
+      "codename": "Gauss",
+      "model": "5053Y_RU"
     },
     {
       "manufacturer": "",
@@ -3891,13 +3999,13 @@
     },
     {
       "manufacturer": "",
-      "market_name": "Alcatel ONYX",
+      "market_name": "Alcatel ONYX\\xe2\\x84\\xa2",
       "codename": "Edison_CKT",
       "model": "5008R"
     },
     {
       "manufacturer": "",
-      "market_name": "Alcatel ONYX",
+      "market_name": "Alcatel ONYX\\xe2\\x84\\xa2",
       "codename": "Edison_CKT",
       "model": "Alcatel_5008R"
     },
@@ -3906,6 +4014,18 @@
       "market_name": "Alcatel Raven LTE",
       "codename": "BUZZ6T4GTFUMTS",
       "model": "A574BL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel U3",
+      "codename": "PIXI4-4C_GO",
+      "model": "4034L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel U3",
+      "codename": "PIXI4-4C_GO",
+      "model": "4034L_EEA"
     },
     {
       "manufacturer": "",
@@ -4260,6 +4380,12 @@
       "market_name": "IDOL 5S",
       "codename": "IDOL5S",
       "model": "6060S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "INSIGHT\\xe2\\x84\\xa2",
+      "codename": "FERMI_ATT",
+      "model": "Alcatel_5005R"
     },
     {
       "manufacturer": "",

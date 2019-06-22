@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 2.2",
+      "codename": "WSP_sprout",
+      "model": "Nokia 2.2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 3",
       "codename": "NE1",
       "model": "TA-1020"
@@ -75,6 +81,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 3.1 A",
+      "codename": "EAG",
+      "model": "Nokia 3.1 A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 3.1 C",
+      "codename": "EAG",
+      "model": "Nokia 3.1 C"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 3.1 Plus",
       "codename": "RHD",
       "model": "Nokia 3.1 Plus"
@@ -96,6 +114,18 @@
       "market_name": "Nokia 3.1 Plus",
       "codename": "ROO_sprout",
       "model": "Nokia 3.1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 3.2",
+      "codename": "DPL_sprout",
+      "model": "Nokia 3.2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 4.2",
+      "codename": "PAN_sprout",
+      "model": "Nokia 4.2"
     },
     {
       "manufacturer": "",
@@ -294,6 +324,12 @@
       "market_name": "Nokia X7",
       "codename": "PNX",
       "model": "Nokia X7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia X71",
+      "codename": "TAS",
+      "model": "Nokia X71"
     }
   ]
 }

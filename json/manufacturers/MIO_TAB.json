@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MI106",
+      "codename": "MI106",
+      "model": "MI106"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MI706",
+      "codename": "MI706",
+      "model": "MI706"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MI86",
       "codename": "MI86",
       "model": "MI86"
@@ -18,6 +30,12 @@
       "market_name": "MioTab2017",
       "codename": "MioTab2017",
       "model": "MioTab2017"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Mio_Tab_2019",
+      "codename": "Mio_Tab_2019",
+      "model": "Mio_Tab_2019"
     }
   ]
 }

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "TARISTAB2",
+      "codename": "TARISTAB2",
+      "model": "TARISTAB2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab8",
       "codename": "Tab8",
       "model": "Tab8"

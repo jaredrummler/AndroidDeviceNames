@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E1C 4G",
+      "codename": "ADVAN_E1C_4G",
+      "model": "7035"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E1C NXT",
       "codename": "ADVAN_E1C_NXT",
       "model": "S7D"
@@ -153,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S50 Prime",
+      "codename": "ADVAN_S50_Prime",
+      "model": "5063"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S5E FULL VIEW",
       "codename": "ADVAN_S5E_FULL_VIEW",
       "model": "5062"
@@ -168,6 +180,12 @@
       "market_name": "S6 Plus",
       "codename": "ADVAN_S6_Plus",
       "model": "5502"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S6 Pro",
+      "codename": "ADVAN_S6_Pro",
+      "model": "5504"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AX512",
+      "codename": "DV8252",
+      "model": "AX512"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XL Home Pow",
       "codename": "STI6xxx",
       "model": "STI6030"

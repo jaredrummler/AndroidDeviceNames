@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BLU Dash XL",
+      "codename": "Dash_XL",
+      "model": "Dash XL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BLU Grand M3",
       "codename": "G0070WW",
       "model": "Grand M3"
@@ -171,6 +177,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C5L",
+      "codename": "C0050",
+      "model": "C5L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5X",
       "codename": "C0000UU",
       "model": "C5X"
@@ -195,9 +207,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "C6x",
+      "codename": "C090P",
+      "model": "C6x"
+    },
+    {
+      "manufacturer": "",
       "market_name": "D500",
       "codename": "D500",
       "model": "D500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "D510",
+      "codename": "D510",
+      "model": "D510"
     },
     {
       "manufacturer": "",
@@ -375,6 +399,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G9",
+      "codename": "G0130WW",
+      "model": "G9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GRAND 5.5 HD",
       "codename": "BLU_GRAND_5_5_HD",
       "model": "BLU GRAND 5.5 HD"
@@ -516,6 +546,12 @@
       "market_name": "Life One X3",
       "codename": "L0150WW",
       "model": "Life One X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M6",
+      "codename": "M030P",
+      "model": "M6"
     },
     {
       "manufacturer": "",
@@ -995,7 +1031,19 @@
       "manufacturer": "",
       "market_name": "VIVO VI+",
       "codename": "V0310WW",
+      "model": "Vivo XI PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIVO VI+",
+      "codename": "V0310WW",
       "model": "Vivo XI+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "VIVO XI",
+      "codename": "V0330WW",
+      "model": "Vivo XI"
     },
     {
       "manufacturer": "",

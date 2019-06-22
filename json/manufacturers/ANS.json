@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "L51",
+      "codename": "L51",
+      "model": "L51"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Trailblazer",
       "codename": "rugged-smartphone",
       "model": "H450R"

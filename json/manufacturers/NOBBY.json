@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A200",
+      "codename": "A200",
+      "model": "A200"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S300",
       "codename": "Nobby_S300",
       "model": "Nobby S300"

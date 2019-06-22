@@ -27,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A14",
+      "codename": "itel-A14",
+      "model": "itel A14RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A15",
       "codename": "itel-A15",
       "model": "itel A15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A15",
+      "codename": "itel-A15",
+      "model": "itel A15R"
     },
     {
       "manufacturer": "",
@@ -96,6 +108,18 @@
       "market_name": "A44 Pro",
       "codename": "itel-A44-Pro",
       "model": "itel A44 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A45",
+      "codename": "itel-A45",
+      "model": "itel A45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A46",
+      "codename": "itel-L5503",
+      "model": "itel L5503"
     },
     {
       "manufacturer": "",
@@ -177,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P33 Plus",
+      "codename": "itel-W6001",
+      "model": "itel W6001"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P51",
       "codename": "P51",
       "model": "itel P51"
@@ -252,6 +282,12 @@
       "market_name": "S32 Mini",
       "codename": "itel-W5003",
       "model": "itel W5003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S33",
+      "codename": "itel-S33",
+      "model": "itel S33"
     },
     {
       "manufacturer": "",
@@ -502,6 +538,12 @@
     {
       "manufacturer": "",
       "market_name": "itel A16 Plus",
+      "codename": "itel-A16-Plus",
+      "model": "itel A16 Plus RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A16 Plus",
       "codename": "itel-A16-Plus-BD",
       "model": "itel A16 Plus"
     },
@@ -522,6 +564,12 @@
       "market_name": "itel A23",
       "codename": "itel-A23F",
       "model": "itel A23"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A23",
+      "codename": "itel-A23S",
+      "model": "itel A23S"
     },
     {
       "manufacturer": "",
@@ -564,6 +612,12 @@
       "market_name": "itel A52",
       "codename": "itel-A52",
       "model": "itel A52"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "itel A52 Lite",
+      "codename": "itel-A52-Lite",
+      "model": "itel A52 Lite"
     },
     {
       "manufacturer": "",

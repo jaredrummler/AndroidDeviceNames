@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SP-5250",
+      "codename": "SP-5250",
+      "model": "SP-5250"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP-7100",
       "codename": "SP-7100",
       "model": "SP-7100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB-5300",
+      "codename": "TB-5300",
+      "model": "TB-5300"
     }
   ]
 }

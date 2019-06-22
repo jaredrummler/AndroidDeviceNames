@@ -1,0 +1,41 @@
+{
+  "manufacturer": "ELO Touch",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Elo-i3-15Std",
+      "codename": "Elo-i3-15Std",
+      "model": "Elo-i3-15Std"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Elo-i3-PUCK",
+      "codename": "Elo-i3-PUCK",
+      "model": "Elo-i3-PUCK"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I-Series 3.0 for Android",
+      "codename": "Elo-i3-10Std",
+      "model": "Elo-i3-10Std"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I-Series 3.0 for Android",
+      "codename": "Elo-i3-22Std",
+      "model": "Elo-i3-22Std"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PayPoint\\xc2\\xae Plus for Android",
+      "codename": "Elo-PP3-15",
+      "model": "Elo-PP3-15"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PayPoint\\xc2\\xae for Android",
+      "codename": "Elo-PP3-13",
+      "model": "Elo-PP3-13"
+    }
+  ]
+}

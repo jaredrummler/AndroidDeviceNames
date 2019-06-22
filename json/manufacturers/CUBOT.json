@@ -81,6 +81,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "J5",
+      "codename": "J5",
+      "model": "J5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J7",
+      "codename": "J7",
+      "model": "J7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KING_KONG_3",
       "codename": "KING_KONG_3",
       "model": "KING_KONG_3"
@@ -99,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAX  2",
+      "codename": "MAX_2",
+      "model": "MAX 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NOTE S",
       "codename": "CUBOT_CHEETAH_2",
       "model": "CUBOT CHEETAH 2"
@@ -108,6 +126,24 @@
       "market_name": "NOTE S",
       "codename": "CUBOT_NOTE_S",
       "model": "CUBOT_NOTE_S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QUEST",
+      "codename": "QUEST",
+      "model": "QUEST"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "QUEST LITE",
+      "codename": "QUEST_LITE",
+      "model": "QUEST LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R15",
+      "codename": "R15",
+      "model": "R15"
     },
     {
       "manufacturer": "",

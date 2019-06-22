@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "L5G",
+      "codename": "L5G",
+      "model": "L5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC_L55S",
+      "codename": "LOGIC_L55S",
+      "model": "LOGIC L55S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LOGIC_L5D",
       "codename": "LOGIC_L5D",
       "model": "LOGIC_L5D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10B",
+      "codename": "T10B",
+      "model": "T10B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T3G",
+      "codename": "T3G",
+      "model": "T3G"
     },
     {
       "manufacturer": "",

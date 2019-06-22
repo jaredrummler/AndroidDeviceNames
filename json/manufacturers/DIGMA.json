@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "CS8205PG",
+      "codename": "CS8205PG",
+      "model": "CITI_8588_3G_CS8205PG"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DIGMA CITI 1508 4G CS1114ML",
       "codename": "CS1114ML",
       "model": "CITI_1508_4G_CS1114ML"
@@ -495,9 +501,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Optima 1028 3G TS1215PG",
+      "codename": "TS1215PG",
+      "model": "Optima 1028 3G TS1215PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Optima Kids 7",
+      "codename": "TS7203RW",
+      "model": "Optima Kids 7 TS7203RW"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Optima_8019N_4G",
       "codename": "TS8182ML",
       "model": "Optima 8019N 4G TS8182ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Optima_8027_3G",
+      "codename": "TS8211PG",
+      "model": "Optima_8027_3G_TS8211PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PS7210PG",
+      "codename": "PS7210PG",
+      "model": "Plane 7594 3G PS7210PG"
     },
     {
       "manufacturer": "",
@@ -552,6 +582,12 @@
       "market_name": "Plane_1573N_4G/",
       "codename": "PS1189ML",
       "model": "Plane 1573N 4G PS1189ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plane_1596_3G_PS1213PG",
+      "codename": "PS1213PG",
+      "model": "Plane 1596 3G PS1213PG"
     },
     {
       "manufacturer": "",

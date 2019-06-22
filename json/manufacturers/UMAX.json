@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "10Qa_3G",
+      "codename": "10Qa_3G",
+      "model": "VisionBook_10Qa_3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "7Qa_3G",
       "codename": "7Qa_3G",
       "model": "7Qa_3G"

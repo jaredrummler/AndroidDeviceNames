@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M7",
+      "codename": "M7",
+      "model": "M7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V10",
       "codename": "V10",
       "model": "V10"
@@ -66,6 +72,12 @@
       "market_name": "Y88X Plus",
       "codename": "Y88X_PLUS",
       "model": "Y88X_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y88X_PRO_EEA",
+      "codename": "Y88X_PRO",
+      "model": "Y88X_PRO"
     },
     {
       "manufacturer": "",

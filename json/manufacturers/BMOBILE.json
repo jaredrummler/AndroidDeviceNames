@@ -130,8 +130,20 @@
     {
       "manufacturer": "",
       "market_name": "AX1073+",
+      "codename": "AX1073PLUSMV18",
+      "model": "AX1073+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1073+",
       "codename": "Bmobile_AX1073Plus",
       "model": "AX1073+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1073PLUSMV18",
+      "codename": "Bmobile_AX1073PLUSMV18",
+      "model": "AX1073PLUSMV18"
     },
     {
       "manufacturer": "",
@@ -144,6 +156,24 @@
       "market_name": "AX1075",
       "codename": "Bmobile_AX1075",
       "model": "AX1075"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1077",
+      "codename": "Bmobile_AX1077",
+      "model": "AX1077"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1077+",
+      "codename": "Bmobile_AX1077PLUS",
+      "model": "AX1077+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1077+",
+      "codename": "Bmobile_AX1077_MAS",
+      "model": "AX1077+"
     },
     {
       "manufacturer": "",
@@ -168,6 +198,12 @@
       "market_name": "AX1091",
       "codename": "Bmobile_AX1091A",
       "model": "AX1091"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX1092",
+      "codename": "Bmobile_AX1092_MV03",
+      "model": "AX1092"
     },
     {
       "manufacturer": "",
@@ -321,9 +357,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AX824A",
+      "codename": "Bmobile_AX824A",
+      "model": "AX824A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AX825",
       "codename": "Bmobile_AX825",
       "model": "AX825"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX829",
+      "codename": "Bmobile_AX829",
+      "model": "AX829"
     },
     {
       "manufacturer": "",
@@ -387,9 +435,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AX959",
+      "codename": "Bmobile_AX959",
+      "model": "AX959"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AX965",
+      "codename": "Bmobile_AX965",
+      "model": "AX965"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bella",
       "codename": "Bella",
       "model": "Bella"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bmobile AX1076",
+      "codename": "Bmobile_AX1076",
+      "model": "AX1076"
     },
     {
       "manufacturer": "",
@@ -405,9 +471,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Bmobile AX753",
+      "codename": "Bmobile_AX753",
+      "model": "Bmobile AX753"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Bmobile AX960",
       "codename": "Bmobile_AX960_MV03",
       "model": "AX960"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bmobile_AX1077",
+      "codename": "Bmobile_AX1077A",
+      "model": "AX1077"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bmobile_AX752",
+      "codename": "Bmobile_AX752",
+      "model": "AX752"
     },
     {
       "manufacturer": "",

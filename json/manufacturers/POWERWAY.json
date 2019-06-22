@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Powerway",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "DRN",
+      "codename": "DRN",
+      "model": "DRN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DRN_EEA",
+      "codename": "DRN_EEA",
+      "model": "DRN_EEA"
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ChampionPro",
+      "codename": "ChampionPro",
+      "model": "ChampionPro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Gravity Z2",
       "codename": "Gravity_Z2",
       "model": "Gravity Z2"

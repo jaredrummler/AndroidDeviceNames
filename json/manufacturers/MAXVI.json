@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MS502_Orion",
+      "codename": "MS502_Orion",
+      "model": "MS502_Orion"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Maxvi_MS401",
       "codename": "Maxvi_MS401",
       "model": "Maxvi_MS401"

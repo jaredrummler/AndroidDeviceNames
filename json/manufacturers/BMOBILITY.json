@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Belle",
+      "codename": "Belle",
+      "model": "Belle"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Benji",
       "codename": "Benji",
       "model": "Benji"

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "TCL",
+    "market_name": "GO5c",
+    "codename": "U3A_PLUS_4G",
+    "model": "5033E"
+  },
+  {
+    "manufacturer": "TCL",
     "market_name": "TCL L5",
     "codename": "U3A_PLUS_4G",
     "model": "5133A"
@@ -33,7 +39,25 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 1",
     "codename": "U3A_PLUS_4G",
+    "model": "5033F"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "U3A_PLUS_4G",
+    "model": "5033F_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "U3A_PLUS_4G",
     "model": "5033J"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 1",
+    "codename": "U3A_PLUS_4G",
+    "model": "5033M"
   },
   {
     "manufacturer": "TCT (Alcatel)",

@@ -27,9 +27,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PH4003 GO",
+      "codename": "PH4003GO",
+      "model": "PH4003 GO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PH5003",
       "codename": "PH5003",
       "model": "PH5003"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PH5003 Go",
+      "codename": "PH5003_Go",
+      "model": "PH5003 Go"
     },
     {
       "manufacturer": "",
@@ -54,6 +66,12 @@
       "market_name": "PL570",
       "codename": "PL570",
       "model": "PL570"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PL620",
+      "codename": "PL620",
+      "model": "PL620"
     }
   ]
 }

@@ -189,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Iris 50_Pro",
+      "codename": "iris_50_Pro",
+      "model": "iris 50 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Iris820",
       "codename": "iris820",
       "model": "iris820"
@@ -210,6 +216,12 @@
       "market_name": "LE9820",
       "codename": "LE9820",
       "model": "LAVA LE9820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LF9810_2GB",
+      "codename": "LF9810_2GB",
+      "model": "LAVA LF9810_2GB"
     },
     {
       "manufacturer": "",
@@ -486,6 +498,12 @@
       "market_name": "Z25",
       "codename": "Z25",
       "model": "Z25"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z40",
+      "codename": "Z40",
+      "model": "Z40"
     },
     {
       "manufacturer": "",

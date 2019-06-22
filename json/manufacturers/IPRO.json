@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Amber6",
+      "codename": "Amber6",
+      "model": "Amber6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Jade7s",
       "codename": "Jade7s",
       "model": "Jade7s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Jade8S",
+      "codename": "Jade8S",
+      "model": "Jade8S"
     },
     {
       "manufacturer": "",
@@ -63,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Opal4S",
+      "codename": "Opal4S",
+      "model": "Opal 4S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PHOENIX 5.0",
       "codename": "PHOENIX_50",
       "model": "PHOENIX 5.0"
@@ -81,15 +99,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ruby5S",
+      "codename": "Ruby5S",
+      "model": "Ruby5S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WIN",
       "codename": "WIN",
       "model": "WIN"
     },
     {
       "manufacturer": "",
+      "market_name": "X1",
+      "codename": "IPRO_X1",
+      "model": "X1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "XPLAY",
       "codename": "XPLAY",
       "model": "XPLAY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zafiro",
+      "codename": "Zafiro",
+      "model": "Zafiro"
     }
   ]
 }

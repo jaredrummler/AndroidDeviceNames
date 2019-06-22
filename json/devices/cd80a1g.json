@@ -1,8 +1,32 @@
 [
   {
     "manufacturer": "Prestigio",
+    "market_name": "Grace 3738 3G",
+    "codename": "CD80A1G",
+    "model": "PMT3738_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "Grace 3748 3G",
+    "codename": "CD80A1G",
+    "model": "PMT3748_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
     "market_name": "Grace 3758 3G",
     "codename": "CD80A1G",
     "model": "PMT3758_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "Grace 3768 3G",
+    "codename": "CD80A1G",
+    "model": "PMT3768_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "Grace 3778 3G",
+    "codename": "CD80A1G",
+    "model": "PMT3778_3G"
   }
 ]

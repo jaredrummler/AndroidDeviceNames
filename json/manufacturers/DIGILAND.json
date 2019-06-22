@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DL1002",
+      "codename": "DL1002",
+      "model": "DL1002"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DL1003",
+      "codename": "DL9003",
+      "model": "DL9003"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DL1008M",
       "codename": "mid1008l_emmc",
       "model": "DL1008M"
@@ -111,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EVERPAD",
+      "codename": "EVERPAD",
+      "model": "SC-725"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KTAB17",
       "codename": "KTAB17",
       "model": "KTAB17"
@@ -120,6 +138,12 @@
       "market_name": "MID1008_Digiland",
       "codename": "mid1008",
       "model": "DL1008M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MID8006_Digiland",
+      "codename": "mid8006_mk_32",
+      "model": "mid8006_mk_32"
     },
     {
       "manufacturer": "",

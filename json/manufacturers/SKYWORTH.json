@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "APAC 2K TV",
+      "codename": "shibuya",
+      "model": "SWTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Asia",
       "codename": "globe_ap",
       "model": "globe"
@@ -12,6 +18,12 @@
       "market_name": "Asia",
       "codename": "open_fhd_ap",
       "model": "open_fhd"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Euro",
+      "codename": "SW3_ATV",
+      "model": "SWTV"
     },
     {
       "manufacturer": "",

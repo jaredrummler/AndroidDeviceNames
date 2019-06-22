@@ -1,6 +1,24 @@
 [
   {
     "manufacturer": "Prestigio",
+    "market_name": "Wize 3731 3G",
+    "codename": "CD10A2G",
+    "model": "PMT3731_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "Wize 3741 3G",
+    "codename": "CD10A2G",
+    "model": "PMT3741_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
+    "market_name": "Wize 3751 3G",
+    "codename": "CD10A2G",
+    "model": "PMT3751_3G"
+  },
+  {
+    "manufacturer": "Prestigio",
     "market_name": "Wize 3761 3G",
     "codename": "CD10A2G",
     "model": "PMT3761_3G"

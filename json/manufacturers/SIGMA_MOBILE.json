@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X-treme PQ20",
+      "codename": "X-treme_PQ20",
+      "model": "X-treme_PQ20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X-treme PQ29",
       "codename": "X-treme_PQ29",
       "model": "X-treme_PQ29"
@@ -66,6 +72,12 @@
       "market_name": "X_Style_Tab_A104",
       "codename": "X_Style_Tab_A104",
       "model": "X_Style_Tab_A104"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X_style_Tab_A83",
+      "codename": "X_style_Tab_A83",
+      "model": "X_style_Tab_A83"
     }
   ]
 }

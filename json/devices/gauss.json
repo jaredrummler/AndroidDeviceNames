@@ -21,6 +21,12 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 3",
     "codename": "Gauss",
+    "model": "5053D"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3",
+    "codename": "Gauss",
     "model": "5053D_EEA"
   },
   {
@@ -39,6 +45,12 @@
     "manufacturer": "TCT (Alcatel)",
     "market_name": "Alcatel 3",
     "codename": "Gauss",
+    "model": "5053K_RU"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3",
+    "codename": "Gauss",
     "model": "5053Y"
   },
   {
@@ -46,5 +58,11 @@
     "market_name": "Alcatel 3",
     "codename": "Gauss",
     "model": "5053Y_EEA"
+  },
+  {
+    "manufacturer": "TCT (Alcatel)",
+    "market_name": "Alcatel 3",
+    "codename": "Gauss",
+    "model": "5053Y_RU"
   }
 ]

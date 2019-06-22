@@ -27,7 +27,25 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NLS-MT9050-AM",
+      "codename": "NLS-MT9052-GL",
+      "model": "NLS-MT90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NLS-MT9052-EEA",
+      "codename": "NLS-MT9052-GL",
+      "model": "NLS-MT90"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NLS-MT9052-GL",
+      "codename": "NLS-MT9052-GL",
+      "model": "NLS-MT90"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NLS-MT9052-RU",
       "codename": "NLS-MT9052-GL",
       "model": "NLS-MT90"
     }

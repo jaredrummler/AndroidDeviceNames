@@ -93,9 +93,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ILium M7s",
+      "codename": "Ilium_M7s",
+      "model": "Ilium M7s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ilium Alpha 3",
       "codename": "Ilium_Alpha_3",
       "model": "Ilium Alpha 3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ilium Alpha 5s",
+      "codename": "Ilium_Alpha_5s",
+      "model": "Ilium Alpha 5s"
     },
     {
       "manufacturer": "",
@@ -207,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ilium M5s",
+      "codename": "Ilium_M5s",
+      "model": "Ilium M5s"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ilium M7",
       "codename": "Ilium_M7",
       "model": "Ilium M7"
@@ -240,6 +258,12 @@
       "market_name": "Ilium Pad T7X",
       "codename": "Ilium_Pad_T7X",
       "model": "Ilium Pad T7X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ilium Pad X10",
+      "codename": "Ilium_Pad_X10",
+      "model": "Ilium Pad X10"
     },
     {
       "manufacturer": "",
@@ -324,6 +348,18 @@
       "market_name": "Ilium_L1100",
       "codename": "Ilium_L1100",
       "model": "ILIUM L1100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ilium_M8",
+      "codename": "Ilium_M8",
+      "model": "Ilium_M8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ilium_Pad_X8",
+      "codename": "Ilium_Pad_X8",
+      "model": "Ilium_Pad_X8"
     },
     {
       "manufacturer": "",

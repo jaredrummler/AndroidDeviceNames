@@ -10,8 +10,8 @@
     {
       "manufacturer": "",
       "market_name": "Chromebook",
-      "codename": "edgar_cheets",
-      "model": "Chromebook 14 (CB3-431)"
+      "codename": "grunt_cheets",
+      "model": "grunt"
     },
     {
       "manufacturer": "",
@@ -58,6 +58,18 @@
     {
       "manufacturer": "",
       "market_name": "Chromebook",
+      "codename": "octopus_cheets",
+      "model": "octopus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
+      "codename": "rammus_cheets",
+      "model": "rammus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook",
       "codename": "reef_cheets",
       "model": "ASUS Chromebook C213NA"
     },
@@ -90,6 +102,12 @@
       "market_name": "Chromebook",
       "codename": "wizpig_cheets",
       "model": "Intel Braswell Chromebook"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Chromebook 14 (CB3-431)",
+      "codename": "edgar_cheets",
+      "model": "Chromebook 14 (CB3-431)"
     },
     {
       "manufacturer": "",
@@ -156,6 +174,18 @@
       "market_name": "Pixel 3 XL",
       "codename": "crosshatch",
       "model": "Pixel 3 XL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 3a",
+      "codename": "sargo",
+      "model": "Pixel 3a"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pixel 3a XL",
+      "codename": "bonito",
+      "model": "Pixel 3a XL"
     },
     {
       "manufacturer": "",

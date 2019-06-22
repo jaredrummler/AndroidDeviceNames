@@ -9,7 +9,19 @@
     "manufacturer": "KTV",
     "market_name": "PureKTV",
     "codename": "DV8219",
+    "model": "Pure"
+  },
+  {
+    "manufacturer": "KTV",
+    "market_name": "PureKTV",
+    "codename": "DV8219",
     "model": "PureKTV"
+  },
+  {
+    "manufacturer": "Kinetic",
+    "market_name": "RSTV-A4K-16",
+    "codename": "DV8219",
+    "model": "RSTV-A4K-16"
   },
   {
     "manufacturer": "Perseo TV",
@@ -19,9 +31,21 @@
   },
   {
     "manufacturer": "Telkom",
+    "market_name": "TVB-100",
+    "codename": "DV8219",
+    "model": "TVB-100"
+  },
+  {
+    "manufacturer": "Telkom",
     "market_name": "Telkom",
     "codename": "DV8219",
     "model": "TVB-100"
+  },
+  {
+    "manufacturer": "Telkom Indonesia",
+    "market_name": "Indonesia",
+    "codename": "DV8219",
+    "model": "AX117 ATV"
   },
   {
     "manufacturer": "Tinp",

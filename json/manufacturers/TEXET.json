@@ -39,9 +39,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TM-5083",
+      "codename": "TM-5083",
+      "model": "TM-5083"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TM-5084",
+      "codename": "TM-5084",
+      "model": "TM-5084"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TM-5201",
       "codename": "TM-5201",
       "model": "TM-5201"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TM-5583",
+      "codename": "TM-5583",
+      "model": "TM-5583"
     },
     {
       "manufacturer": "",
@@ -54,6 +72,12 @@
       "market_name": "Texet TM-5581",
       "codename": "tm5581",
       "model": "TM-5581"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Texet TM-5584",
+      "codename": "TM-5584",
+      "model": "TM-5584"
     }
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "manufacturer": "Teclast",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "M20_4G",
+      "codename": "M20_4G",
+      "model": "M20_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80X",
+      "codename": "P80X",
+      "model": "P80X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P80X_EEA",
+      "codename": "P80X",
+      "model": "P80X"
+    }
+  ]
+}

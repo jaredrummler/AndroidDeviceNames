@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor6",
+      "codename": "Armor_6",
+      "model": "Armor_6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor_3",
       "codename": "Armor_3",
       "model": "Armor_3"
@@ -42,6 +48,12 @@
       "market_name": "Armor_5",
       "codename": "Ulefone_Armor_5",
       "model": "Ulefone_Armor_5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_6E",
+      "codename": "Armor_6E",
+      "model": "Armor_6E"
     },
     {
       "manufacturer": "",
@@ -72,6 +84,18 @@
       "market_name": "MIX_2",
       "codename": "MIX_2",
       "model": "MIX_2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Note_7P",
+      "codename": "Note_7P",
+      "model": "Note_7P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P6000_Plus",
+      "codename": "P6000_Plus",
+      "model": "P6000_Plus"
     },
     {
       "manufacturer": "",
@@ -120,6 +144,18 @@
       "market_name": "Power_3L_EEA",
       "codename": "Power_3L_EEA",
       "model": "Power_3L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power_6",
+      "codename": "Power_6",
+      "model": "Power_6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Power_6_EEA",
+      "codename": "Power_6",
+      "model": "Power_6"
     },
     {
       "manufacturer": "",
@@ -183,9 +219,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Ulefone_Note_7",
+      "codename": "Note_7P",
+      "model": "Note_7P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ulefone_Note_7",
+      "codename": "Ulefone_Note_7",
+      "model": "Ulefone_Note 7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Ulefone_S1",
       "codename": "Ulefone_S1",
       "model": "Ulefone_S1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ulefone_S11",
+      "codename": "Ulefone_S11",
+      "model": "Ulefone_S11"
     },
     {
       "manufacturer": "",
@@ -198,6 +252,12 @@
       "market_name": "Ulefone_X",
       "codename": "Ulefone_X",
       "model": "Ulefone_X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Ulfone_S11",
+      "codename": "Ulefone_S11",
+      "model": "Ulefone_S11"
     }
   ]
 }

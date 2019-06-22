@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A4V",
+      "codename": "Azumi_A4v",
+      "model": "Azumi A4v"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A50 Style Plus",
       "codename": "A50_Style_Plus",
       "model": "A50_Style_Plus"
@@ -42,6 +48,18 @@
       "market_name": "A53",
       "codename": "Azumi_A53",
       "model": "A53"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A57B",
+      "codename": "Azumi_A57B",
+      "model": "A57B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A5B",
+      "codename": "Azumi_A5B_BD",
+      "model": "A5B"
     },
     {
       "manufacturer": "",
@@ -87,6 +105,24 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AZUMI_V5_AC01",
+      "codename": "AZUMI_V5_AC01",
+      "model": "V5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi A4",
+      "codename": "Azumi_A4_MB",
+      "model": "A4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi A4 +",
+      "codename": "Azumi_A4_Plus",
+      "model": "A4+"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Azumi A45",
       "codename": "Azumi_A45",
       "model": "A45"
@@ -105,6 +141,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Azumi A5C",
+      "codename": "AZUMI_A5C",
+      "model": "A5C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi K55QL",
+      "codename": "Azumi_K55QLB",
+      "model": "Azumi K55QL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi V54",
+      "codename": "Azumi_V54_AC01",
+      "model": "V54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi V54",
+      "codename": "Azumi_V54_AC23",
+      "model": "V54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi_ V5_ AC05",
+      "codename": "Azumi_V5_AC05",
+      "model": "V5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Azumi_AKANE",
       "codename": "Azumi_AKANE",
       "model": "Azumi AKANE"
@@ -114,6 +180,12 @@
       "market_name": "Azumi_Extend_Akaru_55_QL",
       "codename": "Extend_Akaru_55_QL",
       "model": "Azumi Extend Akaru 55 QL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi_IKU_A55_MB",
+      "codename": "Azumi_IKU_A55_MB",
+      "model": "IKU A55"
     },
     {
       "manufacturer": "",
@@ -144,6 +216,12 @@
       "market_name": "Azumi_V54_MB",
       "codename": "Azumi_V54_MB",
       "model": "V54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi_V5c",
+      "codename": "Azumi_V5C",
+      "model": "V5C"
     },
     {
       "manufacturer": "",
@@ -312,6 +390,18 @@
       "market_name": "T7 3G",
       "codename": "T7_3G",
       "model": "Azumi_T7_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V5+",
+      "codename": "AZUMI_V5PLUS_AC27",
+      "model": "V5+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V54_AC24",
+      "codename": "Azumi_V54_AC24",
+      "model": "V54"
     }
   ]
 }

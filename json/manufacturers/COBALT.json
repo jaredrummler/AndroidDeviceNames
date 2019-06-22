@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CP101P",
+      "codename": "POS",
+      "model": "CP101P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cobalt T10 wifi",
+      "codename": "Cobalt_T10_wifi",
+      "model": "Cobalt_T10_wifi"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cobalt-T7_3G",
       "codename": "Cobalt-T7_3G",
       "model": "Cobalt-T7_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cobalt_T10_3G",
+      "codename": "Cobalt_T10_3G",
+      "model": "Cobalt_T10_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cobalt_T7_wifi",
+      "codename": "Cobalt_T7_wifi",
+      "model": "Cobalt_T7_wifi"
     },
     {
       "manufacturer": "",

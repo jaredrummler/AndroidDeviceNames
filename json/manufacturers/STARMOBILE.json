@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Mobiistar_Zumbo_J2",
+      "codename": "Mobiistar_Zumbo_J2",
+      "model": "Mobiistar Zumbo J2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PLAY Click LTE",
       "codename": "PLAY_Click_LTE",
       "model": "PLAY Click LTE"

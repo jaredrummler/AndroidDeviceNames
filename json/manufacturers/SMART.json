@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "B790",
+      "codename": "B790",
+      "model": "B790"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Coral 4",
       "codename": "Coral_4",
       "model": "Coral 4"
@@ -48,6 +54,12 @@
       "market_name": "Slide Lite",
       "codename": "Slide_Lite",
       "model": "Slide Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart PRIME II",
+      "codename": "Smart_PRIME_II",
+      "model": "Smart PRIME II"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Vankyo",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Z1",
+      "codename": "Z1",
+      "model": "Z1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z1_EEA",
+      "codename": "Z1_EEA",
+      "model": "Z1_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z4",
+      "codename": "Z4",
+      "model": "Z4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z4_EEA",
+      "codename": "Z4_EEA",
+      "model": "Z4_EEA"
+    }
+  ]
+}

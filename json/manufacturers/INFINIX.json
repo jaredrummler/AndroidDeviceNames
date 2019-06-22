@@ -141,6 +141,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HOT 7 PRO",
+      "codename": "Infinix-X625",
+      "model": "Infinix X625B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HOT 7 PRO",
+      "codename": "Infinix-X625D",
+      "model": "Infinix X625D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HOT NOTE",
       "codename": "Infinix-X551",
       "model": "Infinix-X551"
@@ -321,6 +333,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Note 6",
+      "codename": "Infinix-X610",
+      "model": "Infinix X610B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RACE Blot2",
       "codename": "Infinix_X454",
       "model": "Infinix X454"
@@ -342,6 +360,24 @@
       "market_name": "S2",
       "codename": "Infinix-X522",
       "model": "Infinix S2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S4",
+      "codename": "Infinix-X626",
+      "model": "Infinix X626"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S4",
+      "codename": "Infinix-X626B",
+      "model": "Infinix X626B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S4",
+      "codename": "Infinix-X626B-LTE",
+      "model": "Infinix X626B LTE"
     },
     {
       "manufacturer": "",
@@ -384,6 +420,42 @@
       "market_name": "Smart 2 Pro",
       "codename": "Infinix-X5514",
       "model": "Infinix X5514D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart 3",
+      "codename": "Infinix-X5516",
+      "model": "Infinix X5516"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart 3",
+      "codename": "Infinix-X5516B",
+      "model": "Infinix X5516B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart 3",
+      "codename": "Infinix-X5516C",
+      "model": "Infinix X5516C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart 3 Plus",
+      "codename": "Infinix-X627STU",
+      "model": "Infinix X627"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart 3 Plus",
+      "codename": "Infinix-X627V",
+      "model": "Infinix X627V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Smart 3 Plus",
+      "codename": "Infinix-X627W",
+      "model": "Infinix X627W"
     },
     {
       "manufacturer": "",
@@ -642,6 +714,18 @@
       "market_name": "Zero 5 Pro",
       "codename": "Infinix-X603",
       "model": "Infinix X603-LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zero 6",
+      "codename": "Infinix-X620",
+      "model": "Infinix X620B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zero 6 Pro",
+      "codename": "Infinix-X620",
+      "model": "Infinix X620"
     }
   ]
 }

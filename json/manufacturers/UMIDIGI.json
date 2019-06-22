@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F1",
+      "codename": "F1",
+      "model": "F1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F1_EEA",
+      "codename": "F1",
+      "model": "F1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "One",
       "codename": "One",
       "model": "One"
@@ -45,9 +57,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Power",
+      "codename": "Power",
+      "model": "Power"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S2PRO",
       "codename": "S2_PRO",
       "model": "S2_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S3_Pro",
+      "codename": "S3_Pro",
+      "model": "S3_Pro"
     },
     {
       "manufacturer": "",

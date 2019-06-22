@@ -1,8 +1,14 @@
 [
   {
-    "manufacturer": "SPC Mobile",
+    "manufacturer": "SPC Universe",
     "market_name": "LAIKA",
     "codename": "LAIKA",
     "model": "LAIKA"
+  },
+  {
+    "manufacturer": "SPC Universe",
+    "market_name": "Laika",
+    "codename": "Laika",
+    "model": "Laika"
   }
 ]

@@ -1,8 +1,20 @@
 [
   {
     "manufacturer": "LGE",
-    "market_name": "LG K12+",
+    "market_name": "LG K40",
     "codename": "mmh4",
     "model": "LM-X420"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "LM-X420",
+    "codename": "mmh4",
+    "model": "LM-X420"
+  },
+  {
+    "manufacturer": "LGE",
+    "market_name": "X4(2019)",
+    "codename": "mmh4",
+    "model": "LM-X420N"
   }
 ]

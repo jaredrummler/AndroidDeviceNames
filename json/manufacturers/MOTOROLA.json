@@ -2175,6 +2175,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto e5 go",
+      "codename": "rjames_go",
+      "model": "moto e5 go"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto e5 play",
       "codename": "james",
       "model": "moto e5 play"
@@ -2391,6 +2397,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto g(7) power",
+      "codename": "ocean_n",
+      "model": "moto g(7) power"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g6 play",
       "codename": "jeter",
       "model": "Moto G Play"
@@ -2421,6 +2433,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "motorola one",
+      "codename": "deen_sprout",
+      "model": "motorola one"
+    },
+    {
+      "manufacturer": "",
       "market_name": "motorola one power",
       "codename": "chef_sprout",
       "model": "moto x4"
@@ -2430,6 +2448,12 @@
       "market_name": "motorola one power",
       "codename": "chef_sprout",
       "model": "motorola one power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one vision",
+      "codename": "kane_sprout",
+      "model": "motorola one vision"
     }
   ]
 }

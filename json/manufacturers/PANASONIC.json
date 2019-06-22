@@ -189,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELUGA I7 EE",
+      "codename": "ELUGA_I7_EE",
+      "model": "ELUGA_I7_EE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELUGA I9",
       "codename": "ELUGA_I9",
       "model": "Eluga I9"
@@ -249,6 +255,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELUGA Ray 810",
+      "codename": "Eluga_Ray_810",
+      "model": "Eluga Ray 810"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELUGA S",
       "codename": "ELUGA_S",
       "model": "Panasonic ELUGA S"
@@ -276,6 +288,12 @@
       "market_name": "ELUGA U2",
       "codename": "ELUGA_U2",
       "model": "Panasonic ELUGA U2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELUGA U3",
+      "codename": "ELUGA_U3",
+      "model": "ELUGA U3"
     },
     {
       "manufacturer": "",
@@ -324,6 +342,12 @@
       "market_name": "ELUGA dL1",
       "codename": "pana2_4v",
       "model": "Panasonic_dL1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELUGA_F",
+      "codename": "ELUGA_F",
+      "model": "ELUGA_F"
     },
     {
       "manufacturer": "",
@@ -598,13 +622,37 @@
     {
       "manufacturer": "",
       "market_name": "FZ-L1",
+      "codename": "FZ-L1",
+      "model": "FZ-L1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-L1",
+      "codename": "FZ-L1A",
+      "model": "FZ-L1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-L1",
       "codename": "FZ-L1AN",
       "model": "FZ-L1"
     },
     {
       "manufacturer": "",
       "market_name": "FZ-L1",
+      "codename": "FZ-L1AN_A",
+      "model": "FZ-L1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-L1",
       "codename": "FZ-L1AUN_A",
+      "model": "FZ-L1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-L1",
+      "codename": "FZ-L1U",
       "model": "FZ-L1"
     },
     {
@@ -635,6 +683,12 @@
       "manufacturer": "",
       "market_name": "FZ-N1",
       "codename": "FZ-N1E",
+      "model": "FZ-N1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-N1",
+      "codename": "FZ-N1EVF",
       "model": "FZ-N1"
     },
     {
@@ -700,6 +754,12 @@
     {
       "manufacturer": "",
       "market_name": "FZ-T1",
+      "codename": "FZ-T1A",
+      "model": "FZ-T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-T1",
       "codename": "FZ-T1AN",
       "model": "FZ-T1"
     },
@@ -723,6 +783,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FZ-T1",
+      "codename": "FZ-T1VUN",
+      "model": "FZ-T1 AOSP"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FZ-T1AN",
       "codename": "FZ-T1AN",
       "model": "FZ-T1"
@@ -731,6 +797,12 @@
       "manufacturer": "",
       "market_name": "FZ-T1EUN",
       "codename": "FZ-T1EUN",
+      "model": "FZ-T1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "FZ-T1VUN",
+      "codename": "FZ-T1VUN",
       "model": "FZ-T1"
     },
     {
@@ -750,6 +822,24 @@
       "market_name": "FZ-X1",
       "codename": "FZ-X1VUC",
       "model": "FZ-X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GX700C",
+      "codename": "GX700C",
+      "model": "GX700C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GX880C",
+      "codename": "GX01C",
+      "model": "GX01C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GZ1000",
+      "codename": "GZ01C",
+      "model": "GZ01C"
     },
     {
       "manufacturer": "",
@@ -783,6 +873,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "JT-C52",
+      "codename": "JT-C52",
+      "model": "JT-C52"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KX-PRXA10",
       "codename": "KX-PRXA10",
       "model": "Panasonic KX-PRXA10"
@@ -804,6 +900,12 @@
       "market_name": "P-01D",
       "codename": "pana2_1",
       "model": "P-01D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P-01K",
+      "codename": "P-01K",
+      "model": "P-01K"
     },
     {
       "manufacturer": "",
@@ -887,6 +989,12 @@
       "manufacturer": "",
       "market_name": "P6",
       "codename": "P6",
+      "model": "Panasonic P6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P6",
+      "codename": "P6_O",
       "model": "Panasonic P6"
     },
     {

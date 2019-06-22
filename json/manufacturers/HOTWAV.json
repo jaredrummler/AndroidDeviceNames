@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1",
+      "codename": "A1",
+      "model": "A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A1_Plus",
+      "codename": "A1_Plus",
+      "model": "A1 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cosmos",
       "codename": "Cosmos",
       "model": "Cosmos"
@@ -36,6 +48,12 @@
       "market_name": "M5i",
       "codename": "M5i",
       "model": "M5i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M6",
+      "codename": "M6",
+      "model": "M6"
     },
     {
       "manufacturer": "",
@@ -90,6 +108,12 @@
       "market_name": "Magic_5_Plus",
       "codename": "Magic_5_Plus",
       "model": "Magic 5 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pearl K1",
+      "codename": "Pearl_K1",
+      "model": "Pearl K1"
     },
     {
       "manufacturer": "",

@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SUGAR T10",
+      "codename": "p312cs_tw",
+      "model": "SUGAR T10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SUGAR Y12",
       "codename": "p101bs",
       "model": "SUGAR Y12"
@@ -84,6 +90,12 @@
       "market_name": "Sugar S30",
       "codename": "x800as",
       "model": "SUGAR S30"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Sugar T50",
+      "codename": "p611bn",
+      "model": "SUGAR T50"
     }
   ]
 }

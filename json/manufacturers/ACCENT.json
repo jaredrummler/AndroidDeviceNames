@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Accent Camelon C5",
+      "codename": "CAMELEON_C5",
+      "model": "CAMELEON_C5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Accent Camelon C6",
+      "codename": "CAMELEON_C6",
+      "model": "CAMELEON_C6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Accent Camelon C6 Plus",
+      "codename": "CAMELEON_C6_PLUS",
+      "model": "CAMELEON_C6_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C5",
       "codename": "C5",
       "model": "C5"
@@ -24,6 +42,12 @@
       "market_name": "FAST73G",
       "codename": "FAST73G",
       "model": "FAST73G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIDZY70",
+      "codename": "KIDZY70",
+      "model": "KIDZY70"
     },
     {
       "manufacturer": "",

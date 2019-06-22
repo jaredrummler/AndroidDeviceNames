@@ -3,15 +3,45 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A7LED2",
+      "codename": "A7LED2",
+      "model": "A7LED2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G1",
+      "codename": "G1",
+      "model": "G1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GHIA_A1",
+      "codename": "GHIA_A1",
+      "model": "GHIA_A1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GHIA_A7",
       "codename": "GHIA_A7",
       "model": "GHIA_A7"
     },
     {
       "manufacturer": "",
+      "market_name": "GHIA_AXIS7",
+      "codename": "GHIA_AXIS7",
+      "model": "GHIA_AXIS7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GHIA_AXIS7P",
       "codename": "GHIA_AXIS7P",
       "model": "GHIA_AXIS7P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GHIA_L1",
+      "codename": "GHIA_L1",
+      "model": "GHIA_L1"
     },
     {
       "manufacturer": "",
@@ -57,9 +87,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GTKIDS7R8",
+      "codename": "GTKIDS7R8",
+      "model": "GTKIDS7R8"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GTKIDS7V",
       "codename": "GTKIDS7V",
       "model": "GTKIDS7V"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GTKIDS7V8",
+      "codename": "GTKIDS7V8",
+      "model": "GTKIDS7V8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "I1",
+      "codename": "I1",
+      "model": "I1"
     },
     {
       "manufacturer": "",

@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "E-tel_M1",
+      "codename": "E-tel_M1",
+      "model": "E-tel_M1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E-tel_Q5",
+      "codename": "E-tel_Q5",
+      "model": "E-tel_Q5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E-tel_i250",
       "codename": "E-tel_i250",
       "model": "E-tel_i250"
