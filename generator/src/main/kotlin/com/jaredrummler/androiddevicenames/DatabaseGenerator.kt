@@ -26,18 +26,11 @@ import java.sql.SQLException
 import java.util.zip.ZipEntry
 import java.util.zip.ZipOutputStream
 
-private const val SQL_INSERT = "INSERT INTO devices (name, codename, model) VALUES (?, ?, ?)"
-private const val SQL_DROP = "DROP TABLE IF EXISTS devices;"
-private const val SQL_CREATE = "CREATE TABLE devices (\n" +
-    "_id INTEGER PRIMARY KEY,\n" +
-    "name TEXT,\n" +
-    "codename TEXT,\n" +
-    "model TEXT\n" +
-    ");"
-
-class DatabaseGenerator(private val devices: List<Device>,
+class DatabaseGenerator(
+    private val devices: List<Device>,
     private val databasename: String = "database/android-devices.db",
-    private val zipname: String = "database/android-devices.zip") {
+    private val zipname: String = "database/android-devices.zip"
+) {
 
   fun generate() {
     val url = "jdbc:sqlite:$databasename"
@@ -45,7 +38,7 @@ class DatabaseGenerator(private val devices: List<Device>,
     try {
       File(databasename).parentFile?.mkdirs()
 
-      DriverManager.getConnection(url).use { conn ->
+      DriverManager.getConnection(url)?.let { conn ->
         conn.createStatement().execute(SQL_DROP)
         conn.createStatement().execute(SQL_CREATE)
         val statement = conn.prepareStatement(SQL_INSERT)
@@ -56,6 +49,7 @@ class DatabaseGenerator(private val devices: List<Device>,
           statement.addBatch()
         }
         statement.executeBatch()
+        conn.close()
       }
 
       ZipOutputStream(BufferedOutputStream(FileOutputStream(zipname))).use { out ->
@@ -67,10 +61,20 @@ class DatabaseGenerator(private val devices: List<Device>,
           }
         }
       }
-
     } catch (e: SQLException) {
       e.printStackTrace()
     }
+  }
+
+  companion object {
+    private const val SQL_INSERT = "INSERT INTO devices (name, codename, model) VALUES (?, ?, ?)"
+    private const val SQL_DROP = "DROP TABLE IF EXISTS devices;"
+    private const val SQL_CREATE = "CREATE TABLE devices (\n" +
+        "_id INTEGER PRIMARY KEY,\n" +
+        "name TEXT,\n" +
+        "codename TEXT,\n" +
+        "model TEXT\n" +
+        ");"
   }
 
 }

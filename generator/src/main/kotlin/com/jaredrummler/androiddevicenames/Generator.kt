@@ -16,7 +16,7 @@
 
 package com.jaredrummler.androiddevicenames
 
-fun main(args: Array<String>) {
+fun main() {
   // Get the devices supported by Google Play
   val devices = getDevices()
   // Create the database
