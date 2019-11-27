@@ -3,15 +3,51 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CITI_7591_3G_CS7208MG",
+      "codename": "CS7208MG",
+      "model": "CITI 7591 3G CS7208MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CITI_8589_3G_CS8206MG",
+      "codename": "CS8206MG",
+      "model": "CITI 8589 3G CS8206MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CITI_Octa_10_CS1219PL",
+      "codename": "CS1219PL",
+      "model": "CITI Octa 10 CS1219PL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS7113PL",
       "codename": "CS7113PL",
       "model": "CITI 7507 4G CS7113PL"
     },
     {
       "manufacturer": "",
+      "market_name": "CS7204MG",
+      "codename": "CS7204MG",
+      "model": "CITI 7587 3G CS7204MG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS7217PL",
+      "codename": "CS7217PL",
+      "model": "CITI Octa 70 CS7217PL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CS8205PG",
       "codename": "CS8205PG",
       "model": "CITI_8588_3G_CS8205PG"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CS8218PL",
+      "codename": "CS8218PL",
+      "model": "CITI Octa 80 CS8218PL"
     },
     {
       "manufacturer": "",
@@ -576,6 +612,12 @@
       "market_name": "Plane 8555M 4G PS8168ML",
       "codename": "PS8168ML",
       "model": "Plane 8555M 4G PS8168ML"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plane 8595 3G PS8212PG",
+      "codename": "PS8212PG",
+      "model": "Plane 8595 3G PS8212PG"
     },
     {
       "manufacturer": "",

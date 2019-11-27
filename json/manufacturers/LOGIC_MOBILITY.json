@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "L57",
+      "codename": "Logic_L57",
+      "model": "Logic L57"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L5G",
       "codename": "L5G",
       "model": "L5G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LOGIC L50T",
+      "codename": "LOGIC_L50T",
+      "model": "LOGIC L50T"
     },
     {
       "manufacturer": "",

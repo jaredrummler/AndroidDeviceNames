@@ -1,32 +1,38 @@
 [
   {
     "manufacturer": "Huawei",
-    "market_name": "Mate 20 X",
-    "codename": "HWEVR",
-    "model": "EVR-AL00"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Mate 20 X",
-    "codename": "HWEVR",
-    "model": "EVR-L29"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Mate 20 X",
-    "codename": "HWEVR",
-    "model": "EVR-TL00"
-  },
-  {
-    "manufacturer": "Huawei",
-    "market_name": "Mate 20 X (5G)",
+    "market_name": "HUAWEI Mate 20 X (5G)",
     "codename": "HWEVR",
     "model": "EVR-AN00"
   },
   {
     "manufacturer": "Huawei",
-    "market_name": "Mate 20 X (5G)",
+    "market_name": "HUAWEI Mate 20 X (5G)",
     "codename": "HWEVR",
     "model": "EVR-N29"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Huawei Mate 20 X",
+    "codename": "HWEVR",
+    "model": "EVR-L29"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Huawei Mate 20 X",
+    "codename": "HWEVR",
+    "model": "EVR-TL00"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Huawei Mate 20 X (5G)",
+    "codename": "HWEVR",
+    "model": "EVR-N29"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Huwei Mate 20 X",
+    "codename": "HWEVR",
+    "model": "EVR-AL00"
   }
 ]

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "KANJI_AC05",
+      "codename": "KANJI-AC05",
+      "model": "KJ-AC05"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KJ_AC05",
       "codename": "KJAC05",
       "model": "KJ_AC05"

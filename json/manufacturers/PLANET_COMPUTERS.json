@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Cosmo_Communicator",
+      "codename": "Cosmo_Communicator",
+      "model": "Cosmo_Communicator"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Gemini",
       "codename": "Gemini_4G",
       "model": "Gemini_4G"

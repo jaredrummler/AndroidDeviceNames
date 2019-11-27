@@ -1,13 +1,19 @@
 [
   {
     "manufacturer": "Google",
-    "market_name": "Chromebook",
+    "market_name": "Mediatek MTK8173 Chromebook",
     "codename": "hana_cheets",
     "model": "Lenovo N23 Yoga/Flex 11 Chromebook"
   },
   {
     "manufacturer": "Google",
-    "market_name": "Chromebook",
+    "market_name": "Mediatek MTK8173 Chromebook",
+    "codename": "hana_cheets",
+    "model": "Mediatek MT8173 Chromebook"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "Mediatek MTK8173 Chromebook",
     "codename": "hana_cheets",
     "model": "Mediatek MTK8173 Chromebook"
   }

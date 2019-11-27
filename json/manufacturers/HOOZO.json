@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HZ0011",
+      "codename": "HZ0011",
+      "model": "HZ0011"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MR768",
+      "codename": "MR768",
+      "model": "MR768"
+    },
+    {
+      "manufacturer": "",
       "market_name": "MR7863",
       "codename": "MR7863",
       "model": "MR7863"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MZ10863",
+      "codename": "MZ10863",
+      "model": "MZ10863"
     }
   ]
 }

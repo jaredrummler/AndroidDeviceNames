@@ -99,6 +99,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Mediasuite",
+      "codename": "PH8M_HE_5596",
+      "model": "TPM181HE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PHILIPS",
       "codename": "TLE722G",
       "model": "TLE722G"
@@ -249,6 +255,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Philips S260",
+      "codename": "Philips_S260",
+      "model": "Philips_S260"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Philips S310X",
       "codename": "Philips_S310X",
       "model": "Philips S310X"
@@ -291,6 +303,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Philips S397",
+      "codename": "Philips_S397",
+      "model": "S397"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Philips S561",
+      "codename": "S561",
+      "model": "Philips S561"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Philips S562Z",
       "codename": "S562Z",
       "model": "Philips S562Z"
@@ -300,6 +324,12 @@
       "market_name": "Philips SmartTV",
       "codename": "freesia",
       "model": "PHILIPS 4K TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Philips SmartTV",
+      "codename": "freesia",
+      "model": "PHILIPS 4k TV"
     },
     {
       "manufacturer": "",

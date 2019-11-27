@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "1016S",
+      "codename": "1016S",
+      "model": "1016S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "816",
       "codename": "816",
       "model": "816"
@@ -36,6 +42,12 @@
       "market_name": "M6Plus",
       "codename": "M6Plus",
       "model": "M6Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NOTE_4CAM",
+      "codename": "NOTE_4CAM",
+      "model": "NOTE 4CAM"
     },
     {
       "manufacturer": "",
@@ -126,6 +138,12 @@
       "market_name": "X6",
       "codename": "X6",
       "model": "X6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "i700",
+      "codename": "i700",
+      "model": "Tech Pad i700"
     }
   ]
 }

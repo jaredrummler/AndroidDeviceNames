@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Avengers",
+      "codename": "Avengers",
+      "model": "Avengers"
+    },
+    {
+      "manufacturer": "",
       "market_name": "DC_Comics_G9",
       "codename": "DC_Comics_G9",
       "model": "DC_Comics_G9"

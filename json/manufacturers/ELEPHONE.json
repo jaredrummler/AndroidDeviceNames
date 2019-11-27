@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A6_Max",
+      "codename": "A6_Max",
+      "model": "A6_Max"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A6_mini",
       "codename": "A6_mini",
       "model": "A6_mini"
@@ -57,6 +63,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PX",
+      "codename": "PX",
+      "model": "PX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Soldier",
       "codename": "Soldier",
       "model": "Soldier"
@@ -78,6 +90,12 @@
       "market_name": "U_Pro",
       "codename": "U_Pro",
       "model": "U_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W3",
+      "codename": "W3",
+      "model": "W3"
     }
   ]
 }

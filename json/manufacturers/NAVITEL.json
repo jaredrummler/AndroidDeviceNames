@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NAVITEL_T757LTE_EEA",
+      "codename": "NAVITEL_T757LTE",
+      "model": "NAVITEL_T757LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Navitel T700 3G Navi",
       "codename": "NAVITEL_T700_3G_NAVI",
       "model": "NAVITEL T700 3G NAVI"
@@ -12,6 +18,18 @@
       "market_name": "T500 3G",
       "codename": "T500_3G",
       "model": "T500 3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T700_3G_Pro",
+      "codename": "T700_3G_Pro",
+      "model": "NAVITEL T700 3G PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T707_3G",
+      "codename": "T707_3G",
+      "model": "NAVITEL T707 3G"
     }
   ]
 }

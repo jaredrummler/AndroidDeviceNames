@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "DT50",
+      "codename": "DT50",
+      "model": "DT50"
+    },
+    {
+      "manufacturer": "",
       "market_name": "i6310",
       "codename": "i6310",
       "model": "i6310"

@@ -94,8 +94,20 @@
     {
       "manufacturer": "",
       "market_name": "LexiTab\\xc2\\xae Deluxe",
+      "codename": "MFC514",
+      "model": "MFC514"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LexiTab\\xc2\\xae Deluxe",
       "codename": "MFC514FR",
       "model": "MFC514FR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LexiTab\\xc2\\xae Master",
+      "codename": "MFC149",
+      "model": "MFC149"
     },
     {
       "manufacturer": "",
@@ -108,6 +120,12 @@
       "market_name": "Playdroid",
       "codename": "lbox500",
       "model": "LBOX500"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Tablet Phone",
+      "codename": "MFS100",
+      "model": "MFS100"
     }
   ]
 }

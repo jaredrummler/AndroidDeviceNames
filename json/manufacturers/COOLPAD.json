@@ -219,9 +219,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1825-I01",
+      "codename": "1825-I01",
+      "model": "1825-I01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "1826",
+      "codename": "Cool_3_Pro",
+      "model": "1826"
+    },
+    {
+      "manufacturer": "",
       "market_name": "1903",
       "codename": "1903",
       "model": "1903"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "1921",
+      "codename": "1921",
+      "model": "1921"
     },
     {
       "manufacturer": "",
@@ -1284,6 +1302,12 @@
       "market_name": "Y92-9",
       "codename": "Y92-9",
       "model": "Coolpad Y92-9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "cp3648A",
+      "codename": "cp3648a",
+      "model": "cp3648A"
     },
     {
       "manufacturer": "",

@@ -255,6 +255,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E110",
+      "codename": "E110",
+      "model": "E110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E170",
       "codename": "E170",
       "model": "E170"
@@ -264,6 +270,12 @@
       "market_name": "E180",
       "codename": "E180",
       "model": "E180"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "E210",
+      "codename": "E210",
+      "model": "E210"
     },
     {
       "manufacturer": "",
@@ -369,9 +381,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "H110",
+      "codename": "H110",
+      "model": "H110"
+    },
+    {
+      "manufacturer": "",
       "market_name": "H170",
       "codename": "H170",
       "model": "H170"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "H210",
+      "codename": "H210",
+      "model": "H210"
     },
     {
       "manufacturer": "",
@@ -405,6 +429,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K11",
+      "codename": "K11",
+      "model": "K11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K18",
+      "codename": "K18",
+      "model": "K18"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L110",
       "codename": "L110",
       "model": "L110"
@@ -420,6 +456,18 @@
       "market_name": "L180",
       "codename": "L180",
       "model": "L180"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L270",
+      "codename": "L270",
+      "model": "L270"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "L370i",
+      "codename": "L370i",
+      "model": "L370i"
     },
     {
       "manufacturer": "",
@@ -453,6 +501,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N180i",
+      "codename": "N180i",
+      "model": "N180i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N210",
       "codename": "N210",
       "model": "N210"
@@ -465,6 +519,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N280i",
+      "codename": "N280i",
+      "model": "N280i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "N310",
       "codename": "N310",
       "model": "N310"
@@ -474,6 +534,18 @@
       "market_name": "N370",
       "codename": "N370",
       "model": "N370"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N380i",
+      "codename": "N380i",
+      "model": "N380i"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N410",
+      "codename": "N410",
+      "model": "N410"
     },
     {
       "manufacturer": "",
@@ -525,6 +597,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "S270i",
+      "codename": "S270i",
+      "model": "S270i"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S280",
       "codename": "S280",
       "model": "S280"
@@ -546,6 +624,18 @@
       "market_name": "S470",
       "codename": "S470",
       "model": "S470"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S570",
+      "codename": "S570",
+      "model": "S570"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S770",
+      "codename": "S770",
+      "model": "S770"
     },
     {
       "manufacturer": "",

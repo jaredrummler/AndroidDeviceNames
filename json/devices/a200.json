@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Blu",
+    "market_name": "A-200",
+    "codename": "A200",
+    "model": "A200"
+  },
+  {
+    "manufacturer": "Blu",
     "market_name": "A200",
     "codename": "A200",
     "model": "A200"

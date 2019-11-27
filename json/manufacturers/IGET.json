@@ -48,6 +48,18 @@
       "market_name": "SMART_L102",
       "codename": "iGET_SMART_L102",
       "model": "SMART_L102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_W101",
+      "codename": "SMART_W101",
+      "model": "SMART_W101"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SMART_W10X_EEA",
+      "codename": "SMART_W10X_EEA",
+      "model": "SMART_W10X_EEA"
     }
   ]
 }

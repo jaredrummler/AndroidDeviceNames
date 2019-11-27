@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "P40_Pride_1",
+      "codename": "P40_Pride_1",
+      "model": "P40_Pride_1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P45",
       "codename": "Colors_P45",
       "model": "Colors P45"
@@ -30,6 +36,12 @@
       "market_name": "P88_Pride_1X",
       "codename": "P88_Pride_1X",
       "model": "P88_Pride_1X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P95_Pride_7s",
+      "codename": "P95_Pride_7s",
+      "model": "P95_Pride_7s"
     },
     {
       "manufacturer": "",

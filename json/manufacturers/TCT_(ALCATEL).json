@@ -1527,6 +1527,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "9029W",
+      "codename": "EasyTAB8TMO",
+      "model": "9029W"
+    },
+    {
+      "manufacturer": "",
       "market_name": "9030G",
       "codename": "POP4-10_4G",
       "model": "9030G"
@@ -1878,6 +1884,18 @@
       "market_name": "ALCATEL 1T 10",
       "codename": "U3A_10_WIFI",
       "model": "8082"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALCATEL 1T 10",
+      "codename": "U3A_10_WIFI_P",
+      "model": "8084"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ALCATEL 1T 7",
+      "codename": "U3A_7_3G",
+      "model": "9009A"
     },
     {
       "manufacturer": "",
@@ -3497,6 +3515,18 @@
       "manufacturer": "",
       "market_name": "Alcatel 1",
       "codename": "U3A_PLUS_4G",
+      "model": "5033G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
+      "model": "5033G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
       "model": "5033J"
     },
     {
@@ -3557,6 +3587,12 @@
       "manufacturer": "",
       "market_name": "Alcatel 1",
       "codename": "U3A_PLUS_4G",
+      "model": "HEYOU10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1",
+      "codename": "U3A_PLUS_4G",
       "model": "Optus X Start"
     },
     {
@@ -3570,6 +3606,12 @@
       "market_name": "Alcatel 1C",
       "codename": "Curie",
       "model": "5003D_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1C",
+      "codename": "Curie",
+      "model": "Listo SP50"
     },
     {
       "manufacturer": "",
@@ -3658,8 +3700,44 @@
     {
       "manufacturer": "",
       "market_name": "Alcatel 1V",
+      "codename": "Tokyo_Lite",
+      "model": "5007U_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1V",
       "codename": "Wright",
       "model": "5001A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1V",
+      "codename": "Wright",
+      "model": "5001D_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1V",
+      "codename": "Wright",
+      "model": "5001D_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1V",
+      "codename": "Wright",
+      "model": "5001J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1V",
+      "codename": "Wright",
+      "model": "5001T"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 1V",
+      "codename": "Wright",
+      "model": "5001U"
     },
     {
       "manufacturer": "",
@@ -3867,6 +3945,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alcatel 3L",
+      "codename": "Benz",
+      "model": "HEYOU50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3T 10",
+      "codename": "A3A_10_4G",
+      "model": "8088M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alcatel 3T 8",
       "codename": "A3A_8_4G",
       "model": "9027F"
@@ -3957,6 +4047,48 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "Venice",
+      "model": "5048A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "Venice",
+      "model": "5048I"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "Venice",
+      "model": "5048U"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "Venice",
+      "model": "5048U_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "Venice",
+      "model": "5048Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "Venice",
+      "model": "5048Y_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel 3X",
+      "codename": "Venice",
+      "model": "5048Y_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Alcatel 5",
       "codename": "A5A_INFINI",
       "model": "5086A"
@@ -3996,6 +4128,18 @@
       "market_name": "Alcatel 5X",
       "codename": "A5X",
       "model": "5060J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel JOY TAB",
+      "codename": "EasyTAB8MPCS",
+      "model": "9029Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Alcatel JOY TAB KIDS",
+      "codename": "EasyTAB8TMO",
+      "model": "9029G"
     },
     {
       "manufacturer": "",
@@ -6744,6 +6888,24 @@
       "market_name": "onetouch_P689L",
       "codename": "POLO55",
       "model": "onetouch_P689L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "smart tab 7",
+      "codename": "Hulk_7_GL_WIFI",
+      "model": "8051"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "smart tab 7",
+      "codename": "Hulk_7_GL_WIFI",
+      "model": "8051_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "smart tab 7",
+      "codename": "Hulk_7_KIDS_WIFI",
+      "model": "8052"
     },
     {
       "manufacturer": "",

@@ -3,9 +3,27 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Glam",
+      "codename": "Glam",
+      "model": "Glam"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WIDE",
+      "codename": "WIDE",
+      "model": "WIDE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Wide",
       "codename": "Wide",
       "model": "Wide"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "popper2",
+      "codename": "popper2",
+      "model": "popper2"
     }
   ]
 }

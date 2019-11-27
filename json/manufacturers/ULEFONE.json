@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "4dym",
+      "codename": "Armor_X3",
+      "model": "Armor_X3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor 2",
       "codename": "Armor_2",
       "model": "Armor_2"
@@ -45,9 +51,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor_3W",
+      "codename": "Armor_3W",
+      "model": "Armor_3W"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_3WT",
+      "codename": "Armor_3WT",
+      "model": "Armor_3WT"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor_5",
       "codename": "Ulefone_Armor_5",
       "model": "Ulefone_Armor_5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_5S",
+      "codename": "Armor_5S",
+      "model": "Armor 5S"
     },
     {
       "manufacturer": "",
@@ -63,9 +87,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Armor_7",
+      "codename": "Armor_7",
+      "model": "Armor_7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Armor_X2",
       "codename": "Armor_X2",
       "model": "Armor_X2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_X3",
+      "codename": "Armor_X3",
+      "model": "Armor_X3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_X5",
+      "codename": "Armor_X5",
+      "model": "Armor X5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Armor_X6",
+      "codename": "Armor_X6",
+      "model": "Armor_X6"
     },
     {
       "manufacturer": "",

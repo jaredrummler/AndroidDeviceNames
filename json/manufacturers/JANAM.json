@@ -16,12 +16,6 @@
     {
       "manufacturer": "",
       "market_name": "XT100",
-      "codename": "XM75",
-      "model": "XM75"
-    },
-    {
-      "manufacturer": "",
-      "market_name": "XT100",
       "codename": "XT100",
       "model": "XT100"
     },
@@ -36,6 +30,18 @@
       "market_name": "XT200",
       "codename": "XT200",
       "model": "XT200"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XT3",
+      "codename": "XT3",
+      "model": "XT3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "XT75",
+      "codename": "XM75",
+      "model": "XM75"
     }
   ]
 }

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Cipherlab",
+    "market_name": "Cipherlab RK25",
+    "codename": "RK25",
+    "model": "RK25"
+  },
+  {
+    "manufacturer": "Cipherlab",
     "market_name": "RK25",
     "codename": "RK25",
     "model": "RK25"

@@ -51,9 +51,9 @@
     },
     {
       "manufacturer": "",
-      "market_name": "M7-3G PLUS",
-      "codename": "ML-JI-M7_3G_PLUS",
-      "model": "ML-JI-M7_3G_PLUS"
+      "market_name": "M7 3G PLUS",
+      "codename": "ML-JI11-M7_3G_PLUS",
+      "model": "M7_3G_PLUS"
     },
     {
       "manufacturer": "",
@@ -123,6 +123,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M7S_PLUS",
+      "codename": "ML-SO07-M7S-PLUS",
+      "model": "M7S_PLUS_KIDPAD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M7S_PLUS",
+      "codename": "ML-SO07-M7S-PLUS",
+      "model": "M7S_PLUS_PRINCESAS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M7s Dual Core",
       "codename": "NB116_NB117_NB118",
       "model": "M7s Dual ML03"
@@ -177,6 +189,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ML-JI-M7_3G_PLUS",
+      "codename": "ML-JI-M7_3G_PLUS",
+      "model": "ML-JI-M7_3G_PLUS"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ML-JI11-M7_3G_PLUS",
       "codename": "ML-JI11-M7_3G_PLUS",
       "model": "ML-JI11-M7_3G_PLUS"
@@ -196,6 +214,12 @@
     {
       "manufacturer": "",
       "market_name": "MLX8",
+      "codename": "ML-WI23-MLX8",
+      "model": "MLX8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MLX8",
       "codename": "MLX8",
       "model": "MLX8"
     },
@@ -204,6 +228,12 @@
       "market_name": "MS40G",
       "codename": "ML-TI-MS40G",
       "model": "MS40G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MS40G_VIVO",
+      "codename": "ML-TI-MS40G_VIVO",
+      "model": "MS40G_VIVO"
     },
     {
       "manufacturer": "",
@@ -372,6 +402,48 @@
       "market_name": "Ms6",
       "codename": "MS6",
       "model": "MS6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser E",
+      "codename": "Multilaser_E",
+      "model": "Multilaser_E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser E Lite",
+      "codename": "Multilaser_E_Lite",
+      "model": "Multilaser_E_Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser G",
+      "codename": "Multilaser_G",
+      "model": "Multilaser_G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser G Max",
+      "codename": "Multilaser_G_Max",
+      "model": "Multilaser_G_Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser G Pro",
+      "codename": "Multilaser_G_Pro",
+      "model": "Multilaser_G_Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser H",
+      "codename": "Multilaser_H",
+      "model": "Multilaser H"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Multilaser_F",
+      "codename": "Multilaser_F",
+      "model": "Multilaser_F"
     }
   ]
 }

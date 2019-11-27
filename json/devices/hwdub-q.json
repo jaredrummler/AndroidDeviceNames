@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Huawei",
+    "market_name": "HONOR 9A",
+    "codename": "HWDUB-Q",
+    "model": "DUB-LX1"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "HUAWEI Y7 2019",
     "codename": "HWDUB-Q",
     "model": "DUB-LX1"
@@ -16,6 +22,24 @@
     "market_name": "HUAWEI Y7 Pro 2019",
     "codename": "HWDUB-Q",
     "model": "DUB-LX2"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI Y7s",
+    "codename": "HWDUB-Q",
+    "model": "DUB-LX1"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI Y7s",
+    "codename": "HWDUB-Q",
+    "model": "DUB-LX2"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI Y7s",
+    "codename": "HWDUB-Q",
+    "model": "DUB-LX3"
   },
   {
     "manufacturer": "Huawei",
@@ -39,6 +63,12 @@
     "manufacturer": "Huawei",
     "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
     "codename": "HWDUB-Q",
+    "model": "DUB-AL00a"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
+    "codename": "HWDUB-Q",
     "model": "DUB-AL20"
   },
   {
@@ -46,5 +76,11 @@
     "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
     "codename": "HWDUB-Q",
     "model": "DUB-TL00"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab9",
+    "codename": "HWDUB-Q",
+    "model": "DUB-TL00a"
   }
 ]

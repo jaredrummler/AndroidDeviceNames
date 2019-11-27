@@ -81,6 +81,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Hammer IRON 3",
+      "codename": "Hammer_IRON_3",
+      "model": "Hammer_IRON_3"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hammer Iron 3 LTE",
       "codename": "Hammer_Iron_3_LTE",
       "model": "Hammer_Iron_3_LTE"
@@ -132,6 +138,12 @@
       "market_name": "Pocket 18X9",
       "codename": "myPhone_Pocket_18x9",
       "model": "myPhone_Pocket_18x9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Pocket 18x9",
+      "codename": "Pocket_18x9",
+      "model": "Pocket_18x9"
     },
     {
       "manufacturer": "",
@@ -363,6 +375,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "myA17",
+      "codename": "myA17",
+      "model": "myA17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myA18",
+      "codename": "myA18",
+      "model": "myA18"
+    },
+    {
+      "manufacturer": "",
       "market_name": "myA2",
       "codename": "MY802",
       "model": "MY802"
@@ -402,6 +426,12 @@
       "market_name": "myA9_DTV",
       "codename": "myA9_DTV",
       "model": "myA9 DTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myG1",
+      "codename": "myG1",
+      "model": "myG1"
     },
     {
       "manufacturer": "",
@@ -453,9 +483,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "myT6 DTV",
+      "codename": "myT6_DTV",
+      "model": "myT6 DTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "myX1",
       "codename": "MY807",
       "model": "MY807"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myX12",
+      "codename": "myX12",
+      "model": "myX12"
     },
     {
       "manufacturer": "",
@@ -492,6 +534,24 @@
       "market_name": "myXI1",
       "codename": "myXI1",
       "model": "myXI1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myXI1 Plus",
+      "codename": "myXI1_Plus",
+      "model": "myXI1 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myXI1 Pro",
+      "codename": "myXI1_Pro",
+      "model": "myXI1 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "myXI3",
+      "codename": "myXI3",
+      "model": "myXI3"
     },
     {
       "manufacturer": "",

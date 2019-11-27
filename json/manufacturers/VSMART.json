@@ -15,6 +15,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Bee",
+      "codename": "V220A",
+      "model": "Bee"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Bee",
+      "codename": "V220B",
+      "model": "Bee"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Joy 1",
       "codename": "PQ4001",
       "model": "Joy 1"
@@ -24,6 +36,24 @@
       "market_name": "Joy 1 +",
       "codename": "PQ4002",
       "model": "Joy 1+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Joy 2+",
+      "codename": "V420A",
+      "model": "Joy 2+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Live",
+      "codename": "V620A",
+      "model": "Live"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Star",
+      "codename": "V320A",
+      "model": "Star"
     }
   ]
 }

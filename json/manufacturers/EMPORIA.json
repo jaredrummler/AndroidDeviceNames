@@ -1,0 +1,17 @@
+{
+  "manufacturer": "Emporia",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Emporia SMART 3",
+      "codename": "S3",
+      "model": "S3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S3mini",
+      "codename": "S3mini",
+      "model": "S3mini"
+    }
+  ]
+}

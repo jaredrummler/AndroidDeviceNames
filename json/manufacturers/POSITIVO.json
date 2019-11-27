@@ -93,6 +93,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Positivo T1075B",
+      "codename": "T1075B",
+      "model": "T1075B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Positivo T760",
       "codename": "T760",
       "model": "T760"
@@ -255,15 +261,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Twist 2",
+      "codename": "S512",
+      "model": "Twist 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Twist 2 Fit",
       "codename": "S509",
       "model": "Twist 2 Fit"
     },
     {
       "manufacturer": "",
+      "market_name": "Twist 2 Go",
+      "codename": "S541",
+      "model": "Twist 2 Go"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Twist 2 Pro",
       "codename": "S532",
       "model": "Twist 2 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Twist 2 Pro",
+      "codename": "S532",
+      "model": "Twist 3"
     },
     {
       "manufacturer": "",

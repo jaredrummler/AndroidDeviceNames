@@ -3237,6 +3237,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "fushan",
+      "codename": "harajuku",
+      "model": "HiSmart 2K ATV4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "fushan_em",
+      "codename": "hamamatsucho",
+      "model": "HiSmart 2K ATV4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "l676be",
       "codename": "HS8929QC",
       "model": "Hisense L676"
@@ -3262,6 +3274,12 @@
     {
       "manufacturer": "",
       "market_name": "laoshan",
+      "codename": "laoshan",
+      "model": "HAT4KDTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "laoshan_emH",
       "codename": "laoshan",
       "model": "HAT4KDTV"
     },

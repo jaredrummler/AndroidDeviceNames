@@ -33,9 +33,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SSB5518R",
+      "codename": "SSB5518R",
+      "model": "SSB5518R"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SSB558R",
       "codename": "SSB558R",
       "model": "SSB558R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB700T",
+      "codename": "SSB700T",
+      "model": "SSB700T"
     }
   ]
 }

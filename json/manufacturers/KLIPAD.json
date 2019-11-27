@@ -15,6 +15,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL1018",
+      "codename": "KL1018",
+      "model": "KL1018"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL1088",
       "codename": "KL1088",
       "model": "KL1088"
@@ -51,6 +57,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "KL4891",
+      "codename": "KL4891",
+      "model": "KL4891"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL4898",
+      "codename": "KL4898",
+      "model": "KL4898"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL4898_A50",
+      "codename": "KL4898_A50",
+      "model": "KL4898_A50"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL500",
+      "codename": "KL500",
+      "model": "KL500"
+    },
+    {
+      "manufacturer": "",
       "market_name": "KL600",
       "codename": "KLIPAD_KL600",
       "model": "KLIPAD_KL600"
@@ -60,6 +90,12 @@
       "market_name": "KL600B",
       "codename": "KLIPAD_KL600B",
       "model": "KL600B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KL601",
+      "codename": "KL601",
+      "model": "KL601"
     },
     {
       "manufacturer": "",
@@ -96,6 +132,12 @@
       "market_name": "KLI750",
       "codename": "KLI750",
       "model": "KL I750"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KLI758",
+      "codename": "KLI758",
+      "model": "KLIPAD_SMART_KLI758"
     },
     {
       "manufacturer": "",

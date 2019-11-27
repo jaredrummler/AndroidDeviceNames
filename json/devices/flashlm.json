@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "LGE",
+    "market_name": "V50",
+    "codename": "flashlm",
+    "model": "LM-V500XM"
+  },
+  {
+    "manufacturer": "LGE",
     "market_name": "V50 ThinQ",
     "codename": "flashlm",
     "model": "LM-V450"

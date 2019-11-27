@@ -1,0 +1,29 @@
+{
+  "manufacturer": "Aconatic",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R1",
+      "model": "ATV R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DV6068Y",
+      "codename": "DV6068Y",
+      "model": "DV6068Y"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DV8547",
+      "codename": "DV8547",
+      "model": "DV8547"
+    }
+  ]
+}

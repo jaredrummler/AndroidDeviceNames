@@ -21,6 +21,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MAX_10",
+      "codename": "MAX_10",
+      "model": "MAX 10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V10",
       "codename": "V10",
       "model": "V10"
@@ -72,6 +78,12 @@
       "market_name": "Y88X Plus",
       "codename": "Y88X_PLUS",
       "model": "Y88X_PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y88X_PRO",
+      "codename": "Y88X_PRO",
+      "model": "Y88X_PRO"
     },
     {
       "manufacturer": "",

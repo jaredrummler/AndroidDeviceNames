@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "NVIDIA",
+    "market_name": "SHIELD TV",
+    "codename": "sif",
+    "model": "SHIELD Android TV"
+  },
+  {
     "manufacturer": "ZTE",
     "market_name": "Z850",
     "codename": "sif",

@@ -9,9 +9,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Digi C2",
+      "codename": "Digi_C2",
+      "model": "Digi C2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Digi K2",
+      "codename": "Digi_K2",
+      "model": "Digi K2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Digi R1",
       "codename": "Digi_R1",
       "model": "Digi R1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Digi R2",
+      "codename": "Digi_R2",
+      "model": "Digi R2"
     }
   ]
 }

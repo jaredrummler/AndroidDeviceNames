@@ -2469,6 +2469,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "HTC Wildfire X",
+      "codename": "htc_h11dugl",
+      "model": "HTC Wildfire X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HTC6435LVW",
       "codename": "dlx",
       "model": "HTC6435LVW"
@@ -4026,6 +4032,12 @@
       "market_name": "Wildfire CDMA",
       "codename": "bee",
       "model": "HTC Wildfire"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wildfire E",
+      "codename": "Wildfire_E",
+      "model": "Wildfire E"
     },
     {
       "manufacturer": "",

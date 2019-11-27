@@ -1,7 +1,19 @@
 [
   {
+    "manufacturer": "Elink",
+    "market_name": "Winnovo",
+    "codename": "T7",
+    "model": "T7"
+  },
+  {
     "manufacturer": "Tobii DynaVox",
     "market_name": "T7",
+    "codename": "T7",
+    "model": "T7"
+  },
+  {
+    "manufacturer": "Winnovo",
+    "market_name": "T7_eea",
     "codename": "T7",
     "model": "T7"
   }

@@ -1,5 +1,11 @@
 [
   {
+    "manufacturer": "Cubot",
+    "market_name": "X20",
+    "codename": "X20",
+    "model": "X20"
+  },
+  {
     "manufacturer": "Doogee",
     "market_name": "X20",
     "codename": "X20",
@@ -10,5 +16,17 @@
     "market_name": "X20",
     "codename": "X20",
     "model": "X20"
+  },
+  {
+    "manufacturer": "Neffos",
+    "market_name": "Neffos X20",
+    "codename": "X20",
+    "model": "Neffos X20"
+  },
+  {
+    "manufacturer": "Qsmart",
+    "market_name": "QSmart X20",
+    "codename": "X20",
+    "model": "QSmart X20"
   }
 ]

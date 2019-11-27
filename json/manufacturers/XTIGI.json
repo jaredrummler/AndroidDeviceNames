@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Hope7_Mate",
+      "codename": "Hope7_Mate",
+      "model": "Hope7_Mate"
+    },
+    {
+      "manufacturer": "",
       "market_name": "JOY10_LTE",
       "codename": "MID",
       "model": "JOY10_LTE"
@@ -117,6 +123,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "X-TIGI_V12",
+      "codename": "V12",
+      "model": "V12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X-TIGI_V13",
       "codename": "X-TIGI_V13",
       "model": "X-TIGI_V13"
@@ -144,6 +156,12 @@
       "market_name": "X-TIGI_V5",
       "codename": "X-TIGI_V5",
       "model": "X-TIGI_V5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X-TIGI_V9",
+      "codename": "X-TIGI_V9",
+      "model": "X-TIGI_V9"
     },
     {
       "manufacturer": "",

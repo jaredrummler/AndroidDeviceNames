@@ -57,9 +57,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TAQ70",
+      "codename": "TAQ70",
+      "model": "TAQ-70"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TAQ_10G",
       "codename": "TAQ_10G",
       "model": "TAQ_10G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TAQ_703_eea",
+      "codename": "TAQ_703_eea",
+      "model": "TAQ_703_eea"
     },
     {
       "manufacturer": "",

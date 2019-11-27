@@ -3,9 +3,33 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Amber5S",
+      "codename": "Amber5S",
+      "model": "Amber5S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amber5S_Pro",
+      "codename": "Amber5S_Pro",
+      "model": "Amber5S_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Amber6",
       "codename": "Amber6",
       "model": "Amber6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Amber7S",
+      "codename": "Amber7S",
+      "model": "Amber7S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Benny",
+      "codename": "Benny",
+      "model": "Benny"
     },
     {
       "manufacturer": "",
@@ -87,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Perla",
+      "codename": "Perla",
+      "model": "Perla"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Phonenix50S",
       "codename": "Phonenix50S",
       "model": "Phonenix50S"
@@ -108,6 +138,12 @@
       "market_name": "WIN",
       "codename": "WIN",
       "model": "WIN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WePad",
+      "codename": "WePad",
+      "model": "WePad"
     },
     {
       "manufacturer": "",

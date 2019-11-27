@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "T702A",
+      "codename": "T702A",
+      "model": "T702A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T702E_EEA",
+      "codename": "T702E_EEA",
+      "model": "T702E_EEA"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X24_EU",
       "codename": "X24_EU",
       "model": "X24_EU"

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "neocore_E1_2",
+      "codename": "neocore_E1_2_eea",
+      "model": "neocore E1-2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "neocore_N1G1",
       "codename": "neocore_N1G1",
       "model": "neocore_N1G1"

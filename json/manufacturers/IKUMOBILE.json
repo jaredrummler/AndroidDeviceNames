@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A20",
+      "codename": "A20",
+      "model": "A20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "I3",
       "codename": "I3",
       "model": "IKU i3"

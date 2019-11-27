@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E95",
+      "codename": "E95",
+      "model": "E95"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G100",
       "codename": "G100",
       "model": "Symphony G100"
@@ -105,6 +111,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R40",
+      "codename": "R40",
+      "model": "R40"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Roar A50",
       "codename": "Roar_A50_sprout",
       "model": "Roar_A50"
@@ -144,6 +156,18 @@
       "market_name": "V100",
       "codename": "V100",
       "model": "V100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V102",
+      "codename": "V102",
+      "model": "V102"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V105",
+      "codename": "V105",
+      "model": "V105"
     },
     {
       "manufacturer": "",
@@ -282,6 +306,12 @@
       "market_name": "Z10",
       "codename": "Z10",
       "model": "SYMPHONY Z10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z20",
+      "codename": "Z20",
+      "model": "Z20"
     },
     {
       "manufacturer": "",

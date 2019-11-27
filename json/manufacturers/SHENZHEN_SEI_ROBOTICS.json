@@ -6,6 +6,12 @@
       "market_name": "ADT-2",
       "codename": "adt2",
       "model": "ADT-2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AMLogic Ref",
+      "codename": "franklin",
+      "model": "franklin"
     }
   ]
 }

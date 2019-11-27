@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "YC-102D",
+      "codename": "YC-102D",
+      "model": "YC-102D"
+    },
+    {
+      "manufacturer": "",
       "market_name": "YC-3135D",
       "codename": "YC-3135D",
       "model": "YC-3135D"

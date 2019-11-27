@@ -33,9 +33,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "16T",
+      "codename": "meizu16T",
+      "model": "16T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "16s",
       "codename": "16s",
       "model": "16s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "16s pro",
+      "codename": "meizu16sPro",
+      "model": "16s Pro"
     },
     {
       "manufacturer": "",
@@ -198,6 +210,12 @@
       "market_name": "meizu C9 pro",
       "codename": "meizuC9pro",
       "model": "meizu C9 pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "meizu M10",
+      "codename": "meizuM10",
+      "model": "meizu M10"
     },
     {
       "manufacturer": "",

@@ -219,6 +219,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "LE9910",
+      "codename": "LE9910",
+      "model": "LE9910"
+    },
+    {
+      "manufacturer": "",
       "market_name": "LF9810_2GB",
       "codename": "LF9810_2GB",
       "model": "LAVA LF9810_2GB"
@@ -240,6 +246,12 @@
       "market_name": "LN9820",
       "codename": "LN9820",
       "model": "LN9820"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LN9820",
+      "codename": "LN9820",
+      "model": "LN9821"
     },
     {
       "manufacturer": "",
@@ -294,6 +306,12 @@
       "market_name": "R3",
       "codename": "R3",
       "model": "R3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R3 Prime",
+      "codename": "iris90",
+      "model": "iris90"
     },
     {
       "manufacturer": "",
@@ -774,6 +792,12 @@
       "market_name": "iris88_lite",
       "codename": "iris88_lite",
       "model": "iris88_lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "iris88s",
+      "codename": "iris88s",
+      "model": "iris88s"
     }
   ]
 }

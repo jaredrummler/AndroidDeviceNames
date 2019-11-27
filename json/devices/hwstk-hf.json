@@ -1,6 +1,36 @@
 [
   {
     "manufacturer": "Huawei",
+    "market_name": "HONOR 9X",
+    "codename": "HWSTK-HF",
+    "model": "STK-L22"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HONOR 9X",
+    "codename": "HWSTK-HF",
+    "model": "STK-LX1"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HONOR 9X",
+    "codename": "HWSTK-HF",
+    "model": "STK-LX3"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P smart Pro",
+    "codename": "HWSTK-HF",
+    "model": "STK-L21"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P smart Pro",
+    "codename": "HWSTK-HF",
+    "model": "STK-LX1"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "HUAWEI P smart Z",
     "codename": "HWSTK-HF",
     "model": "STK-LX1"
@@ -8,6 +38,30 @@
   {
     "manufacturer": "Huawei",
     "market_name": "HUAWEI Y9 Prime 2019",
+    "codename": "HWSTK-HF",
+    "model": "STK-L21"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI Y9s",
+    "codename": "HWSTK-HF",
+    "model": "STK-L21"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI Y9s",
+    "codename": "HWSTK-HF",
+    "model": "STK-L22"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI Y9s",
+    "codename": "HWSTK-HF",
+    "model": "STK-LX3"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "Y9 Prime 2019",
     "codename": "HWSTK-HF",
     "model": "STK-L21"
   },
@@ -22,5 +76,17 @@
     "market_name": "Y9 Prime 2019",
     "codename": "HWSTK-HF",
     "model": "STK-LX3"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab10 Plus",
+    "codename": "HWSTK-HF",
+    "model": "STK-AL00"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "\\xe5\\x8d\\x8e\\xe4\\xb8\\xba\\xe7\\x95\\x85\\xe4\\xba\\xab10 Plus",
+    "codename": "HWSTK-HF",
+    "model": "STK-TL00"
   }
 ]

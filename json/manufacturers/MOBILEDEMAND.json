@@ -1,0 +1,23 @@
+{
+  "manufacturer": "MobileDemand",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "A1180",
+      "codename": "A1180",
+      "model": "A1180"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "xTablet-A680",
+      "codename": "xTablet-A680",
+      "model": "xTablet-A680"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "xTabletA680",
+      "codename": "xTabletA680",
+      "model": "xTabletA680"
+    }
+  ]
+}

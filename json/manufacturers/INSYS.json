@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HK9-K5023",
+      "codename": "HK9-K5023",
+      "model": "HK9-K5023"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IH8-S559",
       "codename": "IH8-S559",
       "model": "IH8-S559"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KT9-70RA",
+      "codename": "KT9-70RA",
+      "model": "KT9-70RA"
     }
   ]
 }

@@ -1,6 +1,12 @@
 [
   {
     "manufacturer": "Huawei",
+    "market_name": "HONOR 20S",
+    "codename": "HWMAR",
+    "model": "MAR-LX1H"
+  },
+  {
+    "manufacturer": "Huawei",
     "market_name": "HUAWEI P30 lite",
     "codename": "HWMAR",
     "model": "HWV33"
@@ -15,7 +21,25 @@
     "manufacturer": "Huawei",
     "market_name": "HUAWEI P30 lite",
     "codename": "HWMAR",
+    "model": "MAR-LX1Am"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P30 lite",
+    "codename": "HWMAR",
+    "model": "MAR-LX1B"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P30 lite",
+    "codename": "HWMAR",
     "model": "MAR-LX1M"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P30 lite",
+    "codename": "HWMAR",
+    "model": "MAR-LX1Mm"
   },
   {
     "manufacturer": "Huawei",
@@ -27,7 +51,31 @@
     "manufacturer": "Huawei",
     "market_name": "HUAWEI P30 lite",
     "codename": "HWMAR",
+    "model": "MAR-LX2B"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P30 lite",
+    "codename": "HWMAR",
+    "model": "MAR-LX2m"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P30 lite",
+    "codename": "HWMAR",
     "model": "MAR-LX3A"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P30 lite",
+    "codename": "HWMAR",
+    "model": "MAR-LX3Am"
+  },
+  {
+    "manufacturer": "Huawei",
+    "market_name": "HUAWEI P30 lite",
+    "codename": "HWMAR",
+    "model": "MAR-LX3Bm"
   },
   {
     "manufacturer": "Huawei",

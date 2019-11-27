@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AKUS Z",
+      "codename": "Akus_Z",
+      "model": "Akus Z"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AURA X",
+      "codename": "AURA_X",
+      "model": "AURA X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "COVET",
       "codename": "COVET",
       "model": "COVET"
@@ -12,6 +24,12 @@
       "market_name": "COVET PLUS",
       "codename": "COVET_PLUS",
       "model": "COVET PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "COVET PRO",
+      "codename": "COVET_PRO",
+      "model": "COVET PRO"
     },
     {
       "manufacturer": "",
@@ -30,6 +48,12 @@
       "market_name": "GRANT",
       "codename": "GRANT",
       "model": "GRANT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GRAVITY Z",
+      "codename": "GRAVITY_Z",
+      "model": "GRAVITY Z"
     },
     {
       "manufacturer": "",
@@ -99,9 +123,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "STELLAR M1",
+      "codename": "STELLAR_M1",
+      "model": "STELLAR M1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "STELLAR MINI",
       "codename": "STELLAR_MINI",
       "model": "STELLAR MINI"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "STELLAR P1",
+      "codename": "STELLAR_P1",
+      "model": "STELLAR P1"
     },
     {
       "manufacturer": "",

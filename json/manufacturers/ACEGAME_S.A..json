@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "NEONHD/NEONGo",
+      "codename": "NEON",
+      "model": "NEONHD/NEONGo"
+    },
+    {
+      "manufacturer": "",
       "market_name": "One_Mundial",
       "codename": "One_Mundial",
       "model": "One_Mundial"
@@ -18,6 +24,18 @@
       "market_name": "SAPPHIRE_HDLT",
       "codename": "SAPPHIRE_HDLT",
       "model": "SAPPHIRE_HDLT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TitaniumColors",
+      "codename": "TitaniumColors",
+      "model": "TitaniumColors"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TitaniumHD",
+      "codename": "TitaniumHD",
+      "model": "TitaniumHD"
     }
   ]
 }

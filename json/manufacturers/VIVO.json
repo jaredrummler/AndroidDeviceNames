@@ -75,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "V17 Neo",
+      "codename": "1907N",
+      "model": "vivo 1907"
+    },
+    {
+      "manufacturer": "",
       "market_name": "V1730EA",
       "codename": "PD1730E",
       "model": "V1730EA"
@@ -180,6 +186,54 @@
       "market_name": "V1911A",
       "codename": "PD1911",
       "model": "V1911A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1916A",
+      "codename": "PD1916",
+      "model": "V1916A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1922A",
+      "codename": "PD1922",
+      "model": "V1922A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1923A",
+      "codename": "PD1923",
+      "model": "V1923A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1924A",
+      "codename": "PD1924",
+      "model": "V1924A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1928A",
+      "codename": "PD1928",
+      "model": "V1928A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1930A",
+      "codename": "PD1930",
+      "model": "V1930A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1936A",
+      "codename": "PD1936",
+      "model": "V1936A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V1936AL",
+      "codename": "PD1936G",
+      "model": "V1936AL"
     },
     {
       "manufacturer": "",
@@ -597,6 +651,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z1 Pro",
+      "codename": "1951",
+      "model": "vivo 1951"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z3i",
       "codename": "PD1813C",
       "model": "V1813A"
@@ -825,9 +885,33 @@
     },
     {
       "manufacturer": "",
-      "market_name": "vivo 1951",
-      "codename": "1951",
-      "model": "vivo 1951"
+      "market_name": "vivo 1906",
+      "codename": "1906",
+      "model": "vivo 1906"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1907",
+      "codename": "1907",
+      "model": "vivo 1907"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1912",
+      "codename": "1912",
+      "model": "vivo 1912"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1913",
+      "codename": "1913",
+      "model": "vivo 1913"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "vivo 1916",
+      "codename": "1916",
+      "model": "vivo 1916"
     },
     {
       "manufacturer": "",

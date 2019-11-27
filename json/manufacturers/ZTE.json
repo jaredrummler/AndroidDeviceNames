@@ -1299,6 +1299,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "901ZT",
+      "codename": "P450A01",
+      "model": "901ZT"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A1 Alpha",
+      "codename": "P963F01D",
+      "model": "A1 Alpha"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A1P",
       "codename": "ailsa",
       "model": "A1P"
@@ -1566,6 +1578,12 @@
       "market_name": "B860H",
       "codename": "B860H_V1",
       "model": "B860H V1.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "B866",
+      "codename": "B866_ZTE",
+      "model": "B866"
     },
     {
       "manufacturer": "",
@@ -2325,6 +2343,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blade A3 2019",
+      "codename": "Z3051T",
+      "model": "Blade A3 2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blade A3 2019",
+      "codename": "Z3051T",
+      "model": "Blade A3 2019-T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blade A315",
       "codename": "ZTE_Blade_A315",
       "model": "ZTE Blade A315"
@@ -2445,6 +2475,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Blade A5 2019-T",
+      "codename": "Z5155T",
+      "model": "Blade A5 2019-T"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Blade A510",
       "codename": "P635A50",
       "model": "Blade A510"
@@ -2478,6 +2514,12 @@
       "market_name": "Blade A570",
       "codename": "ZTE_T617",
       "model": "ZTE Blade A570"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Blade A7 2019-T",
+      "codename": "Z6100T",
+      "model": "Blade A7 2019-T"
     },
     {
       "manufacturer": "",
@@ -4881,6 +4923,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "P545",
+      "codename": "P545",
+      "model": "P545"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "P609",
+      "codename": "P609",
+      "model": "P609"
+    },
+    {
+      "manufacturer": "",
       "market_name": "P_C880S",
       "codename": "P_P635N34",
       "model": "ZTE P_C880S"
@@ -5730,6 +5784,12 @@
       "market_name": "T85",
       "codename": "P840F20",
       "model": "T85"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T86",
+      "codename": "T86",
+      "model": "T86"
     },
     {
       "manufacturer": "",
@@ -7023,6 +7083,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Z3153V",
+      "codename": "Z3153",
+      "model": "Z3153V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z3351S",
       "codename": "Z3351",
       "model": "Z3351S"
@@ -7068,6 +7134,12 @@
       "market_name": "Z559DL",
       "codename": "Z559DL",
       "model": "Z559DL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z6201V",
+      "codename": "Z6201",
+      "model": "Z6201V"
     },
     {
       "manufacturer": "",
@@ -7647,6 +7719,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Axon 10 Pro",
+      "codename": "P855A03_NA",
+      "model": "ZTE A2020U Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE BLADE A0605",
       "codename": "P809F15",
       "model": "ZTE BLADE A0605"
@@ -7686,6 +7764,12 @@
       "market_name": "ZTE BLADE A3",
       "codename": "P809F40",
       "model": "ZTE BLADE A3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE BLADE A3 LITE",
+      "codename": "P932F20",
+      "model": "ZTE Blade A3 Lite"
     },
     {
       "manufacturer": "",
@@ -7917,9 +8001,27 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ZTE Blade 10 Vita",
+      "codename": "P963F01",
+      "model": "ZTE Blade 10 Vita"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ZTE Blade A0722",
       "codename": "P817F18",
       "model": "ZTE Blade A0722"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A3 2019",
+      "codename": "P932F20",
+      "model": "ZTE Blade A3 2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A3 2019",
+      "codename": "P932F20",
+      "model": "ZTE Blade A3 Lite"
     },
     {
       "manufacturer": "",
@@ -7968,6 +8070,24 @@
       "market_name": "ZTE Blade A531",
       "codename": "P932F10",
       "model": "ZTE Blade A531"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A7 2019",
+      "codename": "P963F02",
+      "model": "ZTE Blade A7 2019"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A7 2019RU",
+      "codename": "P963F02",
+      "model": "ZTE Blade A7 2019RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE Blade A7 2020RU",
+      "codename": "P662F02D",
+      "model": "ZTE Blade A7 2020RU"
     },
     {
       "manufacturer": "",
@@ -8136,6 +8256,12 @@
       "market_name": "ZTE_Blade_V1000",
       "codename": "P671F20",
       "model": "ZTE Blade V1000"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ZTE\\xe2\\x80\\x82Grand\\xe2\\x80\\x82X\\xe2\\x80\\x82View\\xe2\\x80\\x823",
+      "codename": "K83CA",
+      "model": "K83CA"
     },
     {
       "manufacturer": "",

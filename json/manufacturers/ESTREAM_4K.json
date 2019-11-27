@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "IPA-1104HDH-01",
+      "codename": "eSTREAM4K_4x4",
+      "model": "IPA-1104HDH-01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "IPA1104HDW-02",
       "codename": "kunlun",
       "model": "IPA1104HDW-02"

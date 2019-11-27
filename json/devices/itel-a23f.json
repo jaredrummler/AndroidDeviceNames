@@ -1,7 +1,19 @@
 [
   {
     "manufacturer": "Itel",
+    "market_name": "A23",
+    "codename": "itel-A23F",
+    "model": "itel A23P"
+  },
+  {
+    "manufacturer": "Itel",
     "market_name": "itel A23",
+    "codename": "itel-A23F",
+    "model": "itel A23"
+  },
+  {
+    "manufacturer": "Itel",
+    "market_name": "itel MC20",
     "codename": "itel-A23F",
     "model": "itel A23"
   }

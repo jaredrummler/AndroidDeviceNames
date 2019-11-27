@@ -51,6 +51,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N100",
+      "codename": "N100",
+      "model": "N100"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N10_EEA",
+      "codename": "Y7",
+      "model": "N10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N10_EEA",
+      "codename": "Y7",
+      "model": "N10_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "N20",
+      "codename": "N20",
+      "model": "N20"
+    },
+    {
+      "manufacturer": "",
       "market_name": "S30",
       "codename": "S30",
       "model": "S30"
@@ -120,6 +144,18 @@
       "market_name": "S80Lite",
       "codename": "S80Lite",
       "model": "S80Lite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S90Pro",
+      "codename": "S90Pro",
+      "model": "S90Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "S90pro",
+      "codename": "S90Pro",
+      "model": "S90Pro"
     },
     {
       "manufacturer": "",
@@ -315,6 +351,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Y10",
+      "codename": "Y10",
+      "model": "Y10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Y6",
       "codename": "Y6",
       "model": "Y6"
@@ -360,6 +402,12 @@
       "market_name": "Y8plus",
       "codename": "Y8Plus",
       "model": "Y8 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Y9Plus",
+      "codename": "Y9Plus",
+      "model": "Y9Plus"
     },
     {
       "manufacturer": "",

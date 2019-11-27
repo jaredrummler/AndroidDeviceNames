@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Class_C250",
+      "codename": "Class_C250",
+      "model": "Class_C250"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M5",
       "codename": "M5",
       "model": "M5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M6",
+      "codename": "M6",
+      "model": "M6"
     }
   ]
 }

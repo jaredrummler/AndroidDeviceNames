@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "MAX 1X",
+      "codename": "MAX_1X",
+      "model": "MAX 1X"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Maxfone",
       "codename": "Maxfone",
       "model": "Maxfone"

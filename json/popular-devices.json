@@ -36,6 +36,18 @@
     "model": "Pixel 3 XL"
   },
   {
+    "manufacturer": "Google",
+    "market_name": "Pixel 4",
+    "codename": "flame",
+    "model": "Pixel 4"
+  },
+  {
+    "manufacturer": "Google",
+    "market_name": "Pixel 4 XL",
+    "codename": "coral",
+    "model": "Pixel 4 XL"
+  },
+  {
     "manufacturer": "Huawei",
     "market_name": "Mate 9",
     "codename": "HWMHA",
@@ -392,6 +404,12 @@
   {
     "manufacturer": "OnePlus",
     "market_name": "OnePlus 7 Pro",
+    "codename": "OP7ProNRSpr",
+    "model": "GM1925"
+  },
+  {
+    "manufacturer": "OnePlus",
+    "market_name": "OnePlus 7 Pro",
     "codename": "OnePlus7Pro",
     "model": "GM1917"
   },
@@ -453,6 +471,12 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy A50",
     "codename": "a50",
+    "model": "SM-A505U1"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A50",
+    "codename": "a50",
     "model": "SM-A505W"
   },
   {
@@ -460,6 +484,12 @@
     "market_name": "Galaxy A50",
     "codename": "a50",
     "model": "SM-A505YN"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy A50",
+    "codename": "a50",
+    "model": "SM-S506DL"
   },
   {
     "manufacturer": "Samsung",
@@ -1767,6 +1797,12 @@
     "manufacturer": "Samsung",
     "market_name": "Galaxy S10",
     "codename": "beyond1q",
+    "model": "SM-G973C"
+  },
+  {
+    "manufacturer": "Samsung",
+    "market_name": "Galaxy S10",
+    "codename": "beyond1q",
     "model": "SM-G973U"
   },
   {
@@ -1930,6 +1966,12 @@
     "market_name": "Xperia 1",
     "codename": "J9110",
     "model": "J9110"
+  },
+  {
+    "manufacturer": "Sony",
+    "market_name": "Xperia 1",
+    "codename": "J9180",
+    "model": "J9180"
   },
   {
     "manufacturer": "Sony",

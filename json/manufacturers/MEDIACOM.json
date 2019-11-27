@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1AEC",
+      "codename": "1AEC",
+      "model": "1AEC"
+    },
+    {
+      "manufacturer": "",
       "market_name": "1AY",
       "codename": "1AY",
       "model": "1AY"
@@ -21,15 +27,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "1CY_EEA",
+      "codename": "1CY",
+      "model": "1CY"
+    },
+    {
+      "manufacturer": "",
       "market_name": "7BY",
       "codename": "7BY",
       "model": "7BY"
     },
     {
       "manufacturer": "",
+      "market_name": "7CY_eea",
+      "codename": "7CY",
+      "model": "7CY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "7DY_EEA",
+      "codename": "7DY",
+      "model": "7DY"
+    },
+    {
+      "manufacturer": "",
       "market_name": "8AY",
       "codename": "8AY",
       "model": "8AY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8BY_EEA",
+      "codename": "8BY",
+      "model": "8BY"
     },
     {
       "manufacturer": "",

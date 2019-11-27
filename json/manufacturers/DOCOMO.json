@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F-06F",
+      "codename": "F06F",
+      "model": "F-06F"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Japan",
       "codename": "TT01",
       "model": "TT01"

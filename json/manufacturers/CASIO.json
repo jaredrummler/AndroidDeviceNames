@@ -21,12 +21,6 @@
     },
     {
       "manufacturer": "",
-      "market_name": "PRO TREK SMART",
-      "codename": "kingyo",
-      "model": "WSD-F30"
-    },
-    {
-      "manufacturer": "",
       "market_name": "Smart Outdoor Watch WSD-F10",
       "codename": "koi",
       "model": "CASIO WSD-F10"
@@ -42,6 +36,18 @@
       "market_name": "WSD-F20",
       "codename": "ayu",
       "model": "CASIO WSD-F20S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WSD-F21HR",
+      "codename": "medaka",
+      "model": "WSD-F21HR"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "WSD-F30",
+      "codename": "kingyo",
+      "model": "WSD-F30"
     }
   ]
 }

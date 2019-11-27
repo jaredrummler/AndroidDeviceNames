@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A10_SMART",
+      "codename": "A10_SMART",
+      "model": "A10_SMART"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A5SLIM",
+      "codename": "A5SLIM",
+      "model": "A5SLIM"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A8_SMART",
       "codename": "A8_SMART",
       "model": "A8_SMART"

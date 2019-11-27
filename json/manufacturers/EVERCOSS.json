@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M55",
+      "codename": "M55",
+      "model": "M55"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M55A",
       "codename": "M55A",
       "model": "M55A"
@@ -239,6 +245,12 @@
       "manufacturer": "",
       "market_name": "U6A",
       "codename": "EVERCOSS_U6A",
+      "model": "U6A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "U6A",
+      "codename": "U6A_PLUS",
       "model": "U6A"
     },
     {

@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "BUZZ 2",
+      "codename": "BUZZ_2",
+      "model": "BUZZ 2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BUZZ 2",
+      "codename": "BUZZ_2_Plus",
+      "model": "BUZZ 2 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "BUZZ_1_Lite",
       "codename": "BUZZ_1_Lite",
       "model": "BUZZ 1 Lite"
@@ -36,6 +48,12 @@
       "market_name": "URBAN 1",
       "codename": "URBAN_1",
       "model": "URBAN 1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "URBAN 2",
+      "codename": "URBAN_2",
+      "model": "URBAN 2"
     }
   ]
 }

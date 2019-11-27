@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A19",
+      "codename": "A19",
+      "model": "A19"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A21",
+      "codename": "A21",
+      "model": "A21"
+    },
+    {
+      "manufacturer": "",
       "market_name": "HIKING_A18",
       "codename": "HIKING_A18",
       "model": "HIKING_A18"

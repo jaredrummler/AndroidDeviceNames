@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Android TV",
+      "codename": "R2",
+      "model": "ATV R2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "C1+",
       "codename": "C1Plus",
       "model": "C1+"
@@ -153,6 +159,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Griffe T7_TE",
+      "codename": "Griffe_T7",
+      "model": "Griffe T7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Griffe T8",
       "codename": "Griffe_T8",
       "model": "Griffe T8"
@@ -162,6 +174,18 @@
       "market_name": "Griffe T8 Plus",
       "codename": "SP641",
       "model": "Griffe T8 Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Griffe T9",
+      "codename": "Griffe_T9",
+      "model": "Griffe T9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Griffe T9 Plus",
+      "codename": "Griffe_T9_Plus",
+      "model": "Griffe T9 Plus"
     },
     {
       "manufacturer": "",
@@ -399,6 +423,30 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Plume L4",
+      "codename": "Plume_L4",
+      "model": "Plume L4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plume L4 Pro",
+      "codename": "Plume_L4_Pro",
+      "model": "Plume L4 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plume L6 Pro",
+      "codename": "Plume_L6_Pro",
+      "model": "Plume L6 Pro"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Plume L8 Pro",
+      "codename": "Plume_L8_Pro",
+      "model": "Plume L8 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Plume P4 Plus",
       "codename": "PGN527",
       "model": "PGN527"
@@ -441,6 +489,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Plume_L4_Pro_TE",
+      "codename": "Plume_L4_Pro",
+      "model": "Plume L4 Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SP530",
       "codename": "SP530",
       "model": "Griffe T2"
@@ -472,6 +526,12 @@
     {
       "manufacturer": "",
       "market_name": "TB717G",
+      "codename": "TB717G",
+      "model": "TB717G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TB717G_8_1",
       "codename": "TB717G",
       "model": "TB717G"
     },

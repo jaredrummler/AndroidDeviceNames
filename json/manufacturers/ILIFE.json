@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "I-LIFE",
+      "codename": "KIDS_TAB_7",
+      "model": "KIDS_TAB_7"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ITELL K4700",
       "codename": "ITELL_K4700",
       "model": "ITELL K4700"
@@ -36,6 +42,12 @@
       "market_name": "KIDS-TAB-5",
       "codename": "KIDS-TAB-5",
       "model": "KIDS-TAB-5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIDS_TAB_6",
+      "codename": "KIDS_TAB_6",
+      "model": "KIDS_TAB_6"
     }
   ]
 }

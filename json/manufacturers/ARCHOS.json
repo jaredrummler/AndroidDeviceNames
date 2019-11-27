@@ -1137,6 +1137,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Archos",
+      "codename": "ac68oxxl",
+      "model": "Archos Oxygen 68XL"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Archos 101 Oxygen 4G",
       "codename": "ac101ox4g",
       "model": "Archos 101 Oxygen 4G"
@@ -1482,6 +1488,18 @@
       "market_name": "Archos Hello 7",
       "codename": "ac70hello",
       "model": "Archos Hello 7"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Oxygen 101S",
+      "codename": "ac101sox",
+      "model": "Archos Oxygen 101S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Archos Oxygen 101S Ardoiz",
+      "codename": "ac101soxaz",
+      "model": "Archos Oxygen 101S ARDOIZ"
     },
     {
       "manufacturer": "",

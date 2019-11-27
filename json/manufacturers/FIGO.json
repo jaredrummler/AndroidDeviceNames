@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A9",
+      "codename": "A9",
+      "model": "A9"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ATRIUM II F55L2",
       "codename": "F55L2",
       "model": "ATRIUM II F55L2"
@@ -18,6 +24,12 @@
       "market_name": "F40G2",
       "codename": "F40G2",
       "model": "F40G2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "J9",
+      "codename": "J9",
+      "model": "J9"
     },
     {
       "manufacturer": "",

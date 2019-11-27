@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A810",
+      "codename": "A810",
+      "model": "Superion S1 Plus DTV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Cherry S8 Deluxe",
+      "codename": "Flare_S8_Deluxe",
+      "model": "Flare_S8_Deluxe"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Cherry W900 LTE",
       "codename": "al7",
       "model": "W900 LTE"
@@ -18,6 +30,12 @@
       "market_name": "DOH01",
       "codename": "DOH01",
       "model": "DOH01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "DOH02",
+      "codename": "DOH02",
+      "model": "DOH02"
     },
     {
       "manufacturer": "",
@@ -399,9 +417,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare S8",
+      "codename": "X930",
+      "model": "Flare S8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare S8 Max",
+      "codename": "X970",
+      "model": "Flare S8 Max"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare S8e",
+      "codename": "H1990",
+      "model": "Flare S8e"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare Tab",
+      "codename": "A830",
+      "model": "Flare Tab"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare Tab Pro",
+      "codename": "A820",
+      "model": "Flare Tab Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare X",
       "codename": "Flare_X",
       "model": "Flare_X_V2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare X3",
+      "codename": "Flare_X3",
+      "model": "Flare_X3"
     },
     {
       "manufacturer": "",
@@ -441,9 +495,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Flare Y7 Pro",
+      "codename": "Flare_Y7_Pro",
+      "model": "Flare_Y7_Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Flare_A1_Roam",
       "codename": "Flare_A1_Roam",
       "model": "Flare_A1_Roam"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare_HD_5",
+      "codename": "Flare_HD_5",
+      "model": "Flare_HD_5"
     },
     {
       "manufacturer": "",
@@ -462,6 +528,24 @@
       "market_name": "Flare_S7_Prime",
       "codename": "Flare_S7_Prime",
       "model": "Flare_S7_Prime"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare_S8_Plus",
+      "codename": "Flare_S8_Plus",
+      "model": "Flare_S8_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare_S8_Prime",
+      "codename": "Flare_S8_Prime",
+      "model": "Flare_S8_Prime"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Flare_S8_Pro",
+      "codename": "Flare_S8_Pro",
+      "model": "Flare_S8_Pro"
     },
     {
       "manufacturer": "",
@@ -558,6 +642,12 @@
       "market_name": "Omega Lite 4s",
       "codename": "Omega_Lite_4s",
       "model": "Omega Lite 4s"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Omega X",
+      "codename": "X960",
+      "model": "Omega X"
     },
     {
       "manufacturer": "",

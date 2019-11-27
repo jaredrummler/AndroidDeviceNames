@@ -45,9 +45,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Berry 2",
+      "codename": "BERRY_2",
+      "model": "BERRY 2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "CHERRY",
       "codename": "CHERRY",
       "model": "CHERRY"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CLIK",
+      "codename": "CLIK",
+      "model": "CLIK"
     },
     {
       "manufacturer": "",
@@ -96,6 +108,18 @@
       "market_name": "Fever_Plus",
       "codename": "Fever_Plus",
       "model": "Fever_Plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fever_Plus_J",
+      "codename": "Fever_Plus_J",
+      "model": "Fever_Plus_J"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GLO_2",
+      "codename": "GLO_2",
+      "model": "GLO 2"
     },
     {
       "manufacturer": "",
@@ -207,6 +231,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "R1 Plus",
+      "codename": "R1_Plus",
+      "model": "R1 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "R3",
       "codename": "R3",
       "model": "R3"
@@ -216,6 +246,18 @@
       "market_name": "R4",
       "codename": "R4",
       "model": "R4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R4 LTE",
+      "codename": "R4_LTE",
+      "model": "R4 LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "R7",
+      "codename": "R7",
+      "model": "R7"
     },
     {
       "manufacturer": "",
@@ -234,6 +276,12 @@
       "market_name": "REBEL",
       "codename": "REBEL",
       "model": "REBEL"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RIO 2",
+      "codename": "RIO_2",
+      "model": "RIO 2"
     },
     {
       "manufacturer": "",
@@ -270,6 +318,12 @@
       "market_name": "Samba",
       "codename": "Samba",
       "model": "Samba"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Switch GO",
+      "codename": "Switch_GO",
+      "model": "Switch GO"
     },
     {
       "manufacturer": "",
@@ -364,6 +418,12 @@
     {
       "manufacturer": "",
       "market_name": "ZOOM",
+      "codename": "ZOOM",
+      "model": "ZOOM"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Zoom",
       "codename": "ZOOM",
       "model": "ZOOM"
     }

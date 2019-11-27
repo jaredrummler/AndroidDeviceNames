@@ -69,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 3 V",
+      "codename": "DPL_VZW",
+      "model": "Nokia 3 V"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 3.1",
       "codename": "ES2N_sprout",
       "model": "Nokia 3.1"
@@ -231,6 +237,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nokia 6.2",
+      "codename": "SLDA_sprout",
+      "model": "Nokia 6.2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 6.2",
+      "codename": "SLD_sprout",
+      "model": "Nokia 6.2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nokia 7",
       "codename": "C1N",
       "model": "TA-1041"
@@ -252,6 +270,18 @@
       "market_name": "Nokia 7.1",
       "codename": "CTL_sprout",
       "model": "Nokia 7.1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 7.2",
+      "codename": "DDVA_sprout",
+      "model": "Nokia 7.2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nokia 7.2",
+      "codename": "DDV_sprout",
+      "model": "Nokia 7.2"
     },
     {
       "manufacturer": "",

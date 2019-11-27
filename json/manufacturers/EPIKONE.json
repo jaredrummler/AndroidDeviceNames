@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "K501_Plus",
+      "codename": "K501_Plus",
+      "model": "K501 Plus"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K502",
       "codename": "K502",
       "model": "K502"
@@ -66,6 +72,24 @@
       "market_name": "K536",
       "codename": "K536",
       "model": "K536"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K573",
+      "codename": "K573",
+      "model": "K573"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K600",
+      "codename": "K600",
+      "model": "K600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K601",
+      "codename": "K601",
+      "model": "K601"
     },
     {
       "manufacturer": "",
@@ -114,6 +138,12 @@
       "market_name": "X572",
       "codename": "X572",
       "model": "X572"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "k503",
+      "codename": "K503",
+      "model": "K503"
     }
   ]
 }

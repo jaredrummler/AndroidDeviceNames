@@ -1,0 +1,23 @@
+{
+  "manufacturer": "CORN",
+  "devices": [
+    {
+      "manufacturer": "",
+      "market_name": "C5",
+      "codename": "C5",
+      "model": "C5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "C55",
+      "codename": "C55",
+      "model": "C55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CORN C10",
+      "codename": "CORN_C10",
+      "model": "C10"
+    }
+  ]
+}

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "RX3503",
+      "codename": "RX3503",
+      "model": "RX3503"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RX4618",
       "codename": "RX4618",
       "model": "RX4618"

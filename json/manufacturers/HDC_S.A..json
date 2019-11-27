@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "HDC",
+      "codename": "TK718",
+      "model": "TK718"
+    },
+    {
+      "manufacturer": "",
       "market_name": "T700B",
       "codename": "T700B",
       "model": "T700B"

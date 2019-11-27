@@ -39,6 +39,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "N30",
+      "codename": "N30",
+      "model": "N30"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NEXT P",
       "codename": "NEXT_P",
       "model": "NEXT_P"
@@ -60,6 +66,18 @@
       "market_name": "Next_P_PRO",
       "codename": "Next_P_PRO",
       "model": "Next_P_PRO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V10",
+      "codename": "V10",
+      "model": "V10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "V50",
+      "codename": "V50",
+      "model": "V50"
     },
     {
       "manufacturer": "",

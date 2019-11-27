@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "N9106H_B",
+      "codename": "N9106H_B_Dialog",
+      "model": "N9106H_B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SEI103DL",
       "codename": "SEI103",
       "model": "SEI103DL"

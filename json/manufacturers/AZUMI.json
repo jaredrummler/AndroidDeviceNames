@@ -33,6 +33,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A4_AC19",
+      "codename": "Azumi_A4_AC19",
+      "model": "A4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "A50 Style Plus",
       "codename": "A50_Style_Plus",
       "model": "A50_Style_Plus"
@@ -60,6 +66,12 @@
       "market_name": "A5B",
       "codename": "Azumi_A5B_BD",
       "model": "A5B"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A5_AC11",
+      "codename": "A5_AC11",
+      "model": "A5"
     },
     {
       "manufacturer": "",
@@ -171,6 +183,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Azumi_A4PLUS_AC11",
+      "codename": "Azumi_A4PLUS_AC11",
+      "model": "Azumi A4+"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi_A5_AC15",
+      "codename": "Azumi_A5_AC15",
+      "model": "A5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Azumi_AKANE",
       "codename": "Azumi_AKANE",
       "model": "Azumi AKANE"
@@ -186,6 +210,12 @@
       "market_name": "Azumi_IKU_A55_MB",
       "codename": "Azumi_IKU_A55_MB",
       "model": "IKU A55"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi_K55QL_AC04",
+      "codename": "Azumi_K55QL_AC04",
+      "model": "Azumi K55QL"
     },
     {
       "manufacturer": "",
@@ -216,6 +246,12 @@
       "market_name": "Azumi_V54_MB",
       "codename": "Azumi_V54_MB",
       "model": "V54"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Azumi_V5PLUS_AC24",
+      "codename": "Azumi_V5PLUS_AC24",
+      "model": "V5+"
     },
     {
       "manufacturer": "",
@@ -352,8 +388,20 @@
     {
       "manufacturer": "",
       "market_name": "KIREI A5Q PLUS",
+      "codename": "Azumi_KIREI_A5Q_PLUS_AC06",
+      "model": "KIREI A5Q PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KIREI A5Q PLUS",
       "codename": "Azumi_KIREI_A5Q_PLUS_AC11",
       "model": "KIREI A5Q PLUS"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M5PLUS_AC24",
+      "codename": "Azumi_M5PLUS_AC24",
+      "model": "M5+"
     },
     {
       "manufacturer": "",

@@ -21,6 +21,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SHIELD TV",
+      "codename": "sif",
+      "model": "SHIELD Android TV"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SHIELD TV Pro",
+      "codename": "mdarcy",
+      "model": "SHIELD Android TV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SHIELD Tablet",
       "codename": "shieldtablet",
       "model": "SHIELD Tablet"

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "ND52-Gen2",
+      "codename": "ND52-Gen2",
+      "model": "ND52-Gen2"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Primo73",
       "codename": "N71J",
       "model": "Primo73"

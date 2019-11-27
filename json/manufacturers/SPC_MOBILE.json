@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "GRAVITY_3G_2019_eea",
+      "codename": "GRAVITY_3G",
+      "model": "GRAVITY 3G_2019"
+    },
+    {
+      "manufacturer": "",
       "market_name": "L50",
       "codename": "SPC_L50",
       "model": "L50"

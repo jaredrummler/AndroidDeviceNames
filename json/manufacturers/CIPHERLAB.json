@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Cipherlab RK25",
+      "codename": "RK25",
+      "model": "RK25"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Hera51",
       "codename": "Hera51",
       "model": "Hera51"

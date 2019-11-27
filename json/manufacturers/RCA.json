@@ -45,6 +45,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "11 Delta Pro",
+      "codename": "RCT6613W23P",
+      "model": "RCT6613W23P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "11 Galileo Pro",
       "codename": "RCT6513W87",
       "model": "RCT6513W87"
@@ -90,6 +96,12 @@
       "market_name": "7 Voyager III",
       "codename": "RCT6973W43MD",
       "model": "RCT6973W43MD"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Artemis 10",
+      "codename": "RCT6T06E13",
+      "model": "RCT6T06E13"
     },
     {
       "manufacturer": "",
@@ -195,6 +207,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCA RCT6613W23PU",
+      "codename": "RCT6613W23PU",
+      "model": "RCT6613W23PU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCA RCT6703W13",
       "codename": "RCT6703W13",
       "model": "RCT6703W13"
@@ -204,6 +222,18 @@
       "market_name": "RCA RCT6973W43MDC8",
       "codename": "RCT6973W43MDC8",
       "model": "RCT6973W43MDC8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA RCT6A03W12",
+      "codename": "RCT6A03W12",
+      "model": "RCT6A03W12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA RCT6A03W13E",
+      "codename": "RCT6A03W13E",
+      "model": "RCT6A03W13E"
     },
     {
       "manufacturer": "",
@@ -219,9 +249,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCA RCT6B06P23",
+      "codename": "RCT6B06P23",
+      "model": "RCT6B06P23"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCA RCT6B83W12",
       "codename": "RCT6B83W12",
       "model": "RCT6B83W12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA RCT6B86E12",
+      "codename": "RCT6B86E12",
+      "model": "RCT6B86E12"
     },
     {
       "manufacturer": "",
@@ -234,6 +276,12 @@
       "market_name": "RCA RCT6S03W14",
       "codename": "RCT6S03W14",
       "model": "RCT6S03W14"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCA_G2",
+      "codename": "RCA_G2",
+      "model": "RCA G2"
     },
     {
       "manufacturer": "",
@@ -357,6 +405,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCT6873W42BMF9A",
+      "codename": "RCT6873W42BMF9A",
+      "model": "RCT6873W42BMF9A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCT6873W42M",
       "codename": "RCT6873W42M",
       "model": "RCT6873W42M"
@@ -375,9 +429,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "RCT6973W43MDEU",
+      "codename": "RCT6973W43MDEU",
+      "model": "RCT6973W43MDEU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "RCT6973W43R",
       "codename": "RCT6973W43R",
       "model": "RCT6973W43R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "RCT6A06E12",
+      "codename": "RCT6A06E12",
+      "model": "RCT6A06E12"
     },
     {
       "manufacturer": "",
@@ -390,6 +456,12 @@
       "market_name": "Voyager",
       "codename": "RCT6873W42BMF8",
       "model": "RCT6873W42BMF8"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Voyager",
+      "codename": "RCT6873W42BMF9E",
+      "model": "RCT6873W42BMF9E"
     },
     {
       "manufacturer": "",

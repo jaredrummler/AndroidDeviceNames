@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Avvio 4GO",
+      "codename": "Avvio_4GO",
+      "model": "Avvio_4GO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Avvio A400",
       "codename": "Avvio_A400",
       "model": "Avvio_A400"

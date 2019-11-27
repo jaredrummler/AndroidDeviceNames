@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "FZ101",
+      "codename": "FZ101",
+      "model": "FZ101"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FZ701",
       "codename": "FZ701",
       "model": "FZ701"

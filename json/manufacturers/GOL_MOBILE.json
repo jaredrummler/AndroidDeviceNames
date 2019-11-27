@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "F10_PRIME",
+      "codename": "F10_PRIME",
+      "model": "F10_PRIME"
+    },
+    {
+      "manufacturer": "",
       "market_name": "F3Prime",
       "codename": "F3Prime",
       "model": "F3Prime"
@@ -12,6 +18,12 @@
       "market_name": "F9",
       "codename": "F9",
       "model": "F9"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "F9_PLUS",
+      "codename": "F9_PLUS",
+      "model": "F9_PLUS"
     },
     {
       "manufacturer": "",

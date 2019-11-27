@@ -48,6 +48,12 @@
     "model": "A1"
   },
   {
+    "manufacturer": "Kenxinda",
+    "market_name": "A1",
+    "codename": "A1",
+    "model": "A1"
+  },
+  {
     "manufacturer": "Lava",
     "market_name": "iris atom",
     "codename": "A1",
@@ -70,5 +76,11 @@
     "market_name": "UN-MT300",
     "codename": "A1",
     "model": "Panasonic UN-MT300"
+  },
+  {
+    "manufacturer": "X-Age",
+    "market_name": "A1",
+    "codename": "A1",
+    "model": "A1"
   }
 ]

@@ -3,6 +3,24 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "CD10A7G",
+      "codename": "CD10A7G",
+      "model": "PMT4311_3G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CD80A5G",
+      "codename": "CD80A5G",
+      "model": "PMT4118_3G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "CD80A5G",
+      "codename": "CD80A5G",
+      "model": "PMT4638_3G_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GRACE P5",
       "codename": "HT50B2G",
       "model": "PSP5515DUO"
@@ -69,6 +87,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Grace 3778 3G",
+      "codename": "CD80A1G",
+      "model": "PMT3778_3G_EU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Grace 3838 4G",
       "codename": "CD80A3L",
       "model": "PMT3838_4G"
@@ -120,6 +144,12 @@
       "market_name": "Grace Y7 LTE",
       "codename": "KN54B1L",
       "model": "PSP7546DUO_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HP10A4L",
+      "codename": "HP10A4L",
+      "model": "PMT4791_4G_RU"
     },
     {
       "manufacturer": "",
@@ -600,6 +630,60 @@
       "market_name": "PMT3878_4G",
       "codename": "CD80A3L",
       "model": "PMT3878_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4111_3G",
+      "codename": "CD10A7G",
+      "model": "PMT4111_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4117_3G",
+      "codename": "HP70A2G",
+      "model": "PMT4117_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4117_3G_EEA",
+      "codename": "HP70A2G",
+      "model": "PMT4117_3G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4131_4G",
+      "codename": "CD10A8L",
+      "model": "PMT4131_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4137_4G",
+      "codename": "HP70A3L",
+      "model": "PMT4137_4G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4138_4G_EEA",
+      "codename": "CD80A6L",
+      "model": "PMT4138_4G_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4227_3G_RU",
+      "codename": "HP70A2G",
+      "model": "PMT4227_3G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4317_3G_RU",
+      "codename": "HP70A2G",
+      "model": "PMT4317_3G_RU"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PMT4667_3G_RU",
+      "codename": "HP70A7G",
+      "model": "PMT4667_3G_RU"
     },
     {
       "manufacturer": "",
@@ -1233,6 +1317,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TC70A1G",
+      "codename": "TC70A1G",
+      "model": "PMT4327_3G_RU"
+    },
+    {
+      "manufacturer": "",
       "market_name": "WIZE A3",
       "codename": "PSP3453DUO",
       "model": "PSP3453DUO"
@@ -1284,6 +1374,12 @@
       "market_name": "Wize 3731 3G",
       "codename": "CD10A2G",
       "model": "PMT3731_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Wize 3731 3G",
+      "codename": "CD10A2G",
+      "model": "PMT3771_3G_EU"
     },
     {
       "manufacturer": "",

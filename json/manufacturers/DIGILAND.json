@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "10542843",
+      "codename": "10542843",
+      "model": "10542843"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "206886-01",
+      "codename": "mdt9003",
+      "model": "206886-01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Compumax Blue",
       "codename": "mid1016_ma",
       "model": "Compumax Blue"
@@ -123,6 +135,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "DL9003mk",
+      "codename": "mdt9003",
+      "model": "DL9003MK"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EVERPAD",
       "codename": "EVERPAD",
       "model": "SC-725"
@@ -132,6 +150,12 @@
       "market_name": "KTAB17",
       "codename": "KTAB17",
       "model": "KTAB17"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Leotec",
+      "codename": "mid1016_mk_32",
+      "model": "Supernova"
     },
     {
       "manufacturer": "",
@@ -165,9 +189,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "PCBOX",
+      "codename": "Kova_2_PCB-T731",
+      "model": "PCB-T731"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SLTDVD1023",
+      "codename": "mdt1005",
+      "model": "SLTDVD1023"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TP1_N",
       "codename": "TP1_N",
       "model": "TP1_N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TPC-705Kids_EEA",
+      "codename": "MID7015A-MK",
+      "model": "TPC-705Kids"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ismart",
+      "codename": "MID1016-MK",
+      "model": "MID1016-MK"
     }
   ]
 }

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Nobby S400",
+      "codename": "Nobby_S400",
+      "model": "Nobby S400"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nobby S500",
       "codename": "Nobby_S500",
       "model": "Nobby S500"
@@ -12,6 +18,12 @@
       "market_name": "Nobby X800",
       "codename": "Nobby_X800",
       "model": "Nobby X800"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nobby X800 Pro",
+      "codename": "Nobby_X800_Pro",
+      "model": "Nobby X800 Pro"
     }
   ]
 }

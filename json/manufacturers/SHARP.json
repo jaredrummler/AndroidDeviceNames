@@ -75,15 +75,33 @@
     },
     {
       "manufacturer": "",
+      "market_name": "4T-C**BL1/BJ1/BN1",
+      "codename": "tcmeruj",
+      "model": "AQUOS-TVJ19"
+    },
+    {
+      "manufacturer": "",
       "market_name": "4T-C50AG1T",
       "codename": "LCD_50FOCAG1T",
       "model": "LCD_50FOCAG1T"
     },
     {
       "manufacturer": "",
+      "market_name": "4T-C50BK1X",
+      "codename": "gangnam",
+      "model": "AQUOS-TVX19B"
+    },
+    {
+      "manufacturer": "",
       "market_name": "507SH",
       "codename": "eve_sprout",
       "model": "507SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "8T-C**BW1",
+      "codename": "tcme8sj",
+      "model": "AQUOS-8KTVJ19"
     },
     {
       "manufacturer": "",
@@ -567,6 +585,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS R3 SH-R10A",
+      "codename": "SH-R10",
+      "model": "SH-R10A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS R3 SHV44",
       "codename": "NAX",
       "model": "SHV44"
@@ -642,6 +666,12 @@
       "market_name": "AQUOS U SHV37",
       "codename": "FSP",
       "model": "SHV37"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS V",
+      "codename": "VGO",
+      "model": "SH-C02"
     },
     {
       "manufacturer": "",
@@ -783,6 +813,42 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AQUOS sense3",
+      "codename": "PCZ-u",
+      "model": "SHV45-u"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3",
+      "codename": "SH-M12",
+      "model": "SH-M12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 SH-02M",
+      "codename": "SH-02M",
+      "model": "SH-02M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 SHV45",
+      "codename": "PCZ",
+      "model": "SHV45"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 basic (907SH)",
+      "codename": "SG907SH",
+      "model": "907SH"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS sense3 lite",
+      "codename": "SH-RM12",
+      "model": "SH-RM12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AQUOS zero",
       "codename": "SG801SH",
       "model": "801SH"
@@ -792,6 +858,12 @@
       "market_name": "AQUOS zero",
       "codename": "SH-Z10",
       "model": "SH-Z10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AQUOS zero",
+      "codename": "SH-Z10A",
+      "model": "SH-Z10A"
     },
     {
       "manufacturer": "",

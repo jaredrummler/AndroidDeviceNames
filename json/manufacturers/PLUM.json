@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Phantom3",
+      "codename": "Z621",
+      "model": "Z621"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Z518",
       "codename": "Z518",
       "model": "Z518"

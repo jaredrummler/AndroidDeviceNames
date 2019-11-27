@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1",
+      "codename": "A1",
+      "model": "A1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ACE",
       "codename": "ACE",
       "model": "ACE"
@@ -18,6 +24,12 @@
       "market_name": "G1LITE",
       "codename": "G1LITE",
       "model": "G1LITE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G2",
+      "codename": "G2",
+      "model": "G2"
     },
     {
       "manufacturer": "",

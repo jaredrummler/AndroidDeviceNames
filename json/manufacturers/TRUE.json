@@ -9,6 +9,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMART 4G Adventure Pro",
+      "codename": "SMART_4G",
+      "model": "SMART 4G Adventure Pro"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMART 4G Champion",
       "codename": "SMART_4G_Champion",
       "model": "SMART 4G Champion"
@@ -69,6 +75,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SMART TAB 4G e-Biz PRO",
+      "codename": "SMART_TAB_4G_e-Biz_PRO",
+      "model": "SMART TAB 4G e-Biz PRO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SMART_4G_GEN_C_5.5",
       "codename": "SMART_4G_GEN_C_5_5",
       "model": "SMART 4G GEN C 5.5"
@@ -90,6 +102,12 @@
       "market_name": "TrueID TV",
       "codename": "TV_A01",
       "model": "STI6030_TRUE_TV_A01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TrueID TV",
+      "codename": "TrueHPH07",
+      "model": "HPH07"
     }
   ]
 }

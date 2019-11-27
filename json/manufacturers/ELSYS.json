@@ -3,9 +3,15 @@
   "devices": [
     {
       "manufacturer": "",
-      "market_name": "ETRI10",
+      "market_name": "ETRI01",
       "codename": "SEI103",
       "model": "ETRI01"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ETRI02",
+      "codename": "tai",
+      "model": "ETRI02"
     }
   ]
 }

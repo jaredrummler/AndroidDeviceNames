@@ -24,8 +24,20 @@
     "model": "Bittium Tough Mobile"
   },
   {
+    "manufacturer": "Bittium",
+    "market_name": "granite",
+    "codename": "granite",
+    "model": "Bittium Tough Mobile"
+  },
+  {
     "manufacturer": "General Dynamics",
     "market_name": "GD Tough Mobile",
+    "codename": "granite",
+    "model": "GD Tough Mobile"
+  },
+  {
+    "manufacturer": "General Dynamics",
+    "market_name": "GD Tough mobile",
     "codename": "granite",
     "model": "GD Tough Mobile"
   },

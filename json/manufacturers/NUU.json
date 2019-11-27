@@ -57,6 +57,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "A7L",
+      "codename": "N5002LATC",
+      "model": "N5002L"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G1",
       "codename": "N5704LA",
       "model": "N5704L"
@@ -66,6 +72,18 @@
       "market_name": "G2",
       "codename": "S6001LE",
       "model": "S6001L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G4",
+      "codename": "N6201L",
+      "model": "N6201L"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M19",
+      "codename": "S5501LE",
+      "model": "S5501L"
     },
     {
       "manufacturer": "",

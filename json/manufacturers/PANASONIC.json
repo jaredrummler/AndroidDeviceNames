@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "43GX580C",
+      "codename": "GX580C",
+      "model": "9S61Z_ZQ20S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "48AX600C",
       "codename": "mst918_4G",
       "model": "48AX600C"
@@ -96,6 +102,18 @@
       "market_name": "Altus 32",
       "codename": "Altus32",
       "model": "Altus 32"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Altus 4K 24",
+      "codename": "Altus4K24",
+      "model": "Qualcomm elite"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Altus4K43",
+      "codename": "Altus4K43",
+      "model": "Qualcomm elite"
     },
     {
       "manufacturer": "",
@@ -183,6 +201,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "ELUGA I6",
+      "codename": "Eluga_I6",
+      "model": "Eluga I6"
+    },
+    {
+      "manufacturer": "",
       "market_name": "ELUGA I7",
       "codename": "ELUGA_I7",
       "model": "ELUGA I7"
@@ -192,6 +216,12 @@
       "market_name": "ELUGA I7 EE",
       "codename": "ELUGA_I7_EE",
       "model": "ELUGA_I7_EE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELUGA I8",
+      "codename": "Eluga_I8",
+      "model": "Eluga I8"
     },
     {
       "manufacturer": "",
@@ -246,6 +276,12 @@
       "market_name": "ELUGA Ray 600",
       "codename": "ELUGA_Ray_600",
       "model": "ELUGA Ray 600"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "ELUGA Ray 610",
+      "codename": "ELUGA_Ray_610",
+      "model": "ELUGA Ray 610"
     },
     {
       "manufacturer": "",
@@ -741,6 +777,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "FZ-N1EVF",
+      "codename": "FZ-N1EVF",
+      "model": "FZ-N1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FZ-N1F",
       "codename": "FZ-N1F",
       "model": "FZ-N1"
@@ -825,6 +867,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "GS655",
+      "codename": "shibuya",
+      "model": "GS655"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GX600C",
+      "codename": "GX600C",
+      "model": "GX600C"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GX655",
+      "codename": "SW3H_ATV",
+      "model": "GX655"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GX655",
+      "codename": "SW3_ATV",
+      "model": "GX655"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "GX655",
+      "codename": "SW3_ATV",
+      "model": "PanasonicTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "GX700C",
       "codename": "GX700C",
       "model": "GX700C"
@@ -858,6 +930,18 @@
       "market_name": "HDPSEB v4",
       "codename": "HDPSEBv4",
       "model": "HD PSEB v4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "HomeX HMX03A",
+      "codename": "HMX03A",
+      "model": "HMX03A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "IPSC 1.5",
+      "codename": "ipsc1_5",
+      "model": "IPSC1_5"
     },
     {
       "manufacturer": "",

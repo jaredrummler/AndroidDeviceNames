@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "APAC",
+      "codename": "hanyang",
+      "model": "haierATV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT7003",
       "codename": "AT7003",
       "model": "AT7003"
@@ -399,6 +405,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "I6_Infinity",
+      "codename": "I6_Infinity",
+      "model": "I6_Infinity"
+    },
+    {
+      "manufacturer": "",
       "market_name": "INGO-TAB",
       "codename": "INGO-TAB",
       "model": "INGO-TAB"
@@ -708,6 +720,12 @@
       "market_name": "TMK27A2",
       "codename": "TMK27A2",
       "model": "TMK27A2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Titan_T1",
+      "codename": "Titan_T1",
+      "model": "Titan_T1"
     },
     {
       "manufacturer": "",

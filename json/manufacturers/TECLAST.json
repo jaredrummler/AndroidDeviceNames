@@ -18,6 +18,18 @@
       "market_name": "P80X_EEA",
       "codename": "P80X",
       "model": "P80X"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T30_EEA",
+      "codename": "T30",
+      "model": "T30_EEA"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T30_ROW",
+      "codename": "T30",
+      "model": "T30_ROW"
     }
   ]
 }

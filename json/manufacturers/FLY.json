@@ -195,6 +195,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "F22 Star",
+      "codename": "F22_star",
+      "model": "F22 star"
+    },
+    {
+      "manufacturer": "",
       "market_name": "FS402",
       "codename": "Stratus_2",
       "model": "FS402"
@@ -210,6 +216,12 @@
       "market_name": "FS502",
       "codename": "Cirrus_1",
       "model": "FS502"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Fly Life Play",
+      "codename": "LifePlay",
+      "model": "Life Play"
     },
     {
       "manufacturer": "",
@@ -447,6 +459,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Life Geo",
+      "codename": "LifeGeo",
+      "model": "Life Geo"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Life Jet",
       "codename": "LifeJet",
       "model": "Life Jet"
@@ -462,6 +480,12 @@
       "market_name": "Life Vista",
       "codename": "Life_Vista",
       "model": "Vista"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Life Zen",
+      "codename": "LifeZen",
+      "model": "Life Zen"
     },
     {
       "manufacturer": "",

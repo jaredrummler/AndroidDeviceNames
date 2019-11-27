@@ -813,6 +813,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Lenovo K10",
+      "codename": "pokerp",
+      "model": "Lenovo K10"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Master Touch",
       "codename": "umts_primus",
       "model": "XT621"
@@ -1881,6 +1887,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Motorola Android 9.0 TV",
+      "codename": "shibuya",
+      "model": "FlipkartTV"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Motorola one",
       "codename": "deen_sprout",
       "model": "motorola one"
@@ -2259,6 +2271,36 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto e6",
+      "codename": "surfna",
+      "model": "moto e6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e6",
+      "codename": "surfna",
+      "model": "moto g(6)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e6 play",
+      "codename": "bali",
+      "model": "moto e6 play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e\\xe2\\x81\\xb6 plus",
+      "codename": "pokerp",
+      "model": "moto e(6) plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto e\\xe2\\x81\\xb6\\xcb\\xa2",
+      "codename": "pokerp",
+      "model": "moto e(6s)"
+    },
+    {
+      "manufacturer": "",
       "market_name": "moto g(6)",
       "codename": "ali",
       "model": "XT1925-10"
@@ -2374,6 +2416,12 @@
     {
       "manufacturer": "",
       "market_name": "moto g(7) plus",
+      "codename": "lake",
+      "model": "XT1965-6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(7) plus",
       "codename": "lake_n",
       "model": "moto g(6) plus"
     },
@@ -2393,13 +2441,55 @@
       "manufacturer": "",
       "market_name": "moto g(7) power",
       "codename": "ocean",
+      "model": "moto g(7) optimo maxx(XT1955DL)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(7) power",
+      "codename": "ocean",
       "model": "moto g(7) power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(7) power",
+      "codename": "ocean",
+      "model": "moto g(7) supra"
     },
     {
       "manufacturer": "",
       "market_name": "moto g(7) power",
       "codename": "ocean_n",
       "model": "moto g(7) power"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(8) play",
+      "codename": "lima",
+      "model": "moto g(7) play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(8) play",
+      "codename": "lima",
+      "model": "moto g(8) play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(8) plus",
+      "codename": "doha",
+      "model": "moto g(7)"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(8) plus",
+      "codename": "doha",
+      "model": "moto g(8) plus"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto g(8) plus",
+      "codename": "doha_n",
+      "model": "moto g(8) plus"
     },
     {
       "manufacturer": "",
@@ -2433,9 +2523,45 @@
     },
     {
       "manufacturer": "",
+      "market_name": "moto z4",
+      "codename": "foles",
+      "model": "Moto Z3 Play"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "moto z4",
+      "codename": "foles",
+      "model": "moto z4"
+    },
+    {
+      "manufacturer": "",
       "market_name": "motorola one",
       "codename": "deen_sprout",
       "model": "motorola one"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one action",
+      "codename": "troika",
+      "model": "motorola one action"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one action",
+      "codename": "troika_sprout",
+      "model": "motorola one action"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one macro",
+      "codename": "lima",
+      "model": "motorola one"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one macro",
+      "codename": "lima",
+      "model": "motorola one macro"
     },
     {
       "manufacturer": "",
@@ -2454,6 +2580,30 @@
       "market_name": "motorola one vision",
       "codename": "kane_sprout",
       "model": "motorola one vision"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one zoom",
+      "codename": "parker",
+      "model": "moto z4"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola one zoom",
+      "codename": "parker",
+      "model": "motorola one zoom"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola p50",
+      "codename": "kane",
+      "model": "XT1970-5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "motorola razr",
+      "codename": "olson",
+      "model": "motorola razr"
     }
   ]
 }

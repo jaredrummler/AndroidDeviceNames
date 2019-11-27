@@ -15,9 +15,39 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Astro 5P",
+      "codename": "Astro_5P",
+      "model": "Astro 5P"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Astro_4P",
+      "codename": "Astro_4P",
+      "model": "Astro_4P"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Astro_55N_LTE",
       "codename": "Astro_55N_LTE",
       "model": "Astro 55N LTE"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gravity _55_ GO",
+      "codename": "Gravity_55_GO",
+      "model": "Gravity_55_GO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gravity_5_GO",
+      "codename": "Gravity_5_GO",
+      "model": "Gravity_5_GO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Gravity_7P",
+      "codename": "Gravity_7P",
+      "model": "Gravity_7P"
     },
     {
       "manufacturer": "",
@@ -39,6 +69,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Nitro 5 GO",
+      "codename": "Nitro_5_GO",
+      "model": "Nitro 5 GO"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nitro 55N",
       "codename": "Nitro_55N",
       "model": "Nitro 55N"
@@ -48,6 +84,12 @@
       "market_name": "Nitro 5N",
       "codename": "Nitro_5N",
       "model": "Nitro_5N"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nitro 5R",
+      "codename": "Nitro_5R",
+      "model": "Nitro_5R"
     },
     {
       "manufacturer": "",

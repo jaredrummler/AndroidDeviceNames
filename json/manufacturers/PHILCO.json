@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "PCS01",
+      "codename": "PCS01",
+      "model": "PCS01"
+    },
+    {
+      "manufacturer": "",
       "market_name": "PTB7PAP_ PTB7PAB _ PTB7PAR",
       "codename": "PTB7PA",
       "model": "PTB7PAP_PTB7PAB_PTB7PAR"
@@ -12,6 +18,12 @@
       "market_name": "PTB7QSG_3G",
       "codename": "PTB7QSG_3G",
       "model": "PTB7QSG_3G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "PTB7R",
+      "codename": "PTB7R",
+      "model": "PTB7R"
     },
     {
       "manufacturer": "",

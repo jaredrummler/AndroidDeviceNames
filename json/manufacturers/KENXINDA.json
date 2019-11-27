@@ -3,6 +3,18 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "A1",
+      "codename": "A1",
+      "model": "A1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "A8",
+      "codename": "A8",
+      "model": "A8M"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K10",
       "codename": "K10",
       "model": "K10"
@@ -18,6 +30,12 @@
       "market_name": "K30M",
       "codename": "K30M",
       "model": "K30M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Nitro_55R",
+      "codename": "Nitro_55R",
+      "model": "Nitro_55R"
     },
     {
       "manufacturer": "",
@@ -48,6 +66,12 @@
       "market_name": "W40S",
       "codename": "W40S",
       "model": "W40S"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "W41",
+      "codename": "W41",
+      "model": "W41"
     },
     {
       "manufacturer": "",

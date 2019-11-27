@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "X MAX",
+      "codename": "X_MAX",
+      "model": "X MAX"
+    },
+    {
+      "manufacturer": "",
       "market_name": "X1 Light",
       "codename": "X1_Light",
       "model": "X1_Light"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X1_Light",
+      "codename": "X1_Light",
+      "model": "X1 Light"
     },
     {
       "manufacturer": "",

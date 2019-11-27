@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Cellacom_S62",
+      "codename": "Cellacom_S62",
+      "model": "Cellacom_S62"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M432",
       "codename": "M432",
       "model": "M432"

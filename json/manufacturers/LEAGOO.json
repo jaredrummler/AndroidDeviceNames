@@ -39,6 +39,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "M12",
+      "codename": "M12",
+      "model": "M12"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "M12A",
+      "codename": "M12A",
+      "model": "M12A"
+    },
+    {
+      "manufacturer": "",
       "market_name": "M13",
       "codename": "M13",
       "model": "M13"
@@ -168,6 +180,18 @@
       "market_name": "Z10",
       "codename": "Z10",
       "model": "Z10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z10-E",
+      "codename": "Z10-E",
+      "model": "Z10-E"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Z13",
+      "codename": "Z13",
+      "model": "Z13"
     },
     {
       "manufacturer": "",

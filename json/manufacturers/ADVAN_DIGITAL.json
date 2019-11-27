@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "E1C  4G",
+      "codename": "ADVAN_E1C4G",
+      "model": "7037"
+    },
+    {
+      "manufacturer": "",
       "market_name": "E1C 4G",
       "codename": "ADVAN_E1C_4G",
       "model": "7035"
@@ -87,9 +93,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "G2 Pro",
+      "codename": "ADVAN_G2_Pro",
+      "model": "6004"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G3",
       "codename": "ADVAN_G3",
       "model": "6001"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "G3 Pro",
+      "codename": "ADVAN_G3_Pro",
+      "model": "6002"
     },
     {
       "manufacturer": "",
@@ -210,6 +228,12 @@
       "market_name": "T2K",
       "codename": "T2K",
       "model": "T2K"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "X7 Max",
+      "codename": "X7_Max",
+      "model": "7301"
     },
     {
       "manufacturer": "",

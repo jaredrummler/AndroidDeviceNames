@@ -3,6 +3,30 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "OX_X1",
+      "codename": "OX_X1",
+      "model": "OX_X1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T10",
+      "codename": "T10",
+      "model": "T10"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T11",
+      "codename": "T11",
+      "model": "T11"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "T12",
+      "codename": "T12",
+      "model": "T12"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Tab-PLAY125",
       "codename": "Tab-PLAY125",
       "model": "Tab-PLAY125"

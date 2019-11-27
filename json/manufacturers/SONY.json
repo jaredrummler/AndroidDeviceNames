@@ -129,6 +129,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "NW-A100",
+      "codename": "icx1293",
+      "model": "NW-A100Series"
+    },
+    {
+      "manufacturer": "",
       "market_name": "NW-F800",
       "codename": "icx1227",
       "model": "WALKMAN"
@@ -156,6 +162,12 @@
       "market_name": "NW-ZX2",
       "codename": "icx1265",
       "model": "WALKMAN"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "NW-ZX500",
+      "codename": "icx1295",
+      "model": "NW-ZX500Series"
     },
     {
       "manufacturer": "",
@@ -238,6 +250,12 @@
     {
       "manufacturer": "",
       "market_name": "Xperia 1",
+      "codename": "J9180",
+      "model": "J9180"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1",
       "codename": "SO-03L",
       "model": "SO-03L"
     },
@@ -246,6 +264,12 @@
       "market_name": "Xperia 1",
       "codename": "SOV40",
       "model": "SOV40"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 1 Professional Edition",
+      "codename": "J9150",
+      "model": "J9150"
     },
     {
       "manufacturer": "",
@@ -297,6 +321,60 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "901SO",
+      "model": "901SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "J8210",
+      "model": "J8210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "J8270",
+      "model": "J8270"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "J9210",
+      "model": "J9210"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "SO-01M",
+      "model": "SO-01M"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 5",
+      "codename": "SOV41",
+      "model": "SOV41"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 8",
+      "codename": "902SO",
+      "model": "902SO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 8",
+      "codename": "SOV42",
+      "model": "SOV42"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia 8",
+      "codename": "SOV42-u",
+      "model": "SOV42-u"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Xperia A",
       "codename": "SO-04E",
       "model": "SO-04E"
@@ -312,6 +390,12 @@
       "market_name": "Xperia A4",
       "codename": "SO-04G",
       "model": "SO-04G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Xperia Ace",
+      "codename": "J3173",
+      "model": "J3173"
     },
     {
       "manufacturer": "",

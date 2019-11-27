@@ -9,9 +9,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "AT1002",
+      "codename": "AT1002",
+      "model": "AT1002"
+    },
+    {
+      "manufacturer": "",
       "market_name": "AT701",
       "codename": "AT701",
       "model": "AT701"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AT702",
+      "codename": "AT702",
+      "model": "AT702"
     }
   ]
 }

@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Monsterpad_3G",
+      "codename": "Monsterpad_3G",
+      "model": "Monsterpad 3G"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Princess",
       "codename": "Princess",
       "model": "Princess"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Princess 3G",
+      "codename": "Princess_3G",
+      "model": "Princess 3G"
     },
     {
       "manufacturer": "",
@@ -18,6 +30,18 @@
       "market_name": "TurbokidsP",
       "codename": "TurbokidsP",
       "model": "TurbokidsP"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TurbokidsS5",
+      "codename": "TurbokidsS5",
+      "model": "TurbokidsS5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Turbokids_Star",
+      "codename": "Turbokids_Star",
+      "model": "Turbokids_Star"
     }
   ]
 }

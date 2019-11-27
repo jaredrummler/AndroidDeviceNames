@@ -51,6 +51,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "SK3401",
+      "codename": "SK3401",
+      "model": "SK3401"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Slide Lite",
       "codename": "Slide_Lite",
       "model": "Slide Lite"
@@ -60,6 +66,12 @@
       "market_name": "Smart PRIME II",
       "codename": "Smart_PRIME_II",
       "model": "Smart PRIME II"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "hero A1",
+      "codename": "hero_A1",
+      "model": "hero A1"
     }
   ]
 }

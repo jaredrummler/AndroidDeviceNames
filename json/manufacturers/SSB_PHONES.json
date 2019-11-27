@@ -3,6 +3,78 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "AMS5118R_GO",
+      "codename": "AMS5118R_GO",
+      "model": "AMS5118R_GO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "AMS5518R",
+      "codename": "AMS5518R",
+      "model": "AMS5518R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "BS5214G",
+      "codename": "BS5214G",
+      "model": "BS5214G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LM5118R",
+      "codename": "LM5118R",
+      "model": "LM5118R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LM5118R_GO",
+      "codename": "LM5118R_GO",
+      "model": "LM5118R_GO"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LM5184G",
+      "codename": "LM5184G",
+      "model": "LM5184G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "LM5518R",
+      "codename": "LM5518R",
+      "model": "LM5518R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MM5014G",
+      "codename": "MM5014G",
+      "model": "MM5014G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "MP5184G",
+      "codename": "MP5184G",
+      "model": "MP5184G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SS5114G",
+      "codename": "SS5114G",
+      "model": "SS5114G"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB-508D",
+      "codename": "SSB-508D",
+      "model": "SSB-508D"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB-508LTE",
+      "codename": "SSB-508LTE",
+      "model": "SSB-508LTE"
+    },
+    {
+      "manufacturer": "",
       "market_name": "SSB504",
       "codename": "SSB504",
       "model": "SSB504"
@@ -12,6 +84,24 @@
       "market_name": "SSB504A",
       "codename": "SSB504A",
       "model": "SSB504A"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB504R",
+      "codename": "SSB504R",
+      "model": "SSB504R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB5118R",
+      "codename": "SSB5118R",
+      "model": "SSB5118R"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "SSB5118R_GO",
+      "codename": "SSB5118R_GO",
+      "model": "SSB5118R_GO"
     },
     {
       "manufacturer": "",

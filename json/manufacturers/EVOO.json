@@ -9,6 +9,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "EV-A-133-1",
+      "codename": "EV-A-133-1",
+      "model": "EV-A-133-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EV-A-156-1",
+      "codename": "EV-A-156-1",
+      "model": "EV-A-156-1"
+    },
+    {
+      "manufacturer": "",
       "market_name": "EV-A-81-7-1",
       "codename": "EV-A-81-7-1",
       "model": "EV-A-81-7-1"
@@ -18,6 +30,30 @@
       "market_name": "EV-A-81-8-1",
       "codename": "EV-A-81-8-1",
       "model": "EV-A-81-8-1"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EV-A-81-8-2",
+      "codename": "EV-A-81-8-2",
+      "model": "EV-A-81-8-2"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EVM4G3",
+      "codename": "EVM4G3",
+      "model": "EVM4G3"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EVM4G6",
+      "codename": "EVM4G6",
+      "model": "EVM4G6"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "EVMFV2",
+      "codename": "EVMFV2",
+      "model": "EVMFV2"
     }
   ]
 }

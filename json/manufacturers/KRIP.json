@@ -3,9 +3,21 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "K4b",
+      "codename": "K4b",
+      "model": "K4b"
+    },
+    {
+      "manufacturer": "",
       "market_name": "K5",
       "codename": "K5",
       "model": "K5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "K55h",
+      "codename": "K55h",
+      "model": "K55h"
     },
     {
       "manufacturer": "",

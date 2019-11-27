@@ -46,6 +46,12 @@
     {
       "manufacturer": "",
       "market_name": "OnePlus 7 Pro",
+      "codename": "OP7ProNRSpr",
+      "model": "GM1925"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7 Pro",
       "codename": "OnePlus7Pro",
       "model": "GM1917"
     },
@@ -60,6 +66,24 @@
       "market_name": "OnePlus 7 Pro 5G",
       "codename": "OnePlus7ProNR",
       "model": "GM1920"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7T",
+      "codename": "OnePlus7T",
+      "model": "HD1905"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7T",
+      "codename": "OnePlus7TTMO",
+      "model": "HD1907"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "OnePlus 7T Pro",
+      "codename": "OnePlus7TPro",
+      "model": "HD1913"
     },
     {
       "manufacturer": "",
@@ -102,6 +126,12 @@
       "market_name": "OnePlus 6T",
       "codename": "OnePlus6TSingle",
       "model": "ONEPLUS A6013"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Oneplus_Dosa_IN",
+      "codename": "Oneplus_Dosa_IN",
+      "model": "Oneplus_Dosa_IN"
     },
     {
       "manufacturer": "",

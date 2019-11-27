@@ -27,6 +27,12 @@
     },
     {
       "manufacturer": "",
+      "market_name": "MobileDisplayTerminal",
+      "codename": "PD5",
+      "model": "PD5"
+    },
+    {
+      "manufacturer": "",
       "market_name": "Nomad 5",
       "codename": "pdog",
       "model": "Nomad 5"
@@ -69,6 +75,18 @@
     },
     {
       "manufacturer": "",
+      "market_name": "TDC600/MM60",
+      "codename": "E7167",
+      "model": "MobileMapper60"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "TDC600/MM60",
+      "codename": "E7167",
+      "model": "TDC600"
+    },
+    {
+      "manufacturer": "",
       "market_name": "TDC800 Handheld",
       "codename": "pelican",
       "model": "TDC800"
@@ -96,6 +114,12 @@
       "market_name": "Trimble ConnectedTablet",
       "codename": "MS5",
       "model": "MS5"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Trimble DUO",
+      "codename": "DUO",
+      "model": "DUO"
     }
   ]
 }

@@ -3,6 +3,12 @@
   "devices": [
     {
       "manufacturer": "",
+      "market_name": "Armor_5S",
+      "codename": "Armor_5S",
+      "model": "Armor 5S"
+    },
+    {
+      "manufacturer": "",
       "market_name": "U5_Breeze",
       "codename": "U5_Breeze",
       "model": "U5_Breeze"

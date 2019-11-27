@@ -69,9 +69,21 @@
     },
     {
       "manufacturer": "",
+      "market_name": "Dslide_113",
+      "codename": "Dslide_113",
+      "model": "Dslide_113"
+    },
+    {
+      "manufacturer": "",
       "market_name": "G27",
       "codename": "G27",
       "model": "G27"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "KECHAODA_S10",
+      "codename": "KECHAODA_S10",
+      "model": "KECHAODA_S10"
     },
     {
       "manufacturer": "",
@@ -120,6 +132,18 @@
       "market_name": "Konnect 602",
       "codename": "Konnect602",
       "model": "Konnect602"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Konnect_508",
+      "codename": "Konnect_508",
+      "model": "Konnect_508"
+    },
+    {
+      "manufacturer": "",
+      "market_name": "Konnect_607",
+      "codename": "Konnect_607",
+      "model": "Konnect_607"
     },
     {
       "manufacturer": "",
