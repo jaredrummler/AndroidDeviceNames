@@ -2,7 +2,7 @@ apply plugin: 'java-library'
 apply plugin: 'kotlin'
 
 dependencies {
-  implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
-  implementation 'com.google.code.gson:gson:2.8.5'
-  implementation 'org.xerial:sqlite-jdbc:3.20.1'
+  implementation deps.kotlin.stdlib.jdk
+  implementation deps.gson
+  implementation deps.sqlite
 }
