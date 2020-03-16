@@ -37,14 +37,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
   @Override protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
-    Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+    Toolbar toolbar = findViewById(R.id.toolbar);
     setSupportActionBar(toolbar);
 
     setDeviceNameText();
 
-    editTextCodename = (EditText) findViewById(R.id.input_codename);
-    editTextModel = (EditText) findViewById(R.id.input_model);
-    result = (TextView) findViewById(R.id.result);
+    editTextCodename = findViewById(R.id.input_codename);
+    editTextModel = findViewById(R.id.input_model);
+    result = findViewById(R.id.result);
 
     editTextCodename.setText(Build.DEVICE);
     editTextModel.setText(Build.MODEL);
@@ -62,8 +62,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
       return;
     }
 
-    DeviceName.Request request = DeviceName.with(this)
-        .setCodename(codename);
+    DeviceName.Request request = DeviceName.with(this).setCodename(codename);
     if (!TextUtils.isEmpty(model)) {
       request.setModel(model);
     }
@@ -85,7 +84,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
   }
 
   private void setDeviceNameText() {
-    final TextView textView = (TextView) findViewById(R.id.my_device);
+    final TextView textView = findViewById(R.id.my_device);
 
     String deviceName = DeviceName.getDeviceName();
     if (deviceName != null) {
