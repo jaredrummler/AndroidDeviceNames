@@ -17,60 +17,13 @@
 package com.jaredrummler.androiddevicenames
 
 import com.google.gson.GsonBuilder
-import com.google.gson.JsonArray
-import com.google.gson.JsonParser
 import com.google.gson.annotations.SerializedName
-import java.io.BufferedReader
 import java.io.File
-import java.io.InputStreamReader
 import java.nio.file.Files
 import java.nio.file.Paths
+import java.util.Locale
 import java.util.TreeMap
 import java.util.stream.Collectors
-
-private const val URL = "https://storage.googleapis.com/play_public/supported_devices.csv"
-
-fun getDevices(): MutableList<Device> {
-  val devices = mutableListOf<Device>()
-  val url = java.net.URL(URL)
-  val conn = url.openConnection()
-  BufferedReader(InputStreamReader(conn.getInputStream(), "UTF-16")).use { reader ->
-    reader.readLine() // skip header
-    reader.forEachLine { line ->
-      val records = line.split(",").dropLastWhile(String::isEmpty).toTypedArray()
-      if (records.size == 4) {
-        val manufacturer = records[0]
-        val name = records[1]
-        val code = records[2]
-        val model = records[3]
-        devices.add(Device(manufacturer, getPreferredDeviceName(name), code, model))
-      }
-    }
-  }
-  return devices
-}
-
-fun getPopularDeviceNames(): List<String> {
-  val names = mutableListOf<String>()
-  JsonParser().parse(File("POPULAR.json").reader()).asJsonObject.entrySet().forEach { entry ->
-    (entry.value as JsonArray).forEach { element ->
-      names.add(element.asString)
-    }
-  }
-  return names
-}
-
-private fun getPreferredDeviceName(deviceName: String): String {
-  return when (deviceName) {
-    "OnePlus3" -> "OnePlus 3"
-    "OnePlus3T" -> "OnePlus 3T"
-    "OnePlus5" -> "OnePlus 5"
-    "OnePlus5T" -> "OnePlus 5T"
-    "OnePlus6" -> "OnePlus 6"
-    "OnePlus6T" -> "OnePlus 6T"
-    else -> deviceName
-  }
-}
 
 class JsonGenerator(private val devices: List<Device>, directory: String = "json") {
 
@@ -97,7 +50,7 @@ class JsonGenerator(private val devices: List<Device>, directory: String = "json
     val codenames = hashMapOf<String, MutableList<Device>>()
     for (device in devices) {
       if (!device.codename.isBlank()) {
-        val key = device.codename.toLowerCase()
+        val key = device.codename.toLowerCase(Locale.US)
         val list = codenames[key] ?: mutableListOf()
         list.add(device)
         codenames[key] = list
@@ -110,9 +63,9 @@ class JsonGenerator(private val devices: List<Device>, directory: String = "json
 
   private fun createPopularDevicesJsonFile() {
     val popular = mutableListOf<Device>()
-    getPopularDeviceNames().forEach { name ->
+    Devices.popular.forEach { name ->
       devices.forEach { device ->
-        if (device.marketName.toLowerCase() == name.toLowerCase()) {
+        if (device.marketName.toLowerCase(Locale.US) == name.toLowerCase(Locale.US)) {
           popular.add(device)
         }
       }
@@ -135,7 +88,10 @@ class JsonGenerator(private val devices: List<Device>, directory: String = "json
         .map { entry -> OEM(entry.key, entry.value) }
         .collect(Collectors.toList<OEM>()))
     manufacturers.forEach { oem ->
-      val filename = oem.manufacturer.toUpperCase().replace(" ", "_").replace("\\.", "").replace("-", "") + ".json"
+      val filename = oem.manufacturer.toUpperCase(Locale.US)
+          .replace(" ", "_")
+          .replace("\\.", "")
+          .replace("-", "") + ".json"
       createJsonFile(File(oemDir, filename), gson.toJson(oem))
     }
   }
