@@ -3,9 +3,11 @@ package com.jaredrummler.android.device;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.SQLException;
+import android.database.sqlite.SQLiteClosable;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Build;
+import android.os.Build.VERSION_CODES;
 import android.text.TextUtils;
 import androidx.annotation.Nullable;
 import com.jaredrummler.android.device.DeviceName.DeviceInfo;
@@ -150,7 +152,16 @@ public class DeviceDatabase extends SQLiteOpenHelper {
       close();                  // Close the empty database
       transferDatabaseAsset();  // Copy the database from assets to the application's database dir
     } catch (IOException e) {
-      throw new SQLException("Error creating " + NAME + " database", e);
+      if (Build.VERSION.SDK_INT >= VERSION_CODES.JELLY_BEAN) {
+        throw new SQLException("Error creating " + NAME + " database", e);
+      } else {
+        try {
+          //noinspection UnnecessaryInitCause
+          throw new SQLException("Error creating " + NAME + " database").initCause(e);
+        } catch (Throwable throwable) {
+          throw new SQLException("Error creating " + NAME + " database");
+        }
+      }
     }
   }
 
@@ -167,10 +178,24 @@ public class DeviceDatabase extends SQLiteOpenHelper {
     close(input);
   }
 
-  private void close(Closeable closeable) {
-    if (closeable != null) {
+  private void close(Object closeable) {
+    if (Build.VERSION.SDK_INT < VERSION_CODES.JELLY_BEAN) {
+      if (closeable instanceof Cursor) {
+        ((Cursor) closeable).close();
+        return;
+      }
+      if (closeable instanceof SQLiteClosable) {
+        // SQLiteDatabase implements SQLiteClosable since at least 1.6/API 4/Donut
+        ((SQLiteClosable) closeable).releaseReference();
+        return;
+      }
+
+      // InputStream, OutputStream implement Closeable since at least 2.3/API 9/Gingerbread 
+    }
+
+    if (closeable instanceof Closeable) {
       try {
-        closeable.close();
+        ((Closeable) closeable).close();
       } catch (IOException ignored) {
       }
     }
