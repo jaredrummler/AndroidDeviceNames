@@ -41,7 +41,7 @@ class MethodGenerator(private val devices: MutableList<Device>, private val file
     // get a list of devices for all popular manufacturers
     val manufacturers = TreeMap<String, MutableList<Device>>()
 
-    getPopularDeviceNames().forEach { name ->
+    Devices.popular.forEach { name ->
       devices.forEach { device ->
         if (name == device.marketName) {
           val list = manufacturers[device.manufacturer] ?: mutableListOf()

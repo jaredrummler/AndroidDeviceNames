@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-  compileSdkVersion 28
-  buildToolsVersion "28.0.3"
+  compileSdkVersion buildConfig.compileSdk
+  buildToolsVersion buildConfig.buildTools
 
   defaultConfig {
     applicationId "com.jaredrummler.android.devicenames"
-    minSdkVersion 14
-    targetSdkVersion 28
+    minSdkVersion buildConfig.minSdk
+    targetSdkVersion buildConfig.targetSdk
     versionCode 1
     versionName "1.0"
   }
@@ -21,7 +21,6 @@ android {
 
 dependencies {
   implementation project(':library')
-  implementation 'com.google.android.material:material:1.0.0'
-
-  testImplementation 'junit:junit:4.12'
+  implementation deps.material
+  testImplementation deps.junit
 }

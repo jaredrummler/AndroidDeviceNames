@@ -1,21 +1,26 @@
 apply plugin: 'com.android.library'
 
 android {
-  compileSdkVersion 28
-  buildToolsVersion "28.0.3"
+  compileSdkVersion buildConfig.compileSdk
+  buildToolsVersion buildConfig.buildTools
 
   defaultConfig {
-    minSdkVersion 14
-    targetSdkVersion 28
+    minSdkVersion buildConfig.minSdk
+    targetSdkVersion buildConfig.targetSdk
   }
 
-  lintOptions {
-    abortOnError false
+  compileOptions {
+    sourceCompatibility JavaVersion.VERSION_1_8
+    targetCompatibility JavaVersion.VERSION_1_8
+  }
+
+  testOptions {
+    unitTests.returnDefaultValues = true
   }
 }
 
 dependencies {
-  implementation 'androidx.annotation:annotation:1.1.0'
+  implementation deps.androidx.annotations
 }
 
 apply from: rootProject.file('gradle/maven-push.gradle')
