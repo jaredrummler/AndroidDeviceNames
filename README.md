@@ -28,7 +28,7 @@ The above code will get the correct device name for the top 600 Android devices.
 **Get the name of a device using the device's codename:**
 
 ```java
-// Retruns "Moto X Style"
+// Returns "Moto X Style"
 DeviceName.getDeviceName("clark", "Unknown device");
 ```
 
