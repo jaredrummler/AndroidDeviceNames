@@ -49,7 +49,7 @@ DeviceName.with(context).request(new DeviceName.Callback() {
  ```
 
 The above code queries a database included in the library based on [Google's maintained list
-](https://support.google.com/googleplay/answer/1727131?hl=en). This supports *over 27,000* devices.
+](https://support.google.com/googleplay/answer/1727131?hl=en). This supports *over 30k* devices. (As of January 2021 update)
 
 Download
 --------
