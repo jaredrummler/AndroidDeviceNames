@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jaredrummler.androiddevicenames
+package com.NotNotMarshall.android.device
 
 import java.io.File
 import java.nio.file.Files
