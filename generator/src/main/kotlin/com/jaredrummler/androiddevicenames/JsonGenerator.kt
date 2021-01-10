@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jaredrummler.androiddevicenames
+package com.NotNotMarshall.android.device
 
 import com.google.gson.GsonBuilder
 import com.google.gson.annotations.SerializedName
