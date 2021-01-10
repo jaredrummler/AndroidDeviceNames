@@ -57,7 +57,7 @@ Download
 Download [the latest AAR](https://repo1.maven.org/maven2/com/jaredrummler/android-device-names/2.0.0/android-device-names-2.0.0.aar) or grab via Gradle:
 
 ```groovy
-    implementation 'com.github.notnotmarshall:android-device-names:2.0.0'
+    	        implementation 'com.github.NotNotMarshall:AndroidDeviceNames:2.0.1'
 ```
 
 
