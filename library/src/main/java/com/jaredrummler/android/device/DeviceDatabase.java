@@ -1,4 +1,4 @@
-package com.jaredrummler.android.device;
+package com.NotNotMarshall.android.device;
 
 import android.content.Context;
 import android.database.Cursor;
