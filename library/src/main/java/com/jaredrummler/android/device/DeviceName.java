@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jaredrummler.android.device;
+package com.NotNotMarshall.android.device;
 
 import android.annotation.SuppressLint;
 import android.app.Application;
