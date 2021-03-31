@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.jaredrummler.androiddevicenames
+package com.NotNotMarshall.android.device
 
 import java.io.BufferedInputStream
 import java.io.BufferedOutputStream

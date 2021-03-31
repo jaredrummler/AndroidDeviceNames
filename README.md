@@ -1,6 +1,9 @@
-# Android Device Names
+# Android Device Names (Up-to-date)
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.jaredrummler/android-device-names) [![License](http://img.shields.io/:license-apache-blue.svg)](LICENSE.txt) [![API](https://img.shields.io/badge/API-7%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=7) <a href="http://www.methodscount.com/?lib=com.jaredrummler%3Aandroid-device-names%3A2.0.0" target="_blank"><img src="https://img.shields.io/badge/method count-86-e91e63.svg"></img></a> <a href="http://www.methodscount.com/?lib=com.jaredrummler%3Aandroid-device-names%3A2.0.0" target="_blank"><img src="https://img.shields.io/badge/size-34 KB-e91e63.svg"></img></a> [![Twitter Follow](https://img.shields.io/twitter/follow/jaredrummler.svg?style=social)](https://twitter.com/jaredrummler)
+
+
+!!! ALL RIGHTS ARE RESERVED TO THE ORIGINAL AUTHOR: https://github.com/jaredrummler !!!
 
 A small Android library to get the market name of an Android device.
 
@@ -49,7 +52,7 @@ DeviceName.with(context).request(new DeviceName.Callback() {
  ```
 
 The above code queries a database included in the library based on [Google's maintained list
-](https://support.google.com/googleplay/answer/1727131?hl=en). This supports *over 27,000* devices.
+](https://support.google.com/googleplay/answer/1727131?hl=en). This supports *over 30k* devices. (As of January 2021 update)
 
 Download
 --------
@@ -57,7 +60,7 @@ Download
 Download [the latest AAR](https://repo1.maven.org/maven2/com/jaredrummler/android-device-names/2.0.0/android-device-names-2.0.0.aar) or grab via Gradle:
 
 ```groovy
-compile 'com.jaredrummler:android-device-names:2.0.0'
+    	        implementation 'com.github.NotNotMarshall:AndroidDeviceNames:2.0.1'
 ```
 
 

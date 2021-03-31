@@ -1,4 +1,4 @@
-package com.jaredrummler.androiddevicenames
+package com.NotNotMarshall.android.device
 
 import com.google.gson.JsonArray
 import com.google.gson.JsonParser
