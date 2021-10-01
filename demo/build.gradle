@@ -24,3 +24,7 @@ dependencies {
   implementation deps.material
   testImplementation deps.junit
 }
+
+task wrapper(type: Wrapper) {
+  gradleVersion = '6.7.1'
+}

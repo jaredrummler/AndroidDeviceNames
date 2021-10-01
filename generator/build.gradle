@@ -6,3 +6,7 @@ dependencies {
   implementation deps.gson
   implementation deps.sqlite
 }
+
+task wrapper(type: Wrapper) {
+  gradleVersion = '6.7.1'
+}
