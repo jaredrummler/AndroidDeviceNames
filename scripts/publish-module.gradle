@@ -1,0 +1,91 @@
+apply plugin: 'maven-publish'
+apply plugin: 'signing'
+apply plugin: 'org.jetbrains.dokka'
+
+task androidSourcesJar(type: Jar) {
+    archiveClassifier.set('sources')
+    if (project.plugins.findPlugin("com.android.library")) {
+        // For Android libraries
+        from android.sourceSets.main.java.srcDirs
+        from android.sourceSets.main.kotlin.srcDirs
+    } else {
+        // For pure Kotlin libraries
+        from sourceSets.main.java.srcDirs
+        from sourceSets.main.kotlin.srcDirs
+    }
+}
+
+tasks.withType(dokkaHtmlPartial.getClass()).configureEach {
+    pluginsMapConfiguration.set(
+            ["org.jetbrains.dokka.base.DokkaBase": """{ "separateInheritedMembers": true}"""]
+    )
+}
+
+task javadocJar(type: Jar, dependsOn: dokkaJavadoc) {
+    archiveClassifier.set('javadoc')
+    from dokkaJavadoc.outputDirectory
+}
+
+artifacts {
+    archives androidSourcesJar
+}
+
+group = "com.jaredrummler"
+version = "2.1.0"
+
+afterEvaluate {
+    publishing {
+        publications {
+            release(MavenPublication) {
+                // The coordinates of the library, being set from variables, setup below.
+                groupId "com.jaredrummler"
+                artifactId "android-device-names"
+                version "2.1.0"
+
+                // Two artifacts, the `aar` (or `jar`) and the sources
+                if (project.plugins.findPlugin("com.android.library")) {
+                    from components.release
+                } else {
+                    from components.java
+                }
+
+                artifact androidSourcesJar
+                artifact javadocJar
+
+                pom {
+                    name = "android-device-names"
+                    description = "A small Android library to get the market name of an Android device."
+                    url = "https://github.com/jaredrummler/AndroidDeviceNames"
+                    licenses {
+                        license {
+                            name = 'Apache License'
+                            url = 'https://github.com/jaredrummler/AndroidDeviceNames/blob/master/LICENSE'
+                        }
+                    }
+                    developers {
+                        developer {
+                            id = "jaredrummler"
+                            name = "Jared Rummler"
+                            email = "jaredrummler@gmail.com"
+                        }
+                    }
+
+                    // Version control info.
+                    scm {
+                        connection = "scm:git:github.com/jaredrummler/AndroidDeviceNames.git"
+                        developerConnection = "scm:git:ssh://github.com/jaredrummler/AndroidDeviceNames.git"
+                        url = "https://github.com/jaredrummler/AndroidDeviceNames/tree/main"
+                    }
+                }
+            }
+        }
+    }
+}
+
+ext["signing.keyId"] = System.getenv('SIGNING_KEY_ID') ?: ext["signing.keyId"]
+ext["signing.password"] = System.getenv('SIGNING_PASSWORD') ?: ext["signing.password"]
+ext["signing.secretKeyRingFile"] = System.getenv('SIGNING_SECRET_KEY_RING_FILE') ?: ext["signing.secretKeyRingFile"]
+
+signing {
+    sign publishing.publications
+}

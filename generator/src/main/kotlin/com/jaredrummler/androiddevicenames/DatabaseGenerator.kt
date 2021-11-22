@@ -28,53 +28,53 @@ import java.util.zip.ZipOutputStream
 
 class DatabaseGenerator(
     private val devices: List<Device>,
-    private val databasename: String = "database/android-devices.db",
-    private val zipname: String = "database/android-devices.zip"
+    private val databasePath: String = "database/android-devices.db",
+    private val zipPath: String = "database/android-devices.zip"
 ) {
 
-  fun generate() {
-    val url = "jdbc:sqlite:$databasename"
+    fun generate() {
+        val url = "jdbc:sqlite:$databasePath"
 
-    try {
-      File(databasename).parentFile?.mkdirs()
+        try {
+            File(databasePath).parentFile?.mkdirs()
 
-      DriverManager.getConnection(url)?.let { conn ->
-        conn.createStatement().execute(SQL_DROP)
-        conn.createStatement().execute(SQL_CREATE)
-        val statement = conn.prepareStatement(SQL_INSERT)
-        devices.forEach { device ->
-          statement.setString(1, device.marketName)
-          statement.setString(2, device.codename)
-          statement.setString(3, device.model)
-          statement.addBatch()
+            DriverManager.getConnection(url)?.let { conn ->
+                conn.createStatement().execute(SQL_DROP)
+                conn.createStatement().execute(SQL_CREATE)
+                val statement = conn.prepareStatement(SQL_INSERT)
+                devices.forEach { device ->
+                    statement.setString(1, device.marketName)
+                    statement.setString(2, device.codename)
+                    statement.setString(3, device.model)
+                    statement.addBatch()
+                }
+                statement.executeBatch()
+                conn.close()
+            }
+
+            ZipOutputStream(BufferedOutputStream(FileOutputStream(zipPath))).use { out ->
+                FileInputStream(databasePath).use { fi ->
+                    BufferedInputStream(fi).use { origin ->
+                        val entry = ZipEntry(databasePath)
+                        out.putNextEntry(entry)
+                        origin.copyTo(out, 1024)
+                    }
+                }
+            }
+        } catch (e: SQLException) {
+            e.printStackTrace()
         }
-        statement.executeBatch()
-        conn.close()
-      }
-
-      ZipOutputStream(BufferedOutputStream(FileOutputStream(zipname))).use { out ->
-        FileInputStream(databasename).use { fi ->
-          BufferedInputStream(fi).use { origin ->
-            val entry = ZipEntry(databasename)
-            out.putNextEntry(entry)
-            origin.copyTo(out, 1024)
-          }
-        }
-      }
-    } catch (e: SQLException) {
-      e.printStackTrace()
     }
-  }
 
-  companion object {
-    private const val SQL_INSERT = "INSERT INTO devices (name, codename, model) VALUES (?, ?, ?)"
-    private const val SQL_DROP = "DROP TABLE IF EXISTS devices;"
-    private const val SQL_CREATE = "CREATE TABLE devices (\n" +
-        "_id INTEGER PRIMARY KEY,\n" +
-        "name TEXT,\n" +
-        "codename TEXT,\n" +
-        "model TEXT\n" +
-        ");"
-  }
-
+    companion object {
+        private const val SQL_INSERT =
+            "INSERT INTO devices (name, codename, model) VALUES (?, ?, ?)"
+        private const val SQL_DROP = "DROP TABLE IF EXISTS devices;"
+        private const val SQL_CREATE = "CREATE TABLE devices (\n" +
+                "_id INTEGER PRIMARY KEY,\n" +
+                "name TEXT,\n" +
+                "codename TEXT,\n" +
+                "model TEXT\n" +
+                ");"
+    }
 }

@@ -23,4 +23,4 @@ dependencies {
   implementation deps.androidx.annotations
 }
 
-apply from: rootProject.file('gradle/maven-push.gradle')
+apply from: rootProject.file('scripts/publish-module.gradle')

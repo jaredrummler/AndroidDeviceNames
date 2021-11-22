@@ -1,15 +1,14 @@
 buildscript {
   // @formatter:off
   ext.buildConfig = [
-      compileSdk              : 29,
-      targetSdk               : 29,
+      compileSdk              : 30,
+      targetSdk               : 30,
       minSdk                  : 16,
-      buildTools              : '29.0.2',
-      gradlePlugin            : '3.5.3'
+      buildTools              : '31.0.0',
   ]
 
   ext.versions = [
-      kotlin                  : '1.3.70',
+      kotlin                  : '1.5.31',
       androidx                : '1.1.0',
       material                : '1.1.0',
       gson                    : '2.8.6',
@@ -18,7 +17,8 @@ buildscript {
       junit                   : '4.12',
       mockito_kotlin          : '2.0.0',
       mockito_core            : '2.23.4',
-      ktlint                  : '8.0.0'
+      ktlint                  : '8.0.0',
+      dokka                   : '1.4.32'
   ]
 
   ext.deps = [
@@ -45,18 +45,29 @@ buildscript {
 
   repositories {
     google()
-    jcenter()
+    mavenCentral()
   }
 
   dependencies {
-    classpath 'com.android.tools.build:gradle:3.6.1'
+    classpath 'com.android.tools.build:gradle:7.0.3'
     classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${versions.kotlin}"
+    classpath "org.jetbrains.dokka:dokka-gradle-plugin:${versions.dokka}"
+    classpath "io.github.gradle-nexus:publish-plugin:1.1.0"
   }
+}
+
+plugins {
+  id("io.github.gradle-nexus.publish-plugin") version "1.1.0"
+  id("org.jetbrains.dokka") version "1.4.32"
+  id("org.jlleitschuh.gradle.ktlint") version "9.4.0"
 }
 
 allprojects {
   repositories {
     google()
-    jcenter()
+    mavenCentral()
   }
 }
+
+apply plugin: 'io.github.gradle-nexus.publish-plugin'
+apply from: rootProject.file('scripts/publish-root.gradle')

@@ -1,7 +1,5 @@
 ########### Specifies intentionally untracked files to ignore ###########
 
-method.tmp
-
 ### Gradle
 .gradle/
 build/
