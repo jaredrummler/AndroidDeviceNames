@@ -20,15 +20,8 @@ class Generator {
   companion object {
     @JvmStatic
     fun main(args: Array<String>) {
-      // Get the devices supported by Google Play
-      val devices = Devices.get()
-      // Create the database
-      DatabaseGenerator(devices).generate()
-      // Generate all the JSON files
-      // https://github.com/jaredrummler/AndroidDeviceNames/issues/31
-      // JsonGenerator(devices).generate()
-      // Create the method used in DeviceName.java.
-      MethodGenerator(devices).generate()
+      // Get the devices supported by Google Play and create the database
+      DatabaseGenerator(Devices.get()).generate()
     }
   }
 }
