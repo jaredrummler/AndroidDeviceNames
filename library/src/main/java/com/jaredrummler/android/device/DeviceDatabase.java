@@ -105,7 +105,7 @@ public class DeviceDatabase extends SQLiteOpenHelper {
     } else if (!TextUtils.isEmpty(codename)) {
       selection = COLUMN_CODENAME + " LIKE ?";
       selectionArgs = new String[] { codename };
-    } else if (TextUtils.isEmpty(model)) {
+    } else if (!TextUtils.isEmpty(model)) {
       selection = COLUMN_MODEL + " LIKE ?";
       selectionArgs = new String[] { model };
     } else {
