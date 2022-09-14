@@ -24,6 +24,7 @@ public class DeviceDatabase extends SQLiteOpenHelper {
 
   private static final String TABLE_DEVICES = "devices";
 
+  private static final String COLUMN_MANUFACTURER = "manufacturer";
   private static final String COLUMN_NAME = "name";
   private static final String COLUMN_CODENAME = "codename";
   private static final String COLUMN_MODEL = "model";
@@ -95,7 +96,7 @@ public class DeviceDatabase extends SQLiteOpenHelper {
   public DeviceInfo queryToDevice(@Nullable String codename, @Nullable String model) {
     SQLiteDatabase database = getReadableDatabase();
 
-    String[] columns = new String[] { COLUMN_NAME, COLUMN_CODENAME, COLUMN_MODEL };
+    String[] columns = new String[] { COLUMN_MANUFACTURER ,COLUMN_NAME, COLUMN_CODENAME, COLUMN_MODEL };
     String selection;
     String[] selectionArgs;
 
@@ -118,10 +119,17 @@ public class DeviceDatabase extends SQLiteOpenHelper {
     DeviceInfo deviceInfo = null;
 
     if (cursor.moveToFirst()) {
+      String manufacturer = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_MANUFACTURER));
+      if (manufacturer == null){
+        manufacturer = Build.MANUFACTURER;
+      }
       String name = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_NAME));
+      if (name == null){
+        name = Build.MODEL;
+      }
       codename = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_CODENAME));
       model = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_MODEL));
-      deviceInfo = new DeviceInfo(name, codename, model);
+      deviceInfo = new DeviceInfo(manufacturer,name, codename, model);
     }
 
     close(cursor);
