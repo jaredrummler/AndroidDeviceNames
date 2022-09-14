@@ -120,13 +120,7 @@ public class DeviceDatabase extends SQLiteOpenHelper {
 
     if (cursor.moveToFirst()) {
       String manufacturer = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_MANUFACTURER));
-      if (manufacturer == null){
-        manufacturer = Build.MANUFACTURER;
-      }
       String name = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_NAME));
-      if (name == null){
-        name = Build.MODEL;
-      }
       codename = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_CODENAME));
       model = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_MODEL));
       deviceInfo = new DeviceInfo(manufacturer,name, codename, model);
