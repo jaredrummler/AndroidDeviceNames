@@ -24,7 +24,9 @@ import android.os.Build;
 import android.os.Handler;
 import android.os.Looper;
 import android.text.TextUtils;
+
 import androidx.annotation.WorkerThread;
+
 import org.json.JSONException;
 import org.json.JSONObject;
 
@@ -78,336 +80,372 @@ import org.json.JSONObject;
  */
 public class DeviceName {
 
-  // Preference filename for storing device info so we don't need to download it again.
-  private static final String SHARED_PREF_NAME = "device_names";
+    // Preference filename for storing device info so we don't need to download it again.
+    private static final String SHARED_PREF_NAME = "device_names";
 
-  @SuppressLint("StaticFieldLeak") // application context is safe
-  private static Context context;
+    @SuppressLint("StaticFieldLeak") // application context is safe
+    private static Context context;
 
-  /**
-   * Initialize DeviceName. This should be done in the application class.
-   */
-  public static void init(Context context) {
-    DeviceName.context = context.getApplicationContext();
-  }
-
-  /**
-   * Create a new request to get information about a device.
-   *
-   * @param context the application context
-   * @return a new Request instance.
-   */
-  public static Request with(Context context) {
-    return new Request(context.getApplicationContext());
-  }
-
-  /**
-   * Get the consumer friendly name of the device.
-   *
-   * @return the market name of the current device.
-   * @see #getDeviceName(String, String)
-   */
-  public static String getDeviceName() {
-    return getDeviceName(Build.DEVICE, Build.MODEL, capitalize(Build.MODEL));
-  }
-
-  /**
-   * Get the consumer friendly name of a device.
-   *
-   * @param codename the value of the system property "ro.product.device" ({@link Build#DEVICE})
-   * <i>or</i>
-   * the value of the system property "ro.product.model" ({@link Build#MODEL})
-   * @param fallback the fallback name if the device is unknown. Usually the value of the system
-   * property "ro.product.model" ({@link Build#MODEL})
-   * @return the market name of a device or {@code fallback} if the device is unknown.
-   */
-  public static String getDeviceName(String codename, String fallback) {
-    return getDeviceName(codename, codename, fallback);
-  }
-
-  /**
-   * Get the consumer friendly name of a device.
-   *
-   * @param codename the value of the system property "ro.product.device" ({@link Build#DEVICE}).
-   * @param model the value of the system property "ro.product.model" ({@link Build#MODEL}).
-   * @param fallback the fallback name if the device is unknown. Usually the value of the system
-   * property "ro.product.model" ({@link Build#MODEL})
-   * @return the market name of a device or {@code fallback} if the device is unknown.
-   */
-  public static String getDeviceName(String codename, String model, String fallback) {
-    String marketName = getDeviceInfo(context(), codename, model).marketName;
-    return marketName == null ? fallback : marketName;
-  }
-
-  /**
-   * Get the {@link DeviceInfo} for the current device. Do not run on the UI thread, as this may
-   * download JSON to retrieve the {@link DeviceInfo}. JSON is only downloaded once and then
-   * stored to {@link SharedPreferences}.
-   *
-   * @param context the application context.
-   * @return {@link DeviceInfo} for the current device.
-   */
-  @WorkerThread
-  public static DeviceInfo getDeviceInfo(Context context) {
-    return getDeviceInfo(context.getApplicationContext(), Build.DEVICE, Build.MODEL);
-  }
-
-  /**
-   * Get the {@link DeviceInfo} for the current device. Do not run on the UI thread, as this may
-   * download JSON to retrieve the {@link DeviceInfo}. JSON is only downloaded once and then
-   * stored to {@link SharedPreferences}.
-   *
-   * @param context the application context.
-   * @param codename the codename of the device
-   * @return {@link DeviceInfo} for the current device.
-   */
-  @WorkerThread
-  public static DeviceInfo getDeviceInfo(Context context, String codename) {
-    return getDeviceInfo(context, codename, null);
-  }
-
-  /**
-   * Get the {@link DeviceInfo} for the current device. Do not run on the UI thread, as this may
-   * download JSON to retrieve the {@link DeviceInfo}. JSON is only downloaded once and then
-   * stored to {@link SharedPreferences}.
-   *
-   * @param context the application context.
-   * @param codename the codename of the device
-   * @param model the model of the device
-   * @return {@link DeviceInfo} for the current device.
-   */
-  @WorkerThread
-  public static DeviceInfo getDeviceInfo(Context context, String codename, String model) {
-    SharedPreferences prefs = context.getSharedPreferences(SHARED_PREF_NAME, Context.MODE_PRIVATE);
-    String key = String.format("%s:%s", codename, model);
-    String savedJson = prefs.getString(key, null);
-    if (savedJson != null) {
-      try {
-        return new DeviceInfo(new JSONObject(savedJson));
-      } catch (JSONException e) {
-        e.printStackTrace();
-      }
-    }
-
-    try (DeviceDatabase database = new DeviceDatabase(context)) {
-      DeviceInfo info = database.queryToDevice(codename, model);
-      if (info != null) {
-        JSONObject json = new JSONObject();
-        json.put("manufacturer", info.manufacturer);
-        json.put("codename", info.codename);
-        json.put("model", info.model);
-        json.put("market_name", info.marketName);
-
-        SharedPreferences.Editor editor = prefs.edit();
-        editor.putString(key, json.toString());
-        editor.apply();
-        return info;
-      }
-    } catch (Exception e) {
-      e.printStackTrace();
-    }
-
-    if (codename.equals(Build.DEVICE) && Build.MODEL.equals(model)) {
-      return new DeviceInfo(Build.MANUFACTURER, codename, codename, model); // current device
-    }
-
-    return new DeviceInfo(null, null, codename, model); // unknown device
-  }
-
-  /**
-   * <p>Capitalizes getAllProcesses the whitespace separated words in a String. Only the first
-   * letter of each word is changed.</p>
-   *
-   * Whitespace is defined by {@link Character#isWhitespace(char)}.
-   *
-   * @param str the String to capitalize
-   * @return capitalized The capitalized String
-   */
-  private static String capitalize(String str) {
-    if (TextUtils.isEmpty(str)) {
-      return str;
-    }
-    char[] arr = str.toCharArray();
-    boolean capitalizeNext = true;
-    StringBuilder phrase = new StringBuilder();
-    for (char c : arr) {
-      if (capitalizeNext && Character.isLetter(c)) {
-        phrase.append(Character.toUpperCase(c));
-        capitalizeNext = false;
-        continue;
-      } else if (Character.isWhitespace(c)) {
-        capitalizeNext = true;
-      }
-      phrase.append(c);
-    }
-    return phrase.toString();
-  }
-
-  public static final class Request {
-
-    final Context context;
-    final Handler handler;
-    String codename;
-    String model;
-
-    private Request(Context ctx) {
-      context = ctx;
-      handler = new Handler(ctx.getMainLooper());
+    /**
+     * Initialize DeviceName. This should be done in the application class.
+     */
+    public static void init(Context context) {
+        DeviceName.context = context.getApplicationContext();
     }
 
     /**
-     * Set the device codename to query. You should also set the model.
+     * Create a new request to get information about a device.
      *
-     * @param codename the value of the system property "ro.product.device"
-     * @return This Request object to allow for chaining of calls to set methods.
-     * @see Build#DEVICE
+     * @param context the application context
+     * @return a new Request instance.
      */
-    public Request setCodename(String codename) {
-      this.codename = codename;
-      return this;
+    public static Request with(Context context) {
+        return new Request(context.getApplicationContext());
     }
 
     /**
-     * Set the device model to query. You should also set the codename.
+     * Get the consumer friendly name of the device.
      *
-     * @param model the value of the system property "ro.product.model"
-     * @return This Request object to allow for chaining of calls to set methods.
-     * @see Build#MODEL
+     * @return the market name of the current device.
+     * @see #getDeviceName(String, String)
      */
-    public Request setModel(String model) {
-      this.model = model;
-      return this;
+    public static String getDeviceName() {
+        return getDeviceName(Build.DEVICE, Build.MODEL, capitalize(Build.MODEL));
     }
 
     /**
-     * Download information about the device. This saves the results in shared-preferences so
-     * future requests will not need a network connection.
+     * Get the consumer friendly name of a device.
      *
-     * @param callback the callback to retrieve the {@link DeviceName.DeviceInfo}
+     * @param codename the value of the system property "ro.product.device" ({@link Build#DEVICE})
+     *                 <i>or</i>
+     *                 the value of the system property "ro.product.model" ({@link Build#MODEL})
+     * @param fallback the fallback name if the device is unknown. Usually the value of the system
+     *                 property "ro.product.model" ({@link Build#MODEL})
+     * @return the market name of a device or {@code fallback} if the device is unknown.
      */
-    public void request(Callback callback) {
-      if (codename == null && model == null) {
-        codename = Build.DEVICE;
-        model = Build.MODEL;
-      }
-      GetDeviceRunnable runnable = new GetDeviceRunnable(callback);
-      if (Looper.myLooper() == Looper.getMainLooper()) {
-        new Thread(runnable).start();
-      } else {
-        runnable.run(); // already running in background thread.
-      }
+    public static String getDeviceName(String codename, String fallback) {
+        return getDeviceName(codename, codename, fallback);
     }
 
-    private final class GetDeviceRunnable implements Runnable {
+    /**
+     * Get the consumer friendly name of a device.
+     *
+     * @param codename the value of the system property "ro.product.device" ({@link Build#DEVICE}).
+     * @param model    the value of the system property "ro.product.model" ({@link Build#MODEL}).
+     * @param fallback the fallback name if the device is unknown. Usually the value of the system
+     *                 property "ro.product.model" ({@link Build#MODEL})
+     * @return the market name of a device or {@code fallback} if the device is unknown.
+     */
+    public static String getDeviceName(String codename, String model, String fallback) {
+        String marketName = getDeviceInfo(context(), codename, model).marketName;
+        return marketName == null ? fallback : marketName;
+    }
 
-      final Callback callback;
-      DeviceInfo deviceInfo;
-      Exception error;
+    /**
+     * Get the {@link DeviceInfo} for the current device. Do not run on the UI thread, as this may
+     * download JSON to retrieve the {@link DeviceInfo}. JSON is only downloaded once and then
+     * stored to {@link SharedPreferences}.
+     *
+     * @param context the application context.
+     * @return {@link DeviceInfo} for the current device.
+     */
+    @WorkerThread
+    public static DeviceInfo getDeviceInfo(Context context) {
+        return getDeviceInfo(context.getApplicationContext(), Build.DEVICE, Build.MODEL);
+    }
 
-      GetDeviceRunnable(Callback callback) {
-        this.callback = callback;
-      }
+    public static String getDeviceFullName(Context context) {
+        DeviceInfo deviceInfo = getDeviceInfo(context.getApplicationContext(), Build.DEVICE, Build.MODEL);
+        return deviceInfo.manufacturer + " " + deviceInfo.marketName;
+    }
 
-      @Override
-      public void run() {
-        try {
-          deviceInfo = getDeviceInfo(context, codename, model);
-        } catch (Exception e) {
-          error = e;
+    /**
+     * Get the {@link DeviceInfo} for the current device. Do not run on the UI thread, as this may
+     * download JSON to retrieve the {@link DeviceInfo}. JSON is only downloaded once and then
+     * stored to {@link SharedPreferences}.
+     *
+     * @param context  the application context.
+     * @param codename the codename of the device
+     * @return {@link DeviceInfo} for the current device.
+     */
+    @WorkerThread
+    public static DeviceInfo getDeviceInfo(Context context, String codename) {
+        return getDeviceInfo(context, codename, null);
+    }
+
+    /**
+     * Get the {@link DeviceInfo} for the current device. Do not run on the UI thread, as this may
+     * download JSON to retrieve the {@link DeviceInfo}. JSON is only downloaded once and then
+     * stored to {@link SharedPreferences}.
+     *
+     * @param context  the application context.
+     * @param codename the codename of the device
+     * @param model    the model of the device
+     * @return {@link DeviceInfo} for the current device.
+     */
+    @WorkerThread
+    public static DeviceInfo getDeviceInfo(Context context, String codename, String model) {
+        SharedPreferences prefs = context.getSharedPreferences(SHARED_PREF_NAME, Context.MODE_PRIVATE);
+        String key = String.format("%s:%s", codename, model);
+        String savedJson = prefs.getString(key, null);
+        if (savedJson != null) {
+            try {
+                return new DeviceInfo(new JSONObject(savedJson));
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
         }
-        handler.post(new Runnable() {
 
-          @Override
-          public void run() {
-            callback.onFinished(deviceInfo, error);
-          }
-        });
-      }
+        try (DeviceDatabase database = new DeviceDatabase(context)) {
+            DeviceInfo info = database.queryToDevice(codename, model);
+            if (info != null) {
+                JSONObject json = new JSONObject();
+                if (info.manufacturer == null) {
+                    json.put("manufacturer", capitalize(Build.MANUFACTURER));
+                } else {
+                    json.put("manufacturer", info.manufacturer);
+                }
+                json.put("codename", info.codename);
+                json.put("model", info.model);
+                if (info.marketName == null) {
+                    json.put("market_name", capitalize(Build.MODEL));
+                } else {
+                    json.put("market_name", info.marketName);
+                }
+                SharedPreferences.Editor editor = prefs.edit();
+                editor.putString(key, json.toString());
+                editor.apply();
+                return info;
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        if (codename.equals(Build.DEVICE) && Build.MODEL.equals(model)) {
+            return new DeviceInfo(Build.MANUFACTURER, codename, codename, model); // current device
+        }
+
+        return new DeviceInfo(null, null, codename, model); // unknown device
     }
-  }
-
-  /**
-   * Callback which is invoked when the {@link DeviceName.DeviceInfo} is finished loading.
-   */
-  public interface Callback {
 
     /**
-     * Callback to get the device info. This is run on the UI thread.
+     * <p>Capitalizes getAllProcesses the whitespace separated words in a String. Only the first
+     * letter of each word is changed.</p>
+     * <p>
+     * Whitespace is defined by {@link Character#isWhitespace(char)}.
      *
-     * @param info the requested {@link DeviceName.DeviceInfo}
-     * @param error {@code null} if nothing went wrong.
+     * @param str the String to capitalize
+     * @return capitalized The capitalized String
      */
-    void onFinished(DeviceInfo info, Exception error);
-  }
-
-  /**
-   * Device information based on
-   * <a href="https://support.google.com/googleplay/answer/1727131">Google's maintained list</a>.
-   */
-  public static final class DeviceInfo {
-
-    /** Retail branding */
-    @Deprecated
-    public final String manufacturer;
-
-    /** Marketing name */
-    public final String marketName;
-
-    /** the value of the system property "ro.product.device" */
-    public final String codename;
-
-    /** the value of the system property "ro.product.model" */
-    public final String model;
-
-    public DeviceInfo(String marketName, String codename, String model) {
-      this(null, marketName, codename, model);
+    private static String capitalize(String str) {
+        if (TextUtils.isEmpty(str)) {
+            return str;
+        }
+        char[] arr = str.toCharArray();
+        boolean capitalizeNext = true;
+        StringBuilder phrase = new StringBuilder();
+        for (char c : arr) {
+            if (capitalizeNext && Character.isLetter(c)) {
+                phrase.append(Character.toUpperCase(c));
+                capitalizeNext = false;
+                continue;
+            } else if (Character.isWhitespace(c)) {
+                capitalizeNext = true;
+            }
+            phrase.append(c);
+        }
+        return phrase.toString();
     }
 
-    public DeviceInfo(String manufacturer, String marketName, String codename, String model) {
-      this.manufacturer = manufacturer;
-      this.marketName = marketName;
-      this.codename = codename;
-      this.model = model;
-    }
+    public static final class Request {
 
-    private DeviceInfo(JSONObject jsonObject) throws JSONException {
-      manufacturer = jsonObject.getString("manufacturer");
-      marketName = jsonObject.getString("market_name");
-      codename = jsonObject.getString("codename");
-      model = jsonObject.getString("model");
+        final Context context;
+        final Handler handler;
+        String codename;
+        String model;
+
+        private Request(Context ctx) {
+            context = ctx;
+            handler = new Handler(ctx.getMainLooper());
+        }
+
+        /**
+         * Set the device codename to query. You should also set the model.
+         *
+         * @param codename the value of the system property "ro.product.device"
+         * @return This Request object to allow for chaining of calls to set methods.
+         * @see Build#DEVICE
+         */
+        public Request setCodename(String codename) {
+            this.codename = codename;
+            return this;
+        }
+
+        /**
+         * Set the device model to query. You should also set the codename.
+         *
+         * @param model the value of the system property "ro.product.model"
+         * @return This Request object to allow for chaining of calls to set methods.
+         * @see Build#MODEL
+         */
+        public Request setModel(String model) {
+            this.model = model;
+            return this;
+        }
+
+        /**
+         * Download information about the device. This saves the results in shared-preferences so
+         * future requests will not need a network connection.
+         *
+         * @param callback the callback to retrieve the {@link DeviceName.DeviceInfo}
+         */
+        public void request(Callback callback) {
+            if (codename == null && model == null) {
+                codename = Build.DEVICE;
+                model = Build.MODEL;
+            }
+            GetDeviceRunnable runnable = new GetDeviceRunnable(callback);
+            if (Looper.myLooper() == Looper.getMainLooper()) {
+                new Thread(runnable).start();
+            } else {
+                runnable.run(); // already running in background thread.
+            }
+        }
+
+        private final class GetDeviceRunnable implements Runnable {
+
+            final Callback callback;
+            DeviceInfo deviceInfo;
+            Exception error;
+
+            GetDeviceRunnable(Callback callback) {
+                this.callback = callback;
+            }
+
+            @Override
+            public void run() {
+                try {
+                    deviceInfo = getDeviceInfo(context, codename, model);
+                } catch (Exception e) {
+                    error = e;
+                }
+                handler.post(new Runnable() {
+
+                    @Override
+                    public void run() {
+                        callback.onFinished(deviceInfo, error);
+                    }
+                });
+            }
+        }
     }
 
     /**
-     * @return the consumer friendly name of the device.
+     * Callback which is invoked when the {@link DeviceName.DeviceInfo} is finished loading.
      */
-    public String getName() {
-      if (!TextUtils.isEmpty(marketName)) {
-        return marketName;
-      }
-      return capitalize(model);
-    }
-  }
+    public interface Callback {
 
-  @SuppressLint("PrivateApi")
-  private static Context context() {
-    if (context != null) return context;
-
-    // We didn't use to require holding onto the application context so let's cheat a little.
-    try {
-      return (Application) Class.forName("android.app.ActivityThread")
-          .getMethod("currentApplication")
-          .invoke(null, (Object[]) null);
-    } catch (Exception ignored) {
+        /**
+         * Callback to get the device info. This is run on the UI thread.
+         *
+         * @param info  the requested {@link DeviceName.DeviceInfo}
+         * @param error {@code null} if nothing went wrong.
+         */
+        void onFinished(DeviceInfo info, Exception error);
     }
 
-    // Last attempt at hackery
-    try {
-      return (Application) Class.forName("android.app.AppGlobals")
-          .getMethod("getInitialApplication")
-          .invoke(null, (Object[]) null);
-    } catch (Exception ignored) {
+    /**
+     * Device information based on
+     * <a href="https://support.google.com/googleplay/answer/1727131">Google's maintained list</a>.
+     */
+    public static final class DeviceInfo {
+
+        /**
+         * Retail branding
+         */
+        @Deprecated
+        public final String manufacturer;
+
+        /**
+         * Marketing name
+         */
+        public final String marketName;
+
+        /**
+         * the value of the system property "ro.product.device"
+         */
+        public final String codename;
+
+        /**
+         * the value of the system property "ro.product.model"
+         */
+        public final String model;
+
+        public DeviceInfo(String marketName, String codename, String model) {
+            this(null, marketName, codename, model);
+        }
+
+        public DeviceInfo(String manufacturer, String marketName, String codename, String model) {
+            this.manufacturer = manufacturer;
+            this.marketName = marketName;
+            this.codename = codename;
+            this.model = model;
+        }
+
+        private DeviceInfo(JSONObject jsonObject) throws JSONException {
+            if (jsonObject.has("manufacturer")) {
+                manufacturer = jsonObject.getString("manufacturer");
+            }else {
+                manufacturer = null;
+            }
+            if (jsonObject.has("market_name")) {
+                marketName = jsonObject.getString("market_name");
+            }else {
+                marketName = null;
+            }
+            if (jsonObject.has("codename")) {
+                codename = jsonObject.getString("codename");
+            }else {
+                codename = null;
+            }
+            if (jsonObject.has("model")) {
+                model = jsonObject.getString("model");
+            }else {
+                model = null;
+            }
+        }
+
+        /**
+         * @return the consumer friendly name of the device.
+         */
+        public String getName() {
+            if (!TextUtils.isEmpty(marketName)) {
+                return marketName;
+            }
+            return capitalize(model);
+        }
     }
 
-    throw new RuntimeException("DeviceName must be initialized before usage.");
-  }
+    @SuppressLint("PrivateApi")
+    private static Context context() {
+        if (context != null) return context;
+
+        // We didn't use to require holding onto the application context so let's cheat a little.
+        try {
+            return (Application) Class.forName("android.app.ActivityThread")
+                    .getMethod("currentApplication")
+                    .invoke(null, (Object[]) null);
+        } catch (Exception ignored) {
+        }
+
+        // Last attempt at hackery
+        try {
+            return (Application) Class.forName("android.app.AppGlobals")
+                    .getMethod("getInitialApplication")
+                    .invoke(null, (Object[]) null);
+        } catch (Exception ignored) {
+        }
+
+        throw new RuntimeException("DeviceName must be initialized before usage.");
+    }
 }

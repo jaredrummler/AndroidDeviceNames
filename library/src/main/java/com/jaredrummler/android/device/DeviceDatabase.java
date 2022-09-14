@@ -24,6 +24,7 @@ public class DeviceDatabase extends SQLiteOpenHelper {
 
   private static final String TABLE_DEVICES = "devices";
 
+  private static final String COLUMN_MANUFACTURER = "manufacturer";
   private static final String COLUMN_NAME = "name";
   private static final String COLUMN_CODENAME = "codename";
   private static final String COLUMN_MODEL = "model";
@@ -58,7 +59,7 @@ public class DeviceDatabase extends SQLiteOpenHelper {
     String selection;
     String[] selectionArgs;
     if (codename != null && model != null) {
-      selection = COLUMN_CODENAME + " LIKE ? OR " + COLUMN_MODEL + " LIKE ?";
+      selection = COLUMN_CODENAME + " LIKE ? AND " + COLUMN_MODEL + " LIKE ?";
       selectionArgs = new String[] { codename, model };
     } else if (codename != null) {
       selection = COLUMN_CODENAME + " LIKE ?";
@@ -95,17 +96,17 @@ public class DeviceDatabase extends SQLiteOpenHelper {
   public DeviceInfo queryToDevice(@Nullable String codename, @Nullable String model) {
     SQLiteDatabase database = getReadableDatabase();
 
-    String[] columns = new String[] { COLUMN_NAME, COLUMN_CODENAME, COLUMN_MODEL };
+    String[] columns = new String[] { COLUMN_MANUFACTURER ,COLUMN_NAME, COLUMN_CODENAME, COLUMN_MODEL };
     String selection;
     String[] selectionArgs;
 
     if (!TextUtils.isEmpty(codename) && !TextUtils.isEmpty(model)) {
-      selection = COLUMN_CODENAME + " LIKE ? OR " + COLUMN_MODEL + " LIKE ?";
+      selection = COLUMN_CODENAME + " LIKE ? AND " + COLUMN_MODEL + " LIKE ?";
       selectionArgs = new String[] { codename, model };
     } else if (!TextUtils.isEmpty(codename)) {
       selection = COLUMN_CODENAME + " LIKE ?";
       selectionArgs = new String[] { codename };
-    } else if (TextUtils.isEmpty(model)) {
+    } else if (!TextUtils.isEmpty(model)) {
       selection = COLUMN_MODEL + " LIKE ?";
       selectionArgs = new String[] { model };
     } else {
@@ -118,10 +119,11 @@ public class DeviceDatabase extends SQLiteOpenHelper {
     DeviceInfo deviceInfo = null;
 
     if (cursor.moveToFirst()) {
+      String manufacturer = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_MANUFACTURER));
       String name = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_NAME));
       codename = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_CODENAME));
       model = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_MODEL));
-      deviceInfo = new DeviceInfo(name, codename, model);
+      deviceInfo = new DeviceInfo(manufacturer,name, codename, model);
     }
 
     close(cursor);

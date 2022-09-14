@@ -43,9 +43,10 @@ class DatabaseGenerator(
                 conn.createStatement().execute(SQL_CREATE)
                 val statement = conn.prepareStatement(SQL_INSERT)
                 devices.forEach { device ->
-                    statement.setString(1, device.marketName)
-                    statement.setString(2, device.codename)
-                    statement.setString(3, device.model)
+                    statement.setString(1, device.manufacturer)
+                    statement.setString(2, device.marketName)
+                    statement.setString(3, device.codename)
+                    statement.setString(4, device.model)
                     statement.addBatch()
                 }
                 statement.executeBatch()
@@ -68,10 +69,11 @@ class DatabaseGenerator(
 
     companion object {
         private const val SQL_INSERT =
-            "INSERT INTO devices (name, codename, model) VALUES (?, ?, ?)"
+            "INSERT INTO devices (manufacturer, name, codename, model) VALUES (? ,?, ?, ?)"
         private const val SQL_DROP = "DROP TABLE IF EXISTS devices;"
         private const val SQL_CREATE = "CREATE TABLE devices (\n" +
                 "_id INTEGER PRIMARY KEY,\n" +
+                "manufacturer TEXT,\n" +
                 "name TEXT,\n" +
                 "codename TEXT,\n" +
                 "model TEXT\n" +
