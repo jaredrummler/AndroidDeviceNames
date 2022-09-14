@@ -58,7 +58,7 @@ public class DeviceDatabase extends SQLiteOpenHelper {
     String selection;
     String[] selectionArgs;
     if (codename != null && model != null) {
-      selection = COLUMN_CODENAME + " LIKE ? OR " + COLUMN_MODEL + " LIKE ?";
+      selection = COLUMN_CODENAME + " LIKE ? AND " + COLUMN_MODEL + " LIKE ?";
       selectionArgs = new String[] { codename, model };
     } else if (codename != null) {
       selection = COLUMN_CODENAME + " LIKE ?";
@@ -100,7 +100,7 @@ public class DeviceDatabase extends SQLiteOpenHelper {
     String[] selectionArgs;
 
     if (!TextUtils.isEmpty(codename) && !TextUtils.isEmpty(model)) {
-      selection = COLUMN_CODENAME + " LIKE ? OR " + COLUMN_MODEL + " LIKE ?";
+      selection = COLUMN_CODENAME + " LIKE ? AND " + COLUMN_MODEL + " LIKE ?";
       selectionArgs = new String[] { codename, model };
     } else if (!TextUtils.isEmpty(codename)) {
       selection = COLUMN_CODENAME + " LIKE ?";
