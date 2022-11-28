@@ -31,7 +31,7 @@ artifacts {
 }
 
 group = "com.jaredrummler"
-version = "2.1.0"
+version = "2.1.1"
 
 afterEvaluate {
     publishing {
@@ -40,7 +40,7 @@ afterEvaluate {
                 // The coordinates of the library, being set from variables, setup below.
                 groupId "com.jaredrummler"
                 artifactId "android-device-names"
-                version "2.1.0"
+                version "2.1.1"
 
                 // Two artifacts, the `aar` (or `jar`) and the sources
                 if (project.plugins.findPlugin("com.android.library")) {
