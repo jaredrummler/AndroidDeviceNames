@@ -17,6 +17,7 @@ android {
   testOptions {
     unitTests.returnDefaultValues = true
   }
+  namespace 'com.jaredrummler.android.device'
 }
 
 dependencies {

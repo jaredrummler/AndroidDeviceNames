@@ -17,6 +17,7 @@ android {
       proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
     }
   }
+    namespace 'com.jaredrummler.android.devicenames'
 }
 
 dependencies {
