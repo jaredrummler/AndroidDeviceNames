@@ -30,7 +30,7 @@ public class DeviceDatabase extends SQLiteOpenHelper {
   private static final String COLUMN_MODEL = "model";
 
   private static final String NAME = "android-devices.db";
-  private static final int VERSION = 1;
+  private static final int VERSION = 2;
 
   private final File file;
   private final Context context;

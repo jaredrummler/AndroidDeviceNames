@@ -40,7 +40,9 @@ class DatabaseGenerator(
 
             DriverManager.getConnection(url)?.let { conn ->
                 conn.createStatement().execute(SQL_DROP)
+                conn.createStatement().execute(SQL_ANDROID_METADATA_TABLE_DROP)
                 conn.createStatement().execute(SQL_CREATE)
+                conn.createStatement().execute(SQL_ANDROID_METADATA_TABLE)
                 val statement = conn.prepareStatement(SQL_INSERT)
                 devices.forEach { device ->
                     statement.setString(1, device.manufacturer)
@@ -71,6 +73,7 @@ class DatabaseGenerator(
         private const val SQL_INSERT =
             "INSERT INTO devices (manufacturer, name, codename, model) VALUES (? ,?, ?, ?)"
         private const val SQL_DROP = "DROP TABLE IF EXISTS devices;"
+        private const val SQL_ANDROID_METADATA_TABLE_DROP = "DROP TABLE IF EXISTS android_metadata;"
         private const val SQL_CREATE = "CREATE TABLE devices (\n" +
                 "_id INTEGER PRIMARY KEY,\n" +
                 "manufacturer TEXT,\n" +
@@ -78,5 +81,6 @@ class DatabaseGenerator(
                 "codename TEXT,\n" +
                 "model TEXT\n" +
                 ");"
+        private const val SQL_ANDROID_METADATA_TABLE = "CREATE TABLE \"android_metadata\" (\"locale\" TEXT DEFAULT 'en_US');"
     }
 }
